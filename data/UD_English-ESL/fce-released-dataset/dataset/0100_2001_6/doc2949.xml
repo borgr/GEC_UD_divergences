@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE7*0100*2001*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing with reference to your last letter concerning the international student conference in our college. I <NS type="TV"><i>would</i><c>will</c></NS> <NS type="RV"><i>get</i><c>give</c></NS> you the information you <NS type="TV"><i>are requested</i><c>have requested</c></NS>.</p>
+          <p>First of all, we have booked the Palace Hotel for your group. This hotel is quiet and near the conference building. However, I would suggest going by bus from the hotel to the conference because this is the most convenient form of transport. Furthermore, as <NS type="DJ"><i>usually</i><c>usual</c></NS>, we <NS type="TV"><i>would</i><c>will</c></NS> organise a party at the end of the conference, therefore, it would be great if your students <NS type="TV"><i>wear</i><c>wore</c></NS> a suit (for <NS type="MD"><c>a</c></NS> man) or a skirt (for <NS type="MD"><c>a</c></NS> woman). Furthermore, this party <NS type="TV"><i>would</i><c>will</c></NS> be in your hotel <NS type="RT"><i>like</i><c>as</c></NS> <NS type="MT"><c>in</c></NS> the <NS type="RJ"><i>following</i><c>previous</c></NS> years. Finally, there are a lot of <NS type="AGN"><i><NS type="S"><i>mouseum</i><c>museum</c></NS></i><c>museums</c></NS> <NS type="R"><i>is</i><c>in</c></NS> our town<NS type="RP"><i>, therefore</i><c>. Therefore</c></NS>, I would suggest going to the frogs museum<NS type="MP"><c>,</c></NS> which is really <NS type="S"><i>fashinating</i><c>fascinating</c></NS>.</p>
+          <p>Don't hesitate to contact me if you need any further information.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>from:</p>
+          <p>for: the group leader.</p>
+          <p>subject: <NS type="S"><i>Arboriginal</i><c>Aboriginal</c></NS> Art Museum.</p>
+          <p>The aim of this report is <NS type="UV"><i>intended</i></NS> to <NS type="S"><i>discribe</i><c>describe</c></NS> the biggest building of our town. I am in a position to choose a good building which students like myself are interested in.</p>
+          <p>a) <NS type="RP"><i>this</i><c>This</c></NS> museum <NS type="RV"><i>presents</i><c>exhibits</c></NS> more than 200000 original art pictures.</p>
+          <p>b) The building <NS type="TV"><i>has been</i><c>was</c></NS> <NS type="S"><i>buit</i><c>built</c></NS> in 1999<NS type="RP"><i>, therefore</i><c>. Therefore</c></NS>, it is <NS type="M"><i>a</i><c>an example of</c></NS> modern architecture.</p>
+          <p>c) This building is as high as the Eiffel <NS type="RN"><i>Tour</i><c>Tower</c></NS> in Paris.</p>
+          <p>d) This building <NS type="RV"><NS type="TV"><i>is included</i><c>includes</c></NS></NS><NS type="UP"><i>:</i></NS> 30 toilets, <NS type="RP"><i>500'000</i><c>500,000</c></NS> lights, and also 100 people <NS type="AGA"><i>whom</i><c>who</c></NS> can help you if you need any information.</p>
+          <p>I would suggest this place because it is interesting to discover the <NS type="RJ"><i>eldest</i><c>oldest</c></NS> civilisation <NS type="RT"><i>of</i><c>in</c></NS> the world in one of the <NS type="IJ"><i>modernest</i><c>most modern</c></NS> <NS type="AGN"><i>building</i><c>buildings</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

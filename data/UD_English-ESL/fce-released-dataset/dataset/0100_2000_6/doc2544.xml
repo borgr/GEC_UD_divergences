@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1033*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>Thank you very much for your letter. I'm very <NS type="DJ"><i>surprise</i><c>surprised</c></NS><NS type="UP"><i>,</i></NS> to <NS type="FV"><i>won</i><c>win</c></NS> this prize. About the information, I <NS type="MV"><c>would</c></NS> like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because it's only the month <NS type="MC"><c>when</c></NS> I have <NS type="MD"><c>a</c></NS> vacation. It's very difficult to change it. About the accommodation at Camp California<NS type="MP"><c>,</c></NS> I <NS type="TV"><i>will</i><c>would</c></NS> prefer tents because I like the <NS type="RN"><i>nature</i><c>countryside</c></NS> and I like to listen <NS type="MT"><c>to</c></NS> the birds. At the camp I <NS type="TV"><i>will</i><c>would</c></NS> like to <NS type="RV"><i>practise</i><c>play</c></NS> tennis and golf. My level in <NS type="AGD"><i>this</i><c>these</c></NS> two activities is medium<NS type="RP"><i>,</i><c>.</c></NS> I never <NS type="RV">practise</NS> them <NS type="AGA"><i>all</i><c>both</c></NS>. I would like to ask you some <NS type="FN"><i>question</i><c>questions</c></NS>.</p>
+          <p>How <NS type="CQ"><i>many</i><c>much</c></NS> money <NS type="AS"><i>take us</i><c>should we take</c></NS>? <NS type="RP"><i>or</i><c>Or</c></NS> <NS type="M"><i>is</i><c>isn't it</c></NS> necessary?</p>
+          <p>What <NS type="RN"><i>can</i><c>kind</c></NS> of clothes <NS type="R">met it</NS>?</p>
+          <p><NS type="R">In the first prize you <NS type="TV"><i>including</i><c>include</c></NS> a second person like my husband?</NS></p>
+          <p><NS type="W"><i>It's</i><c>Is it</c></NS> necessary <NS type="W"><i>for the activities to wear special clothes</i><c>to wear special clothes for the activities</c></NS>?</p>
+          <p>Thank you <NS type="RY"><i>another time</i><c>again</c></NS> for this first prize <NS type="MT"><c>of</c></NS> two weeks at Camp California in the U.S.A. I'm very happy.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable. Last weekend I went to Barcelona with some friends to shop. When we arrived <NS type="RT"><i>to</i><c>at</c></NS> the shopping <NS type="SA"><i>center</i><c>centre</c></NS>, I saw a lot of people. I don't understand why <NS type="RA"><i>they</i><c>there</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> a lot of people. My friends and I<NS type="U"><i>, I</i></NS> went to a <NS type="RN"><i>fashion</i><c>clothes</c></NS> shop <NS type="MP"><c>-</c></NS> "Mango" <NS type="MP"><c>-</c></NS> to buy some clothes. Nobody <NS type="RT"><i>at</i><c>in</c></NS> the shop came with us to help. There <NS type="TV"><i>are</i><c>were</c></NS> four <NS type="RN"><i>gays</i><c>guys</c></NS>, in this shop. We asked them if <NS type="RA"><i>someone</i><c>one</c></NS> of them <NS type="MV"><c>could</c></NS> help us. Finally, a <NS type="W"><i>girl very friendly</i><c>very friendly girl</c></NS> came with us. We bought some trousers, tee-shirts, and one pair of shoes. My friends bought some things like <NS type="UD"><i>a</i></NS> red trousers and white tee-shirts. After this, we returned to Andorra. But <NS type="W"><i>not always it's</i><c>it's not always</c></NS> the same <NS type="RN"><i>history</i><c>story</c></NS> because I like shopping and I think I'm <NS type="RJ"><NS type="DJ"><i>enjoy</i><c>enjoyable</c></NS></NS>. <NS type="X"><i>Not all the time the people are not friendly in the shops</i><c>The people in the shops are not unfriendly all the time</c></NS>. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1057*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/<NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p>I'm <NS type="S"><i>writeng</i><c>writing</c></NS> with reference to your letter. <NS type="UV"><i>I've</i><c>I</c></NS> <NS type="TV"><i>being</i><c>was</c></NS> <NS type="RY"><i>very</i><c>really</c></NS> thrilled, when <NS type="UV"><i>I've</i><c>I</c></NS> <NS type="RV"><i>known</i><c>found out</c></NS><NS type="UP"><i>,</i></NS> that I won first prize in your competition. I always dreamed about going to <NS type="UD"><i>the</i></NS> California and now my dreams are coming <NS type="DJ"><i>truth</i><c>true</c></NS>.</p>
+          <p>If it's possible, I would <NS type="W"><i>like to travel only</i><c>only like to travel</c></NS> <NS type="MT"><c>in</c></NS> July, because my school won't be finished earlier. I couldn't go <NS type="MT"><c>in</c></NS> August, either, because I promised to go to Masurian Lakes with my friends.</p>
+          <p>If I had a choice, I would prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> tent then in a log cabin. I can't imagine real holidays without a tent. It's one of the most important things for me, to have a chance to forget about all my present, luxurious life and try doing something different.</p>
+          <p>I would be very grateful, if you gave me <NS type="RD"><i>a</i><c>the</c></NS> possibility of singing. I've always wanted to learn <NS type="FV"><i>singing</i><c>to sing</c></NS> <NS type="DY"><i>professionaly</i><c>professionally</c></NS>, but I've never had an <NS type="RN"><i>occasion</i><c>opportunity</c></NS>. I'm very keen on swimming, too. Normally, I live <NS type="RT"><i>in</i><c>by</c></NS> the seaside and I couldn't live without this sport. Last year I was even champion of my school in crawl for one hundred meters. <NS type="UN"><i>distance.</i></NS></p>
+          <p>I would like to ask you<NS type="MP"><c>,</c></NS> what clothes should I take with me? My mother told me, that when she <NS type="TV"><i>had been</i><c>was</c></NS> there two years ago it was really hot. Should I take with me a lot of money? You know, I'm only a student.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+          <p>Halina Lipnicka</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Hallo, Kim!</p>
+          <p>Thanks for your last letter. I'm sorry I haven't <NS type="RV"><i>rewritten</i><c>replied</c></NS> sooner, but I was very busy. I must tell you that helping at pop concerts is very exciting, but very tiring too, so I had to rest.</p>
+          <p>You asked me about my experiences. Well, it was the best time of my life! I worked all <NS type="FN"><i>days</i><c>day</c></NS>, but I did it with pleasure. <NS type="R">We lived here in rush,</NS> but there was a lot of fun, too. I was very surprised, when I saw that singers aren't so sophisticated and self-confident as they are <NS type="RV"><i>written</i><c>described</c></NS> in the newspapers.</p>
+          <p>One day I was talking to Stenkovska, because I had to go to buy something to eat for everyone, so I <NS type="RV"><i>should</i><c>had to</c></NS> ask her what <NS type="UV"><i>did</i></NS> she <NS type="TV"><i>want</i><c>wanted</c></NS>. When she tried to <NS type="S"><i>answear</i><c>answer</c></NS> me, one small child <NS type="RV"><i>made</i><c>took</c></NS> her <NS type="UD"><i>a</i></NS> picture with <NS type="MD"><c>a</c></NS> <NS type="RN"><i>flesh</i><c>flash</c></NS>. Imagine, she <NS type="AGV"><i>weren't</i><c>wasn't</c></NS> angry! She said he should do it again, because she had stupid features! If I were <NS type="RA"><i>she</i><c>her</c></NS>, I would kill that boy, but she was nice!</p>
+          <p><NS type="DY"><i>Trully</i><c>Truly</c></NS>, my work here wasn't very important, but I <NS type="S"><i>relly</i><c>really</c></NS> enjoyed it. I've met <NS type="W"><i>here so many new people</i><c>so many new people here</c></NS>! <NS type="R">Sometimes somebody should on me,</NS> but I have to say they are often right. Well, I made <NS type="MD"><c>a</c></NS> couple <NS type="MT"><c>of</c></NS> mistakes. The hardest was, when I brought a pepperoni pizza for kubulska, but she doesn't eat meat!</p>
+          <p>But, <NS type="DY"><i>for luck</i><c>luckily</c></NS>, <NS type="R">it wasn't achieved with <NS type="S"><i>succes</i><c>success</c></NS> of our concert</NS>. You have to admit, that the show was magnificent. I hope you had <NS type="UD"><i>a</i></NS> great fun when you <NS type="AGV"><i>was</i><c>were</c></NS> watching us <NS type="RT"><i>at</i><c>on</c></NS> the TV set, <NS type="UY"><i>didn't</i><c>did</c></NS> you?</p>
+          <p>O.K. That's all for today. I'll write <NS type="MT"><c>to</c></NS> you again tomorrow, because now my Mom is angry, the <NS type="UP"><i>I'am</i><c>I am</c></NS> not sleeping yet. Write soon! I <NS type="UY"><i>can't</i><c>can</c></NS> hardly wait. Give my best to your parents.</p>
+          <p>Hugs and kisses</p>
+          <p>Halina.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

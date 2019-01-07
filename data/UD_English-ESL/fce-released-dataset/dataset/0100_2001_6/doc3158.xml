@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE69*0100*2001*01">
+  <candidate><personnel><language>Russian</language><age>31-40</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>I was delighted to receive your letter and to know that a group of students from your college have decided to take <NS type="UD"><i>a</i></NS> part in our international student conference.</p>
+          <p>As you need more information, I <NS type="TV"><i>answer</i><c>will answer</c></NS> all your questions with <NS type="S"><i>plesuare</i><c>pleasure</c></NS>. Firstly, the Palace Hotel has been booked for your group. It is one of the most comfortable hotels in our <NS type="S"><i>sity</i><c>city</c></NS> and situated only half a mile from <NS type="MD"><c>the</c></NS> main building of our college, so it is very simple to get from there to the conference by foot.</p>
+          <p>Secondly, our end-of-conference party <NS type="TV"><i>is included</i><c>includes</c></NS> dinner and dancing<NS type="RP"><i>,</i><c>.</c></NS> I would advise you to wear something not very formal.</p>
+          <p>Finally, you can spend an afternoon on the last day visiting local <NS type="RJ"><i>historical</i><c>historic</c></NS> places (castles<NS type="UP"><i>,</i></NS> <NS type="IV"><i>builded</i><c>built</c></NS> in <NS type="MD"><c>the</c></NS> <NS type="UP"><i>13-th</i><c>13th</c></NS> century) or art <NS type="FN"><i>gallery</i><c>galleries</c></NS>, as well as <NS type="MD"><c>the</c></NS> <NS type="S"><i>beatiful</i><c>beautiful</c></NS> Bodnant <NS type="RP"><i>garden</i><c>Garden</c></NS>.</p>
+          <p>I am looking forward to the meeting with you and <NS type="MD"><c>our</c></NS> <NS type="RJ"><i>mutual</i><c>shared</c></NS> work during conference.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>There are many different people's inventions around us. We are so used to them<NS type="UP"><i>,</i></NS> that sometimes <NS type="MA"><c>we</c></NS> think they <NS type="W"><i>existed always</i><c>always existed</c></NS>. Some of them are very practical, <NS type="FA"><i>other</i><c>others</c></NS> are rather strange.</p>
+          <p>I <NS type="SX"><i>thing</i><c>think</c></NS><NS type="UP"><i>,</i></NS> that one of the most <NS type="S"><i>importent</i><c>important</c></NS> <NS type="UC"><i>and</i></NS> <NS type="W"><i>affecting our life inventions</i><c>inventions affecting our life</c></NS> is the telephone.</p>
+          <p>Imagine life without <NS type="MD"><c>a</c></NS> phone. You are on the road, you have <NS type="MD"><c>a</c></NS> car accident. What are you going to do without <NS type="MD"><c>a</c></NS> phone? <NS type="RT"><i>On</i><c>In</c></NS> another situation, your son is ill, he needs help urgently. I am sure<NS type="UP"><i>,</i></NS> the phone has saved many <NS type="IN"><i>lifes</i><c>lives</c></NS>. Besides, it is always very nice to ring your friend or mum, only <NS type="UT"><i>for</i></NS> <NS type="FV"><i><NS type="IV"><i>chating</i><c>chatting</c></NS></i><c>to chat</c></NS> <NS type="R">in any time</NS>. Thanks <NS type="MT"><c>to</c></NS> the phone, it is possible <NS type="R"><i>even your <NS type="SA"><i>mam</i><c>mum</c></NS></i><c>to speak to your mum even when she</c></NS> is <NS type="RT"><i>on</i><c>at</c></NS> the other end of the Earth.</p>
+          <p>To be honest, <NS type="MD"><c>the</c></NS> next <NS type="FJ"><i>great</i><c>greatest</c></NS> invention of <NS type="RN"><i>people</i><c>mankind</c></NS>, <NS type="MD"><c>the</c></NS> computer, can't work<NS type="UP"><i>,</i></NS> if you haven't got the phone. So I am very grateful to <NS type="MD"><c>the</c></NS> man<NS type="UP"><i>,</i></NS> who invented it<NS type="RP"><i>, <NS type="S"><i>unfornutely</i><c>unfortunately</c></NS></i><c>. Unfortunately</c></NS>, I have forgotten his name. It always happens with people, doesn't <NS type="MA"><c>it</c></NS>? Try <NS type="FV"><i>to ask</i><c>asking</c></NS> who invented the <NS type="RN"><i>will</i><c>wheel</c></NS> or the book.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

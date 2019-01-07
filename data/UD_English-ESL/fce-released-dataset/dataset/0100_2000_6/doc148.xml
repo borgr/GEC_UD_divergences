@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR576*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13th june 2000</p>
+          <p>Dear Ms Ryam,</p>
+          <p>I was very happy to receive your letter since I was eager to spend some time in the USA.</p>
+          <p>I would like to reach the camp in <NS type="RP"><i>july</i><c>July</c></NS>, and spend there the last two weeks of the month because in August I must start studying for my examinations.</p>
+          <p>As to <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would like to choose a tent because I am used to travelling with my sleeping bag and my tent all over Europe.</p>
+          <p>As far as activities are concerned I would prefer <NS type="RP"><i>Basketball and Climbing</i><c>basketball and climbing</c></NS>. I am very good at basketball, and even if I am not a tall boy, I am a good <NS type="DN"><i>playmaker</i><c>player</c></NS> and I play in a local team. As to climbing I am <NS type="RY"><i>almost</i><c>quite</c></NS> inexperienced but I would like to improve.</p>
+          <p>I would like to ask you <NS type="MT"><c>about</c></NS> some other things. <NS type="RQ"><i>Which</i><c>What</c></NS> kind of clothes <NS type="RV"><i>have</i><c>should</c></NS> I <NS type="FV"><i>to put</i><c>put</c></NS> in my case? I would like to know, for instance, whether the evenings there are cold or hot. Please let me know if <NS type="UD"><i>the</i></NS> Camp California accepts credit cards</p>
+          <p>I look forward to hearing from you</p>
+          <p>Yours sincerely</p>
+          <p>Fabienne Mull</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p>I was very happy to receive your last letter. As you know I had a great time helping at a <NS type="RP"><i>PoP</i><c>pop</c></NS> <NS type="RP"><i>Concert</i><c>concert</c></NS>.</p>
+          <p>I was at the concert when I met a friend of mine whose job is to organise shows like that. He told me <NS type="RP"><i>He</i><c>he</c></NS> needed a boy who could help on stage. As you <NS type="TV"><i>known</i><c>know</c></NS><NS type="MP"><c>,</c></NS> I can do a little of everything so I accepted. I connected wires, I <NS type="S"><i>caried</i><c>carried</c></NS> loudspeakers, and so on.</p>
+          <p>When the show started I was on the stage close to <NS type="MQ"><c>two</c></NS> famous singers, Bono Vox and David Bowie. Towards the end of the concert I <NS type="S"><i>hansled</i><c>handed</c></NS> a bottle of wine to Poolo Conte.</p>
+          <p>I couldn't believe <NS type="UT"><i>in</i></NS> it! Poolo Conte asked me to drink with Him. As you know <NS type="RP"><i>He's</i><c>he's</c></NS> my <NS type="SA"><i>favorite</i><c>favourite</c></NS> singer. We started talking about music and I asked <NS type="RP"><i>Him</i><c>him</c></NS> many things about <NS type="RP"><i>His</i><c>his</c></NS> <NS type="RN"><i>texts</i><c>lyrics</c></NS>, which are beautiful but sometimes difficult to understand. <NS type="X"><i>I think I won't never forget that evening</i><c>I don't think I will ever forget that evening</c></NS>.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>With my best wishes</p>
+          <p>Fabienne</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

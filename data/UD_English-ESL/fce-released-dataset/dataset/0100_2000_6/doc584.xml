@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR29*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>Thank you for your letter. I was very surprised that I have won the first prize in your competition. First I would like to mention that I can only travel in July, because I will work in August in a web <NS type="MP"><i>designer</i><c>designer's</c></NS> studio. So I am unable to go on holiday <NS type="R"><i>to another</i><c>at any other</c></NS> time. I would prefer to stay in a tent because I like camping very much. I think it's more exciting to be in a tent than in a log cabin.</p>
+          <p>I was very surprised that you offer such a great variety of sports and courses.</p>
+          <p>I would like to do Basketball and Painting.</p>
+          <p>I played Basketball at school for about two years. I am rather good <NS type="RT"><i>in</i><c>at</c></NS> it. I also had Painting as <NS type="MD"><c>my</c></NS> main subject at school for five years. I like painting very much, and I think I am good <NS type="RT"><i>in</i><c>at</c></NS> Painting. I paint a lot in my free time. I prefer painting landscapes and <NS type="RP"><i>fantasy-pictures</i><c>fantasy pictures</c></NS>.</p>
+          <p>I would like to ask you, how much money will we need? <NS type="RQ"><i>Which</i><c>What</c></NS> clothes should we take with us?</p>
+          <p>I hope to hear from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>First I would like to point out<NS type="UP"><i>,</i></NS> that <NS type="RA"><i>this</i><c>it</c></NS> was a good idea to <NS type="RV">present</NS> our school in a short film.</p>
+          <p>I think first of all we should film an <NS type="RP"><i>english</i><c>English</c></NS> lesson, where pupils could prepare some group work or <NS type="RP"><i>information-boards</i><c>information boards</c></NS>. I think it is also important to present a <NS type="R"><i><NS type="S"><i>comercial</i><c>commercial</c></NS></i><c>business</c></NS> <NS type="RP"><i>english</i><c>English</c></NS> lesson<NS type="RP"><i>, maybe</i><c>.  Maybe</c></NS> the pupils could write "offers and orders" or enquiries on the blackboard.</p>
+          <p>Next I would film a BWPM lesson. This subject <NS type="IV"><i>teachs</i><c>teaches</c></NS> the pupils how to make good presentations. They <NS type="RV"><i>go</i><c>get</c></NS> together in groups, then they prepare <NS type="RP"><i>power point</i><c>power-point</c></NS> presentations and <NS type="ID"><i>at least</i><c>finally</c></NS> they present it in front of the other pupils and teachers.</p>
+          <p>It would be also very interesting to film the situation during the <NS type="RN"><i>brake</i><c>break</c></NS>. The smokers in the school yard, the <NS type="S"><i>buffett</i><c>buffet</c></NS> and the other pupils, who are sitting <NS type="RT"><i>in front of</i><c>at</c></NS> their tables <NS type="RV"><i>writing</i><c>doing</c></NS> their homework.</p>
+          <p>I think then we should film an <NS type="DN"><i>informatic-lesson</i><c>information-technology lesson</c></NS>. It would be funny to <NS type="RV"><i>present</i><c>show</c></NS> the computers, which are often <NS type="RJ">overcharged</NS>, <NS type="RC"><i>or</i><c>and</c></NS> often the <NS type="R">netserver is spinning</NS>. It's really funny to see the helpless teacher, who wants to go on <NS type="RV"><i>writing</i><c>working</c></NS> in <NS type="RP"><i>excel</i><c>Excel</c></NS> or <NS type="UD"><i>a</i></NS> <NS type="RP"><i>word</i><c>Word</c></NS> <NS type="UN"><i>text</i></NS>, while the computers do not work or <NS type="RV"><i>brake</i><c>break</c></NS> down.</p>
+          <p>I think that would be all for our video. In my opinion <NS type="AGA"><i>this</i><c>these</c></NS> are the most interesting things in our school.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

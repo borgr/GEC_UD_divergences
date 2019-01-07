@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR161*0100*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>13.06.2000</p>
+          <p>Dear Mrs. Ryan,</p>
+          <p><NS type="RP"><i>thank</i><c>Thank</c></NS> you very much for your letter. I am happy that I won the first prize and I am looking forward to travelling to California.</p>
+          <p>You <NS type="TV"><i>have had</i><c>had</c></NS> some questions which I would like to answer now:</p>
+          <p>- Time of travelling: <NS type="R"><i><NS type="RP"><i>According to</i><c>according to</c></NS></i><c>because of</c></NS> the vacations and school holidays in Germany I am only able to travel in July. Due to this fact I hope you can arrange it for me.</p>
+          <p>- <NS type="S"><i>Accomodation</i><c>Accommodation</c></NS>: <NS type="MD"><c>a</c></NS> <NS type="AGN"><i><NS type="RP"><i>Log cabins</i><c>log cabins</c></NS></i><c>log cabin</c></NS> would be nice for me to stay in when I am in California. You <NS type="SX"><i>now</i><c>know</c></NS> that we are not used to living in such high temperatures in Germany as <NS type="R"><i>it will be then</i><c>you have there</c></NS> in California. I suppose I will have more fun if there is a cabin which is air conditioned. If there are only tents available at this time it will not be a problem for me <NS type="RY"><i>, too</i><c>either</c></NS>.</p>
+          <p>- Activities: <NS type="RP"><i>During</i><c>during</c></NS> my stay I would like to do swimming and surfing. I know it will be hot there and California is famous for its beaches. I am a good swimmer and hope to improve my swimming style, too. <NS type="ID"><i>On the other side</i><c>On the other hand</c></NS> I have no experience <NS type="RT"><i>in</i><c>of</c></NS> surfing<NS type="UP"><i>,</i></NS> - I am an absolute beginner with high motivation.</p>
+          <p>- Additional question: <NS type="RP"><i>Could</i><c>could</c></NS> you tell me how much extra money is usually needed for a <NS type="RP"><i>two week</i><c>two-week</c></NS> camping <NS type="MN"><c>holiday</c></NS>?</p>
+          <p>I am looking forward to getting further information from you. <NS type="L">Greetings</NS> from Germany!</p>
+          <p>Yours sincerely</p>
+          <p>Bruno Aachen</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable".</p>
+          <p>Before we can give our opinions on this <NS type="S"><i>statemant</i><c>statement</c></NS> we have to make sure that everyone knows what we are discussing <NS type="UT"><i>about</i></NS>.</p>
+          <p>'Shopping' <NS type="RV"><i>stands for</i><c>means</c></NS> buying goods for your daily requirements, e.g. food, clothes. We do not speak here about <NS type="S"><i>luxuary</i><c>luxury</c></NS> goods.</p>
+          <p>In this <NS type="RN"><i>contest</i><c>context</c></NS>, shopping means a compulsory exercise you have to do regularly and frequently. It is not enjoyable if you look <NS type="RT"><i>at</i><c>on</c></NS> it as a duty. But if you realize how important <NS type="UT"><i>it</i></NS> <NS type="W"><i>is for your health what you buy</i><c>what you buy is for your health</c></NS> you will go shopping with <NS type="R"><i>much more</i><c>a far greater</c></NS> <NS type="S"><i>consiousness</i><c>consciousness</c></NS> and <NS type="MQ"><c>more</c></NS> joy than before. 'Shopping' could be annoying if you look <NS type="RT"><i>at</i><c>on</c></NS> it as a waste of time because you do it every day. Reorganize your <NS type="RN"><i>behaviour of</i><c>approach to</c></NS> shopping and plan to keep food in stock! Try the <NS type="RP"><i>internet</i><c>Internet</c></NS> and use e-business and <NS type="RP"><i>online-shopping</i><c>online shopping</c></NS> to order your pants for example.</p>
+          <p>This is even <NS type="RJ"><i>an appropriate</i><c>a good</c></NS> way to get around <NS type="MD"><c>the</c></NS> unfriendly service you get to know if you have to buy something in a shop right before closing time. Choose your clothes at home <NS type="RT"><i>after</i><c>before</c></NS> you <NS type="TV"><i>have ordered</i><c>order</c></NS> them by e-mail! Another <NS type="RN"><i>solution</i><c>way</c></NS> to get a friendlier service is of course to go to another shop.</p>
+          <p>You have been presented <NS type="MT"><c>with</c></NS> some <NS type="RN"><i>causes</i><c>reasons</c></NS> why shopping is not always enjoyable. There are ways of <NS type="R"><i>behaviour to make more fun of it</i><c>making it more fun</c></NS>. It depends on every individual to change your mind and <NS type="RV"><i>act</i><c>behave</c></NS> <NS type="RT"><i>as</i><c>like</c></NS> a 'smart' shopper.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

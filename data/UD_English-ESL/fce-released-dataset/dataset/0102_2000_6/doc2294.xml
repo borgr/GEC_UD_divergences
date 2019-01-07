@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR918*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>Last week, I had a week's holiday in London, where I <NS type="TV"><i>haven't</i><c>hadn't</c></NS> been for 2 years. I prepared everything for my family and wanted to enjoy it<NS type="RP"><i>, we</i><c>. We</c></NS> were happy all the time, but, unfortunately, <NS type="R">the last day was the worst thing we have got</NS>, which was your musical show. At first, you said that<NS type="UP"><i>,</i></NS> if we <NS type="TV"><i>had bought</i><c>bought</c></NS> 5 tickets, we would <NS type="FV"><i>have had</i><c>have</c></NS> a discount, but we didn't <NS type="R">have anything</NS>. Secondly, we booked <NS type="MT"><c>for</c></NS> the show at 19:30, but it started at 20:15<NS type="RP"><i>, what's</i><c>. What's</c></NS> wrong with your clock?<NS type="UP"><i>.</i></NS> Thirdly, <NS type="R"><i>someone</i><c>the person</c></NS> on stage was very <NS type="S"><i>strenge</i><c>strange</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> me, because I expected to see "Danny Brook", but I didn't. The last <NS type="R"><i>one</i><c>thing</c></NS><NS type="R"><i>,</i><c> is</c></NS> we wanted to have <NS type="UD"><i>a</i></NS> dinner in your restaurant after <NS type="RD"><i>a</i><c>the</c></NS> terrible musical show, but we couldn't <NS type="U"><i>have it</i></NS>, because a waiter said your chef had gone home. I have no idea <NS type="R">what your business is</NS><NS type="RP"><i>,</i><c>.</c></NS> I have never seen <NS type="RA"><i>something</i><c>anything</c></NS> like this.</p>
+          <p>By the way, I want you to <NS type="RV"><i>pay</i><c>give</c></NS> <NS type="MA"><c>me</c></NS> my money back <NS type="RT"><i>for</i><c>because of</c></NS> the <NS type="DJ"><i>waste</i><c>wasted</c></NS> time, and I think that you understand.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Have you ever been <NS type="RT"><i>in</i><c>to</c></NS> the Countryside? Try it<NS type="RP"><i>,</i><c>;</c></NS> <NS type="R">it doesn't need to take a long time to live in that place, but it will give you many things</NS>, which are different from your lifestyle in <NS type="MD"><c>the</c></NS> city. Nowadays you wake up in <NS type="RD"><i>a</i><c>the</c></NS> morning, go to school or work <NS type="RT"><i>by</i><c>on</c></NS> the sky-train, start your lessons <NS type="RT"><i>with</i><c>on</c></NS> the computer, go <NS type="UT"><i>for</i></NS> shopping in a store which has an air-conditioner, watch cartoons on TV, or cook <NS type="RT"><i>by</i><c>with</c></NS> a microwave oven etc. Do you really enjoy it? <NS type="S"><i>Althoug</i><c>Although</c></NS> <NS type="UD"><i>the</i></NS> modern technology gives you many comfortable things <NS type="R">for living</NS>, can it <NS type="FV"><i>gives</i><c>give</c></NS> you <NS type="DN"><i>natural</i><c>nature</c></NS>, peace and fresh air? <NS type="RY"><i>How</i><c>However</c></NS> much <NS type="UD"><i>the</i></NS> technology gives to you, it <NS type="AGV"><i>take</i><c>takes</c></NS> <NS type="W"><i>from you more</i><c>more from you</c></NS>. Have you heard about the <NS type="DJ"><i>environment</i><c>environmental</c></NS> <NS type="FN"><i>pollutions</i><c>pollution</c></NS>, the <NS type="DN"><i>healthy</i><c>health</c></NS> problems and the moral problems? <NS type="CE">These all <NS type="AGV"><i>happen</i><c>happens</c></NS> from human who want to live with science and technology, not the natural which the world gives it to us</NS>. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

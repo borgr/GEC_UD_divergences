@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1090*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>41-50</age></personnel><score>18.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Carola Hidalgo</p>
+          <p>34 Kingfield Road</p>
+          <p>Brighton GC2 8AS</p>
+          <p>5th May 2000</p>
+          <p>Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>Dear Madam</p>
+          <p>Thank you very much for your letter of 1/6/00<NS type="MP"><c>.</c></NS> I was really amazed <NS type="RT"><i>with</i><c>by</c></NS> the <NS type="IN"><i>new</i><c>news</c></NS> that I'd won two weeks at Camp California in the USA.</p>
+          <p><NS type="ID"><i>Respect</i><c>With regard</c></NS> to the date that I would like to travel <NS type="MA"><c>it</c></NS> must be <NS type="U"><i>only on</i></NS> July 15th because my classes will finish at the end of June and I'm going to <NS type="RV"><i>be</i><c>have</c></NS> <NS type="R"><i>with</i><c>some</c></NS> free time <NS type="U"><i>to do so</i></NS> <NS type="RT"><i>since</i><c>from</c></NS> this date until early August <NS type="R"><i>that</i><c>when</c></NS> I will start to work.</p>
+          <p>I would like to spend my time at your Camp site in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>. I think <NS type="MA"><c>that</c></NS> is going to be more <NS type="S"><i>confortable</i><c>comfortable</c></NS> for me due <NS type="M"><c>to the fact</c></NS> that <NS type="UP"><i>I'am</i><c>I am</c></NS> very sensitive to changes of temperature and I can't take the risk <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to catch</i><c>catching</c></NS> a cold <NS type="MC"><c>because</c></NS> <NS type="MP"><c>,</c></NS>as you know<NS type="MP"><c>,</c></NS> I'm going to start to work.</p>
+          <p>The activities that I would like to do there are the <NS type="IJ"><i>followings</i><c>following</c></NS>:- Singing (I'm <NS type="MD"><c>a</c></NS> very good singer); swimming <NS type="RP"><i>(I'm not good at all at this one)</i><c>, I'm not good at all at this one,</c></NS> but I enjoy <NS type="FV"><i>to spend</i><c>spending</c></NS> time in the water<NS type="MP"><c>,</c></NS> I really do.</p>
+          <p>Would you be so kind <NS type="MT"><c>as</c></NS> to let me know what kind of weather <NS type="UV"><i>do</i></NS> you have <NS type="RT"><i>on</i><c>in</c></NS> July in order <NS type="M"><c>that I can</c></NS> <NS type="FV"><i>to choose</i><c>choose</c></NS> the right <NS type="RN"><i>cloth</i><c>clothing</c></NS> to bring<NS type="MP"><i> and</i><c>. And</c></NS> also I would like to know approximately the amount of money that I should bring for the items that are not <NS type="R"><i>cover</i><c>included</c></NS>.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Hello Kim,</p>
+          <p>How are you? I'm fine and I <NS type="MV"><c>am</c></NS> <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you because I know that you want to know <NS type="MT"><c>about</c></NS> my experience at a pop concert; I have to tell you that I did <NS type="FV"><i>to help</i><c>help</c></NS> there and <NS type="MA"><c>it</c></NS> was <NS type="UD"><i>a</i></NS> very hard work<NS type="MP"><i> you</i><c>. You</c></NS> can't <NS type="S"><i>imagin</i><c>imagine</c></NS> all the work that <NS type="RV"><i><NS type="AGV"><i>mean</i><c>means</c></NS></i><c>goes into</c></NS> <NS type="FV"><i>to prepare</i><c>preparing</c></NS> a concert. I really enjoyed the opportunity to talk with <NS type="MP"><i>well known</i><c>well-known</c></NS> <NS type="RN"><i>starts</i><c>stars</c></NS> and to learn how to set up everything for a concert. If you have the opportunity to do this don't <NS type="FV"><i>missed</i><c>miss</c></NS> out. I hope to see you soon to <NS type="RV"><i>tell</i><c>give</c></NS> you more details. Bye.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

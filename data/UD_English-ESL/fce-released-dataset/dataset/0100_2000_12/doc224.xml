@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR102*0100*2000*02">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>First of all, I would like to say thank you to you<NS type="MP"><c>,</c></NS> Mr Robertson<NS type="MP"><c>,</c></NS> for planning to <NS type="AS"><i>take us to spend three days in London</i><c>take us to London for three days</c></NS>.</p>
+          <p>Your programme looks very interesting, especially the River Trip to Greenwich, which I <NS type="TV"><i>always dreamt</i><c>have always dreamt</c></NS> of.</p>
+          <p>However, we have seen an advertisement <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RD"><i>the</i><c>an</c></NS> English magazine for the London Fashion and Leisure Show. It takes place at the Central Exhibition Hall in London on Tuesday March 14 at 10.00-19.00. The show will have <NS type="MD"><c>the</c></NS> latest fashions from <NS type="MD"><c>the</c></NS> top fashion designers in the world. <NS type="MD"><i>Leisure</i><c>The leisure</c></NS> show will have <NS type="MP"><i>leisure</i><c>leisure-</c></NS> and <NS type="MP"><i>sports wear</i><c>sports-wear</c></NS>, new <NS type="MP"><i>make up</i><c>make-up</c></NS> <NS type="FN"><i>style</i><c>styles</c></NS> and new <NS type="FN"><i><NS type="RP"><i>hair style</i><c>hairstyle</c></NS></i><c>hairstyles</c></NS> for next year. The best thing is that it is free because we are students.</p>
+          <p>We would like to ask you whether we can change some <NS type="M"><c>of the</c></NS> programme. Our suggestion is that we can go shopping on Wednesday 15 March so on Tuesday afternoon we can go to The London Fashion and Leisure Show. We won't miss any <NS type="RN"><i>programme</i><c>event</c></NS> that you have planned and we could also have <NS type="MD"><c>a</c></NS> great opportunity to see the show.</p>
+          <p>We're looking forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>"Famous people, such as politicians and film stars, deserve to have a private life without journalists following them all the time".</p>
+          <p>In my opinion, everybody wants to have a happy life in our <NS type="UJ"><i>own</i></NS> world<NS type="RP"><i>, we</i><c>. We</c></NS> want to do whatever we want<NS type="RP"><i>, sometimes</i><c>. Sometimes</c></NS> we do the right things and sometimes we do the wrong things. We are ordinary people<NS type="RP"><i>, we</i><c>. We</c></NS> work and <NS type="RV"><i>come</i><c>go</c></NS> home to <NS type="RV"><i>have</i><c>do</c></NS> activities with our family or go out together.</p>
+          <p><NS type="UD"><i>The politicians</i><c>Politicians</c></NS> and film stars also want to have a normal life after work. They want to have a private life without journalists following them all the time. <NS type="R"><i>Although</i><c>However</c></NS>, their news on the front page of a magazine can catch the eyes of <NS type="MD"><c>the</c></NS> public so that people will never forget them. On the other hand, their <NS type="AGN"><i>story</i><c>stories</c></NS> always make them <NS type="S"><i>embarras</i><c>embarrassed</c></NS> because most of the journalists create their own story <NS type="TV"><i>base</i><c>based</c></NS> on the true story just to get <NS type="MD"><c>the</c></NS> <NS type="W"><i><NS type="RN"><i>attraction</i><c>attention</c></NS> <NS type="RT"><i>from</i><c>of</c></NS> people</i><c>people's attention</c></NS>.</p>
+          <p>I think<NS type="UP"><i>,</i></NS> if the <NS type="AGN"><i>journalist</i><c>journalists</c></NS> want to publish the <NS type="MP"><i>politicians</i><c>politicians'</c></NS> and film <NS type="MP"><i>stars</i><c>stars'</c></NS> private <NS type="FN"><i>life</i><c>lives</c></NS>, they should <NS type="FV"><i>have asked</i><c>ask</c></NS> for permission. They deserve to have a private life <NS type="RT"><i>as</i><c>like</c></NS> everybody <NS type="MY"><c>else</c></NS>. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

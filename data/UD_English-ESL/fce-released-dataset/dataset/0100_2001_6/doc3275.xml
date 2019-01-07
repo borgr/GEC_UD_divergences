@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE87*0100*2001*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Maria,</p>
+          <p>I'm so happy to help you <NS type="RT"><i>for</i><c>with</c></NS> this international student conference. I'm <NS type="R"><i>afraid for</i><c>sorry to hear about</c></NS> Richard. Could you please <NS type="RV"><i>tell</i><c>give</c></NS> him my best wishes <NS type="RT"><i>of</i><c>for</c></NS> <NS type="MD"><c>his</c></NS> health? I'm sure <NS type="MC"><c>that</c></NS> you can perfectly replace <NS type="AGA"><i>it</i><c>him</c></NS> to lead your group.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, you should know that you are booked into the Palace Hotel<NS type="MP"><c>,</c></NS> that is one of the best in the town. The access to the conference place is very easy. First of all, you must walk down <NS type="UT"><i>to</i></NS> <NS type="UD"><i>the</i></NS> Central Street until you arrive at the bus stop, then you take the <NS type="W"><i>bus number two</i><c>number two bus</c></NS> that goes directly to the college.</p>
+          <p>After the conference, there is a great party that is <NS type="TV"><i>organised</i><c>being organised</c></NS> by friends. It starts at <NS type="R"><i>twenty</i><c>eight</c></NS> o'clock <NS type="M"></NS> until the end of the night, so be <NS type="RJ"><i>ready</i><c>prepared</c></NS>! There is no special <NS type="DN"><i><NS type="S"><i>thema</i><c>theme</c></NS> for the wearing style</i><c>dress code</c></NS> but it <NS type="RV"><i>should</i><c>would</c></NS> be more fun if you wear something crazy...</p>
+          <p>Finally, I <NS type="RV"><i>propose</i><c>suggest</c></NS> you <NS type="FV"><i>to go</i><c>go</c></NS> to the new college <NS type="RP"><i>swimmingpool</i><c>swimming pool</c></NS> on the last day <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> afternoon. <NS type="RP"><i>Every body</i><c>Everybody</c></NS> will go there. I hope you will have fun!</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Hello,</p>
+          <p>I will give you some <NS type="CN"><i>informations</i><c>information</c></NS> on <NS type="UD"><i>the</i></NS> <NS type="RP"><i>yverdon's</i><c>Yverdon's</c></NS> castle. This building is one of the oldest that <NS type="RV"><i>stays</i><c>is</c></NS> in the <NS type="RN">landscape</NS> of the town. I think <NS type="MP"><i>its</i><c>it's</c></NS> important to see it when you come <NS type="RY"><i>there</i><c>here</c></NS> because it shows us how the town <NS type="TV"><i>had been <NS type="IV"><i>developped</i><c>developed</c></NS></i><c>has been developed</c></NS> around it since its creation.</p>
+          <p><NS type="RD"><i>Those</i><c>These</c></NS> days, the castle is being <NS type="RV">remade</NS>, so there is a lot of construction <NS type="RN"><i>engines</i><c>machinery</c></NS> around it. That's not a big problem because there is a complete museum <NS type="RT"><i>in</i><c>inside</c></NS> it where you can see old pictures of the castle <NS type="RT"><i>during</i><c>over</c></NS> the centuries. There <NS type="AGV"><i>is</i><c>are</c></NS> a lot of old items that were in the King's family.</p>
+          <p>You <NS type="RV"><i>should</i><c>would</c></NS> have probably heard about the mummy who <NS type="TV"><i>sleeps</i><c>has slept</c></NS> there for about two thousand years... You can see it in the dungeon. So you can visit everywhere you want with or without a guide. I hope you will enjoy the visit and I wish you a nice <NS type="S"><i>holliday</i><c>holiday</c></NS> in Yverdon.</p>
+          <p>Best regards,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

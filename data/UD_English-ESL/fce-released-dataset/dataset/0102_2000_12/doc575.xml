@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR23*0102*2000*02">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>12.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Jane X,</p>
+          <p>I would like to make some <NS type="RN"><i><NS type="S"><i>appoitments</i><c>appointments</c></NS></i><c>comments</c></NS> about the event that I <NS type="TV"><i>had been</i><c>went</c></NS> <NS type="MT"><c>to</c></NS>.</p>
+          <p>First of all, the concert hall is too small to have a great concert. I think <NS type="MA"><c>it</c></NS> should be bigger for jazz, rock or <NS type="RY"><i>still</i><c>even</c></NS> classical concerts.</p>
+          <p>Secondly, I had some ideas for the next <NS type="MP"><i>year</i><c>year's</c></NS> events, such as <NS type="M"><c>the following</c></NS>:</p>
+          <p>- Funny plays and films to <NS type="RV">spend</NS> the <NS type="RN"><i>break time</i><c>break</c></NS>;</p>
+          <p>- Dance shows after dinner to <NS type="RV"><i>have</i><c>provide</c></NS> something interesting to do in the night<NS type="RP"><i>,</i><c>;</c></NS></p>
+          <p>- Art <NS type="S"><i>exbitions</i><c>exhibitions</c></NS> to <NS type="RV"><i>know</i><c>teach</c></NS> <NS type="MA"><c>us</c></NS> more things about <NS type="MD"><c>the</c></NS> artist's lifestyle; and</p>
+          <p>- talks by writers to say how good <NS type="W"><i>is his latest book</i><c>his latest book is</c></NS>.</p>
+          <p>In <NS type="RN"><i>addictions</i><c>addition</c></NS>, the <NS type="UN"><i><NS type="RP"><i>ticket's</i><c>tickets'</c></NS> price</i><c>tickets</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> too expensive and <NS type="M"><c>it is</c></NS> difficult to buy <NS type="R"><i>another</i><c>a new</c></NS> one every day<NS type="RP"><i>, so</i><c>. So</c></NS>, I think <NS type="MA"><c>it</c></NS> <NS type="TV"><i>is</i><c>would be</c></NS> more effective if <NS type="MA"><c>there</c></NS> was one reasonably-priced weekend ticket for all events.</p>
+          <p>In conclusion, I <NS type="RV"><i>hope</i><c>believe</c></NS> <NS type="MA"><c>it</c></NS> will be better next year if these points <NS type="TV"><i><NS type="AGV"><i>was</i><c>were</c></NS></i><c>are</c></NS> observed <NS type="R">for the each year the event to be</NS> better than before.</p>
+          <p>Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.1</exam_score>
+         <coded_answer>
+          <p>How are you? It was nice to <NS type="L"><i>receive</i><c>get</c></NS> <NS type="MQ"><c>some</c></NS> <NS type="RN"><i>notices</i><c>news</c></NS> about you.</p>
+          <p>I remember <NS type="AGD"><i>these</i><c>this</c></NS> time in our class when <NS type="RA"><i>us</i><c>we</c></NS> <NS type="TV"><i>talking</i><c>were talking</c></NS> <NS type="R"><i>many</i><c>for a long</c></NS> time about rules and <NS type="R">I am missing that time so much</NS>.</p>
+          <p>Well, about rules in my <NS type="S"><i>contry</i><c>country</c></NS>, <NS type="M"><c>the situation</c></NS> is not different <NS type="R"><i>than</i><c>from</c></NS> <NS type="AGQ"><i>another</i><c>other</c></NS> countries. The rules must be <NS type="TV"><i>respect</i><c>respected</c></NS> <NS type="RT"><i>for</i><c>by</c></NS> all people if you don't want <NS type="RV"><i><NS type="FV"><i>get</i><c>to get</c></NS></i><c>to be kicked</c></NS> out <NS type="RT"><i>from</i><c>of</c></NS> <NS type="S"><i>scholl</i><c>school</c></NS>. You must <NS type="FV"><i>to be</i><c>be</c></NS> <NS type="DJ"><i>organise</i><c>organised</c></NS>, clean and respect the <NS type="FN"><i>right</i><c>rights</c></NS> of other people.<NS type="UP"><i>.</i></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

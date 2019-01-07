@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR709*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Smith,</p>
+          <p>During my last holiday in London, I <NS type="TV"><i>was visiting</i><c>visited</c></NS> your theatre in order to see "Over the rainbow". You wrote some things in your advertisement and I was disappointed that <NS type="MA"><c>they</c></NS> <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> true.</p>
+          <p>First you have written that the <NS type="DN"><i>starring</i><c>stars</c></NS> were Danny Brook and Tina Truelove, but the <NS type="RJ"><i>real</i><c>actual</c></NS> actors were different. It was a <NS type="DN"><i>disappointing</i><c>disappointment</c></NS> for me, because <NS type="AGD"><i>this</i><c>these</c></NS> actors were recommended by my friend, because he knows Danny and Tina.</p>
+          <p>You have also written in your advertisement that it would <NS type="TV"><i>started</i><c>start</c></NS> at half past seven but it started at 20:15! So we had to wait more than a half hour. <NS type="RA"><i>It</i><c>I</c></NS> wouldn't <NS type="RV"><i>be</i><c>have</c></NS> <NS type="TV"><i>mind</i><c>minded</c></NS> if the restaurant had <NS type="R">pressed in order</NS> to eat or drink something, but it was closed, and <NS type="W"><i>it <NS type="RV"><i>hadn't</i><c>didn't</c></NS> also</i><c>also it didn't</c></NS> <NS type="FV"><i>opened</i><c>open</c></NS> after the show, because the waitress had to clean <NS type="UY"><i>up</i></NS> the theatre <NS type="UN"><i>room</i></NS>.</p>
+          <p><NS type="R"><i>Over these</i><c>Also</c></NS> <NS type="SX"><i>the</i><c>there</c></NS> <NS type="W"><i>tickets were <NS type="RD"><i>not</i><c>no</c></NS> discount</i><c>were no discount tickets</c></NS> available as you <NS type="TV"><i>have</i><c>had</c></NS> written <NS type="M"><c>there were</c></NS> in your advertisement.</p>
+          <p>So it wasn't a perfect evening for me and <NS type="R">I think about it</NS>, if I can have my money back. If it's possible, please write back.</p>
+          <p><NS type="S"><i>Sencerely</i><c>Sincerely</c></NS> ...</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets and so his <NS type="SX"><i>hole</i><c>whole</c></NS> <NS type="S"><i>schoole</i><c>school</c></NS> knew <NS type="RT"><i>from</i><c>about</c></NS> Sara's experience.</p>
+          <p>Sara was a very good <NS type="S"><i>puple</i><c>pupil</c></NS>. She didn't <NS type="RV"><i>learn</i><c>study</c></NS> a lot but she knew all <NS type="MD"><c>the</c></NS> important things. She was a very nice person and she <NS type="W"><i>helped always</i><c>always helped</c></NS> if somebody <NS type="TV"><i>need</i><c>needed</c></NS> her help.</p>
+          <p>One day she had to <NS type="RV"><i>make</i><c>do</c></NS> the shopping for her mother. She had to buy a <NS type="UP"><i>lottery-ticket</i><c>lottery ticket</c></NS> and other things for her. After she had done this she went home, but she didn't buy the ticket because she thought there <NS type="TV"><i><NS type="AGV"><i>aren't</i><c>isn't</c></NS></i><c>wasn't</c></NS> <NS type="R"><i>no</i><c>any</c></NS> <NS type="RN"><i>change</i><c>chance</c></NS> <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to win</i><c>winning</c></NS>. She spent <NS type="RD"><i>this</i><c>the</c></NS> <NS type="MN"><c>money</c></NS> <NS type="UY"><i>only</i></NS> <NS type="RT"><i>for</i><c>on</c></NS> a <NS type="S"><i>magazin</i><c>magazine</c></NS>.</p>
+          <p>After she came home her mother was sitting in front of the TV and looked <NS type="RT"><i>after</i><c>at</c></NS> the <NS type="UP"><i>lottery-numbers</i><c>lottery numbers</c></NS>. Suddenly she jumped out of her armchair and shouted: "I have won the <NS type="UP"><i>jack-pot</i><c>jackpot</c></NS>". Sara was out of breath and after <NS type="M"></NS> she <NS type="TV"><i>had told</i><c>told</c></NS> her mother<NS type="UP"><i>,</i></NS> she hadn't bought the ticket. Her mother <NS type="TV"><i>get</i><c>got</c></NS> angry but some hours later she was friendly again.</p>
+          <p>Sara couldn't understand the fact<NS type="UP"><i>,</i></NS> that she didn't do the right thing. She had <NS type="RV"><i>earn</i><c>lost</c></NS> a lot of money, so she would be more careful <NS type="RT"><i>with</i><c>about</c></NS> doing things <NS type="M"></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR518*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>I am writing to you in reply <NS type="RT"><i>of</i><c>to</c></NS> <NS type="RD"><i>our</i><c>your</c></NS> letter, <NS type="RA"><i>that</i><c>which</c></NS> <NS type="UV"><i>had</i></NS> let me know I am the winner of the first prize <NS type="RT"><i>of</i><c>in</c></NS> your competition.</p>
+          <p>First of all, I am very happy to <NS type="FV"><i>spent</i><c>spend</c></NS> two weeks at Camp California in the USA. Yet, I could only travel <NS type="MT"><c>in</c></NS> July because I am a student and so my holidays begin <NS type="RT"><i>on</i><c>in</c></NS> July.</p>
+          <p>In addition, I would rather sleep in a tent since I like being <NS type="RJ"><i>near</i><c>close to</c></NS> nature and<NS type="MP"><c>,</c></NS> especially<NS type="MP"><c>,</c></NS> singing birds. <NS type="UY"><i>Thus,</i></NS> I enjoy sports and I would like to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>go</c></NS> swimming and climbing. I am not too bad at these sports.</p>
+          <p>To conclude, will you kindly let <NS type="DA"><i>my</i><c>me</c></NS> know if I need some money and what sort of clothes I should bring with me.</p>
+          <p>Yours <NS type="RP"><i>Faithfully</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>This year, our English class has decided to make a short video about daily life at our school. (It is a graduate <NS type="RN"><i>engineer</i><c>engineering</c></NS> school where we are studying <NS type="S"><i>mecanics</i><c>mechanics</c></NS> and <NS type="R">energetics</NS>.) That is why we have to single out <NS type="S"><i>wich</i><c>which</c></NS> lessons and other activities should be filmed.</p>
+          <p><NS type="ID"><i>On one hand</i><c>On the one hand</c></NS>, we should be interested in the lessons. <NS type="RY"><i>At first</i><c>First</c></NS>, the research and design <NS type="RN"><i>courses</i><c>lessons</c></NS> are <NS type="SX"><i>exiting</i><c>exciting</c></NS> since we are studying how cars are built. Secondly, we should interview the teacher of heat <NS type="S"><i>transfert</i><c>transfer</c></NS> since his <NS type="RN"><i>courses</i><c>lessons</c></NS> are <NS type="SX"><i>rally</i><c>really</c></NS> breathtaking. That seems to be quite surprising, yet this teacher manages to convey his knowledge.</p>
+          <p>On the other hand, we should be interested in the other activities such as sports<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> could appeal <NS type="MT"><c>to</c></NS> more students in our school. For example, our basketball team has won a local championship.</p>
+          <p>To conclude, in this short video, we must show that thanks to our school we are able to <NS type="RV"><i>make come</i><c>bring</c></NS> out the best <NS type="RT"><i>of</i><c>in</c></NS> ourselves.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

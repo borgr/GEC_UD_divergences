@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR744*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p> Dear manager,</p>
+          <p>I am writing to tell you that I <NS type="RV"><i>stayed</i><c>was</c></NS> very disappointed with the theatre. One of my reasons <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to travel</i><c>travelling</c></NS> to London<NS type="UP"><i>,</i></NS> was this theatre.</p>
+          <p>I <NS type="RV"><i>knew</i><c>thought</c></NS> that "Over the rainbow" was horrible! I thought that it was the best musical show that London had. I was wrong, very wrong.</p>
+          <p>In the <NS type="RN"><i>propaganda</i><c>advertisement</c></NS> <NS type="MA"><c>it</c></NS> <NS type="RV"><i>had</i><c>was</c></NS> written that Danny Brook and Tina Truelove are <NS type="UV"><i>supposed to be</i></NS> the actors, and in the theatre <NS type="MA"><c>you</c></NS> had totally <NS type="IJ"><i>differents</i><c>different</c></NS> actors.</p>
+          <p>I bought my tickets <NS type="R">fuee</NS> days before the <NS type="RN"><i>theatre</i><c>performance</c></NS> thinking I <NS type="TV"><i>will</i><c>would</c></NS> <NS type="RV"><i>have</i><c>get</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>discounts</i><c>discount</c></NS>. But <NS type="UA"><i>it</i></NS> <NS type="W"><i><NS type="IV"><i>happenned</i><c>happened</c></NS> the opposite</i><c>the opposite happened</c></NS>. I <NS type="IV"><i>payed</i><c>paid</c></NS> the same as <NS type="MD"><c>a</c></NS> who bought the tickets ten minutes before the <NS type="RN"><i>theatre</i><c>performance</c></NS>.</p>
+          <p><NS type="AGQ"><i>Other</i><c>Another</c></NS> thing I have to <NS type="RV"><i>complement</i><c>complain</c></NS> <NS type="W"><i>is about</i><c>about is</c></NS> the time of the <NS type="RN"><i>theatre</i><c>performance</c></NS>. It was supposed to <NS type="FV"><i>starts</i><c>start</c></NS> at half past seven, and it <NS type="W"><i>started only</i><c>only started</c></NS> at fifteen <NS type="MN"><c>minutes</c></NS> past eight.</p>
+          <p>After all this, I want to know if I will <NS type="RV"><i>have</i><c>get</c></NS> some money back. I hope so.</p>
+          <p>yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>It is true that science and technology affects our lives a lot. <NS type="UD"><i>The technology</i><c>Technology</c></NS> is <NS type="S"><i>essencial</i><c>essential</c></NS> to our life, we need it <NS type="UT"><i>on</i></NS> each minute, <NS type="UT"><i>on</i></NS> each second.</p>
+          <p>It is rare <NS type="RD"><i>the</i><c>that</c></NS> schools <NS type="UC"><i>that</i></NS> don't have a multimedia centre with many computers <NS type="RT"><i>to</i><c>for</c></NS> the students <NS type="FV"><i>use</i><c>to use</c></NS>. But <NS type="RA"><i>it</i><c>this</c></NS> is good and bad <NS type="RT"><i>in</i><c>at</c></NS> the same time. Good because you can have <NS type="S"><i>acess</i><c>access</c></NS> to a lot of <NS type="CN"><i>informations</i><c>information</c></NS>, and it is bad because the computers are <NS type="RV"><i>getting</i><c>doing</c></NS> <NS type="UD"><i>the</i></NS> people's work. Nowadays we have teachers, and tomorrow? Who <NS type="AGV"><i>have</i><c>has</c></NS> the certain <NS type="MN"><c>knowledge</c></NS> that <NS type="UD"><i>the</i></NS> computers will not <NS type="RV"><i>get</i><c>take</c></NS> the place of <NS type="UD"><i>the</i></NS> teachers? It is interesting to <NS type="FV"><i>starts</i><c>start</c></NS> to think about this point.</p>
+          <p>Another point is that <NS type="UD"><i>the</i></NS> television is taking <NS type="UD"><i>the</i></NS> childhood <NS type="RT"><i>of</i><c>away from</c></NS> <NS type="UD"><i>the</i></NS> children. For example, our parents had time to <NS type="FV"><i>played</i><c>play</c></NS> with dolls or toys, and the new generation don't have time for this, because they spend a lot of time in front of televisions that only <NS type="AGV"><i>shows</i><c>show</c></NS> silly programmes.</p>
+          <p>We need this technology, but we have to know how to control <NS type="RA"><i>this</i><c>it</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

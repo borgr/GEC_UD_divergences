@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR486*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>13.06.2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>Your letter which says I won first prize in your competition has just <NS type="UV"><i>been</i></NS> arrived. I <NS type="TV"><i>love</i><c>would love</c></NS> to come <NS type="MT"><c>to</c></NS> the camp <NS type="MT"><c>in</c></NS> California. Thank you very much for making my dreams real. I always <NS type="TV"><i>want</i><c>wanted</c></NS> to go and <NS type="S"><i>se</i><c>see</c></NS> <NS type="MD"><c>the</c></NS> USA!</p>
+          <p>I would like to answer your questions about this trip. <NS type="R"><i>Before everything</i><c>First of all</c></NS>, I'm living in Leeds and also studying English <NS type="RT"><i>in</i><c>at</c></NS> a college. <NS type="R"><i>Such being the case</i><c>Therefore</c></NS>, I need to wait until my college's lessons <NS type="TV"><i>finishes</i><c>have finished</c></NS>. If <NS type="U"><i>it's</i></NS> possible <NS type="U"><i>for you</i></NS> I would prefer to come in July. Before <NS type="R"><i>this time</i><c>now</c></NS>, I <NS type="TV"><i>usually stay</i><c>have usually stayed</c></NS> in log cabins, <NS type="RP"><i>But</i><c>but</c></NS> I <NS type="TV"><i>never had</i><c>have never had</c></NS> <NS type="MD"><c>the</c></NS> chance <NS type="UT"><i>for</i></NS> <NS type="FV"><i>staying</i><c>to stay</c></NS> in a tent. <NS type="ID"><i>According to me</i><c>In my opinion</c></NS>, <NS type="RV"><i><NS type="FV"><i>to say</i><c>saying</c></NS></i><c>staying</c></NS> in <NS type="UD"><i>the</i></NS> tents is <NS type="S"><i>mor</i><c>more</c></NS> exciting than <NS type="FV"><i>to stay</i><c>staying</c></NS> in <NS type="UD"><i>the</i></NS> log cabins. That's why<NS type="UP"><i>,</i></NS> I would love <NS type="R"><i>to choose tents for living for 2 weeks</i><c>to live in a tent for 2 weeks</c></NS>!</p>
+          <p><NS type="ID"><i>On the other hand</i><c>In addition</c></NS>, I've just learnt from your letter that I can <NS type="RV"><i>have</i><c>do</c></NS> some <NS type="DJ"><i>sport</i><c>sporting</c></NS> activities during the camp. I'm very happy about this<NS type="UP"><i>. Because</i><c>because</c></NS><NS type="UP"><i>,</i></NS> I spent most of my <NS type="S"><i>scholl</i><c>school</c></NS> life <NS type="MV"><c>playing</c></NS> <NS type="UT"><i>for</i></NS> sports, <NS type="RY"><i>specially</i><c>especially</c></NS> <NS type="UT"><i>for</i></NS> basketball. But, after <NS type="RV"><i>staring</i><c>starting</c></NS> to work, I <NS type="TV"><i>hadn't</i><c>haven't had</c></NS> any <NS type="RN"><i>chance</i><c>opportunity</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>playing</i><c>to play</c></NS> basketball. Now, you <NS type="TV"><i>gave</i><c>are giving</c></NS> <NS type="MA"><c>me</c></NS> <NS type="FD"><i>a</i><c>an</c></NS> opportunity. As <NS type="UD"><i>a</i></NS> my second <NS type="AGN"><i>activities</i><c>activity</c></NS>, I would like to choose photography, because my education <NS type="UV"><i>was</i></NS> <NS type="TV"><i>including</i><c>included</c></NS> photography<NS type="RP"><i>,</i><c>.</c></NS> I love <NS type="FV"><i>to take</i><c>taking</c></NS> <NS type="UQ"><i>some</i></NS> photographs <NS type="RT"><i>about</i><c>of</c></NS> nature.</p>
+          <p>Meanwhile, I'd like to ask <NS type="W"><i>some questions <NS type="UT"><i>to</i></NS> you</i><c>you some questions</c></NS>. When <NS type="TV"><i>I'm coming</i><c>I come</c></NS>, what <NS type="SX"><i>king</i><c>kind</c></NS> of clothes <NS type="RV"><i>could</i><c>would</c></NS> <NS type="MA"><c>I</c></NS> be able to wear <NS type="UT"><i>in</i></NS> there? And also, <NS type="UA"><i>what</i></NS> <NS type="W"><i>do you think how much money</i><c>how much money do you think</c></NS><NS type="UP"><i>,</i></NS> I'll need <NS type="UV"><i>to spend</i></NS> for two weeks<NS type="RP"><i>.</i><c>?</c></NS> I'm looking forward <NS type="RT"><i>for</i><c>to</c></NS> your answers.</p>
+          <p>Thank you very much.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely.</p>
+          <p>Elif</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hello! I hope you're fine<NS type="UP"><i>. Because,</i><c>because</c></NS> <NS type="UT"><i>in</i></NS> these days I'm very happy. I would like to write about a pop concert which I went <NS type="MT"><c>to</c></NS> last week. It was <NS type="MD"><c>a</c></NS> very good experience for me<NS type="UP"><i>. Because</i><c>because</c></NS> it was <NS type="MD"><c>a</c></NS> very different kind of pop music. They mixed up <NS type="UD"><i>the</i></NS> our <NS type="S"><i>traditonal</i><c>traditional</c></NS> <NS type="MN"><c>music</c></NS> and pop music.</p>
+          <p>I also helped them before the concert started. I learnt how to <NS type="RV"><i>be</i><c>get</c></NS> ready for a big concert! Lots of people came <NS type="MT"><c>to</c></NS> this area, and I also learnt how to arrange something. Then I was very tired but I enjoyed <NS type="UT"><i>with</i></NS> the music very much. I hope next time, if you come <NS type="SX"><i>hear</i><c>here</c></NS>, we can go together, <NS type="MC"><c>and</c></NS> <NS type="RP"><i>may be</i><c>maybe</c></NS> you can help me!</p>
+          <p>I would like to <NS type="RV"><i>learn</i><c>hear</c></NS><NS type="UP"><i>,</i></NS> <NS type="MT"><c>about</c></NS> what's happening in your life, as well. Take care...</p>
+          <p><NS type="FN"><i>Loves</i><c>Love</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

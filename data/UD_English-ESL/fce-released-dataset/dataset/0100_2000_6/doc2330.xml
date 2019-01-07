@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR934*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>I am very happy to hear that I've won first prize in your competition. Below I provide you with the information that you asked me for. I would like to travel in July. I already have plans for my holiday and July suits me the best. As for <NS type="S"><i>accomodation</i><c>accommodation</c></NS><NS type="MP"><c>,</c></NS> I would prefer log cabins, because I <NS type="S"><i>belive</i><c>believe</c></NS> they are more comfortable <NS type="SX"><i>then</i><c>than</c></NS> tents.</p>
+          <p>The activities I would like to do during my stay are golf and surfing.</p>
+          <p>I <NS type="TV"><i>never tried</i><c>have never tried</c></NS> those sports, because they are quite expensive.</p>
+          <p>I have two questions. Could you tell me what <NS type="W"><i>are the weather conditions in California</i><c>the weather conditions in California are</c></NS> at that time of year, because I want to know what clothes to take. Am I supposed to take an outfit for sports as well?</p>
+          <p>The other question is about money. Will I be given any pocket-money or do I need to bring my own money to cover additional <NS type="S"><i>expences</i><c>expenses</c></NS>?</p>
+          <p>Yours sincerely</p>
+          <p>Adalbert Turnau</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>First I would like to say that <NS type="RV"><i>doing</i><c>making</c></NS> a video about daily life at our school is <NS type="MD"><c>a</c></NS> great idea. Some people may think that school is boring and nothing interesting ever happens there. I hope that after seeing this video most people will change their view on that topic. To make that happen, we have to find some interesting activities to film.</p>
+          <p>Below are my suggestions <NS type="RT"><i>of</i><c>for</c></NS> what should be filmed.</p>
+          <p>The first thing to be filmed is our English lesson, because our teacher Mr. S. has a lot of weird ideas and we could get a lot of fun moments on tape. The chemistry lesson should be filmed because we do a lot of interesting experiments there. The computer class <NS type="TV"><i>can</i><c>could</c></NS> be also there, because <NS type="FV"><i>program</i><c>programming</c></NS> and internet surfing <NS type="AGV"><i>is</i><c>are</c></NS> quite interesting.</p>
+          <p>As for other activities, there is a Jiu-Jitsu class after regular lessons. Martial arts are <NS type="DY"><i>realy</i><c>really</c></NS> exciting and are a great thing to film.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

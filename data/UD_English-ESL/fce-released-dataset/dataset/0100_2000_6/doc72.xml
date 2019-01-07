@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR279*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I am writing to <NS type="RV"><i>inform</i><c>give</c></NS> <NS type="MA"><c>you</c></NS> the further information about myself. I was very glad to hear that I <NS type="TV"><i>won</i><c>had won</c></NS> the competition.</p>
+          <p>First of all, I can only travel in July. I have a summer holiday from <NS type="UT"><i>at</i></NS> the end of June to <NS type="UT"><i>at</i></NS> the <NS type="SX"><i>begging</i><c>beginning</c></NS> of September as I am a student, but I am <NS type="IV"><i>planing</i><c>planning</c></NS> to work in August <NS type="RT"><i>as</i><c>in</c></NS> a part-time job. So that's the reason why I <NS type="RP"><i>can not</i><c>cannot</c></NS> travel in August. I prefer to stay in tents rather than log cabins<NS type="UP"><i>,</i></NS> because I have <NS type="RV"><i>had</i><c>been</c></NS> <NS type="UD"><i>a</i></NS> camping once and I stayed in tents. It was great to have <NS type="UD"><i>a</i></NS> fun and also <NS type="R">it was very good <NS type="SX"><i>memorise</i><c>memories</c></NS></NS>. As you said I will have the opportunity to do two activities. I am quite good at singing and I have a talent <NS type="RT"><i>about</i><c>for</c></NS> singing that <NS type="MV"><c>means</c></NS> I can entertain people by singing. In addition I am keen on swimming but actually I am not very good at swimming because I have just started to learn <NS type="FV"><i>swimming</i><c>to swim</c></NS> but I have really been enjoying it and I think it will be <NS type="MD"><c>a</c></NS> good chance to improve my swimming.</p>
+          <p>In fact, I have some questions <NS type="R"><i>that</i><c>about</c></NS> how much money I will need, what else I have to bring with <NS type="MA"><c>me</c></NS> and <NS type="CE">if I have a emergency what you can do for</NS>.</p>
+          <p>Once again, I am very happy to have such a good opportunity and I hope this letter <NS type="RV"><i>can bring</i><c>tells you</c></NS> what you want to know about me. Thank you for your attention.</p>
+          <p>Yours sincerely</p>
+          <p>Lee. Han</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>These days, there are so many people <NS type="MA"><c>who</c></NS> like shopping that it is one of the important <NS type="AGN"><i>part</i><c>parts</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> our life. It is not, however, always enjoyable <NS type="RC"><i>that</i><c>and</c></NS> there are both advantages and disadvantages.</p>
+          <p>First of all, there are quite <NS type="RQ"><i>many</i><c>a lot of</c></NS> advantages <NS type="RT"><i>of</i><c>to</c></NS> shopping<NS type="MP"><c>,</c></NS> <NS type="MA"><c>which</c></NS> are that it can be the <NS type="DN"><i>solvation</i><c>solution</c></NS> <NS type="RT"><i>of</i><c>to</c></NS> our stress and <NS type="DN"><i>boring</i><c>boredom</c></NS>. When you are under stress or when you are bored, if you go <NS type="UT"><i>to</i></NS> shopping, then at least it can be <NS type="MD"><c>a</c></NS> <NS type="RN">motive</NS> to change your <NS type="RN"><i>mode</i><c>mood</c></NS>. Also shopping makes people happier by <NS type="RV"><i>using</i><c>costing</c></NS> a lot of money and it <NS type="AGV"><i><NS type="S"><i>influnce</i><c>influence</c></NS> even</i><c>even influences</c></NS> <NS type="MD"><c>the</c></NS> <NS type="R">economic situation more <NS type="S"><i>flexably</i><c>flexibly</c></NS>.</NS></p>
+          <p>There are, in contrast, disadvantages at the same time. When we are <NS type="UV"><i>having</i></NS> <NS type="UD"><i>a</i></NS> shopping, we often find that the place where people often go for <NS type="UD"><i>a</i></NS> shopping is too <NS type="SX"><i>crowed</i><c>crowded</c></NS> and it makes us more tired. Also there are plenty of <NS type="DN"><i>dangerous</i><c>dangers</c></NS> <NS type="RC"><i>that</i><c>since</c></NS> lots of people have <NS type="MD"><c>their</c></NS> wallet <NS type="IV"><i>stollen</i><c>stolen</c></NS> because it is a public place and there are too many people. In addition<NS type="MP"><c>,</c></NS> shop <NS type="FN"><i>owner</i><c>owners</c></NS> often cheat their customers by increasing the cost <NS type="S"><i>secreatly</i><c>secretly</c></NS>. The customer can never know what price is the normal <NS type="MA"><c>one</c></NS> unless they have <NS type="RD"><i>a</i><c>the</c></NS> same shop or <NS type="MD"><c>the</c></NS> same thing.</p>
+          <p>To sum up, shopping is <NS type="MD"><c>a</c></NS> very important part of our life and we can have a lot of fun, however it is not always enjoyable which means we <NS type="RP"><i>can not</i><c>cannot</c></NS> find only advantages <NS type="RT"><i>from</i><c>to</c></NS> it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

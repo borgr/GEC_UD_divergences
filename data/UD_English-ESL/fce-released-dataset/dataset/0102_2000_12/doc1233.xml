@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR508*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>16.12.2000<NS type="U"><i>y</i></NS></p>
+          <p>Dear Ms Clark,</p>
+          <p>I am writing to you in connection with the advertisement in <NS type="MD"><c>the</c></NS> newspaper. I would like to <NS type="RV"><i>express</i><c>explain</c></NS> a couple of thoughts that I <NS type="TV"><i>have</i><c>had</c></NS> after the festival that I have recently seen.</p>
+          <p>I believe that it was a great idea to organise such a <NS type="S"><i>festivel</i><c>festival</c></NS>, connected with art and culture. <NS type="RY"><i>Especially</i><c>In particular</c></NS><NS type="MP"><c>,</c></NS> the date was very suitable for me, as I have a lot of free time.</p>
+          <p>What is more<NS type="MP"><c>,</c></NS> there was a wide <NS type="S"><i>vareiety</i><c>variety</c></NS> of music<NS type="MP"><c>.</c></NS> Although the artists were supposed to be from all <NS type="RN"><i>counties</i><c>countries</c></NS>, there were only six nationalities.</p>
+          <p>I hope that next year there will be <NS type="CQ"><i>much</i><c>many</c></NS> more possibilities to enjoy films or plays and that the halls will be bigger, as they were overcrowded. However I was really <NS type="S"><i>suprised</i><c>surprised</c></NS> that the <NS type="S"><i>entrence</i><c>entrance</c></NS> fee was so low. I <NS type="W"><i>have also</i><c>also have</c></NS> one suggestion, if I may. Maybe next year the festival could <NS type="UV"><i>be</i></NS> <NS type="FV"><i>ended</i><c>end</c></NS> with <NS type="MD"><c>a</c></NS> <NS type="FN"><i>fireworks</i><c>firework</c></NS> <NS type="RN"><i>show</i><c>display</c></NS>.</p>
+          <p>Thank you for your kind attention and I hope that my <NS type="CN"><i>advices</i><c>advice</c></NS> <NS type="TV"><i>would</i><c>will</c></NS> <NS type="RV"><i>occur</i><c>be</c></NS> useful.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Tom,</p>
+          <p><NS type="W"><i>Just I got</i><c>I just got</c></NS> your letter and sat <NS type="MY"><c>down</c></NS> straight away to write <NS type="W"><i><NS type="MT"><c>to</c></NS> you a few sentences</i><c>a few sentences to you</c></NS> that will illustrate my opinion.</p>
+          <p>To begin with, I'd like to show you <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>are my obligations</i><c>my obligations are</c></NS> at school. Although we have to change our <NS type="RN"><i>boots</i><c>shoes</c></NS>, we don't need to wear special uniforms. Our clothes should be in <NS type="UD"><i>a</i></NS> good taste. We are also allowed to have jewellery and <NS type="UD"><i>a</i></NS> make-up, <NS type="RA"><i>what's</i><c>which is</c></NS> especially <NS type="RJ"><i>crucial</i><c>important</c></NS> for girls.</p>
+          <p>When it <NS type="RV"><i>goes</i><c>comes</c></NS> to my home, I think I have <NS type="MD"><c>the</c></NS> usual duties<NS type="MP"><c>:</c></NS> I have to clean my room, wash the dishes or vacuum the carpets, but they're not exhausting things, as I share them with my sister and brother. <NS type="RY"><i>However</i><c>Furthermore</c></NS><NS type="MP"><c>,</c></NS> my parents aren't demanding<NS type="RP"><i>,</i><c>:</c></NS> I have to be home <NS type="W"><i>at <NS type="MD"><c>the</c></NS> <NS type="RJ"><i>least</i><c>latest</c></NS> <NS type="RT"><i>at</i><c>by</c></NS> 11 o'clock</i><c>by 11 o'clock at the latest</c></NS> and tell them where I <NS type="TV"><i>go</i><c>am going</c></NS> <NS type="UY"><i>out</i></NS>.</p>
+          <p>In my opinion there's nothing <NS type="RJ"><i>special</i><c>particular</c></NS> that I'd like to change, <NS type="MT"><c>except</c></NS> maybe only <NS type="U"><i>this, that I wouldn't</i></NS> <NS type="FV"><i>have</i><c>having</c></NS> to change my <NS type="RN"><i>boots</i><c>shoes</c></NS>.</p>
+          <p>I hope that <NS type="RA"><i>it'll</i><c>this will</c></NS> <NS type="S"><i>claryfy</i><c>clarify</c></NS> your questions and doubts. So, that will be everything <NS type="UT"><i>as</i></NS> for now. I'm looking <NS type="S"><i>foreward</i><c>forward</c></NS> to hearing from you.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

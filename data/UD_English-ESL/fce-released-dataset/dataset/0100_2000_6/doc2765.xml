@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR776*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I received your letter the other day, <NS type="MC"><c>and</c></NS> I was very happy to find out that I <NS type="TV"><i>won</i><c>had won</c></NS> two weeks at Camp California. Well, to answer <NS type="UT"><i>to</i></NS> your questions, I would prefer to attend <NS type="UT"><i>at</i></NS> this camp during the month of July because it is the only time when I can <NS type="RV"><i>get</i><c>take</c></NS> <NS type="FN"><i>vacations</i><c>a vacation</c></NS>. <NS type="RA"><i>It</i><c>This</c></NS> is because I am an apprentice, so they <NS type="W"><i>let me have my vacations only in July</i><c>only let me have my vacations in July</c></NS>!!</p>
+          <p>Well, <NS type="RT"><i>for</i><c>regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> at Camp California I would prefer staying in a tent. I think it is more fun sleeping in a tent than in a log cabin. It is more like <NS type="MD"><c>an</c></NS> adventure being in a tent, and you are closer to <NS type="UD"><i>the</i></NS> nature, and the animals!</p>
+          <p>For <NS type="R"><i>the</i><c>my</c></NS> activities I think I will choose swimming because I love swimming and being in the water. And I am really good at it<NS type="RP"><i>,</i><c>. </c></NS> I used to <NS type="RV"><i>do</i><c>enter</c></NS> <NS type="UQ"><i>some</i></NS> competitions when I was younger. And for the other <NS type="MN"><c>activity</c></NS> I will <NS type="TV"><i>chose</i><c>choose</c></NS> tennis<NS type="RP"><i>,</i><c>.</c></NS> I really enjoy this sport<NS type="RP"><i>,</i><c>.</c></NS> I am not really a good player but I like to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>play</c></NS> tennis <NS type="RT"><i>during</i><c>in</c></NS> my free time! Since I'm coming <NS type="RT"><i>during</i><c>in</c></NS> the month of July what kind of clothes should I take with me<NS type="RP"><i>, and</i><c>?  And</c></NS> I have another question<NS type="RP"><i>, it's</i><c>. It's</c></NS> about money. How much should I take? And is it better to have <NS type="RN"><i>change</i><c>cash</c></NS> or <NS type="RN"><i>checks</i><c>cheques</c></NS>?</p>
+          <p>Best <NS type="RP"><i>Regards</i><c>regards</c></NS>,</p>
+          <p>Helen</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Well this is <NS type="DY"><i>abosolutly</i><c>absolutely</c></NS> true, <NS type="S"><i>espacially</i><c>especially</c></NS> when you go shopping on Saturday. Everyone goes shopping on Saturday so the mall is always <NS type="SX"><i>crowed</i><c>crowded</c></NS>, and most of the people are stressed<NS type="RP"><i>, it's</i><c>.  It's</c></NS> crazy. For <NS type="S"><i>exemple</i><c>example</c></NS><NS type="MP"><c>,</c></NS> you go into a <NS type="RN"><i>cloth</i><c>clothes</c></NS> shop, you see all those women running around trying to find the shirt that <NS type="TV"><i>would</i><c>will</c></NS> <NS type="RV"><i>fit</i><c>match</c></NS> their new skirt, so they are looking <NS type="RP"><i>every where</i><c>everywhere</c></NS>, pushing you because they think that you will take the shirt that they want. And then they have <NS type="MA"><c>it</c></NS> and you have to wait to try on the pants or the skirt you <NS type="TV"><i>choose</i><c>have chosen</c></NS>. And you have to wait after <NS type="MA"><c>that</c></NS> to buy it, so finally you <NS type="TV"><i>waited</i><c>have waited</c></NS> so long that you <NS type="RV"><i><NS type="TV"><i>are getting</i><c>have got</c></NS></i><c>have become</c></NS> late, so you get stressed <NS type="SX"><i>to</i><c>too</c></NS>. So it's really not enjoyable to go shopping. Plus<NS type="MP"><c>,</c></NS> most of the time, you see all those mothers looking after their kids, and yelling their <NS type="W"><i>name's kids</i><c>kids' names</c></NS> <NS type="RT"><i>into</i><c>in</c></NS> the shopping mall because they <NS type="TV"><i>lost</i><c>have lost</c></NS> them. So you <NS type="TV"><i>are getting</i><c>get</c></NS> a headache because you hear the kids crying, the mothers yelling<NS type="RP"><i>, if</i><c>.  If</c></NS> I can give you <NS type="R"><i>an</i><c>some</c></NS> advice: DON'T GO SHOPPING ON SATURDAY!! You get headaches, you get stressed, and finally you get <NS type="S"><i>bruses</i><c>bruises</c></NS> because of the woman <NS type="RA"><i>that</i><c>who</c></NS> pushed you to get the pretty skirt before you!!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

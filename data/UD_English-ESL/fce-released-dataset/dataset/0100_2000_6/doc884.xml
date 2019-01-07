@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR360*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you in response to your letter<NS type="RP"><i>,</i><c>.</c></NS> I was delighted to know that I won the first <NS type="RN"><i>price</i><c>prize</c></NS>.</p>
+          <p>With reference to the date, I <NS type="W"><i>only can</i><c>can only</c></NS> go <NS type="RT"><i>on</i><c>in</c></NS> July, as I'm going off on holiday <NS type="RT"><i>on</i><c>in</c></NS> August, and I start university <NS type="RT"><i>on</i><c>in</c></NS> September. The place I'd prefer to stay in is a log cabin, where I'm sure I'd feel more <NS type="S"><i>confortable</i><c>comfortable</c></NS> than in a tent.</p>
+          <p>It's very nice of you to let me choose my favourite activities. The ones I'm most keen on are <NS type="RP"><i>Tennis</i><c>tennis</c></NS>, <NS type="RT"><i>in</i><c>at</c></NS> which I think I'm pretty good since I took some classes last year, and <NS type="RP"><i>Painting</i><c>painting</c></NS>, which is one of my favourite hobbies, and helps me to relax <NS type="UA"><i>myself</i></NS> and forget about problems. I think I'm not bad at painting either<NS type="RP"><i>,</i><c>;</c></NS> at least everyone in my family likes my work, <NS type="S"><i>includying</i><c>including</c></NS> myself.</p>
+          <p>Anyway, there are some questions I'd like to ask you: <NS type="RP"><i>What</i><c>what</c></NS> kind of clothes would be the most suitable for California weather in summer, and how much money do you think I'll need?</p>
+          <p>I'm <NS type="RV"><i>waiting</i><c>looking</c></NS> forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+          <p>Manela B.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm so sorry I haven't written until now, but you know I'm always very busy.</p>
+          <p>As I told you in my last letter, last month I worked for a pop band, and helped them at a concert in Barcelona. It was such a great experience!</p>
+          <p>Basically my work was carrying the instruments, the speakers and the lights from the vans to the stage, which is not <NS type="UD"><i>an</i></NS> easy work because, as you can imagine, it's not exactly light stuff.</p>
+          <p>But the most exciting part was meeting the band, mainly the singer and the drummer who are very nice and also good-looking.</p>
+          <p>Anyway, I had <NS type="MD"><c>a</c></NS> lot of fun working for them. I hope they call me soon<NS type="RP"><i>,</i><c>.</c></NS> I'd be the happiest girl in the world if I could see them again...</p>
+          <p>I'd better <NS type="RV"><i>leave</i><c>stop</c></NS> now. I hope you write again soon.</p>
+          <p>Manela B.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing in order to express my disappointment <NS type="RT"><i>about</i><c>with</c></NS> your musical show "Over the Rainbow".</p>
+          <p>I <NS type="IV"><i>saws</i><c>saw</c></NS> the show's advertisement hanging up <NS type="RT"><i>of</i><c>on</c></NS> a wall in London where I was spending my holiday with some friends. I convinced them to go there with me because I had heard good <NS type="RN"><i>references</i><c>reviews</c></NS> <NS type="RT"><i>about</i><c>of</c></NS> your Company and, above all, <NS type="RT"><i>about</i><c>because of</c></NS> the main star, Danny Brook.</p>
+          <p>The problems started <NS type="RT"><i>in</i><c>at</c></NS> the box office, where we asked for the discounts you announced in the advertisement, and the man who was selling the tickets said that they didn't exist.</p>
+          <p>Moreover, the show was delayed forty-five minutes and the worst of all was that Danny Brook had been replaced by another actor.</p>
+          <p><NS type="ID"><i>On the other hand</i><c>In addition</c></NS>, the theatre restaurant was closed <NS type="R"><i>because</i><c>for</c></NS> unknown reasons.</p>
+          <p>You promised a perfect evening but it became a big <NS type="DN"><i>disastrous</i><c>disaster</c></NS>!</p>
+          <p>I would like some kind of explanation and <NS type="FV"><i><NS type="RV"><i>receive</i><c>get</c></NS></i><c>to get</c></NS> my money back. If you don't agree, I will act <NS type="UY"><i>consequently</i></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Last Wednesday Carole received a letter. The stamp was from a foreign country and the address was written in Capital Letters. She didn't recognize the writing. She began to read<NS type="MP"><c>,</c></NS> "Dear Carolin..<NS type="MP"><c>"</c></NS> There was only <NS type="RQ"><i>a</i><c>one</c></NS> person who used to call her by this name. It brought a lot of memories back to her. It was long time ago, when she was fourteen and Paul sixteen. He was her first love and also the first who kissed her. Paul had to move to Mexico because of his father's work. When they were saying goodbye Paul <NS type="MV"><c>said</c></NS><NS type="MP"><c>,</c></NS> "I will be the last person who will kiss you". "It sounds nice but I don't believe it<NS type="MP"><c>,</c></NS>" she replied. "You only have to wait<NS type="MP"><c>,</c></NS>" he said. But she didn't wait. She got married and had two children. <NS type="ID"><i>At this moment</i><c>At the time</c></NS> Carole was living with her husband but they didn't love each other any more. Their love had finished. In his letter Paul said that he had become a rich man and he would come back to meet her again. Her friend Pat had explained the whole story <NS type="RT"><i>at</i><c>to</c></NS> her husband. What <NS type="W"><i>she would</i><c>would she</c></NS> do?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

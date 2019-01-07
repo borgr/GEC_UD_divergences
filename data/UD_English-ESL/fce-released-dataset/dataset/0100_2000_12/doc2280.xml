@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR913*0100*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I am writing, <NS type="ID"><i>on the name of</i><c>on behalf of</c></NS> all my English class, to thank you for the opportunity you <NS type="TV"><i>give</i><c>are giving</c></NS> us to spend three days in London, but also to suggest some modifications <NS type="RT"><i>in</i><c>to</c></NS> the programme.</p>
+          <p>The programme you <NS type="AGV"><i>has</i><c>have</c></NS> already organised is very interesting, especially because it provides a good combination <NS type="RT"><i>between</i><c>of</c></NS> cultural visits and more relaxed activities.</p>
+          <p>But, <NS type="ID"><i>in another hand</i><c>on the other hand</c></NS>, we have seen an advertisement for the "London Fashion and Leisure Show", which includes a range of different stands. The only day we can attend <NS type="UT"><i>to</i></NS> this show is <NS type="UD"><i>the</i></NS> Tuesday 14th March from 10 am to 7 pm in the Central Exhibition Hall.</p>
+          <p>We are really interested in visiting this <NS type="DJ">unhabitual</NS> show and the main advantage is that <NS type="UD"><i>the</i></NS> entry is free for students.</p>
+          <p>In conclusion, I suggest that we go directly <NS type="W"><i>after the Science Museum to the show</i><c>to the show after the Science Museum</c></NS>. We all agree that we have enough time <NS type="RT"><i>in</i><c>on</c></NS> Wednesday for shopping.</p>
+          <p>I hope that you will agree <NS type="RT"><i>with</i><c>to</c></NS> this suggestion. I am waiting for your answer.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Famous people, such as politicians and film stars, deserve to have a private life without journalists <NS type="S"><i>fellowing</i><c>following</c></NS> them all the time<NS type="MP"><c>.</c></NS></p>
+          <p>Famous people have always been the <NS type="SA"><i>center</i><c>centre</c></NS> of interest for <NS type="MD"><c>a</c></NS> number of people. Their <NS type="FN"><i>wedding</i><c>weddings</c></NS>, their <NS type="FN"><i>holiday</i><c>holidays</c></NS>, their new <NS type="FN"><i>haircut</i><c>haircuts</c></NS> and so on. But do we think enough about the right to have a private life?</p>
+          <p>We can <NS type="RV"><i>watch</i><c>consider</c></NS> this problem from two different points of view. <NS type="ID"><i>From one side</i><c>On the one hand</c></NS>, <NS type="AGD"><i>this</i><c>these</c></NS> people chose to become public <NS type="RN"><i>people</i><c>figures</c></NS>. If we don't want to be in the newspapers, we don't <NS type="RV"><i>do</i><c>go into</c></NS> politics or <NS type="MD"><c>the</c></NS> movies! But<NS type="MP"><c>,</c></NS> <NS type="ID"><i>from the other</i><c>on the other hand</c></NS>, everybody has the right to have a secret garden, the right to be with his/her family without <NS type="FV"><i>be</i><c>being</c></NS> disturbed by journalists and photographers. The case of <NS type="UD"><i>the</i></NS> Princess Diana showed how this problem can reach <NS type="UQ"><i>such</i></NS> <NS type="RN"><i>extremities</i><c>extremes</c></NS>.</p>
+          <p>In conclusion, I would say that both <NS type="RN"><i>parts</i><c>parties</c></NS>, famous people and journalists, have to respect some rules. As public people, stars and politicians have to <NS type="RV"><i>accord</i><c>allot</c></NS> some time to their public but fans and press people have to respect their private life and to stay polite and respectful.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

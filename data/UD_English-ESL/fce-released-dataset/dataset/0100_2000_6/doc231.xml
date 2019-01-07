@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR928*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam:</p>
+          <p>Thank you for telling me that I have won the first prize and now I am writing to <NS type="RV"><i>tell</i><c>give</c></NS> you the information you have requested.</p>
+          <p>First of all, I think I would like to travel in July, which will be the only month <NS type="R"><i>for me</i><c>when I will be able</c></NS> to go<NS type="RP"><i>. Because</i><c>, because</c></NS> my course won't finish until the end of June, and I will have to stay in the college to get ready for the new term.</p>
+          <p>Then I'd like to choose the tents for my accommodation when at Camp California. I think sleeping in a tent is <NS type="RJ"><i>funnier</i><c>more fun</c></NS> than <NS type="IQ"><i>others</i><c>other</c></NS> <NS type="M"></NS>. <NS type="RY"><i>However</i><c>Also</c></NS>, during my stay at Camp, there are two activities I can choose<NS type="RP"><i>, <NS type="MT"><c>for</c></NS></i><c>. For</c></NS> one of them I will choose Basketball because it is the sport I play most<NS type="RP"><i>,</i><c>.</c></NS> I and my friend used to win the first <NS type="RN">place</NS> in <NS type="MD"><c>the</c></NS> <NS type="DJ">school-wide</NS> match when we <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> school. And <NS type="MT"><c>for</c></NS> the other one, I think painting will be a good idea; <NS type="RP"><i>Painting</i><c>painting</c></NS> is one of my hobbies and I've been <NS type="RV"><i>learning</i><c>studying</c></NS> it since I was 5 years old and now I'm still doing it <NS type="R"><i>once</i><c>when</c></NS> I have <NS type="MQ"><c>some</c></NS> free time.</p>
+          <p>Above <NS type="AGV"><i>are</i><c>is</c></NS> all the information you asked <NS type="MT"><c>for</c></NS><NS type="RP"><i>, however</i><c>. However</c></NS>, <NS type="RA"><i>here</i><c>there</c></NS> are <NS type="AGN"><i><NS type="RP"><i>something</i><c>some thing</c></NS></i><c>some things</c></NS> I'd like to know; <NS type="MD"><c>the</c></NS> first is about the clothes<NS type="RP"><i>, what</i><c>. What</c></NS> kind of clothes <NS type="MV"><c>do</c></NS> I need to take with <NS type="MA"><c>me</c></NS>? And another question is what <NS type="AGV"><i>is</i><c>are</c></NS> the prices of things like <NS type="UT"><i>in</i></NS> there, <NS type="M"><c>which I want to know</c></NS> so that I can make a better <NS type="S"><i>buget</i><c>budget</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> my trip.</p>
+          <p><NS type="MA"><i>Look</i><c>I look</c></NS> forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>Thanks for your last letter; I knew you would <NS type="MV"><c>be</c></NS> interested <NS type="RT"><i>at</i><c>in</c></NS> my experience of helping <NS type="MT"><c>at</c></NS> the pop concert <NS type="R">last time</NS><NS type="RP"><i>, now</i><c>. Now</c></NS> I <NS type="TV"><i>tell</i><c>will tell</c></NS> you about it.</p>
+          <p>The place <NS type="MY"><c>where</c></NS> we worked was a football pitch; we spent 3 days <NS type="UT"><i>on</i></NS> setting up the stage, the <NS type="S"><i>equitment</i><c>equipment</c></NS>, and the lights. In fact, there <NS type="TV"><i>is</i><c>was</c></NS> nothing very important I did, because we <NS type="TV"><i>are</i><c>were</c></NS> not the right people to do it. I only put the speakers in the right places, or <NS type="TV"><i>helping</i><c>helped</c></NS> <NS type="MD"><c>the</c></NS> <NS type="S"><i>engieners</i><c>engineers</c></NS> <NS type="FV"><i>tested</i><c>test</c></NS> the lights.</p>
+          <p>But <NS type="RT"><i>at</i><c>in</c></NS> the <NS type="RN"><i>brakes</i><c>breaks</c></NS> and after work, I had a chance to talk with the <NS type="S"><i>engieners</i><c>engineers</c></NS>, and I <NS type="RV"><i>leant</i><c>learnt</c></NS> something about setting up the <NS type="S"><i>equitment</i><c>equipment</c></NS>.</p>
+          <p>The fourth day, the singers and the <NS type="RN"><i>players</i><c>musicians</c></NS> <NS type="TV"><i>have been</i><c>were</c></NS> <NS type="UT"><i>to</i></NS> there to <NS type="RV">test</NS>. Then I had a chance to speak with them. From that, I learnt more about <NS type="MD"><c>the</c></NS> instruments.</p>
+          <p>Finally, the <NS type="RN"><i>date</i><c>day</c></NS> of <NS type="MD"><c>the</c></NS> <NS type="S"><i>concer</i><c>concert</c></NS> came. After the <NS type="S"><i>concer</i><c>concert</c></NS> finished successfully, I was happier than ever because the <NS type="DN"><i>succeed</i><c>success</c></NS> <NS type="S"><i>inclueded</i><c>included</c></NS> my work and that was the most enjoyable moment in my life.</p>
+          <p>Anyway, now I have to stop to finish my homework. I'm looking forward to receiving your letter again.</p>
+          <p>Best wishes.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

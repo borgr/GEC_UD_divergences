@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR156*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you <NS type="IV"><i>followwing</i><c>following</c></NS> our <NS type="DN"><i><NS type="IV"><i>visitting</i><c>visiting</c></NS></i><c>visit</c></NS> <NS type="MT"><c>to</c></NS> your theatre last night. <NS type="AS"><i>As I saw from your advertisement in the newspaper, it said</i><c>Your advertisement in the newspaper said</c></NS> 'Starring: Danny Brook and Tina Truelove'. I was disappointed when I found the actor wasn't Danny Brook!</p>
+          <p>And <NS type="RT"><i>from</i><c>according to</c></NS> your advertisement, the show should <NS type="TV"><i>start</i><c>have started</c></NS> at 19.30 but it didn't. It was 45 minutes late! And also I couldn't buy tickets with my credit card but on the advertisement<NS type="UP"><i>,</i></NS> it said 'discounts available'<NS type="MP"><c>.</c></NS> I was really annoyed by that!</p>
+          <p>After the show, we <NS type="RV"><i><NS type="S"><i>expacted</i><c>expected</c></NS></i><c>had planned</c></NS> to eat something in your restaurant, but it <NS type="MV"><c>was</c></NS> closed! I have no idea why!</p>
+          <p>We had a really unenjoyable time at your theatre. And I would like to know if it <NS type="MV"><c>is</c></NS> <NS type="S"><i>posible</i><c>possible</c></NS> to have <NS type="RD"><i>the</i><c>our</c></NS> money back.</p>
+          <p>Thank you very much and I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours <NS type="RY"><i><NS type="S"><i>centainly</i><c>certainly</c></NS></i><c>sincerely</c></NS>,</p>
+          <p>Porawek Phowrung.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately Pat wasn't good at keeping secrets. So one week later all <NS type="MD"><c>the</c></NS> <NS type="AGN"><i>student</i><c>students</c></NS> in my class knew that I was an <NS type="RN"><i>angle</i><c>angel</c></NS>. <NS type="RY"><i>Certainly</i><c>Really</c></NS>! Nobody believed her... <NS type="RC"><i>neither</i><c>nor</c></NS> me.</p>
+          <p>But it's true... I'm an <NS type="RN"><i>angle</i><c>angel</c></NS> and I wanted to visit the earth. It's easy to do but the only <NS type="UD"><i>one</i></NS> rule was I <NS type="TV"><i>can</i><c>could</c></NS> tell my secret to only one person. And if someone <NS type="S"><i>elso</i><c>else</c></NS> <NS type="TV"><i>knows</i><c>knew</c></NS>, I <NS type="TV"><i>won't</i><c>wouldn't</c></NS> be able to go back to <NS type="UD"><i>the</i></NS> heaven unless I <NS type="TV"><i>kill</i><c>killed</c></NS> the person who told my secret.</p>
+          <p>Pat was the only person who I told my secret <NS type="MT"><c>to</c></NS> but now it has become a joke! I promised to myself... I would have to kill her!</p>
+          <p>I <NS type="RV"><i>started</i><c>began to follow</c></NS> my plan. I went to Pat's house but her brother told me that she wasn't there. I offered to wait... Her brother and I began to talk... He's such a nice boy. I liked him very much and I guessed he liked me too...</p>
+          <p>We started to go out <NS type="RT"><i>in</i><c>at</c></NS> the same time as I started to change my mind. I don't want to go back to <NS type="UD"><i>the</i></NS> heaven anymore as long as I am with him.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

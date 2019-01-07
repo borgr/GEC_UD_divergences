@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR362*0100*2000*02">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you <NS type="RT"><i>in relation to</i><c>in connection with</c></NS> our next programme in London from 13th March to 14th March. First <NS type="RT"><i>at</i><c>of</c></NS> all, it is a pleasure to say that the programme which you so kindly have prepared is very interesting, especially the visit to the National Art Gallery on Wednesday.</p>
+          <p>On the other hand, our class has recently <NS type="RV"><i>read</i><c>seen</c></NS> an advertisement for the London Fashion and Leisure Show<NS type="MP"><c>,</c></NS> which takes place during our visit to London, on Tuesday 14th. This show is a good opportunity to <NS type="RV"><i>know</i><c>learn about</c></NS> the latest fashions in several <NS type="RN"><i>topics</i><c>areas</c></NS><NS type="MP"><c>,</c></NS> like <NS type="MP"><i>make up</i><c>make-up</c></NS>, <NS type="RP"><i>Hairstyles</i><c>hairstyles</c></NS> and leisure and sports wear. We think that it could be a great chance <NS type="U"><i>in order</i></NS> to <NS type="RV"><i>know</i><c>learn about</c></NS> British fashion and probably it would give us good information for improving our studies.</p>
+          <p>We would like to know if it <NS type="RV"><i>could</i><c>would</c></NS> be possible to introduce a little change in our programme. Our question is: instead of going <NS type="U"><i>to the</i></NS> shopping on Tuesday, in the afternoon, could we go to the London Fashion and Leisure Show?</p>
+          <p>I hope you will consider our suggestion. I look forward to hearing your reply.</p>
+          <p>Yours sincerely,</p>
+          <p>Classroom 5</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="AS"><i>How will be our future homes?</i><c>What will our future homes be like?</c></NS></p>
+          <p>Believe it or not, our lives are changing and becoming more complicated every day. The reason <NS type="RT"><i>of</i><c>for</c></NS> all of this <NS type="UN"><i><NS type="AGN"><i>things</i><c>thing</c></NS></i></NS> is the <NS type="RJ">impressionable</NS> introduction of the "new technologies", such as <NS type="RP"><i>Computers</i><c>computers</c></NS>, <NS type="MD"><c>the</c></NS> Internet or WAP technologies.</p>
+          <p>Of course, <NS type="AGD"><i>this</i><c>these</c></NS> new <NS type="RN"><i>facilities</i><c>technologies</c></NS> will be introduced at home. Now, it is already possible to <NS type="R">send our shopping list</NS> by <NS type="UD"><i>the</i></NS> computer, and this <NS type="RN"><NS type="S"><i>opption</i><c>option</c></NS></NS>, in the next <NS type="MQ"><c>few</c></NS> years, will become the most common <NS type="DA"><i>once</i><c>one</c></NS>.</p>
+          <p>The new technologies <NS type="W"><i>probably will</i><c>will probably</c></NS> produce a <NS type="DJ"><i>considerably</i><c>considerable</c></NS> revolution in some <NS type="S"><i>essencial</i><c>essential</c></NS> parts of the house. For example, we will have <NS type="UV"><i>got</i></NS> <NS type="DJ"><i>computerizated</i><c>computerized</c></NS> ovens, microwaves and freezers, or we will probably have <NS type="UV"><i>got</i></NS> central heating <NS type="IV"><i>controled</i><c>controlled</c></NS> through <NS type="MD"><c>the</c></NS> Internet from our office.</p>
+          <p>Despite all of <NS type="AGD"><i>this</i><c>these</c></NS> facilities, there are some home activities that will remain the same, fortunately. Who <NS type="AGV"><i>don't</i><c>doesn't</c></NS> like to prepare a cup of <NS type="RN"><i>tee</i><c>tea</c></NS> with traditional kettles, waiting for the <NS type="AS"><i>boiling <NS type="S"><i>watter</i><c>water</c></NS></i><c>water to boil</c></NS>? And to read the newspaper at breakfast instead of watching TV?</p>
+          <p>Some pleasures must be untouchable! We are human beings <NS type="RY">at least</NS>, not "new technological" machines!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

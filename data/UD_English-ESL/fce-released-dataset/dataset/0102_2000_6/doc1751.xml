@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR691*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr</p>
+          <p>I'm writing to complain about what <NS type="UA"><i>it</i></NS> happened <NS type="MT"><c>to</c></NS> me two days ago, during <NS type="DD"><i>you</i><c>your</c></NS> musical show "OVER THE RAINBOW". A friend of mine went to see it <NS type="UD"><i>the</i></NS> last May. He told me to go because the actor's performance was good.</p>
+          <p>So I decided <NS type="FV"><i>buying</i><c>to buy</c></NS> a ticket, but no discounts were available. Then with <NS type="UD"><i>my</i></NS> <NS type="DN"><i>disappointing</i><c>disappointment</c></NS> I noticed that there was <NS type="MD"><c>a</c></NS> different actor instead of Danny Brook. Nobody informed me about <NS type="RA"><i>it</i><c>that</c></NS>.</p>
+          <p>And why did the show start at 20:15 instead of 19:30?</p>
+          <p>After the show, my friends and <NS type="RA"><i>me</i><c>I</c></NS> decided to go to your restaurant, but we were amazed to find it <NS type="RJ"><i>close</i><c>closed</c></NS>.</p>
+          <p>In conclusion, I <NS type="TV"><i>ask</i><c>am asking</c></NS> for my money back because it wasn't <NS type="RD"><i>a</i><c>the</c></NS> perfect evening <NS type="UT"><i>like</i></NS> your <NS type="RN"><i>advice</i><c>advertisement</c></NS> <NS type="RV"><i>showed</i><c>promised</c></NS>.</p>
+          <p>I hope that you understand me.</p>
+          <p>Awaiting your reply,</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>It's true that modern technology has changed our daily life. In the <NS type="RN"><i>pass</i><c>past</c></NS>, for example, we used to write letters to <NS type="S"><i>comunicate</i><c>communicate</c></NS>, but now we <NS type="RY">surely</NS> send an e-mail, a fax or make a phone <NS type="MN"><c>call</c></NS>.</p>
+          <p>Certainly <NS type="RA"><i>it</i><c>this</c></NS> <NS type="TV"><i>will be</i><c>is</c></NS> easier and faster than <NS type="FV"><i>write</i><c>writing</c></NS>, but it was nice when you were waiting for a letter. Nowadays, you <NS type="RV"><i>have</i><c>get</c></NS> <NS type="R"><i>all things</i><c>everything</c></NS> <NS type="DY"><i>immediatly</i><c>immediately</c></NS> <NS type="U"><i>and soon</i></NS>, but will it <NS type="MY"><c>always</c></NS> be <NS type="MD"><c>a</c></NS> good <NS type="MN"><c>thing</c></NS>? I think <NS type="RY"><i>no</i><c>not</c></NS>.</p>
+          <p>Everyone <NS type="AGV"><i>have</i><c>has</c></NS> to use modern technology carefully, because too much technology could be dangerous. It <NS type="UY"><i>couldn't</i><c>could</c></NS> <NS type="RV"><i>allow</i><c>prevent</c></NS> us <NS type="MT"><c>from</c></NS> <NS type="FV"><i>to think</i><c>thinking</c></NS> and <NS type="RV"><i><NS type="FV"><i>to do</i><c>doing</c></NS></i><c>acting</c></NS> freely.</p>
+          <p>Today there are children <NS type="RA"><i>that</i><c>who</c></NS> don't know <NS type="RA"><i>nothing</i><c>anything</c></NS> about nature and its things.</p>
+          <p>Probably, because their parents haven't enough time to <NS type="RV"><i>go out</i><c>leave</c></NS> the city and show them nature. So they prefer <NS type="FV"><i>leave</i><c>to leave</c></NS> their sons <NS type="S"><i>wecting</i><c>watching</c></NS> TV.</p>
+          <p>Modern technology? Yes, but we mustn't <NS type="RV"><i>loose</i><c>lose</c></NS> <NS type="R"><i>the</i><c>our</c></NS> values <NS type="RC"><i>and</i><c>or</c></NS> our <NS type="RN"><i>free time</i><c>freedom</c></NS> to <NS type="RV"><i>stay</i><c>be</c></NS> with our <NS type="AGN"><i>family</i><c>families</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

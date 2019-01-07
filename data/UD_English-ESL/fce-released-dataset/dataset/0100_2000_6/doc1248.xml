@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR516*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>&lt;16</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Hellow</i><c>Hello</c></NS>! <NS type="UP"><i>I'am</i><c>I am</c></NS> very pleased that I have won the first prize in your competition and I want to tell you that it would be better for me to go to your Camp in July because <NS type="RD"><i>this</i><c>that</c></NS> month I usually have a rest and now I am thinking about it. So your advice <NS type="RT"><i>of</i><c>about</c></NS> going to a camp suits me very well.</p>
+          <p><NS type="FV"><i>Answering</i><c>To answer</c></NS> <NS type="UT"><i>on</i></NS> our first question about where <NS type="W"><i>would I</i><c>I would</c></NS> prefer to sleep, I prefer tents because <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> closer to nature and I like <NS type="IV"><i>sleepping</i><c>sleeping</c></NS> in <NS type="IV"><i>sleepping</i><c>sleeping</c></NS> bags (=BV bags).</p>
+          <p>Now let me tell you about my sports <NS type="S"><i>preferances</i><c>preferences</c></NS>. From your list of activities I have chosen swimming and surfing, because all of us <NS type="RV"><i>went</i><c>came</c></NS> out from <NS type="MD"><c>the</c></NS> water and we have to go back there. Of course it was a joke, but as I have chosen swimming and surfing I will tell you why. I have chosen them because I am <NS type="R"><i><NS type="S"><i>candidat</i><c>candidate</c></NS> to</i><c>applying to do a</c></NS> masters <NS type="RT"><i>of</i><c>in</c></NS> sports in water polo. And <NS type="R">only out of that reason</NS>, but also because I like water very much.</p>
+          <p>Also I would like to have a t-shirt with your <NS type="RN"><i>signature</i><c>autograph</c></NS>.</p>
+          <p>Yours <NS type="S"><i>scinerly</i><c>sincerely</c></NS></p>
+          <p>Fedor Gapon.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>In our <NS type="RN"><i>lyceum</i><c>school</c></NS> we have <NS type="MD"><c>a</c></NS> <NS type="S"><i>listem</i><c>system</c></NS> of "double lessons". It means that every day <NS type="S"><i>exept</i><c>except</c></NS> Sunday we have four lessons and each of the lessons lasts for <NS type="MD"><c>an</c></NS> hour and a half and it means <NS type="MD"><c>a</c></NS> "double lesson". I think that is more <NS type="S"><i>convinient</i><c>convenient</c></NS> than seven lessons every day and each of the lessons lasts <NS type="MP"><i><NS type="S"><i>fourty</i><c>forty</c></NS> five</i><c>forty-five</c></NS> minutes. It is <NS type="S"><i>convinient</i><c>convenient</c></NS>, I mean "double" lessons<NS type="MP"><c>,</c></NS> because you have more time to understand <NS type="MD"><c>the</c></NS> <NS type="S"><i>matherial</i><c>material</c></NS> <NS type="RA"><i>what</i><c>which</c></NS> is <NS type="S"><i>givven</i><c>given</c></NS> <NS type="MY"><c>out</c></NS> and because you have to prepare only four subjects for "tomorrow" and it is <NS type="CQ"><i>less</i><c>fewer</c></NS> then seven subjects.</p>
+          <p>As a student <NS type="RT"><i>of</i><c>in</c></NS> <NS type="MD"><c>the</c></NS> <NS type="DN"><i>economical</i><c>economics</c></NS> form I think I should tell you about one day in <NS type="MD"><c>the</c></NS> <NS type="RP"><i>time table</i><c>timetable</c></NS> of our form. For example Tuesday. On Tuesday we have <NS type="RD"><i>such</i><c>these</c></NS> lessons<NS type="MP"><c>:</c></NS> English, <NS type="SA"><i>Math</i><c>Maths</c></NS>, Economics and <NS type="S"><i>Phisics</i><c>Physics</c></NS>. All of these subjects are so important for us that we have never missed them<NS type="RP"><i>. Especially</i><c>, especially</c></NS> English and Economics because we are going to become famous economists.</p>
+          <p>Not only these subjects are studied by us, but also Latin, Russian, Ukrainian, Biology and <NS type="S"><i>Phisical</i><c>Physical</c></NS> training, but as we study them we understand that they are not so important as our main subjects.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

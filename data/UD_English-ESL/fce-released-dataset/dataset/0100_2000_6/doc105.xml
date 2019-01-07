@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR430*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>41-50</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>June 13, 2000</p>
+          <p>Competition. Organiser</p>
+          <p>Helen Ryan</p>
+          <p>Dear Madam:</p>
+          <p>I would like to travel to Camp California only in July because during June I am very busy with my <NS type="RN"><i>tests</i><c>exams</c></NS>. I will <NS type="RV"><i>do</i><c>take</c></NS> <NS type="MD"><c>the</c></NS> F.C.E <NS type="RT"><i>in</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> University of Cambridge and other <NS type="RN"><i>tests</i><c>exams</c></NS> in several subjects <NS type="RT"><i>in</i><c>at</c></NS> my high school.</p>
+          <p>I prefer <NS type="R"><i>my accommodation at Camp</i><c>to stay</c></NS> in tents because it reminds me <NS type="MT"><c>of</c></NS> my first school. It was great. <NS type="ID"><i>But the way</i><c>By the way</c></NS>, I do not like to <NS type="RV"><i>stay</i><c>be</c></NS> alone. I would like to have lots of people near me.</p>
+          <p>Among those activities <NS type="R"><i>that</i><c>from which</c></NS> you told me that I have to choose I prefer singing and painting. I have just attended classes <NS type="RT"><i>about</i><c>in</c></NS> them. My father was a great singer and he has been helping me. Painting is <NS type="R"><i>my</i><c>a</c></NS> challenge because it is very hard for me. But I love to paint and I intend to know everything about it.</p>
+          <p>I want to know what kind of clothes I have to wear there and how much money I will spend. I want to know if I can take my <NS type="S"><i>celular</i><c>cellular</c></NS> phone, too.</p>
+          <p>Sincerely</p>
+          <p>MARGARET BORNETE GOODS</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Women love shopping. I am a woman <NS type="R"><i>then</i><c>so</c></NS> I love it a lot. <NS type="RQ"><i>All</i><c>Every</c></NS> <NS type="AGN"><i>weekends</i><c>weekend</c></NS> I and my boyfriend go to <NS type="MD"><c>the</c></NS> B.H Shopping Center. I live in Site Belo and he lives near <NS type="MD"><c>the</c></NS> B.H. Shopping Center. I retired four years ago and my <NS type="DN"><i>live</i><c>life</c></NS> is very <NS type="RJ"><i>bored</i><c>boring</c></NS>. When I am very sad I like to buy something and sometimes it makes me happy. I bought a lot of shoes, clothes and books last week. He was with me and suddenly he became very angry. He told me that I was very stupid. I tried to buy a handsome suit for him but he shouted and abandoned me with my bags. I took a cab and went to my house. I cried <NS type="R"><i>very much</i><c>a lot</c></NS> because my life is really very stupid. I decided to stop buying those things that I don't really need. I intend to continue studying and return to work because when our life is empty everything looks ugly and sad. I know <NS type="ID"><i>in deep of my heart</i><c>deep in my heart</c></NS> sometimes shopping is not <NS type="UY"><i>always</i></NS> enjoyable. But I am a woman. We are different. We need different things <NS type="R"><i>than</i><c>to</c></NS> men. Yesterday he called me and told me that he loves me, anyway. I believe him because he is a great man. I hope that he forgets <NS type="MT"><c>about</c></NS> my shopping. And I decided I will go shopping alone. At last I am really a great woman and I love myself.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

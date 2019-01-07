@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR356*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>June, the 13th 2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>You can guess how <NS type="W"><i>an enjoyable surprise</i><c>enjoyable a surprise</c></NS> receiving your letter was for me. I am glad to send you the <NS type="RN"><i>items</i><c>information</c></NS> required.</p>
+          <p>First of all, I must <NS type="DV"><i>precise</i><c>state</c></NS> that I can only leave during the month of July owing to <NS type="RD"><i>the</i><c>a</c></NS> job I <NS type="RV"><i>obtained</i><c>got</c></NS> for August. After considering your <NS type="S"><i>accomodation</i><c>accommodation</c></NS> offers, I'd rather stay in a log cabin if possible. I hope you have no doubt about my taste for camping, however<NS type="MP"><c>,</c></NS> I admit I will appreciate a bit of comfort <NS type="R">two weeks long</NS>.</p>
+          <p>Moreover, I must <NS type="RV"><i>recognize</i><c>admit</c></NS> that the activities offered are really attractive so it's hard to make up my mind. On the one hand, I own a camera that I often use during <NS type="MD"><c>my</c></NS> leisure <NS type="FN"><i>times</i><c>time</c></NS>. Even if the <NS type="AGN"><i>photograph</i><c>photographs</c></NS> <NS type="RV"><i>made</i><c>taken</c></NS> are modest work, I am really interested in this activity. Then, as low <NS type="MT"><c>as</c></NS> my level of <NS type="MN"><c>proficiency</c></NS> <NS type="MT"><c>at</c></NS> basketball is, I have enjoyed playing this sport for fun for a long time. So it will be pleasant for me to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> this activity.</p>
+          <p>Your letter indicates that the <NS type="RN"><i>pride</i><c>prize</c></NS> <NS type="RV"><i>includes</i><c>covers</c></NS> <NS type="UA"><i>that</i></NS> some costs <NS type="U"><i>are paid</i></NS>. Nevertheless I would like you to <NS type="DV"><i>precise</i><c>detail</c></NS> what I <NS type="RY">eventually</NS> need for this <NS type="RN"><i>travel</i><c>trip</c></NS>.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>What <NS type="R"><i>obviously appears</i><c>is obvious</c></NS> about our daily life at school is that it is hard to sum up all the different aspects it includes. Therefore, the film will manage to be a success if it doesn't forget the main <NS type="RN"><i>times</i><c>things</c></NS> that make our life.</p>
+          <p>To my mind, the class attending a lesson must be shown <NS type="UT"><i>at</i></NS> first. It <NS type="RV"><i><NS type="S"><i>evoques</i><c>evokes</c></NS></i><c>addresses</c></NS> the reason <NS type="RT"><i>of</i><c>for</c></NS> our presence here and it is a <NS type="S">cliché</NS>; <NS type="R">that <NS type="RP"><i>can not</i><c>cannot</c></NS> lack</NS>. A philosophy lesson seems quite appropriate in that the pupils take part in it.</p>
+          <p>Next, students during the <NS type="RN"><i>pause</i><c>break</c></NS> in the yard should be filmed. It would not only emphasize the sharp contrast <NS type="RT"><i>with</i><c>between</c></NS> <NS type="MA"><c>this</c></NS> <NS type="MC"><c>and</c></NS> the classroom <NS type="S"><i>atmosphear</i><c>atmosphere</c></NS> but also show how they are as young people. Students chatting, laughing, eating and even smoking must remain in the video.</p>
+          <p>Furthermore two moments could have a role. First of all, the <NS type="DN"><i>arrive</i><c>arrival</c></NS> of every <NS type="AGN"><i>students</i><c>student</c></NS>, <NS type="R">namely the picture of the school without anybody at first, and then with the crowd of students increasing gradually is typical of its life</NS>. Then, the opposite situation, that is to say the <NS type="RN"><i>scene</i><c>portrayal</c></NS> of this crowd disappearing at the end of the day can <NS type="RV"><i>make</i><c>provide</c></NS> a <NS type="RN"><i>parallel</i><c>comparison</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

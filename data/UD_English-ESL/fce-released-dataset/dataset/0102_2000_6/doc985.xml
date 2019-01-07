@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR412*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>I am writing to complain about the musical show that has recently taken place at the Circle Theatre. The <NS type="S"><i>advirtisement</i><c>advertisement</c></NS> I had read did not <NS type="RV"><i>match</i><c>tally with</c></NS> the performance.</p>
+          <p>First of all, Danny Brook was not starring and was replaced by a different actor. That was very disappointing. The performance started <NS type="MP"><i><NS type="S"><i>fourty</i><c>forty</c></NS> five</i><c>forty-five</c></NS> minutes <NS type="FY"><i>later</i><c>late</c></NS>. Moreover, I was unpleasantly <NS type="RJ"><i>amazed</i><c>surprised</c></NS> <NS type="MV"><c>to find</c></NS> no discounts were available.</p>
+          <p>Furthermore, I would not <NS type="TV"><i>have complained</i><c>be complaining</c></NS> if the theatre restaurant had been open. According to the advertisement, I could visit it after the show, but it was closed because of the lack of customers.</p>
+          <p>My "perfect evening out" was not so perfect and could not satisfy me in any way. <NS type="ID">From my point of view</NS>, the partial refund of the cost of the tickets, which are enclosed with this letter, would completely satisfy my <NS type="RN">interests</NS>. I look forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed my daily life?</p>
+          <p>Modern technology has <NS type="MD"><c>a</c></NS> variety of uses and its possibilities are being widened more and more. Today it is used practically in all spheres and its influence on people is not <NS type="DJ"><i>unnoticable</i><c>unnoticeable</c></NS>.</p>
+          <p>Personally I feel the greatest influence <NS type="R">from the side of</NS> personal computers. Their popularity <NS type="TV"><i>could</i><c>can</c></NS> be explained by their <NS type="RN">comfort</NS> and <NS type="DN"><i>easy</i><c>ease of</c></NS> use. With the help of <NS type="MD"><c>the</c></NS> "Internet" it is possible to get <NS type="RQ"><i>much</i><c>a lot of</c></NS> objective and useful information you are interested in. Computers take <NS type="MY"><c>up</c></NS> the major part of my free time and this is <NS type="RD"><i>the</i><c>a</c></NS> <NS type="RN"><i>reason</i><c>cause</c></NS> of disagreements between me and my parents. They would like me to go for a walk more often or to help them in their daily <NS type="RN"><i>routine</i><c>chores</c></NS>. I am completely satisfied with the way I spend my <NS type="RP"><i>freetime</i><c>free time</c></NS>, but they have another opinion.</p>
+          <p>In conclusion, modern technology affects everybody, but in different ways. The only effect on me is more <NS type="DJ"><i>often</i><c>frequent</c></NS> disagreements with my parents.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

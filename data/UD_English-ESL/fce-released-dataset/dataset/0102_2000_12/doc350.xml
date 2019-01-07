@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR143*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>16 December 2000</p>
+          <p>Dear Ms <NS type="UN"><i>Jane</i></NS> Clark,</p>
+          <p>I am writing to express my profound gratitude for <NS type="RD"><i>an</i><c>the</c></NS> excellent organisation of <NS type="RD"><i>an</i><c>the</c></NS> annual international arts festival, where I spent two days. The idea of such a festival is really magnificent and I enjoyed various art exhibitions, talks by writers and dance shows.</p>
+          <p>However, the festival could be even better next year. Actually, there were stars and artists from six countries and it would be wonderful if you could invite artists from some others places as well for next year's festival. <NS type="RY"><i>Besides</i><c>Also</c></NS>, I was fascinated by the plays and films and you could probably organize some more. Unfortunately, I am afraid that some concert halls where jazz, rock and classical concerts were held were too small and perhaps you could arrange to use bigger ones.</p>
+          <p>As a matter of fact, I consider one reasonably-priced weekend ticket for all events to be brilliant as it offers a unique opportunity to pay for everything all together and be able to attend different events.</p>
+          <p>I believe your festival to be a great event in our cultural life and I am convinced that it is a success. I look forward to coming to the festival again.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Wuthering Heights - Emily Brontë</p>
+          <p><NS type="RY"><i>For a start</i><c>To start with</c></NS> I would like to say that books offer us a wide range of different life stories, both realistic and unusual, they make us thoughtful and form our outlook, <NS type="MC"><c>and</c></NS> they make us feel and think.</p>
+          <p>As far as I am concerned, I enjoy reading all kinds of fiction <NS type="UN"><i>literature</i></NS> as each masterpiece is unique in its own way <NS type="RT"><i>despite</i><c>regardless of</c></NS> <NS type="U"><i>the fact</i></NS> what sort of book it is. Stories that are realistic help us to understand <NS type="W"><i>better our own life and <NS type="MD"><c>the</c></NS> people around us</i><c>our own life and the people around us better</c></NS>. However, reading an unusual, sometimes <NS type="RJ"><i>fantastic</i><c>fantastical</c></NS> story we could dream about fairy lands and observe our world from another point of view. I consider "Wuthering Heights" by Emily Brontë to be one of the books that wash away from the soul the dust of <NS type="MD"><c>our</c></NS> <NS type="UP"><i>everyday's</i><c>everyday</c></NS> routine. It is a remarkable piece of literature, which portrays deep feelings of love and hate, depicts strong and unique characters, <NS type="MC"><c>and</c></NS> reveals eternal concerns with good and bad, life and death. This book is both realistic and unusual and in my opinion this is the core of its originality. It contributes to the <NS type="MP"><i>world</i><c>world's</c></NS> <NS type="RP"><i>treasurehouse</i><c>treasure house</c></NS> of literature and arouses <NS type="MD"><c>an</c></NS> <NS type="DJ"><i>irresistable</i><c>irresistible</c></NS> fascination.</p>
+          <p><NS type="ID"><i>To draw the conclusion</i><c>In conclusion</c></NS>, I'd like to mention that we should value realistic and <NS type="RJ"><i>fantastic</i><c>fantastical</c></NS> stories equally if we are eager to get to understand the world and ourselves.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

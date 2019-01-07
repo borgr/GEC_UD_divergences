@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR306*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>Last month I went to the theatre with my husband to see OVER THE RAINBOW. I'm sorry, but I had a very unpleasant evening.</p>
+          <p>First of all, the play started 45 minutes <NS type="FY"><i>later</i><c>late</c></NS>. I felt so angry about that. And discounts were not available (nobody explained the reason <NS type="MC"><c>why</c></NS>).</p>
+          <p>Secondly, the actor wasn't Danny Brook. I wanted to see him! He is a good actor but I saw a very bad one.</p>
+          <p>And we couldn't visit the theatre restaurant because it was closed.</p>
+          <p>Such a bad night!</p>
+          <p>I'm sure you will <NS type="RV"><i>complain</i><c>understand</c></NS> the reasons why I want my money back. If you <NS type="TV"><i>couldn't</i><c>can't</c></NS> do that, we will accept <NS type="MN"><c>tickets</c></NS> to go to another play.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. And Lorca knew it. But Pat was in <NS type="ID"><i>the wrong place in the incorrect hour</i><c>the wrong place at the wrong time</c></NS>. <NS type="RA"><i>That's</i><c>It's</c></NS> a story of a crime of passion. Let me explain it.</p>
+          <p>In 1874 Lorca was the most beautiful white girl in her city (a small town near Savannah). Her family was very rich and a lot of men wanted to marry to her.</p>
+          <p>But she was in love with a black man, called Jim. And Pat, the maid, saw them in the river. She couldn't keep the secret and told everything to another maid. In <NS type="MD"><c>a</c></NS> few hours everyone knew it. <NS type="SX"><i>Pour</i><c>Poor</c></NS> lovers!</p>
+          <p>When Jim's wife knew <NS type="UA"><i>it</i></NS> she <NS type="RV"><i>caught</i><c>got</c></NS> a gun and killed her husband. Then, she cried and cried<NS type="MP"><c>,</c></NS> holding him. (If she hadn't <NS type="TV"><i>do</i><c>done</c></NS> it, Lorca's father would <NS type="FV"><i>had</i><c>have</c></NS> <NS type="RV"><i>made</i><c>done</c></NS> the same).</p>
+          <p>It was a shock for Lorca. She jumped into the river and killed herself two days <NS type="RY"><i>after</i><c>later</c></NS>.</p>
+          <p>Pat and Jim's wife lived with the <NS type="DN"><i>guilty</i><c>guilt</c></NS> all their long lives. How could they forget it?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

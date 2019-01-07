@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR828*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan</p>
+          <p>Thank you for your <NS type="DJ"><i>informing</i><c>informative</c></NS> letter and your congratulations. I was <NS type="RY"><i>very</i><c>really</c></NS> delighted to hear about my success in your competition and me winning the prize. I'm <NS type="RY"><i>very</i><c>really</c></NS> looking forward to it as I've never been <NS type="RT"><i>in</i><c>to</c></NS> the U.S.A. before.</p>
+          <p>Unfortunately, the only month I can travel is July because I'm doing my final exams at university in June and then starting a job in August. Any two weeks during July will suit me perfectly. The best <NS type="RN"><i>term</i><c>time</c></NS> would be from 17th July till 30th July. As for accommodation at Camp California, I prefer <NS type="MD"><c>a</c></NS> tent. I'm used to <NS type="FV"><i>sleep</i><c>sleeping</c></NS> in <NS type="MD"><c>a</c></NS> tent from my previous holidays and I always <NS type="S"><i>injoyed</i><c>enjoyed</c></NS> it. I'd just like to know if the tents at the camp are <NS type="R">based on sharing</NS> and how many people <NS type="AGV"><i>is</i><c>are</c></NS> there in one tent.</p>
+          <p>I really appreciate the choice of activities at the camp. It was hard to choose only two. I've chosen tennis and sailing. I've played tennis since I was eight years old and I'm very good at it. I'm also good at swimming and surfing but I'd like to try sailing. I <NS type="TV"><i>was always</i><c>have always been</c></NS> attracted to it but never had an opportunity <NS type="MV"><c>to try</c></NS>. Is it possible to start to learn it at Camp California?</p>
+          <p>I'd also like to know how far <NS type="W"><i>is it</i><c>it is</c></NS> to the nearest village and how much cash <NS type="UV"><i>do</i></NS> I need for <NS type="MD"><c>a</c></NS> <NS type="DJ"><i>two-weeks</i><c>two-week</c></NS> stay at the camp? Do I need to bring with me some special gear or equipment?</p>
+          <p>I'm looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you again.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>In my last letter I promised to write <NS type="MT"><c>to</c></NS> you about my experience working at <NS type="MD"><c>a</c></NS> pop-concert. The job came unexpectedly as my friend, who was supposed to work there, broke her leg just two days before the event. So she asked me to fill her position. Even <NS type="MC"><c>though</c></NS> I had planned something else to do I agreed because she's my very good friend.</p>
+          <p>The concert was due to start at 7 o'clock but we had to be there two hours before the beginning. First I was supposed to help at the refreshment spot for the fans but some 15 minutes before beginning I was told to go <NS type="U"><i>to the</i></NS> backstage and help with the <NS type="FN"><i>refreshment</i><c>refreshments</c></NS> for the musicians, technicians and others who worked there. It was very hectic there as everyone was a bit nervous but I saw the main stars and even managed to talk to them.</p>
+          <p>When they started to play I was told to change my post again. This time I was helping the medical workers who had <NS type="ID"><i>full hands</i><c>their hands full</c></NS> with <NS type="AS"><i>fainted teenage girls</i><c>teenage girls who had fainted</c></NS>. First, it seemed to me odd because I didn't understand why they <NS type="TV"><i>faint</i><c>fainted</c></NS>, but as the concert went on, the heat in the air was increasing and so was the number of the <NS type="DN"><i>fainted</i><c>unconscious</c></NS>. It wasn't funny anymore and I didn't know what to do first. I was really shocked by the <NS type="RN"><i>view</i><c>sight</c></NS> of crying and shaking but <NS type="RY"><i>absolutely</i><c>completely</c></NS> happy girls sitting or lying on the floor.</p>
+          <p>However, I <NS type="TV"><i>manage</i><c>managed</c></NS> to listen <NS type="MT"><c>to</c></NS> the music and I must admit that I liked it. I actually <NS type="S"><i>injoyed</i><c>enjoyed</c></NS> it working there and I wouldn't hesitate to work there again. As I know you like this</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

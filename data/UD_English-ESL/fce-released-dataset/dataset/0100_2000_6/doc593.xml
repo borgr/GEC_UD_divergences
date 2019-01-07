@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR34*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>13.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="RY"><i>At the <NS type="S"><i>begining</i><c>beginning</c></NS></i><c>First of all</c></NS> I would like to thank you. Now I am going to give you some further <NS type="CN"><i>informations</i><c>information</c></NS><NS type="MP"><c>:</c></NS> I would like to travel only in July because I am a student in <NS type="RP"><i>High</i><c>high</c></NS> school and this is <NS type="MD"><c>the</c></NS> most important year of my life<NS type="MP"><c>.</c></NS> I am studying <NS type="RT"><i>to</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> university entrance exams and I have to study until the end of June and then <NS type="RT"><i>by</i><c>at</c></NS> the end of June I will <NS type="TV"><i>be having</i><c>have</c></NS> <NS type="MD"><c>the</c></NS> university entrance exam <NS type="MC"><c>and</c></NS> after that<NS type="MP"><c>,</c></NS> in July<NS type="MP"><c>,</c></NS> I am going to be alright.</p>
+          <p>I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I have never <NS type="TV"><i>stay</i><c>stayed</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> before and I am wondering <NS type="RA"><i>how</i><c>what</c></NS> it is going to be like<NS type="MP"><c>.</c></NS> And <NS type="RT"><i>among</i><c>from</c></NS> these activities I <NS type="TV"><i>am choosing</i><c>will choose</c></NS> basketball and swimming<NS type="RP"><i>. Basketball</i><c>: basketball</c></NS> because I am very good at it, swimming because I like to swim very much but I'm not a very good swimmer. And finally I would like to ask you some questions. My first question is about clothes; what kind of clothes do we need to take with us? <NS type="RP"><i>and</i><c>And</c></NS> <NS type="RP"><i>How</i><c>how</c></NS> much money do we need to take?</p>
+          <p>Finally<NS type="MP"><c>,</c></NS> what kind of <NS type="S"><i>wheather</i><c>weather</c></NS> is waiting for us?</p>
+          <p>Thank you for <NS type="RP"><i>Every thing</i><c>everything</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+          <p>Osman</p>
+         </coded_answer>
+     </answer1>
+  </text>
+</head></learner>

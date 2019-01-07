@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR584*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Clark,</p>
+          <p>The discovery of the ôInternational Arts Festivalö was a pleasure for me because it gave me the opportunity to enjoy <NS type="UT"><i>onto</i></NS> a really nice environment.</p>
+          <p>The <NS type="U"><i>proposal of</i></NS> reasonably-<NS type="S"><i>piced</i><c>priced</c></NS> package<NS type="MP"><c>,</c></NS> including tickets and <NS type="S"><i>accomodations</i><c>accommodation</c></NS>, well <NS type="RV"><i>supported</i><c>suited</c></NS> my personal <NS type="RN"><i>organization</i><c>situation</c></NS>: comfortable rooms <NS type="M"><c>that are</c></NS> easy to reach and <NS type="RV">booked</NS> tickets can help you if you decide <NS type="MV"></NS> at <NS type="MD"><c>the</c></NS> last minute.</p>
+          <p>As far as the Festival itself is concerned<NS type="MP"><c>,</c></NS> some small improvements could <NS type="RV"><i>let</i><c>make</c></NS> it <NS type="AGV"><i>works</i><c>work</c></NS> better.</p>
+          <p> <NS type="MV"><i>Different</i><c>Having different</c></NS> kinds of music is a good idea but some of them need special features. Larger concert halls can allow people to better enjoy the quality of <NS type="MD"><c>the</c></NS> performances.</p>
+          <p>Also<NS type="MP"><c>,</c></NS> the introduction of different cultural experiences is a good idea but six countries can't <NS type="W"><i>be really</i><c>really be</c></NS> considered as <NS type="R"><i><NS type="RP"><i>world wide</i><c>worldwide</c></NS> representative</i><c>representative of the world</c></NS>.</p>
+          <p>The aim to satisfy different interests should not <NS type="RV"><i>let</i><c>cause</c></NS> the quality <NS type="FV"><i>decrease</i><c>to decrease</c></NS>.</p>
+          <p>Just a final note: why not <NS type="MV"><c>have</c></NS> more plays and films <NS type="U"><i>for the</i></NS> next year?</p>
+          <p>Thanks in advance for your attention<NS type="MP"><c>.</c></NS></p>
+          <p>Regards</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Are you young, are you a student?</p>
+          <p>Do you want to earn money?</p>
+          <p>You are not alone!</p>
+          <p>There are ôseveralö opportunities for you:</p>
+          <p>- <NS type="FV"><i>ask</i><c>asking</c></NS> for money <NS type="RT"><i>to</i><c>from</c></NS> your parents (mum is better)<NS type="UP"><i>,</i></NS> is the most traditional way but also the safest one</p>
+          <p>- <NS type="R"><NS type="S"><i>emprove</i><c>improve</c></NS> your kindness</NS> and ask for <NS type="CN"><i>works</i><c>work</c></NS> in restaurants or <NS type="RN"><i>pubs</i><c>bars</c></NS><NS type="RP"><i>, <NS type="MA"><c>it</c></NS></i><c>. It</c></NS> is a good training period for real life too (<NS type="FV"><i>be</i><c>being</c></NS> patient with demanding people is <NS type="UY"><i>always</i></NS> required)<NS type="MP"><c>.</c></NS></p>
+          <p>- test your health and ask for an outdoor activity (<NS type="RV"><i><NS type="S"><i>seting</i><c>setting</c></NS></i><c>working</c></NS> as <NS type="MD"><c>a</c></NS> sandwich-man can also <NS type="S"><i>hep</i><c>help</c></NS> to test your pride)</p>
+          <p>- check your <NS type="UN"><i>pal</i></NS> wallet and if you have enough money (a very small amount) you can arrange a trip to reach countries like <NS type="S"><i>Phili</i><c>Chile</c></NS>, Cuba, <NS type="S"><i>Zambania</i><c>Zambia</c></NS>, <NS type="MC"><c>and</c></NS> Morocco where people (poorer than you) will offer <NS type="RJ"><i>small</i><c>low</c></NS> wages for ôsmallö jobs.. you might enjoy your summer holidays and ôfind yourselfö</p>
+          <p>Anyway, the best suggestion is always the ôbest ideaö, the famous ôsuch a good ideaö that might change your lifeà. <NS type="S"><i>O'm</i><c>I'm</c></NS> still looking for it.</p>
+          <p>Good luck!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

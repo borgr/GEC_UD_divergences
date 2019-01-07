@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR374*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>Thank you for informing me that I have won <NS type="MD"><c>the</c></NS> first prize in your competition <NS type="MT"><c>of</c></NS> two weeks at Camp California in the USA. I will be pleased to send <NS type="MD"><c>the</c></NS> <NS type="CL"><i>more further</i><c>further</c></NS> information which you need.</p>
+          <p>In addition, I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RP"><i>july</i><c>July</c></NS> because my school will have finished that month so I will be able to go on holiday. And if it is possible, I would rather be <NS type="S"><i>accommadated</i><c>accommodated</c></NS> in log cabins because I would not like to share the bathroom facilities <NS type="MT"><c>with</c></NS> someone who I do not know well. Thank you for asking me to choose <NS type="MT"><c>from</c></NS> the list of <NS type="UD"><i>the</i></NS> activities. <NS type="UQ"><i>Either</i></NS> I am in the school swimming team and I am <NS type="S"><i>intered</i><c>interested</c></NS> in photography professionally. Therefore I would like to improve my skills and knowledge <NS type="RT"><i>about</i><c>in</c></NS> <NS type="RD"><i>the</i><c>these</c></NS> subjects during my holiday. Could <NS type="R"><i>I please know</i><c>you please tell me</c></NS> <NS type="RA"><i>which</i><c>what</c></NS> kind of clothes I should bring with me and <NS type="MC"><c>whether</c></NS> the company offers us some <NS type="DJ"><NS type="S"><i>expensise</i><c>expenses</c></NS></NS> money to spend?</p>
+          <p>Once again, thank you for sending me <NS type="MQ"><c>some</c></NS> information. I feel<NS type="UP"><i>,</i></NS> it will be the best holiday<NS type="UP"><i>,</i></NS> I have ever had. I look forward to hearing from you at your earliest convenience.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Who does not like shopping? Perhaps <NS type="M"><c>it is</c></NS> just men or anybody who has <NS type="MD"><c>a</c></NS> lack of time or if you are looking for something <NS type="W"><i>to buy particular</i><c>particular to buy</c></NS> and <NS type="MD"><c>the</c></NS> shop has <NS type="SX"><i>not</i><c>no</c></NS> <NS type="UN"><i>range of</i></NS> variety.</p>
+          <p>Frankly, if I had a lot of money I would <NS type="UV"><i>have</i></NS> spend my entire life <NS type="UV"><i>to do</i></NS> shopping. Although I am <NS type="R"><i>the one</i><c>someone</c></NS> who loves shopping, I <NS type="RP"><i>can not</i><c>cannot</c></NS> stand <NS type="UT"><i>on</i></NS> <NS type="CE">the Easters, the Christmas and Sundays, because those days are suitable for anyone to consume the food, buy some presents etc</NS>. However, everyone prefers to do the same thing and <NS type="MT"><c>at</c></NS> the same time. <NS type="RP"><i>it</i><c>It</c></NS> <NS type="RV"><i>causes</i><c>leads to</c></NS> <NS type="RP"><i>over crowded</i><c>overcrowded</c></NS> shops, <NS type="DJ"><i>high-pitch</i><c>high-pitched</c></NS> noise, <NS type="MD"><c>a</c></NS> lack of parking <NS type="FN"><i>place</i><c>places</c></NS> and if you have to go shopping with a child, the whole <NS type="MN"><c>thing</c></NS> <NS type="RV"><i>matters</i><c>is</c></NS> just <NS type="MT"><c>about</c></NS> enough to drive you crazy. Despite knowing the difficulty we do not <NS type="RV"><i>resist</i><c>avoid</c></NS> <NS type="UV"><i>to do</i></NS> shopping <NS type="RT"><i>in</i><c>on</c></NS> those days. On the other hand, some companies offer special <NS type="FN"><i>service</i><c>services</c></NS><NS type="MP"><c>,</c></NS> such as sending your order <NS type="RT"><i>with</i><c>by</c></NS> <NS type="UD"><i>the</i></NS> post or <NS type="M"><c>taking it</c></NS> on <NS type="MD"><c>the</c></NS> telephone. It could be the <NS type="RN"><i>solution</i><c>way</c></NS><NS type="UP"><i>,</i></NS> <NS type="FV"><i>avoid</i><c>to avoid</c></NS> busy <NS type="RN"><i>hours</i><c>times</c></NS> or days<NS type="RP"><i>, do</i><c>. Do</c></NS> not <NS type="RV"><i>bring</i><c>take</c></NS> your child with you<NS type="RP"><i>,</i><c>;</c></NS> choose the right shop which has <NS type="MD"><c>a</c></NS> <NS type="RN"><i>park</i><c>car park</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

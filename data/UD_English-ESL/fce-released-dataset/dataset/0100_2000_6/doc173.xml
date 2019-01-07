@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR683*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dr Mrs Ryan,</p>
+          <p><NS type="RT"><i>With</i><c>In</c></NS> <NS type="SX"><i>replay</i><c>reply</c></NS> <NS type="RT"><i>on</i><c>to</c></NS> your letter, I would like to say that I was really pleased with the first prize. It was <NS type="RD"><i>the</i><c>a</c></NS> real surprise for me.</p>
+          <p>I would like to travel <NS type="RY"><i>just</i><c>only</c></NS> in July, because I am going to study at my university <NS type="S"><i>untill</i><c>until</c></NS> the end of June. I hope it will not be any problem for you.</p>
+          <p>I am glad that all accommodation and travel costs have been paid. I would prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in <NS type="RD"><i>the</i><c>a</c></NS> <NS type="UN"><i>tent</i></NS> cabin, I think it is more comfortable.</p>
+          <p>I see people who run the camp are very good <NS type="RT"><i>in</i><c>at</c></NS> <NS type="FV"><i>organize</i><c>organizing</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> social life of their guests. I have a lot of <NS type="S"><i>posibilities</i><c>possibilities</c></NS> for spending my spare time. The climbing and the painting are preferred by me the most. Generally I paint some landscapes by using <NS type="UD"><i>the</i></NS> watercolours, but sometimes I try to paint like during the <NS type="S"><i>impresionist</i><c>impressionist</c></NS> <NS type="MN"><c>era</c></NS> by using blobs, oil paint and canvases.</p>
+          <p><NS type="RY"><i>At the end</i><c>Finally</c></NS> I would like to ask what kind of clothes I have to take with me and how much money I will need for the normal life at the camp.</p>
+          <p>I am looking <NS type="MY"><c>forward</c></NS> to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Report on making <NS type="FD"><i>a</i><c>an</c></NS> interesting video film</p>
+          <p>The aim of this report is to suggest which lessons and other activities should be <NS type="RV"><i>place</i><c>shown</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> <NS type="MD"><c>the</c></NS> video film about daily life at our school.</p>
+          <p>In order to <NS type="S"><i>preper</i><c>prepare</c></NS> it I visited some <NS type="S"><i>clasrooms</i><c>classrooms</c></NS> during the lessons and I interviewed a number of students from our school.</p>
+          <p>Some of the teachers are very good <NS type="UY"><i>just</i></NS> <NS type="DN"><i>profesionalists</i><c>professionals</c></NS>. Their lessons are valuable, rich in knowledge and <NS type="S"><i>funy</i><c>funny</c></NS>. For example, the teacher of history and <NS type="RP"><i>polish</i><c>Polish</c></NS> language is able to interest students <NS type="RT"><i>about</i><c>in</c></NS> the subject in <NS type="IJ"><i>differents</i><c>different</c></NS> ways.</p>
+          <p>According to students' <NS type="S"><i>oppinions</i><c>opinions</c></NS><NS type="MP"><c>,</c></NS> the most popular activities are <NS type="UD"><i>the</i></NS> basketball, tennis, swimming and <NS type="RY"><i>as well</i><c>also</c></NS> the photography group and the painting team. It is surprising that 45 per cent of the students questioned frequent one of <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="UP"><i>sport's</i><c>sports</c></NS> <NS type="AGN"><i>group</i><c>groups</c></NS> and 30 per cent of people go to the photography group.</p>
+          <p>On the whole our school <NS type="AGV"><i>have</i><c>has</c></NS> a lot of different possibilities for the students <NS type="RA"><i>what</i><c>that</c></NS> we can show <NS type="RT"><i>on</i><c>in</c></NS> our film. It <NS type="TV"><i>can</i><c>could</c></NS> <NS type="S"><i>maks</i><c>make</c></NS> the video more interesting. I recommend <NS type="FV"><i>to show</i><c>showing</c></NS> our <NS type="W"><i>teacher of history</i><c>history teacher</c></NS>. It <NS type="RV"><i>can</i><c>will</c></NS> show that during every day we have <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>big</i><c>great</c></NS> fun and we <NS type="TV"><i><NS type="S"><i>recived</i><c>received</c></NS></i><c>receive</c></NS> <NS type="UD"><i>a</i></NS> good, important knowledge.</p>
+          <p>If we <NS type="RV">take under an attention</NS> <NS type="AGD"><i>this</i><c>these</c></NS> things our film is going to be very interesting</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

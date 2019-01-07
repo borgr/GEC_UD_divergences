@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR551*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Manager</p>
+          <p>With reference to the show last week<NS type="RP"><i>.</i><c>,</c></NS> I am writing to complain about the show, which was very <NS type="RJ"><i>disappointed</i><c>disappointing</c></NS>.</p>
+          <p>In the advertisement, it <NS type="AGV"><i>state</i><c>states</c></NS> that the actor <NS type="RT"><i>for</i><c>in</c></NS> this show is Danny Brook and TINA TRUELOVE. As a result I asked my <NS type="S"><i>acquintance</i><c>acquaintance</c></NS> to come with me to the show. As soon as the show started<NS type="RP"><i>.</i><c>,</c></NS> I realised that the actor wasn't DANNY.</p>
+          <p>I was very disappointed. In addition the concert didn't start on time. It was <NS type="MD"><c>a</c></NS> quarter of an hour late. If I <NS type="TV"><i>knew</i><c>had known</c></NS> that the show was going to be late, I would <NS type="TV"><i>ask</i><c>have asked</c></NS> my mom to come with me, because her working <NS type="RN"><i>hour</i><c>day</c></NS> ended at eight o'clock. The restaurant was closed after the show ended. <NS type="ID"><i>On the other hand</i><c>Also</c></NS> there were no discounts available<NS type="RP"><i>, as</i><c>. As</c></NS> a result I had to <NS type="FV"><i>paid</i><c>pay</c></NS> extra <NS type="UN"><i>money</i></NS> for the tickets.</p>
+          <p>In conclusion<NS type="MP"><c>,</c></NS> it wasn't a perfect evening<NS type="RP"><i>,</i><c>.</c></NS> I didn't enjoy it at all due to the <NS type="DJ"><i>failure</i><c>inaccurate</c></NS> advertisement. I would like to ask for my money back.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+          <p>Thatt Chitchee</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. As a result Mallory had been arrested by the police two years ago. In addition he had to serve a life <NS type="AGN"><i>sentences</i><c>sentence</c></NS>.</p>
+          <p>The story began in 1989 in New York. Mallory and his partner, Pat<NS type="MP"><c>,</c></NS> had <NS type="RV"><i>planned</i><c>thought up</c></NS> the best plan in the world, which was to steal the diamond from the national bank. <NS type="RY"><i>As a result</i><c>However,</c></NS> the only way to get into the building was at the top of the <NS type="RN"><i>build</i><c>building</c></NS>. Their plan was to cut the alarm from the top of the building. The alarm was situated at the top. So they could take their time, rather than going in <NS type="RT"><i>at</i><c>through</c></NS> the front door. As soon as Mallory stole the diamond<NS type="RP"><i>. He</i><c>, he</c></NS> ran away. Unfortunately the guard saw him. By the time he got out of the building, the cops <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="RP"><i><NS type="SX"><i>ever</i><c>every</c></NS> where</i><c>everywhere</c></NS> but as long as Mallory is alive, he won't be arrested, with his <NS type="S"><i>unpredicatable</i><c>unpredictable</c></NS> mind. He ran into the old <NS type="RN"><i>build</i><c>building</c></NS>, and <NS type="TV"><i>hidden</i><c>hid</c></NS> a diamond in there. Unfortunately<NS type="MP"><c>,</c></NS> the building was a police station.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR416*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p><NS type="RA"><i>It</i><c>I</c></NS> was grateful for your message. I can gladly give you some information which you need.</p>
+          <p>I would be able to travel only in July because I have a job at the moment, but it will be my vacation in July. I would prefer to be in tents, so that I <NS type="TV"><i>could</i><c>can</c></NS> enjoy a <NS type="DJ"><i>nature</i><c>natural</c></NS> life more than being <NS type="MT"><c>in</c></NS> log cabins. Moreover, it would be more exciting for me.</p>
+          <p>It could be nice <NS type="UT"><i>for</i></NS> <NS type="FV"><i>doing</i><c>to do</c></NS> two activities while I am at the Camp. I am interested in sports. <NS type="RY"><i>Especially</i><c>In particular</c></NS>, I am <NS type="RJ"><i>wonderful</i><c>brilliant</c></NS> at swimming. I have <NS type="IV"><i>swimmed</i><c>swum</c></NS> since I was in primary school. I would like to learn <NS type="FV"><i>playing</i><c>to play</c></NS> golf at the Camp. I have never played golf in my life. Is it possible to learn <NS type="FV"><i>playing</i><c>to play</c></NS> golf, although I am not good at golf?</p>
+          <p>Would you mind giving some <NS type="FN"><i>answer</i><c>answers</c></NS> <NS type="MT"><c>about</c></NS> whether I need some clothes and money at the Camp?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm sorry that I haven't written to you for a long time. It was nice you wanted to hear about my experience, and I know you're looking for a job <NS type="R">which I did</NS>.</p>
+          <p>It was a wonderful <NS type="RN"><i>chance</i><c>opportunity</c></NS> for me. As you know, I love music. Before the concert started, I cleaned the stage for <NS type="MD"><c>the</c></NS> singers and I gave some drinks to <NS type="MD"><c>the</c></NS> singers. Finally, I cleaned the stage again. My <NS type="RN"><i>works</i><c>work</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> for <NS type="MD"><c>the</c></NS> singers, so I could meet singers and talk <NS type="R"><i>together</i><c>with them</c></NS>.</p>
+          <p>Do you know "Radio Head"? It is my favourite group. I was able to have some <NS type="RN"><i>signatures</i><c>autographs</c></NS> <NS type="RT"><i>of</i><c>from</c></NS> them. It's brilliant, isn't it?</p>
+          <p><NS type="RY"><i>Especially</i><c>In particular</c></NS>, I liked cleaning the stage, because I could stand <NS type="MT"><c>on</c></NS> a <NS type="S"><i>famouse</i><c>famous</c></NS> singer's stage and I could feel his enthusiasm, even though I had to clean it.</p>
+          <p>I want to hear about your school life, and your part-time job.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

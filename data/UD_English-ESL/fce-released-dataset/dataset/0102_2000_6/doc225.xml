@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR107*0102*2000*01">
+  <candidate><personnel><language>French</language><age>&lt;16</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>The reason <NS type="U"><i>for which</i></NS> I decided to write you a letter, will, I guess, surprise you. I hope you will not feel <NS type="DJ"><i>offensed</i><c>offended</c></NS>, but I really <NS type="TV"><i>needed</i><c>need</c></NS> to <NS type="RV"><i>contest</i><c>complain</c></NS> about your <NS type="SA"><i>theater</i><c>theatre</c></NS>.</p>
+          <p>I was present at your musical show: "Over the rainbow". <NS type="RA"><i>It</i><c>I</c></NS> was very excited thinking about being at the theatre, and I <NS type="SX"><i>though</i><c>thought</c></NS> with certainty I was going to enjoy my evening.</p>
+          <p>Plus, I felt very pleased when I heard that Danny Brook was part of the play: he used to be an old friend of mine in <NS type="RP"><i>Highschool</i><c>high school</c></NS> and <NS type="L"><i>perchance</i><c>perhaps</c></NS> I <NS type="TV"><i>have</i><c>had</c></NS> found him <NS type="UY"><i>back</i></NS> here! You can believe I was very disappointed when I saw that he actually was not <NS type="RV"><i>playing</i><c>performing</c></NS> and I was more bewildered that <NS type="RP"><i>noone</i><c>no one</c></NS> made an <NS type="S"><i>apologie</i><c>apology</c></NS> for it! How rude!</p>
+          <p>Moreover<NS type="RP"><i>;</i><c>,</c></NS> it was written that the show was supposed to start at 19.30; it actually started at exactly 20.15! 45 minutes <NS type="SX"><i>latter</i><c>later</c></NS>: where we had nothing to do, but <NS type="FV"><i>waiting</i><c>wait</c></NS>. We couldn't even have a drink, because, obviously, the restaurant you talked about was closed!</p>
+          <p>Really, what a mess <NS type="RT"><i>in</i><c>with</c></NS> the administration. Although, I would have felt better if I had had a discount on my ticket, as you <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> in the advertisement, but unfortunately, these couldn't possibly be <NS type="RV"><i>reached</i><c>given</c></NS> either! I am sure you are smart enough to think of paying me back, so you do not lose a faithful <NS type="RN"><i>client</i><c>customer</c></NS>.</p>
+          <p>Sincerely yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>If more and more <NS type="RN"><NS type="S"><i>ingenors</i><c>engineers</c></NS></NS> work <NS type="RT"><i>on</i><c>in</c></NS> science and technology, it must be <NS type="RC"><i>that</i><c>because</c></NS> it is really <NS type="DJ"><i>usefull</i><c>useful</c></NS>: but in what particular way?</p>
+          <p>For my part, I know it would be such a <NS type="ID"><i>pain in my neck</i><c>pain in the neck</c></NS>. The more I think of it, the more I realise I use modern technology a lot. I guess I could not live without <NS type="L"><i>many</i><c>lots of</c></NS> <NS type="RN"><i>instruments</i><c>devices</c></NS>.</p>
+          <p>The first <NS type="MN"><c>thing</c></NS> I think of is <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. What a great invention! It allows me to learn anything without having to travel <NS type="RT"><i>through</i><c>to</c></NS> <NS type="L"><i>many</i><c>lots of</c></NS> libraries as I used to do. It also <NS type="RV"><i>makes</i><c>allows</c></NS> me <NS type="FV"><i>write</i><c>to write</c></NS> to my friends by e-mail. I did not <NS type="FV"><i>to write</i><c>write</c></NS> <NS type="W"><i>at all to people</i><c>to people at all</c></NS> until I <NS type="TV"><i>have</i><c>had</c></NS> got <NS type="MT"><c>on</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. <NS type="RT"><i>By</i><c>With</c></NS> this procedure, you only type and send, no need to <NS type="FV"><i>going</i><c>go</c></NS> to the <NS type="UP"><i>post-office</i><c>post office</c></NS>!</p>
+          <p>Of course this is just because I am lazy, I actually could force <NS type="RA"><i>me</i><c>myself</c></NS> a little, and then go to the library and to the <NS type="UP"><i>post-office</i><c>post office</c></NS>, but <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> just makes it easier!</p>
+          <p>I am also very fond of cell-phones. These are also <NS type="UD"><i>such</i></NS> a relief. I can go anywhere without being <NS type="RJ"><i>nervous</i><c>worried</c></NS> about the fact<NS type="UP"><i>,</i></NS> that maybe someone is trying to reach me!</p>
+          <p>Modern technology changed my daily life by making it easier and by turning me into a lazy woman. Nevertheless, this easy life has then offered me <NS type="M"><c>the chance</c></NS> to be more <NS type="RJ"><i>peaceful</i><c>relaxed</c></NS> and I think it is essential.</p>
+          <p><NS type="UC"><i>Although</i></NS> I am thankful to modern technology!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR103*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing this letter to mention all the disappointing events in the Circle Theatre <NS type="MN"><c>production</c></NS> <NS type="MT"><c>of</c></NS> "Over The Rainbow".</p>
+          <p>I went to see it on time as it was <NS type="RV"><i>written</i><c>advertised</c></NS> <NS type="MT"><c>at</c></NS> 19:30 but it started <NS type="S"><i>t</i><c>at</c></NS> 20:15<NS type="MP"><c>,</c></NS> with a delay of 45 minutes.</p>
+          <p>This is nothing, it was said that Danny Brook was starring. However a different actor starred and we were all disappointed.</p>
+          <p>What is more, about the tickets, discounts were not available <NS type="CE">as it was not said so</NS>.</p>
+          <p>The last disappointing thing is that the theatre restaurant was closed so we could not visit it after the show.</p>
+          <p>As <NS type="U"><i>well as</i></NS> you can understand<NS type="MP"><c>,</c></NS> I did not enjoy myself and I think I spent my money <NS type="RT"><i>for</i><c>on</c></NS> a <NS type="DJ">nonsense</NS> thing. Therefore, if <NS type="RJ"><i><NS type="S"><i>avaliable</i><c>available</c></NS></i><c>possible</c></NS>, can you <NS type="RV"><i>play</i><c>pay</c></NS> my money back please? <NS type="CE">My address is here for any contacts</NS><NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>PAT LIKE A BLACK CAT</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. He told everything that Pandora said<NS type="UP"><i>,</i></NS> to everyone <NS type="AGA"><i>which</i><c>who</c></NS> Pandora didn't want <NS type="UA"><i>them</i></NS> to know.</p>
+          <p>Pandora had done something very bad like a robbery and one day told this to Pat because she was very <NS type="RJ">shy</NS> and regretful. Pat was her best friend so she told <NS type="UT"><i>to</i></NS> him. However, she didn't know that Pat couldn't keep secrets well.</p>
+          <p>One day<NS type="MP"><c>,</c></NS> while all their friends were there and talking, Pat told everyone that Pandora had done a robbery. All of them were <NS type="S"><i>schoked</i><c>shocked</c></NS> by what they heard. As well as this<NS type="MP"><c>,</c></NS> they started to talk about it everywhere.</p>
+          <p>After a week <NS type="RT"><i>of</i><c>on</c></NS> holiday, when Pandora returned she learned that <NS type="RQ"><i>every</i><c>all</c></NS> of her friends knew <NS type="MT"><c>about</c></NS> that. She became very <NS type="RJ">shy</NS> and <NS type="S"><i>engry</i><c>angry</c></NS><NS type="MP"><c>.</c></NS> She couldn't talk with people and she <NS type="W"><i>just was</i><c>was just</c></NS> very sad.</p>
+          <p>Finally, she couldn't wait and <NS type="TV"><i><NS type="RV"><i>wear</i><c>go</c></NS></i><c>went</c></NS> to talk to Pat. He admitted that it was his fault <NS type="UV"><i>to say</i></NS> and told everyone that it was a joke to make Pandora a bit angry. After all <NS type="MA"><c>that</c></NS><NS type="MP"><c>,</c></NS> they again became good friends but Pat learned to keep secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

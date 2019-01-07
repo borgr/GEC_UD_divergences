@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR379*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have received your letter: I was very glad to know that I have won two weeks at Camp California. I have to take part in basketball competitions all year long, except during July, so <NS type="RA"><i>it</i><c>that</c></NS> is the only month in which I can travel. I would be grateful if I could <NS type="R"><i>have the <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>stay</c></NS> in a log cabin: I would prefer not to stay in a tent because of my height<NS type="RP"><i>,</i><c>;</c></NS> I am so tall that I could never stand up. I would like to play basketball because my trainer said that it would be <NS type="RJ"><i>suitable</i><c>advisable</c></NS> not to stop <NS type="RV"><i>practising</i><c>training</c></NS> <NS type="UA"><i>it</i></NS> during July. I can play basketball very well<NS type="MP"><c>.</c></NS> I would be grateful if you could teach me to play golf. I have never <NS type="RV"><i>practised</i><c>tried</c></NS> this sport, so I can't play golf at all.</p>
+          <p>Would you mind sending me some information about the kind of clothes I will need? I would like to know how much money you suggest <NS type="FV"><i>to bring</i><c>bringing</c></NS>. I would be grateful to receive some information about the meals at the camp and I hope that it will not be a problem for you if I am a vegan.</p>
+          <p>I am looking forward to hearing from you,</p>
+          <p>Yours sincerely,</p>
+          <p>Elena Pabori</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>I think that if we want to show the good points of our typical <NS type="RP"><i>school-day</i><c>school day</c></NS>, we should film the large number of <NS type="DJ"><i>sport</i><c>sports</c></NS> activities that this school organises because students are compelled by them to come to school with enthusiasm.</p>
+          <p>Only <NS type="MA"><c>those</c></NS> who <NS type="AGV"><i>gets</i><c>get</c></NS> good marks can take part in <NS type="S"><i>theese</i><c>these</c></NS> activities, so <NS type="DJ"><i>sport</i><c>sports</c></NS> activities are seen as a prize, so while the students are playing <NS type="RP"><i>basket ball</i><c>basketball</c></NS>, tennis, volleyball... or they are swimming you can see satisfaction on their faces, and our volleyball team is excellent. It would be nice to film an Ancient Greek <NS type="RP"><i>Poetry</i><c>poetry</c></NS> lesson because <NS type="MD"><c>the</c></NS> Ancient Greek teacher is very good at explaining; she is excellent at catching our attention and she wants everyone to tell the class the impressions and <NS type="FN"><i>emotion</i><c>emotions</c></NS> they have reading Saffo, Alceo, Alcmone....</p>
+          <p>In my opinion we should film <NS type="MD"><c>a</c></NS> science lesson, so that our teacher, listening to her own statements could realise that they make no sense!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

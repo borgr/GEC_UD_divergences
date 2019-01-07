@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR933*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>31-40</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm writing to complain about the musical show named OVER THE RAINBOW. <NS type="RT"><i>Regarding</i><c>According to</c></NS> your advertisement, it is <NS type="UD"><i>the</i></NS> LONDON'S NEWEST AND BEST MUSICAL SHOW, but I was deeply disappointed <NS type="RT"><i>at</i><c>with</c></NS> it.</p>
+          <p>According to your advertisement, the <NS type="DN"><i>starrings</i><c>stars</c></NS> were DANNY BROOK AND TINA TRUELOVE. I decided to go to see this show because of its <NS type="DN"><i>starrings</i><c>stars</c></NS>, but <NS type="RT"><i>at</i><c>on</c></NS> the day I saw it, a different actor <NS type="RV"><i>played</i><c>performed</c></NS>. He was not DANNY BROOK.</p>
+          <p>Moreover there <NS type="AGV"><i>was</i><c>were</c></NS> no discount <NS type="AGN"><i>ticket</i><c>tickets</c></NS>. They were all sold out. You should have said <NS type="RA"><i>they</i><c>there</c></NS> were very few. I had to buy a £20 ticket.</p>
+          <p>To make matters worse, the <NS type="R">time that the show started was delayed</NS>. It started at 20:15, <NS type="MP"><i><NS type="S"><i>fourty</i><c>forty</c></NS> five</i><c>forty-five</c></NS> minutes <NS type="RY"><i>later</i><c>late</c></NS>! That's why I couldn't have <NS type="UD"><i>a</i></NS> dinner at the theatre restaurant after the show. It had already closed<NS type="UP"><i>,</i></NS> when the show finished.</p>
+          <p>I'd like to ask for a full refund for this awful night. Could you give me a satisfactory reply as soon as possible<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Modern technology has changed my life.</p>
+          <p><NS type="RY"><i>Especially</i><c>In particular</c></NS>, <NS type="RD"><i>a</i><c>the</c></NS> computer has <NS type="AS"><i>made my daily life change</i><c>changed my daily life</c></NS> dramatically.</p>
+          <p> It is only two or three years since I <NS type="MV"><c>started</c></NS> <NS type="FV"><i>have used</i><c>using</c></NS> a computer at home, but now I wonder how I <NS type="TV"><i>can</i><c>could</c></NS> live without <NS type="RA"><i>it</i><c>one</c></NS>. I open my <NS type="DN"><i>e-mail box</i><c>mailbox</c></NS> every night. When I find a new message, I'm very happy.</p>
+          <p>Before using e-mail, I used to write letters and <NS type="RY"><i>sometime</i><c>sometimes</c></NS> <NS type="M"><c>used the</c></NS> <NS type="S"><i>telephon</i><c>telephone</c></NS>. However<NS type="MP"><c>,</c></NS> I've found e-mail is better than <NS type="R"><i>them</i><c>those means of communication</c></NS><NS type="RP"><i>. Because</i><c>, because</c></NS> as soon as I send my message, they <NS type="TV"><i>can receive</i><c>receive</c></NS> it. <NS type="R"><NS type="ID"><i>In the other word</i><c>In other words</c></NS></NS>, I can also receive their reply <NS type="RY"><i>soon</i><c>quickly</c></NS>. It's really useful<NS type="UP"><i>,</i></NS> when I need <NS type="MD"><c>a</c></NS> quick reply.</p>
+          <p><NS type="DY"><i>Overmore</i><c>Moreover</c></NS> when I send e-mail, I <NS type="X"><i>need not worry</i><c>don't need to worry</c></NS> about the time. I can send them anytime I like.</p>
+          <p>Thanks to modern technology, I enjoy chatting with my <NS type="FN"><i>friend</i><c>friends</c></NS> in other countries and my family in Japan almost every day.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

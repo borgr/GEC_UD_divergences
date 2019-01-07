@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR78*0100*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p><NS type="RT"><i>In the name of</i><c>On behalf of</c></NS> the class I would like to thank you for the excellent programme you have organised, especially the idea of visiting a <NS type="S"><i>galery</i><c>gallery</c></NS>.</p>
+          <p>However, we have seen an advertisement for the London Fashion and Leisure Show<NS type="MP"><c>.</c></NS> It <NS type="TV"><i>would be</i><c>is</c></NS> on the 13th of March from 10.00 to 19.00. It is a famous exhibition, where <NS type="W"><i>are <NS type="TV"><i>showed</i><c>shown</c></NS> <NS type="MD"><c>the</c></NS> latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles</i><c>the latest fashions, leisure and sports wear, make-up and hairstyles are shown</c></NS>.</p>
+          <p>We are all very interested in the show because <NS type="DJ"><i>England</i><c>English</c></NS> people have a different kind of life. It is also unusual to have such a great opportunity in our country.</p>
+          <p><NS type="RV"><i>Could</i><c>Would</c></NS> it be possible to cancel the museum and the shopping <NS type="RN">time</NS> and to replace them <NS type="RT"><i>by</i><c>with</c></NS> the London Show? We <NS type="RV"><i>may</i><c>could</c></NS> go earlier to the Museum or on the 15th March instead of <NS type="MT"><c>in</c></NS> the afternoon <NS type="M"><c>during our</c></NS> free time.</p>
+          <p>I hope you will consider my request. <NS type="UP"><i>I'am</i><c>I am</c></NS> looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>My dream</p>
+          <p>It was dangerous, but I knew I had to do it. I had always wanted to swim <NS type="RT"><i>in the middle of</i><c>with</c></NS> sharks.</p>
+          <p>I lived in a small village on the ocean. My father was a captain on a huge boat. When I was a child, I used to go with him travelling from <NS type="FN"><i>harbours</i><c>harbour</c></NS> to <NS type="FN"><i>harbours</i><c>harbour</c></NS>. I grew up <NS type="R">through the water world</NS> and I couldn't live <NS type="S"><i>whitout</i><c>without</c></NS> it.</p>
+          <p>Once I was fishing<NS type="UP"><i>,</i></NS> when sharks <NS type="RV"><i>came</i><c>appeared</c></NS> all around me. I got the strange feeling I could jump and follow them. Since this <NS type="RJ">famous</NS> experience, I dreamt <NS type="W"><i>every night about that</i><c>about that every night</c></NS>.</p>
+          <p>One Saturday I got <NS type="RT"><i>on</i><c>into</c></NS> my motorboat and rode far away from the reef. My father was sitting next to me<NS type="MP"><c>,</c></NS> thinking that I was crazy. Some minutes later I was doing it, spending time with the fish, swimming round the sharks.</p>
+          <p>I had done what I had never expected to do. Now I can die in freedom.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

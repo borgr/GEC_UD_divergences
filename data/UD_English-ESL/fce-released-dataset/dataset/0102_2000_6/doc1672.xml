@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR660*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about the musical show "Over the Rainbow" I went to see at your theatre in London two weeks ago.</p>
+          <p>According to your advertisement, Danny Brook was involved in the show, but to my disappointment there was a different actor. To make things worse, the show started at 20.15 instead of 19.30. <NS type="RY"><i>Besides</i><c>Also</c></NS>, there was a problem with tickets. According to the advertisement, discounts were available, but in reality <NS type="RA"><i>it</i><c>that</c></NS> wasn't so! On top of everything, when I decided to visit your theatre restaurant after the show, it turned out to be closed. When I insisted on <NS type="RD"><i>the</i><c>an</c></NS> explanation <NS type="U"><i>of this fact</i></NS>, I was told that the chief cook was on holiday!</p>
+          <p>The perfect evening out you promised to provide turned <NS type="MY"><c>out</c></NS> to be really boring and disappointing. <NS type="R"><i>In connection with this</i><c>Consequently</c></NS> I think you should give me some money back. I hope you will <NS type="MV"><c>make</c></NS> note <NS type="MT"><c>of</c></NS> this and I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Pat was my classmate and I should add<NS type="UP"><i>,</i></NS> that he was one of my best friends. I loved and respected him very much, but there was an unpleasant thing about him - he talked too much.</p>
+          <p>My sister's birthday was coming. Her friends and I decided to present her with the thing she had been dreaming of for a long time - a puppy. We knew it would be a great present and she would be extremely happy. But the most important thing was that it would be really surprising <NS type="RT"><i>to</i><c>for</c></NS> her, because she could hardly <NS type="UY"><i>ever</i></NS> <NS type="RV"><i>think of</i><c>expect</c></NS> such a present.</p>
+          <p>We bought a beautiful puppy and were waiting for the <NS type="RN"><i>holiday</i><c>party</c></NS> probably even more impatiently<NS type="UP"><i>,</i></NS> than Susie. But unfortunately Pat didn't manage to keep our secret. He told her about the present as soon as he saw her. I'm sure he did it not because he wanted to spoil everything, but because he was so happy and excited<NS type="UP"><i>,</i></NS> that he couldn't act in a different way. Susie liked the puppy very much, her eyes were shining, but <NS type="MD"><c>her</c></NS> friends were a little bit sad and disappointed, because they were expecting a completely different ending.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

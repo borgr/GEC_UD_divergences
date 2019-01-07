@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR549*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Madam/Sir,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you to explain <NS type="R"><i>my</i><c>the</c></NS> problem that I have had in your theatre.</p>
+          <p>I <NS type="S"><i>recentely</i><c>recently</c></NS> had a week's holiday in London, and<NS type="MP"><c>,</c></NS> during my stay, I went <NS type="RT"><i>in</i><c>to</c></NS> your theatre to see "Over the Rainbow" because I <NS type="TV"><i>have</i><c>had</c></NS> seen an advertisement <NS type="RT"><i>about</i><c>for</c></NS> this show and I was really <NS type="S"><i>interrested</i><c>interested</c></NS> <NS type="MT"><c>in</c></NS> <NS type="FV"><i>to see</i><c>seeing</c></NS> it for many reasons, one of <NS type="RD"><i>this</i><c>the</c></NS> reasons <NS type="UA"><i>it</i></NS> is that I love the <NS type="DN"><i>starring</i><c>star</c></NS><NS type="MP"><c>,</c></NS> Danny Brook. And I would like <NS type="UA"><i>that</i></NS> you <NS type="FV"><i>know</i><c>to know</c></NS> that I have had a very disappointing evening, due to the differences between the advertisement and the show that I saw.</p>
+          <p>First of all, the actor was not Danny Brook.</p>
+          <p>Secondly, in your advertisement the time of the show was 19:30 and in <NS type="S"><i>reallity</i><c>reality</c></NS> the show <NS type="TV"><i>has started</i><c>started</c></NS> at 20:15 and the discount was not available.</p>
+          <p>Finally, I wanted to visit <NS type="DD"><i>you</i><c>your</c></NS> theatre restaurant after the show but it was already closed.</p>
+          <p>So, I had a very disappointing evening and it would be very kind of you if you <NS type="TV"><i>give</i><c>gave</c></NS> me back the money <NS type="M"><c>I spent</c></NS>.</p>
+          <p><NS type="UP"><i>I'am</i><c>I am</c></NS> looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> <NS type="MT"><c>from</c></NS> you as soon as possible.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>I think it is very good to have <NS type="UD"><i>a</i></NS> science and technology because <NS type="AGA"><i>it</i><c>they</c></NS> can really <NS type="AGV"><i>affects</i><c>affect</c></NS> our lives.</p>
+          <p>For example<NS type="MP"><c>,</c></NS> 20 years ago, people who were affected by the AIDS Virus couldn't live more than two or three years, but now with the new science, there <NS type="AGV"><i>is</i><c>are</c></NS> several <NS type="AGN"><i><NS type="S"><i>therapi</i><c>therapy</c></NS></i><c>therapies</c></NS> and now people affected by this virus can live many years.</p>
+          <p>I think you can do a lot <NS type="MY"><c>more</c></NS> <NS type="UT"><i>of</i></NS> <NS type="AGN"><i><NS type="SX"><i>think</i><c>thing</c></NS></i><c>things</c></NS> now than before with <NS type="UD"><i>the</i></NS> <NS type="S"><i>techonology</i><c>technology</c></NS>.</p>
+          <p>You can travel around the world by train, by plane or by ship and maybe one day you can fly by car. Why not<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I hope that you will find this composition interesting.</p>
+          <p>best <NS type="S"><i>reguard</i><c>regards</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

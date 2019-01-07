@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR414*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to tell you that the students of my class have seen an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="RT"><i>about</i><c>for</c></NS> <NS type="RP"><i>The</i><c>the</c></NS> London Fashion And Leisure Show.</p>
+          <p>First of all I would like to thank you for making such a good plan<NS type="UP"><i>,</i></NS> for us, so we <NS type="TV"><i>could</i><c>can</c></NS> have a good time. Then I would like to explain to you <NS type="UT"><i>about</i></NS> <NS type="RP"><i>The</i><c>the</c></NS> London Fashion and Leisure Show. Finally <NS type="M"><c>I would like to describe</c></NS> how the programme could be changed.</p>
+          <p>The London Fashion And Leisure Show is taking place in <NS type="MD"><c>the</c></NS> Central Exhibition Hall in London and <NS type="RV">happens</NS> on Tuesday March 14<NS type="RP"><i>. From</i><c>, from</c></NS> ten o'clock in the morning till seven o'clock in the <NS type="RN"><i>afternoon</i><c>evening</c></NS>. The reason that I suggest that we go is that it is a great opportunity because we can see the latest fashions, <NS type="MT"><c>in</c></NS> leisure and sports wear as well as <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="UJ"><i>different</i></NS> hairstyles. In addition to <NS type="FA"><i>these</i><c>this</c></NS> we will not have to pay anything since it is free for students.</p>
+          <p>I suggest that we should <NS type="RV"><i>transfer</i><c>move</c></NS> our visit to the Science Museum <NS type="RT"><i>on</i><c>to</c></NS> Wednesday afternoon <NS type="R">in our free time that we have</NS>. I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I had to do it. I did not have any choice since my brother was in trouble. I had to become a <NS type="S"><i>burgler</i><c>burglar</c></NS> again and steal <NS type="SA"><i>jewelry</i><c>jewellery</c></NS> from the <NS type="DN"><i>jewelry shop</i><c>jewellers</c></NS> <NS type="RP"><i>near by</i><c>nearby</c></NS>.</p>
+          <p>As I knew the <NS type="S"><i>teknics</i><c>techniques</c></NS> to break <NS type="RT"><i>in</i><c>into</c></NS> a place without being noticed, I should not <NS type="TV"><i>be</i><c>have been</c></NS> afraid but tonight I had to steal the most precious diamond in the country<NS type="MP"><c>,</c></NS> which was very well <NS type="RJ"><i>secured</i><c>protected</c></NS>.</p>
+          <p>When I got close to the shop, I checked if anyone was around and luckily <NS type="X"><i>was not</i><c>nobody was</c></NS>. Then I approached <NS type="W"><i>slowly the door</i><c>the door slowly</c></NS>, broke the lock and opened the door. However, my adventure was not over yet. There were <NS type="S"><i>laisers</i><c>lasers</c></NS> all over the place, <NS type="UT"><i>with</i></NS> which I had to be careful <NS type="RT"><i>with</i><c>of</c></NS>.</p>
+          <p>Suddenly something went wrong<NS type="RP"><i>, the</i><c>. The</c></NS> alarm was making <NS type="MD"><c>a</c></NS> noise. I ran towards the diamond<NS type="MP"><c>,</c></NS> <NS type="IV"><i>grabed</i><c>grabbed</c></NS> it<NS type="MP"><c>,</c></NS> got out quickly, <NS type="MC"><c>and</c></NS> ran out of the back door. By <NS type="RN"><i>surprise</i><c>chance</c></NS> I saw a car waiting for me outside. I got into the car <NS type="MC"><c>and</c></NS> gave the <NS type="SA"><i>jewelry</i><c>jewellery</c></NS> in exchange <NS type="RT"><i>of</i><c>for</c></NS> my brother, took him and left the place.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

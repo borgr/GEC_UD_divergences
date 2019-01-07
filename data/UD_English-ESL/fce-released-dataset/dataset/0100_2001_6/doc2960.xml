@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE10*0100*2001*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="L">Dear Mrs Smith, Hello Maria</NS>. In this letter you will get all the information that you need.</p>
+          <p>The hotel that group has been booked into is the Palace Hotel (<NS type="RT"><i><NS type="RP"><i>In</i><c>in</c></NS></i><c>on</c></NS> the Victoria road). And you can <NS type="RV"><i>take</i><c>catch</c></NS> the Bus in front of the hotel to go to the College. It is four bus stops <NS type="MJ"><c>away</c></NS>. Then walk <NS type="RY"><i>straight</i><c>straight ahead</c></NS> for five minutes<NS type="RP"><i>, you</i><c>. You</c></NS> will see the college.</p>
+          <p>After the party, we will go to an <NS type="DN">entertainment area</NS> to have fun and we will eat in Mc'Donalds. The rest you already <NS type="AGV"><i>knows</i><c>know</c></NS>. I suggest <NS type="FV"><i>to wear</i><c>wearing</c></NS> shirts and jeans.</p>
+          <p>And the last three hours before you return, we can go to the "Imax" cinema to watch a 3-D film! <NS type="RY"><i>After</i><c>Afterwards</c></NS> we <NS type="TV"><i>eat</i><c>will eat</c></NS> in the KFC. Then we <NS type="TV"><i>all take</i><c>will all take</c></NS> you and the students to the airport. That's <NS type="RA"><i>all</i><c>everything</c></NS>. I <NS type="RV">wait</NS> you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="DY"><i>sincerly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Madrid is a big city and <NS type="AGV"><i>have</i><c>has</c></NS> many interesting places. But the best place for me is "La Vaguada"<NS type="RP"><i>. An</i><c>, an</c></NS> <NS type="RN">entertainment</NS> and commercial building.</p>
+          <p>In there, students can have fun in the recreation areas, can watch a film and eat all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of food and <NS type="RV"><i>have</i><c>go</c></NS> shopping. We can have fun as well. And that's why I recommend this place to you.</p>
+          <p>The building itself is a large building. It is very safe as there are policemen and cameras. The <NS type="AGN"><i>buildings</i><c>building</c></NS> seems to be very new but it is quite old. People love this place and called it "<NS type="RP"><i>Madrid-two</i><c>Madrid Two</c></NS>".</p>
+          <p>Around it, there are many restaurants and shops as the building <NS type="RV"><i><NS type="AGV"><i>bring</i><c>brings</c></NS></i><c>attracts</c></NS> a lot of people. Inside, there are fast-food restaurants and shops as well. And it is easy to <NS type="RV"><i>come</i><c>get to</c></NS>. Just take the <NS type="W"><i>bus 83</i><c>83 bus</c></NS> or the <NS type="UP"><i>sub-way</i><c>subway</c></NS>. In here, you can find everything that you want. Hope you like it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

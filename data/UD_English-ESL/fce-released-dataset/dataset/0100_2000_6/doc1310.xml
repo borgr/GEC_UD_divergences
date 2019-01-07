@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR540*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Helen Ryan</p>
+          <p>I was <NS type="S"><i>greatful</i><c>grateful</c></NS> to <NS type="FV"><i>hearing</i><c>hear</c></NS> <NS type="UT"><i>about</i></NS> I have won first prize in <NS type="MD"><c>the</c></NS> competition.</p>
+          <p>I would like to tell you <NS type="CE">which are some further information you given to me.</NS></p>
+          <p>I would like to join the camp in July because I <NS type="TV"><i>could</i><c>can</c></NS> get <NS type="MD"><c>a</c></NS> holiday from my company from 1th July to 28th July. Secondly, I would prefer to stay in tents. <NS type="ID">In my experience,</NS> I've never tried to stay in tents during the holiday. That's why I'd like to feel <NS type="DJ"><i>adventurally</i><c>adventurous</c></NS>. It could be <NS type="MD"><c>a</c></NS> good<NS type="MP"><c>,</c></NS> memorable thing for me. And I am interested in swimming and singing. When I was 17 years old, I <NS type="UV"><i>could be able to</i></NS> won <NS type="MD"><c>a</c></NS> swimming competition which <NS type="TV"><i>is</i><c>was</c></NS> held in <NS type="MD"><c>a</c></NS> local stadium. I <NS type="TV"><i>had won</i><c>won</c></NS> second prize. And also, I have <NS type="TV"><i>been joining</i><c>joined</c></NS> <NS type="MD"><c>a</c></NS> <NS type="UN"><i>music</i></NS> <NS type="RN"><i>bend</i><c>band</c></NS> in my school. I'm responsible for lead <NS type="IN"><i>vocal</i><c>vocals</c></NS>. Every Monday <NS type="TV"><i>we're having</i><c>we have</c></NS> a practice time.</p>
+          <p>What I would like to know about <NS type="MV"><c>is</c></NS> what kinds of clothes <NS type="UV"><i>are</i></NS> suit the season in the U.S.A and how much money <NS type="UV"><i>do</i></NS> I should bring <NS type="MT"><c>to</c></NS> the camp.</p>
+          <p>I look forward to joining the camp. I've <NS type="TV"><i>been always wanting</i><c>always wanted</c></NS> to go <NS type="MT"><c>to</c></NS> <NS type="MD"><c>the</c></NS> U.S.A. It must be <NS type="MD"><c>a</c></NS> good chance to join the camp. Thanks for accepting.</p>
+          <p>Yours sincerely</p>
+          <p>Ae-Sook Pak</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>To. Director of <NS type="FN"><i>teacher</i><c>teachers</c></NS></p>
+          <p>From. Ae-Sook Pak</p>
+          <p>Subject. Some <NS type="FN"><i>suggestion</i><c>suggestions</c></NS> to make a video about daily life at our school.</p>
+          <p>INTRODUCTION</p>
+          <p>The aim of this report is <NS type="UT"><i>about</i></NS> <NS type="FV"><i>suggesting</i><c>to suggest</c></NS> which lessons and other activities should be filmed and why <NS type="MA"><c>they</c></NS> are suitable to make a film <NS type="MT"><c>of</c></NS>.</p>
+          <p>EXPLAIN</p>
+          <p>According to <NS type="MD"><c>the</c></NS> reactions of students. Most of the students are taking a morning class for 3 hours, and <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> middle of the lesson they're having a break time. After morning class they have a lunch time for 1 hour and continue to study for afternoon class. It's the most common daily life at our school. And according to the interviews, the most interesting class is the "upper <NS type="S"><i>intermidiate</i><c>intermediate</c></NS>" class. <NS type="R">They are joined with different countries and with <NS type="MD"><c>a</c></NS> good teacher.</NS></p>
+          <p>SUGGESTION</p>
+          <p>The point of "upper <NS type="S"><i>intermidiate</i><c>intermediate</c></NS> class". They are having <NS type="MD"><c>a</c></NS> special time. Every Friday, they enjoy a special game <NS type="UT"><i>for</i></NS> <NS type="FV"><i>check</i><c>to check</c></NS> vocabulary. And they <NS type="TV"><i>are always doing</i><c>always do</c></NS> <NS type="W"><i>best their <NS type="CN"><i>homeworks</i><c>homework</c></NS></i><c>their homework best</c></NS>.</p>
+          <p>CONCLUSION</p>
+          <p>I strongly recommend <NS type="UA"><i>that</i></NS> making a video about "Upper intermidiate" class. <NS type="CE">They must be shown the most well-class in our school.</NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

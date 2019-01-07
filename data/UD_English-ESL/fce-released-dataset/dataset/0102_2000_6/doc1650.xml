@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR650*0102*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>My name is German Schmidt <NS type="R"><i>an</i><c>and</c></NS> <NS type="U"><i>in the</i></NS> last week I went <NS type="RT"><i>in</i><c>to</c></NS> your theatre to see the musical show "Over the Rainbow". There <NS type="TV"><i>are</i><c>were</c></NS> some problems<NS type="UP"><i>,</i></NS> we have to speak about.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, the actor was not Danny Brook<NS type="MP"><c>,</c></NS> there was a different actor, who I don't know. In the advertisement <NS type="RT"><i>of</i><c>for</c></NS> the show <NS type="MA"><c>it</c></NS> was written that the musical <NS type="TV"><i>will</i><c>would</c></NS> <NS type="UV"><i>be</i></NS> start at 19:30, but it started at 20:15.</p>
+          <p>After the <NS type="UJ"><i>musical</i></NS> show I <NS type="TV"><i>want</i><c>wanted</c></NS> to spend some time in your theatre restaurant but it was not open, because all of your cooks and waiters are <NS type="RT"><i>in</i><c>on</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS>.</p>
+          <p>And this <NS type="MV"><c>was</c></NS> not <NS type="MD"><c>a</c></NS> perfect evening <NS type="R"><i>in</i><c>and</c></NS> your theatre was very expensive for me. <NS type="TV"><i>I've <NS type="IV"><i>payed</i><c>paid</c></NS></i><c>I paid</c></NS> £ 160 for eight people and there <NS type="AGV"><i>was</i><c>were</c></NS> no discounts available.</p>
+          <p>In my <NS type="S"><i>oppinion</i><c>opinion</c></NS> you have to give some money back to me. I think 50% (£80) <NS type="AGV"><i>are</i><c>is</c></NS> enough.</p>
+          <p>If you <NS type="X"><i>give no</i><c>don't give me any</c></NS> money back, I will go to the newspaper.</p>
+          <p>faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS> I <NS type="TV"><i>would</i><c>will</c></NS> say that our <NS type="W"><i>technology level</i><c>level of technology</c></NS><NS type="UP"><i>,</i></NS> <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RD"><i>this</i><c>the</c></NS> <NS type="MJ"><c>present</c></NS> time <NS type="AGV"><i>are</i><c>is</c></NS> very high but in the future it <NS type="TV"><i>would</i><c>will</c></NS> be higher.</p>
+          <p>With the help of some modern technology our daily <NS type="AGN"><i>life</i><c>lives</c></NS> would not <NS type="MV"><c>be</c></NS> so difficult.</p>
+          <p>One <NS type="RN"><i>point</i><c>example</c></NS> in my life is home banking. With the help of my home computer I can do all <NS type="MN"><c>kinds of</c></NS> <NS type="AGN"><i>thing</i><c>things</c></NS>, <NS type="RT"><i>about</i><c>with</c></NS> money, with my bank. Some years ago I <NS type="TV"><i>have</i><c>had</c></NS> to go to the bank. The new way is very easy and faster and I can <NS type="FV"><i>spent</i><c>spend</c></NS> my time <NS type="RT"><i>with</i><c>on</c></NS> other things. <NS type="RP"><i>An other</i><c>Another</c></NS> <NS type="RN"><i>point</i><c>example</c></NS> is the modern technology in my car. Because of <NS type="UD"><i>the</i></NS> modern technology, the safety level <NS type="RT"><i>in</i><c>of</c></NS> my car is very high.</p>
+          <p><NS type="RY"><i>At the end</i><c>Finally</c></NS> I would say that <NS type="RQ"><i>everybody</i><c>none</c></NS> of us can <NS type="UY"><i>not</i></NS> live without <NS type="UD"><i>the</i></NS> modern technology, because <NS type="UD"><i>the</i></NS> modern technology is <NS type="RJ"><i>necessary</i><c>essential</c></NS> for us in all parts of our <NS type="AGN"><i>life</i><c>lives</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

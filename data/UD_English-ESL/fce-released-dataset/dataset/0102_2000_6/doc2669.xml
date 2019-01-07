@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1073*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'd like to explain <NS type="MT"><c>to</c></NS> you the problems I <NS type="TV"><i>have had</i><c>had</c></NS> when I went to the theatre. The main problem I had was <NS type="MT"><c>with</c></NS> the actor, because he wasn't Danny Brook. Although Tina Truelove was there, I went to the theatre to see Danny Brook.</p>
+          <p>Another problem I had was <NS type="MT"><c>with</c></NS> the time <NS type="M"><c>of the performance</c></NS>. <NS type="RA"><i>I</i><c>It</c></NS> was going to begin at 19.30 but It began at 20.15 and the problem was that It was raining. I'd like to explain too that I didn't see <NS type="UC"><i>that</i></NS> you <NS type="RV"><i>made</i><c>give</c></NS> <NS type="MQ"><c>any</c></NS> discounts to <NS type="RA"><i>no one</i><c>anyone</c></NS>. I was queuing for a long time and I didn't see it <NS type="MV"><c>happen</c></NS>. And I went with a lot of friends and we didn't <NS type="RV"><i>have</i><c>get</c></NS> any discount.</p>
+          <p>Another <NS type="RN"><i>question</i><c>problem</c></NS> is that in the advertisement you <NS type="RV"><i>advised</i><c>said</c></NS> we could visit your restaurant but as it was closed we couldn't <NS type="U"><i>do it</i></NS>. And we were very hungry after being three hours in the theatre.</p>
+          <p>And <NS type="AGA"><i>that</i><c>those</c></NS> are all <NS type="MD"><c>the</c></NS> problems I <NS type="RV"><i>found</i><c>had</c></NS>. And, because of these <NS type="RN"><i>faults</i><c>problems</c></NS>, I'd like to have my money back. If you don't mind, of course.</p>
+          <p>Yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>I met Pat when we were children. We went <NS type="RT"><i>at</i><c>to</c></NS> the same school and <NS type="MV"><c>were</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> the same class. I liked a boy who was in the same class. I told her that and she assured me that she wouldn't say <NS type="RA"><i>it</i><c>anything</c></NS> to him. When we finished <NS type="MT"><c>at</c></NS> our primary school we went <NS type="RT"><i>at</i><c>to</c></NS> the same <NS type="S"><i>secundary</i><c>secondary</c></NS> school too, but we were in different classes. We went out every <NS type="AGN"><i>weekends</i><c>weekend</c></NS>. And when we finished <NS type="MT"><c>at</c></NS> the <NS type="S"><i>secundary</i><c>secondary</c></NS> school, I decided go to a foreign University. I <NS type="TV"><i>spend</i><c>spent</c></NS> five years there, although I came <NS type="MY"><c>back</c></NS> <NS type="R"><i>all</i><c>every</c></NS> <NS type="AGN"><i>summers</i><c>summer</c></NS> and we continued going out as we <NS type="TV"><i>did</i><c>had done</c></NS> before. When I finished I <NS type="TV"><i>return</i><c>returned</c></NS> to my city to find a job.</p>
+          <p><NS type="RQ"><i>A</i><c>one</c></NS> day, Pat told me that <NS type="RA"><i>we</i><c>she</c></NS> was talking with this boy and that he told her that <NS type="RA"><i>I</i><c>he</c></NS> <NS type="TV"><i>like</i><c>liked</c></NS> <NS type="RA"><i>him</i><c>me</c></NS> and immediately she told him that <NS type="RA"><i>he</i><c>I</c></NS> liked <NS type="RA"><i>me</i><c>him</c></NS> too.</p>
+          <p>A week after that I found him in a <NS type="RN"><i>coffee</i><c>cafe</c></NS> and he asked me if I would like to be his girlfriend and I accepted. Now, five years later we are going to get married.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

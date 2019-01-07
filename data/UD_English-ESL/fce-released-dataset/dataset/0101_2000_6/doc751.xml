@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR294*0101*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Brown,</p>
+          <p>It would be a pleasure to us and to your husband to come <NS type="RT"><i>at</i><c>to</c></NS> the party. All the students wanted to organise a surprise party for Mr Brown. Next Tuesday is his birthday. We would like you to come and<NS type="MP"><c>,</c></NS> if you can<NS type="MP"><c>,</c></NS> to help us <NS type="RT"><i>in</i><c>with</c></NS> an important decision.</p>
+          <p>Firstly, we should tell you that it is a surprise party. He must not learn about it <NS type="RY"><i>subsequently</i><c>so</c></NS> you must not tell him.</p>
+          <p>Secondly, the party will take place on Tuesday 16th of June <NS type="RT"><i>at</i><c>in</c></NS> <NS type="MT"><c>the</c></NS> <NS type="RP"><i>College Canteen</i><c>college canteen</c></NS>. We think <NS type="RD"><i>the</i><c>a</c></NS> suitable time will be 3-6 p.m. You can come earlier, if you want. We would have <NS type="DN"><i>junky food</i><c>junk food</c></NS>, some juices and drinks. Moreover, <NS type="W"><i>will come some <NS type="AGN"><i>teacher</i><c>teachers</c></NS></i><c>some teachers will come</c></NS>, of course all the students and the Principal.</p>
+          <p><NS type="RY"><i>On the other hand</i><c>However</c></NS>, we do not know what to give him as a present. Can you help us? We want something that <NS type="AS"><i>it would like him</i><c>he would like</c></NS> or <NS type="MA"><c>which</c></NS> would be necessary.</p>
+          <p>Please try to come and help us <NS type="RT"><i>to</i><c>with</c></NS> this problem. We <NS type="S"><i>ar</i><c>are</c></NS> looking forward to your reply.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>John said he had some good news to tell me. I <NS type="TV"><i>am</i><c>was</c></NS> waiting <NS type="MT"><c>for</c></NS> him to come. Suddenly the bell <NS type="TV"><i>rings</i><c>rang</c></NS>. I thought that <NS type="MA"><c>it</c></NS> would be John and <NS type="MA"><c>it</c></NS> was he. We had finished the exams two weeks <NS type="RY"><i>ago</i><c>before</c></NS> and we were waiting for the results.</p>
+          <p>The first good <NS type="IN"><i>new</i><c>news</c></NS> was that we both had passed the exams. It was <NS type="UD"><i>a</i></NS> wonderful <NS type="IN"><i>new</i><c>news</c></NS>. Then we thought about going <NS type="UT"><i>for</i></NS> swimming to <NS type="RV"><i>discuss</i><c>talk</c></NS> about some things.</p>
+          <p>The second <NS type="IN"><i>new</i><c>news</c></NS> was that he had found a job for the summer. He would go to work in a café. He would earn a lot of money, in addition they wanted <NS type="UD"><i>an</i></NS> another person. As a result I had <NS type="UD"><i>a</i></NS> work too. We had the greatest day.</p>
+          <p>Then we had an idea! We would have <NS type="RQ"><i>much</i><c>a lot of</c></NS> money from the work. At the end of the summer we are planning to visit a cousin who lives in Australia. We imagine that <NS type="TV"><i>would</i><c>will</c></NS> be the best <NS type="FN"><i>holidays</i><c>holiday</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> our life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

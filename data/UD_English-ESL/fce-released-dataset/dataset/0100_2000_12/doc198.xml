@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR792*0100*2000*02">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>Thank you for the good programme which you have organised. There is only one thing we don't agree with you <NS type="MT"><c>about</c></NS>, it is the <NS type="M"></NS> Tuesday 14 March.</p>
+          <p>We have seen an advertisement for the London Fashion and Leisure Show<NS type="UP"><i>.</i></NS> and we would all like to go to this show. It would be very special for us because we haven't seen <NS type="RA"><i>something</i><c>anything</c></NS> like that before. There are four different shows. First there is a show with <NS type="MD"><c>the</c></NS> latest fashions, after they show <NS type="UA"><i>us</i></NS> <NS type="UD"><i>the</i></NS> leisure and <NS type="RP"><i>sports wear</i><c>sportswear</c></NS> and then there are the <NS type="MP"><i>make up</i><c>make-up</c></NS> and the hairstyles shows.</p>
+          <p>The show is not as expensive as the Science Museum because <NS type="UD"><i>the</i></NS> entry <NS type="RT"><i>of</i><c>to</c></NS> the show is free for students.</p>
+          <p>You see, the programme <NS type="W"><i>has only</i><c>only has</c></NS> to be changed on Tuesday morning. In the afternoon we go shopping <NS type="M"></NS> how you have organised <NS type="UT"><i>in</i></NS> your programme. In our opinion<NS type="UP"><i>;</i></NS> it is enough to go one time <NS type="RT"><i>in</i><c>to</c></NS> a museum and it is on Wednesday <NS type="M"></NS>.</p>
+          <p>Thank you in advance for your <NS type="RN">trouble</NS><NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+          <p>your English Class 4A</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>The Home of the Future</p>
+          <p>Now, we are in the <NS type="RP"><i>21th</i><c>21st</c></NS> century. Most of us live in houses or flats and it is <NS type="DY"><i>most</i><c>mostly</c></NS> very comfortable. But in <NS type="RD"><i>which</i><c>what</c></NS> kind of homes will people <NS type="RV"><i>stay</i><c>live</c></NS> in the future? What will be different and what <NS type="MP"><i>wont</i><c>won't</c></NS> change? We <NS type="RV"><i>can</i><c>will</c></NS> need our imagination <NS type="UT"><i>for</i></NS> <NS type="FV"><i>answering</i><c>to answer</c></NS> these questions but we will never know the right answer.</p>
+          <p>I have <NS type="RJ">further</NS> ideas<NS type="RP"><i>:</i><c>.</c></NS> In the <NS type="S"><i>futur</i><c>future</c></NS>, maybe in 2113, there will <NS type="FV"><i>are</i><c>be</c></NS> houses like now but <NS type="UY"><i>only</i></NS> with more technical things. <NS type="UD"><i>The life</i><c>Life</c></NS> at home will be <NS type="IJ"><i>more easy</i><c>easier</c></NS> because <NS type="M"></NS> a refrigerator which <NS type="AGV"><i>fill</i><c>fills</c></NS> <NS type="W"><i>up itself</i><c>itself up</c></NS> or a bathroom which <NS type="AGV"><i>clean</i><c>cleans</c></NS> itself. So, people <NS type="MP"><i>wont</i><c>won't</c></NS> have to clean their houses because there <NS type="TV"><i>are</i><c>will be</c></NS> <NS type="MD"><c>a</c></NS> machine for all <NS type="MD"><c>the</c></NS> <NS type="CN"><i>works</i><c>work</c></NS>.</p>
+          <p>But I think that people will <NS type="SX"><i><NS type="S"><i>altough</i><c>although</c></NS></i><c>also</c></NS> need a bed and a table with a chair. These things and a lot more <NS type="SX"><i>went</i><c>won't</c></NS> change or <NS type="MP"><i>wont</i><c>won't</c></NS> be forgotten. So, I think<NS type="UP"><i>.</i></NS> houses <NS type="W"><i>only will</i><c>will only</c></NS> be more <NS type="S"><i>moderne</i><c>modern</c></NS> and more <NS type="DJ"><i>practique</i><c>practical</c></NS> but not very different from our <NS type="FN"><i>home</i><c>homes</c></NS> in the present.</p>
+          <p>This is my idea and we will see!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

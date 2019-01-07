@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1040*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have just seen the letter this morning and I am very happy <NS type="RT"><i>for</i><c>about</c></NS> <NS type="FV"><i>win</i><c>winning</c></NS> the competition. I believe I have the appropriate <NS type="FN"><i>qualification</i><c>qualifications</c></NS> to stay two weeks at camp California. It <NS type="RV"><i>could</i><c>would</c></NS> be wonderful to see you as soon as possible.</p>
+          <p>First of all, I will be able to travel in July <NS type="MY"><c>only</c></NS> because I have not finished school. <NS type="UC"><i><NS type="S"><i>Althoug</i><c>Although</c></NS></i></NS> <NS type="R">I <NS type="S"><i>wich</i><c>wish</c></NS> that my accommodation at Camp California it must be</NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>. I <NS type="RV"><i>get</i><c>had</c></NS> experience <NS type="R"><i>in</i><c>of this</c></NS> <NS type="UD"><i>the</i></NS> last summer.</p>
+          <p>Secondly, I am very keen <NS type="RT"><i>at</i><c>on</c></NS> sports<NS type="RP"><i>. Specially</i><c>, specially</c></NS> <NS type="UT"><i>at</i></NS> sailing and swimming. Anyway I am <NS type="W"><i>hard working for the <NS type="RN"><i>word</i><c>world</c></NS> cup at sailing</i><c>working hard at sailing for the world cup</c></NS>.</p>
+          <p>Finally, I would like to know how <NS type="W"><i>is the weather</i><c>the weather is</c></NS> in July? Because I have to prepare all my <NS type="L"><i><NS type="S"><i>staf</i><c>stuff</c></NS></i><c>luggage</c></NS> and I am sure it <NS type="TV"><i>would</i><c>will</c></NS> be a great experience despite <NS type="R">the cost of living</NS>.</p>
+          <p>I look forward to hearing <NS type="RT"><i>for</i><c>from</c></NS> you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi, how are you? I'm fine. Thank you for my <NS type="UP"><i>birthday's</i><c>birthday</c></NS> present.</p>
+          <p>Sorry about my last <NS type="RN"><i>mail</i><c>letter</c></NS> but I've been <NS type="TV"><i>traveled</i><c>travelling</c></NS>. I didn't tell you about my last job<NS type="RP"><i>, you</i><c>. You</c></NS> remember last <NS type="RN"><i>moth</i><c>month</c></NS> <NS type="TV"><i>I've helped</i><c>I helped</c></NS> at a pop concert. Anyway, it was fantastic<NS type="MP"><i> you</i><c>. You</c></NS> can't imagine <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>was the concert</i><c>the concert was</c></NS> like?</p>
+          <p><NS type="UC"><i>However,</i></NS> I was responsible for <NS type="FV"><i>check</i><c>checking</c></NS> <NS type="R"><i>in for</i><c>tickets at</c></NS> the entrance<NS type="MP"><c>,</c></NS> then I <NS type="RV"><i>must</i><c>had</c></NS> <NS type="FV"><i>gave</i><c>to give</c></NS> a <NS type="SX"><i>sit</i><c>seat</c></NS> to everyone. Anyway I <NS type="S"><i>enjoed</i><c>enjoyed</c></NS> <NS type="MA"><c>it</c></NS> so much. I haven't been to a concert before so the <NS type="S"><i>atmosphier</i><c>atmosphere</c></NS> was really good. I <NS type="RV"><i>shouldn't</i><c>won't</c></NS> <NS type="FV"><i>forgot</i><c>forget</c></NS> my experience in my <NS type="MJ"><c>whole</c></NS> life.</p>
+          <p><NS type="TV"><i>Did</i><c>Do</c></NS> you remember the computer <NS type="RN"><i>curse</i><c>course</c></NS> that we took together<NS type="MP"><i> it</i><c>. It</c></NS> was very useful to <NS type="S"><i>clasifay</i><c>classify</c></NS> each person <NS type="RT"><i>in</i><c>at</c></NS> the concert. So keep in touch.</p>
+          <p><NS type="ID"><i>A lot of love</i><c>Lots of love</c></NS>,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

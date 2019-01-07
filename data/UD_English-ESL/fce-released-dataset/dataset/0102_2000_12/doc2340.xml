@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR937*0102*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Ideas to <NS type="RP"><i>improve</i><c>Improve</c></NS> the Festival</p>
+          <p>Dear Jane Clark,</p>
+          <p>I went to the International Arts Festival and saw some interesting things, but many points could be better. That is why <NS type="TV"><i>I write</i><c>I'm writing</c></NS> to you, to give you some suggestions that you can take into consideration or not.</p>
+          <p>Firstly, it is a good idea that the Festival is <NS type="RP"><i>International</i><c>international</c></NS>. But in the advertisement it was <NS type="RV"><i>written</i><c>said</c></NS> that the artists were from all <NS type="MT"><c>over</c></NS> the world <NS type="RC"><i>and</i><c>but</c></NS> I saw only six nationalities.</p>
+          <p>Secondly, the classical concerts were excellent <NS type="RC"><i>and</i><c>but</c></NS> the halls were so crowded that nobody could walk. In my opinion, it would be important to rent bigger halls next year.</p>
+          <p>Thirdly, I noticed that the plays and the films were <NS type="UD"><i>a</i></NS> good entertainment. <NS type="AGA"><i>It</i><c>They</c></NS> attracted a lot of people and they were really <NS type="L">joyous</NS> after that.</p>
+          <p>Finally, the <NS type="DJ"><i>reasonably</i><c>reasonable</c></NS> price of the tickets for the weekend was a good point, because all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of people <NS type="S"><i>an</i><c>can</c></NS> afford to buy <NS type="AGA"><i>it</i><c>them</c></NS>. I also think that you should <NS type="RV"><i>put</i><c>have</c></NS> a <NS type="RP"><i>Snack-Bar</i><c>snack bar</c></NS> or a little restaurant so <NS type="RC"><i>as</i><c>that</c></NS> the people are not too <NS type="S"><i>hangry</i><c>hungry</c></NS> and <NS type="S"><i>morever</i><c>moreover</c></NS> you can <NS type="R"><i>realise big benefits</i><c>make a lot of profit</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>In conclusion, <NS type="RT"><i>in</i><c>on</c></NS> the whole the Festival was a success, but these suggestions can maybe help you to improve <NS type="MA"><c>it</c></NS>.</p>
+          <p>I hope you will not take this letter as a complaint and I look forward to going to the next festival.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Home and school rules</p>
+          <p>Dear Andrew,</p>
+          <p>I <NS type="TV"><i>receive</i><c>have received</c></NS> your letter and thank you for it. I am very happy to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you and I hope that you are <NS type="RJ"><i>fit</i><c>well</c></NS>. <NS type="RY">As expected</NS>, I want to talk <NS type="RY"><i>at first</i><c>first</c></NS> about my school and then about my home.</p>
+          <p>As you know, I finished school two years ago. This year, I started a private school in Dijon. So the rules are clear, you need to participate <NS type="RT"><i>to</i><c>in</c></NS> the lessons and also <NS type="R"><i>be successful at</i><c>pass</c></NS> the exam <NS type="RT"><i>of</i><c>in</c></NS> June 2000. In our class, we don't have <NS type="MD"><c>a</c></NS> problem with students who dislike <NS type="FV"><i>to work</i><c>working</c></NS>, because we are all there for the same reasons and nobody wants to <NS type="RV"><i>say</i><c>stay</c></NS> there <NS type="MT"><c>for</c></NS> years and years. It is also expensive and I can't afford to stay there too long.</p>
+          <p>In my <NS type="RJ">sweet</NS> home, my parents let me do what I want, because I am an adult now. But when we are <NS type="RY"><i>in society</i><c>out</c></NS>, we have to be careful not to disturb the other <NS type="L"><i>persons</i><c>people</c></NS>. It is the same in our family<NS type="MP"><i> <NS type="UC"><i>and</i></NS> for</i><c>. For</c></NS> example<NS type="MP"><c>,</c></NS> my parents dislike hearing music <NS type="RT"><i>in</i><c>throughout</c></NS> the whole house <NS type="CE">or that I let dust everywhere</NS>. When I go out, they don't give me <NS type="RN"><i>an hour</i><c>a time</c></NS> to be <NS type="UT"><i>at</i></NS> home, because <NS type="R"><i>I don't <NS type="S"><i>exagerate</i><c>exaggerate</c></NS></i><c>I'm sensible</c></NS>.</p>
+          <p>In conclusion, I don't want to change <NS type="RA"><i>something</i><c>anything</c></NS> in my house or at school, because I <NS type="DY"><i>totaly</i><c>totally</c></NS> agree with the few rules that I have.</p>
+          <p>I hope these few <NS type="MQ"><c>pieces of</c></NS> information can help you and I look forward to hearing from you<NS type="MP"><c>.</c></NS></p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

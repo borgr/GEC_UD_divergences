@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR656*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>I'm writing this letter to you because I had a very disappointing evening <NS type="RT"><i>to</i><c>at</c></NS> your theatre<NS type="UP"><i>.</i></NS> and I would like to explain what the problems were.</p>
+          <p>Firstly, <NS type="UC"><i>as</i></NS> I read <NS type="RT"><i>at</i><c>in</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS><NS type="UP"><i>,</i></NS> <NS type="MC"><c>that</c></NS> the actor would be Danny Brook<NS type="MP"><c>,</c></NS> and this is one of the reasons why I <NS type="RV"><i>came</i><c>went</c></NS> to the theatre. But <NS type="UT"><i>at</i></NS> <NS type="M"><c>I had a </c></NS> big <NS type="S"><i>suprise</i><c>surprise</c></NS> <NS type="MC"><c>when</c></NS> I saw that <NS type="AS"><i>the actor was different</i><c>it was a different actor</c></NS><NS type="MP"><c>,</c></NS> and I was very disappointed.</p>
+          <p>Secondly, <NS type="RT"><i>on</i><c>according to</c></NS> the <NS type="RN">article</NS> the times were 14:30 and 19:30. I <NS type="IV"><i>prefered</i><c>preferred</c></NS> to <NS type="RV"><i>come</i><c>go</c></NS> at 19:30 because it is better at night and it wouldn't finish late, but the <NS type="RN"><i>theatre</i><c>show</c></NS> started at 20:15 and we got bored waiting <NS type="M"><c>for it</c></NS> to start.</p>
+          <p>Another reason why I was disappointed was that you said there would be <NS type="MD"><c>a</c></NS> discount available but there wasn't.</p>
+          <p><NS type="RY"><i>At last</i><c>Finally</c></NS><NS type="MP"><c>,</c></NS> I was <NS type="RV"><i>waiting</i><c>planning</c></NS> to visit your theatre restaurant after the show but it was closed because a machine was broken. This was very disappointing.</p>
+          <p>As you can see<NS type="MP"><c>,</c></NS> there were many problems with the theatre and I would like to ask for some money back as <NS type="UD"><i>an</i></NS> <NS type="RN"><i>alternative</i><c>compensation</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>Yours faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. The next morning at school everybody was looking at me <NS type="RT"><i>with</i><c>in</c></NS> a strange way. Nobody was talking to me except the ten <NS type="L"><i>persons</i><c>people</c></NS> who I invited to my party.</p>
+          <p>At first I didn't know why but after a few seconds I realised that telling Pat about my party wasn't a good idea. I was very <NS type="S"><i>ungry</i><c>angry</c></NS> with her<NS type="RP"><i>,</i><c>.</c></NS> I didn't know what to do<NS type="MP"><c>,</c></NS> I was afraid that I <NS type="TV"><i>would have</i><c>had</c></NS> lost all my friends.</p>
+          <p>After a few seconds of <NS type="FN"><i>thoughts</i><c>thought</c></NS> I went <NS type="S"><i>straigh</i><c>straight</c></NS> to Pat. "Why, why did you do that?" I said<NS type="MP"><i> she</i><c>. She</c></NS> looked as if she didn't want to talk to me. I ignored her<NS type="MP"><c>,</c></NS> I couldn't do anything now. Everybody knew about my party and I had invited only ten <NS type="L"><i>persons</i><c>people</c></NS>. I was confused. I wondered why I made the mistake <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to invite</i><c>inviting</c></NS> Pat. I guess I didn't know that she would have <NS type="RV"><i>said</i><c>told</c></NS> <NS type="R"><i>it</i><c>people</c></NS>.</p>
+          <p>After <NS type="R"><i>a big</i><c>much</c></NS> confusion<NS type="MP"><c>,</c></NS> I decided not to <NS type="RV"><i>make</i><c>have</c></NS> a party for my birthday so I could <NS type="RV"><i><NS type="FV"><i>had</i><c>have</c></NS></i><c>get</c></NS> all my friends back. And that's <NS type="W"><i>what I <NS type="UV"><i>had</i></NS> exactly</i><c>exactly what I</c></NS> <NS type="TV"><i>done</i><c>did</c></NS> even <NS type="RC"><i>if</i><c>though</c></NS> I <NS type="RV"><i>stayed</i><c>was</c></NS> alone <NS type="RT"><i>at</i><c>on</c></NS> my birthday. It was much more important to me to get all my friends back.</p>
+          <p><NS type="RT"><i>With</i><c>From</c></NS> this <NS type="RN"><i>story</i><c>experience</c></NS> I learnt that there are a few friends who are real friends <NS type="UC"><i>and</i></NS> <NS type="FA"><i>who</i><c>whom</c></NS> you can trust.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

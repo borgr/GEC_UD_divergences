@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE97*0100*2001*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Neuchâtel, 12th June 2001</p>
+          <p>Dear Mrs Smith,</p>
+          <p><NS type="UA"><i>I thank</i><c>Thank</c></NS> you for your recent letter. First, I would like to congratulate <NS type="MA"><c>you</c></NS> on your new <NS type="S"><i>responsability</i><c>responsibility</c></NS>, <NS type="M"></NS> because of Mr Brown's illness.</p>
+          <p>I <NS type="TV"><i>give</i><c>will give</c></NS> you with great pleasure all the details needed.</p>
+          <p>Your group is staying at the Palace Hotel, which is located directly <NS type="RT"><i>in front of</i><c>opposite</c></NS> the bus station.</p>
+          <p>To go to the conference from your hotel is really easy. You have to take the <NS type="W"><i>bus number 1</i><c>number 1 bus</c></NS> and get off at "Black House", which is the third stop.</p>
+          <p>After the conference, at about 8 pm<NS type="UP"><i>.</i></NS> a party is <NS type="TV"><i>organised</i><c>being organised</c></NS>. During it, everybody will have the opportunity to <NS type="FV"><i>met</i><c>meet</c></NS> and talk to the speakers of the conference. Food and beverages will be available. After the <NS type="FN"><i>cocktail</i><c>cocktails</c></NS>, the Band "Zero one" <NS type="TV"><i>is playing</i><c>will play</c></NS> their famous songs.</p>
+          <p>The clothes<NS type="UP"><i>,</i></NS> required for the party are suits for men and cocktail dresses for women.</p>
+          <p>Before your departure, you will have time to visit the Olympic Museum or to <NS type="RV"><i>make</i><c>do</c></NS> a sightseeing tour <NS type="RT"><i>in</i><c>of</c></NS> our city.</p>
+          <p>I hope you will enjoy your <NS type="RN"><i>journey</i><c>stay</c></NS> in our city and look forward to meeting you at this conference.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Report on the "Paintings Museum"</p>
+          <p>In order to write this report, I spent hours in this wonderful museum. There, I saw the <NS type="S"><i>exibitions</i><c>exhibitions</c></NS> and admired the building itself. I walked around the garden too.</p>
+          <p>Location</p>
+          <p>The museum is located in Ouchy, <NS type="RT"><i>in front of</i><c>opposite</c></NS> the "Delamuraz Hotel". It is close to the main road, and <NS type="UT"><i>at</i></NS> 300 <NS type="SA"><i>meters</i><c>metres</c></NS> <NS type="RT"><i>of</i><c>from</c></NS> the station.</p>
+          <p>Outside</p>
+          <p>The building is made of white stones. It has two floors. Before going inside, you have to <NS type="SX"><i>pas</i><c>pass</c></NS> through the huge garden. There, ponds, pools, trees, flowers and ducks can be admired. I recommend you to take your <NS type="RP"><i>swim suit</i><c>swimsuit</c></NS>, because in summer, it is allowed to swim in <NS type="MD"><c>the</c></NS> pools.</p>
+          <p>Inside</p>
+          <p>When you are inside the museum, you will be impressed by the paintings on the walls. <NS type="AGA"><i>There</i><c>They</c></NS> were all <NS type="TV"><i>painting</i><c>painted</c></NS> during the war by nurses. If you go down a few steps, you will discover the <NS type="S"><i>ceilar</i><c>cellar</c></NS>. Everything in this room is <NS type="RT"><i>about</i><c>connected with</c></NS> wine.</p>
+          <p>To learn the whole history of the building, there is a room dedicated to it on the first floor.</p>
+          <p>I particularly recommend you to visit the "blue" room. Everything in this room is blue, the carpet, the ceiling and even the door.</p>
+          <p>According to the owner, it was a room where in the past people used to go when they were depressed.</p>
+          <p>Conclusion</p>
+          <p>To sum up, I would like to add that this house is the most famous in our city. You should come and visit it for the paintings or for the building itself.</p>
+          <p>You won't be disappointed.</p>
+          <p>The only negative point is that you have to pay 10 francs to visit<NS type="UP"><i>.</i></NS> the house and the garden.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

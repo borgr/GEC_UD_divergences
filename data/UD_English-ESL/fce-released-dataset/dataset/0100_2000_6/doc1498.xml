@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR580*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Helen Ryan,</p>
+          <p>First of all, I would like to thank you and your organisation for giving me this opportunity. I've just received your letter this morning. I am very happy <NS type="SX"><i>an</i><c>and</c></NS> <NS type="RJ"><i>exciting</i><c>excited</c></NS> about it.</p>
+          <p>I can only travel during July because I have <NS type="L"><i>many</i><c>a lot of</c></NS> <NS type="FN"><i>A-levels</i><c>A-level</c></NS> examinations to take during June. I would prefer staying in a tent because I haven't done it before and I would like to give it a go. I <NS type="W"><i>also would</i><c>would also</c></NS> like to <NS type="FV"><i>chose</i><c>choose</c></NS> basketball and surfing as two activities to do while I am at the Camp. I am very keen on basketball. I am <NS type="RD"><i>a</i><c>the</c></NS> captain of <NS type="MD"><c>the</c></NS> school's basketball team and we have won <NS type="L"><i>many</i><c>a lot of</c></NS> competitions. However, my surfing <NS type="RN"><i>skill</i><c>ability</c></NS> is very average as I have only been surfing for three months. There are two questions I would like to ask. <NS type="MD"><i>First</i><c>The first</c></NS> question is how many and what type of clothes do I have to take with me? Another question is how much money do I have to take with me (roughly)?</p>
+          <p>I am really looking forward to <NS type="FV"><i>take</i><c>taking</c></NS> part <NS type="RT"><i>at</i><c>in</c></NS> Camp California.</p>
+          <p>Yours sincerely,</p>
+          <p>Duangkamol (Denis) Saowaluk</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p>How are you? I am fine. Remember I <NS type="TV"><i>have told</i><c>told</c></NS> you that I <NS type="TV"><i>have</i><c>had</c></NS> been selected to help at a pop concert of a local band? Well, it turned out really well and everybody had a great time.</p>
+          <p>It was last month that I was selected. I had to help the director <NS type="FV"><i>writing</i><c>write</c></NS> a script <NS type="RT"><i>of</i><c>for</c></NS> the concert and design the background of the stage. I <NS type="TV"><i>have</i><c>had</c></NS> also been told that they were going to make a music video <NS type="RT"><i>from</i><c>of</c></NS> that concert, so I tried as well as I could. I didn't get involved that much in writing <NS type="RD"><i>a</i><c>the</c></NS> script because it was very hard and the director wrote most of it but the main idea <NS type="RT"><i>of</i><c>for</c></NS> the background of the stage was <NS type="DA"><i>my</i><c>mine</c></NS>, and I am very proud of it. Everything <NS type="TV"><i>has been</i><c>was</c></NS> finally <NS type="RV"><NS type="IV"><i>planed</i><c>planned</c></NS></NS> two days before the concert.</p>
+          <p>On Saturday night, the concert began. Everything went really well<NS type="RP"><i>, the</i><c>. The</c></NS> music was great and the fans were loving it. When <NS type="TV"><i>they've finished</i><c>they finished</c></NS> singing the last song I was <NS type="DJ"><i><NS type="S"><i>surprice</i><c>surprise</c></NS></i><c>surprised</c></NS> when they called me up on the stage and said thank you to me in front of hundreds of people. I am sure that I'll never forget that moment.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

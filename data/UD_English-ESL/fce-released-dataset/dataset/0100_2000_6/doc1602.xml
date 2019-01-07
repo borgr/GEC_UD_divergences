@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR630*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am really surprised about the free <NS type="RN"><i>journey</i><c>trip</c></NS> to California, because I've never ever won anything before.</p>
+          <p>My summer holidays last for two months, but I <NS type="RY"><i>just</i><c>only</c></NS> have time in July. In August I am going to work in an office, so there is <NS type="X"><i>not</i><c>no</c></NS> possibility <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to travel</i><c>travelling</c></NS> <NS type="UY"><i>away</i></NS> <NS type="RD"><i>this</i><c>that</c></NS> month.</p>
+          <p>I would prefer <NS type="R"><i>the accommodation</i><c>to stay</c></NS> in a log cabin. For one night it would not <NS type="RV"><i>disturb</i><c>bother</c></NS> me to sleep in a tent, but for a period of two weeks it would be too uncomfortable.</p>
+          <p>At the <NS type="RP"><i>Camp</i><c>camp</c></NS> I would like to go sailing a lot. Once my family and I went to Greece and <NS type="TV"><i>rent</i><c>rented</c></NS> a sailing boat for three weeks. Because <NS type="W"><i>most of the work did my parents</i><c>my parents did most of the work</c></NS>, I don't know exactly how to handle a sailing boat.</p>
+          <p>As the second activity I have chosen to <NS type="RV"><i>make</i><c>take</c></NS> photos. <NS type="R"><i>I'm used to</i><c>I used</c></NS> <NS type="FV"><i>be</i><c>to be</c></NS> the photographer <NS type="R"><i>at the holidays with my family</i><c>on family holidays</c></NS> and I know how a camera works.</p>
+          <p>Finally I have some questions concerning the clothes I am going to need and <NS type="W"><i>how much money I should <NS type="DN"><i>estimately</i><c>approximately</c></NS></i><c>approximately how much money I should</c></NS> take with me. I just want to know<NS type="UP"><i>,</i></NS> what I will have to pay <NS type="MT"><c>for</c></NS> <NS type="R"><i>alone</i><c>myself</c></NS>.</p>
+          <p>Thank you very much for giving me the chance to discover a new type of landscape!</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>The statement mentioned is perfectly <NS type="R"><i>suitable to</i><c>in tune with</c></NS> my opinion. If you want to buy new clothes for summer the biggest difficulty is to find a shop<NS type="UP"><i>,</i></NS> which sells what you are looking for. Once you've found <NS type="MA"><c>it</c></NS> you should take everything you like and go into the <NS type="RN"><i>cabin</i><c>fitting room</c></NS>.</p>
+          <p>It's a big advantage to go shopping with a friend, because he or she can bring you all the clothes in <NS type="RD"><i>a</i><c>the</c></NS> <NS type="RJ"><i>suitable</i><c>right</c></NS> size if the <NS type="R"><i>one</i><c>item</c></NS> you took doesn't fit. Often it happens that the salesman hasn't got the size you need and that's always a pity.</p>
+          <p>After trying on about twenty different tops, dresses or jeans your legs and your back start to hurt terribly. <NS type="RY"><i>At the end</i><c>In the end</c></NS> you may have found only two or three things you really like, but they are <NS type="W"><i>all the work worth</i><c>worth all the work</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

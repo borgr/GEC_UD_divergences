@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR355*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir of Madam,</p>
+          <p>I am writing to complain about the musical <NS type="UN"><i>show</i></NS> which was <NS type="RV"><i>presented</i><c>performed</c></NS> <NS type="RT"><i>by</i><c>at</c></NS> The Circle Theatre last week. I saw the performance and it was not <NS type="RT"><i>like</i><c>as</c></NS> it was <NS type="RV"><i>mentioned</i><c>described</c></NS> in the <NS type="S"><i>advertisent</i><c>advertisement</c></NS> I read in the local newspaper.</p>
+          <p>First of all, the main actor was not Dany Brook as <NS type="UA"><i>it</i></NS> was expected <NS type="UY"><i>so</i></NS>. That was very disappointing. Secondly it <NS type="RV"><i>must</i><c>was meant</c></NS> <NS type="FV"><i>have</i><c>to have</c></NS> started at 14.30 and ended by 19.30. However, it started at 20.15. I had to wait almost an hour. Then, I was planning to buy three £20 tickets because it was <NS type="TV"><i>mention</i><c>mentioned</c></NS> in the advertisement that there were <NS type="S"><i>dicounts</i><c>discounts</c></NS> available but that was not true, so I <NS type="W"><i>just could</i><c>could just</c></NS> buy two tickets and my son could not see the show. Finally, I was thinking <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to have</i><c>having</c></NS> dinner in the <NS type="S"><i>threatre</i><c>theatre</c></NS> restaurant after the show but it was closed due to some problems with the employees.</p>
+          <p>What was <NS type="S"><i>suposed</i><c>supposed</c></NS> to be a perfect and enjoyable evening, resulted in a very disappointing time. So I would be <NS type="S"><i>greatful</i><c>grateful</c></NS> if you <NS type="IV"><i>payed</i><c>paid</c></NS> for a full refund of the money I spent <NS type="RT"><i>in</i><c>on</c></NS> the tickets.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Computers, radio, <NS type="UP"><i>CD's</i><c>CDs</c></NS>, <NS type="S"><i>sattelite</i><c>satellite</c></NS> television and a lot of other things have changed my daily life. Modern technology affects the way things are done and many aspects <NS type="RT"><i>in</i><c>of</c></NS> my life, and it has some advantages as <NS type="M"><c>well as</c></NS> some disadvantages.</p>
+          <p>On the one hand, technology is a great help for me at school. What I mean is that computers are very useful <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to do</i><c>doing</c></NS> my homework (like some <NS type="DN">monographies</NS> or <NS type="DN"><i>researching</i><c>research</c></NS>). And I can't even think <NS type="UT"><i>about</i></NS> <NS type="R"><i>how</i><c>what</c></NS> it would be <NS type="MT"><c>like</c></NS> not having a computer. Another <NS type="S"><i>advatage</i><c>advantage</c></NS> is that, for example<NS type="MP"><c>,</c></NS> <NS type="S"><i>sattelite</i><c>satellite</c></NS> television, which is an example of modern technology, <NS type="RV"><i>makes</i><c>keeps</c></NS> me <NS type="UV"><i>be</i></NS> informed about what is happening <NS type="RT"><i>on</i><c>in</c></NS> the whole world.</p>
+          <p>On the other hand, I have to admit that technology makes things so easy that when I have to do them without it I find it very difficult. The best example is the homework I have to do for school<NS type="RP"><i>,</i><c>.</c></NS> I can't manage to do it when I don't have my computer to help. In addition to that, technology <NS type="W"><i>doesn't sometimes</i><c>sometimes doesn't</c></NS> let me develop my imagination and creative skills. My mother says that I'm always playing with my computer or watching T.V. instead of reading or doing some more interesting activities.</p>
+          <p>To <NS type="SX"><i>sump</i><c>sum</c></NS> up, I can't think <NS type="UT"><i>about</i></NS> <NS type="R"><i>how</i><c>what</c></NS> my life would be <NS type="MT"><c>like</c></NS> without technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

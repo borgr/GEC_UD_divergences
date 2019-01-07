@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR371*0100*2000*02">
+  <candidate><personnel><language>Portuguese</language><age>26-30</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing <NS type="RT"><i>in</i><c>on</c></NS> behalf of my <NS type="AGN"><i><NS type="DN"><i>class- maid</i><c>classmate</c></NS></i><c>classmates</c></NS> about the programme you <NS type="TV"><i>had</i><c>have</c></NS> organised for us.</p>
+          <p>We all want to thank you for having <NS type="TV"><i>choose</i><c>chosen</c></NS> such good places in London. We are especially excited about the river trip to <NS type="RP"><i>greenwich</i><c>Greenwich</c></NS> which will be <NS type="RT"><i>in</i><c>on</c></NS> the first day.</p>
+          <p>I would particularly like to talk about the second day. We really <NS type="TV"><i>liked</i><c>like</c></NS> the programme, but we have seen an advertisement for <NS type="MD"><c>the</c></NS> London <NS type="RP"><i>fashion and leisure show</i><c>Fashion and Leisure Show</c></NS> that will <NS type="RV"><i>happen</i><c>take place</c></NS> on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> and we are very interested in <NS type="FV"><i>go</i><c>going</c></NS>. As you know our class <NS type="AGV"><i>are</i><c>is</c></NS> composed <NS type="RT"><i>by</i><c>of</c></NS> girls and it would be very exciting for us if we <NS type="TV"><i>can</i><c>could</c></NS> have a look <NS type="RT"><i>on</i><c>at</c></NS> the latest fashions, <NS type="RP"><i>make up</i><c>makeup</c></NS> and so on.</p>
+          <p>Although we would like to visit the science museum, we can leave it to the next opportunity<NS type="RP"><i>, what</i><c>. What</c></NS> we <NS type="TV"><i>suggested</i><c>suggest</c></NS> <NS type="FV"><i>to do</i><c>doing</c></NS> is <NS type="S"><i>intead</i><c>instead</c></NS> of going to the museum in the morning we go to the Leisure <NS type="RP"><i>show</i><c>Show</c></NS> and keep the afternoon programme the same.</p>
+          <p>We hope you accept this change <NS type="U"><i>for good</i></NS>.</p>
+          <p>We are looking forward to hearing from you as soon as possible<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p>Last summer I went to <NS type="MD"><c>the</c></NS> <NS type="RP"><i>amazon</i><c>Amazon</c></NS> on an expedition with <NS type="W"><i>other 10</i><c>10 other</c></NS> people<NS type="RP"><i>,</i><c>:</c></NS> <NS type="U"><i>such as</i></NS> a guide, a doctor, a scientist &amp; all the rest <NS type="M"><c>of us</c></NS> <NS type="RT"><i>as</i><c>like</c></NS> me were just curious.</p>
+          <p>We walked all day and <NS type="DV"><i>took rest</i><c>rested</c></NS> in the evenings. We were not allowed to leave <NS type="SX"><i>out</i><c>our</c></NS> tents during the night or until the day <NS type="TV"><i><NS type="AGV"><i>start</i><c>starts</c></NS></i><c>started</c></NS>, because of the dangerous animals which <NS type="RV"><i>leave</i><c>live</c></NS> there. But for me it was the most exciting moment. One can be really amazed by the view.</p>
+          <p>One day at five o'clock in the morning I stepped out of my tent without <NS type="MV"><c>being</c></NS> seen and started walking towards the river, because I <NS type="TV"><i>want</i><c>wanted</c></NS> <NS type="FV"><i>take</i><c>to take</c></NS> some photographs of the <NS type="RP"><i>sun rise</i><c>sunrise</c></NS>. The view <NS type="TV"><i>took</i><c>was taking</c></NS> my breath <NS type="RY"><i>of</i><c>away</c></NS> when suddenly something took my breath <NS type="MY"><c>away</c></NS>. It was a panther. I was petrified because it looked as <NS type="MC"><c>if</c></NS> <NS type="AGA"><i>she</i><c>it</c></NS> was very hungry. I knew I could not <NS type="RV"><i>do</i><c>make</c></NS> any <NS type="S"><i>moviment</i><c>movement</c></NS> for my safety but I did and <NS type="RT"><i>for</i><c>to</c></NS> my surprise <NS type="RP"><i>It</i><c>it</c></NS> <NS type="TV"><i><NS type="AGV"><i>run</i><c>runs</c></NS></i><c>ran</c></NS> away.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

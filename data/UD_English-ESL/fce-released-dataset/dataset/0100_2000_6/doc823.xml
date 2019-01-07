@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR329*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen RYAN,</p>
+          <p>I'm the winner of the first prize in your <NS type="S"><i>competion</i><c>competition</c></NS> and I'm writing to you to give <NS type="MA"><c>you</c></NS> some information which was <NS type="RV"><i>required</i><c>requested</c></NS> <NS type="RT"><i>for</i><c>by</c></NS> you.</p>
+          <p>Your first question was about when I'd like to travel. Well, it's only possible in July because of the <NS type="RP"><i>University's</i><c>university's</c></NS> holiday (during the rest of the year I'm attending <NS type="U"><i>to the</i></NS> classes).</p>
+          <p>If I can choose <NS type="MD"><c>my</c></NS> accommodation I <NS type="MV"><c>would</c></NS> prefer <NS type="MD"><c>a</c></NS> log <NS type="AGN"><i>cabins</i><c>cabin</c></NS>, because when I've been <NS type="RT"><i>in</i><c>on</c></NS> <NS type="RN"><i><NS type="RP"><i>Camps</i><c>camps</c></NS></i><c>campsites</c></NS> <NS type="MY"><c>before</c></NS>, it always has been in tents, then I'd like to change and try this other kind of accommodation.</p>
+          <p>It's really difficult <NS type="FV"><i>choose</i><c>to choose</c></NS> two activities from that list. <NS type="RP"><i>Everyone</i><c>Every one</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> very interesting. Anyway, I think <NS type="RP"><i>Basketball</i><c>basketball</c></NS> could be the right <NS type="MN"><c>choice</c></NS> because it's the sport that <NS type="TV"><i>I'm</i><c>I've been</c></NS> <NS type="RV"><i>practising</i><c>playing</c></NS> <NS type="RT"><i>from</i><c>since</c></NS> I was a child<NS type="MP"><c>,</c></NS> and photography because it's my hobby <NS type="RT"><i>on</i><c>in</c></NS> my free time<NS type="RP"><i>,</i><c>.</c></NS> <NS type="UV"><i>I'm</i><c>I</c></NS> really enjoy it and I can say I'm <NS type="RY">so</NS> good <NS type="RT"><i>in</i><c>at</c></NS> it.</p>
+          <p>I was wondering <NS type="RA"><i>which</i><c>what</c></NS> kind of clothes we need and what about money and meals<NS type="RP"><i>,</i><c>?</c></NS> Are they provided? <NS type="RP"><i>or</i><c>Or</c></NS> can we find some places to buy <NS type="R">it</NS>?</p>
+          <p>I suppose <NS type="RA"><i>it's</i><c>that's</c></NS> everything that you need from me. <NS type="M"><i>Any</i><c>If you have any</c></NS> other <NS type="FN"><i>question</i><c>questions</c></NS> don't hesitate to ask me. I'm looking forward to hearing from you, again.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>SHOPPING IS NOT ALWAYS ENJOYABLE.</p>
+          <p>I think shopping is a <NS type="W"><i>subject really <NS type="RJ"><i>up to date</i><c>topical</c></NS></i><c>really topical subject</c></NS>. I can say that nowadays <NS type="MA"><c>it</c></NS> is <NS type="RV">growing up</NS> very quickly in our society<NS type="MP"><c>,</c></NS> like a kind of sport or hobby<NS type="M"><c>, as a way</c></NS> to waste or spend <NS type="RD"><i>the</i><c>our</c></NS> free time. And it's creating a lot of <NS type="DJ"><i><NS type="S"><i>adict</i><c>addict</c></NS></i><c>addicted</c></NS> people, <NS type="TV"><i>call</i><c>called</c></NS> "<NS type="DN"><i>shopalcoholics</i><c>shopaholics</c></NS>".</p>
+          <p>Otherwise shopping is not always enjoyable. You can spend hours and hours <NS type="UV"><i>going</i></NS> shopping and not find what you <NS type="TV"><i>were</i><c>are</c></NS> looking for, perhaps because it is not <NS type="MT"><c>in</c></NS> your size or the colour that you like, or just nothing is suitable <NS type="RT"><i>to</i><c>for</c></NS> you. Another common problem could be the long queue in the fitting rooms<NS type="M"><c>, where you</c></NS> <NS type="TV"><i>waiting</i><c>wait</c></NS> <NS type="FV"><i>stand</i><c>standing</c></NS> up for your turn. After that, <NS type="M"><c>there is</c></NS> the unfriendly and <NS type="UP"><i>sometime's</i><c>sometimes</c></NS> <NS type="DJ"><i>unpolite</i><c>impolite</c></NS> shop <NS type="RN"><i>assistance</i><c>assistant</c></NS> who <NS type="RV"><i>breaks</i><c>gets on</c></NS> your nerves <NS type="UY"><i>down</i></NS>. But never mind! <NS type="RP"><i>the</i><c>The</c></NS> worst <NS type="RV"><i><NS type="AGV"><i>arrive</i><c>arrives</c></NS></i><c>is</c></NS> when you get <NS type="UT"><i>at</i></NS> home in the evening and find a chair to sit <NS type="MT"><c>in</c></NS> because your feet are killing you and <NS type="MA"><c>you</c></NS> realize you have spent all <NS type="RD"><i>the</i><c>your</c></NS> money without buying the stuff that you need to cook tonight.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

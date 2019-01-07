@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR677*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>I am writing to complain about the musical show which was held last week. I feel disappointed because it was different to <NS type="M"><c>what was promised in</c></NS> the advertisement.</p>
+          <p>First of all, the performers should <NS type="TV"><i>be</i><c>have been</c></NS> Danny Brook and Tina Truelove. However, there were two unknown actors in the show. I feel most disappointed about this. The show <NS type="TV"><i>was started</i><c>started</c></NS> at 20.15 but actually it should <NS type="MV"><c>have</c></NS> started at 19.30. Moreover, I bought a £20 ticket without any discount <NS type="R"><i>even</i><c>and</c></NS> the advertisement mentioned <NS type="M"><c>that a</c></NS> discount <NS type="TV"><i>is</i><c>was</c></NS> available. And after the show, we went to visit the theatre restaurant. Unfortunately, it was closed because <NS type="UT"><i>at</i></NS> that day was their day-off. But I am wondering why it said we could visit the restaurant if you <NS type="TV"><i>know</i><c>knew</c></NS> it would be closed.</p>
+          <p>I am afraid it was not <NS type="RD"><i>a</i><c>the</c></NS> best musical show because <NS type="R">all the things above was not an accurate as what we had been told</NS>.</p>
+          <p>On the whole, I feel disappointed about the event and I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>have</i><c>to have</c></NS> my money back. I look forward to hearing your reply. Thank you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I say this because of the experience I've had <NS type="RT"><i>from</i><c>with</c></NS> her.</p>
+          <p>Actually, we were quite good friends before <NS type="RD"><i>the</i><c>this</c></NS> event happened. Pat has been studying in the same class with me <NS type="UT"><i>since</i></NS> this year. She <NS type="TV"><i>is sitting</i><c>sat</c></NS> next to me<NS type="RP"><i>, we</i><c>. We</c></NS> started to chat more and more<NS type="RP"><i>, then</i><c>. Then</c></NS> we became good friends. One day, we were sitting in the dinning-hall <NS type="RT"><i>like</i><c>as</c></NS> <NS type="DJ"><i>usually</i><c>usual</c></NS>. Suddenly my heart was <NS type="RV"><i>thumbing</i><c>thumping</c></NS> so quickly because I saw him<NS type="UP"><i>?</i></NS> - <NS type="RP"><i>A</i><c>a</c></NS> boy who <NS type="TV"><i>is</i><c>was</c></NS> a new student. I know this is <NS type="R">one right love</NS><NS type="RP"><i>,</i><c>.</c></NS> I'm absolutely <NS type="S"><i>besorrted</i><c>besotted</c></NS> <NS type="RT"><i>of</i><c>with</c></NS> him. Then I told this to Pat and told her to keep it secret: I didn't want people <NS type="FV"><i>gossip</i><c>gossiping</c></NS> <NS type="RT"><i>behind</i><c>about</c></NS> me <NS type="R">then</NS> everyone would know I <NS type="TV"><i>fancy</i><c>fancied</c></NS> him. But the thing which <NS type="TV"><i>I've</i><c>I'd</c></NS> never expected <NS type="M"><i>is</i><c>happened, which is that</c></NS> Pat betrayed me. She told everyone that I fancy him and everybody always <NS type="AGV"><i>make</i><c>makes</c></NS> <NS type="MD"><c>a</c></NS> joke <NS type="RT"><i>on</i><c>of</c></NS> it<NS type="RP"><i>, that</i><c>. That</c></NS> makes me feel so <NS type="S"><i>embarrised</i><c>embarrassed</c></NS>: I was very angry at that time!</p>
+          <p>Now, I don't talk to her anymore because I can't stand a person who I trusted <NS type="FV"><i>betrayed</i><c>betraying</c></NS> me. I hope she <NS type="TV"><i>would know</i><c>knows</c></NS> that <NS type="MA"><c>it</c></NS> was her <NS type="RN">fault</NS> and <NS type="RV"><i>don't</i><c>won't</c></NS> do it <NS type="RY"><i>anymore</i><c>again</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

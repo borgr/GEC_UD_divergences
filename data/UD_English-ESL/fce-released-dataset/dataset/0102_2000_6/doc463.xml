@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR780*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or <NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p>I was on <NS type="MD"><c>a</c></NS> week's holiday in London and I went <NS type="UY"><i>there</i></NS> to the theatre to see "Over The Rainbow". I must say that your musical show was very disappointing for me.</p>
+          <p>"Over The Rainbow" <NS type="TV"><i>was looking</i><c>looked</c></NS> very interesting <NS type="RT"><i>on</i><c>in</c></NS> your advertisement but <NS type="MD"><c>the</c></NS> organisation and <NS type="RN"><i>play</i><c>show</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> almost terrible.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I expected to see Danny Brook, but I saw <NS type="MD"><c>a</c></NS> different actor and that was <NS type="MD"><c>a</c></NS> big disappointment for me.</p>
+          <p>Secondly<NS type="MP"><c>,</c></NS> the show started at quarter past eight. This is <NS type="MD"><c>a</c></NS> <NS type="DJ"><i><NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes</i><c>forty-five-minute</c></NS> delay.</p>
+          <p>Moreover<NS type="MP"><c>,</c></NS> there <NS type="AGV"><i>was</i><c>were</c></NS> not any discounts and all of the tickets <NS type="RV"><i>had</i><c>were</c></NS> the same <NS type="AGN"><i><NS type="RN"><i>prizes</i><c>prices</c></NS></i><c>price</c></NS>.</p>
+          <p><NS type="RT"><i>Out</i><c>At</c></NS> the end<NS type="MP"><c>,</c></NS> your theatre restaurant was closed <NS type="RT"><i>from</i><c>for</c></NS> unknown reasons, but <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RD"><i>an</i><c>the</c></NS> advertisement <NS type="MA"><c>it</c></NS> was clearly <NS type="RV"><i>sign</i><c>stated</c></NS>:</p>
+          <p>"Visit our theatre restaurant after the show". That was cruel, because I was very <NS type="S"><i>haungry</i><c>hungry</c></NS> after the show.</p>
+          <p>At the end of this letter I would like to ask if you can refund my money. I will be very pleased if <NS type="M"><c>you can do</c></NS> so. I am looking forward to hearing from you.</p>
+          <p>Yours <NS type="DY"><i>faithfuly</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><i>Twentieth</i><c>The twentieth</c></NS> century was a century of inventions. Some of them are big and some of <NS type="SX"><i>theme</i><c>them</c></NS> are small, but they <NS type="RV"><i>effect</i><c>affect</c></NS> our lives in the same way. Technology <NS type="TV"><i><NS type="IV"><i>maked</i><c>made</c></NS></i><c>makes</c></NS> our life different than <NS type="MD"><c>the</c></NS> life of people<NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> living in <NS type="MD"><c>the</c></NS> nineteenth century.</p>
+          <p>Modern technology makes our lives different, maybe better. Often people do not see how it <NS type="RV"><i>effects</i><c>affects</c></NS> our <NS type="RP"><i>life style</i><c>lifestyle</c></NS>. Useful things like TV sets, radios, computers, <NS type="UN"><i>Hi-Fi</i></NS> stereos and cars - we are dealing with them every day. They help us with daily life and make it more pleasant. Transport and communication <NS type="W"><i>without cars, trains, planes and telephones <NS type="TV"><i>will</i><c>would</c></NS> not exist</i><c>would not exist without cars, trains, planes and telephones</c></NS>. We know our world from TV screens and computer monitors. Without these, and newspapers of course<NS type="MP"><c>,</c></NS> knowing our world could be hard. <NS type="ID"><i>On the second hand</i><c>On the other hand</c></NS> people are suffering from modern diseases like addiction to television or computers. <NS type="RY"><i><NS type="RT"><i>On</i><c>In</c></NS> the end</i><c>Finally</c></NS><NS type="MP"><c>,</c></NS> we must mention modern medicine. It saves our lives from ancient and modern diseases.</p>
+          <p>To sum up<NS type="MP"><c>,</c></NS> modern technology changed our daily life. Mine too. I <NS type="X"><i>think that I could not</i><c>don't think I could</c></NS> live <NS type="MD"><c>a</c></NS> normal life without these inventions. They are like <NS type="MD"><c>the</c></NS> air I <NS type="DV"><i>breath</i><c>breathe</c></NS>. I am <NS type="RV"><i>questioning</i><c>asking</c></NS> <NS type="S"><i>myselfs</i><c>myself</c></NS> - am I <NS type="MD"><c>a</c></NS> sick man?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

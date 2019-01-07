@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR997*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir</p>
+          <p>I am writing to complain about a terrible performance in your theatre. I had expected to see the fantastic musical show. However, everything was not performed as you had advertised.</p>
+          <p>Firstly, there was a different actor/actress <NS type="AS"><i>who I have never heard their name</i><c>whose name I have never heard</c></NS> before. Even though they performed their parts excellently I was very disappointed about your incorrect advertisement.</p>
+          <p>Secondly, the musical was not started on time. It was going to start <NS type="MT"><c>at</c></NS> 19.30. However, It was started 45 minutes later. <NS type="ID"><NS type="RP"><i>Afterall</i><c>After all</c></NS></NS>, I <NS type="RV"><i>lost</i><c>missed</c></NS> my <NS type="UV"><i>find</i></NS> return train after <NS type="MD"><c>the</c></NS> show.</p>
+          <p><NS type="RP"><i>thirdly</i><c>Thirdly</c></NS>, there was no discount <NS type="RT"><i>about</i><c>on</c></NS> my ticket and the theatre restaurant was closed because of being repaired.</p>
+          <p>Finally<NS type="RP"><i>. It</i><c>, it</c></NS> was <NS type="MD"><c>a</c></NS> perfectly terrible evening out. So, I want you to <NS type="AS"><i>give my money back to me</i><c>give me my money back</c></NS>. If you don't do that, I will tell <NS type="MD"><c>the</c></NS> public <NS type="R"><i>what</i><c>that</c></NS> you are wrong in your advertisement.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely.</p>
+          <p>Yeung</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>When I was a <NS type="S"><i>yong</i><c>young</c></NS> child, I used to be interested in reading <NS type="UD"><i>a</i></NS> <NS type="DN"><i>scientific fiction</i><c>science fiction</c></NS>. Interestingly, nowadays, I live in the scientific world which I read <NS type="MT"><c>about</c></NS> in the <NS type="FN"><i>book</i><c>books</c></NS>.</p>
+          <p>Probably, I started <NS type="IV"><i>useing</i><c>using</c></NS> <NS type="MD"><c>a</c></NS> <NS type="UP"><i>mobile-phone</i><c>mobile phone</c></NS> 5 years ago. Before using <NS type="MD"><c>a</c></NS> mobile-phone, if someone wanted to talk to me immediately, they couldn't find <NS type="UA"><i>me</i></NS> where I was. However, nowadays, it is easy to find me because of <NS type="MD"><c>the</c></NS> <NS type="UP"><i>mobile-phone</i><c>mobile phone</c></NS>.</p>
+          <p>I used to write a letter to my friends. However, <NS type="RP"><i>After</i><c>after</c></NS> <NS type="MD"><c>the</c></NS> <NS type="DN"><i>appearing</i><c>appearance</c></NS> <NS type="MT"><c>of</c></NS> <NS type="MD"><c>the</c></NS> Internet, <NS type="TV"><i>I've sent</i><c>I send</c></NS> e-mail to my friends. It takes just a few minutes to send e-mail to <NS type="RP"><i>some one</i><c>someone</c></NS>. I just check my e-mail before going to bed <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+          <p>In conclusion, <NS type="RP"><i>Because</i><c>because</c></NS> of modern technology, I'm very comfortable and <NS type="MV"><c>can</c></NS> do something <NS type="RY"><i>effectively</i><c>efficiently</c></NS> with <NS type="MD"><c>my</c></NS> computer and mobile phone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

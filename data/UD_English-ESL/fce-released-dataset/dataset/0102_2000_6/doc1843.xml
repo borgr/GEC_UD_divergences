@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR706*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear sir or Madam,</p>
+          <p>I was one of your customers who had a very disappointing <NS type="R">about</NS> Over the Rainbow <NS type="UN"><i>show</i></NS> at your Circle Theatre yesterday.</p>
+          <p>First of all, <NS type="RD"><i>these</i><c>the</c></NS> <NS type="DN"><i>starrings</i><c>stars</c></NS> of the show were not Danny Brook and Tina Truelove. The only <NS type="UD"><i>one</i></NS> reason I bought <NS type="RD"><i>your</i><c>a</c></NS> ticket was because of Danny Brook and Tina Trulove, <NS type="R">as your advertisement had shown</NS>. But your <NS type="DN"><i>starrings</i><c>stars</c></NS> were not <NS type="MY"><c>there</c></NS>.</p>
+          <p>I bought a ticket for the 19.30 <NS type="RN"><i>round</i><c>performance</c></NS> and the show was very very late. It started at 20:15 and that <NS type="S"><i>waisted</i><c>wasted</c></NS> my time and made me feel bad about your <NS type="RN">service</NS>. And also the ticket discounts were not available. <NS type="R">That was not your advertisement had shown</NS>. And finally, your restaurant was not <NS type="RJ"><i>available</i><c>open</c></NS> after the show.</p>
+          <p><NS type="R">From every singular things I have complained, it</NS> was totally different from what your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> said. And because of this, I would like to ask for my money back. If you <NS type="R">see that this is a good reason</NS>, please telephone me. My telephone number is 123-4567.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="RP"><i>Thesedays</i><c>These days</c></NS> we are living <NS type="RT"><i>on</i><c>in</c></NS> a high-technology world. Modern technology has been <NS type="RV"><i>growing</i><c>advancing</c></NS> rapidly and it has <NS type="RV"><i>effected</i><c>affected</c></NS> me a lot. Indeed, I have to save more money <NS type="UT"><i>for</i></NS> <NS type="FV"><i>upgrading</i><c>to upgrade</c></NS> my personal computer. Computer technology keeps improving all the time and <NS type="DN"><i>consumes</i><c>consumers</c></NS> like <NS type="L"><i>me and you</i><c>you and me</c></NS> definitely have to <NS type="RV"><i>pay</i><c>spend</c></NS> our money to keep our personal computer up to date and <NS type="RJ"><i>able</i><c>capable of</c></NS> <NS type="FV"><i>to work</i><c>working</c></NS> with <NS type="MD"><c>the</c></NS> new computer <NS type="CN"><i>softwares</i><c>software</c></NS> that <NS type="AGV"><i>require</i><c>requires</c></NS> more and more <NS type="R">performance of computer hardware</NS>.</p>
+          <p>Anyway, modern technology such as the Internet <NS type="AS"><i>changes me a great deal of <NS type="UP"><i>life-style</i><c>lifestyle</c></NS></i><c>changes my lifestyle a great deal</c></NS>. Using the internet, I can <NS type="RV"><i>search for</i><c>find</c></NS> almost all <NS type="MD"><c>the</c></NS> information I want to <NS type="RV"><i>know</i><c>have</c></NS>. And I can send e-mail to my friends via the Internet <NS type="DY"><i>fastly</i><c>fast</c></NS> and cheaply <NS type="RV"><i>prepared</i><c>compared</c></NS> to the old-style mail-services.</p>
+          <p>Finally, I think modern technology <NS type="RV"><i>makes</i><c>allows</c></NS> me do my business faster, <NS type="RJ"><i>smarter</i><c>better</c></NS> <NS type="MC"><c>and</c></NS> with much more efficiency.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

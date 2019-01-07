@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR390*0100*2000*02">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>As you are probably aware <NS type="UT"><i>of</i></NS> our English class is going to spend three days in London. The programme has already been organized by you and I have to say you have <NS type="AS"><i><NS type="RV"><i>made</i><c>drawn up</c></NS> us a very nice schedule</i><c>drawn up a very nice schedule for us</c></NS>. The river trip to Greenwich is certainly something we are all looking forward to, but <NS type="RT"><i>due to</i><c>because of</c></NS> the London Fashion and Leisure show, my class <NS type="TV"><i>asked</i><c>have asked</c></NS> me to <NS type="RV"><i>propose</i><c>suggest</c></NS> a change in our schedule.</p>
+          <p>This show consists of a big fair in the Central Exhibition Hall in which we will have the opportunity of seeing the latest releases <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RP"><i>sports wear</i><c>sportswear</c></NS>, make up<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> hairstyles. I believe it could be an enriching experience for all of us. We would <NS type="TV"><i>be having</i><c>have</c></NS> fun, <NS type="TV"><i>meeting</i><c>meet</c></NS> the locals and <NS type="TV"><i>practising</i><c>practise</c></NS> our English at the same time. Furthermore, we would be speaking English outside school.</p>
+          <p>The event will take place on Tuesday, 14th of March, so instead of going to the Science Museum and then going shopping, we could spend the day visiting the show. Our free time on Wednesday could be spent <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="RP"><i>Museum</i><c>museum</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Best Detective Stories <NS type="RT"><i>of</i><c>by</c></NS> Agatha Christie</p>
+          <p>Dear Sarah,</p>
+          <p>I'm sorry it took me so long to <NS type="AS"><i>write you back</i><c>write back to you</c></NS>, but I have <NS type="TV"><i>being</i><c>been</c></NS> very busy lately<NS type="RP"><i>:</i><c>.</c></NS> Anyway, <NS type="RT"><i>on</i><c>in</c></NS> your last letter you asked me whether<NS type="UP"><i>.</i></NS> Best Detective Stories <NS type="RT"><i>of</i><c>by</c></NS> Agatha Christie would be <NS type="W"><i>or not a good present</i><c>a good present or not</c></NS> for your cousin. Well, having read the book before, I can say it would be a great idea!</p>
+          <p>You told me your cousin likes suspense books and stories, the ones <NS type="M"><c>in which</c></NS> you keep trying to figure <NS type="UA"><i>it</i></NS> out who is the killer. Agatha Christie's stories just couldn't be more suitable for your cousin. <NS type="RY"><i>Specially</i><c>Especially</c></NS> because there isn't just one story, but a whole lot of them. Personally speaking, I think they selected the best ones to be published.</p>
+          <p>Now, tell me more about you. Are you already on <NS type="FN"><i>holidays</i><c>holiday</c></NS><NS type="RP"><i>.</i><c>?</c></NS> My school has finished, but I'll need to sit a big exam at the end of this month so that I can go <NS type="RT"><i>into</i><c>to</c></NS> <NS type="RP"><i>College</i><c>college</c></NS>. My parents and I will spend our holidays in Australia and I just couldn't be happier! I just can't wait to go abroad for the first time!</p>
+          <p>I think that's all about it. Write soon.</p>
+          <p>Merry Xmas and <NS type="RJ"><i>Great</i><c>Happy</c></NS> New Year!</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE38*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am <NS type="RV"><i>applying</i><c>replying</c></NS> <NS type="MT"><c>to</c></NS> your letter <NS type="UY"><i>where</i></NS> <NS type="M"><c>in which</c></NS> you asked for some information about the conference in Peterborough Regional College.</p>
+          <p>Your group has been booked into the Palace Hotel<NS type="MP"><c>,</c></NS> which is situated in the city <NS type="SA"><i>center</i><c>centre</c></NS>, <NS type="UT"><i>at</i></NS> 15 <NS type="MP"><i>minutes</i><c>minutes'</c></NS> <NS type="RN"><i>walking</i><c>walk</c></NS> from where the conference <NS type="AGV"><i>take</i><c>takes</c></NS> place <NS type="UT"><i>in</i></NS>. <NS type="RT"><i>In</i><c>On</c></NS> the next page there is a map showing you the best way to get to the conference that will be at the Regional College.</p>
+          <p>The conference will start at 7 p.m<NS type="MP"><c>.</c></NS>, <NS type="R">the same day we expect</NS>, the 18th of June. Our director will make a speech afterwards and there will be a party with some snacks, drinks and music. For the people <NS type="M"><c>who are</c></NS> interested in <NS type="MA"><c>it</c></NS>, there will <NS type="W"><i>be also</i><c>also be</c></NS> <NS type="U"><i>an amusement</i></NS> karaoke.</p>
+          <p>Everybody should wear formal clothes, at least, a little bit formal. No jeans <NS type="RC"><i>and</i><c>or</c></NS> <NS type="UP"><i>tee-shirts</i><c>tee shirts</c></NS>.</p>
+          <p>There <NS type="AGV"><i>is</i><c>are</c></NS> a lot of places you can visit in Peterborough. We have a Cathedral you can visit anytime and the <NS type="RP"><i>river side</i><c>riverside</c></NS>, which is <NS type="UD"><i>the</i></NS> best if it is a nice day, sunny <NS type="SX"><i>an</i><c>and</c></NS> warm, for <NS type="FV"><i>take</i><c>taking</c></NS> a walk. For <NS type="UQ"><i>any</i></NS> details<NS type="MP"><c>,</c></NS> look <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="W"><i>next page map</i><c>map on the next page</c></NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Alice knew that is was going to be a very special day for her. She had a dream where somebody told her that that day would be special. So, she took the bus, like every morning, and she went to school. But that day was a little bit different: she had her maths exam. She had never passed <NS type="FD"><i>an</i><c>a</c></NS> maths exam and she was really nervous.</p>
+          <p>Half an hour before the exam she went to the cafeteria to <NS type="RV"><i>take</i><c>have</c></NS> a cup of tea. She sat down and<NS type="MP"><c>,</c></NS> what a surprise<NS type="MP"><c>,</c></NS> she found a lottery ticket. Nobody was around her, so she took the ticket<NS type="RP"><i>. Drank</i><c>, drank</c></NS> her cup of tea and <NS type="UA"><i>she</i></NS> went to the classroom where the exam took place. She <NS type="AS"><i>did the exam really well</i><c>did really well in the exam</c></NS>, she was very surprised, and after the exam she went home.</p>
+          <p>She <NS type="TV"><i>spend</i><c>spent</c></NS> the rest of the day listening to music while she was thinking about the lottery ticket and waiting for the TV show at 8 o'clock. At <NS type="RD"><i>the</i><c>that</c></NS> time, she turned on the TV and while the <NS type="UP"><i>lottery's</i><c>lottery</c></NS> man was shouting <NS type="MY"><c>out</c></NS> the winning numbers, she checked hers and what <NS type="AS"><i>was the surprise</i><c>a surprise it was</c></NS> that the last 4 numbers were the same!! She <NS type="TV"><i>win</i><c>won</c></NS> £500!!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

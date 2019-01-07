@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR372*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear miss Ryan,</p>
+          <p>With reference to your letter of <NS type="MD"><c>the</c></NS> 13th of June I would like to thank you for the prize your organisation is offering me.</p>
+          <p>I am pleased to provide you with the following information.</p>
+          <p>Since I am a student I have to follow the vacation <NS type="S"><i>programm</i><c>programme</c></NS> of my school, which means that I would only be able to travel during the month of July.</p>
+          <p>I would be grateful if you could book a tent for me at Camp California because I am a nature lover and the idea of <NS type="W"><i>outdoor-sleeping</i><c>sleeping outdoors</c></NS> really makes me happy. Concerning the activities, <NS type="ID">as a matter of fact</NS> tennis is my <NS type="S"><i>favorit</i><c>favourite</c></NS> sport and I am very keen on it<NS type="RP"><i>, for</i><c>. For</c></NS> the second activity I would like to <NS type="SA"><i>enroll</i><c>enrol</c></NS> <NS type="MT"><c>in</c></NS> surfing, because my husband, who is already a proficient <NS type="MN"><c>surfer</c></NS>, keeps telling me about the excitement of this sport, and I think it is <NS type="S"><i>worthwile</i><c>worthwhile</c></NS> trying, therefore I'd love to be in the <NS type="MP"><i>beginners</i><c>beginners'</c></NS> group.</p>
+          <p>I would like to know if you would be kind enough to send me some information on weather conditions for that <NS type="RN"><i>period of time</i><c>month</c></NS>, the kind of currency I should take with <NS type="MA"><c>me</c></NS> as well as the vaccination requirements.</p>
+          <p>I am looking forward to hearing from you and thank you in advance for your help.</p>
+          <p>Yours faithfully</p>
+          <p>Abril Botella</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Benoni's school is a recognised school for tourism located in the heart of Brussels, Belgium. It offers a wide choice of courses from cooking, <NS type="RN"><i>computer</i><c>computing</c></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS>, languages, <NS type="S"><i>geographie</i><c>geography</c></NS><NS type="MP"><c>,</c></NS> to culture and civilization. Students start their day at the Gym, where they learn the importance of being fit, that is <NS type="SX"><i>way</i><c>why</c></NS> I suggest <NS type="FV"><i>to film</i><c>filming</c></NS> this activity. Once students have taken a shower after <NS type="UD"><i>a</i></NS> hard physical training they <NS type="RV"><i>come to</i><c>enter</c></NS> real life<NS type="RP"><i>, depending</i><c>. Depending</c></NS> on their levels <NS type="M"><c>of proficiency</c></NS><NS type="MP"><c>,</c></NS> they have to study <NS type="R">for instance</NS> languages <NS type="S"><i>wich</i><c>which</c></NS> I personally find very important for a person working in the tourism <NS type="RN"><i>field</i><c>industry</c></NS> because <NS type="RA"><i>these</i><c>they</c></NS> <NS type="AGV"><i>enables</i><c>enable</c></NS> <NS type="RN"><i>stuff</i><c>staff</c></NS> to communicate with clients in a proper way<NS type="RP"><i>, students</i><c>. Students</c></NS> have to manage to speak at least three languages. Another important lesson to film is "culture and civilization,<NS type="MP"><c>"</c></NS> <NS type="RC"><i>therefore</i><c>so</c></NS> people will know that the <NS type="RN"><i>hostessess</i><c>waitresses</c></NS> <NS type="RV"><i><NS type="S"><i>prepered</i><c>prepared</c></NS></i><c>trained</c></NS> at this school are not <NS type="RY"><i>only</i><c>simply</c></NS>, as <NS type="MD"><c>the</c></NS> French say, "pot-au-fleurs", beautiful faces <NS type="UV"><i>to show off</i></NS><NS type="MP"><c>,</c></NS> but also <NS type="MP"><i>well read</i><c>well-read</c></NS> <NS type="L"><i>persons</i><c>people</c></NS>. <NS type="ID"><i>Last but not less important</i><c>Last but not least</c></NS> is the class called "know-how"<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> shows students how to cope with <NS type="IV"><i>unspected</i><c>unexpected</c></NS> problems even if they are <NS type="UT"><i>in</i></NS> <NS type="DJ"><i>stress</i><c>stressed</c></NS>. I would also <NS type="RV"><i>take</i><c>choose</c></NS> an outdoor lesson<NS type="MP"><c>,</c></NS> "training". The school works together with known companies <NS type="R"><i>of the branch</i><c>in the industry</c></NS> <NS type="MP"><c>,</c></NS><NS type="MD"><c>the</c></NS> as Mariot hotel, Air France<NS type="MP"><c>,</c></NS> Princess cruise<NS type="MP"><c>,</c></NS> among others<NS type="MP"><c>,</c></NS> in order to provide students with <NS type="MP"><i><NS type="RJ"><i>high qualified</i><c>high quality</c></NS></i><c>high-quality</c></NS> training.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

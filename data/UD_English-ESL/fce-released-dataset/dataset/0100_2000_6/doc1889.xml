@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR724*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you for your letter and congratulations! I have always been interested in visiting other <NS type="S"><i>contries</i><c>countries</c></NS>. In fact <NS type="RA"><i>it</i><c>I</c></NS> didn't want to ask my parents for money, and going on holiday with you <NS type="TV"><i>would be</i><c>is</c></NS> an ideal solution.</p>
+          <p>I will be having my exams <NS type="UT"><i><NS type="S"><i>durind</i><c>during</c></NS></i></NS> this month, so I can't travel before July. Also I'm going to meet a director of Smith'th Travel Agency for <NS type="MD"><c>an</c></NS> interview concerning possible work with English-speaking tourists. As you can see, I will be available only in July.</p>
+          <p>As regards accommodation, I would like to stay in tents, because I used to <NS type="FV"><i>going</i><c>go</c></NS> on holiday with my friends and <NS type="FV"><i>staying</i><c>stay</c></NS> in tents. It is just wonderful.</p>
+          <p>In my spare time I like to play basketball for a local team of which I have recently been made captain. I would now like to learn how to play tennis and golf, if it is possible.</p>
+          <p>Could you please let me know what kind of weather <NS type="W"><i>will be there</i><c>there will be</c></NS> in July, what sorts of clothing I'd better take with me. Is there an extra charge for some trips, which might put them beyond my means<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+          <p>Raisa Sharapova</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>To: Dinara Safina</p>
+          <p>From: Raisa</p>
+          <p>Re: Daily life at our school.</p>
+          <p>As requested, <NS type="RA"><i>it</i><c>I</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> collected some information about the school. Below is a summary of the most important <NS type="S"><i>relevent</i><c>relevant</c></NS> points with some recommendations.</p>
+          <p>1. The <NS type="UP"><i>fully-equipped</i><c>fully equipped</c></NS> computer centre in the main building is <NS type="DY"><i>extremelly</i><c>extremely</c></NS> good. Lessons are very interesting and full of fun. Our teacher is friendly and he encourages us to study well. However, there are <NS type="RY"><i>no</i><c>not</c></NS> enough computers and sometimes we have to study in pairs. I suggest <NS type="FV"><i>to increase</i><c>increasing</c></NS> the number of them, because it will be more <NS type="SX"><i>exiting</i><c>exciting</c></NS> to film.</p>
+          <p>2. The school arranges an <NS type="S"><i>amasing</i><c>amazing</c></NS> range of activities, such as <NS type="S"><i>excuintions</i><c>excursions</c></NS>, sports and different kinds of trips. Although there is plenty for us to do during the day, the <NS type="IJ"><i>most funny</i><c>funniest</c></NS> events happen while we are playing basketball and football. I must say, I think this is the best time for making a short video.</p>
+          <p>Conclusion.</p>
+          <p>Our school is an ideal place for making a short video. There are many interesting lessons and other activities. I do recommend, however, <NS type="FV"><i>to make</i><c>making</c></NS> a short video about</p>
+          <p>a) lessons in the computer centre</p>
+          <p>b) basketball and football games.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

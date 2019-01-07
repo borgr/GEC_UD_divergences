@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR49*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I am very happy to have won the first prize <NS type="RT"><i>of</i><c>in</c></NS> the competition, and I am going <NS type="RV"><i>to clear up</i><c>to clarify</c></NS> some details you asked me <NS type="MT"><c>about</c></NS> in your letter.</p>
+          <p>Firstly, because of my school exam, I would like to travel only <NS type="MT"><c>in</c></NS> <NS type="RP"><i>july</i><c>July</c></NS>. <NS type="S"><i>Moroever</i><c>Moreover</c></NS>, I have chosen this month because I think the weather will be fine. At Camp California, I hope I will be in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I like very much this kind of <NS type="DN"><i>style life</i><c>lifestyle</c></NS>: I love <NS type="R"><i>the</i><c>to be in</c></NS> contact with <NS type="UD"><i>the</i></NS> nature.</p>
+          <p><NS type="U"><i>On the other hand</i></NS><NS type="RP"><i>During</i><c>, during</c></NS> my stay <NS type="RT"><i>in</i><c>at</c></NS> Camp California, I want to go swimming because I <NS type="DV"><i>practice</i><c>practise</c></NS> this <NS type="S"><i>activitie</i><c>activity</c></NS> regularly and I often <NS type="RV"><i>do</i><c>enter</c></NS> competitions: this is one of my hobbies. In addition to this, I wish <NS type="U"><i>I am</i></NS> <NS type="FV"><i>going</i><c>to go</c></NS> <NS type="FV"><i>to sail</i><c>sailing</c></NS>: I have never <NS type="TV"><i>try</i><c>tried</c></NS> it, but it <NS type="R"><i>seems to be</i><c>looks</c></NS> great!</p>
+          <p>Finally, I have two questions more: I wonder if I can change my <NS type="RP"><i>french</i><c>French</c></NS> money in the <NS type="RP"><i>Camp</i><c>camp</c></NS> and what kind of clothes I have to buy before coming?</p>
+          <p>Yours sincerely.</p>
+          <p>Didier Bovie</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>As you asked me in your last letter, I am going to tell you more about <NS type="UD"><i>the</i></NS> last month's pop concert.</p>
+          <p>Firstly, I arrived five hours before the <NS type="S"><i>begining</i><c>beginning</c></NS> of the concert in order to help the musicians to move the <NS type="RN"><i>material</i><c>equipment</c></NS> from the van to the <NS type="RN"><i>scene</i><c>stage</c></NS>. As soon as all the conections <NS type="AGV"><i>was</i><c>were</c></NS> made, we tested the <NS type="R"><i><NS type="DN"><i>nivel</i><c>level</c></NS> of the sound</i><c>volume</c></NS>: I found it too loud, so I advised them to <NS type="R"><i>regular</i><c>lower</c></NS> it, and they <NS type="RV"><i>listed</i><c>listened</c></NS> to me! Then, there was only one hour left to install the <NS type="IJ"><i>differents</i><c>different</c></NS> <NS type="R"><i>color</i><c>coloured</c></NS> lights<NS type="RP"><i>:</i><c>;</c></NS> it was just <NS type="S"><i>enought</i><c>enough</c></NS> time.</p>
+          <p><NS type="L"><i>Thus</i><c>So</c></NS>, it was a fantastic afternoon because I like <NS type="W"><i>very much music</i><c>music very much</c></NS>, even if I don't play any <NS type="DJ"><i>music</i><c>musical</c></NS> instrument. Moreover, I learnt a lot about music, especially concerning <NS type="R"><i>the way of</i><c>how</c></NS> <NS type="FV"><i><NS type="RV"><i>using</i><c>playing</c></NS></i><c>to play</c></NS> an instrument. Consequently, I hope I will play an instrument in the future, especially because the group promises <NS type="UA"><i>me</i></NS> to help me to learn any instrument.</p>
+          <p>See you soon.</p>
+          <p>Best wishes</p>
+          <p>Didier Bovie</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

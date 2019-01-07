@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR171*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the musical <NS type="UN"><i>show</i></NS> "Over the Rainbow", <NS type="RA"><i>that</i><c>which</c></NS> I went to see on the 16th of June.</p>
+          <p>Firstly, the actor <NS type="TV"><i><NS type="S"><i>suppossed</i><c>supposed</c></NS></i><c>was supposed</c></NS> to be Danny Brook, but he was not, it was another actor, who I have never seen before, so, as you can <NS type="S"><i>imagen</i><c>imagine</c></NS>, I was very disappointed.</p>
+          <p>Another <NS type="DN"><i>complain</i><c>complaint</c></NS> is about the time that the <NS type="UN"><i>musical</i></NS> show started<NS type="RP"><i>, the</i><c>. The</c></NS> advertisement said it started at 19:30, but it did not<NS type="RP"><i>, we</i><c>. We</c></NS> had to wait 45 minutes. It was terrible.</p>
+          <p>Now, about the tickets, <NS type="SX"><i>the</i><c>there</c></NS> were different prices but there were <NS type="X"><i>not</i><c>no</c></NS> discounts, and because of this, many people could not see the show, especially students.</p>
+          <p>Finally, when the <NS type="UN"><i>musical</i></NS> show finished, and I have to say, a bit late, I went to the theatre's restaurant to eat something but this place was closed because the chef had already gone.</p>
+          <p><NS type="RT"><i>At</i><c>As</c></NS> <NS type="MA"><c>I</c></NS> <NS type="RV"><i>is</i><c>have</c></NS> <NS type="TV"><i>explain</i><c>explained</c></NS><NS type="MP"><c>,</c></NS> it was not the perfect evening that I expected to have and I would like to have my money back <NS type="R"><i>because of</i><c>for</c></NS> the reasons that I mentioned <NS type="RY"><i>before</i><c>above</c></NS>.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Pat, Maria's best friend</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, so Maria was very disappointed when she realised that Manuel knew the truth about the feelings that Maria had for him, in fact, she was so angry she <NS type="MV"><c>could</c></NS> almost kill<NS type="MP"><c>,</c></NS> but, she couldn't because Pat was her best friend.</p>
+          <p>Maria talked to Pat about the stupid thing that she <NS type="TV"><i>did</i><c>had done</c></NS>, but Pat refused to <NS type="FV"><i><NS type="S"><i>apologaising</i><c>apologising</c></NS></i><c>apologise</c></NS> to her, because she felt it wasn't a mistake and she did it for only one reason: <NS type="FV"><i>help</i><c>to help</c></NS> Maria to get the man that she loved. Maria was speechless, it was the first time that she didn't know what to do, so she decided to stop talking to Pat.</p>
+          <p>After 3 weeks, Maria got ill so she was not <NS type="RJ"><i>available</i><c>able</c></NS> to go to school. <NS type="RQ"><i>Some</i><c>All</c></NS> <NS type="MD"><c>her</c></NS> friends phoned her <NS type="RP"><i>everyday</i><c>every day</c></NS>, except Pat, the only friend that Maria really loved<NS type="RP"><i>, despite</i><c>. Despite</c></NS> that, she was not sad. One day, when Maria was <NS type="RV"><i>seating</i><c>sitting</c></NS> in her bedroom, someone <NS type="TV"><i>knock</i><c>knocked</c></NS> <NS type="MT"><c>on</c></NS> the door<NS type="RP"><i>, it</i><c>. It</c></NS> was Manuel<NS type="RP"><i>, he</i><c>. He</c></NS> was worried <NS type="RT"><i>for</i><c>about</c></NS> her. Maria was nervous, but<NS type="MP"><c>,</c></NS> for the first time, she could talk to him as she never <NS type="RV"><i>did</i><c>had</c></NS> before, and at the end of the day, she was the happiest person <NS type="RT"><i>of</i><c>in</c></NS> the world<NS type="RP"><i>, she</i><c>. She</c></NS> <NS type="RV"><i>gave</i><c>had</c></NS> her first kiss and she had Pat's friendship back<NS type="RP"><i>,</i><c>;</c></NS> after all, everything happened because of her.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

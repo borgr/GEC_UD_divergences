@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR307*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan:</p>
+          <p>I am writing in reply to your letter, in order to answer your <NS type="RN"><i>requests</i><c>questions</c></NS>.</p>
+          <p>First of all, it would be suitable for me to travel in July only, because that is when I am on holiday from work.</p>
+          <p>Second, I would rather stay in a log cabin, because I tend to get very nervous in small closed places, so a tent would be <NS type="DJ"><i>unapropriate</i><c>inappropriate</c></NS> for me.</p>
+          <p>I would prefer golf and surfing. I haven't played golf for a long time, so it will be <NS type="S"><i>pleasent</i><c>pleasant</c></NS> to do so. About surfing, I am an amateur at it. I have been surfing for five years and I have competed in two championships.</p>
+          <p>Finally, I would like to ask you what kind of clothes would you recommend <NS type="RA"><i>me</i><c>I</c></NS> <NS type="FV"><i>to take</i><c>take</c></NS>. I have never been to California, so I have no idea about the weather there. Also, I would like to know if I will need any money there.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours <NS type="S"><i>sincerately</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>Hi! I'm writing to tell you about my experience at the concert.</p>
+          <p>It was supposed to start at ten, but when the band was going on stage, the <NS type="DN"><i>leader of it</i><c>singer</c></NS> fell down on some wires that gave the power to all the instruments and all the lights! Suddenly, everything got very dark. The fans started shouting and <NS type="S"><i>wistling</i><c>whistling</c></NS> for the show to begin, while I just stood there trying to see what had happened. Then, a security guard started calling for help. I happened to be near him, so I went to help him. He asked me to help Bono, the <NS type="RN"><i>leader</i><c>singer</c></NS>, get up and to get him some water. I realised he had broken a finger so I had to get a doctor to help him. There was an ambulance behind the stage, so the paramedic came right away and took care of Bono's finger. <NS type="RT"><i>Like</i><c>About</c></NS> an hour later, he recovered and the show began.</p>
+          <p>What I liked was that I had the chance to help my idol and to talk to him.</p>
+          <p>Bye! see you soon,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

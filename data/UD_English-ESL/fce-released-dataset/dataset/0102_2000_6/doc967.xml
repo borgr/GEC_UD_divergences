@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR405*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>To the manager of The Circle Theatre!</p>
+          <p>I have <NS type="W"><i>been recently</i><c>recently been</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> London and <NS type="TV"><i>I've seen</i><c>I saw</c></NS> the <NS type="RN"><i>art</i><c>show</c></NS> "Over <NS type="RP"><i>The</i><c>the</c></NS> Rainbow" at The Circle Theatre. I have to say that it was a very disappointing evening for me. It should <NS type="TV"><i>start</i><c>have started</c></NS> at 19.30 and it <NS type="RV"><i>had</i><c>started</c></NS> at 20:15! There were no discounts available and the theatre's restaurant was closed. But the worst thing <NS type="RT"><i>in</i><c>about</c></NS> "London's newest and best musical show", as you called it, was the <NS type="DN"><i>abscentness</i><c>absence</c></NS> of Danny Brook. The actor <NS type="RA"><i><NS type="S"><i>wich</i><c>which</c></NS></i><c>who</c></NS> was "dancing" was horrible. He <NS type="TV"><i>had been</i><c>was</c></NS> <NS type="RV"><i><NS type="IV"><i>mistakeing</i><c>mistaking</c></NS></i><c>making mistakes</c></NS> all the time. <NS type="RT"><i>At</i><c>In</c></NS> the advertisement, <NS type="RA"><i>there</i><c>it</c></NS> was written "your perfect evening out". Well, it wasn't perfect! I want you to give me back my money<NS type="RP"><i>,</i><c>.</c></NS> I hope that in future you will <NS type="S"><i>corect</i><c>correct</c></NS> all <NS type="AGD"><i>this</i><c>these</c></NS> mistakes.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I told him my worst love story. One day, I was going to school by bus and <NS type="MP"><c>-</c></NS> I don't know why <NS type="MP"><c>-</c></NS> I went to the end of it. I looked up and I saw her, standing next to me with her friend. Every time <NS type="UC"><i>when</i></NS> I looked up at her my legs were shaking so I couldn't <NS type="RV"><i>come</i><c>get</c></NS> up and talk to her! But with help from my friend<NS type="MP"><c>,</c></NS> who convinced me to do this, <NS type="TV"><i>I've met</i><c>I met</c></NS> her. Her name was Sue and she was so beautiful that I still can't find words which could be good to describe her. I was constantly seeing her but my shyness made my mouth close so I couldn't say anything! I was in Love but that wasn't nice. <NS type="MD"><i>Few</i><c>A few</c></NS> days later someone told me that Sue was actually a boy! That was supposed to be a joke from my "<NS type="S"><i>coleagues</i><c>colleagues</c></NS>"! From that moment I <NS type="TV"><i>feel</i><c>felt</c></NS> like I <NS type="TV"><i>have</i><c>had</c></NS> been in front of a video camera and the operator of it <NS type="TV"><i>is</i><c>was</c></NS> me! I couldn't speak to anyone. The worst thing in this story is<NS type="UP"><i>,</i></NS> that Pat told this to everyone at school. From that moment I <NS type="TV"><i>live</i><c>have lived</c></NS> alone. Thanks to Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

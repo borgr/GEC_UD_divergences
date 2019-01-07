@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR956*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Smith,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you about an <NS type="DN">enjure</NS> that I had <NS type="RT"><i>in</i><c>at</c></NS> your last musical <NS type="M"><c>at the</c></NS> Circle Theatre. I went to see "Over the rainbow" last Saturday and I had a very disappointing evening.</p>
+          <p>First of all, I was <NS type="RJ"><i><NS type="S"><i>surpprising</i><c>surprising</c></NS></i><c>surprised</c></NS> that Danny Brook and Tina Truelove did not <NS type="RV"><i><NS type="FV"><i>played</i><c>play</c></NS></i><c>perform</c></NS>. <NS type="RA"><i>Anybody</i><c>Nobody</c></NS> told us why they <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> there.</p>
+          <p>I read <NS type="RT"><i>on</i><c>in</c></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> in Friday's edition of the Times that the show should start at 19.30 but the <NS type="RN"><i>representation</i><c>performance</c></NS> started at 20.15. I was <NS type="IV"><i>waitting</i><c>waiting</c></NS> 45 minutes for <NS type="RA"><i>anything</i><c>nothing</c></NS>!</p>
+          <p>I am <NS type="MD"><c>a</c></NS> <NS type="S"><i>studiant</i><c>student</c></NS> and I didn't <NS type="RV"><i>find</i><c>get</c></NS> <NS type="RD"><i>any</i><c>a</c></NS> <NS type="UP"><i>discount's</i><c>discount</c></NS> ticket. I don't understand the problem between your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> and the reality.</p>
+          <p>And finally, after the show, I wanted to <NS type="RV"><i>drink</i><c>have</c></NS> a coffee but the theatre restaurant was closed!</p>
+          <p><NS type="RT"><i>Like</i><c>As</c></NS> mentioned in the newspaper<NS type="MP"><c>,</c></NS> I didn't have a perfect evening out and I ask you to give me back my money.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>My life <NS type="AGV"><i>change</i><c>changes</c></NS> <NS type="RP"><i>everyday</i><c>every day</c></NS> <NS type="RT"><i>with</i><c>because of</c></NS> <NS type="UD"><i>the</i></NS> modern technology. For <NS type="S"><i>exemple</i><c>example</c></NS>, if I don't have time to do my shopping after school because I have to do my homework, I <NS type="TV"><i>am going</i><c>go</c></NS> on <NS type="MD"><c>the</c></NS> Internet and ask for what I need. The day after I get everything at home by post.</p>
+          <p><NS type="ID"><i>In my point of <NS type="S"><i>vue</i><c>view</c></NS></i><c>From my point of view</c></NS>, <NS type="MD"><c>the</c></NS> Internet is the most important <NS type="RN"><i><NS type="DN"><i>discover</i><c>discovery</c></NS></i><c>invention</c></NS> of the 2000 <NS type="S"><i>centery</i><c>century</c></NS>. You can book tickets for <NS type="MD"><c>the</c></NS> theatre, sport, etc., you can find all <NS type="MD"><c>the</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> you need for yourself. You have a lot of things to do, to see, to learn. It is too big to tell everybody about what you can do!</p>
+          <p>I use <NS type="MD"><c>the</c></NS> <NS type="W"><i>all the time Internet</i><c>Internet all the time</c></NS> for my homework and in the <NS type="S"><i>futur</i><c>future</c></NS>, I hope, I will be able to use it for my own work.</p>
+          <p>Technology will not stop <NS type="FV"><i>to grow</i><c>growing</c></NS> <NS type="UY"><i>up</i></NS> and <NS type="FV"><i>help</i><c>helping</c></NS> people in the <NS type="S"><i>futur</i><c>future</c></NS>. I hope I will help them, I am sure I will!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

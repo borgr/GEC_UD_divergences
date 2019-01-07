@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR68*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>London, June 17th</p>
+          <p>Dear Sir,</p>
+          <p>I'm writing to you to make <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>complaints</i><c>complaint</c></NS> <NS type="RT"><i>for</i><c>about</c></NS> the very disappointing evening I had at the Circle Theatre.</p>
+          <p>Firstly, I found that there were no discounts as <NS type="UA"><i>it</i></NS> <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="RV"><i>announced</i><c>published</c></NS> in the advertisement.</p>
+          <p>Then, I not only had to wait 45 minutes more than <NS type="U"><i>it was</i></NS> expected for the beginning of the show but I realised that the main actor had been replaced by another <NS type="W"><i>one (very bad)</i><c>(very bad) one</c></NS> as well. Of course I must tell you that the <NS type="RJ"><i>strongest</i><c>main</c></NS> reason for my going to see the show was Danny Brook's presence.</p>
+          <p>Finally, after the show, I went to the theatre restaurant <NS type="RY"><i>just</i><c>only</c></NS> to find that it was closed and the friend I had asked to meet me there was not waiting for me. As if that was not enough<NS type="MP"><c>,</c></NS> he thought I had been kidding, inviting him to a closed restaurant where I didn't <NS type="RV"><i>appear</i><c>show up</c></NS>.</p>
+          <p>Those <NS type="TV"><i>were</i><c>are</c></NS> the reasons for my asking <NS type="MT"><c>for</c></NS> a refund of the £20 I paid.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Every day we <NS type="RV"><i>find out</i><c>discover</c></NS> new devices that promise <NS type="UA"><i>us</i></NS> to satisfy our needs. I usually don't buy a lot of them but I must <NS type="RV"><i>recognise</i><c>admit</c></NS> that some of them are useful.</p>
+          <p>I can't remember waking up <NS type="RT"><i>with</i><c>without</c></NS> the alarm-clock, making a hand-made orange juice or heating water for the coffee. Therefore, I have more spare time to enjoy the one <NS type="MN"><c>thing</c></NS> I consider <NS type="R"><i>as</i><c>to be</c></NS> the most important influence technology <NS type="TV"><i>had</i><c>has had</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> my life: the computer and Internet.</p>
+          <p>The <NS type="RN"><i>improvement</i><c>advance</c></NS> of electronics and global communications has made it possible to know places, look for information or even keep <NS type="MT"><c>in</c></NS> close contact with friends all over the world.</p>
+          <p>Now, I will never <NS type="W"><i>say again</i><c>again say</c></NS> that I don't know where <NS type="W"><i>can I</i><c>I can</c></NS> find some information about this or that and when on <NS type="FN"><i>holidays</i><c>holiday</c></NS> or every time I make a new friend, I just ask for <NS type="RD"><i>the</i><c>an</c></NS> <NS type="MP"><i>email</i><c>e-mail</c></NS> <NS type="MN"><c>address</c></NS> and that's enough to know we will know about each other soon.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

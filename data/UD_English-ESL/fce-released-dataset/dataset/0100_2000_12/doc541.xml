@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR223*0100*2000*02">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>16.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Basle, 12th <NS type="S"><i>Decembre</i><c>December</c></NS> 2000</p>
+          <p>(Your English class N3c)</p>
+          <p>Dear Mr Robertson,</p>
+          <p>We have received the programme. We'd like to thank you for organising <NS type="MD"><c>a</c></NS> good programme, <NS type="M"><i>especially</i><c>and especially for</c></NS> the shopping tour on Tuesday.</p>
+          <p>Our class is especially interested in <NS type="MD"><c>the</c></NS> latest fashion and trends. London is a good place for discovering <NS type="R"><i>it</i><c>these things</c></NS>. We've seen an advertisement for 'the London Fashion and Leisure Show' and all of us are very interested in it. It's an exhibition of fashions, <NS type="CN"><i><NS type="DN"><i>sport wears</i><c>sportswears</c></NS></i><c>sportswear</c></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. We think it is a great opportunity because there are some people in our class who <NS type="RV"><i>like</i><c>want</c></NS> to study <NS type="FN"><i>fashions</i><c>fashion</c></NS> after leaving this school. And <NS type="RP"><i>everyone</i><c>every one</c></NS> of us is interested in fashions and clothes! This exhibition is situated in <NS type="MD"><c>the</c></NS> Central Exhibition Hall, London.</p>
+          <p>We've noticed that the exhibition will be on Tuesday, <NS type="MD"><c>the</c></NS> 14th of March. Could we change our programme? We'd like to do our shopping tour on <NS type="MD"><c>the</c></NS> <NS type="CL"><i>next following</i><c>following</c></NS> day (Wednesday afternoon) instead of Tuesday afternoon. What do you think about our suggestion? Please write back as soon as possible. We hope to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5.3</question_number>
+       <exam_score>0</exam_score>
+         <coded_answer>
+          <p>Basle, 12th <NS type="S"><i>Decembre</i><c>December</c></NS> 2000</p>
+          <p>Dar Oxana,</p>
+          <p>Thanks for your letter. It's nice to hear from you again. In your letter, you asked me <NS type="S"><i>wheter</i><c>whether</c></NS> the book I've read would be a suitable present for your cousin's fifteenth birthday. It's my pleasure to write my suggestion for you now!</p>
+          <p>You know I love reading books, it's my passion. I've read all the books of <NS type="MD"><c>the</c></NS> English author Ernest Hemingway. They are great I tell you! But I think your cousin is too young for <NS type="AGA"><i>it</i><c>them</c></NS>. Why? Because he <NS type="RY">especially</NS> concentrates on <NS type="MD"><c>the</c></NS> history, <NS type="RN"><i>social life</i><c>society</c></NS> and <NS type="RJ"><i>politic</i><c>political</c></NS> situation <NS type="RT"><i>in</i><c>of</c></NS> the time the story is <NS type="RV"><i>played</i><c>set</c></NS>. That <NS type="RV"><i>might</i><c>can</c></NS> be <NS type="SX"><i>quiet</i><c>quite</c></NS> <NS type="RJ"><i>complicated</i><c>difficult</c></NS> to understand, especially for young people. For me, his books are great. But anyway, do you know the book with the title 'The Best Detective Stories of Agatha Christie'? It's written by Agatha Christie. She's an American and her books concentrate on crime and detective stories. Her books aren't difficult to understand. She <NS type="W"><i>especially write books</i><c>writes books especially</c></NS> for young people. And I think this book is a very good one for your cousin. You wrote that your cousin is quite <NS type="S"><i>intered</i><c>interested</c></NS> in magic, detectives and sport, didn't you? I think this is the best choice for him!</p>
+          <p>I've <NS type="TV"><i>send</i><c>sent</c></NS> you a copy of the summary from the book and an interesting article about the author and the book. Please read it and write your comments. I hope to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you soon! Have fun with it and say hello to your cousin! See you soon!</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

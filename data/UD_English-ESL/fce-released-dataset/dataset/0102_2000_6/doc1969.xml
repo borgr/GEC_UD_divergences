@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR755*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you <NS type="UT"><i>for</i></NS> <NS type="RV"><i><NS type="FV"><i>explaining</i><c>to explain</c></NS></i><c>to describe</c></NS> some problems I had when I went to the theatre to see one of your company's musical shows called "Over the rainbow". I would like to say that the information given in your advertisement was not true at all.</p>
+          <p>First of all, the main <NS type="RN"><i>characters</i><c>actors</c></NS> <NS type="RV"><i>had</i><c>were meant</c></NS> to be Danny Brook <NS type="R"><i>an</i><c>and</c></NS> Tina Truelove. I <NS type="RV"><i>got</i><c>was</c></NS> very disappointed when I discovered Danny Brook was not going to play <NS type="M"></NS> and a different actor would play <NS type="MA"><c>it</c></NS> instead of him.</p>
+          <p>Another problem was <NS type="MT"><c>with</c></NS> the start of the show. When I finished <NS type="DN"><i>working</i><c>work</c></NS> I had to <NS type="RV"><i>hurry up</i><c>rush</c></NS> because the show started at 19:30 and it was 19:00. <NS type="ID"><i>For my surprise</i><c>To my surprise</c></NS>, when I arrived <NS type="RT"><i>to</i><c>at</c></NS> the theatre the show still had not started. All of us, who had paid a lot of money for those tickets, had to wait <NS type="MD"><c>a</c></NS> long time before the show started, because it started at 20:15!</p>
+          <p>You should review the advertisements you do because you give <NS type="RJ"><i>wrong</i><c>inaccurate</c></NS> information. For example, the advertisement said we could buy tickets <NS type="R"><i>with</i><c>at a</c></NS> <NS type="AGN"><i>discounts</i><c>discount</c></NS>, but when I went to buy <NS type="RA"><i>it</i><c>one</c></NS> your employees told me there were no discounts available.</p>
+          <p>When the show was over I went to have dinner <NS type="RT"><i>to</i><c>in</c></NS> your theatre restaurant but I found it closed because your company is <NS type="TV"><i>lacked</i><c>lacking</c></NS> <NS type="UT"><i>of</i></NS> employees.</p>
+          <p>In conclusion, what I expected to be "my perfect evening", as you said in your advertisement, was a very disappointing evening due to the problems I had. I would like to know if I could have some money back for these problems I have told you <NS type="MT"><c>about</c></NS>.</p>
+          <p>I advise you to pay more attention <NS type="RT"><i>in</i><c>to</c></NS> your shows and look forward to hearing from you as soon as possible.</p>
+          <p>Yours faithfully,</p>
+          <p>MANUEL SANTOS</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Two days ago I thought I could trust Pat because she was not going to tell anybody our secret, our important secret. I wish I had never told her anything.</p>
+          <p><NS type="MA"><i>All</i><c>It all</c></NS> began when, three days ago, I was doing <NS type="MQ"><c>some</c></NS> homework in my <NS type="RN"><i>class</i><c>classroom</c></NS>. I was alone because Pat had to go <NS type="W"><i>with her parents to the cinema</i><c>to the cinema with her parents</c></NS>. Suddenly, I heard <NS type="DN"><i>step noises</i><c>footsteps</c></NS> that were getting closer to me. It was Paul, my teacher, who came to see what I was doing there. After a few words which I didn't pay attention to, my teacher <NS type="RV"><i>went out</i><c>left</c></NS> the <NS type="RN"><i>class</i><c>classroom</c></NS>. I was <NS type="S"><i>boried</i><c>bored</c></NS>, so I decided to follow him to discover where he was going. He was going down the stairs wearing his blue jacket. "See you tomorrow!" I cried, but he didn't listen to me. Then, while I was going back to my <NS type="RN"><i>class</i><c>classroom</c></NS> I saw he hadn't switched off the light <NS type="RT"><i>of</i><c>in</c></NS> his room. I went to switch it off. As soon as I entered that room I realised he had <NS type="RV"><i>forgotten</i><c>left</c></NS> our exams there. I couldn't believe my eyes! The exams we had to do <NS type="MD"><c>the</c></NS> next day were there. <NS type="ID"><i>Without thinking it twice</i><c>Without thinking twice</c></NS>, I took one of them and <NS type="W"><i>went quickly</i><c>quickly went</c></NS> home. I had to phone Pat to tell her which <NS type="AS"><i>were the questions of the exam</i><c>questions were in the exam</c></NS>. When I told her <NS type="R"><i>this piece of</i><c>the</c></NS> news, she <NS type="RV"><i>got</i><c>was</c></NS> surprised. We thought we shouldn't tell <NS type="UA"><i>it</i></NS> anybody else. Next day<NS type="MP"><c>,</c></NS> in the morning, before the exam, we were going to put the exam back with the other exams.</p>
+          <p>But my plan didn't work well. Next day, everybody knew about my great <NS type="RN"><i>finding</i><c>find</c></NS> because Pat hadn't kept our secret. The problem was that my teacher also knew <NS type="MT"><c>about</c></NS> it because someone had told him "the story of the <NS type="RN"><i>exams</i><c>exam papers</c></NS>", as he called my big problem. He told me I had done wrong taking the <NS type="RN"><i>exam</i><c>exam paper</c></NS> but I think the only thing I did wrong was telling Pat my important secret. Next time I will <NS type="RV"><i>get</i><c>make</c></NS> sure <NS type="M"><c>I can trust</c></NS> who I'm telling my secret to.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

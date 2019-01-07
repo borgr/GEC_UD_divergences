@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR523*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>31-40</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sirs,</p>
+          <p>I am writing to complain about your musical show<NS type="MP"><c>,</c></NS> which I saw last Saturday.</p>
+          <p>According to your advertisement, one of the stars was supposed to be Danny Brook. However, a different actor <NS type="TV"><i>play</i><c>played</c></NS> the role instead of him. You can imagine how upset I felt, as I really wanted to see his performance.</p>
+          <p>To make matters worse, despite the fact that the second show of the day was scheduled to start <NS type="RT"><i>from</i><c>at</c></NS> 7:30 p.m<NS type="MP"><c>.</c></NS>, it started <NS type="RT"><i>from</i><c>at</c></NS> 8:15 p.m. What's more, the theatre restaurant was closed, because the chef suddenly took a day off. On top of everything, although your advertisement told me that I would receive some discounts, there were no discounts available.</p>
+          <p>I was really disappointed <NS type="RT"><i>at</i><c>with</c></NS> your show. I expect a full refund plus compensation for my dissatisfaction and <NS type="MD"><c>the</c></NS> discomfort which I suffered. I look forward to receiving your response within the next seven days.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="UT"><i>In these</i><c>These</c></NS> days, young people prefer wearing shabby and scruffy clothes to wearing neat and tidy clothes.</p>
+          <p>In other words, their fashion has become more casual. I think this <NS type="S"><i>tendancy</i><c>tendency</c></NS> will become more common in the future.</p>
+          <p>In general, their parents don't like their fashion. They want their children to wear <NS type="W"><i>clothes <NS type="RJ"><i><NS type="DJ"><i>neatly</i><c>neat</c></NS></i><c>smart</c></NS></i><c>smart clothes</c></NS>. When they were young, they judged <NS type="RQ"><i>the other</i><c>another</c></NS> person by his appearance. They <NS type="W"><i>also were</i><c>were also</c></NS> asked to wear clothes which <NS type="AGV"><i>was</i><c>were</c></NS> in accordance with the occasion.</p>
+          <p>In my opinion, this is still correct. However, people <NS type="TV"><i>noticed</i><c>have noticed</c></NS> that what is important is not their clothes but their mind.</p>
+          <p>If someone doesn't <NS type="R"><i>have enough knowledge</i><c>know much</c></NS> about the event which he <NS type="TV"><i>attends</i><c>is attending</c></NS>, even if he wears <NS type="W"><i>clothes <NS type="RJ"><i><NS type="DJ"><i>neatly</i><c>neat</c></NS></i><c>smart</c></NS></i><c>smart clothes</c></NS>, he doesn't look like a gentleman.</p>
+          <p>What I want to say is that people don't mind <NS type="AGD"><i>their</i><c>his</c></NS> clothes if he <NS type="R">has enough knowledge about what he needs</NS>.</p>
+          <p>To sum up, people <NS type="RV"><i>can</i><c>will</c></NS> wear clothes more <NS type="RY">freely</NS>, in the future. What is important is not their fashion but <NS type="R">their knowledge, attitude to <NS type="S"><i>everthing</i><c>everything</c></NS> including fashion</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

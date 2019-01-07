@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE79*0100*2001*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>36.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I am writing to you to give you the information about the conference.</p>
+          <p>The hotel your group has been booked into is called <NS type="MD"><c>the</c></NS> Palace Hotel. It is simple to find <NS type="RD"><i>the</i><c>your</c></NS> way from this hotel to the conference. You only need to cross the street in front of your hotel. There you will find a modern building with two different doors<NS type="MP"><c>,</c></NS> a red <NS type="MA"><c>one</c></NS> and a blue one. You are asked to <NS type="RV"><i>take</i><c>go through</c></NS> the blue door. After entering<NS type="MP"><c>,</c></NS> you will see the <NS type="AS"><i>signed conference room</i><c>conference room which will be signposted</c></NS>.</p>
+          <p>We <NS type="TV"><i>organized</i><c>have organized</c></NS> <NS type="FD"><i>a</i><c>an</c></NS> end-of-conference party on the day before your departure. Everyone is welcome to join <NS type="MY"><c>in</c></NS> <NS type="MT"><c>with</c></NS> this party <NS type="MT"><c>in</c></NS> <NS type="MN"><c>order</c></NS> to get to know each other in a good atmosphere. You should wear nice <NS type="UC"><i>and</i></NS> comfortable <NS type="RN"><i>cloth</i><c>clothes</c></NS>. This is an informal party.</p>
+          <p>I suggest you <NS type="TV"><i>visiting</i><c>visit</c></NS> the old part of Zurich or <NS type="TV"><i>going</i><c>go</c></NS> to the zoo before your departure.</p>
+          <p>I am looking forward to meeting you at the conference. If there <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="R"><i>any question left</i><c>any more questions</c></NS>, please contact me.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>The Most Important Invention</p>
+          <p>I love baking cakes, <NS type="DN"><i>cockies</i><c>cookies</c></NS> and breads. Baking is <NS type="MD"><c>my</c></NS> passion and in the town <NS type="MY"><c>where</c></NS> I live I'm known for making the best cakes in the area. It doesn't matter <NS type="W"><i>in what kind of mood I am</i><c>what kind of mood I am in</c></NS>, I can do it all the time and it makes me feel good.</p>
+          <p>But I couldn't bake without an oven. I'm so grateful for this invention which allows me to live my passion.</p>
+          <p>I think the oven is one of the most important inventions. If there is someone who doesn't agree with me, he or she should try to live <NS type="MT"><c>for</c></NS> one month without using <NS type="RD"><i>the</i><c>an</c></NS> oven. <NS type="ID"><i>Besides</i><c>In addition to</c></NS> that<NS type="MP"><c>,</c></NS> he or she should look carefully into what he or she buys. I'm positive that after such an experience everyone <NS type="TV"><i>says</i><c>would say</c></NS> that the oven is a really important invention for our <NS type="IN"><i>lifes</i><c>lives</c></NS>.</p>
+          <p><NS type="RV"><i>I'm</i><c>I'd like</c></NS> <NS type="FV"><i>thanking</i><c>to thank</c></NS> the person who invented the oven. Thank you!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

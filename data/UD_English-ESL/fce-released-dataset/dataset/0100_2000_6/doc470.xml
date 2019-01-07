@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR192*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>Thank you very much for your letter regarding my prize that I won in your competition. It was a very pleasant surprise to win a trip to California and I very much appreciate it.</p>
+          <p>I am writing this as a reply <NS type="RT"><i>for</i><c>to</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> request to provide you with some information about my <NS type="IN"><i>preferencies</i><c>preferences</c></NS>.</p>
+          <p><NS type="ID"><i>First off all</i><c>First of all</c></NS> <NS type="TV"><i>I'll</i><c>I'd</c></NS> prefer to travel in July, because it is the only month I have free. I'll have to <NS type="RV"><i>pass</i><c>sit</c></NS> several exams in June<NS type="RP"><i>, in</i><c>. In</c></NS> August my family <NS type="TV"><i>going</i><c>are going</c></NS> to visit our relatives in Austria.</p>
+          <p>I am not so keen about <NS type="MD"><c>the</c></NS> <NS type="S"><i>accomotation</i><c>accommodation</c></NS> but would rather stay in tents than cabins. It is much more fun and you can really enjoy nature and <NS type="RD"><i>a</i><c>the</c></NS> company of your friends.</p>
+          <p>It is great I can do something I really like at the Camp. I <NS type="TV"><i>am really enjoying</i><c>really enjoy</c></NS> swimming. We live near the <NS type="RP"><i>sea shore</i><c>seashore</c></NS> and swimming is the <NS type="DJ"><i>sport</i><c>sports</c></NS> <NS type="S"><i>activitie</i><c>activity</c></NS> I am really good <NS type="RT"><i>in</i><c>at</c></NS>. <NS type="M"><i>Far</i><c>I am by far</c></NS> the best swimmer in my school. The other subject is photography. I like taking pictures and want to share my interest with <NS type="UD"><i>the</i></NS> others. I am not a photographer but my family think that my photos are more <NS type="SX"><i>then</i><c>than</c></NS> just good.</p>
+          <p>Finally I want to ask you some questions. What will be <NS type="FJ"><i>better</i><c>best</c></NS> to take with me, what <NS type="W"><i>I'll</i><c>will I</c></NS> need at Camp? How much money should I take<NS type="RP"><i>, will</i><c>? Will</c></NS> <NS type="RA"><i>it</i><c>there</c></NS> be any guided tours? And how many will be <NS type="RT"><i>in</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> Camp in July?</p>
+          <p>Hope to hear from you soon.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>My best friend is crazy about shopping. She <NS type="TV"><i>will prefer</i><c>prefers</c></NS> shopping to everything else. She thinks that it is the most pleasant <NS type="MN"><c>way</c></NS> <NS type="W"><i>spending of</i><c>of spending</c></NS> time, when you <NS type="TV"><i>going</i><c>go</c></NS> from one shop to another, watching other people, looking at beautiful clothes, getting some fashionable ideas. <NS type="S"><i>Somitimes</i><c>Sometimes</c></NS> I feel very sorry for her. It seems that going shopping is a <NS type="ID"><i>sense of living</i><c>reason for living</c></NS>. And <NS type="AGV"><i><NS type="RA"><i>it's</i><c>there's</c></NS></i><c>there're</c></NS> so many people like her. Lots of families <NS type="TV"><i><NS type="IV"><i>planing</i><c>planning</c></NS></i><c>plan</c></NS> a day out to go to a shopping <NS type="SA"><i>center</i><c>centre</c></NS>, and it is a normal routine for them - to <NS type="FV"><i>spent</i><c>spend</c></NS> <NS type="UD"><i>the</i></NS> all day just shopping. Not so many people <NS type="TV"><i>thinking</i><c>think</c></NS> about going fishing or playing <NS type="UN"><i>sport</i></NS> games with their families any more. They <NS type="TV"><i>forgot</i><c>have forgotten</c></NS> how beautiful <NS type="W"><i><NS type="TV"><i>could</i><c>can</c></NS> be the countryside</i><c>the countryside can be</c></NS>, and <NS type="W"><i>only tourists you can meet</i><c>you can only meet tourists</c></NS> in the castles or museums.</p>
+          <p>People are normally angry after shopping - because it is so easy to get <NS type="RJ"><i>tied</i><c>tired</c></NS>. People <NS type="TV"><i>are not smiling</i><c>do not smile</c></NS> <NS type="RT"><i>to</i><c>at</c></NS> each other, <NS type="TV"><i>not talking</i><c>do not talk</c></NS> to each other at the shops. They look like <NS type="UD"><i>a</i></NS> <NS type="S"><i>robotes</i><c>robots</c></NS> who have to do their <NS type="FN"><i>duties</i><c>duty</c></NS> - to buy.</p>
+          <p>In my opinion shopping is just <NS type="MA"><c>something</c></NS> to cover our basic needs. Shops are <NS type="R">not for spending our <NS type="IN"><i>lifes</i><c>lives</c></NS> in them</NS>. Try to give up shopping one day and try to spend your day with friends<NS type="MP"><c>,</c></NS> going to <NS type="RV"><i>play</i><c>do</c></NS> something together. It feels much <NS type="UY"><i>more</i></NS> better. You'll have happy memories and <NS type="M"><c>be in</c></NS> a good mood.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

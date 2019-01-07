@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR947*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have just received your letter <NS type="RT"><i>with</i><c>of</c></NS> congratulations and I am writing to you in order to provide you with information you need.</p>
+          <p>First of all, I would like to start with the time of the <NS type="RN"><i>travelling</i><c>trip</c></NS>. I would prefer to go to the Camp <NS type="RT"><i>on</i><c>in</c></NS> July. The reasons for my choice are that I am having my graduation exams in June and my entrance exams in August.</p>
+          <p>As regards <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would <NS type="UY"><i>rather</i></NS> choose <NS type="FV"><i>staying</i><c>to stay</c></NS> in tents. That is because I am keen on <NS type="S"><i>hich-hicking</i><c>hitchhiking</c></NS> and I <NS type="RP"><i>amused</i><c>am used</c></NS> to living in tents. It is quite romantic, I think.</p>
+          <p>As to the activities offered<NS type="MP"><c>,</c></NS> I would love to go in for swimming and photography while camping, although I am not <NS type="RY"><i>quite</i><c>very</c></NS> good at the last one. Actually, I would like to take up photography as a hobby and if you can provide me with an opportunity to study in this area, I will accept it with pleasure. As regards swimming, it is my passion from <NS type="U"><i>the very</i></NS> childhood and I have been going in for this kind of sport for five years now.</p>
+          <p><NS type="RY"><i>In <NS type="UD"><i>the</i></NS> conclusion</i><c>Finally</c></NS><NS type="MP"><c>,</c></NS> I would like to ask you if you could send me some additional information. I wonder what kind of clothes I should take with me. I don't know much about the weather down there, in California, so I am rather <NS type="S"><i>puzzeled</i><c>puzzled</c></NS> about what to wear there. <NS type="RY"><i>Besides</i><c>Also</c></NS>, I would like to know how much money <NS type="W"><i>will I</i><c>I will</c></NS> need and which <NS type="IN"><i>expensies</i><c>expenses</c></NS> <NS type="W"><i>will I</i><c>I will</c></NS> have to <NS type="RV"><i>pay</i><c>cover</c></NS> <NS type="U"><i>for by</i></NS> myself.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+          <p>XAVA SURGANOVA</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Subject: to suggest what should be filmed for a short video about <NS type="MD"><c>the</c></NS> daily life of our school.</p>
+          <p>Introduction.</p>
+          <p>The aim of this report is to find out what are the most important things people should see <NS type="MC"><c>when</c></NS> watching the short <NS type="RP"><i>videofilm</i><c>video film</c></NS> about the daily routine of our school.</p>
+          <p>The Area Around the School:</p>
+          <p>I have <NS type="RV"><i>made</i><c>conducted</c></NS> a little survey on the subject of my report and I have <NS type="RV"><i><NS type="S"><i>elucidaded</i><c>elucidated</c></NS></i><c>discovered</c></NS> that most of the pupils of our school <NS type="RV"><i>consider</i><c>think</c></NS> that the region and the area around school should be filmed first. Personally I agree with their <NS type="RN"><i>statement</i><c>opinion</c></NS> and think that it will be interesting for viewers to learn about the surroundings of the school. We should film our gardens around <NS type="MD"><c>the</c></NS> school and <NS type="RD"><i>a</i><c>the</c></NS> pitch with the <NS type="RN"><i>playgrounds</i><c>courts</c></NS> for <NS type="UP"><i>volley-ball</i><c>volleyball</c></NS> and tennis at the back of the school in the very beginning.</p>
+          <p>Classrooms, Lessons and Breaks.</p>
+          <p><NS type="MD"><i>Next</i><c>The next</c></NS> things to be shot, <NS type="RT"><i>by</i><c>according to</c></NS> the majority of students<NS type="MP"><c>,</c></NS> <NS type="RV"><i>was said to be</i><c>should be</c></NS> the teaching process and the breaks. Obviously it will be interesting to find out what methods are used by our teachers to help pupils understand their subject better. Here I should also mention the <NS type="RN"><i>decoration</i><c>decor</c></NS> of our classrooms and <NS type="MD"><c>the</c></NS> atmosphere in them. People should see all the renovations that have been <NS type="RV"><i>made</i><c>done</c></NS> during the last <NS type="MQ"><c>few</c></NS> years and all <NS type="MD"><c>the</c></NS> modern conveniences that were <NS type="RV"><i>made</i><c>installed</c></NS> for both students and teachers.</p>
+          <p>And as regards breaks<NS type="MP"><c>,</c></NS> <NS type="AGN"><i>student</i><c>students</c></NS> consider them <NS type="FV"><i>being</i><c>to be</c></NS> a very important part of school life, despite all <NS type="RD"><i>their</i><c>the</c></NS> mess and noise.</p>
+          <p>Outdoor Activities</p>
+          <p>And the last but not least thing we should include in the film are the outdoor activities, which our <NS type="AGN"><i>student</i><c>students</c></NS> are provided with in our school. We can <NS type="R">make some short shots about</NS> the school theatre and <NS type="UP"><i>it's</i><c>its</c></NS> <NS type="RN"><i>performances</i><c>events</c></NS> and also about the <NS type="DJ"><i><NS type="UP"><i>sport-clubs</i><c>sport clubs</c></NS></i><c>sports clubs</c></NS> and their competitions and awards.</p>
+          <p>Conclusion</p>
+          <p>In the conclusion of my report I would like to say that the suggestions were made according to the survey <NS type="RV"><i>made</i><c>conducted</c></NS> among the students of our school. I hope you will consider this information.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

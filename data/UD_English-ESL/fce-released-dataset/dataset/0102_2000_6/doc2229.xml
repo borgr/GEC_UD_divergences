@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR903*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear director of the Circle <NS type="SA"><i>Theater</i><c>Theatre</c></NS>!</p>
+          <p>Last week I was in London. On Friday we, my friend and I<NS type="MP"><c>,</c></NS> visited your <NS type="SA"><i><NS type="SA"><i>Theater</i><c>Theatre</c></NS></i><c>theatre</c></NS> to see 'Over the rainbow'. It should <NS type="AGV"><i>has</i><c>have</c></NS> been my best evening that week, <NS type="DY"><i>unfortunatly</i><c>unfortunately</c></NS> it wasn't. The first thing that <NS type="TV"><i>happen</i><c>happened</c></NS> was that the show didn't start on time. Instead of <NS type="MP"><i>730</i><c>7.30</c></NS> am as your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> said, it started <NS type="MT"><c>at</c></NS> <NS type="MP"><i>815</i><c>8.15</c></NS> am. In the meantime we tried to get our money back to do something else, but that was impossible. When the show started Danny Brook was not acting, <NS type="SX"><i>witch</i><c>which</c></NS> was a great <NS type="S"><i>dissapointment</i><c>disappointment</c></NS> for us both. We are both big <NS type="AGN"><i><NS type="S"><i>faan</i><c>fan</c></NS></i><c>fans</c></NS> of <NS type="RA"><i>him</i><c>his</c></NS></p>
+          <p>When the show was finished we went to the <NS type="S"><i>resturant</i><c>restaurant</c></NS> to have something to eat. But then it was <NS type="S"><i>cloesed</i><c>closed</c></NS> <NS type="R"><i>because of</i><c>for</c></NS> <NS type="RN"><i>reparations</i><c>repairs</c></NS>.</p>
+          <p><NS type="R"><i>Due to</i><c>Because of</c></NS> all this <NS type="S"><i>troubel</i><c>trouble</c></NS> I think we should have our money back. We both <NS type="TV"><i>have</i><c>had</c></NS> £15 tickets. And <NS type="ID"><i>to <NS type="RP"><i>an other</i><c>another</c></NS> time</i><c>next time</c></NS>, make <NS type="S"><i>soure</i><c>sure</c></NS> that your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> is <NS type="RJ"><i><NS type="S"><i>correkt</i><c>correct</c></NS></i><c>accurate</c></NS>!</p>
+          <p>Yours Mrs Anna Schulsson</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She was my best friend for several years as a child. But I haven't seen her since we were 10 years old. When were nine years old and were in <NS type="S"><i>thired</i><c>third</c></NS> grade we had a 'House' where we used to play all <NS type="AGN"><i><NS type="S"><i>afternones</i><c>afternoons</c></NS></i><c>afternoon</c></NS>. In fact it wasn't a <NS type="DJ"><i>realy</i><c>real</c></NS> house, it was some stones between the trees in the <NS type="S"><i>littel</i><c>little</c></NS> forest <NS type="S"><i>neear</i><c>near</c></NS> our house. But we used to call it 'Our House'. It was a secret place and we had <NS type="S"><i>promissed</i><c>promised</c></NS> each other not to tell anybody about it. <NS type="S"><i>Useally</i><c>Usually</c></NS> we were cooking <NS type="UP"><i>flower-soup</i><c>flower soup</c></NS>, and <NS type="RV"><i>talking</i><c>swapping</c></NS> secrets.</p>
+          <p>One day when I <NS type="AGV"><i>were</i><c>was</c></NS> there alone, I heard some other kids <NS type="S"><i>aproting</i><c>approaching</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I sat down behind one of the stones so they <NS type="RV"><i><NS type="S"><i>shoulden't</i><c>shouldn't</c></NS></i><c>couldn't</c></NS> see me. One minute later, Pat and half our <NS type="S"><i>classe</i><c>class</c></NS> <NS type="S"><i>stod</i><c>stood</c></NS> in 'the House' looking and <NS type="S"><i>laufing</i><c>laughing</c></NS> at me and my flower soup.</p>
+          <p><NS type="S"><i>Maby</i><c>Maybe</c></NS> she did it to <NS type="RV"><i>get</i><c>make</c></NS> friends. But in fact that day she had <NS type="IV"><i>loosed</i><c>lost</c></NS> my friendship.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

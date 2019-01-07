@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR779*0100*2000*01">
+  <candidate><personnel><language>German</language><age>51+</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p><NS type="RP"><i>in</i><c>In</c></NS> your letter I received a few days ago, you asked me to give you some more information concerning my <NS type="RN"><i>journey</i><c>trip</c></NS> to the U.S.A.</p>
+          <p>I'm a teacher in Vienna<NS type="RP"><i>, my</i><c>.  My</c></NS> holiday starts on July 1st. For August I booked a <NS type="RN"><i>journey</i><c>trip</c></NS> to Greece with my wife. That's why it would be great if I could make that journey to the U.S. in July.</p>
+          <p>I'm not <NS type="RY"><i>quite</i><c>really</c></NS> a young man and during the <NS type="RJ"><i>past</i><c>recent</c></NS> years of my life I <NS type="TV"><NS type="RV"><i>got</i><c>became</c></NS>have become</NS> <NS type="S"><i>accostomed</i><c>accustomed</c></NS> to <NS type="U"><i>some more</i></NS> comfort. Tents remind me of the time when I was <NS type="RT"><i>at</i><c>in</c></NS> the army - I would prefer <NS type="MD"><c>a</c></NS> log cabin for my stay in the camp.</p>
+          <p>Swimming is an activity I <NS type="TV"><i>do</i><c>have done</c></NS> since I was a boy<NS type="RP"><i>,</i><c>.</c></NS> I still enjoy swimming<NS type="MP"><c>,</c></NS> especially when it's in the sea, although I never took part in <NS type="FN"><i>competition</i><c>competitions</c></NS>, <NS type="RA"><i>that</i><c>which</c></NS> means I <NS type="RV"><i>do</i><c>go</c></NS> swimming just for fun.</p>
+          <p>The other activity I choose is <NS type="RP"><i>Photography</i><c>photography</c></NS>. Usually I <NS type="W"><i>take just</i><c>just take</c></NS> holiday pictures to look at when I'm back home but when I have enough time - sometimes - I like to take pictures that have a slight touch of art....</p>
+          <p>I think there are no more questions<NS type="MP"><c>.</c></NS> I'm looking forward to seeing you.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>I'm the teacher of <NS type="R"><i>that class</i><c>the class in question</c></NS>. The children are seven to eight years old. The video that will be made should demonstrate <NS type="R"><i>how</i><c>what</c></NS> <NS type="MD"><c>a</c></NS> day in school is like.</p>
+          <p>- I start the day by greeting the children and they answer - in English, of course. Then I tell them to sit down.</p>
+          <p>- The first lesson will deal with animals on a farm. I will show pictures of animals and the children will tell me the <NS type="AGN"><i>name</i><c>names</c></NS> of <NS type="SX"><i>that</i><c>the</c></NS> <NS type="AGN"><i>animal</i><c>animals</c></NS>.</p>
+          <p>- Later on we'll <NS type="UV"><i>go</i></NS> <NS type="FV"><i>to sing</i><c>sing</c></NS> the song <NS type="UT"><i>of</i></NS> "Old McDonald had a farm".</p>
+          <p>- The third part of the film will show the children's painting work "Animals on a farm".</p>
+          <p>- Some sequences <NS type="R"><i>of</i><c>featuring</c></NS> the <NS type="RP"><i>gym-lesson</i><c>gym lesson</c></NS> should conclude the part of the film showing the children at work, but there should follow another short part that <NS type="RV"><i>presents</i><c>shows</c></NS> how <NS type="MD"><c>the</c></NS> children have their lunch and spend their <NS type="RP"><i>free-time</i><c>free time</c></NS>, what games they play in the <NS type="RP"><i>school-yard</i><c>schoolyard</c></NS> and how they <NS type="R"><i>have contact</i><c>interact</c></NS> with each other.</p>
+          <p>Each part of the film mentioned above should not be longer than 5 to 10 minutes. The whole film when it's finished will last for about half an hour.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

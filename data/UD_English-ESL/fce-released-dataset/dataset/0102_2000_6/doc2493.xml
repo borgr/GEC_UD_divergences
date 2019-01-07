@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1008*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I <NS type="TV"><i>write</i><c>am writing</c></NS> to you to complain about the dreadful evening I had when I went to see your show at the Circle Theatre <NS type="MT"><c>on</c></NS> the 9th <NS type="SX"><i>june</i><c>June</c></NS>.</p>
+          <p>To start with<NS type="MP"><c>,</c></NS> the famous actors Danny Brook and Tina Truelove didn't perform as <NS type="RV"><i>told</i><c>advertised</c></NS>. They were replaced by some unknown actors who had certainly never performed <NS type="MT"><c>in</c></NS> a musical. If I had only one reason to ask you for my money back; it would be <NS type="RA"><i>the latter</i><c>this</c></NS>.</p>
+          <p>But to add to this I had to <NS type="RV"><i>make</i><c>join</c></NS> a long queue to get a <NS type="MP"><i>full price</i><c>full-price</c></NS> ticket when <NS type="UY"><i>instead</i></NS> I had brought my student card <NS type="RT"><i>on</i><c>for</c></NS> the purpose of getting <NS type="RD"><i>a</i><c>the</c></NS> discount which had been advertised but didn't in fact exist.</p>
+          <p>The show which was to start at 19.30 only began at 20.15 and therefore <NS type="RA"><i>me</i><c>I</c></NS> and my friends weren't able to find a restaurant when we had to because the theatre restaurant was closed <NS type="RT"><i>on</i><c>for</c></NS> sanitary reasons.</p>
+          <p>For this <NS type="DN"><i>deceiving</i><c>disappointment</c></NS> and <NS type="MD"><c>your</c></NS> <NS type="RJ"><i><NS type="DJ"><i>uncorrect</i><c>incorrect</c></NS></i><c>inaccurate</c></NS> advertisement and for all the given reasons, I ask you for <NS type="UJ"><i>an average</i><c>a</c></NS> refund of five pounds per ticket.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. This <NS type="RN"><i>feature</i><c>trait</c></NS> didn't allow you to tell him much about yourself. He wasn't really wicked, he merely didn't understand <NS type="MY"><c>when</c></NS> to keep his mouth shut, especially at school where every little unimportant thing about your <NS type="MP"><i>so called</i><c>so-called</c></NS> "private life" runs three laps around the schoolyard before you learn it although you are the most concerned about it and didn't even know.</p>
+          <p>Well, some people just don't care, some are bothered and feel ill at ease. But <NS type="MD"><c>a</c></NS> small drama can grow <NS type="R"><i>up</i><c>out of proportion</c></NS> as children are very sensitive.</p>
+          <p>There is one point I want to make clear, I don't begrudge Pat anything. I believe this is a rule of society, it's a sort of group behaviour, and belongs to <NS type="UD"><i>the</i></NS> childhood and the teenage <NS type="MN"><c>years</c></NS>. We all speak or have spoken of our neighbours, family, classmates, workmates, friends in bad terms. That is only human.</p>
+          <p><NS type="ID"><i>According to me</i><c>In my opinion</c></NS> what is more <NS type="DJ"><i>to regret</i><c>regrettable</c></NS> is when <NS type="UY"><i>now</i></NS> we <NS type="DN"><i>full-growns</i><c>grown-ups</c></NS> continue <NS type="U"><i>to act with</i></NS> this bad habit. The <NS type="DJ"><i>criticism</i><c>critical</c></NS> spirit has to be preserved but we must keep our secrets. What allows us to reveal parts of someone <NS type="DI"><i><NS type="MP"><i>others</i><c>other's</c></NS></i><c>else's</c></NS> <NS type="RN"><i>privacy</i><c>private life</c></NS><NS type="RP"><i>,</i><c>?</c></NS> <NS type="RP"><i>nothing</i><c>Nothing</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

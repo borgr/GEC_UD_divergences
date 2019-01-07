@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR583*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>In response to your letter that I received last Saturday I am <NS type="IV"><i>writting</i><c>writing</c></NS> to answer your questions.</p>
+          <p>I am very happy that I won this competition. I would like to travel as soon as possible because now I am on holiday. My holidays will finish <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="S"><i>begining</i><c>beginning</c></NS> of September and <NS type="MA"><c>it</c></NS> will be good to travel during this <NS type="RN"><i>time</i><c>period</c></NS>. (August-September).</p>
+          <p>The accommodation I would prefer to stay in <NS type="MV"><c>is</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I like adventures and also I will have more contact with <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>For the time that I will spend there I would like to <NS type="FV"><i>chose</i><c>choose</c></NS> more <NS type="SX"><i>the</i><c>than</c></NS> two activities but I know <NS type="MA"><c>it</c></NS> is not possible so I <NS type="FV"><i>chose</i><c>choose</c></NS> swimming and singing. I <NS type="DY"><i>usualy</i><c>usually</c></NS> sing in my spare time and my friends love <NS type="MA"><c>it</c></NS> when I sing and <NS type="RT"><i>about</i><c>regarding</c></NS> swimming I was champion last year in my city. So, I am quite good.</p>
+          <p>I would like to ask you some questions like <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes <NS type="MV"><c>do</c></NS> I have to <NS type="RV"><i>go</i><c>take</c></NS> with <NS type="MA"><c>me</c></NS>? <NS type="W"><i>Will I need to <NS type="RV"><i>go</i><c>take</c></NS> <NS type="UT"><i>with</i></NS> how much money</i><c>How much money will I need to take</c></NS>? <NS type="W"><i><NS type="AGV"><i>Is</i><c>Are</c></NS> <NS type="S"><i>necessery</i><c>necessary</c></NS> tablets</i><c>Are tablets necessary</c></NS> (for <NS type="S"><i>headach</i><c>headache</c></NS>, insects)? Can I go with a friend?</p>
+          <p>Thank you for your attention.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Introduction</p>
+          <p>This report is going to give us ideas about which lessons and other activities should be filmed <NS type="RT"><i>in</i><c>from</c></NS> our daily life at school.</p>
+          <p>Why <NS type="FV"><i>to film</i><c>film</c></NS> the school?</p>
+          <p>Firstly we should film our school to show how important it is for our <NS type="RN"><i>growing</i><c>development</c></NS>. Secondly, parts of our life<NS type="MP"><c>,</c></NS> like breaks, lunch time, spending time with friends<NS type="MP"><c>,</c></NS> will be good to make the video interesting.</p>
+          <p>Suggesting places to film.</p>
+          <p>A good <NS type="RN">place</NS> <NS type="FV"><i>to be filmed</i><c>to film</c></NS> is our Geography class. The students in this class have lots of freedom to speak and we can travel around the world in one hour and fifteen minutes. <NS type="MA"><i>Is</i><c>It is</c></NS> <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS> how <NS type="UD"><i>the</i></NS> <NS type="S"><i>tecnology</i><c>technology</c></NS> <NS type="AGV"><i>make</i><c>makes</c></NS> things so easy. Also we should film our sports class because with this we will show how important <NS type="MA"><c>it</c></NS> is to be healthy nowadays.</p>
+          <p>Conclusion</p>
+          <p>To conclude we could film our <NS type="MP"><i>teachers</i><c>teachers'</c></NS> <NS type="AGN"><i>life</i><c>lives</c></NS> too. <NS type="MA"><i>Will</i><c>That will</c></NS> be great because teachers are part of our life and they have to receive all our attention and friendship because <NS type="ID"><i>if are not them</i><c>if it wasn't for them</c></NS> we <NS type="TV"><i>will</i><c>would</c></NS> never grow and learn how to live our lives more <NS type="DY"><i><NS type="IJ"><i>confidents</i><c>confident</c></NS></i><c>confidently</c></NS> and with lots of good experiences that we will never forget.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

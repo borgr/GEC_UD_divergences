@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE90*0100*2001*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>20.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I was really pleased to receive <NS type="UT"><i>at</i></NS> your letter. Unfortunately Richard Brown is ill but I can help you as much as I can. So, I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to reply <NS type="UT"><i>for</i></NS> <NS type="FV"><i>giving</i><c>to give</c></NS> all the information you asked for.</p>
+          <p>Firstly, we've booked Palace Hotel, which is located in Central. The best way to get from the hotel to the conference <NS type="UA"><i>its</i><c>is</c></NS> using <NS type="MD"><c>the</c></NS> tube because it takes only 20 <NS type="AGN"><i><NS type="S"><i>mininute</i><c>minute</c></NS></i><c>minutes</c></NS>. The tube is <NS type="W"><i>2 line</i><c>line 2</c></NS> which is red <NS type="UN"><i>colour</i></NS>. And your <NS type="S"><i>speach</i><c>speech</c></NS> would be better for the end of conference party. I'd suggest you <NS type="FV"><i>to wear</i><c>wear</c></NS> at least, <NS type="MP"><i>semi formal</i><c>semi-formal</c></NS> <NS type="DN"><i>wears</i><c>clothes</c></NS> such as a jacket with <NS type="AGQ"><i>another</i><c>other</c></NS> clothes.</p>
+          <p>Finally, I give you some suggestions <NS type="CE">which could spend for about 3 hours</NS> in the national museum in my area. The museum can be helpful to understand our country's history and art.</p>
+          <p>I look forward to seeing you soon.</p>
+          <p>Yours sincerely, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><i>Computer</i><c>The computer</c></NS> is the most important invention in our life.</p>
+          <p>Some people might say <NS type="UD"><i>the</i></NS> electricity <NS type="MV"><c>is</c></NS> more important than <NS type="MQ"><c>any</c></NS> <NS type="RQ"><i>another</i><c>other</c></NS> <NS type="S"><i>thingh</i><c>thing</c></NS>. It's hard to say which is the most important invention. However, I'd say <NS type="MD"><c>the</c></NS> computer is <NS type="MD"><c>a</c></NS> more amazing invention rather than <NS type="AGQ"><i>another</i><c>other</c></NS> inventions such as the telephone, the car. Recently <NS type="MD"><c>the</c></NS> computer <NS type="RV"><i>is</i><c>has become</c></NS> really necessary and we can't manage to work without them. Not only <NS type="UV"><i>is</i></NS> for bussiness, but also in <NS type="UT"><i>for</i></NS> my life. For instance, when I want to <NS type="S"><i>contanct</i><c>contact</c></NS> <NS type="UT"><i>with</i></NS> <NS type="UT"><i>to</i></NS> my friend, it's quite helpful <NS type="UT"><i>by</i></NS> <NS type="FV"><i>using</i><c>to use</c></NS> e-mail. Before <NS type="MD"><c>the</c></NS> computer had been invented, we couldn't possibly have lots of information easily and we couldn't contact <NS type="UT"><i>with</i></NS> <NS type="UT"><i>to</i></NS> foreign countries at the same time.</p>
+          <p>And also it's time to make new <NS type="FN"><i>system</i><c>systems</c></NS> which makes <NS type="UA"><i>us</i></NS> use easier and more simple, so far more people can enjoy <NS type="FN"><i>computer</i><c>computers</c></NS> <NS type="UY"><i>more</i></NS> than before.</p>
+          <p>Despite <NS type="M"><c>Being an</c></NS> amazing invention, <NS type="RP"><i>some times</i><c>sometimes</c></NS> <NS type="MD"><c>the</c></NS> computer <NS type="RV"><i>makes</i><c>causes</c></NS> <NS type="MD"><c>a</c></NS> big problem, such as <NS type="MD"><c>the</c></NS> millennium bug (some people called <NS type="MA"><c>it</c></NS> <NS type="MD"><c>the</c></NS> "2000 problem"), because <NS type="FN"><i>computer</i><c>computers</c></NS> <NS type="MV"><c>are</c></NS> not flexible enough like a human's brain. However, <NS type="MD"><c>the</c></NS> computer is worth <NS type="FV"><i>to use</i><c>using</c></NS> in our life until <NS type="MD"><c>a</c></NS> more <NS type="DJ"><i>coveniance</i><c>convenient</c></NS> machine <NS type="TV"><i>will be</i><c>is</c></NS> invented.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

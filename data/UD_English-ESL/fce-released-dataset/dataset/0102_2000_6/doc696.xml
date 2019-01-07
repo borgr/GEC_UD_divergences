@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR271*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Saturday, June, 17th</p>
+          <p>Dear M. White,</p>
+          <p>I went to the Circle theatre last week on <NS type="RP"><i>monday</i><c>Monday</c></NS> and I would say that I had a very disappointing evening<NS type="UP"><i>,</i></NS> there.</p>
+          <p>Firstly, <NS type="TV"><i>I've</i><c>I'd</c></NS> read in the advertisement that the actors who were playing that night were D. Brook and T. Truelove. Now you can guess how disappointed I was when I saw that there were different (and worse) actors!</p>
+          <p>Secondly, the musical show started at 20.15 instead of 19.30.. so I had to wait forty-five minutes outside and it was raining cats and dogs!</p>
+          <p>And then I discovered that the discounts were not available for the tickets. Moreover, the theatre restaurant was closed after the show and I was really hungry because I hadn't had my dinner that evening in order to be on time for the show.</p>
+          <p>To sum up, <NS type="RP"><i>It</i><c>it</c></NS> wasn't a "perfect evening out". I'd rather say that it was a catastrophe! And I am really sorry, but consequently I would ask you for some money back. Thank you for considering my request.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Modern technology has <NS type="DY"><i>completly</i><c>completely</c></NS> changed my daily life, which <NS type="TV"><i>became</i><c>has become</c></NS> more comfortable, and easier.</p>
+          <p>For instance, my discman gives me the possibility to listen to music or to the radio everywhere: in the underground, or when I walk in the city. Moreover, it disturbs nobody, and that's great.</p>
+          <p>Another simple example is my mobile telephone; A few years ago, I had to buy a telephone card and then to find a telephone box to call my parents and to tell them that I would be late for dinner, or other stuff like that. Yet my hand phone is in my bag and I <NS type="RV"><i>bring</i><c>take</c></NS> it everywhere.</p>
+          <p>But I think the best technological invention which changed my life is the <NS type="RP"><i>internet</i><c>Internet</c></NS> - Thanks to it, I have <NS type="MD"><c>a</c></NS> hundred friends all over the world and I know many different cultures.</p>
+          <p>All these examples are <NS type="R">very few demonstrations</NS> to show how technology could affect our lives nowadays. <NS type="ID"><i>In my point of view</i><c>In my opinion</c></NS>, modern technology is a great thing unless it is used to serve bad intentions.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

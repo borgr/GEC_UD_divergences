@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR550*0102*2000*02">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Jane Clark</p>
+          <p>Organizer of <NS type="MD"><c>the</c></NS> International Arts Festival</p>
+          <p>Dear <NS type="R"><i>Sir</i><c>Ms Clark</c></NS>,</p>
+          <p><NS type="DD"><i>Mine</i><c>my</c></NS> name is John and I <NS type="TV"><i>have been</i><c>went</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> the latest International Arts Festival. The purpose of this letter is just to let you know my opinion of the event.</p>
+          <p>First, I would like to congratulate you <NS type="RT"><i>for</i><c>on</c></NS> the success you have been having year after year. Nevertheless, I have some suggestions that may be <NS type="RJ"><i>profitable</i><c>useful</c></NS> for next year's <NS type="RP"><i>Festival</i><c>festival</c></NS>.</p>
+          <p>The artists you brought were only from six different countries, so I think <NS type="W"><i>you should next time</i><c>next time you should</c></NS> try to <NS type="RV"><i>offer</i><c>invite</c></NS> <NS type="UA"><i>us</i></NS> people from more <NS type="UJ"><i>different</i></NS> nationalities, to make it more interesting than it is already.</p>
+          <p>Moreover, I have been thinking about changing the location because, as you probably already know, some concert halls were not big enough to let everybody who wanted <NS type="FV"><i>go</i><c>to go</c></NS> in.</p>
+          <p>Finally, I <NS type="W"><i>just would</i><c>would just</c></NS> like to <NS type="RV"><i>recommend</i><c>ask</c></NS> you not to give up showing movies<NS type="UP"><i>,</i></NS> during the <NS type="RP"><i>Festival</i><c>festival</c></NS> because the crowds were <NS type="RJ"><i>amazed</i><c>thrilled</c></NS> with <NS type="RA"><i>that</i><c>them</c></NS>, and keep on offering the current prices, one of the best <NS type="AGN"><i>deal</i><c>deals</c></NS> for us, the spectators.</p>
+          <p>If you would like to talk about my suggestions, please, do not hesitate <NS type="M"><c>to get in touch</c></NS> and let me know.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Independent Student Magazine</p>
+          <p>Here is my article.</p>
+          <p>There are many ways to earn money, <NS type="RY"><i>specially</i><c>especially</c></NS> in a big city, like the one where we are <NS type="IV"><i>studing</i><c>studying</c></NS> all year around. Some examples could be delivering pizzas or newspapers, working as a bartender <NS type="RT"><i><NS type="S"><i>throug</i><c>through</c></NS></i><c>at</c></NS> <NS type="UD"><i>the</i></NS> <NS type="FN"><i>nights</i><c>night</c></NS>, cleaning services, etc. I usually call these jobs <NS type="RJ"><i>non- <NS type="S"><i>cualified</i><c>qualified</c></NS></i><c>unskilled</c></NS> positions.</p>
+          <p>I think, <NS type="R"><i>as a <NS type="S"><i>consecuence</i><c>consequence</c></NS></i><c>therefore</c></NS>, that there is no difficulty in finding a job for our spare time. What <NS type="UA"><i>it</i></NS> really makes us, the students, upset, is <NS type="FV"><i>to find</i><c>finding</c></NS> the perfect job.</p>
+          <p>To be more <NS type="DJ"><i>technically</i><c>technical</c></NS> and <NS type="DJ"><i>specifically</i><c>specific</c></NS>, we need a very flexible job, <NS type="S"><i>wich</i><c>which</c></NS> gives <NS type="MA"><c>us</c></NS> independence and <NS type="AGV"><i>allow</i><c>allows</c></NS> us to stop working when we are not able to, for example during the exams period.</p>
+          <p>Moreover, and I know that that point is not easy, although we are still students, the most suitable job for us <NS type="RV"><i>should</i><c>would</c></NS> be a position related <NS type="RT"><i>with</i><c>to</c></NS> our <NS type="RN"><i><NS type="S"><i>carreer</i><c>career</c></NS></i><c>degree</c></NS>. Next year I expect <NS type="UA"><i>myself</i></NS> <NS type="FV"><i>finishing</i><c>to finish</c></NS> my studies in LAW. And by that time I will <NS type="W"><i>have already</i><c>already have</c></NS> some experience, so that I will <NS type="W"><i>more easily <NS type="MV"><c>be</c></NS> able to apply</i><c>be able to apply more easily</c></NS> for a really good job.</p>
+          <p>So, <NS type="RP"><i>Why</i><c>why</c></NS> don't we think more about the future, instead of being upset <NS type="RT"><i>of</i><c>about</c></NS> how to get some money to <NS type="RV"><i>spend</i><c>pay for</c></NS> <NS type="MD"><c>the</c></NS> next party?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

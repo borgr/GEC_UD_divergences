@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR406*0102*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Miss Clark,</p>
+          <p>I have recently taken part in your International Arts Festival. I <NS type="IV"><i>enjoyied</i><c>enjoyed</c></NS> it and here are some <NS type="RN">feelings</NS> and advice for next year.</p>
+          <p>First of all, it was a great idea to put together different countries to organise this <NS type="RP"><i>Festival</i><c>festival</c></NS>. However, there were only artists from six countries, not <NS type="MQ"></NS> as written in your <NS type="L"><i><NS type="SX"><i>add</i><c>ad</c></NS></i><c>advertisement</c></NS>.</p>
+          <p><NS type="UY"><i>Then</i></NS> I had <NS type="MD"><c>the</c></NS> pleasure <NS type="MT"><c>of</c></NS> listening to your variety of concerts. Each one was fantastic <NS type="CE">and fill in with euration</NS>, but I'd appreciate more <NS type="RN"><i>place</i><c>space</c></NS>, because unfortunately some concert halls were too small!</p>
+          <p>You certainly saw that <NS type="MD"><c>the</c></NS> plays and films had a lot of success. So, I wanted to know if there will be more films next year. It could be an <NS type="RN">advantage</NS>!</p>
+          <p><NS type="RP"><i>An other</i><c>Another</c></NS> excellent thing was your choice for the <NS type="RN">entry</NS>. That was a great idea to have just one ticket for all events. That was simpler than <NS type="RD"><i>an</i><c>the</c></NS> other way of selling tickets (practical and <NS type="RJ">attractive</NS>).</p>
+          <p>Finally, I want <NS type="UA"><i>you</i></NS> to make a suggestion for next year. It would be better if people <NS type="TV"><i>have had</i><c>had</c></NS> the <NS type="RN"><i>possibility</i><c>chance</c></NS> to <NS type="RV"><i>let</i><c>park</c></NS> their cars very near to the <NS type="RP"><i>Festival</i><c>festival</c></NS> during the <NS type="UP"><i>week-end</i><c>weekend</c></NS>!</p>
+          <p>I am sure you'll pay attention to my suggestions and advice and I am looking forward to seeing you next year.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Mark and his family decided to go for a walk in the Alps. So, <NS type="AGD"><i>her</i><c>his</c></NS> father prepared the car and <NS type="AGD"><i>her</i><c>his</c></NS> mother took some food for the journey.</p>
+          <p><NS type="RA"><i>That</i><c>It</c></NS> was a Sunday and, as always, Mark was very excited. He was very keen on going <NS type="RT"><i>in</i><c>to</c></NS> the mountains.</p>
+          <p>Suddenly, the father stopped and said: "Here we are!" They were near a little house<NS type="UP"><i>,</i></NS> built <NS type="RT"><i>in</i><c>of</c></NS> wood and began walking. The sun was shining and Mark was really happy to be outside with his family.</p>
+          <p>They ate with the owner of the little house, whose name was John. It was very quiet because they were in <NS type="MD"><c>the</c></NS> <NS type="RN"><i>nature</i><c>countryside</c></NS>; they could just hear <NS type="MD"><c>the</c></NS> cows and John's two dogs.</p>
+          <p>Mark was very interested in building small things with John. He was able to make different objects <NS type="RT"><i>in</i><c>out of</c></NS> wood.</p>
+          <p>After that, <NS type="MP"><i>marks</i><c>Mark's</c></NS> father<NS type="MP"><c>,</c></NS> who <NS type="RV"><i>had</i><c>spoke</c></NS> fluent traditional Swiss language<NS type="MP"><c>,</c></NS> spent time with an old woman he had just met near the house.</p>
+          <p>After eating old cheese and Swiss chocolate, <NS type="RA"><i>that</i><c>it</c></NS> was high time Mark's family went back home.</p>
+          <p>Mark was <NS type="DY"><i>such</i><c>so</c></NS> happy but very exhausted to <NS type="RV">recognize</NS> this story<NS type="MP"><i> nevertheless</i><c>. Nevertheless</c></NS> this story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR55*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir or Madam,</p>
+          <p>I am just coming back from a week's holiday in London, which has been all in all really nice. The only thing which really <NS type="S"><i>disapointed</i><c>disappointed</c></NS> me was a visit <NS type="RT"><i>in</i><c>to</c></NS> your theatre where I wanted to see the musical 'over the rainbow', after I read the advertisement for the show.</p>
+          <p>The things that really <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> me were that you said Danny Brook and Tina Truelove were <NS type="UV"><i><NS type="S"><i>suposed</i><c>supposed</c></NS> to be</i></NS> the actors but they weren't, different actors played and to be honest they made the <NS type="SX"><i>hole</i><c>whole</c></NS> show very bad. Also the show was supposed to start at 19.30 but <NS type="W"><i>finally it</i><c>it finally</c></NS> started at 20.15 and that is such a waste of <NS type="IQ"><i>others</i><c>other</c></NS> <NS type="MP"><i>people</i><c>people's</c></NS> time. Another thing was that you said discounts are available<NS type="MP"><c>,</c></NS> which is very important for students, but no<NS type="MP"><c>,</c></NS> <NS type="SX"><i>their</i><c>there</c></NS> weren't any. Also after the show your restaurant was closed because <NS type="SX"><i>their</i><c>there</c></NS> <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> enough staff.</p>
+          <p>To be honest that was not a great <NS type="S"><i>expierence</i><c>experience</c></NS> and I hope you will see my point. In that case I also want to ask you for my money back. I think you will understand that and <NS type="MA"><c>I</c></NS> <NS type="MV"><c>am</c></NS> looking forward to hearing from you.</p>
+          <p>Yours faithfully</p>
+          <p>T. Herschel</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Since everyone can afford modern technology <NS type="W"><i>the life of everyone</i><c>everyone's life</c></NS> in the more developed countries has changed <NS type="DY"><i>completly</i><c>completely</c></NS>. We can't imagine <NS type="FV"><i>to live</i><c>living</c></NS> without it anymore because we are so dependent <NS type="RT"><i>of</i><c>on</c></NS> it.</p>
+          <p>It starts <NS type="UY"><i>already</i></NS> in the morning <NS type="SX"><i>that</i><c>when</c></NS> we <NS type="TV"><i>wake</i><c>are woken</c></NS> up by the sound of an alarm clock, <NS type="SX"><i>than</i><c>then</c></NS> in the bathroom we have running hot water and also the <NS type="SX"><i>hole</i><c>whole</c></NS> house is warm due to central heating. Then we can just go to the fridge where all the fresh food is stored ready to eat. If we <NS type="SX"><i>than</i><c>then</c></NS> want to go to work we don't have to get our horse, no, we get the car keys and go <NS type="RP"><i>where ever</i><c>wherever</c></NS> we want to. At work we have the most important thing in the world of technology, the computer. Without that we <NS type="TV"><i>can't</i><c>couldn't</c></NS> do anything today.</p>
+          <p>So in the last century our daily life <NS type="TV"><i>changed</i><c>has changed</c></NS> <NS type="DY"><i>dramandesly</i><c>dramatically</c></NS> and we <NS type="TV"><i>became</i><c>have become</c></NS> lazy and our life <NS type="DJ"><i>unpersonal</i><c>impersonal</c></NS>, fast and unromantic. <NS type="RP"><i>Noone</i><c>No one</c></NS> can think about a life without <NS type="RN"><i>commuters</i><c>computers</c></NS> or electricity. But we can't say the new technology has <NS type="W"><i>done just</i><c>just done</c></NS> bad things in our life because otherwise we couldn't have made such progress in all the sciences and other subjects</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

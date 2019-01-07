@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR925*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Thank you for <NS type="RD"><i>your</i><c>the</c></NS> effort<NS type="UP"><i>,</i></NS> which you have made to organize this <NS type="DJ"><i>three days</i><c>three-day</c></NS> <NS type="S"><i>programm</i><c>programme</c></NS> in London and I am sure that we will have a great time there<NS type="MP"><c>,</c></NS> especially in the National Art Gallery.</p>
+          <p>Nevertheless, the students in my class have some suggestions for you <NS type="MT"><c>concerning</c></NS> how to make it even more interesting. The thing is that we have seen an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the London Fashion and Leisure Show. It will be held in <NS type="MD"><c>the</c></NS> Central Exhibition Hall in London on Tuesday, 14th of March, from 10.00 to 19.00. Naturally, all the students are interested in it because the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles will be shown there. <NS type="S"><i>Futhermore</i><c>Furthermore</c></NS>, students can enter free!</p>
+          <p>We are concerned that this is a great and the <NS type="RJ"><i>only</i><c>unique</c></NS> opportunity for us to see this show, as it takes place only once a year and only in London. Certainly, we do not refuse to take part in other activities in London. Probably, you will agree <NS type="UY"><i>just</i></NS> to <NS type="RV">put</NS> <NS type="MD"><c>the</c></NS> London Fashion and Leisure Show instead of <NS type="MD"><c>the</c></NS> Science Museum and shopping on Tuesday.</p>
+          <p>Thank you for your <NS type="S"><i>attenlion</i><c>attention</c></NS> and understanding.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>The Home of the Future</p>
+          <p>Dear Reader,</p>
+          <p>I have decided to describe my home of the future or, in other words, the place where people will live in 100 years.</p>
+          <p>Well, I suppose that almost everything in <NS type="MD"><c>our</c></NS> future house will be automatic and will <NS type="RV"><i>obey</i><c>respond</c></NS> to what people say. Perhaps, there will be personal computers<NS type="UP"><i>,</i></NS> which will control <NS type="RP"><i>every thing</i><c>everything</c></NS>, every item of <NS type="S"><i>furiture</i><c>furniture</c></NS>, light, temperature. Moreover, they will be able to create a special climate for each room. But, on the other hand, people will still have to <NS type="S"><i>programm</i><c>programme</c></NS> them, as they have to do nowadays. Maybe children will not have to go to school, they <NS type="W"><i>just will</i><c>will just</c></NS> stay in their rooms and study <NS type="RT"><i>from</i><c>on</c></NS> <NS type="MD"><c>a</c></NS> computer, <NS type="MV"><c>gaining</c></NS> some kind of on-line education. All the rubbish, dust, dirty dishes, plates, <NS type="RN"><i>caps</i><c>cups</c></NS> will be <NS type="CL"><i>washed and cleaned</i><c>washed</c></NS> <NS type="DY"><i>automaticly</i><c>automatically</c></NS>. It is possible that only one computer will do <NS type="W"><i>this all</i><c>all this</c></NS> and it will have its own personality, voice, eyesight..</p>
+          <p>This will be your home, another member of your family and your house or flat <NS type="RY"><i>together</i><c>as well</c></NS>.</p>
+          <p>This is my <NS type="RN"><i>opinion</i><c>vision</c></NS> of the Home of the Future and I wish I could live in it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

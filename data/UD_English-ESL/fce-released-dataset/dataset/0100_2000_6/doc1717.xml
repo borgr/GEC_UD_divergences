@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR679*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I'm writing to you with regard to the letter I've just received as I wish to give you some further information about myself.</p>
+          <p>I would rather travel <NS type="RT"><i>on</i><c>in</c></NS> July because I'm not as busy as <NS type="RT"><i>on</i><c>in</c></NS> June or August and because in my opinion during July there's excellent weather.</p>
+          <p>Regarding the accommodation<NS type="MP"><c>,</c></NS> I would prefer a log cabin because in my opinion tents are very uncomfortable to sleep <NS type="MT"><c>in</c></NS> and they aren't very <NS type="SA"><i>cozy</i><c>cosy</c></NS>.</p>
+          <p>Regarding the activities<NS type="MP"><c>,</c></NS> I've chosen swimming as I'm very keen on it and I'm fairly good at it, <NS type="RC"><i>but</i><c>and</c></NS> I expect the water to be <NS type="UT"><i>as</i></NS> crystal clear. I've also chosen singing. I'm an awful singer, but I would like to learn.</p>
+          <p>I would like to ask you for vegetarian food for me as I am a very <NS type="S"><i>extrict</i><c>strict</c></NS> vegan, and to suggest <NS type="UA"><i>me</i></NS> what kind of clothes to bring.</p>
+          <p>I'm really looking forward to my stay at Camp California and to your <NS type="RN"><i>response</i><c>reply</c></NS> <NS type="U"><i>in this regard</i></NS>.</p>
+          <p>Yours sincerely,</p>
+          <p>Nuria</p>
+          <p>Valverde.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Have you ever asked yourself which lessons or activities should be filmed in the school video? Well, I've just polled some students and here are their responses.</p>
+          <p>70% of students think we should film the Speech and Drama lesson because <NS type="MA"><c>it</c></NS> is one of the lessons they enjoy the most.</p>
+          <p>The vast majority say Maths and History should be filmed too, because they love these subjects and think they are very interesting and are also great fun.</p>
+          <p>60% of students say breaks should be filmed too, because they want to show in the video <NS type="MC"><c>that</c></NS> they can also have fun at school.</p>
+          <p>Most of them said Science, English and Literature shouldn't be filmed because they are not very interesting and are <NS type="UY"><i>also</i></NS> very boring.</p>
+          <p>In my opinion I think basketball should be filmed too because <NS type="MA"><c>it</c></NS> is one of the activities the students are very keen on doing and they usually enjoy it.</p>
+          <p>But I don't think we should film breaks, because in my opinion everyone knows <NS type="R"><i>how</i><c>what</c></NS> breaks are <NS type="MT"><c>like</c></NS> and what students do during them.</p>
+          <p>In a <NS type="S"><i>nutchel</i><c>nutshell</c></NS> I think Maths, basketball, Speech and Drama, and History should be filmed.</p>
+          <p>Nuria Valverde.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

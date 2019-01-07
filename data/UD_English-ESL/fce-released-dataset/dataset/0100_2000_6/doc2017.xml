@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR809*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>&lt;16</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan, the competition Organiser,</p>
+          <p>I have recently <NS type="S"><i>recieved</i><c>received</c></NS> your letter <NS type="MV"><c>saying</c></NS> that I have won the first prize in the competition. It was very <NS type="S"><i>fortuanate</i><c>fortunate</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> me.</p>
+          <p>I would like to go to Camp California in the USA only in July as it is my summer holidays <NS type="MY"><c>then</c></NS>. It will be convenient for me then because I have two <NS type="MP"><i>months</i><c>months'</c></NS> holiday.</p>
+          <p>I would like to do Tennis and Photography. I am in the <NS type="W"><i>team for tennis</i><c>tennis team</c></NS> at school and I have played against <NS type="RJ"><i>different</i><c>various</c></NS> other schools before. I also enjoy photography. I am doing this subject for my <NS type="FN"><i>G.C.S.E.</i><c>G.C.S.E.s</c></NS> so it would be very helpful for me to practise.</p>
+          <p>About the accommodation at the Camp, I would like to stay in tents because I love to be outside and I like dangerous adventures. I can also then wake up in the morning and take photographs of the wonderful <NS type="CN"><i>sceneries</i><c>scenery</c></NS>.</p>
+          <p>I would like to ask you about what kind of clothes I have to bring and how much money I have <NS type="FV"><i>bring</i><c>to bring</c></NS>. Will there be any shops? Please could you send me an <NS type="S"><i>itenerary</i><c>itinerary</c></NS> of the trip? Thank you very much.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I think that shopping can be both enjoyable and unenjoyable because sometimes the shops are full of people, especially at the weekends<NS type="MP"><c>,</c></NS> which normally is the only <NS type="S"><i>appropreaite</i><c>appropriate</c></NS> time! Not only <NS type="W"><i>shops are</i><c>are shops</c></NS> crowded with people, the changing rooms have enormous <NS type="FN"><i>queue</i><c>queues</c></NS>. The clothes are quite expensive and they are never your size. These things can be very annoying but there is a good side <NS type="RT"><i>of</i><c>to</c></NS> 'shopping'.</p>
+          <p>I, personally<NS type="MP"><c>,</c></NS> enjoy shopping very much. I like to look at the beautiful clothes and I dream of wearing them. I find that shopping is <NS type="UD"><i>a</i></NS> very good exercise as well! By the time you have completed the whole High Street, you will be out of breath.</p>
+          <p>I do agree that shopping is not always enjoyable because of crowded shops and the price of clothes but I am sure that the majority of people do like shopping and I am sure that in the future<NS type="UP"><i>,</i></NS> there will be no more crowded streets because of the '<NS type="RP"><i>internet</i><c>Internet</c></NS><NS type="MP"><c>,</c></NS>' <NS type="MT"><c>on</c></NS> which you can order <NS type="DY"><i>onlines</i><c>online</c></NS>. Maybe we will have robots to do the shopping for us in the future!</p>
+          <p>We all just have to wait and see...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

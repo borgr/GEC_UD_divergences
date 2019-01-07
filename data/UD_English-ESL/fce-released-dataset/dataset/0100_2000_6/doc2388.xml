@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR961*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to you in reply to your letter.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I want to <NS type="RV"><i>give</i><c>thank</c></NS> you <NS type="U"><i>the thanks</i></NS> for this prize. I am very excited because I have never won a prize. I have never been <NS type="RT"><i>in</i><c>to</c></NS> the USA, so I think that this <NS type="RN"><i>travel</i><c>trip</c></NS> will be an <NS type="DJ"><i>unforgetable</i><c>unforgettable</c></NS> experience.</p>
+          <p>Secondly, I <NS type="TV"><i>will</i><c>would</c></NS> like to tell you that I can only travel in July because in June I have to take my final exams at school. In August I have to be in Madrid because I am going to work as a trainee in a travel agency. After <NS type="RP"><i>august</i><c>August</c></NS> I must return to school, so I can only go to California in July.</p>
+          <p>I would prefer to stay in a tent because I like <NS type="W"><i>very much <NS type="UD"><i>the</i></NS> nature</i><c>nature very much</c></NS><NS type="MP"><c>,</c></NS> and camping, so I think that I will be better in a tent than in a log cabin.</p>
+          <p>Although all the activities that you mention are very interesting, I prefer swimming and tennis. I think that I am very good <NS type="RT"><i>in</i><c>at</c></NS> swimming. I won a local competition when I was seventeen. I am not so good <NS type="RT"><i>in</i><c>at</c></NS> tennis because I began to play only two years ago. Finally, I would like to ask you how the weather will be in July and <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes I have to wear. Furthermore, I would like to know <NS type="R">the money</NS> <NS type="UC"><i>that</i></NS> I have to take and <NS type="RQ"><i>which</i><c>what</c></NS> amount of money is normally spent in the camp. I look <NS type="S"><i>foward</i><c>forward</c></NS> to receiving your reply.</p>
+          <p>Yours sincerely,</p>
+          <p>Silvia Torroja.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>In my opinion the statement 'Shopping is not always enjoyable' is totally true.</p>
+          <p>An argument in favour of this statement is that shopping is very tiring. You can be walking for hours and finally you can't find anything that you like.</p>
+          <p>Also, you can spend hours trying to decide between a wonderful blue <NS type="M"><c>pair of</c></NS> trousers or a beautiful black dress, for example.</p>
+          <p>I think that shopping is even more boring when you go with a friend and you have to give her some advice. It can be a very stressful situation because <NS type="UT"><i>in</i></NS> <NS type="DY"><i>some moments</i><c>sometimes</c></NS> you don't know what to say.</p>
+          <p>In my opinion shopping could be a 'dangerous' activity because you may spend more money <NS type="RT"><i>in</i><c>on</c></NS> some clothes <NS type="SX"><i>that</i><c>than</c></NS> you can afford. I know people who are overdrawn because of shopping. Despite shopping <NS type="FV"><i>is</i><c>being</c></NS> boring<NS type="MP"><c>,</c></NS> I think that it is necessary because it is important for people to have several <NS type="R"><i>clothes</i><c>items of clothing</c></NS> and also suitable clothes for a very important meeting or appointment.</p>
+          <p>So, shopping is not enjoyable, but necessary.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

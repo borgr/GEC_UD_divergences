@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1034*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I, as a head member of the students who participate in this year's trip to London, would like to thank you for the excellence of the programme you have <NS type="RV"><i>developed</i><c>planned</c></NS> for us.</p>
+          <p><NS type="RY"><i>Specially</i><c>In particular</c></NS>, I would have to name the great opportunity you offer to us with the visit to the National Art Gallery which is one of the most important art galleries <NS type="RT"><i>all around</i><c>in</c></NS> the world.</p>
+          <p><NS type="W"><i>Being London</i><c>London being</c></NS> one of the most multicultural, multiracial cities, we cannot avoid the fact that <NS type="SX"><i>is</i><c>in</c></NS> these days The London Fashion And Leisure Show takes place in the Central Exhibition Hall (Tuesday March 14th) 10:00-19:00.).</p>
+          <p>Based on this I would like to suggest minor changes <NS type="RT"><i>in</i><c>to</c></NS> the fabulous Programme you have offered. These changes will not affect the <NS type="RN"><i>contacts</i><c>contents</c></NS> of the programme itself.</p>
+          <p>The suggestion is to move the Tuesday shopping to Wednesday afternoon, which is free, and place there the visit to the London Fashion And Leisure Show, that is, on Tuesday afternoon.</p>
+          <p>I also would like to remark that this change does not <NS type="DV"><i>increment</i><c>increase</c></NS> the cost of the trip, because the London Fashion And Leisure Show is free for students.</p>
+          <p>I want to thank you<NS type="MP"><c>,</c></NS> Sir<NS type="MP"><c>,</c></NS> for your time.</p>
+          <p>Best Regards,</p>
+          <p>The London Trip Group</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>"It was dangerous, but I knew I had to do it." Nowadays I remember those exciting days in which danger <NS type="TV"><i>is</i><c>was</c></NS> knocking at your door every day. It was 20 years ago <NS type="MC"><c>and</c></NS> we <NS type="TV"><i>were</i><c>had been</c></NS> friends since <NS type="M"><c>we were</c></NS> 10. In those days we <NS type="TV"><i>decide</i><c>decided</c></NS> to be friends forever and work for <NS type="UD"><i>the</i></NS> NASA.</p>
+          <p>I remember it as if it were yesterday. We were both 18, and we had the university access test already done. The problem was that both of us wanted to go to the same university, the NASA university in Houston (Texas). Of course we hadn't got enough points in the test to do it <NS type="UY"><i>so</i></NS>.</p>
+          <p>So, <NS type="U"><i>that,</i></NS> we decide to access our <NS type="MP"><i>school</i><c>school's</c></NS> Main database and change our test results. This way we could obtain <NS type="RJ"><i>seldom</i><c>rare</c></NS> places at NASA university.</p>
+          <p>The task was not easy, <NS type="RT"><i>with</i><c>at</c></NS> 18 you don't know too much about cryptographic <NS type="S"><i>algoritms</i><c>algorithms</c></NS> and databases but anyway we decided to do it<NS type="MP"><i> there</i><c>. There</c></NS> was nothing to lose.</p>
+          <p>It took us two weeks to modify the results in a very complex operation in which we should take care of <NS type="IV"><i>hiding</i><c>hiding</c></NS> all our fingerprints.</p>
+          <p>The <NS type="S"><i>operation</i><c>operation</c></NS> was successful. Both of us went to the NASA university and nowadays we work for the CIA developing secure <NS type="FN"><i>system</i><c>systems</c></NS> and new <NS type="DN"><i>encryptation</i><c>encryption</c></NS> algorithms.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

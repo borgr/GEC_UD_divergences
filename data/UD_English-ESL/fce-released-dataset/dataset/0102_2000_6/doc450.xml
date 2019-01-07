@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR180*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="UD"><i>the</i></NS> manager</p>
+          <p>My name is Sally Smith. I went to see a musical show last Wednesday. I had a very disappointing evening.</p>
+          <p>In the advertisement you said "Danny Brook" is the actor but it wasn't <NS type="MA"><c>him</c></NS>. It was somebody else. I went to see the show because I like Danny Brook. The person that <NS type="RV"><i>played</i><c>appeared</c></NS> instead of Denny was not very good.</p>
+          <p>The show <NS type="TV"><i><NS type="S"><i>supposted</i><c>supposed</c></NS></i><c>was supposed</c></NS> to start at 19.30 pm but it started at 20.15 pm. It was very late. We had to wait nearly an hour. Staff did not tell us why it started late.</p>
+          <p>When I bought tickets, they <NS type="R">did not discount</NS> at all. I asked them about discounts because I <NS type="RV"><i>saw</i><c>read</c></NS> <NS type="M"><c>about them</c></NS> in the advertisement.</p>
+          <p>They ignored me. We bought tickets without <NS type="MD"><c>a</c></NS> discount. I don't know <NS type="RC"><i>that</i><c>whether</c></NS> they <NS type="MV"><c>offered</c></NS> <NS type="MD"><c>a</c></NS> discount <NS type="RT"><i>for</i><c>to</c></NS> somebody else or not.</p>
+          <p>After the show we went to the theatre restaurant but it <NS type="MV"><c>was</c></NS> closed. It closed at 11 pm. It was not our fault that we went in after 11 pm. The show finished late. The restaurant should <NS type="MV"><c>stay</c></NS> open until the show <NS type="AGV"><i>finish</i><c>finishes</c></NS>.</p>
+          <p>It was not a perfect evening at all. Could I please have my money back? It was £60 for <NS type="MD"><c>the</c></NS> tickets. I was very disappointed about this. I am looking forward to hearing from you.</p>
+          <p>Yours <NS type="S"><i>sinecerely</i><c>sincerely</c></NS></p>
+          <p>Sally. Smith.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She is one of my <NS type="AGN"><i>friend</i><c>friends</c></NS> at school. She is very nice, clever, polite and friendly. Everybody <NS type="AGV"><i>love</i><c>loves</c></NS> her. If you have any problems, she can give you some <NS type="FN"><i>suggestion</i><c>suggestions</c></NS>. If you want her to keep <NS type="AGA"><i>it</i><c>them</c></NS> <NS type="IJ"><i>secrets</i><c>secret</c></NS>, do not tell her. She <NS type="TV"><i>is not keeping</i><c>cannot keep</c></NS> secrets. This is her bad point. She always tells someone else about it.</p>
+          <p>Last week, Tim told Pat about his serious problem. He wanted Pat to keep it between them but Pat did not keep <NS type="AGD"><i>his</i><c>her</c></NS> promise. She told us about it. When Tim found out that we knew his problem and <NS type="MA"><c>we</c></NS> tried to help him<NS type="RP"><i>. He</i><c>, he</c></NS> was very angry with Pat. He <NS type="TV"><i>wasn't</i><c>won't</c></NS> talk to Pat at all. Basically, Tim did not know that Pat was not very good at keeping secrets.</p>
+          <p>She <NS type="TV"><i>did</i><c>does</c></NS> not know <NS type="R">when she can speak or not speak</NS>. We <NS type="MV"><c>are</c></NS> so <NS type="DJ"><i>worry</i><c>worried</c></NS> about her <NS type="U"><i>in the</i></NS> future. She has not a lot of <NS type="AGN"><i>friend</i><c>friends</c></NS> because of this <NS type="RN">point</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

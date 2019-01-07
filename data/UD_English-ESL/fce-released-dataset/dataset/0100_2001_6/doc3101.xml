@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE55*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>36.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>Thank you very much for your letter. I <NS type="TV"><i>would</i><c>will</c></NS> be very pleased if I can help you <NS type="R"><i>answering</i><c>with</c></NS> all your enquiries.</p>
+          <p>The hotel which your students' group has been booked into is the Palace Hotel. It is fairly easy to get there from the conference. I would <NS type="FV"><i>suggested</i><c>suggest</c></NS> you <NS type="FV"><i>to walk</i><c>walk</c></NS> along New Street, which is the one next to <NS type="MD"><c>the</c></NS> river, and in 10 minutes you will see the hotel <NS type="RT"><i>in</i><c>on</c></NS> your <NS type="MP"><i>right hand</i><c>right-hand</c></NS> side. The hotel is just opposite <NS type="UT"><i>to</i></NS> the City Hospital.</p>
+          <p>As you <NS type="W"><i>already possibly</i><c>possibly already</c></NS> know, the end-of-conference party will take place <NS type="RT"><i>at</i><c>in</c></NS> the main reception room at the same hotel. You should be there by 7 o'clock in the evening. <NS type="FV"><i>Answering</i><c>To answer</c></NS> your question, you should be fine wearing casual clothes. However, if you wish to dress smarter, there is no problem at all.</p>
+          <p>With reference to the last afternoon, if I were you I would visit the City Museum. There are many interesting works of art by famous painters of this country. If you have any time left you ought to go to the High Street, where you could go shopping.</p>
+          <p>Please, do not hesitate to contact me at the above address if you need any further information.</p>
+          <p>I look forward to meeting you at the Conference.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>INVENTIONS HAVE AFFECTED ALL OUR LIVES!</p>
+          <p><NS type="W"><i>The invention without <NS type="RQ"><i>no</i><c>any</c></NS> doubt</i><c>Without any doubt the invention</c></NS><NS type="UP"><i>,</i></NS> that has affected my own life <NS type="RY"><i>by far</i><c>the most</c></NS> is the car. Cars have definitely changed all our lives, and I am not <NS type="RV"><NS type="IV"><i>refering</i><c>referring</c></NS></NS> only in a positive way, but in a negative way as well. Picture this: a big city such as London or New York with no cars on their streets. <NS type="TV"><i>Could</i><c>Can</c></NS> you imagine it? To be honest, I can't. Cars are part of our daily lives. Traffic jams make people <NS type="RJ"><i>nervous</i><c>irritable</c></NS>, <NS type="MC"><c>and</c></NS> sometimes really upset and violent. But<NS type="UP"><i>,</i></NS> <NS type="W"><i>anyway, people use cars</i><c>people use cars, anyway</c></NS>.</p>
+          <p>If we don't use them we suffer <NS type="RT"><i>from</i><c>because of</c></NS> them. In my case I use public transport during the week to go to work but I could hardly imagine my weekends without my beloved car. I really need it to escape from the pollution, mainly caused by cars and <NS type="UQ"><i>any</i></NS> other four-wheel <NS type="DJ"><i>motored</i><c>motor</c></NS> <NS type="FN"><i>vehicle</i><c>vehicles</c></NS>. Isn't that <NS type="RJ"><i><NS type="DJ"><i>contradictorious</i><c>contradictory</c></NS></i><c>ironic</c></NS>? To go to the countryside and <NS type="FV"><i>being</i><c>be</c></NS> able to <NS type="DV"><i>breath</i><c>breathe</c></NS> fresh, <NS type="DJ"><i>non-polluted</i><c>unpolluted</c></NS> air, I use my car, which, <NS type="ID"><i>as far as I am concerned</i><c>in my opinion</c></NS><NS type="MP"><c>,</c></NS> does not help to maintain a clean <NS type="RN"><i>air</i><c>atmosphere</c></NS> at all.</p>
+          <p>Therefore I am thinking <NS type="RT"><i>in</i><c>of</c></NS> selling my car, which has changed my life over the last 10 years, which has given me a kind of freedom, which has gone with me to all <NS type="AGN"><i>sort</i><c>sorts</c></NS> of fantastic places, and <NS type="TV"><i>change</i><c>changed</c></NS> my life for a new life: <NS type="S"><i>whithout</i><c>without</c></NS> <NS type="MD"><c>a</c></NS> car.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

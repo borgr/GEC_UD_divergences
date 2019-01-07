@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR657*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="CL"><i>Madam or Sir</i><c>Sir or Madam</c></NS></p>
+          <p>I am writing this letter to complain <NS type="MT"><c>about</c></NS> how terrible the show performed in your theatre was.</p>
+          <p>I was interested in the advertisement <NS type="RT"><i>about</i><c>for</c></NS> the musical show so I went to the theatre to see it two weeks ago. However, I cannot help saying that it was really <NS type="MD"><c>a</c></NS> nightmare.</p>
+          <p>Firstly, you advertised that Danny Brook, who is <NS type="UD"><i>the</i></NS> my <NS type="SA"><i>favorite</i><c>favourite</c></NS>, is <NS type="RD"><i>a</i><c>the</c></NS> <NS type="DN"><i>main-actor</i><c>lead</c></NS> but there was another actor <NS type="S"><i>insted</i><c>instead</c></NS> of him. Furthermore, his performance was really poor.</p>
+          <p>Secondly, it started at 20:15 which was 45 minutes later than on time and there was no discount for the ticket, which is different from the advertisement.</p>
+          <p>Thirdly, the only <NS type="UQ"><i>one</i></NS> restaurant in your theatre was closed because of <NS type="R"><i>renovating it</i><c>renovations</c></NS>.</p>
+          <p>As a result, I had a totally disappointing evening during my holiday. So, I hope that <NS type="RA"><i>you</i><c>i</c></NS> <NS type="RV"><i>should</i><c>will</c></NS> have my money back. I will <NS type="FV"><i>looking</i><c>look</c></NS> forward to your reply.</p>
+          <p>Yours faithfully,</p>
+          <p>TYUNG, SURIPHAT</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>It is certainly true that <NS type="UD"><i>the</i></NS> modern technology has been changing our life a lot <NS type="UT"><i>in</i></NS> these days. But how <NS type="MV"><c>does</c></NS> it affect <NS type="UT"><i>to</i></NS> my daily life? I get up in the morning with the soft sound of <NS type="MD"><c>a</c></NS> radio <NS type="SA"><i>program</i><c>programme</c></NS><NS type="MP"><c>,</c></NS> not the sound of <NS type="MD"><c>an</c></NS> alarm clock and eat my breakfast watching TV news. <NS type="RT"><i>In</i><c>On</c></NS> the bus or even <NS type="RT"><i>in</i><c>on</c></NS> the tube, I can talk with a friend <NS type="RT"><i>with</i><c>via</c></NS> a mobile phone when I feel <NS type="RJ"><i><NS type="S"><i>boaring</i><c>boring</c></NS></i><c>bored</c></NS>. Sometimes I even <NS type="RV"><i>do</i><c>play</c></NS> some games <NS type="RT"><i>with</i><c>on</c></NS> it. <NS type="ID">In accordance with</NS> study or work, I use <NS type="RD"><i>a</i><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, which is the <NS type="IJ"><i>easist</i><c>easiest</c></NS> way to get <NS type="CN"><i>informations</i><c>information</c></NS> <NS type="MT"><c>from</c></NS> all around the world. Furthermore, I can write a letter to my friend who is abroad in such a short time. Without it, it would take more than one week. After comming home, I can make myself relaxed with the smooth sound of classical music from the Hi-Fi. In conclusion, modern technology affects <NS type="W"><i>a lot <NS type="UT"><i>to</i></NS> my daily life</i><c>my daily life a lot</c></NS> as well as the whole society. And in my opinion the <NS type="RN"><i>amount</i><c>extent</c></NS> of <NS type="UP"><i>it's</i><c>its</c></NS> <NS type="RN"><i>affection</i><c>affect</c></NS> <NS type="RT"><i>to</i><c>on</c></NS> <NS type="UD"><i>the</i></NS> human life <NS type="TV"><i>would</i><c>will</c></NS> be more than this in the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

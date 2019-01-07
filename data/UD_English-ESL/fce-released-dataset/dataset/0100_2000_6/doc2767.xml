@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1122*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan</p>
+          <p>I <NS type="S"><i>recived</i><c>received</c></NS> your letter recently, and I am really happy <NS type="FV"><i>learning</i><c>to learn</c></NS> that I <NS type="TV"><i>won</i><c>have won</c></NS> the first prize. So, I am writing to you to answer your questions.</p>
+          <p>First of all, I have to tell you that my only chance <NS type="AS"><i>is go there</i><c>to go there is</c></NS> in July<NS type="RP"><i>,</i><c>;</c></NS> <NS type="AS"><i>it does not matter the dates</i><c>the dates do not matter</c></NS>, but it is important for me to be back before the 1st of August, because that day I will start a summer job.</p>
+          <p>About <NS type="SX"><i>he</i><c>the</c></NS> <NS type="S"><i>acommodation</i><c>accommodation</c></NS> during those two weeks, I would rather <NS type="FV"><i>staying</i><c>stay</c></NS> in a log cabin, as it is really difficult for me to <NS type="RV"><i>be</i><c>stay</c></NS> in a little <NS type="UC"><i>and</i></NS> <NS type="RJ">close</NS> room.</p>
+          <p>Your next question is about the activities that I could do at the camp<NS type="RP"><i>, after</i><c>. After</c></NS> <NS type="FV"><i>browse</i><c>browsing</c></NS> through the list, I would like to take part in climbing and <NS type="DJ"><i>photography</i><c>photographic</c></NS> activities, as these are my favourite hobbies.</p>
+          <p>I had <NS type="FD"><i>a</i><c>an</c></NS> induction climbing course two years ago, and I still <NS type="UV"><i>going to</i></NS> <NS type="TV"><i>climbing</i><c>climb</c></NS> <NS type="DY"><i>regulary</i><c>regularly</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I can do a V+ level climb. On the other hand I <NS type="RV"><i>had</i><c>took</c></NS> a photography course five years ago, and I took part in several competitions.</p>
+          <p>Finally, could you tell me how far is the nearest town or village? Can we get there by public transport?</p>
+          <p>Looking forward <NS type="RT"><i>for</i><c>to</c></NS> your answer.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Shopping, what an exciting thing!</p>
+          <p>Going out to spend a day shopping is something very popular<NS type="RP"><i>, the</i><c>. The</c></NS> shopping <NS type="SA"><i>centers</i><c>centres</c></NS> are always busy, <NS type="MT"><c>with</c></NS> people going up and down carrying bags and looking <NS type="RT"><i>at</i><c>in</c></NS> <NS type="DN"><i>window shops</i><c>shop windows</c></NS><NS type="RP"><i>,</i><c>;</c></NS> <NS type="MA"><c>it</c></NS> seems <NS type="S"><i>everbody</i><c>everybody</c></NS> is happy.</p>
+          <p>Really? Sometimes things can <NS type="RV"><i>be</i><c>go</c></NS> wrong and the <NS type="AGN"><i>situations</i><c>situation</c></NS> changes and becomes a nightmare. Firstly <NS type="MA"><c>there</c></NS> is the parking problem<NS type="RP"><i>, if</i><c>. If</c></NS> you go <NS type="UT"><i>to</i></NS> shopping late at weekends for instance, it's really difficult to find a place to park your car, and when you get <NS type="RD"><i>the</i><c>a</c></NS> place, <NS type="M"><c>you have</c></NS> <NS type="FV"><i>pay</i><c>to pay</c></NS> for it! Then the search for a nice <NS type="RN"><i>cloth</i><c>item of clothing</c></NS> starts, and when eventually you get it, it isn't your size, <NS type="RC"><i>but</i><c>and</c></NS> also the colour that you like is not available. Finally you've found <NS type="UY"><i>out</i></NS> something really wonderful<NS type="RP"><i>,</i><c> -</c></NS> time to pay!</p>
+          <p><NS type="RT"><i>With</i><c>In</c></NS> the <NS type="CN"><i>hurries</i><c>hurry</c></NS> you've forgotten to bring any cash, but you can use <NS type="RD"><i>the</i><c>your</c></NS> plastic money<NS type="RP"><i>, the</i><c>. The</c></NS> shop assistant <NS type="AGV"><i>pass</i><c>passes</c></NS> the credit card through the machine, after <NS type="MD"><c>a</c></NS> few seconds <NS type="M"><c>he does it</c></NS> again, and <NS type="M"><c>does it</c></NS> another time <NS type="UY"><i>more</i></NS><NS type="RP"><i>, suddenly</i><c>. Suddenly</c></NS> his face changes and <NS type="MA"><c>he</c></NS> <NS type="RV"><i>says</i><c>tells</c></NS> you that the card is <NS type="DJ"><i>fault</i><c>faulty</c></NS>! No choice<NS type="RP"><i>,</i><c>:</c></NS> you have to leave your nice clothes and go away feeling bad and sad.</p>
+          <p>To sum up, shopping is not always enjoyable, but don't worry, the <NS type="S"><i>shooping</i><c>shopping</c></NS> <NS type="SA"><i>center</i><c>centre</c></NS> <NS type="MV"><c>is</c></NS> still there waiting for you!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR690*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm writing in order to <NS type="RV"><i>make</i><c>let</c></NS> you know how angry I am <NS type="RT"><i>for</i><c>after</c></NS> having gone to one of your shows.</p>
+          <p>I went to London for a week's holiday with some friends and every evening we decided <NS type="W"><i>something to do</i><c>to do something</c></NS> in order to enjoy our <NS type="DN"><i>staying</i><c>stay</c></NS> in that beautiful city.</p>
+          <p>I wish we had never chosen your show. In fact, <NS type="W"><i>only after</i><c>after only</c></NS> having <NS type="TV"><i>going</i><c>gone</c></NS> into the theatre, I realized that the advertisement I had read was probably about another show.</p>
+          <p>First of all, when I paid <NS type="MT"><c>for</c></NS> my ticket I noticed that nobody could obtain the discount you'd written about. But that would be nothing if <NS type="R"><i>I thought to</i><c>it weren't for the</c></NS> dinner I had to <NS type="FV"><i>cancelled</i><c>cancel</c></NS> because your show started at 20.15, although it should have been at 19.30!</p>
+          <p>Besides, when we decided to spend the evening in the theatre restaurant, we were informed that it was closed because the chef was ill.</p>
+          <p>At that point, even if <NS type="W"><i>there had been Danny Brook</i><c>Danny Brook had been there</c></NS> as the advertisement announced, it <NS type="RV"><i>wouldn't</i><c>couldn't</c></NS> have been a <NS type="RQ"><i>less</i><c>more</c></NS> disappointing evening.</p>
+          <p><NS type="R"><i>According to</i><c>Because of</c></NS> all these things, I <NS type="TV"><i>ask</i><c>am asking</c></NS> <NS type="MT"><c>for</c></NS> my money back.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, but I realized <NS type="RA"><i>it</i><c>that</c></NS> only when it was too late.</p>
+          <p>What <NS type="UV"><i>have</i></NS> moved me to <NS type="W"><i>this discover</i><c>discover this</c></NS> were the <NS type="RN"><i>facts</i><c>events</c></NS> that happened last month. I had just <NS type="IV"><i>quarreled</i><c>quarrelled</c></NS> with Jon, who is my fiance. <NS type="ID"><i>In that period</i><c>At that time</c></NS> we weren't getting on with <NS type="M"><c>each other</c></NS>. So, when Peter, who has been a friend of mine since we were children<NS type="MP"><c>,</c></NS> invited me for a pizza, I accepted without thinking <NS type="RT"><i>at</i><c>of</c></NS> the consequences.</p>
+          <p>And there would have been no problems if I hadn't talked to Pat about that evening. It was only a dinner with a friend and in fact we'd spent all the time remembering our childhood, but probably Pat <NS type="UV"><i>can have</i></NS> thought that Peter and I weren't only friends. So she ran to Jon in order to <NS type="RV"><i>make</i><c>let</c></NS> him know <NS type="MT"><c>about</c></NS> the terrible mistake I had made that evening. He became very angry no matter how hard I tried <NS type="FV"><i>telling</i><c>to tell</c></NS> him the truth.</p>
+          <p>By the way, <NS type="TV"><i>I've understood</i><c>I understand</c></NS> I had better trust in nobody.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE45*0100*2001*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs M. Smith,</p>
+          <p>I am writing in order to reply to your letter and to give you all the information that you requested.</p>
+          <p>First of all the hotel is the Palace Hotel, 82 Regent Street, so <NS type="UA"><i>that</i></NS> it is very easy to reach the conference. In fact you can take the <NS type="W"><i>bus number 3</i><c>number 3 bus</c></NS>; as you can see, the bus stop is just in front of the hotel, then you can get off immediately after the church that you pass, on your right <NS type="UN"><i>hand</i></NS>.</p>
+          <p>Secondly, we will have the party in the hotel at 8.00 o'clock and a buffet will be served at 8.30 p.m. It <NS type="TV"><i>would</i><c>will</c></NS> <NS type="W"><i>be also</i><c>also be</c></NS> possible to get some vegetarian food and drink cocktails free of charge. I would recommend your students <NS type="FV"><i>to bring</i><c>bring</c></NS> their Identity <NS type="FN"><i>Card</i><c>Cards</c></NS> to prove their age. What is more, I would suggest <NS type="FV"><i>to wear</i><c>wearing</c></NS> very smart <NS type="RN"><i>dress</i><c>clothes</c></NS> and for men <NS type="AS"><i>it is <NS type="DJ"><i><NS type="S"><i>oblidged</i><c>obliged</c></NS></i><c>obligatory</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> tie</i><c>a tie is obligatory</c></NS>.</p>
+          <p>Finally, if I were you I would go shopping <NS type="RT"><i>to</i><c>in</c></NS> the City Centre <NS type="R"><i>to spend</i><c>in</c></NS> your last hours. However, if <NS type="MP"><i>you re</i><c>you're</c></NS> interested in <NS type="RP"><i><NS type="SA"><i>Archeology</i><c>Archaeology</c></NS></i><c>archaeology</c></NS> you should <NS type="S"><i>vitis</i><c>visit</c></NS> the History Museum in Garden Square.</p>
+          <p>I hope you will find my letter of interest and I look forward to seeing you.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Have you ever thought <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to live</i><c>living</c></NS> without your car?</p>
+          <p>How can you manage your daily life without it?</p>
+          <p><NS type="R"><i>I</i><c>In</c></NS> the last <NS type="S"><i>fourty</i><c>forty</c></NS> years people seem to <NS type="RV"><i>be</i><c>have become</c></NS> completely addicted <NS type="RT"><i>by</i><c>to</c></NS> using their <NS type="UJ"><i>own</i></NS> car. It is said that the majority of <NS type="UD"><i>the</i></NS> citizens <NS type="AGV"><i>has</i><c>have</c></NS> got a car and unfortunately this is the reason why cities are <NS type="L"><i>getting</i><c>becoming</c></NS> more polluted.</p>
+          <p>On the other hand, this kind of <NS type="RN">facility</NS> has made our life more comfortable and <NS type="FJ"><i>easy</i><c>easier</c></NS>. In fact we can go everywhere sitting either with friends or with our family and <NS type="IV"><i>carring</i><c>carrying</c></NS> <NS type="MD"><c>our</c></NS> <NS type="S"><i>lugguage</i><c>luggage</c></NS> and shopping bags. Cars are able to cover not only short distance but also can be used for long <NS type="FN"><i>journey</i><c>journeys</c></NS>. For example, in the past it would had been extremely exhausting <NS type="FV"><i>travelling</i><c>to travel</c></NS> <NS type="R"><i>riding</i><c>on</c></NS> a <NS type="S"><i>hourse</i><c>horse</c></NS> but nowadays we have lots of big and spacious cars and a wide range of <NS type="DN"><i>optionals</i><c>options</c></NS> to choose <NS type="RT"><i>with</i><c>from</c></NS>.</p>
+          <p>However, I have to say that it has made people <NS type="UV"><i>be</i></NS> lazy and at the same time stressed due to the traffic. On the other hand one of the main advantages is that we can save time and money as cars have <NS type="R">long last</NS> and <NS type="S"><i>allowe</i><c>allow</c></NS> us <NS type="RV"><i><NS type="FV"><i>travelling</i><c>to travel</c></NS></i><c>to get about</c></NS> quickly.</p>
+          <p>That's why I couldn't <NS type="SX"><i>image</i><c>imagine</c></NS> my life without <NS type="RA"><i>it</i><c>one</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

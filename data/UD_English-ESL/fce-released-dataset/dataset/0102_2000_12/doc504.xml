@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR207*0102*2000*02">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms <NS type="RP"><i>clark</i><c>Clark</c></NS>:</p>
+          <p>I am writing to give <NS type="FN"><i>suggestion</i><c>suggestions</c></NS> <NS type="RT"><i>for</i><c>regarding</c></NS> the international art festival, which I <NS type="TV"><i>have been</i><c>went</c></NS> to one <NS type="AGN"><i>weeks</i><c>week</c></NS> <NS type="RY"><i>before</i><c>ago</c></NS>. It was really good, but I feel it could be better next year.</p>
+          <p>Firstly, I want to say it is a great idea to have this international arts festival<NS type="RP"><i>, it</i><c>. It</c></NS> is very interesting, especially for <NS type="UD"><i>the</i></NS> young people. I went to this festival with four friends and all of us enjoyed our time <NS type="MY"><c>there</c></NS> very much. It was said that stars and artists from around the world <NS type="M"><c>would be there</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the advertisement, but in fact they <NS type="TV"><i>are</i><c>were</c></NS> from only six different countries, so I hope there will be artists from more <NS type="UJ"><i>different</i></NS> countries next year. Although the jazz, rock and classical music was great, some <NS type="RN">concerts</NS> and halls <NS type="TV"><i>are</i><c>were</c></NS> too small<NS type="RP"><i>, could</i><c>. Could</c></NS> you consider making them bigger next year<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>The plays and films were really wonderful<NS type="RP"><i>, people</i><c>. People</c></NS> liked them very much, so could you <NS type="RV"><i>play</i><c>have</c></NS> more next year<NS type="MP"><c>?</c></NS></p>
+          <p>The last thing is about the ticket. It was excellent <NS type="R"><i>about</i><c>to have</c></NS> one <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> weekend ticket for all events, because it is convenient and normally young people do not have a lot of money, so I hope next year the ticket will <NS type="W"><i>be also</i><c>also be</c></NS> like this.</p>
+          <p>I hope that you can consider my suggestions. I really look forward to going to the festival next year.</p>
+          <p>Yours sincerely:</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Jacob:</p>
+          <p>I'm very glad to hear from you. I hope everything is ok. I'm really sorry I didn't <NS type="AS"><i>write you back</i><c>write back to you</c></NS> immediately, because I was preparing my exam at that moment, so can you forgive me? We should keep in touch with each other, because you know I'm very happy to have a friend like you.</p>
+          <p>In your last letter you asked me something about our rules, both at home and at school in my country. I'd like to tell you that<NS type="RP"><i>. In</i><c>, in</c></NS> school, we have lots of rules, especially in <NS type="UD"><i>the</i></NS> class and some of them are quite strange. For example, we can't go to the <NS type="S"><i>toliet</i><c>toilet</c></NS> during <NS type="UD"><i>the</i></NS> lessons<NS type="RP"><i>, we</i><c>. We</c></NS> <NS type="TV"><i>should go</i><c>have to go</c></NS> there in the <NS type="RN"><i>brake</i><c>break</c></NS>. And we can't eat food or do any sports in our classroom. If you fail three subjects in your exam, you will be kicked out of school. It's too <NS type="S"><i>strickt</i><c>strict</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I don't like it. If I <NS type="TV"><i>can</i><c>could</c></NS>, I would like to change this, because I don't think everyone can <NS type="DV"><i>success</i><c>succeed</c></NS> at once<NS type="RP"><i>, we</i><c>. We</c></NS> should give them <NS type="MD"><c>a</c></NS> second chance to <NS type="RV"><i>try</i><c>succeed</c></NS>.</p>
+          <p>Anyway, in my country, generally, children are free at home, but it also depends on their parents. For me, I don't have rules at home<NS type="RP"><i>,</i><c> -</c></NS> <NS type="MA"><c>I</c></NS> just don't <NS type="RV"><i>take</i><c>make</c></NS> trouble <NS type="RT"><i>to</i><c>for</c></NS> my family<NS type="RP"><i>, that's</i><c>. That's</c></NS> all.</p>
+          <p><NS type="R">OK, just here</NS>. I look forward to hearing from you soon. <NS type="ID"><i>All the best wishes</i><c>All the best</c></NS> and good luck.</p>
+          <p>yours:</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

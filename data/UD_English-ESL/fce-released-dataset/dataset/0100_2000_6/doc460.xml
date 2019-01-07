@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR188*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am very happy to have won first prize in your competition. I am very interested in <NS type="RV"><i>going</i><c>spending</c></NS> <NS type="UT"><i>to</i></NS> two weeks at Camp California in the USA. I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July, because it is the summer and the weather is sunny, moreover I am totally free during this month.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> the accommodation, I would prefer a log cabin, because I <NS type="RP"><i>can not</i><c>cannot</c></NS> sleep in <NS type="MD"><c>a</c></NS> tent.</p>
+          <p>I like to do sports and I would like to do sailing and surfing for <NS type="R">speed sensations</NS>. I am good <NS type="RT"><i>in</i><c>at</c></NS> those two activities, because I go to the sea every weekend.</p>
+          <p>I would like to <NS type="RV"><i><NS type="SX"><i>now</i><c>know</c></NS></i><c>have</c></NS> more information about clothes. I think that <NS type="MD"><c>the</c></NS> weather is very hot and that the nights are not cold, but I do not know if I must take <NS type="MD"><c>a</c></NS> lot of pullovers.</p>
+          <p>Best regards</p>
+          <p>Henri</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable" is a statement <NS type="MV"><c>made</c></NS> <NS type="RT"><i>of</i><c>by</c></NS> men in general. Women like to go <NS type="UV"><i>to do</i></NS> shopping, but not alone and they want to motivate their husbands. Men do not like shopping, because their women buy a lot of clothes and it is very expensive. Moreover, men prefer to do sports, because <NS type="UD"><i>the</i></NS> shopping <NS type="RV"><i>loses</i><c>wastes</c></NS> a lot of time<NS type="MP"><c>,</c></NS>  <NS type="M"><c>which is</c></NS> <NS type="R"><NS type="S"><i>controry</i><c>contrary</c></NS> to <NS type="M"><c>the tastes of</c></NS> women</NS>, because if they have <NS type="R"><i>a</i><c>any</c></NS> free time, they will go <NS type="UV"><i>to do</i></NS> shopping.</p>
+          <p>I think that <NS type="MD"><c>a</c></NS> child does not like shopping because he often <NS type="FV"><i>waits</i><c>has to wait</c></NS>, and I prefer to play with <NS type="R"><i>these friends</i><c>friends like these</c></NS>. <NS type="AGA"><i>He</i><c>They</c></NS> <NS type="AGV"><i>goes</i><c>go</c></NS> <NS type="UV"><i>to do</i></NS> shopping only if <NS type="AGA"><i>he</i><c>they</c></NS> <NS type="X"><i><NS type="AGV"><i>has</i><c>have</c></NS> not clothes</i><c>haven't any clothes</c></NS>.</p>
+          <p>To conclude, I think that "Shopping is not always enjoyable" is a true statement, but not always for all people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

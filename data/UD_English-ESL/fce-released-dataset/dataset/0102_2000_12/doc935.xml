@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR384*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Clark,</p>
+          <p>I spent two days at the last annual international arts festival and I would like to congratulate <NS type="MA"><c>you</c></NS> on the organization. I am also <NS type="IV"><i>writting</i><c>writing</c></NS> to make a suggestion and to give <NS type="MA"><c>you</c></NS> my opinion <NS type="RT"><i>for</i><c>about</c></NS> <NS type="UP"><i>next's</i><c>next</c></NS> <NS type="MP"><i>year</i><c>year's</c></NS> festival.</p>
+          <p>An <NS type="DJ"><i>internation</i><c>international</c></NS> arts festival is a great idea, but at the last <NS type="R">die</NS> there were <NS type="RN"><i>starts</i><c>stars</c></NS> and artists from only six countries, and it could be more interesting to have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to meet artists and stars from more than six cultures.</p>
+          <p>In my opinion some concert halls were too small. I could not listen to one of my <NS type="SA"><i>favorite</i><c>favourite</c></NS> <NS type="RJ"><i>classic</i><c>classical</c></NS> <NS type="RN"><NS type="AGN"><i>concert</i><c>concerts</c></NS></NS>, "La Moldava" by Smetana. Most of the plays and films were brilliant but I think that if there is <NS type="W"><i>money enough</i><c>enough money</c></NS>, it <NS type="TV"><i>will</i><c>would</c></NS> be better to have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to watch more movies.</p>
+          <p>I am glad to tell you that one <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> weekend ticket for all events is an excellent idea because <NS type="UY"><i>also</i></NS> people who do not have a lot of money can enjoy the festival.</p>
+          <p>I would like to <NS type="RV"><i>give</i><c>make</c></NS> a suggestion. I think that meeting writers, dancers, musicians and artists <NS type="RV"><i>could</i><c>should</c></NS> be very interesting for anybody.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear George,</p>
+          <p>Thank you very much for your recent letter. I'm very happy that you are well. When I read your letter I was surprised because I didn't know that you <NS type="TV"><i>have</i><c>had</c></NS> so many rules both at school and at home.</p>
+          <p>In Italy there aren't a lot of rules at school and they aren't very <NS type="S"><i>stricht</i><c>strict</c></NS>. Nobody <NS type="TV"><i>has to be</i><c>should be</c></NS> late in the morning because it is important to respect <NS type="MD"><c>your</c></NS> <NS type="MP"><i><NS type="RP"><i>class <NS type="S"><i>mades</i><c>mates</c></NS></i><c>classmates</c></NS></i><c>classmates'</c></NS> and teachers' effort <NS type="UT"><i>of</i></NS> <NS type="FV"><i>getting</i><c>to get</c></NS> up early. Nobody is allowed to speak to a friend during the lesson. I can't have my mobile on and drinking and eating in the classroom is <NS type="UD"><i>a</i></NS> bad <NS type="RN"><i><NS type="S"><i>beheviour</i><c>behaviour</c></NS></i><c>manners</c></NS>. There isn't <NS type="RQ"><i>a</i><c>any</c></NS> kind of punishment for people who do these things.</p>
+          <p>My parents are very good. The most important thing for my parents is that I don't tell them <NS type="SX"><i>lays</i><c>lies</c></NS>. It's important for them that I tell them where I'm going if I go out and what time I think <NS type="R"><i>of</i><c>I'll be</c></NS> coming back home. I can do what I like doing but I have to study. This is the only condition <NS type="MT"><c>regarding</c></NS> <NS type="FV"><i>to do</i><c>doing</c></NS> what I <NS type="RV"><i>prefer</i><c>want</c></NS>.</p>
+          <p>There isn't anything that I'd like to change.</p>
+          <p>Write soon</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

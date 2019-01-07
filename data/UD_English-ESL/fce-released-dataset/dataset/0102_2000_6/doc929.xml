@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR378*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>Last week I went to the Circle theatre, <NS type="RT"><i>of</i><c>for</c></NS> which you are <NS type="S"><i>responsable</i><c>responsible</c></NS>, to <NS type="S"><i>se</i><c>see</c></NS> the musical show "Over the Rainbow". The advertisement outside the theatre <NS type="RV"><i>explained</i><c>described</c></NS> a lot of interesting things to enjoy. I am writing this letter because I have had a very disappointing evening. Everything in the advertisement has been done in the Wrong Way. Firstly there was a different actor in the starring <NS type="MN"><c>role</c></NS>; you <NS type="TV"><i>have</i><c>had</c></NS> written DANNY BROOK and he was absent. I had <NS type="RV"><i>joined</i><c>attended</c></NS> the show because I like DANNY BROOK a lot, but you <NS type="TV"><i>have</i><c>had</c></NS> changed the <NS type="SA"><i>program</i><c>programme</c></NS>. Moreover the advertisement said that the <NS type="W"><i>show time</i><c>time of the show</c></NS> was 19.30; on the contrary it started <NS type="UT"><i>with</i></NS> 45 minutes <NS type="UT"><i>of</i></NS> late. Another thing that was wrong is about discounts: you had written they were available, but they were not and so I had to pay the <NS type="RJ"><i>whole</i><c>full</c></NS> <NS type="UN"><i>ticket's</i></NS> price. But the worst thing was that after the show the restaurant <NS type="RT"><i>of</i><c>in</c></NS> the theatre was closed and so I had to go to another place to have dinner.</p>
+          <p>So it was not "my perfect evening out" and because of my disappointment I am <NS type="R"><i>here</i><c>writing</c></NS> to ask you <NS type="MT"><c>for</c></NS> some money back.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I think modern technology has changed <NS type="RN"><i>human's</i><c>mankind's</c></NS> life a lot, <NS type="S"><i>expecially</i><c>especially</c></NS> <NS type="R"><i>starting with the</i><c>since</c></NS> last century. The <NS type="DN"><i>changements</i><c>changes</c></NS> brought by modern technology are so important that today no one can live without this technology or <NS type="RT"><i>with</i><c>without</c></NS> a part of it. In my situation for example cars and motorcycles are a necessity <NS type="UV"><i>to get out</i></NS>: I live on a little mountain at 160 metres <NS type="UT"><i>of</i></NS> <NS type="S"><i>altitud</i><c>altitude</c></NS> so I cannot go to the city using a <NS type="S"><i>bycicle</i><c>bicycle</c></NS>. Because of my "isolation" <NS type="MD"><c>the</c></NS> telephone is very important and I need a good personal computer with a modem and <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> <NS type="UC"><i>so</i></NS> <NS type="FV"><i>study</i><c>to study</c></NS> or do <NS type="CN"><i>researches</i><c>research</c></NS>, because there are not <NS type="MQ"><c>any</c></NS> book shops to buy or borrow books in my little town. Moreover <NS type="W"><i>without a cellular phone my mother does not let me go out with my friends to the city</i><c>my mother does not let me go out with my friends to the city without a cellular phone</c></NS> because it is too far and she <NS type="RV"><i>is</i><c>gets</c></NS> worried. Another thing that I appreciate a lot is the electric guitar; I like <NS type="W"><i>very much <NS type="FV"><i>play</i><c>to play</c></NS> guitar</i><c>to play guitar very much</c></NS>, and in my free time I prefer <NS type="FV"><i>play</i><c>to play</c></NS> electric, than acoustic or <NS type="RJ"><i>classic</i><c>classical</c></NS> guitar<NS type="MP"><c>,</c></NS> using distortion and gain and the highest volume possible.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

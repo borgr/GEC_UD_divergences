@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR195*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>31-40</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to reply <NS type="MT"><c>to</c></NS> your letter saying that I have won the competition, which I can't believe. I am so excited by the news.</p>
+          <p>I think I can take this opportunity in July because I run my shop all year round except three weeks in July.</p>
+          <p>I would like to have accommodation in log cabins as I find sleeping in tents very uncomfortable <NS type="SX"><i>thought</i><c>though</c></NS> it may be a new experience.</p>
+          <p>It would be nice to have a chance to try <NS type="MD"><c>a</c></NS> new sport when we are relaxed. I'd like to try golf because I'm not good at any other sports. Besides golf, taking wonderful photographs of <NS type="CN"><i>sceneries</i><c>scenery</c></NS> has been my dream, even though I am a beginner.</p>
+          <p>I'd like to ask about what clothes we need, what the weather is like and whether we need some spending money or not.</p>
+          <p>I'm looking forward to going on this fantastic holiday.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? I know you have been waiting for my letter. But as you know, I have been so busy that I couldn't write earlier.</p>
+          <p>Actually I didn't use to enjoy pop music much. My classmate Cecilia persuaded me to try <NS type="MD"><c>the</c></NS> whole new experience of helping at a pop concert. I thought it would be the last thing I wanted, but it wasn't. I've really enjoyed this opportunity. We delivered so many fantastic and gorgeous costumes which had been designed exclusively by top designers. We also helped to make posters and leaflets, which I enjoyed most as I always like drawing and designing.</p>
+          <p>The most difficult work was to arrange <NS type="MD"><c>the</c></NS> coach trip to the concert hall as there were many <NS type="RN"><i>audience</i><c>people</c></NS> from <NS type="MD"><c>the</c></NS> countryside. It was too complicated. But the rest of the preparation was so good. I've realised pop stars are just like us, down to earth. They were so kind and modest. Do you know what I liked most <NS type="RT"><i>from</i><c>about</c></NS> this experience? <NS type="TV"><i>I've found</i><c>I found</c></NS> pop music so wonderful, it changed my <NS type="RN"><i>idea</i><c>opinion</c></NS> <NS type="UT"><i>of</i></NS> that <NS type="RJ"><i>classic</i><c>classical</c></NS> music is always best. Of course, I've enjoyed being around famous singers, too.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR971*0100*2000*01">
+  <candidate><personnel><language>German</language><age>51+</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear...</p>
+          <p>Thanks for your letter. I am very happy that I have <NS type="RV"><i>received</i><c>won</c></NS> the first prize in your competition.</p>
+          <p>I am looking forward <NS type="MT"><c>to</c></NS> my <NS type="RN"><i>holy day</i><c>holiday</c></NS><NS type="MP"><c>,</c></NS> <NS type="MA"><c>which</c></NS> begins on <NS type="MD"><c>the</c></NS> first of <NS type="RP"><i>july</i><c>July</c></NS> <NS type="MV"><c>lasting</c></NS> <NS type="RT"><i>to</i><c>until</c></NS> twenty-first <NS type="RP"><i>july</i><c>July</c></NS><NS type="MP"><c>,</c></NS> so it is possible <NS type="U"><i>to take the</i></NS> <NS type="FV"><i><NS type="S"><i>travell</i><c>travel</c></NS></i><c>to travel</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> this time. I like to sleep in a tent under the <NS type="RJ"><i>free</i><c>open</c></NS> sky since I have done <NS type="UD"><i>the</i></NS> <NS type="RP"><i>military-service</i><c>military service</c></NS><NS type="MP"><c>,</c></NS> <NS type="S"><i>therfore</i><c>therefore</c></NS> I would prefer a tent as my <NS type="S"><i>accomodation</i><c>accommodation</c></NS>. My favourite <NS type="AGN"><i>activity</i><c>activities</c></NS> are swimming and singing. It is important for my health that I swim an hour a week because I am <NS type="S"><i>overwight</i><c>overweight</c></NS>. I like to <NS type="FV"><i>singing</i><c>sing</c></NS> a song when I am alone. Singing is good for my <NS type="RN">emotion</NS>. <NS type="R"><i>Also</i><c>So</c></NS> I choose singing and swimming as my <NS type="AGN"><i>activity</i><c>activities</c></NS>. I am a beginner <NS type="RT"><i>in</i><c>at</c></NS> swimming and also <NS type="RT"><i>in</i><c>at</c></NS> singing.</p>
+          <p>Can you <NS type="RV"><i>say</i><c>tell</c></NS> me <NS type="RQ"><i>which</i><c>what</c></NS> <NS type="RN"><i>cloths</i><c>clothes</c></NS> I <NS type="MV"><c>should</c></NS> take <NS type="R"><i>away</i><c>with</c></NS> <NS type="MA"><c>me</c></NS> for <NS type="MD"><c>which</c></NS> two weeks. <NS type="RQ"><i>Which</i><c>What</c></NS> kind of weather <NS type="AS"><i>have you</i><c>do you have</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> this time <NS type="M"><c>of year</c></NS><NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Do I need a lot of money etc. for <NS type="MD"><c>the</c></NS> different excursions<NS type="MP"><c>?</c></NS></p>
+          <p>Thanks for your answer.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p><NS type="CE">What does <NS type="MA"><c>it</c></NS> <NS type="AGV"><i>means</i><c>mean</c></NS><NS type="MP"><c>,</c></NS> the <NS type="RN"><i>world</i><c>word</c></NS> "shopping"?</NS> I live and I need different <NS type="RN"><i>goods</i><c>products</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>survive</i><c>to survive</c></NS>. I need <NS type="R"><i>material for drinking and eating</i><c>things to drink and eat</c></NS><NS type="RP"><i>, that</i><c>.  That</c></NS> is the basic fact that <NS type="MV"><c>means</c></NS> I must go shopping for food.</p>
+          <p>It is not enjoyable to see that the <NS type="RN"><i>prize</i><c>price</c></NS> <NS type="RT"><i>for</i><c>of</c></NS> food <NS type="AGV"><i>are</i><c>is</c></NS> going <NS type="ID"><i>more and more higher</i><c>higher and higher</c></NS>. My salary <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="RV"><i>going</i><c>getting</c></NS> lower <NS type="R"><i>than</i><c>and</c></NS> lower. When I have enough money the price isn't important, then I can buy a lot of <NS type="RN"><i>goods</i><c>things</c></NS> <NS type="S"><i>whitout</i><c>without</c></NS> <NS type="RV"><i>take care on</i><c>considering</c></NS> my money. Despite <NS type="UA"><i>I</i></NS> <NS type="FV"><i>have</i><c>having</c></NS> enough money<NS type="MP"><c>,</c></NS> shopping is not always enjoyable <NS type="UT"><i>too</i></NS>, because I don't know which <NS type="RN"><i>goods</i><c>things</c></NS> I <NS type="R">will buy in the future</NS>. Also I will buy <NS type="RN"><i>goods</i><c>things</c></NS> which I don't need.</p>
+          <p>There are many <NS type="RN"><i>goods</i><c>products</c></NS> <NS type="W"><i>which quality</i><c>the quality of which</c></NS> is bad <NS type="MC"><c>and</c></NS> <NS type="R"><i>in this way</i><c>because of this</c></NS> the <NS type="DJ"><i>environment</i><c>environmental</c></NS> pollution will <NS type="UV"><i>be</i></NS> <NS type="W"><i>more and more increase</i><c>increase more and more</c></NS>.</p>
+          <p><NS type="RA"><i>This</i><c>It</c></NS> is <NS type="RD"><i>the</i><c>a</c></NS> fact that shopping is not enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE42*0100*2001*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>Thank you for your letter. <NS type="RY"><i>Surely</i><c>Certainly</c></NS> I'll try to help you as <NS type="DY"><i>good</i><c>well</c></NS> as I can.</p>
+          <p>First, I <NS type="MV"><c>can</c></NS> tell you the name of the hotel<NS type="RP"><i>, it's</i><c>. It's</c></NS> the Palace Hotel. Fortunately, it is not far from our college. <NS type="UT"><i>For <NS type="FV"><i>getting</i><c>to get</c></NS></i><c>To get</c></NS> from the hotel to the conference, you only have to take bus no.7 and get off at St. James College, where the conference will take place.</p>
+          <p>About the end-of-conference party I can only say that a band will be playing the whole night, and a special guest<NS type="MP"><c>,</c></NS> I still don't know <NS type="MA"><c>who</c></NS><NS type="MP"><c>,</c></NS> will be expected. I suggest <NS type="FV"><i>to wear</i><c>wearing</c></NS> casual clothes<NS type="RP"><i>,</i><c>.</c></NS> I think there's no need <NS type="RT"><i>of</i><c>for</c></NS> school uniforms.</p>
+          <p>To answer your last question, I would propose you <NS type="FV"><i>to attend</i><c>attend</c></NS> the local zoo, because many baby animals <NS type="TV"><i>were</i><c>have been</c></NS> born in the past few days.</p>
+          <p>Dear Mrs Smith, I hope the <NS type="W"><i>given information</i><c>information given</c></NS> is useful for you. I'm looking forward to seeing you at the conference.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>The telephone</p>
+          <p>Could you imagine <NS type="U"><i>there's</i></NS> no telephone ringing in <NS type="RD"><i>an</i><c>the</c></NS> office? Or <NS type="FV"><i>to live</i><c>living</c></NS> your <NS type="DN"><i>live</i><c>life</c></NS> without chatting for hours with your best friend? Could you? I <NS type="TV"><i>can't</i><c>couldn't</c></NS>!</p>
+          <p>The telephone was invented by Alexander Graham Bell <NS type="RT"><i>in</i><c>at</c></NS> the end of the 19th century. <NS type="AS"><i>It was an invention nobody <NS type="RV"><i>thought</i><c>realized</c></NS> how important and how widespread it</i><c>Nobody realized how important and how widespread an invention it</c></NS> would be in <NS type="MD"><c>the</c></NS> future. Nowadays almost every household in the western world owns a telephone, and calling <NS type="UT"><i>to</i></NS> relatives or friends spread all over the world is no strange thing. People need the telephone not only for chatting, but also for exchanging information in a very <NS type="RJ"><i>short</i><c>quick</c></NS> and direct way with the possibility <NS type="R"><i>to</i><c>of getting an</c></NS> answer immediately.</p>
+          <p>When I was a child, we had no telephone at home, and I always had to go to a phone box in the centre of our village. Now I have my own flat, and the first <NS type="RN">piece of furniture</NS> <NS type="TV"><i>I've bought</i><c>I bought</c></NS> was the telephone. I'll never <NS type="RV"><i>take it away</i><c>remove it</c></NS> from my home.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

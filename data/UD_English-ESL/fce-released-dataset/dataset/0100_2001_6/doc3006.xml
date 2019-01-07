@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE26*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I'm very glad to be able to help you out with such <NS type="MD"><c>a</c></NS> <NS type="S"><i>sutiation</i><c>situation</c></NS>.</p>
+          <p>First of all, the group has been booked into 'THE PALACE HOTEL'. You won't have any problem <NS type="FV"><i>to find</i><c>finding</c></NS> the college because it's <NS type="RT"><i>in front of</i><c>opposite</c></NS> the <NS type="RP"><i>Hotel</i><c>hotel</c></NS>, and the conference will be there.</p>
+          <p>As you know, the conference will start at 11:00 and it will finish at 13:00, but we will have lunch altogether at 13:30 in the college's hall until 14:30.</p>
+          <p>You'll have to wear a white shirt and blue trousers<NS type="RP"><i>, if</i><c>. If</c></NS> you want you will be able to wear a blue jacket.</p>
+          <p>When we <NS type="TV"><i>had</i><c>have</c></NS> finished you'll be able to enjoy yourself in our cinema or television room, but if you prefer other things, we've got a swimming pool and a library<NS type="RP"><i>, it</i><c>. It</c></NS> will <NS type="MV"><c>be</c></NS> your own choice.</p>
+          <p>I hope <NS type="R">it was</NS> useful for you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Group leader,</p>
+          <p><NS type="DT"><i>In order of</i><c>With regard to</c></NS> your request, I'm going to give you some information about which is the best place to visit in this town, Fuengirola.</p>
+          <p>Fuengirola has a wonderful and beautiful castle which is right on the <NS type="RP"><i>sea front</i><c>seafront</c></NS>. It is <NS type="DJ"><i>placed</i><c>situated</c></NS> on the top of a little hill which is part of the beach.</p>
+          <p>You <NS type="RV"><i>can't</i><c>shouldn't</c></NS> <NS type="RV"><i>lose</i><c>miss</c></NS> the chance to see this castle because <NS type="RA"><i>it</i><c>there</c></NS> is an excellent view and <NS type="W"><i>always there are</i><c>there are always</c></NS> a lot of people there and there are little shops where you can buy souvenirs.</p>
+          <p>At the same time you are enjoying the castle you can take a <NS type="S"><i>breake</i><c>break</c></NS> to go to the beach and you can look at the castle from the sea<NS type="RP"><i>, <NS type="RA"><i>it</i><c>that</c></NS></i><c>. That</c></NS> is also amazing. Also, there is a museum of history inside. As you <NS type="TV"><i>see</i><c>will see</c></NS>, you have to visit the castle<NS type="RP"><i>, you</i><c>. You</c></NS> won't feel regret about that.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="S"><i>sincerley</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

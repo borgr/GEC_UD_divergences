@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR685*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I have received your letter and I would like to reply <NS type="RT"><i>for</i><c>to</c></NS> it.</p>
+          <p>To begin with, I can join the camp only in July. My school starts a summer <NS type="S"><i>holyday</i><c>holiday</c></NS> from 1st July and I am going to take a summer course from August. Therefore, I would like to travel in the middle of July. I also would <NS type="UV"><i>like to</i></NS> prefer log cabins for accommodation. It seems more comfortable than tents.</p>
+          <p>Secondly, I would like to choose Swimming and Tennis <NS type="RT"><i>for</i><c>as</c></NS> activities. I <NS type="TV"><i>have been belonging</i><c>belonged</c></NS> to a swimming club and I got second prize in a competition last summer. I am good at tennis as well as swimming.</p>
+          <p>Finally, I would like to ask you about clothes and money. What <NS type="SX"><i>short</i><c>sort</c></NS> of clothes should I <NS type="RV"><i>prepare</i><c>pack</c></NS>? According to your letter, all travel costs are included in your service, however, how much pocket money do I need?</p>
+          <p>I would be grateful if you would give me more information.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>Rie Tanizaki</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Most people like shopping. <NS type="W"><i>Especially it is one of the hobbies for women</i><c>It is one of the hobbies for women especially</c></NS>. Basically, shopping is fun, but is it always enjoyable?</p>
+          <p>There are some advantages when people go shopping. They can <NS type="RV"><i>refresh</i><c>relax</c></NS>, reduce <NS type="S"><i>ther</i><c>their</c></NS> stress and they are happy when they find the thing which they wanted. Moreover, if they buy some nice things at <NS type="MD"><c>a</c></NS> sale, they must be very satisfied.</p>
+          <p>However, shopping sometimes <NS type="AGV"><i>make</i><c>makes</c></NS> them <NS type="RJ"><i><NS type="DJ"><i>stressfull</i><c>stressful</c></NS></i><c>stressed</c></NS>. People often waste money <NS type="RT"><i>for</i><c>on</c></NS> <NS type="DJ"><i>unvaluable</i><c>worthless</c></NS> things. Then, they really regret it. On the other hand, after they buy something, they find a better one. In addition, a shop assistant gives them <NS type="UD"><i>a</i></NS> wrong advice.</p>
+          <p>To sum up, there are many disadvantages as well as advantages. If people want to enjoy shopping, <NS type="RA"><i>we</i><c>they</c></NS> must consider before <NS type="FV"><i>buy</i><c>buying</c></NS> something - do I really want it? I also recommend <NS type="UD"><i>a</i></NS> window shopping. It is the best way to enjoy shopping. You do not have to waste money at all.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

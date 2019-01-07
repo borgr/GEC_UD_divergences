@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1035*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to confirm that we have received your programme for our class for the three days<NS type="UP"><i>,</i></NS> <NS type="RT"><i>during</i><c>of</c></NS> our stay in London<NS type="UP"><i>,</i></NS> and would like to thank you.</p>
+          <p>Firstly, the whole class is very pleased with the programme, especially with the visit to the National Art Gallery. <NS type="UC"><i>As we</i><c>We</c></NS> have been told<NS type="UP"><i>,</i></NS> there are a lot of interesting paintings and ancient sculptures <NS type="MY"><c>there</c></NS><NS type="MP"><c>,</c></NS> <NS type="UT"><i>in</i></NS> which we <NS type="W"><i>all are</i><c>are all</c></NS> keen to see <NS type="UA"><i>it</i></NS>.</p>
+          <p>A couple of days ago, my classmates made the suggestion<NS type="UP"><i>,</i></NS> that they would also like to see the London Fashion And Leisure Show in London, <NS type="M"><c>at the</c></NS> Central Exhibition Hall, which was advertised in a school magazine<NS type="MP"><c>,</c></NS> and there is free entry for students. The show includes the latest <NS type="DN"><i>fashion wear</i><c>fashions</c></NS>, <NS type="RP"><i>sports wear</i><c>sportswear</c></NS> <NS type="R">for spare time</NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. At the same time it would be a great opportunity for most of us because we are going to study "Art and Design" next year.</p>
+          <p>We agreed in the class <NS type="M"><c>that we would like</c></NS> to visit this show on Tuesday 14 March in the afternoon after lunch instead of <NS type="MV"><c>going</c></NS> shopping. Do you think it is possible?</p>
+          <p>We would be grateful<NS type="UP"><i>,</i></NS> if you could consider our suggestion and hope to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>To be famous or not to be famous?</p>
+          <p>Well, first of all, I think it's quite difficult to be a musician, film star or a politician without being followed by journalists all the time. In my opinion, most of these people are aware of the consequences <NS type="M"><c>of fame,</c></NS> like not <NS type="FV"><i>to have</i><c>having</c></NS> a "private life" anymore. As soon as they are famous, they are surrounded by their fans and reporters <NS type="R">in every place</NS>. I can imagine<NS type="UP"><i>,</i></NS> how annoying it can be sometimes. Just <NS type="RV"><i>think</i><c>imagine</c></NS> that you'd like to go shopping, clubbing or to a restaurant with friends. There's really no way to be together <NS type="UY"><i>just</i></NS> <NS type="RY"><i>only</i><c>simply</c></NS> with your friends or relatives without being disturbed by <NS type="RD"><i>these</i><c>the</c></NS> <NS type="IN"><i>paparazzis</i><c>paparazzi</c></NS>.</p>
+          <p>On the one hand I can understand how important it is for the journalists to take pictures for the newspaper or magazines they work for. It is the way <NS type="UY"><i>how</i></NS> they earn money, of course.</p>
+          <p>But on the other hand I have to mention that they <NS type="TV"><i>are going</i><c>go</c></NS> too far sometimes to <NS type="RV"><i>take</i><c>get</c></NS> a picture. For example<NS type="MP"><c>,</c></NS> Lady Diana. Do you think she <NS type="AS"><i>would have been still</i><c>would still be</c></NS> alive if she and her boyfriend hadn't been followed by <NS type="RD"><i>these</i><c>those</c></NS> nosy <NS type="IN"><i>paparazzis</i><c>paparazzi</c></NS>? Well, this <NS type="TV"><i>will be</i><c>is</c></NS> an open question to anyone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

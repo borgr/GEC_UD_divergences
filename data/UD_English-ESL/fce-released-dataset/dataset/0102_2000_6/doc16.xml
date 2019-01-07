@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR628*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>17 May 2000</p>
+          <p>Dear Sir or <NS type="S"><i>Mam</i><c>Madam</c></NS>,</p>
+          <p>Last <NS type="SX"><i>weak</i><c>week</c></NS>, I went to London to see the musical "Over the Rainbow". I was <NS type="DY"><i>realy</i><c>really</c></NS> happy to <NS type="TV"><i>see</i><c>be seeing</c></NS> the "Best Musical Show" in London. But what I saw was exactly the opposite <NS type="M"><c>to what</c></NS> I expected. In other words, it was a disaster.</p>
+          <p>Maybe you could explain to me<NS type="UP"><i>,</i></NS> what the problems were. By problems I mean<NS type="UP"><i>,</i></NS> that the show started at 20.15 and not at 19:30 or why <NS type="MY"><c>there</c></NS> were no discounts <NS type="S"><i>avaivable</i><c>available</c></NS>? But these are only little problems. The most disappointing thing was that there were <NS type="S"><i>diffrent</i><c>different</c></NS> actors <NS type="M"><c>to those advertised</c></NS> <NS type="RA"><i>which</i><c>who</c></NS> were not very good <NS type="RT"><i>in</i><c>at</c></NS> acting. And after the show we didn't know what to do with the rest of the evening, because we actually wanted to go to the Theatre Restaurant after the show, but it was closed.</p>
+          <p>It wasn't <NS type="DY"><i>realy</i><c>really</c></NS> a perfect evening <NS type="RT"><i>like</i><c>as</c></NS> you promised on your flyer. I was very <NS type="S"><i>disapointed</i><c>disappointed</c></NS> and I would like to have my money back. Some people might be silly enough to pay for such a bad show. I will tell everyone I know how bad it was.</p>
+          <p>Yours faithfully, Franz Morell Hand</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Unfortunately, modern technology <NS type="TV"><i>made</i><c>has made</c></NS> <NS type="UD"><i>the</i></NS> life for many people easier. If you think about the early days, when no cars were on the roads and <NS type="RP"><i>noone</i><c>no one</c></NS> had an <NS type="S"><i>opertunity</i><c>opportunity</c></NS> to fly to another country for <NS type="MD"><c>a</c></NS> holiday, people had to walk or go by horse and ship. Today, everyone has the <NS type="S"><i>opertunity</i><c>opportunity</c></NS> to just get into a car and drive <NS type="UT"><i>to</i></NS> <NS type="RP"><i>where ever</i><c>wherever</c></NS> they want to. Modern technology also allows you to go <NS type="RT"><i>into</i><c>onto</c></NS> the Internet to get any information you need. <NS type="UD"><i>Every production</i><c>Production</c></NS> is much faster and cheaper than before, because you don't have to pay for <NS type="MD"><c>the</c></NS> <NS type="FN"><i>worker</i><c>workers</c></NS> anymore. <NS type="RP"><i>Every thing</i><c>Everything</c></NS> is controlled and produced by machines. This <NS type="W"><i>also is</i><c>is also</c></NS> a very big <NS type="S"><i>disatvantage</i><c>disadvantage</c></NS> because many people are losing <NS type="S"><i>thier</i><c>their</c></NS> jobs. The only and simple advantage of modern technology is just taking the work from us so we don't have to do anything anymore. Another disadvantage is that <NS type="RP"><i>every one</i><c>everyone</c></NS> becomes a bit more lonely because they <NS type="S"><i>wath</i><c>watch</c></NS> TV or play or work <NS type="RT"><i>with</i><c>on</c></NS> the Computer and don't see each other <NS type="RP"><i>any more</i><c>anymore</c></NS> because they don't have to. You never get bored.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

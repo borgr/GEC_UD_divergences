@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR645*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I have just received your letter and I would like to thank you <NS type="RT"><i>about</i><c>for</c></NS> the two weeks in California I <NS type="TV"><i>won</i><c>have won</c></NS> in the competition. California has always been in my dreams.</p>
+          <p>I will be leaving university in a few <NS type="RP"><i>month's</i><c>months'</c></NS> time but <NS type="MA"><c>it</c></NS> is in my plans to continue my <NS type="SX"><i>studied</i><c>studies</c></NS> at another <NS type="RP"><i>University</i><c>university</c></NS><NS type="MP"><c>,</c></NS> trying to do a <NS type="W"><i><NS type="RP"><i>master</i><c>master's</c></NS> of two years</i><c>two year master's</c></NS>. Having decided to take a month off between <NS type="RP"><i>University</i><c>university</c></NS> and <NS type="RN">course</NS><NS type="MP"><c>,</c></NS> it would be great to have my holidays from 1st to 15th July.</p>
+          <p>I have always wanted to spend my holidays in <NS type="MD"><c>a</c></NS> tent but my father has never given me <NS type="UD"><i>the</i></NS> permission, and this would be an ideal opportunity for me to learn about camp life.</p>
+          <p>I am a good swimmer and also <NS type="RJ"><i>well</i><c>good</c></NS> at golf (handicap twelve)<NS type="MP"><c>.</c></NS> I took a certificate <NS type="R"><i>as</i><c>to become a</c></NS> <NS type="RP"><i><NS type="S"><i>Teachear</i><c>Teacher</c></NS></i><c>teacher</c></NS> in both of them six years ago before I went to "CROARA GOLF" in Milan where I organised <NS type="MD"><c>the</c></NS> evening's entertainment for <NS type="MD"><c>the</c></NS> customers.</p>
+          <p>I hope that you can let me know, before I <NS type="RV"><i><NS type="TV"><i>will live</i><c>live</c></NS></i><c>leave</c></NS>, <NS type="R"><i>how many degrees there</i><c>how hot it</c></NS> will be so that I <NS type="X"><i>cannot make a mistake</i><c>don't make a mistake</c></NS> choosing my clothes and <NS type="W"><i>how much <NS type="S"><i>aproximately</i><c>approximately</c></NS> I will spend <NS type="UT"><i>in</i></NS> money</i><c>approximately how much money I will spend</c></NS>.</p>
+          <p>I look forward to <NS type="RV"><i>reading</i><c>hearing</c></NS> from you. Please do not hesitate to contact me <NS type="RT"><i>at</i><c>on</c></NS> (0297) 8245123 <NS type="R"><i>in case of need</i><c>in case you should need me</c></NS>.</p>
+          <p>Yours sincerely,</p>
+          <p>Bonfilia Conti</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1</exam_score>
+         <coded_answer>
+          <p>I do not agree that it is preferable to phone <NS type="UT"><i>at</i></NS> the shop and give them a list of items you need instead of going to the shop and <NS type="FV"><i>choose</i><c>choosing</c></NS> whatever you want.</p>
+          <p>First of all, I <NS type="S"><i>belive</i><c>believe</c></NS> that if someone has time to go to the <NS type="FN"><i>shop</i><c>shops</c></NS> <NS type="R">has the possibility</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1065*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Ryan:</p>
+          <p>I am writing in connection with the information requested, concerning the two-week trip I have won in the competition.</p>
+          <p>Firstly, I was asked <NS type="R"><i>the time</i><c>when</c></NS> my trip would be and I have come to <NS type="RD"><i>a</i><c>the</c></NS> conclusion that the only time I will be able to go is in July because during <NS type="RD"><i>this</i><c>that</c></NS> <NS type="UY"><i>very</i></NS> month I have my winter break both from work and school and that is when I will be free to go.</p>
+          <p><NS type="RT"><i>About</i><c>Regarding</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS> in tents or log cabins, I would enjoy much more being in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> as I believe <NS type="MA"><c>that</c></NS> is the right type of <NS type="S"><i>accomodation</i><c>accommodation</c></NS> for going camping<NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>Another point mentioned was the choice of activities. I would like to try sailing as I have never sailed before and also climbing as I enjoy hiking a lot. I actually have <NS type="R"><i>much</i><c>a lot of</c></NS> <NS type="RN"><i>resistance</i><c>stamina</c></NS> and balance so that will help me in both activities.</p>
+          <p>Now, I would like to request some information about clothes and money. What type of clothes and how much money should I take with me?</p>
+          <p>I look forward to receiving your reply and hope the information above will <NS type="DV"><i>helpful</i><c>help</c></NS> towards the preparation for the weeks in <NS type="RN"><i>subject</i><c>question</c></NS>.</p>
+          <p>Yours sincerely</p>
+          <p>Gabriela Matos</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Right size, right colour</p>
+          <p>Men tease women <NS type="RT"><i>as</i><c>for</c></NS> being <NS type="DN"><i>shop-cravers</i><c>shopping addicts</c></NS> and for having shopping as <NS type="R"><i>the nicest</i><c>their favourite</c></NS> <NS type="S"><i>passtime</i><c>pastime</c></NS>. However<NS type="MP"><c>,</c></NS> that impression is not always true.</p>
+          <p>Everyone enjoys wearing nice new clothes<NS type="RP"><i>, however</i><c>. However</c></NS><NS type="MP"><c>,</c></NS> do we really like the process of <NS type="IV"><i>chosing</i><c>choosing</c></NS> them? At times, it is not only <NS type="RD"><i>the</i><c>a</c></NS> matter of having to make a choice but the trouble of finding something<NS type="UP"><i>,</i></NS> which can <NS type="RV"><i>kill</i><c>waste</c></NS> a lot of time and <NS type="RY"><i>specially</i><c>especially</c></NS> when your <NS type="MN"><c>taste</c></NS> doesn't fit <NS type="W"><i>with the in</i><c>in with the</c></NS> fashion. The colour along with the style and size, blue or red, long or short, medium or large.</p>
+          <p>What is more, we can say that price is often very off-putting as well. Most people usually go shopping for something which is affordable, and many times they find, for example, a dress<NS type="UP"><i>,</i></NS> they like a lot but they cannot buy it because it is terribly expensive. Then, I consider <NS type="MA"><c>it</c></NS> a pain having to go around some more still thinking of that same dress.</p>
+          <p>Finally, <NS type="CE">you always talk yourself into some piece of clothing but that ended up being a tiring day</NS> of going in and out of fitting rooms and figuring out discounts. etc.</p>
+          <p>Is that enjoyable?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

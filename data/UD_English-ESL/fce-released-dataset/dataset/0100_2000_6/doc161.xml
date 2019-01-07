@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR632*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>18.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> Miss Helen Ryan,</p>
+          <p>I <NS type="RV"><i>was</i><c>have</c></NS> <NS type="S"><i>receveid</i><c>received</c></NS> your letter concerning two weeks at Camp California in the USA. So I will answer <NS type="R"><i>you about this different points</i><c>your questions</c></NS>.</p>
+          <p>I would like to travel only <NS type="MT"><c>in</c></NS> July because I think<NS type="UP"><i>,</i></NS> it's the best month for <NS type="M"><c>me to</c></NS> enjoy my holidays.</p>
+          <p><NS type="RT"><i>About</i><c>Regarding</c></NS> my accommodation, I would prefer a log cabin because it's more <NS type="S"><i>confortable</i><c>comfortable</c></NS> than a tent and less hot <NS type="R">with the sun</NS>. <NS type="RY"><i>Nevertheless</i><c>However</c></NS>, I hope, there <NS type="AGV"><i>are</i><c>is</c></NS> water and light inside this log <NS type="S"><i>cabine</i><c>cabin</c></NS>.</p>
+          <p><NS type="RT"><i>Between</i><c>From</c></NS> your different activities, I <NS type="TV"><i>will</i><c>would</c></NS> like to <NS type="DV"><i>practice</i><c>practise</c></NS>:</p>
+          <p>1. Surfing because I never do it and I <NS type="TV"><i>will</i><c>would</c></NS> like to learn <NS type="UA"><i>it</i></NS>.</p>
+          <p>2. Photography because <NS type="RT"><i>during</i><c>in</c></NS> my <NS type="RP"><i>freetime</i><c>free time</c></NS> I <NS type="RV"><i>make</i><c>take</c></NS> some pictures <NS type="RT"><i>about</i><c>of</c></NS> <NS type="L"><i>persons</i><c>people</c></NS>, <NS type="RN"><i>country</i><c>countryside</c></NS>, -- - So, I <NS type="UV"><i>will</i></NS> want to have more experience and a better technique to</p>
+          <p><NS type="R"><i><NS type="S"><i>succed</i><c>succeed</c></NS> at a good level</i><c>to be more successful</c></NS>.</p>
+          <p><NS type="DY">Nowthere,</NS> I would like <NS type="FV"><i>know</i><c>to know</c></NS> if it's possible to change my activities during my <NS type="DN"><i>sejar</i><c>stay</c></NS>. Can I change some <NS type="CN"><i>moneys</i><c>money</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="RP"><i>Camp</i><c>camp</c></NS> or near it? Is it possible to come with another person? And <NS type="RV"><i>know</i><c>are</c></NS> <NS type="SX"><i>the</i><c>there</c></NS> different prices for the same <NS type="FN"><i>holidays</i><c>holiday</c></NS>?</p>
+          <p>Thank you for <NS type="FV"><i>answer</i><c>answering</c></NS> my different questions.</p>
+          <p><NS type="ID"><i>Salutations.</i><c>Yours sincerely,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p><NS type="UD"><i>The shopping</i><c>Shopping</c></NS> is great when you have lots of <NS type="CN"><i>moneys</i><c>money</c></NS><NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> <NS type="FN"><i>times</i><c>time</c></NS>; you can buy clothes, shoes, make-up; <NS type="AGN"><i>CD</i><c>CDs</c></NS>, whatever. But<NS type="UP"><i>,</i></NS> it's not easy for workers, because the shops close their doors about 5.30 pm (half past five). When you work in <NS type="FD"><i>a</i><c>an</c></NS> office, a <NS type="DN"><i>manufactory</i><c>factory</c></NS>, a <NS type="RN"><i>society</i><c>company</c></NS>, you have the same <NS type="RN"><i>planning to</i><c>hours as</c></NS> them. So you <NS type="RY"><i>just can</i><c>can only</c></NS> go <NS type="UV"><i>to do</i></NS> <NS type="UD"><i>a</i></NS> shopping during your lunch break. If not, you can go <NS type="R"><i>the</i><c>on</c></NS> Saturdays but <NS type="M"><c>it's</c></NS> <NS type="R"><i>badly</i><c>hard</c></NS>, <NS type="MC"><c>because</c></NS> there are too <NS type="MQ"><c>many</c></NS> <NS type="RN"><i>costumers</i><c>customers</c></NS>. You can't walk, <NS type="MC"><c>or</c></NS> try clothes <NS type="MY"><c>on</c></NS>, <NS type="MC"><c>and</c></NS> it's very hot. The <NS type="S"><i>salewomen</i><c>saleswomen</c></NS> are too busy and haven't a moment <NS type="R"><i>for give you a counsil service</i><c>to give you advice</c></NS>.</p>
+          <p>In England, <NS type="CE">there aren't paper for make a present</NS>. It's different <NS type="RT"><i>than</i><c>to</c></NS> the other European countries.</p>
+          <p>Sometimes the <NS type="RP"><i>sales women</i><c>saleswomen</c></NS> aren't <NS type="DJ"><i>friendship</i><c>friendly</c></NS>, because they <NS type="RV"><i>have</i><c>are</c></NS> <NS type="UQ"><i>some</i></NS> <NS type="DJ"><i>stress</i><c>stressed</c></NS> or they <NS type="CE">aren't the sale feeling</NS>.</p>
+          <p>Finally I think<NS type="UP"><i>,</i></NS> it will be better if the shops stay open until 7.30 pm (half past seven). It will <NS type="RV"><i>be</i><c>provide</c></NS> a good service for their <NS type="RN"><i>costumer</i><c>customers</c></NS> and <NS type="MV"><c>be</c></NS> <NS type="IJ"><i>more cool</i><c>cooler</c></NS> for them.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

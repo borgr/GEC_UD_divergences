@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR20*0102*2000*01">
+  <candidate><personnel><language>French</language><age>31-40</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mister</p>
+          <p>I'm writing to you to complain about the musical show you <NS type="TV"><i><NS type="RV"><i>present</i><c>put on</c></NS></i><c>are putting on</c></NS> at the moment: "Over the Rainbow".</p>
+          <p>As my husband is a native and we live in Switzerland, we <NS type="S"><i>apreciate</i><c>appreciate</c></NS> <NS type="FV"><i><NS type="RV"><i>to pass</i><c>to spend</c></NS></i><c>spending</c></NS> a week in London every year. We are keen on theatre and musical <NS type="AGN"><i>show</i><c>shows</c></NS>. Your theatre is known to <NS type="RV"><i>present</i><c>put on</c></NS> excellent <NS type="RN"><i>spectacles</i><c>shows</c></NS>. We were never disappointed <NS type="RY"><i>so far</i><c>before</c></NS> and especially enjoyed "The Drama" you presented last year.</p>
+          <p>Anyway we had a very disappointing evening. <NS type="RY"><i>At first</i><c>First</c></NS>, we couldn't get <NS type="RD"><i>any</i><c>a</c></NS> discount, although you mention it <NS type="RT"><i>on</i><c>in</c></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS>. And the only tickets left were <NS type="UT"><i>at</i></NS> £20. Then the <NS type="RN"><i>spectacle</i><c>show</c></NS> began 45 minutes later than <NS type="RV"><i>mentioned</i><c>stated</c></NS>. Last but not least, Danny Brook was replaced by a different actor, whose name I probably forgot because of his poor performance. <NS type="UY"><i>Afterwards we</i><c>We</c></NS> are used to <NS type="FV"><i>eat</i><c>eating</c></NS> at your restaurant which is not only well known for it's good <NS type="UN"><i>price</i></NS> value but also for it's original <NS type="RN"><i>decoration</i><c>decor</c></NS>.</p>
+          <p>Therefore I ask you to give <NS type="SX"><i>use</i><c>us</c></NS> £20 back, because the two tickets were not <NS type="W"><i>more worth</i><c>worth more</c></NS>. I'm looking forward to hearing <NS type="W"><i>soon from you</i><c>from you soon</c></NS>.</p>
+          <p>yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't really good at keeping secrets. The following story will prove it. I left the office at six o'clock. I was free as the air. My husband was <NS type="RV"><i>following</i><c>doing</c></NS> a course all <NS type="UD"><i>the</i></NS> week in Berne. The kids were <NS type="RT"><i>by</i><c>with</c></NS> their grandmother, who <NS type="AGV"><i>take</i><c>takes</c></NS> care of them.</p>
+          <p>I drove to Ouchy where I <NS type="RV"><i>took</i><c>had</c></NS> a drink. It was so hot, I decided to go for a swim in tutry, although I hadn't <NS type="RD"><i>any</i><c>a</c></NS> <NS type="RN"><i>swimming-clothes</i><c>swimming costume</c></NS>. I knew a good place. I parked the car and <NS type="RV"><i>went</i><c>waited</c></NS> ten <NS type="S"><i>minuts</i><c>minutes</c></NS>. As I had <NS type="IV"><i>planed</i><c>planned</c></NS>, the place was deserted. I took my clothes <NS type="RT"><i>of</i><c>off</c></NS> and swam <NS type="MT"><c>for</c></NS> twenty minutes in the lake. Coming back, I noticed that my clothes were missing. I walked back, hoping I wouldn't come <NS type="S"><i>accross</i><c>across</c></NS> anyone and be able to drive back home. The car was missing too.</p>
+          <p>Unfortunately a police car drove by and the policeman saw me standing there nude. They drove me to their office after having given me <NS type="R"><i>use of their</i><c>a</c></NS> shirt. There I called Pat who picked me up. I felt so miserable that Pat laughed <NS type="FV"><i>seeing</i><c>to see</c></NS> me. Of course she told everything to my husband. If only Pat could keep secrets!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

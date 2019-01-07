@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1078*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Smith:</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> in order to complain about the musical show "Over the rainbow".</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, the advertisement said that the show was starring <NS type="UT"><i>by</i></NS> Tina Truelove and Danny Brook<NS type="RP"><i>, that</i><c>. That</c></NS> was not true<NS type="RP"><i>,</i><c>.</c></NS> Danny Brook did not act in the show, <NS type="RA"><i>it</i><c>there</c></NS> was a different actor and I <NS type="RV"><i>got</i><c>was</c></NS> disappointed with him.</p>
+          <p><NS type="R"><i>In order to</i><c>Regarding</c></NS> the times <NS type="M"><c>of the performance</c></NS>, the show was supposed to start at 19.30 and it started at 20.15<NS type="RP"><i>, nobody</i><c>. Nobody</c></NS> likes to wait 45 minutes just watching empty <NS type="S"><i>scenary</i><c>scenery</c></NS>.</p>
+          <p>Another thing, the tickets. The advertisement said that there were discounts available<NS type="RP"><i>, that</i><c>. That</c></NS> was false, there <NS type="AGV"><i>were</i><c>was</c></NS> not any kind of <NS type="AGN"><i>discounts</i><c>discount</c></NS>.</p>
+          <p>After all <NS type="MA"><c>that</c></NS> I just wanted to go to the <NS type="W"><i>restaurant of the theatre</i><c>theatre restaurant</c></NS> and have something to eat, but it was closed because the police had closed it. They had closed it because they had found the food in <NS type="MD"><c>a</c></NS> bad <NS type="AGN"><i>conditions</i><c>condition</c></NS>.</p>
+          <p>Just to finish, the advertisement said that the show would be a perfect evening out, let me tell <NS type="MA"><c>you</c></NS> that it <NS type="UY"><i>wasn't</i><c>was</c></NS> not. I paid <NS type="MT"><c>for</c></NS> a <NS type="RJ"><i>full</i><c>full-price</c></NS> ticket without <NS type="FN"><i>discounts</i><c>discount</c></NS> to wait 45 minutes, to see a musical show with a bad actor and after all <NS type="MA"><c>that</c></NS> could not have a sandwich because the restaurant was closed. I think the theatre should give me my money back and I hope you do <NS type="UA"><i>it</i></NS>.</p>
+          <p>Yours faithfully.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Technology.</p>
+          <p><NS type="UD"><i>The technology</i><c>Technology</c></NS> has changed, is changing and it will change our daily <NS type="IN"><i>lifes</i><c>lives</c></NS>. Technology is improving every day, soon everything will be done by a machine. Now we can cook in <NS type="FD"><i>a</i><c>an</c></NS> easier way than ten years <NS type="RY"><i>before</i><c>ago</c></NS>, we can talk with somebody who is 10000 kilometres from us and we can know what's happening in <NS type="RQ"><i>the other</i><c>another</c></NS> part of the world.</p>
+          <p>Another thing <NS type="MC"><c>that</c></NS> is changing our <NS type="AGN"><i>life</i><c>lives</c></NS> is the computer, especially <NS type="MD"><c>the</c></NS> Internet. More and more people are connecting <NS type="RT"><i>through</i><c>to</c></NS> the net. Soon we won't need to <NS type="RV"><i>get</i><c>leave</c></NS> <NS type="UT"><i>out from</i></NS> our homes. Now we can buy everything <NS type="RT"><i>by</i><c>via</c></NS> <NS type="MD"><c>the</c></NS> Internet, we can see what's happening <NS type="RT"><i>in</i><c>on</c></NS> Wall Street, we can send mail in <NS type="FD"><i>a</i><c>an</c></NS> easier way, by e-mail<NS type="MP"><c>,</c></NS> and many people <NS type="AGV"><i>has</i><c>have</c></NS> started to work at home <NS type="RT"><i>by</i><c>with</c></NS> their computers.</p>
+          <p>Technology has changed <NS type="W"><i>so much our daily <NS type="IN"><i>lifes</i><c>lives</c></NS></i><c>our daily lives so much</c></NS> that we won't be able to live without it. Nobody can imagine <NS type="FV"><i>to live</i><c>living</c></NS> without a <NS type="UP"><i>T.V.</i><c>TV</c></NS>, a computer, a microwave, a telephone.</p>
+          <p>There are machines for everything, <NS type="FV"><i>to write</i><c>writing</c></NS>, <NS type="FV"><i>to cook</i><c>cooking</c></NS>, <NS type="FV"><i>to go</i><c>going</c></NS> from one place to <NS type="FA"><i>other</i><c>another</c></NS>, <NS type="FV"><i>to talk</i><c>talking</c></NS> with somebody who is not with you.</p>
+          <p>Our <NS type="IN"><i>lifes</i><c>lives</c></NS> are very different from our <NS type="RP"><i>grandparent's</i><c>grandparents'</c></NS> <NS type="IN"><i>lifes</i><c>lives</c></NS> and that's because <NS type="MT"><c>of</c></NS> <NS type="UD"><i>the</i></NS> technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

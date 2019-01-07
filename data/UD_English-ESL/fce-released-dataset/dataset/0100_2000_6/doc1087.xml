@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR436*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Ms Ryan</p>
+          <p>I received your letter and I am writing to give you the information you asked <NS type="MT"><c>for</c></NS>.</p>
+          <p>First of all I would like to travel only in July because I am going to work in <NS type="S"><i>Aougust</i><c>August</c></NS> to earn money and after <NS type="MA"><c>that</c></NS> (from September to June) I go to university as usual.</p>
+          <p>About <NS type="S"><i>accomodation</i><c>accommodation</c></NS> at Camp California, I would rather be in a tent than in a log cabin because in July the weather is really good and when I am in a tent I feel closer <NS type="RT"><i>of</i><c>to</c></NS> nature.</p>
+          <p>I choose climbing and sailing for the activities. Although I have never <NS type="TV"><i>climb</i><c>climbed</c></NS> (so I am a complete beginner)<NS type="RP"><i>.</i><c>,</c></NS> I am very interested in learning <NS type="FV"><i><NS type="RP"><i>Climbing</i><c>climbing</c></NS></i><c>to climb</c></NS>. <NS type="UC"><i>But</i></NS> I sailed a long time ago so I am quite a beginner <NS type="M"><c>at that</c></NS> too.</p>
+          <p>Finally I would like to know what sort of clothes I should bring and also if I should bring some money. You can contact me for further information.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>Astrid de Martel Perrault</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p>I was happy to receive your letter and, as you asked me, I will tell you <NS type="R"><i>how</i><c>about</c></NS> my experience <NS type="UV"><i>was</i></NS> and how great it was.</p>
+          <p>The most exciting thing when you help at a pop concert is that you can meet popstars, and, indeed, I met OUR favourite popstar! I talked to him and we ate a sandwich together talking about his album. I will never forget <NS type="RD"><i>this</i><c>that</c></NS> moment. But don't worry, I thought about you and he signed an autograph for you<NS type="RP"><i>, you</i><c>.  You</c></NS> will find it with this letter.</p>
+          <p>On the other hand I worked very hard because the concert finished very late and after the concert I had to clean up the <NS type="RN"><i>room</i><c>hall</c></NS> and you can't imagine how dirty the fans are! But I could stand up on the <NS type="RN"><i>scene</i><c>stage</c></NS> and talk with the musicians.</p>
+          <p>When I <NS type="TV"><i>receive</i><c>have received</c></NS> the photos I took, I will write <NS type="MT"><c>to</c></NS> you again to give them to you.</p>
+          <p>Looking forward to hearing from you</p>
+          <p>Love, Astrid</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE17*0100*2001*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Maria Smith,</p>
+          <p>Thank you for your letter and I will try to help you. I <NS type="RV"><i>will</i><c>must</c></NS> remind you that the international student conference will be <NS type="UD"><i>the</i></NS> next month on the first of July.</p>
+          <p>The hotel that we booked <NS type="TV"><i>was</i><c>is</c></NS> the Palace Hotel<NS type="MP"><c>,</c></NS> which is near the bus station. When you are in the bus station you will catch <NS type="UD"><i>the</i></NS> bus number 37<NS type="MP"><c>,</c></NS> which will go to <NS type="MD"><c>the</c></NS> town <NS type="SA"><i>center</i><c>centre</c></NS>. From there you will walk <NS type="RT"><i>until</i><c>to</c></NS> the college because it is easier to get there <NS type="M"><c>that way</c></NS> than to get <NS type="UT"><i>with</i></NS> another bus. Anyway the college is the first road on your right from <NS type="MD"><c>the</c></NS> town <NS type="SA"><i>center</i><c>centre</c></NS>.</p>
+          <p>After the conference some <NS type="CL"><i>drink and food</i><c>food and drink</c></NS> will be available in the <NS type="SA"><i><NS type="DJ"><i><NS type="UP"><i>sport-center</i><c>sport center</c></NS></i><c>sports center</c></NS></i><c>sports centre</c></NS><NS type="MP"><c>,</c></NS> which is well equipped for <NS type="FN"><i><NS type="DN"><i>disco-party</i><c>disco</c></NS></i><c>discos</c></NS>. Our party has a special <NS type="RN"><i>subject</i><c>theme</c></NS><NS type="MP"><c>:</c></NS> 'Western'. So we suggest <NS type="RV"><i>to wear</i><c>wearing</c></NS> <NS type="RJ"><i>western</i><c>cowboy-style</c></NS> clothes.</p>
+          <p>On your last day you could go to the <NS type="DJ"><i><NS type="UP"><i><NS type="S"><i>sport-musseum</i><c>sport-museum</c></NS></i><c>sport museum</c></NS></i><c>sports museum</c></NS><NS type="MP"><c>,</c></NS> which is <NS type="RJ"><i>grateful</i><c>great</c></NS> and famous around the world<NS type="MP"><c>,</c></NS> or <NS type="RY"><i>only</i><c>just</c></NS> go for a walk around <NS type="UP"><i>Reconvillier-Park</i><c>Reconvillier Park</c></NS>.</p>
+          <p>I hope that I <NS type="TV"><i>had</i><c>have</c></NS> <NS type="TV"><i>answer</i><c>answered</c></NS> all of your <NS type="FN"><i>question</i><c>questions</c></NS> and that the conference will be <NS type="RJ"><i>grateful</i><c>great</c></NS>.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>From:</p>
+          <p>To: the group leader</p>
+          <p>Subject: old Roman School.</p>
+          <p>Introduction: I am writing to <NS type="AS"><i><NS type="RV"><i>explain</i><c>describe</c></NS> you about the location, the architecture</i><c>describe the location and architecture for you</c></NS> and <NS type="MV"><c>tell</c></NS> the story of the old Roman school <NS type="RT"><i>from</i><c>of</c></NS> Courtelary. I hope that you will <NS type="RV"><i>get</i><c>go</c></NS> there with your group because it has a lot of beautiful <NS type="AGN"><i>thing</i><c>things</c></NS> to see. It is the <NS type="RJ"><i>unique</i><c>only</c></NS> old Roman school in the world.</p>
+          <p>Location: Courtelary is situated in Switzerland and the school is on the top of the town's hill. This place is very important because it is there that an <NS type="RP"><i>Emperor</i><c>emperor</c></NS> <NS type="TV"><i>had growing</i><c>grew</c></NS> up.</p>
+          <p>Architecture: It is a typical <NS type="MN"></NS> from this <NS type="S"><i>epoque</i><c>epoch</c></NS> with beautiful <NS type="RN"><NS type="DN"><i>draw</i><c>drawing</c></NS></NS> on the wall and <NS type="R">first kind of writing</NS> in the <NS type="DJ"><i>sport</i><c>sports</c></NS> <NS type="SA"><i>center</i><c>centre</c></NS>. The door is enormous because for them the <NS type="DN"><i>entry</i><c>entrance</c></NS> was <NS type="R"><i>the most</i><c>very</c></NS> important.</p>
+          <p>History: <NS type="MA"><i>All</i><c>It all</c></NS> began when Ogus Micius said that <NS type="AGN"><i>Roman</i><c>Romans</c></NS> <NS type="TV"><i>need</i><c>needed</c></NS> to go <NS type="RT"><i>at</i><c>to</c></NS> school. They decided to build more <NS type="AGN"><i>school</i><c>schools</c></NS><NS type="MP"><c>,</c></NS> <NS type="RY"><i>specially</i><c>especially</c></NS> in Switzerland because the people <NS type="MY"><c>there</c></NS> were <NS type="DV"><i>considerated</i><c>considered</c></NS> clever. During the Second World War all <NS type="MD"><c>the</c></NS> <NS type="AGN"><i>school</i><c>schools</c></NS> were demolished <NS type="MC"><c>and</c></NS> only <NS type="DA"><i>our</i><c>ours</c></NS> is left.</p>
+          <p>Conclusion: I <NS type="TV"><i>gave</i><c>have given</c></NS> you a lot of <NS type="AGN"><i>reason</i><c>reasons</c></NS> to <NS type="RV"><i>get</i><c>go</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> this building and I hope you will enjoy your trip <NS type="RT"><i>in</i><c>to</c></NS> my town.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

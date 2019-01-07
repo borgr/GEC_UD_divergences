@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR855*0100*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I am writing to thank you for the good programme, especially <NS type="RT"><i>on</i><c>for</c></NS> Wednesday, because the other <NS type="FN"><i>student</i><c>students</c></NS> and I like <NS type="RP"><i>Art</i><c>art</c></NS> <NS type="RP"><i>Galleries</i><c>galleries</c></NS>.</p>
+          <p>But<NS type="UP"><i>,</i></NS> <NS type="UD"><i>the</i></NS> last Friday, we <NS type="TV"><i>have seen</i><c>saw</c></NS> an advertisement for the "London Fashion and Leisure Show<NS type="MP"><c>"</c></NS>. Now, we want to know if it is possible to go to <NS type="RV"><i>watch</i><c>see</c></NS> this Show. It is on Tuesday 14th March in the Central Exhibition Hall between 10.00 and 19.00.</p>
+          <p>We think that it is a great opportunity because it is just <NS type="DY"><i>one time</i><c>once</c></NS> per year and it is free for <NS type="S"><i>stundents</i><c>students</c></NS>.</p>
+          <p>We suggest you <NS type="FV"><i>to change</i><c>change</c></NS> the programme. We think that Monday and Wednesday are good, but we ask you to change the programme on Tuesday. If it is possible, we want to go to the "London Fashion and Leisure Show" and <NS type="UV"><i>don't</i><c>not</c></NS> go shopping.</p>
+          <p>We look forward to hearing from you as soon as possible.</p>
+          <p>yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p>Last July, I went to spend two weeks with my best <NS type="MN"><c>friend</c></NS> in a beautiful village in the south of France, near Saint-Tropez.</p>
+          <p>We <NS type="RV"><i>lived</i><c>stayed</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> my aunt's house <NS type="RA"><i>who</i><c>which</c></NS> was in the <NS type="SA"><i>center</i><c>centre</c></NS> of the village. In front of my aunt's house, there <NS type="TV"><i>is</i><c>was</c></NS> a house with <NS type="MD"><c>a</c></NS> swimming pool, garage and garden. My aunt told me it was <NS type="RD"><i>the</i><c>a</c></NS> famous French singer's house.</p>
+          <p>One night, I heard a strange sound. I <NS type="S"><i>loocked</i><c>looked</c></NS> outside and saw two men go into the house in front of mine. They went into the house through a window. I <NS type="SX"><i>though</i><c>thought</c></NS> it was some <NS type="RN"><i>rubbers</i><c>robbers</c></NS>.</p>
+          <p>I said to my friend that I wanted to go to see and he must phone <NS type="UT"><i>to</i></NS> the police. I went near the house and waited to <NS type="RV"><i>look</i><c>see</c></NS> what <NS type="UA"><i>it</i></NS> would happen.</p>
+          <p>After ten minutes, one man came out with a big bag and <NS type="RV"><i>went</i><c>got</c></NS> into his car. When the other man came out, I caught him and <NS type="IV"><i>fighted</i><c>fought</c></NS> him. The first man went away<NS type="UP"><i>,</i></NS> because a police car arrived.</p>
+          <p>The policeman came to take the <NS type="S"><i>bugglar</i><c>burglar</c></NS> and thanked me <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to catch</i><c>catching</c></NS> him.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

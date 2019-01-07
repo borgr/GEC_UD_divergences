@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR990*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>31-40</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you to complain about the musical show, <NS type="R"><i><NS type="S"><i>wich</i><c>which</c></NS></i><c>where</c></NS> everything was completely different from the advertisement.</p>
+          <p>Firstly, I would like to say that I am very disappointed and upset with the show I saw. To begin my <NS type="DN"><i>complains</i><c>complaint</c></NS> I <NS type="RV"><i>can</i><c>might</c></NS> start with the actor - <NS type="MA"><c>who</c></NS> was a different one <NS type="M"><c>to the one advertised</c></NS>, not Danny Brook. Tina Truelove performed <NS type="DY"><i>marvellous</i><c>marvellously</c></NS>, but him<NS type="MP"><c>,</c></NS> I think he is a "street actor" from Covent Garden. Even worse <NS type="UA"><i>it</i></NS> was the delay<NS type="RP"><i>, the</i><c>. The</c></NS> Show started at 20:15 instead of 19:30, <NS type="RA"><i>that</i><c>which</c></NS> drove me mad.</p>
+          <p>I am a student visiting London for one week only and I asked for <NS type="MD"><c>a</c></NS> discount ticket<NS type="RP"><i>,</i><c>.</c></NS> I could not get it, it was really unfair<NS type="RP"><i>,</i><c>.</c></NS> I paid <NS type="MD"><c>the</c></NS> normal price. Also there was another problem<NS type="RP"><i>,</i><c>.</c></NS> I planned to visit the Theatre restaurant after the show, I could not, <NS type="MA"><c>it</c></NS> was closed because it <NS type="TV"><i>has been</i><c>was being</c></NS> refurbished and redecorated.</p>
+          <p>Anyway, I expected to have a perfect evening out<NS type="MP"><c>,</c></NS> however<NS type="MP"><c>,</c></NS> I <NS type="W"><i>had just</i><c>just had</c></NS> a terrible time, everything went wrong. The only thing to do is: to compensate me, send <NS type="MA"><c>me</c></NS> my money back<NS type="RP"><i>,</i><c>.</c></NS> I am sending my ticket for that<NS type="RP"><i>:</i><c>.</c></NS> Hope you'll be fair with me otherwise I am going to take this further.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+          <p>Márcia</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>"Techno life"</p>
+          <p><NS type="MD"><i><NS type="MP"><i>Twenty first</i><c>Twenty-first</c></NS></i><c>The twenty-first</c></NS> century - technology, technology, and technology. Modern life <NS type="UA"><i>it</i></NS> has been full of science and <NS type="FN"><i><NS type="S"><i>tecnologies</i><c>technologies</c></NS></i><c>technology</c></NS>.</p>
+          <p>I am very pleased that I <NS type="MV"><c>was</c></NS> born <NS type="R"><i>under</i><c>in a time when there is</c></NS> such good <NS type="FN"><i><NS type="S"><i>tecnologies</i><c>technologies</c></NS></i><c>technology</c></NS> <NS type="R"><i>like</i><c>but</c></NS> my parents didn't have the same luck. My life is much easier with all <NS type="CD"><i>these</i><c>this</c></NS> <NS type="CN"><i>stuffs</i><c>stuff</c></NS> <NS type="W"><i>above mentioned</i><c>mentioned above</c></NS> - <NS type="S"><i>tecnology</i><c>technology</c></NS> and science.</p>
+          <p>Computers have changed people's <NS type="AGN"><i>life</i><c>lives</c></NS><NS type="RP"><i>, many</i><c>. Many</c></NS> of them can work from home, they don't need to go to their offices. <NS type="MD"><c>The</c></NS> Internet is very handy, you can <NS type="RV"><i>buy</i><c>shop</c></NS>, send e-mail messages, or even have sex, <NS type="RA"><i>that</i><c>which</c></NS> is really funny.</p>
+          <p>There is <NS type="MD"><c>an</c></NS> ambiguity about technology - <NS type="MA"><c>it</c></NS> can <NS type="RV"><i>bring</i><c>create</c></NS> good things and terrible things as well. One good side is <NS type="MA"><c>it</c></NS> <NS type="TV"><i>making</i><c>makes</c></NS> life easier - <NS type="FN"><i>computer</i><c>computers</c></NS>, mobile phones, vending machines, etc.... The bad side is <NS type="MA"><c>we</c></NS> <NS type="MV"><c>can</c></NS> <NS type="FV"><i>to use</i><c>use</c></NS> <NS type="S"><i>tecnology</i><c>technology</c></NS> for war - missiles, weapons, etc....</p>
+          <p>Indeed <NS type="S"><i>tecnology</i><c>technology</c></NS> has changed our lives, we have become more <NS type="S"><i>scepitical</i><c>sceptical</c></NS> and cold. I believe that people should take <NS type="R">just good advantages that</NS>. Sometimes I think <NS type="S"><i>tecnology</i><c>technology</c></NS> is not a good thing....</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

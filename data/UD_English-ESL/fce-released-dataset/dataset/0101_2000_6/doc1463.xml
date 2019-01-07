@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR568*0101*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Brown,</p>
+          <p>I am writing in connection with a surprise birthday party for your husband, Mr. Brown. We are writing to invite you and to give you some information about the party.</p>
+          <p>All our class love Mr Brown very much, so we decided to organise a surprise party for him. The party <NS type="SX"><i>in</i><c>is</c></NS> on Tuesday 16 of June. You should come <NS type="W"><i><NS type="RT"><i>on</i><c>at</c></NS> 3 pm <NS type="RT"><i>in</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> college <NS type="RP"><i>Canteen</i><c>canteen</c></NS></i><c>to the college canteen at 3 pm</c></NS>. We have bought some <NS type="S"><i>snaks</i><c>snacks</c></NS> to eat and three students will sing for him, <NS type="RY"><i>also</i><c>too</c></NS>.</p>
+          <p>Besides this, we have invited all <NS type="MD"><c>the</c></NS> other teachers and the Principal of our school. Of course all the class will take <NS type="RN"><i>party</i><c>part</c></NS> <NS type="RT"><i>to</i><c>in</c></NS> this party. <NS type="RY"><i>Furthermore</i><c>However</c></NS>, we don't know what present <NS type="FV"><i>buying</i><c>to buy</c></NS> for him. So we would appreciate <NS type="MA"><c>it</c></NS> if you <NS type="MV"><c>could</c></NS> help us with this matter. We have thought <NS type="MT"><c>about</c></NS> <NS type="FV"><i>to buy</i><c>buying</c></NS> a <NS type="RP"><i>cd</i><c>CD</c></NS> or a book. He loves to read books. What do you <NS type="RV"><i>believe</i><c>think</c></NS>? If he needs something else, we are happy to buy this.</p>
+          <p>I am looking forward to hearing from you soon especially as I am concerned about this matter.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Nowadays people's life has many problems which need some solutions. <NS type="RY"><i>Especially</i><c>In particular</c></NS> <NS type="DN"><i>younger's</i><c>young people's</c></NS> <NS type="FN"><i>life</i><c>lives</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> been very difficult <NS type="MT"><c>for</c></NS> the last <NS type="MQ"><c>few</c></NS> years.</p>
+          <p>The only appropriate <NS type="MN"><c>way</c></NS> to solve people's problems is the family. Teenagers usually think about a matter which is drugs. Their family could explain <NS type="MT"><c>to</c></NS> them how they avoid things. They know the way to do this. And the way is love.</p>
+          <p>Apart from this, parents could be very helpful to their children <NS type="RT"><i>with</i><c>regarding</c></NS> difficulties <NS type="RT"><i>of</i><c>at</c></NS> school. They help their children with lessons and give them some useful advice with their relationships. Because sometimes they are upset when they lose a friend.</p>
+          <p>On the other hand, friends are not suitable <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to do</i><c>doing</c></NS> this. <NS type="W"><i><NS type="S"><i>Definately</i><c>Definitely</c></NS>, they</i><c>They definitely</c></NS> don't give real solutions and advice. There is a chance <NS type="M"><c>that they</c></NS> <NS type="W"><i>not <NS type="TV"><i>to be</i><c>are</c></NS></i><c>are not</c></NS> <NS type="RY"><i>so</i><c>such</c></NS> good friends and <NS type="RV"><i>imitate</i><c>pretend</c></NS> that they are.</p>
+          <p>The way <NS type="MT"><c>in</c></NS> which <NS type="MD"><c>the</c></NS> family comes in contact with the members so easily is love. So we should trust only our family when we need help or solutions <NS type="RT"><i>of</i><c>to</c></NS> our problems.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR480*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>Thank you for your letter informing me that I have won the competition. Below are the <NS type="M"><c>answers to the</c></NS> <NS type="FN"><i>question</i><c>questions</c></NS> that you have asked me.</p>
+          <p>Firstly I will <NS type="W"><i>be able to travel <NS type="RY"><i>just</i><c>only</c></NS></i><c>only be able to travel</c></NS> in <NS type="RP"><i>july</i><c>July</c></NS> because my class starts the month after <NS type="UA"><i>this</i></NS>.</p>
+          <p>Secondly, although the <NS type="SX"><i>long</i><c>log</c></NS> cabins appeal to me, I would prefer <NS type="MD"><i>the</i><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I think it is more comfortable and <NS type="S"><i>atractive</i><c>attractive</c></NS>.</p>
+          <p>Finally I would like to <NS type="RV"><i>practise</i><c>do</c></NS> basketball and swimming, because in my school I used to <NS type="RV"><i>train</i><c>do</c></NS> those sports a lot. <NS type="M"><i>Even</i><c>I still do so even</c></NS> now <NS type="RT"><i>in</i><c>at</c></NS> a <NS type="DJ"><i>sport</i><c>sports</c></NS> center, but not much.</p>
+          <p>Let me know <NS type="RQ"><i>which</i><c>what</c></NS> kind of <NS type="RN"><i>cloth</i><c>clothing</c></NS> I have to <NS type="RV"><i>carry</i><c>take</c></NS> with me as well as <NS type="R"><i>the</i><c>how much</c></NS> money <NS type="UA"><i>that</i></NS> we will need.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Nowadays most <NS type="U"><i>of the</i></NS> people are <NS type="S"><i>atractted</i><c>attracted</c></NS> <NS type="RT"><i>by</i><c>to</c></NS> shopping centers, which <NS type="AGV"><i>is</i><c>are</c></NS> not always enjoyable. So, I have some opinions <NS type="RT"><i>to</i><c>about</c></NS> this, which I would like to tell.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I think people have to be careful <NS type="RT"><i>in</i><c>about</c></NS> the things that they buy because probably <NS type="M"></NS> are not <NS type="UD"><i>a</i></NS> good quality, <NS type="RA"><i>this</i><c>which</c></NS> is very <NS type="RJ"><i>annoyed</i><c>annoying</c></NS>.</p>
+          <p>Secondly, people have to look after their money in the shops, and <NS type="UV"><i>don't</i><c>not</c></NS> spend it <NS type="RT"><i>in</i><c>on</c></NS> <NS type="UD"><i>the</i></NS> <NS type="FN"><i>thing</i><c>things</c></NS> that they don't need<NS type="MP"><c>,</c></NS> because by the end of the month they won't have <NS type="MQ"><c>any</c></NS> money.</p>
+          <p>Finally I think the <NS type="W"><i><NS type="AGN"><i>product</i><c>products</c></NS> of the shops</i><c>shops' products</c></NS> are <NS type="U"><i>in a</i></NS> good quality and <NS type="DY"><i>reasonable</i><c>reasonably</c></NS> <NS type="TV"><i>price</i><c>priced</c></NS>, but sometimes the <NS type="W"><i>staff of the shop</i><c>shop's staff</c></NS> is not very friendly <NS type="RT"><i>with</i><c>to</c></NS> you<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="X"><i>think is not</i><c>don't think it's</c></NS> very nice to buy <NS type="UD"><i>the</i></NS> <NS type="FN"><i>thing</i><c>things</c></NS> there, with these people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

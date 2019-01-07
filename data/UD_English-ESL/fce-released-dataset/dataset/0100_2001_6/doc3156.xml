@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE67*0100*2001*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> Mrs Maria Smith,</p>
+          <p>I'm pleased to be able to help you <NS type="RT"><i>for</i><c>with</c></NS> the international student conference.</p>
+          <p>The hotel <NS type="RT"><i>in</i><c>into</c></NS> which the group has been booked <NS type="UT"><i>to</i></NS> is the Palace <NS type="RP"><i>hotel</i><c>Hotel</c></NS>, which is situated near the big bridge of Mont Blanc.</p>
+          <p>To get from the hotel to the conference, you have to take the highway <NS type="MD"><i><NS type="RP"><i>indirection</i><c>in direction</c></NS></i><c>in the direction</c></NS> of Lausanne, and after nearly half an hour of driving you come out at the place which is <NS type="RV">indicated</NS> with Coppet, Divonne. When you come out, just go <NS type="U"><i>on your</i></NS> right, and then turn left to follow the <NS type="RN"><i>indications</i><c>directions</c></NS> to the Châtaigneroie <NS type="RP"><i>school</i><c>School</c></NS>.</p>
+          <p>The end-of-conference party will take place at the same place. Some musicians will play classical music, and there will be many different drinks and food.</p>
+          <p><NS type="RP"><i>you</i><c>You</c></NS> should wear <NS type="UQ"><i>some</i></NS> formal clothes, but not <NS type="DY"><i>necessary</i><c>necessarily</c></NS> really pretty clothes<NS type="MP"><c>.</c></NS></p>
+          <p>For three hours, you could visit the museum of the Red Cross, which is very interesting.</p>
+          <p>I hope that <NS type="AGD"><i>these</i><c>this</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> will help you<NS type="MP"><c>.</c></NS></p>
+          <p>Sincerely yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>The <NS type="RJ"><i>portable</i><c>mobile</c></NS> phone, a very useful invention!</p>
+          <p>During all <NS type="MP"><i>mankind</i><c>mankind's</c></NS> history, there were <NS type="RN"><NS type="DN"><i>discovers</i><c>discoverers</c></NS></NS> who tried to make human life better, but it is in the last century that <NS type="AS"><i>there were the <NS type="IJ"><i>most biggest</i><c>biggest</c></NS> discoveries made</i><c>the biggest discoveries were made</c></NS>.</p>
+          <p>When the phone without <NS type="MD"><c>a</c></NS> cable was invented, one wasn't sure if it would be a success or not. But the research went on, and the <NS type="RJ"><i>portable</i><c>mobile</c></NS> phone is <NS type="W"><i>getting always</i><c>always getting</c></NS> smaller and more useful.</p>
+          <p>The <NS type="RJ"><i>portable</i><c>mobile</c></NS> phone is an important invention, because nearly everybody has one, and so one can always call somebody if there is a problem.</p>
+          <p>Moreover, some <NS type="RJ"><i>portable</i><c>mobile</c></NS> phones have a connection to the <NS type="RP"><i>web</i><c>Web</c></NS>, so it is easy to read <NS type="MD"><c>the</c></NS> newspapers if one hasn't enough money to buy <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p>Personally, the <NS type="RJ"><i>portable</i><c>mobile</c></NS> phone has affected my own life, because when somebody is phoning <NS type="MA"><c>me</c></NS> at home, I don't have to rush to <NS type="RV"><i>take</i><c>get</c></NS> the phone, being afraid that <NS type="R">it's too late</NS>.</p>
+          <p>I recommend this extremely important invention to those who still don't have a <NS type="RJ"><i>portable</i><c>mobile</c></NS> phone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

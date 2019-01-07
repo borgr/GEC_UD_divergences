@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1074*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about the musical show "Over the Rainbow".</p>
+          <p>Firstly, the actors were supposed to be Danny Brook and Tina Truelove. However, Danny Brook did not appear in the show, it was another actor. This was really disappointing.</p>
+          <p>Secondly, the show was really late <NS type="MV"><c>starting</c></NS>. It started at 20.15, not at 19.30 as it was supposed to <NS type="UV"><i>be</i></NS>. And, although you <NS type="TV"><i>have</i><c>had</c></NS> promised <NS type="MA"><c>them</c></NS> in your advertisement, there were no discounts available.</p>
+          <p>To make things <NS type="FJ"><i>worst</i><c>worse</c></NS>, the restaurant was closed. The manager said it was closed because they had not been informed that there would be a show <NS type="RT"><i>in</i><c>on</c></NS> that date.</p>
+          <p>To sum up, it was not a perfect evening out. And, I would appreciate <NS type="MA"><c>it</c></NS> if you <NS type="TV"><i>give</i><c>gave</c></NS> me a refund.</p>
+          <p>I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>What will clothes be like 100 years from now?</p>
+          <p>In my opinion, the clothes will be more colourful, <NS type="RJ"><i>funny</i><c>fun</c></NS> and <NS type="S"><i>confortable</i><c>comfortable</c></NS>. I think that we will not <NS type="RV"><i>use</i><c>wear</c></NS> formal clothes anymore. People will prefer to <NS type="RV"><i>use</i><c>wear</c></NS> <NS type="S"><i>confortable</i><c>comfortable</c></NS> clothes, even to go to the office.</p>
+          <p>The clothes will be more colourful and consequently more <NS type="RJ"><i>funny</i><c>fun</c></NS>. We will not <NS type="RV"><i>use</i><c>wear</c></NS> black clothes as we <NS type="UV"><i>are</i></NS> used to <NS type="UV"><i>do</i></NS>. People will <NS type="RV"><i>use</i><c>wear</c></NS> yellow, pink and green clothes. This way, people tend to be happier.</p>
+          <p>However, the clothes will not be <NS type="RT"><i>as</i><c>like</c></NS> <NS type="MD"><c>those</c></NS> teenagers <NS type="UV"><i>use</i></NS> <NS type="TV"><i>to wear</i><c>wear</c></NS> nowadays to go to "raves". <NS type="AGA"><i>It</i><c>They</c></NS> will be more beautiful and clean.</p>
+          <p>Mainly, people will not be so fashionable as they are nowadays. They will wear <NS type="FD"><i>a</i><c>an</c></NS> <NS type="MN"><c>item of</c></NS> <NS type="R"><i>clothe</i><c>clothing</c></NS> only if they feel good wearing it. Actually, I think that the clothes will be really <NS type="IJ"><i>simplier</i><c>simple</c></NS> in 100 years and I hope to be alive until then.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

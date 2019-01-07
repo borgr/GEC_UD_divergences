@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR649*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear MRS HELEN RYAN<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I am very pleased with the prize that I <NS type="TV"><i>won</i><c>have won</c></NS> and I would like to give you more information about <NS type="RA"><i>it</i><c>me</c></NS>, because I would really really like to go to California<NS type="RP"><i>,</i><c>.</c></NS> I have always wanted to go to California.</p>
+          <p>First of all, I'm very ill at the moment and I need about a week to get better and I would like to travel within the next few weeks if <NS type="MA"><c>that</c></NS> is possible (July 2000).</p>
+          <p>In <NS type="S"><i>accodance</i><c>accordance</c></NS> with what you have told me about the accommodation I would prefer to go and stay in tents, because I think <NS type="SX"><i>their</i><c>they're</c></NS> unusual and <NS type="MA"><c>that</c></NS> is not something that you do <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+          <p>You have also asked me to give you two activities (sports) which I would like to do while I am at the camp. The kind of activities that I like from the list that you gave me are Basketball and Swimming.</p>
+          <p>I would also like to ask you about the weather to see what kind of clothes <NS type="W"><i><NS type="RV"><i>shall</i><c>should</c></NS> I</i><c>I should</c></NS> take with me.</p>
+          <p>On the other hand I don't know how much money I should take. Is the food paid for? What about all the other expenses like gas, electricity, water and all the others.</p>
+          <p>May I ask you to <NS type="RV"><i>bring</i><c>give</c></NS> me some more information about the <NS type="RN"><i><NS type="FN"><i>question</i><c>questions</c></NS></i><c>matters</c></NS> that I have asked you <NS type="MT"><c>about</c></NS>?</p>
+          <p>Thank you very much <NS type="RT"><i>about</i><c>for</c></NS> your letter<NS type="MP"><c>.</c></NS></p>
+          <p>Yours SINCERELY</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Andersen</p>
+          <p>I would like to give you<NS type="UP"><i>,</i></NS> and the others in the class my opinion (<NS type="RT"><i>for</i><c>concerning</c></NS> the video that you are going to <NS type="RV"><i>do</i><c>make</c></NS>) about which lessons and other activities should be filmed and why.</p>
+          <p>Well, <NS type="ID"><i>in my point of view</i><c>from my point of view</c></NS> the most interesting lessons that we <NS type="RV"><i>do</i><c>have</c></NS> at school <NS type="RC"><i>but</i><c>and</c></NS> <NS type="MA"><c>which</c></NS> <NS type="W"><i>in real life are useful</i><c>are useful in real life</c></NS><NS type="UP"><i>,</i></NS> are maths because everything we do is all about maths. The other lesson that I think is very important is physics <NS type="RT"><i>because of</i><c>for</c></NS> the same reason <NS type="R"><i>as maths</i><c>that maths is important</c></NS>. On the other hand I think that geography is important as well because we <NS type="RV"><i>must</i><c>should</c></NS> all know WHERE we live, what <NS type="W"><i>are the problems</i><c>the problems are</c></NS> that we have in this world, what problem <NS type="UV"><i>does</i></NS> every different country <NS type="TV"><i>have</i><c>has</c></NS> and where <NS type="UV"><i>does</i></NS> the petroleum <NS type="AGV"><i>come</i><c>comes</c></NS> from and what <NS type="W"><i>are the advantages and disadvantages <NS type="RT"><i>for</i><c>of</c></NS> <NS type="MV"><c>using</c></NS> it</i><c>the advantages and disadvantages of using it are</c></NS> and <NS type="MT"><c>about</c></NS> the gold as well<NS type="RP"><i>, there</i><c>. There</c></NS> are loads of <NS type="SX"><i>thinks</i><c>things</c></NS> about geography that we <NS type="TV"><i>MUST KNOW</i><c>OUGHT TO KNOW</c></NS>.</p>
+          <p>In accordance with all that I have written to you above I think that there is something else you must put in the <NS type="DN"><i>video film</i><c>video</c></NS>. You can put <NS type="MY"><c>in</c></NS> a few activities (sports) like basketball, football, <NS type="MC"><c>and</c></NS> tennis, but only those because <NS type="DA"><i>their</i><c>they</c></NS> are very popular and people will <NS type="RV"><i>have</i><c>be</c></NS> <NS type="DJ"><i>interest</i><c>interested</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> them.</p>
+          <p>My <NS type="DN"><i>advise</i><c>advice</c></NS> for you is: "Do not put <NS type="MY"><c>in</c></NS> <NS type="SX"><i>to</i><c>too</c></NS> <NS type="CQ"><i>much</i><c>many</c></NS> subjects<NS type="RP"><i>, just</i><c>. Just</c></NS> put <NS type="MY"><c>in</c></NS> a few subject and make them look interesting<NS type="MP"><c>.</c></NS>"</p>
+          <p>Yours SINCERELY</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

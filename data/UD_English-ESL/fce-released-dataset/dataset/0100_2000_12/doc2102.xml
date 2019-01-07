@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR847*0100*2000*02">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I wanted to thank you for allowing us to have this great opportunity to <NS type="FV"><i>visiting</i><c>visit</c></NS> London.</p>
+          <p>I have read the programme and I find it very appealing, <NS type="RY"><i>specially</i><c>especially</c></NS> because of the River trip to Greenwich. However, I have seen an advertisement for the London Fashion and Leisure Show and I was wondering if we could visit it. The show is going to be at the Central Exhibition Hall <NS type="MT"><c>on</c></NS> the 14th of March from 10.00 to 19.00. <NS type="R">There will be shown</NS> the latest fashions, <NS type="MP"><i>leisure</i><c>leisure-</c></NS> and <NS type="MP"><i><NS type="S"><i>sportwear</i><c>sportswear</c></NS></i><c>sports-wear</c></NS>, some <NS type="MP"><i>make up</i><c>make-up</c></NS> and also different hairstyles. The students are <NS type="MV"><c>admitted</c></NS> free so we won't have to pay for the visit.</p>
+          <p>We all think this is a great opportunity to learn more about <NS type="W"><i>London daily</i><c>daily London</c></NS> life and what people like to wear.</p>
+          <p>I suggest visiting the London Fashion and Leisure Show on Tuesday morning and <NS type="FV"><i>visit</i><c>visiting</c></NS> the Science Museum on Friday afternoon.</p>
+          <p>We all hope you <NS type="TV"><i>would</i><c>will</c></NS> consider our suggestion.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Almost everyone hates other people <NS type="FV"><i>gossip</i><c>gossiping</c></NS> <NS type="RT"><i>in</i><c>about</c></NS> their private <NS type="RN"><i>things</i><c>lives</c></NS>. It's a natural <NS type="S"><i>reaccion</i><c>reaction</c></NS> to be angry with somebody you don't trust for gossiping <NS type="M"><c>about you</c></NS> and <NS type="R">bothering your personal thoughts</NS>. So I think famous people, no matter if they are politicians or <NS type="FN"><i>films</i><c>film</c></NS> stars<NS type="MP"><c>,</c></NS> don't deserve <NS type="FV"><i>being</i><c>to be</c></NS> followed by journalists every time they are trying to have a good time.</p>
+          <p>I <NS type="SX"><i>thing</i><c>think</c></NS> that <NS type="MD"><c>the</c></NS> <NS type="AGN"><i><NS type="S"><i>journalit's</i><c>journalist's</c></NS></i><c>journalists'</c></NS> only aim is money, <NS type="RP"><i>be cause</i><c>because</c></NS> they know that if they <NS type="RV">publish</NS> famous people's private <NS type="FN"><i>life</i><c>lives</c></NS> they <NS type="TV"><i>would</i><c>will</c></NS> earn <NS type="UP"><i>lot's</i><c>lots</c></NS> of money selling the magazine or the newspaper. But they don't consider the problems the <NS type="S"><i>romours</i><c>rumours</c></NS> may <NS type="RV"><i>bring to</i><c>cause</c></NS> the famous family or couple. Sometimes the <NS type="FN"><i><NS type="S"><i>journalit's</i><c>journalist's</c></NS></i><c>journalists'</c></NS> aim isn't the money: there are some journalists who may try to spoil <NS type="RD"><i>the</i><c>a</c></NS> politician's or film star's career only because they are jealous.</p>
+          <p>In conclusion, no matter <NS type="U"><i>which or</i></NS> what the <NS type="S"><i>journalit's</i><c>journalist's</c></NS> aims are, famous people deserve to have their problems, their affairs, their private <NS type="FN"><i>life</i><c>lives</c></NS> just as normal people <NS type="RV"><i>have</i><c>do</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

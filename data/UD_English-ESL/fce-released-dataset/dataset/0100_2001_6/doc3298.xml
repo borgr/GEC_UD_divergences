@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE93*0100*2001*01">
+  <candidate><personnel><language>Italian</language><age>31-40</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith</p>
+          <p><NS type="RP"><i>thankyou</i><c>thank you</c></NS> for your letter, <NS type="S"><i>wich</i><c>which</c></NS> arrived yesterday. I hope to give you<NS type="UP"><i>,</i></NS> all the information <NS type="MA"><c>you</c></NS> need and<NS type="MP"><c>,</c></NS> please, if you want more information or <NS type="S"><i>somenthing</i><c>something</c></NS> is not clear, please don't <NS type="S"><i>esitate</i><c>hesitate</c></NS> to contact me again.</p>
+          <p>The <NS type="RP"><i>Hotel</i><c>hotel</c></NS> is near the station and is <NS type="TV"><i>call</i><c>called</c></NS> "Grand Placad". When you <NS type="TV"><i>arrived</i><c>arrive</c></NS> you take the train <NS type="RT"><i>for</i><c>to</c></NS> Guildford and after <NS type="MA"><c>that</c></NS> you <NS type="W"><i>have just</i><c>just have</c></NS> <NS type="FV"><i><NS type="SX"><i>across</i><c>cross</c></NS></i><c>to cross</c></NS> the road<NS type="UP"><i>,</i></NS> in front of the station.</p>
+          <p>It's <NS type="MD"><c>a</c></NS> very <NS type="S"><i>confortable</i><c>comfortable</c></NS> hotel where you can find everything you need.</p>
+          <p>From there to the conference you have to take the <NS type="W"><i>bus number 50</i><c>number 50 bus</c></NS>, <NS type="RA"><i>that</i><c>which</c></NS> <NS type="AGV"><i>stop</i><c>stops</c></NS> near the hotel and <NS type="AGV"><i>arrive</i><c>arrives</c></NS> in <NS type="MD"><c>the</c></NS> town <NS type="SA"><i>center</i><c>centre</c></NS>. The conference is <NS type="RV"><i>organised</i><c>held</c></NS> in the civic hall so it is very <NS type="RJ"><i>simple</i><c>easy</c></NS> to <NS type="FV"><i>found</i><c>find</c></NS> it. At the end of <NS type="MD"><c>the</c></NS> conference there is a party<NS type="MP"><c>,</c></NS> a perfect opportunity for your students <NS type="FV"><i><NS type="RV"><i>meet</i><c>make</c></NS></i><c>to make</c></NS> new friends from all <NS type="AGN"><i>part</i><c>parts</c></NS> of <NS type="MD"><c>the</c></NS> <NS type="RN"><i>word</i><c>world</c></NS> and they <NS type="TV"><i>could</i><c>can</c></NS> <NS type="RV"><i>speak</i><c>talk</c></NS> about their experience.</p>
+          <p><NS type="W"><i>I suggest for <NS type="RD"><i>that</i><c>this</c></NS> conference</i><c>For this conference I suggest</c></NS> <NS type="FV"><i>to wear</i><c>wearing</c></NS> <NS type="S"><i>somenthing</i><c>something</c></NS> very <NS type="S"><i>confortable</i><c>comfortable</c></NS> but elegant<NS type="RP"><i>, the</i><c>. The</c></NS> organisation <NS type="AGV"><i>want</i><c>wants</c></NS> <NS type="UT"><i>for</i></NS> all <NS type="MD"><c>the</c></NS> <NS type="RN"><i>boys</i><c>men</c></NS> <NS type="FV"><i>wear</i><c>to wear</c></NS> <NS type="MD"><c>a</c></NS> jacket, <NS type="MC"><c>but</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> tie is not necessary.</p>
+          <p>I don't <NS type="W"><i>know <NS type="SX"><i>rely</i><c>really</c></NS></i><c>really know</c></NS> what you <NS type="RV"><i>can</i><c>should</c></NS> see<NS type="RP"><i>,</i><c>;</c></NS> <NS type="AS"><i>three hours I think is not</i><c>I don't think three hours is</c></NS> enough but near the station there is a beautiful <NS type="RN"><i>garden</i><c>park</c></NS><NS type="MP"><c>,</c></NS> popular for its variety of flowers.</p>
+          <p>If I <NS type="TV"><i>found</i><c>find</c></NS> <NS type="S"><i>somenthing</i><c>something</c></NS> special <NS type="M"><c>you will be able</c></NS> to visit in three hours I <NS type="TV"><i>call</i><c>will call</c></NS> you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="S"><i>Ser</i><c>Sir</c></NS> or <NS type="RP"><i>madam</i><c>Madam</c></NS></p>
+          <p>it is very nice of you to come and visit my town.</p>
+          <p>In <NS type="RD"><i>that</i><c>this</c></NS> area there are a lot of things you can see and some interesting <NS type="FN"><i>building</i><c>buildings</c></NS> to visit. The best building you must see is the cathedral. It is the <NS type="FJ"><i>more important</i><c>most important</c></NS> church in <NS type="RD"><i>that</i><c>this</c></NS> area <NS type="RT"><i>for</i><c>because of</c></NS> its <NS type="S"><i>architeture</i><c>architecture</c></NS>.</p>
+          <p>It is <NS type="S"><i>somenthing</i><c>something</c></NS> very <NS type="RJ"><i>particular</i><c>special</c></NS><NS type="RP"><i>, its</i><c>. Its</c></NS> <NS type="RN"><i><NS type="S"><i>paviment</i><c>pavement</c></NS></i><c>ceiling</c></NS> <NS type="TV"><i>made</i><c>is made</c></NS> from many small <NS type="S"><i>pecis</i><c>pieces</c></NS> of wood<NS type="RP"><i>, its</i><c>. Its</c></NS> windows <NS type="MV"></NS> <NS type="R">with many colours</NS><NS type="RP"><i>, it</i><c>. It</c></NS> is fantastic.</p>
+          <p>It <NS type="TV"><i>was</i><c>is</c></NS> built on the top of the hill and around <NS type="MA"><c>it</c></NS> there is only a huge field. You can <NS type="AS"><i><NS type="RV"><i>arrive</i><c>get</c></NS> <NS type="RY"><i>here</i><c>there</c></NS> <NS type="S"><i>wolking</i><c>walking</c></NS></i><c>walk there</c></NS> because the bus <NS type="AGV"><i>stop</i><c>stops</c></NS> just <NS type="RT"><i>on</i><c>at</c></NS> the bottom of the hill.</p>
+          <p>But really you must see it<NS type="RP"><i>, the</i><c>. The</c></NS> position of the cathedral <NS type="R"><NS type="AGV"><i>give</i><c>gives</c></NS> you a <NS type="W"><i><NS type="S"><i>somenthing</i><c>something</c></NS> special</i><c>special something</c></NS> a <NS type="RJ"><i>big</i><c>great</c></NS> <NS type="SA"><i>tranquility</i><c>tranquillity</c></NS></NS>.</p>
+          <p>I hope you like it.</p>
+          <p>I look <NS type="S"><i>farword</i><c>forward</c></NS> to hearing from you</p>
+          <p>best <NS type="S"><i>regardes</i><c>regards</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

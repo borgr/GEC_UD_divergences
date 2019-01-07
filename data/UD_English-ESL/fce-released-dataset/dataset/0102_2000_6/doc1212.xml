@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR498*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr James,</p>
+          <p>My name is Paula and I'm one of your <NS type="RJ"><i>latest</i><c>most recent</c></NS> visitors <NS type="RT"><i>of</i><c>to</c></NS> your show "Over the Rainbow'', this is also the reason <NS type="RT"><i>of</i><c>for</c></NS> my letter.</p>
+          <p>Last week during my holiday in London, I found your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> in my newspaper. This looked very good to me<NS type="RP"><i>,</i><c> -</c></NS> one of my favourite actors, the time <NS type="UV"><i>did</i></NS> <NS type="TV"><i>suit</i><c>suited</c></NS> me and <NS type="MY"><c>there</c></NS> <NS type="W"><i>for the tickets was a discount available</i><c>was a discount available for the tickets</c></NS>. Everything was just perfect. But, suddenly the whole evening changed into something<NS type="UP"><i>,</i></NS> we didn't <NS type="FV"><i>expected</i><c>expect</c></NS> at all.</p>
+          <p>The first disappointment confronted us <NS type="RT"><i>on</i><c>at</c></NS> the main entrance<NS type="RP"><i>,</i><c>;</c></NS> there was no discount for our <NS type="FN"><i>ticket</i><c>tickets</c></NS> available. Despite <NS type="UT"><i>of</i></NS> this we <NS type="RV"><i><NS type="TV"><i>have</i><c>had</c></NS></i><c>were</c></NS> still <NS type="UV"><i>been</i></NS> looking forward to the show and Danny Brook.</p>
+          <p><NS type="DA"><i>Your</i><c>You</c></NS> <NS type="TV"><i>state</i><c>stated</c></NS> in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> that he would come on stage, but instead of him someone else turned up. Actually, this guy was not half as good as Danny Brook.</p>
+          <p>The other thing was the time<NS type="RP"><i>, the</i><c>. The</c></NS> show was supposed to start at half past seven, but we <NS type="TV"><i>have been waiting</i><c>had waited</c></NS> for 45 minutes, before the light turned off.</p>
+          <p>Till then we <NS type="TV"><i>have</i><c>had</c></NS> been very upset about the evening and decided to go for dinner.</p>
+          <p><NS type="RY"><i>Eventually</i><c>Finally</c></NS>, the restaurant which belongs to the theatre was closed.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>I really do regret that I told Pat about my feelings for the new girl in class, but who else can <NS type="RA"><i>I</i><c>you</c></NS> talk to<NS type="UP"><i>,</i></NS> if it is not your best friend?.</p>
+          <p>Her name is Carla and she just changed school<NS type="RP"><i>, she</i><c>. She</c></NS> is so beautiful, with long legs, blond hair and a voice which makes me melt.</p>
+          <p><NS type="TV"><i>I've</i><c>I'd</c></NS> never been so fascinated by a girl and so I knew it must have been real love.</p>
+          <p><NS type="DY"><i>Luckely</i><c>Luckily</c></NS> I could keep my secret for a couple of days but then<NS type="UP"><i>,</i></NS> it became urgent and I needed someone to talk to.</p>
+          <p>Pat, he was my friend, and he knew girls. I thought he would keep everything <NS type="U"><i>like a thing</i></NS> between him and me, but he disappointed me.</p>
+          <p>He actually went to Carla and told her <NS type="RP"><i>every thing</i><c>everything</c></NS>. No doubt she would never ever look at me again. But she did, she asked me out. The horrible thing about this is<NS type="UP"><i>,</i></NS> I'm still in heaven, but <NS type="MV"><c>going</c></NS> out with the wrong person, because Pat mixed the <NS type="L"><i>persons</i><c>people</c></NS> with their names. There are two Carlas in my class!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

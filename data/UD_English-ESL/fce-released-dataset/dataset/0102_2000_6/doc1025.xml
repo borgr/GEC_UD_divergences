@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR18*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing with reference to the musical show I saw last week in your theatre. I hoped that it would be the most <NS type="RJ"><i>excited</i><c>exciting</c></NS> evening during my week's holiday in London. Unfortunately it wasn't.</p>
+          <p>I wouldn't like to be unkind but I must say that the advertisement for the show included a lot of false information. First of all, when I <NS type="TV"><i>had bought</i><c>bought</c></NS> the <NS type="S"><i>ticets</i><c>tickets</c></NS> it appeared that there <NS type="TV"><i>is</i><c>was</c></NS> no discount available. Secondly, I must complain that the musical show started almost an hour <NS type="FY"><i>later</i><c>late</c></NS> and in addition to this <NS type="X"><i>anyone didn't <NS type="RV"><i>excuse</i><c>apologize</c></NS></i><c>no one apologized</c></NS>. Moreover<NS type="MP"><c>,</c></NS> I would like to ask why Danny Brook, <NS type="AGA"><i>which</i><c>who</c></NS> is my favourite actor, didn't <NS type="RV"><i>play</i><c>perform</c></NS> in the show. Furthermore<NS type="MP"><c>,</c></NS> I would like to enquire why the theatre restaurant was closed.</p>
+          <p>Finally, I must say that I had a very disappointing evening and I would like to get my money back.</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I wish I had <NS type="TV"><i>know</i><c>known</c></NS> it two days ago... <NS type="UY"><i><NS type="S"><i>Exacly</i><c>Exactly</c></NS> on</i><c>On</c></NS> 15th June we were at the birthday party. Dora wanted me to come with Pat because she was in love with him. I really like Dora and Pat and I just wanted to help them to be together, but it wasn't such a good idea.</p>
+          <p>I thought that if I said something specific about her he would look at her in a different way. Well, I forgot that it's just a boy! I shouldn't have told him that she was a virgin. It was awful when he started to laugh and everybody was <NS type="S"><i>stearing</i><c>staring</c></NS> at us. Yesterday<NS type="MP"><c>,</c></NS> I discovered that he told everything to Marl and Tony. I really regret that I was so foolish.</p>
+          <p>The most horrible <NS type="MN"><c>thing</c></NS> is the fact that my friendship with Dora seems to be on the rocks and I don't know what I have to do to overcome the difficulties.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

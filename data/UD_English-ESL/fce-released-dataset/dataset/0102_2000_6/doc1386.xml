@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR45*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Mr. Manager:</p>
+          <p>The <NS type="S"><i>porpouse</i><c>purpose</c></NS> of this letter is to complain about my experience with the musical <NS type="UN"><i>show</i></NS> "Over the Rainbow", <NS type="S"><i>wich</i><c>which</c></NS> really <NS type="S"><i>disapointed</i><c>disappointed</c></NS> me.</p>
+          <p>First of all, there were no <NS type="S"><i>diccounts</i><c>discounts</c></NS> <NS type="S"><i>avaible</i><c>available</c></NS> <NS type="MQ"><c>such</c></NS> as <NS type="UA"><i>it</i></NS> <NS type="RV"><i>said</i><c>were promised</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="RN"><i><NS type="S"><i>anouncement</i><c>announcement</c></NS></i><c>advertisement</c></NS> so I had to pay the original price <NS type="S"><i>wich</i><c>which</c></NS> wasn't cheap at all.</p>
+          <p>Then, I was forced to wait <NS type="MP"><i><NS type="S"><i>fourty five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes to see the show because it started at 20:75 <NS type="RP"><i>in stead</i><c>instead</c></NS> of 19:30 and<NS type="MP"><c>,</c></NS> when it finally started, I was really <NS type="S"><i>disapointed</i><c>disappointed</c></NS> to see that the actors weren't Danny and Tina as it <NS type="TV"><i>said</i><c>had said</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="RN"><i><NS type="S"><i>anouncement</i><c>announcement</c></NS></i><c>advertisement</c></NS>.</p>
+          <p>Finally, when the show finished, I couldn't visit the theatre restaurant because it was closed for repairs.</p>
+          <p>So, as you can see, it wasn't my perfect evening out at all<NS type="RP"><i> that's</i><c>. That's</c></NS> why I demand you <NS type="FV"><i>to send</i><c>send</c></NS> me my money back.</p>
+          <p>Your really <NS type="DJ"><i>unsatisfied</i><c>dissatisfied</c></NS> <NS type="S"><i>costomer</i><c>customer</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology <NS type="S"><i>afected</i><c>affected</c></NS> my daily life?</p>
+          <p>Since the <NS type="S"><i>begining</i><c>beginning</c></NS> of human life, people have invented ways to make their <NS type="AGN"><i>life</i><c>lives</c></NS> easier. That is not <NS type="DJ"><i>difference</i><c>different</c></NS> from now. We live <NS type="S"><i>sorrounded</i><c>surrounded</c></NS> by inventions <NS type="S"><i>wich</i><c>which</c></NS> help as through the day.</p>
+          <p>From the vehicle we use to move faster to the light bulb we use at night, we constantly <NS type="AGN"><i>depends</i><c>depend</c></NS> on these inventions to be able to <NS type="RV"><i>make</i><c>do</c></NS> the things we have to do.</p>
+          <p>That's why modern technology is so important in our daily <NS type="AGN"><i>life</i><c>lives</c></NS>, because it helps to make our <NS type="AGN"><i>life</i><c>lives</c></NS> <NS type="FJ"><i>easiest</i><c>easier</c></NS> and to do what we have to do faster so then we can use <NS type="W"><i>better our time</i><c>our time better</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

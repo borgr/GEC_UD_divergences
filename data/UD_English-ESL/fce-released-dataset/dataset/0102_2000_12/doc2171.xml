@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR876*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms <NS type="UN"><i>Jane</i></NS> Clark</p>
+          <p>I am writing to you because I have some <NS type="AGN"><i>suggestion</i><c>suggestions</c></NS> <NS type="RT"><i>about</i><c>for</c></NS> next <NS type="MP"><i>year</i><c>year's</c></NS> festival, and if it is possible I <NS type="TV"><i><NS type="RV"><i>can</i><c>like</c></NS></i><c>would like</c></NS> <NS type="FV"><i>give</i><c>to give</c></NS> you some opinions about this <NS type="MP"><i>year</i><c>year's</c></NS> festival.</p>
+          <p>Firstly, in your advertisement <NS type="MA"><c>it</c></NS> states: stars and <NS type="FN"><i>artist</i><c>artists</c></NS> from around the world, <NS type="RC"><i>and</i><c>but</c></NS> this year <NS type="M"><c>they were</c></NS> <NS type="UA"><i>one</i></NS> only from six countries<NS type="MP"><c>.</c></NS> It would be great if there <NS type="AGV"><i>was</i><c>were</c></NS> more <NS type="AGN"><i>artist</i><c>artists</c></NS> <NS type="MC"><c>and</c></NS> not <NS type="RY"><i>only</i><c>just</c></NS> six.</p>
+          <p>Secondly, the concerts <NS type="TV"><i>are</i><c>were</c></NS> fantastic, especially <NS type="MD"><c>the</c></NS> rock concerts. I <NS type="W"><i><NS type="RY"><i>very</i><c>a lot</c></NS> <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> <NS type="UT"><i>on</i></NS> <NS type="AGA"><i>it</i><c>them</c></NS></i><c>enjoyed them a lot</c></NS>, but some of the halls are too small. I saw that a lot of people were unsatisfied.</p>
+          <p>Another thing, <NS type="M"></NS> plays and films. I saw only 2 plays and 3 films. For me it is too <NS type="CQ"><i>little</i><c>few</c></NS>. One of the reasons that I have visited your <NS type="FN"><i>art</i><c>arts</c></NS> festival was to <NS type="FV"><i>saw</i><c>see</c></NS> a lot of plays<NS type="MP"><c>.</c></NS> In <NS type="MD"><c>the</c></NS> future<NS type="MP"><c>,</c></NS> I <NS type="RV"><i><NS type="TV"><i>supposed</i><c>suppose</c></NS></i><c>hope</c></NS> to be an actress and that's <NS type="SX"><i>way</i><c>why</c></NS> I want to learn something from <NS type="MD"><c>the</c></NS> <NS type="DN"><i>professionalists</i><c>professionals</c></NS>. I <NS type="RV"><i>hoe</i><c>hope</c></NS> that next year I will.</p>
+          <p>The last thing is that I was very surprised when I read that you have <NS type="MD"><c>a</c></NS> <NS type="UP"><i>weekend-price</i><c>weekend <NS type="RN"><i>price</i><c>ticket</c></NS></c></NS>. This is <NS type="MD"><c>an</c></NS> excellent idea because during the week people don't have too much time to go to the festival. Now they can visit it <NS type="RT"><i>by</i><c>with</c></NS> <NS type="MD"><c>the</c></NS> whole family at the weekend and see all events <NS type="RT"><i>in</i><c>for</c></NS> <NS type="MD"><c>a</c></NS> <NS type="UP"><i><NS type="DJ"><i>reasonaby-price</i><c>reasonable-price</c></NS></i><c>reasonable price</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>I <NS type="RV"><i>believe</i><c>hope</c></NS> that you consider my opinions. If you can't consider all of <NS type="SX"><i>then</i><c>them</c></NS>, I would like only one: more and <NS type="UY"><i>once</i></NS> more plays!</p>
+          <p><NS type="L"><i>Yours faithfully</i><c>Yours sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Annabel</p>
+          <p>Thank you for your letter, and I'm sorry I <NS type="TV"><i>didn't write</i><c>haven't written</c></NS>. I <NS type="TV"><i>have</i><c>have had</c></NS> examinations, but now I have plenty of time and I can write a letter to you. In your letter you ask me about <NS type="MD"><c>the</c></NS> rules <NS type="W"><i><NS type="RT"><i>in</i><c>at</c></NS> school and home I have</i><c>I have at school and home</c></NS>. I think that they are the same as yours, but I'm not <NS type="W"><i>sure <NS type="UT"><i>at</i></NS> 100 per cent</i><c>100 per cent sure</c></NS> so I <NS type="TV"><i><NS type="S"><i>vrite</i><c>write</c></NS></i><c>am writing</c></NS> <NS type="M"><c>this letter</c></NS>:</p>
+          <p><NS type="MD"><c>The</c></NS> <NS type="RP"><i>Rules</i><c>rules</c></NS> at school are: we must be on time <NS type="RT"><i>at</i><c>for</c></NS> lessons, <NS type="MC"><c>and</c></NS> <NS type="MA"><c>we</c></NS> <NS type="W"><i>always <NS type="RV"><i>have</i><c>must</c></NS></i><c>must always</c></NS> <NS type="RV"><i>make</i><c>do</c></NS> <NS type="MD"><c>our</c></NS> homework. Everybody must be present at lessons. If someone is ill<NS type="MP"><c>,</c></NS> <NS type="MA"><c>they</c></NS> must bring a <NS type="RN"><i>paper</i><c>note</c></NS> from a doctor. And the main rule is that everyone must be nice to <NS type="MD"><c>the</c></NS> teachers<NS type="MP"><c>.</c></NS> At home I must clean my room and <NS type="FV"><i>vacuuming</i><c>vacuum</c></NS> <NS type="MD"><c>the</c></NS> home. I often go shopping and help my mother clean windows. I like <NS type="FV"><i>clean</i><c>cleaning</c></NS> my home, and I like <NS type="MA"><c>it</c></NS> when <NS type="RA"><i>there</i><c>it</c></NS> is clean and fresh. However I'm the only child and I don't have <NS type="FV"><i>do</i><c>to do</c></NS> too much but I want <NS type="MT"><c>to</c></NS> and I like it. There is one thing I <NS type="TV"><i>like</i><c>would like</c></NS> to change, <NS type="M"><c>and that is</c></NS> the treatment students <NS type="MV"><c>receive</c></NS> <NS type="RT"><i>by</i><c>from</c></NS> teachers. They want too much <NS type="RT"><i>for</i><c>from</c></NS><NS type="FN"><i>student</i><c>students</c></NS> and are <NS type="DJ"><i>unkindly</i><c>unkind</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> them.</p>
+          <p>That's all<NS type="RP"><i>,</i><c>.</c></NS> I hope that I <NS type="TV"><i>give</i><c>have given</c></NS> you answers for all <NS type="MD"><c>the</c></NS> questions you <NS type="TV"><i>have</i><c>had</c></NS>.</p>
+          <p>Give my best wishes to your family<NS type="MP"><c>.</c></NS></p>
+          <p>Bye</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

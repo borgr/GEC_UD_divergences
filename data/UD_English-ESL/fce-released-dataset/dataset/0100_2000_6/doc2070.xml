@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR834*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>São Rafael, 13/06/00</p>
+          <p>Dear Helen</p>
+          <p>I'm pleased to receive your <NS type="RN"><i>litter</i><c>letter</c></NS> and <NS type="DY"><i>realy</i><c>really</c></NS> happy that I won the first prize.</p>
+          <p>I would prefer to travel only <NS type="RT"><i>on</i><c>in</c></NS> July because it's when my vacations start. I could even think about <NS type="S"><i>skyping's</i><c>skipping</c></NS> school. July is also good because the <NS type="S"><i>wethear</i><c>weather</c></NS> is warm and I could <NS type="FV"><i>enjoyed</i><c>enjoy</c></NS> <NS type="W"><i><NS type="S"><i>mor</i><c>more</c></NS> the time that I will spend in the camp</i><c>the time I will spend in the camp more</c></NS>. I would prefer <NS type="RD"><i>the</i><c>a</c></NS> <NS type="AGN"><i><NS type="DN"><i>tends</i><c>tents</c></NS></i><c>tent</c></NS> because I'll be in touch with <NS type="UD"><i>the</i></NS> nature and I could listen <NS type="MT"><c>to</c></NS> the sounds of the night. The two activities that I've chosen are Climbing and Photography. I've already climbed for four months on walls, indoor climbing. I think I can <NS type="S"><i>handde</i><c>handle</c></NS> it very well. I've <NS type="IV"><i>choosen</i><c>chosen</c></NS> Photography because I love to take pictures! I've never <NS type="RV"><i><NS type="IV"><i>chose</i><c>chosen</c></NS></i><c>taken</c></NS> any classes or training but I think I can take very good pictures. I would like to learn more about developing films.</p>
+          <p>I have some questions myself<NS type="RP"><i>,</i><c>.</c></NS> I would like to know:</p>
+          <p>. if I have to take <NS type="MQ"><c>any</c></NS> special <NS type="S"><i>equipement</i><c>equipment</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> the activities that I've chosen</p>
+          <p>. If I have to take lots of clothes or is there a service to wash them.</p>
+          <p>. What kind of <NS type="DN">chosen</NS> do I have to take</p>
+          <p>. <NS type="RC"><i>If</i><c>Whether</c></NS> <NS type="W"><i>is there</i><c>there is</c></NS> a phone, a fax or e-mail so I can be in touch with my <NS type="S"><i>familie</i><c>family</c></NS><NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>. If I have to take any money. If <NS type="R"><i>yes</i><c>so</c></NS> how much?</p>
+          <p>I hope I've answered all <NS type="MD"><i>you</i><c>your</c></NS> questions and I would be <NS type="DJ"><i>please</i><c>pleased</c></NS> if mine could also be answered.</p>
+          <p><NS type="DA"><i>your</i><c>yours</c></NS> sincerely,</p>
+          <p>Sabrina Rodriguez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>São Rafael, 13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p>How are you? What have you been doing there in New York? Did you find a girlfriend? Yesterday was Valentine's day here in Portugal<NS type="RP"><i>,</i><c>.</c></NS> <NS type="ID"><i>In <NS type="S"><i>particurely</i><c>particularly</c></NS></i><c>In particular</c></NS> I had to spend it alone... again.</p>
+          <p>I'm writing to you to tell you about a pop concert that <NS type="IV"><i>happend</i><c>happened</c></NS> here in São Rafael. Red Hot Chilli <NS type="S"><i>Pepers</i><c>Peppers</c></NS> came here for a short time and they played at the "Chedicard Hall". It was <NS type="DY"><i>realy</i><c>really</c></NS> cool because I did some backstage <NS type="RN"><i>job</i><c>work</c></NS>. I helped with the <NS type="RN">clothing</NS><NS type="MP"><c>,</c></NS> with some paperwork, with the microphones, with the computers. I was <NS type="S"><i>everywher</i><c>everywhere</c></NS>. I was kind of a "handy girl". I did a little bit of everything.. The best part was when the band arrived. I took lots of pictures, asked for <NS type="S"><i>authographs</i><c>autographs</c></NS> and I even gave them my <NS type="S"><i>cel</i><c>cell</c></NS> phone number! They <NS type="S"><i>promissed</i><c>promised</c></NS> me that they would call me <NS type="RP"><i>some day</i><c>someday</c></NS>, <NS type="RA"><i>what</i><c>which</c></NS> I <NS type="DY"><i>particulary</i><c>particularly</c></NS> doubt. <NS type="RP"><i>Some thing</i><c>Something</c></NS> that was also great was to watch the show from <NS type="UD"><i>the</i></NS> <NS type="RP"><i>back stage</i><c>backstage</c></NS>. It's <NS type="FD"><i>an</i><c>a</c></NS> unique experience. I wished you could <NS type="TV"><i>be</i><c>have been</c></NS> there with me.</p>
+          <p>I hope you answer this letter as <NS type="RY"><i><NS type="S"><i>quik</i><c>quick</c></NS></i><c>quickly</c></NS> as possible with lots of thing to tell me.</p>
+          <p>Lots of kisses and hugs</p>
+          <p>Your pen friend</p>
+          <p>Sabrina Rodriguez</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR165*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Manager</p>
+          <p>A few days ago I went to the Circle theatre to see a musical show which <NS type="UA"><i>it</i></NS> <NS type="TV"><i>shows</i><c>is showing</c></NS> in your theatre now. <NS type="UY"><i>Also it</i><c>It</c></NS> made me very <NS type="DJ"><i>disappoint</i><c>disappointed</c></NS>. There are several reasons that I was not happy about the musical.</p>
+          <p>The first one I am going to <NS type="DV"><i>complaint</i><c>complain</c></NS> about is the actor. I could not see Danny Brook during the show. There was <NS type="FD"><i>an</i><c>a</c></NS> different actor instead of him.</p>
+          <p>Secondly, the times, it's <NS type="RJ"><i>available</i><c>on</c></NS> <NS type="MT"><c>at</c></NS> 14.30 and 19.30 so I <NS type="TV"><i>choose</i><c>chose</c></NS> 19.30. However<NS type="MP"><c>,</c></NS> it was <NS type="IV"><i>deleied</i><c>delayed</c></NS> <NS type="MC"><c>and</c></NS> it started <NS type="MT"><c>at</c></NS> 20.15. Also<NS type="MP"><c>,</c></NS> I had a student identification card to <NS type="RV"><i>discount</i><c>get a discount on</c></NS> the ticket price but <NS type="AS"><i>it was <NS type="S"><i>unavilable</i><c>unavailable</c></NS> to discount</i><c>discounts were unavailable</c></NS>. The theatre restaurant was closed after the show, they said funds <NS type="RV"><i>are</i><c>had</c></NS> <NS type="S"><i>runn</i><c>run</c></NS> out.</p>
+          <p>Those are totally <NS type="DJ"><i>unexpectable</i><c>unacceptable</c></NS> so I <NS type="UV"><i>presume that I</i></NS> would like to get paid for my ticket cost. I ask you to <NS type="S"><i>transfor</i><c>transfer</c></NS> money into this account. Barclays bank 1010-10 1234567</p>
+          <p>Jon Sun.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>First of all it's difficult say what exactly modern technology is now but I can say for sure <NS type="UV"><i>it's</i><c>it</c></NS> <NS type="AGV"><i>keep</i><c>keeps</c></NS> developing and much better than the past. Think about the <NS type="S"><i>conputer</i><c>computer</c></NS>, the speed of <NS type="FN"><i><NS type="S"><i>conputer</i><c>computer</c></NS></i><c>computers</c></NS> is much faster than before. I <NS type="W"><i>even couldn't</i><c>couldn't even</c></NS> imagine our p.c <NS type="TV"><i>can</i><c>could</c></NS> be that fast.</p>
+          <p>Also T.Vs, I guess that I <NS type="TV"><i>was not</i><c>would not have been</c></NS> able to watch colour T.V if I was born in 1960. T.V colour only <NS type="TV"><i>consist</i><c>consisted</c></NS> of white and black.</p>
+          <p><NS type="S"><i>Nowdays</i><c>Nowadays</c></NS><NS type="MP"><c>,</c></NS> <NS type="UD"><i>the</i></NS> technology <NS type="UV"><i>is</i></NS> <NS type="AGV"><i>keep</i><c>keeps</c></NS> <NS type="FV"><i>develop</i><c>developing</c></NS> and <NS type="UD"><i>the</i></NS> better technology gives us <NS type="MD"><c>an</c></NS> easier life.</p>
+          <p>Another example, the <NS type="RP"><i>internet</i><c>Internet</c></NS>. This is <NS type="MD"><c>a</c></NS> revolution which has changed our daily life.</p>
+          <p>You can <NS type="RV"><i>have</i><c>do</c></NS> <NS type="UD"><i>a</i></NS> shopping on the <NS type="RP"><i>internet</i><c>Internet</c></NS> and it might <NS type="MV"><c>be</c></NS> the fastest way to gather any information you would like to <NS type="RV"><i>search</i><c>find</c></NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> it <NS type="W"><i>also can</i><c>can also</c></NS> make our life very lazy. This is one other important thing to remember.</p>
+          <p>People who have their <NS type="MD"><c>own</c></NS> car, <NS type="UA"><i>they</i></NS> don't attempt to walk <NS type="U"><i>on foot</i></NS> even if it is <NS type="MD"><c>a</c></NS> short distance.</p>
+          <p>The improvement of technology can makes our life easy and <NS type="ID"><i>in the other way</i><c>on the other hand</c></NS> it <NS type="W"><i>also can</i><c>can also</c></NS> <NS type="FV"><i>makes</i><c>make</c></NS> our life lazy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

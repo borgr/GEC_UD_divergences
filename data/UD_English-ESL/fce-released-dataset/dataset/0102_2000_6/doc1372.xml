@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR41*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Lausanne, the 20th of May 2000</p>
+          <p>Dear M. Smith,</p>
+          <p>My name is Marie Bouchard, I come from Switzerland. Two weeks ago, I spent a week in your fabulous city of London with my friend. On Thursday, the 3rd of May 2000, we went to your theatre to see "Over the rainbow". Unfortunately, we were really disappointed about everything in the theatre.</p>
+          <p>Firstly, we got our tickets <NS type="RT"><i>in</i><c>at</c></NS> your ticket office just one hour before the show. We thought, as <NS type="DY"><i>usual</i><c>usually</c></NS> we do in London <NS type="AGN"><i>theatre</i><c>theatres</c></NS>, we could <NS type="RV"><i>have</i><c>get</c></NS> discounts<NS type="MP"><c>,</c></NS> <NS type="RC"><i>as</i><c>and</c></NS> it's written on your advertisement <NS type="M"></NS>. <NS type="DY"><i>Surprisily</i><c>Surprisingly</c></NS>, there were no <NS type="S"><i>discounds</i><c>discounts</c></NS>.</p>
+          <p>Secondly, the show started at 20:15 instead of 19:30<NS type="RP"><i>,</i><c>;</c></NS> it's a theatre<NS type="MP"><c>,</c></NS> <NS type="UC"><i>but</i></NS> not a concert hall!!!!</p>
+          <p>Thirdly, we were astonished <NS type="RT"><i>about</i><c>by</c></NS> the actors<NS type="MP"><c>,</c></NS> <NS type="RA"><i>whose</i><c>whom</c></NS> we know from <NS type="IQ"><i>others</i><c>other</c></NS> <NS type="AGN"><i>musical</i><c>musicals</c></NS>. Why did you not change the <NS type="AGN"><i>name</i><c>names</c></NS> <NS type="RT"><i>of</i><c>on</c></NS> your advertisement?</p>
+          <p>In the end, the restaurant was closed because you didn't have enough <NS type="IN"><i>staffs</i><c>staff</c></NS><NS type="UP"><i>,</i></NS> <NS type="RD"><i>this</i><c>that</c></NS> evening!! <NS type="R">Nothing was serious</NS>. We really like London, the people, the night-life but this evening was really awful.</p>
+          <p>I <NS type="TV"><i>sent</i><c>have sent</c></NS> <NS type="UT"><i>to</i></NS> you a <NS type="RN"><i><NS type="S"><i>copie</i><c>copy</c></NS></i><c>photocopy</c></NS> of our tickets. Would you <NS type="R"><i>pleased</i><c>please</c></NS> return our money <NS type="UY"><i>back</i></NS>. In advance, thank you.</p>
+          <p>I hope we are not the only people to be so upset, but it was the first and the last time that I <NS type="TV"><i>came</i><c>come</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> your theatre.</p>
+          <p>Sincerely yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. When her best friend, Scala, asked her <NS type="MT"><c>for</c></NS> an idea to surprise her husband <NS type="MT"><c>with</c></NS> because <NS type="TV"><i>she's</i><c>she was</c></NS> pregnant, Pat put her <NS type="ID"><i><NS type="IN"><i>feets</i><c>feet</c></NS> in the plate</i><c>foot in it</c></NS> just before Scala's husband <NS type="RV"><i>got</i><c>had</c></NS> the surprise.</p>
+          <p>The problem is that Pat works in <NS type="UD"><i>the</i></NS> Neubathin<NS type="MP"><c>,</c></NS> a little village. She's a secretary in an office. Everybody knows everybody.</p>
+          <p>Pat and Scala have been good friends for 10 years, their <NS type="FN"><i>husband</i><c>husbands</c></NS> <NS type="M"></NS> too.</p>
+          <p>It was a <NS type="W"><i>Friday <NS type="DJ"><i>suny</i><c>sunny</c></NS></i><c>sunny Friday</c></NS> afternoon, Scala was really excited <NS type="MT"><c>about</c></NS> <NS type="FV"><i>to tell</i><c>telling</c></NS> her the <NS type="IN"><i>new</i><c>news</c></NS>. Despite <NS type="M"><c>the fact</c></NS> she knew that Pat couldn't keep <NS type="MD"><c>a</c></NS> secret<NS type="MP"><c>,</c></NS> <NS type="U"><i>but for</i></NS> this time she was confident <NS type="MC"><c>that</c></NS> maybe <NS type="R"><i>too</i><c>she would be able to</c></NS>.</p>
+          <p>Just after Scala told her the <NS type="IN"><i>new</i><c>news</c></NS>, Pat phoned her mother who worked in a bakery, to tell <NS type="MA"><c>her</c></NS> that Scala <NS type="TV"><i>is</i><c>was</c></NS> pregnant.</p>
+          <p>As usual, Jon, Scala's husband came &amp; bought the bread for the evening. Pat's mum was so excited about the baby, she just said "Congratulations <NS type="RT"><i>for</i><c>about</c></NS> the new baby."</p>
+          <p>He was so amazed and asked <NS type="MA"><c>her</c></NS> to repeat <NS type="M"></NS>. She just <NS type="RV"><i>thought</i><c>remembered</c></NS> it <NS type="RV"><i>would</i><c>ought</c></NS> <NS type="FV"><i>be</i><c>to be</c></NS> a secret, <NS type="MC"><c>and</c></NS> she <NS type="RV"><i>came</i><c>became</c></NS> really <NS type="S"><i>embarassed</i><c>embarrassed</c></NS>.</p>
+          <p>When he went back to his house, his wife gave him the box with the shoes but it wasn't a surprise! Scala was <NS type="RJ"><i>hungry</i><c>angry</c></NS> with Pat because she thought she <NS type="TV"><i>can</i><c>could</c></NS> keep this kind of secret.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

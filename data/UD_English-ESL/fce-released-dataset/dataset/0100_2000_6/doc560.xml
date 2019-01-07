@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR235*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>40.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am very happy to know that I have won the first prize in <NS type="DD"><i>you</i><c>your</c></NS> competition. I am writing in order to give you all the details that you need from me.</p>
+          <p>First of all, I would like to travel in July because I think California is better in Summer. Regarding accommodation, I would prefer to stay in a log cabin because cabins seem to be more comfortable than tents. According to your letter, I will be able to take part in two activities at the Camp. Let me tell you that I would like to sing and play tennis. As a matter of fact, I am very good at both of them.</p>
+          <p>Finally, I would like you to tell me if I will need some special clothes. If the answer is yes, could you tell me <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes I will need. One other thing, it would be useful to know if I will need to take with me some extra money. If the answer is yes, could you tell me how much money I will need to take with me.</p>
+          <p>I look forward to receiving <NS type="DD"><i>you</i><c>your</c></NS> reply.</p>
+          <p>Yours sincerely,</p>
+          <p>DENIS JIMENEZ</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Introduction</p>
+          <p>This report is to suggest which lessons and activities should be filmed in order to make the video about daily life at school.</p>
+          <p>Lessons and Activities suggested</p>
+          <p>Lessons attended in the language laboratory.</p>
+          <p>Special lessons attended in the library.</p>
+          <p>Students using the computer and video room</p>
+          <p>Activities connected with the social programme<NS type="MP"><c>,</c></NS> such as international evenings, <NS type="RP"><i>sing along</i><c>sing-along</c></NS> parties and indoor games.</p>
+          <p>Ordinary lessons attended by students <NS type="RT"><i>from</i><c>of</c></NS> different levels <NS type="M"><c>of ability</c></NS>.</p>
+          <p>By filming...</p>
+          <p>Lessons and activities which take place in the language laboratory, in the library and in the computer and video room, we can also show the school's facilities and how students take advantage of them.</p>
+          <p>Ordinary lessons<NS type="U"><i>, it</i></NS> <NS type="AGV"><i>is</i><c>are</c></NS> a good way of showing the relationship between students and teachers.</p>
+          <p>Activities connected with the social programme, we can show how students make the most of their time at school when they are not attending their ordinary lessons or using the facilities.</p>
+          <p>Conclusion</p>
+          <p>I would recommend the lessons and activities mentioned above in order to make the video in question.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR404*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing with reference to the trip to London on the 13th, 14th and 15th March.</p>
+          <p>Firstly, I would like to thank you very much for the <NS type="RJ"><i>good</i><c>excellent</c></NS> programme you have organised for my class. We are especially looking forward to <NS type="FV"><i><NS type="RV"><i>join</i><c>go on</c></NS></i><c>going on</c></NS> the river trip to Greenwich and <NS type="MT"><c>to</c></NS> the sightseeing by bus.</p>
+          <p>Secondly, I have seen an advertisement in the <NS type="RP"><i>times</i><c>Times</c></NS> about the London Fashion and Leisure Show. It will be <NS type="RV"><i>attended</i><c>held</c></NS> in the Central Exhibition Hall in London on Tuesday 14. My class and I are all interested in it and we would like to go there to have a <NS type="RN">visit</NS>.</p>
+          <p>It will be <NS type="MD"><c>a</c></NS> great opportunity for all of us because they will <NS type="RV">show</NS> the latest fashion, <NS type="UD"><i>the</i></NS> leisure and sports wear, <NS type="UD"><i>the</i></NS> <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="UD"><i>the</i></NS> different hairstyles. Furthermore, the admission for students is free.</p>
+          <p>I have <NS type="S"><i>alredy</i><c>already</c></NS> thought about a <NS type="RN"><i>changing</i><c>change</c></NS> <NS type="RT"><i>of</i><c>to</c></NS> the programme. On Wednesday we could enjoy our free time <NS type="MT"><c>by</c></NS> <NS type="RV"><i>doing</i><c>going</c></NS> shopping, so on Tuesday afternoon we <NS type="RV">moved</NS> have time to go to visit the London Fashion and Leisure Show.</p>
+          <p>I hope you will take my proposal <NS type="RT"><i>in</i><c>into</c></NS> <NS type="UJ"><i><NS type="S"><i>favoreable</i><c>favourable</c></NS></i></NS> consideration. I am looking forward to hearing from you soon. Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous but I knew I had to do it. What was so dangerous and <NS type="AS"><i>why I had to do it</i><c>why did I have to do it</c></NS>? Now I will tell you in brief <NS type="W"><i>what exactly</i><c>exactly what</c></NS> happened to me.</p>
+          <p>It was a fantastic sunny day <NS type="RT"><i>of</i><c>in</c></NS> August and my friends and I took a day off from work. There were just four of us. We all decided <NS type="UV"><i>to go</i></NS> to have a day by the seaside not far away from Portsmouth. When we got there we were wearing our costumes. We <NS type="IV"><i>lied</i><c>lay</c></NS> on the sand under the sun, we had funny beach <NS type="RN"><i>volley</i><c>volleyball</c></NS> matches, interesting chats, but after two hours there, my friends decided to go swimming. For me, it was a big problem because I had never had swimming lessons <NS type="UY"><i>before</i></NS> and my friends didn't know about that. I didn't want to tell them because I was sure they would have started laughing <NS type="RT"><i>of</i><c>at</c></NS> me. So I took the decision to go and join them <NS type="RY"><i>also</i><c>as well</c></NS> <NS type="RC"><i>if</i><c>though</c></NS> I knew that it would <NS type="FV"><i>have been</i><c>be</c></NS> dangerous <NS type="R">for my life</NS>. I <NS type="RV"><i>walked</i><c>waded</c></NS> very slowly through the water and I was very scared but I had to do it because if I didn't go my friends <NS type="RV"><i>could</i><c>would</c></NS> <NS type="RV"><i>understand</i><c>realize</c></NS> that something was wrong with me. In the end fortunately everything went well as I didn't sink in the sea. After that day, I decided <NS type="FV"><i>taking</i><c>to take</c></NS> up swimming, so that I would <NS type="TV"><i>have had</i><c>have</c></NS> no <NS type="FN"><i><NS type="DN"><i>embarrass</i><c>embarrassment</c></NS></i><c>embarrassments</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> <NS type="UD"><i>the</i></NS> future trips to the seaside <NS type="UY"><i>any more</i></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

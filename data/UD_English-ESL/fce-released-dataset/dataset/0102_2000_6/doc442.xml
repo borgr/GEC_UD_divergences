@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR175*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="R"><i>Sir</i><c>Dear</c></NS> manager</p>
+          <p>Yesterday I went to "The Circle Theatre" to see the musical show "OVER THE RAINBOW". I'm very disappointed <NS type="RT"><i>of</i><c>with</c></NS> this evening. The first thing was<NS type="UP"><i>,</i></NS> that it started 45 minutes late. And when it <NS type="DY"><i>finaly</i><c>finally</c></NS> started, <NS type="RA"><i>there</i><c>it</c></NS> wasn't Danny Brook who <NS type="RV"><i><NS type="IV"><i>plaied</i><c>played</c></NS></i><c>performed</c></NS>. There was a different actor and he was really bad. You should have informed us before that <NS type="TV"><i>you've</i><c>you'd</c></NS> changed the actor. On the advertisement you wrote that discounts are available but they weren't. After the show I wanted to drink <NS type="S"><i>somthing</i><c>something</c></NS> in your theatre restaurant but when I arrived it was closed because the show started <NS type="SX"><i>to</i><c>too</c></NS> late! I'm so disappointed! I wanted to have a pleasant evening while I'm here in London for a week's holiday. So I ask you <NS type="S"><i>sincearly</i><c>sincerely</c></NS> for my money back <NS type="S"><i>becaus</i><c>because</c></NS> it wasn't a perfect evening out.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I told her that my parents are getting <NS type="S"><i>divorsed</i><c>divorced</c></NS> and that I will move to Chicago with my mother. We are <NS type="W"><i>together in High School</i><c>in High School together</c></NS> in California and this is our last year. We wanted to study biology here in Los Angeles with some other friends but now my plans have changed and I have to leave them.</p>
+          <p>One day, Pat and I were going home, when she asked me<NS type="UP"><i>,</i></NS> if I <NS type="TV"><i>will</i><c>would</c></NS> give a party <NS type="S"><i>befor</i><c>before</c></NS> <NS type="UV"><i>I'll</i><c>I</c></NS> go. I had to tell her that I <NS type="TV"><i>don't</i><c>didn't</c></NS> have the time to organise anything <NS type="S"><i>becaus</i><c>because</c></NS> we, my mother and I, <NS type="TV"><i>have</i><c>had</c></NS> to get our stuff ready to move. She wasn't very surprised and soon <NS type="TV"><i>I've</i><c>I'd</c></NS> forgotten her question. The year was <NS type="RV"><i>getting</i><c>coming</c></NS> to <NS type="RD"><i>the</i><c>an</c></NS> end. On Monday in our last week Pat asked me if I <NS type="TV"><i>want</i><c>wanted</c></NS> to eat supper at her house. I thought it was a good idea and we went home. But when we <NS type="TV"><i>get</i><c>got</c></NS> into the <NS type="S"><i>hous</i><c>house</c></NS> <NS type="S"><i>ther</i><c>there</c></NS> were all my friends! We had a great evening <NS type="S"><i>becaus</i><c>because</c></NS> Pat wasn't very good at keeping secrets!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

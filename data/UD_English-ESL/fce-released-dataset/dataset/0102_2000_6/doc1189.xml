@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR484*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>21-25</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about a number of <NS type="RN"><i>points</i><c>things</c></NS>.</p>
+          <p>I went to London on holiday and to The Circle Theatre to see Over The Rainbow. <NS type="RY"><i>Although</i><c>However</c></NS>, this musical <NS type="UN"><i>show</i></NS> was not as good as I expected.</p>
+          <p>First of all, <NS type="W"><i>was the show</i><c>the show was</c></NS> <NS type="S"><i>suppossed</i><c>supposed</c></NS> to start at 19.30, but it started <NS type="UY"><i>first</i></NS> at 20.15. To make matters worse, instead of Danny Brook performing you had another actor, which was very disappointing. Secondly, it says in your advertisement that discounts would be available, despite the fact they were not.</p>
+          <p>On top of everything, you recommended <NS type="FV"><i>to visit</i><c>visiting</c></NS> the theatre restaurant after the show. <NS type="RP"><i>however</i><c>However</c></NS><NS type="MP"><c>,</c></NS> this was closed due to lack of <NS type="RN"><i><NS type="S"><i>personall</i><c>personnel</c></NS></i><c>staff</c></NS>. According to your brochure <NS type="U"><i>it says</i></NS> this would be the perfect evening out.</p>
+          <p><NS type="RT"><i>According to</i><c>Considering</c></NS> my experience<NS type="MP"><c>,</c></NS> it was not. I am expecting a full refund and compensation for the discomfort I have suffered. I am looking <NS type="S"><i>foward</i><c>forward</c></NS> to hearing from you.</p>
+          <p>Yours faithfully</p>
+          <p>Carley Agda Nilsen</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Fashion of the future.</p>
+          <p>Designers are improving their skills all the time.</p>
+          <p>Nowadays, there are more and more people who <NS type="AGV"><i>wants</i><c>want</c></NS> to become designers and the <NS type="S"><i>competion</i><c>competition</c></NS> is increasing. Everybody wants to be the best. Due to this the quality of clothes is getting better and in 100 years we will be asking for a <NS type="RJ"><i>bigger</i><c>greater</c></NS> variety of clothes. Although, the price of clothes is increasing, people still buy them. We give other things priority so we are able to afford our clothes.</p>
+          <p>On the whole, people nowadays<NS type="UP"><i>,</i></NS> do care more about their appearance and will <NS type="FV"><i>be continuing</i><c>continue</c></NS> to do <NS type="MY"><c>so</c></NS>.</p>
+          <p>It appears that people are more aware about clothes and also work.</p>
+          <p>I think people in the future will begin to <NS type="W"><i>only wear</i><c>wear only</c></NS> fashionable clothes. If you feel nice<NS type="UP"><i>,</i></NS> in an outfit your <NS type="DN"><i>confident</i><c>confidence</c></NS> will be likely to increase and this might also help you to <NS type="R"><i>get a better career in your work</i><c>advance your career</c></NS>, something which is very important today.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

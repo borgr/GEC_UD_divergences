@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR254*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/<NS type="S"><i>MADAME</i><c>MADAM</c></NS>,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you because yesterday I went to the musical <NS type="UN"><i>show</i></NS> "Over the Rainbow" and I had a bad evening.</p>
+          <p>First of all, in the advertisement <NS type="MA"><c>it</c></NS> says that the <NS type="DN"><i>starring</i><c>stars</c></NS> were <NS type="CE">different actors, and there weren't different one, so that <NS type="RP"><i>can not</i><c>cannot</c></NS> be</NS>.</p>
+          <p>Also in the advertisement <NS type="MA"><c>it</c></NS> says<NS type="UP"><i>,</i></NS> that the show <NS type="TV"><i>will</i><c>would</c></NS> begin at 19.30 and it started at 20.15; that <NS type="TV"><i>mean</i><c>meant</c></NS> that I <NS type="TV"><i>have</i><c>had</c></NS> to <NS type="FV"><i>cancelled</i><c>cancel</c></NS> a date that I had at 21:00, because I <NS type="S"><i>coudn't</i><c>couldn't</c></NS> make it. If you <NS type="RV"><i>present</i><c>put on</c></NS> a show you must be on time.</p>
+          <p>Another thing that <NS type="R"><i>happened</i><c>I discovered</c></NS> was that <NS type="R"><i>the tickets did not have discount</i><c>there were no discount tickets</c></NS> and the advertisement <NS type="TV"><i>says</i><c>said</c></NS> <NS type="SX"><i>the</i><c>there</c></NS> <NS type="TV"><i>will</i><c>would</c></NS> <NS type="RV"><i>have</i><c>be</c></NS>. So, how is <NS type="MA"><c>it</c></NS> possible that you <NS type="RV"><i>present</i><c>publish</c></NS> an advertisement and you don't <NS type="RV"><i>make</i><c>do</c></NS> what it <NS type="AGV"><i>say</i><c>says</c></NS>?</p>
+          <p>Finally, <NS type="RA"><i>it</i><c>you</c></NS> <NS type="TV"><i><NS type="S"><i>supose</i><c>suppose</c></NS></i><c>were supposed</c></NS> to have the restaurant open, and it wasn't, because they didn't have electricity to cook, so they <NS type="TV"><i>close</i><c>closed</c></NS> it.</p>
+          <p>I am really <NS type="SX"><i>made</i><c>mad</c></NS> and I want my money back<NS type="RP"><i>, please</i><c>. Please</c></NS> call me <NS type="RT"><i>to</i><c>on</c></NS> the number 23456789, I will be waiting <NS type="MT"><c>for</c></NS> your call. Thank <NS type="MA"><c>you</c></NS> for your time</p>
+          <p><NS type="DA"><i>your</i><c>Yours</c></NS> <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Modern technology <NS type="AGV"><i>have</i><c>has</c></NS> <NS type="TV"><i>change</i><c>changed</c></NS> my daily life in many <NS type="RN"><i>aspects</i><c>ways</c></NS>.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> at work; <NS type="AGN"><i>computer</i><c>computers</c></NS> are really amazing, you only need to turn <NS type="RA"><i>it</i><c>one</c></NS> on and start to write; your work is <NS type="RJ"><i>more clean</i><c>neater</c></NS> and you work faster.</p>
+          <p><NS type="M"><i>Also</i><c>It has also</c></NS> <NS type="TV"><i>change</i><c>changed</c></NS> my free time<NS type="RP"><i>,</i><c>;</c></NS> they <NS type="TV"><i>had</i><c>have</c></NS> invented great games like play station, and you can have a really good time <NS type="W"><i>with your friend playing</i><c>playing with your friend</c></NS>. In the <NS type="ID"><i>early day</i><c>old days</c></NS>, on a <NS type="DJ"><i>raining</i><c>rainy</c></NS> day you couldn't play because most <NS type="UT"><i>of</i></NS> <NS type="AGN"><i>game</i><c>games</c></NS> were <NS type="MV"><c>played</c></NS> outside the house but now with <NS type="R"><i>the</i><c>modern</c></NS> technology you can <NS type="RV"><i>make</i><c>do</c></NS> many things in your house.</p>
+          <p>Another aspect is <NS type="MC"><c>that</c></NS><NS type="UP"><i>,</i></NS> <NS type="U"><i>on the</i></NS> <NS type="RN"><i>house artefacts</i><c>domestic appliances</c></NS><NS type="RP"><i>,</i><c> -</c></NS> microwaves, <NS type="DN"><i>laundrymachine</i><c>washing machines</c></NS><NS type="RP"><i>,</i><c> -</c></NS> make life <NS type="DJ"><i>easily</i><c>easier</c></NS>.</p>
+          <p>In my opinion technology <NS type="AGV"><i>have</i><c>has</c></NS> made <NS type="R"><i>human life</i><c>living</c></NS> <NS type="DJ"><i>easily</i><c>easier</c></NS>, <NS type="RJ"><i><NS type="IJ"><i>funier</i><c>funnier</c></NS></i><c>more fun</c></NS> and more comfortable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

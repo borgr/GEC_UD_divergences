@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR671*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>I have just received your letter and, firstly, I would like to thank you <NS type="RT"><i>about</i><c>for</c></NS> <NS type="MD"><c>this</c></NS> good news. I will give you the information which you asked me <NS type="MT"><c>for</c></NS> in your letter and also <NS type="MA"><c>I</c></NS> will ask you some questions.</p>
+          <p>As I understand<NS type="MP"><c>,</c></NS> <NS type="MA"><c>it</c></NS> is very <NS type="S"><i>imortant</i><c>important</c></NS> to confirm the date of <NS type="MD"><c>my</c></NS> <NS type="RN"><i>travelling</i><c>trip</c></NS>. I would rather choose July because it is <NS type="MD"><c>the</c></NS> only <NS type="UQ"><i>one</i></NS> month when I have got holiday<NS type="UP"><i>,</i></NS> long enough to spend it <NS type="UT"><i>by</i></NS> travelling abroad.</p>
+          <p>Now about <NS type="S"><i>accomodation</i><c>accommodation</c></NS>. If it is possible I would prefer to stay in <NS type="MD"><c>a</c></NS> tent. As I am young I would like to be a romantic person and to be closer to <NS type="UD"><i>the</i></NS> nature. I think it will be the best way to understand what California means.</p>
+          <p><NS type="FV"><i><NS type="S"><i>Ansering</i><c>Answering</c></NS></i><c>To answer</c></NS> <NS type="UT"><i>to</i></NS> your question about activities, I am going to choose tennis and swimming. I am quite good <NS type="RT"><i>in</i><c>at</c></NS> tennis, especially <NS type="IV"><i>plaing</i><c>playing</c></NS> <NS type="R"><i>in two pairs</i><c>doubles</c></NS>. Also I like swimming and I've got two <NS type="MP"><i><NS type="AGN"><i>year</i><c>years</c></NS></i><c>years'</c></NS> experience <NS type="RT"><i>in</i><c>of</c></NS> teaching swimming <NS type="RT"><i>in</i><c>at</c></NS> <NS type="MD"><c>a</c></NS> <NS type="S"><i>lesure</i><c>leisure</c></NS> centre.</p>
+          <p>Could I ask you some questions about clothes and money<NS type="RP"><i>.</i><c>?</c></NS> Should I take some clothes for <NS type="MD"><c>the</c></NS> cold weather? The last question - could you <NS type="RV"><i>tell</i><c>give</c></NS> me some idea about how much money <NS type="W"><i><NS type="RV"><i>could</i><c>will</c></NS> I</i><c>I will</c></NS> need.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>As a <NS type="AGN"><i>women</i><c>woman</c></NS>, as a mother and, finally, as an ordinary person, I <NS type="TV"><i>am <NS type="RV"><i>doing</i><c>going</c></NS></i><c>go</c></NS> shopping quite often. Do I enjoy it? If I told you "yes" or "no", I'd tell you nothing.</p>
+          <p>Shopping is part of my life. Sometimes I hate it. I can't <NS type="UV"><i>be</i></NS> concentrate in a shop, <NS type="RC"><i>but</i><c>and</c></NS> I can't <NS type="S"><i>relaxe</i><c>relax</c></NS> <NS type="RY"><i>as well</i><c>either</c></NS>. I am looking on the <NS type="IN"><i>shelfs</i><c>shelves</c></NS> but I'm not able to find anything from my shopping list. Everybody <NS type="AGV"><i>are</i><c>is</c></NS> pushing me and I think that I came <NS type="RT"><i>in</i><c>to</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> wrong place.</p>
+          <p>On the other hand, I understand very well that it is really <NS type="S"><i>nesseceraly</i><c>necessary</c></NS>. I also understand that nobody will do that <NS type="RT"><i>at</i><c>in</c></NS> my place. However, everybody in my family will open their mouths and won't just ask to eat, they will ask me <NS type="MT"><c>for</c></NS> something special and <NS type="SX"><i>testy</i><c>tasty</c></NS>.</p>
+          <p>To be honest, sometimes I like shopping. I think it is an opportunity to meet different people (even if they are pushing you), to understand what they like and what they don't, because even some <NS type="FN"><i>kind</i><c>kinds</c></NS> of food <NS type="TV"><i>could</i><c>can</c></NS> be in <NS type="S"><i>fashing</i><c>fashion</c></NS>. When I am with my children I can <NS type="RV"><i><NS type="RV"><i>lean</i><c>learn</c></NS></i><c>teach</c></NS> them <NS type="FV"><i>reading</i><c>to read</c></NS>, <NS type="FV"><i>counting</i><c>to count</c></NS><NS type="UP"><i>,</i></NS> <NS type="W"><i>if they only</i><c>only if they</c></NS> don't run away from me to educate <NS type="DA"><i>themself</i><c>themselves</c></NS> in the huge world, <NS type="MD"><c>the</c></NS> <NS type="W"><i>which name</i><c>name of which</c></NS> is "shopping".</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

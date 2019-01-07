@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR680*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>I have just received your letter and I am glad to be the winner. <NS type="S"><i>Firsty</i><c>Firstly</c></NS>, I would like to thank you warmly for this great prize. Here <NS type="AGV"><i>are</i><c>is</c></NS> some <NS type="M"><c>of the</c></NS> information and details you requested:</p>
+          <p>Concerning the dates of the stay, I will only be able to come during the first two weeks of July, because I am starting a new job on July 15th.</p>
+          <p>Since I have some serious back problems, I would prefer <NS type="W"><i>a cabin <NS type="UT"><i>for</i></NS> <NS type="FV"><i>sleeping</i><c>to sleep</c></NS> <NS type="MT"><c>in</c></NS></i><c>to sleep in a cabin</c></NS>.</p>
+          <p><NS type="RT"><i>About</i><c>Regarding</c></NS> your activities, I have picked basketball, because I love it: I <NS type="R"><i>am a player</i><c>play</c></NS> in a local club and I have been playing for twelve years, so I guess I am a "good" player. I have also chosen photography <NS type="RT"><i>in</i><c>from</c></NS> your list<NS type="RP"><i>: that</i><c>.  That</c></NS> part of California must be beautiful and I would love <NS type="FV"><i>bringing</i><c>to bring</c></NS> <NS type="MN"><c>home</c></NS> some "well-taken" photos of the area.</p>
+          <p>Lastly I need to know if all meals are included in your package.</p>
+          <p>I am looking forward to joining you at Camp California<NS type="MP"><c>.</c></NS></p>
+          <p>Yours faithfully<NS type="MP"><c>,</c></NS></p>
+          <p>Zacharie Gibson</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>We decided to make a short film about our school <NS type="R"><i>being seen and showed</i><c>as it would be seen</c></NS> through the eyes of an imaginary student. It will be called "A day in the life of the mysterious student X." It will be shot just as if the viewers were student X, not seeing him but being him. He will have breakfast, take a shower, get dressed, etc<NS type="RP"><i>...  So</i><c> - so</c></NS> <NS type="W"><i><NS type="MD"><c>the</c></NS> viewers will</i><c>will the viewers</c></NS>.</p>
+          <p>Student X will meet friends on his way to school and start talking with them. Actually one of us will hold the camera while another will stand next to him, as the "voice" of X.</p>
+          <p>At school we want to show "sights and sounds" from all <NS type="MD"><c>the</c></NS> lessons (about 5 minutes each). Student X will answer questions, speak with his classmates, even cheat at an exam! During the chemistry and biology classes, "we" will <NS type="RV"><i>make</i><c>carry out</c></NS> <NS type="RN"><i>experiences</i><c>experiments</c></NS>. Of course we will also show other activities<NS type="MP"><c>,</c></NS> such as PE<NS type="MP"><c>,</c></NS> the lunch break and the <NS type="SA"><i>theater</i><c>theatre</c></NS> workshop.</p>
+          <p>The main purpose is to show the "real" life of an unreal student. Therefore we want this film to be informative and funny as well.</p>
+          <p>We expect to show our <NS type="R"><i>production</i><c>finished product</c></NS> during the graduation party.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

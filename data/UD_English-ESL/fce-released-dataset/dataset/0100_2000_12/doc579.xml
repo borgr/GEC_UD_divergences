@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR26*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to you as a representative of the class about the 3-day school trip which has been organized for next week.</p>
+          <p>First of all, I would like to thank you for the excellent organization of this trip which seems to be very interesting and useful for the students. <NS type="RY"><i>Especially</i><c>In particular</c></NS><NS type="MP"><c>,</c></NS> I believe that the visit to the National Art Gallery will be a really exciting experience for all of us. All the students are enthusiastic about it.</p>
+          <p>However, some of them have read an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> about the London Fashion and Leisure Show, which will take place at the Central Exhibition Hall in London on 14th March. The Exhibition will show all the latest <NS type="FN"><i>fashion</i><c>fashions</c></NS> <NS type="RT"><i>in</i><c>over</c></NS> a very wide range from <NS type="RP"><i>sports wear</i><c>sportswear</c></NS> to <NS type="MP"><i>make up</i><c>make-up</c></NS> and even hairstyles. What is more, the show is free for all <NS type="UD"><i>the</i></NS> students. We feel that taking part <NS type="RT"><i>to</i><c>in</c></NS> it would be a great opportunity <NS type="RT"><i>to</i><c>for</c></NS> us since we will be able to <NS type="RV"><i>have</i><c>get</c></NS> some information about the world of fashion, which is becoming more and more important in our <NS type="RN"><i>days</i><c>time</c></NS>.</p>
+          <p><NS type="ID">Under the circumstances</NS>, I was asked by the class to inform you about the show and to ask if it <NS type="RV"><i>could</i><c>would</c></NS> be possible to make some changes <NS type="RT"><i>in</i><c>to</c></NS> the programme if it <NS type="R">could to visit</NS> the <NS type="RP"><i>Exhibition</i><c>exhibition</c></NS>. It will take place on Tuesday from 10.00am to <NS type="ID"><i>19.00pm</i><c>7.00pm</c></NS>, so we could give up <NS type="UD"><i>the</i></NS> shopping and go to the show in the afternoon.</p>
+          <p>I hope you will consider this possibility and tell us as soon as possible if you intend to accept our proposal.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS><NS type="MP"><c>,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Being <NS type="CL"><i>famous and <NS type="SX"><i>risk</i><c>rich</c></NS></i><c>rich and famous</c></NS> is something all of us have dreamt of <NS type="RY"><i>sometimes</i><c>at some time</c></NS>. But <NS type="X"><i>not always famous people are</i><c>famous people aren't always</c></NS> happy <NS type="RT"><i>of</i><c>with</c></NS> their <NS type="RN"><i>condition</i><c>situation</c></NS>. Usually if you ask them what they <NS type="UV"><i>would</i></NS> desire most, the answer is: "I would like to be able to live like ordinary people do<NS type="MP"><c>.</c></NS>"</p>
+          <p><NS type="AS"><i>There is no surprise to this answer</i><c>This answer is no surprise</c></NS>: famous people <NS type="RP"><i>can not</i><c>cannot</c></NS> have their own private life. Whenever they go out they are suddenly "hounded" by groups of journalists and photographers who want an interview or a photo. They <NS type="RP"><i>can not</i><c>cannot</c></NS> even have a pizza with <NS type="R">friend who</NS> stops them and asks them for an autograph. But the worst thing of all is that they are often <NS type="MD"><c>the</c></NS> victim of malicious <NS type="CN"><i>gossips</i><c>gossip</c></NS>, which most of the <NS type="FN"><i>times</i><c>time</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> not even true.</p>
+          <p>In conclusion, I believe that it is certainly <NS type="RJ"><i>tight</i><c>right</c></NS> that famous people accept their <NS type="RN"><i>condition</i><c>situation</c></NS>, with all the advantages and disadvantages it brings<NS type="RP"><i>, on</i><c>. On</c></NS> the other hand, however, I think that they deserve to have a private life <NS type="RT"><i>as</i><c>like</c></NS> all other people have. Also the most famous star can be unhappy and <NS type="S"><i>depresed</i><c>depressed</c></NS>: <NS type="X"><i>not always, in fact, money and celebrity <NS type="RV"><i>being</i><c>bring</c></NS></i><c>in fact, money and celebrity don't always bring</c></NS> happiness.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

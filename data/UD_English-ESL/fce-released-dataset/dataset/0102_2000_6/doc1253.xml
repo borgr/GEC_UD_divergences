@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR519*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>13.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p><NS type="RT"><i>According to</i><c>On</c></NS> the evening I <NS type="TV"><i><NS type="RV"><i>have passed</i><c>have spent</c></NS></i><c>spent</c></NS> in your theatre, I was supposed to see "Over the rainbow" (as you wrote on the <NS type="DN"><i>publicity paper</i><c>flyer</c></NS>).</p>
+          <p>However, it was <NS type="UY"><i>absolutely</i></NS> not <NS type="RT"><i>like</i><c>as</c></NS> you described!</p>
+          <p>First, there was a big <NS type="R"><i>late</i><c>delay</c></NS> <NS type="RT"><i>about</i><c>with</c></NS> the <NS type="RN"><i>time</i><c>performance</c></NS>. The show <NS type="TV"><i>begun</i><c>began</c></NS> 45 minutes later than <NS type="RV"><i>supposed</i><c>expected</c></NS>!</p>
+          <p><NS type="ID"><i>To make matter worse</i><c>To make matters worse</c></NS>, we have never had the <NS type="S"><i>oppurtunity</i><c>opportunity</c></NS> to see Danny Brook because, instead, there was a different actor! How can you explain that big mistake? <NS type="ID"><i>At the top of everything</i><c>On top of everything</c></NS>, you <NS type="RV"><i>proposed</i><c>told</c></NS> us to visit your theatre restaurant after the show. How could we visit this place<NS type="UP"><i>,</i></NS> if it is not open?!</p>
+          <p>You wrote so <NS type="DY"><i>persuately</i><c>persuasively</c></NS> that it would be our "Perfect Evening Out"...</p>
+          <p>I am really disappointed about this experience. I spent £20 - and <NS type="M"><c>there was</c></NS> not as you wrote <NS type="MQ"><c>any</c></NS> "discount available". I will not make <NS type="FN"><i>troubles</i><c>trouble</c></NS> but I ask you politely <NS type="MT"><c>for</c></NS> my money back.</p>
+          <p>I hope<NS type="UP"><i>,</i></NS> you will agree and share my <NS type="S"><i>disappointement</i><c>disappointment</c></NS>.</p>
+          <p>I am looking forward to staying in contact with you.</p>
+          <p><NS type="DY"><i>Sincerly</i><c>Sincerely</c></NS> yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future</p>
+          <p><NS type="MD"><i>Future</i><c>The future</c></NS><NS type="RP"><i>,</i><c>.</c></NS> Everybody <NS type="AGV"><i>ask</i><c>asks</c></NS> <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>will our world</i><c>our world will</c></NS> look like. <NS type="UV"><i>What's</i><c>What</c></NS> about <NS type="UD"><i>the</i></NS> fashion in 100 years?</p>
+          <p>I think we have to take <NS type="W"><i><NS type="RT"><i>in</i><c>into</c></NS> consideration our <NS type="S"><i>enviroment</i><c>environment</c></NS></i><c>our environment into consideration</c></NS>: <NS type="UD"><i>The</i></NS> pollution makes <NS type="IJ"><i>more and more the atmosphere warmer</i><c>the atmosphere warmer and warmer</c></NS>. In fact, <NS type="DN"><i>winterseason</i><c>winters</c></NS> will be rare or will maybe even disappear. The ice will <NS type="S"><i>smellt</i><c>melt</c></NS>, the weather will be warmer.</p>
+          <p>People won't wear warm clothes anymore and they will <NS type="S"><i>certenly</i><c>certainly</c></NS> be <NS type="S"><i>sinthetic</i><c>synthetic</c></NS>, because there won't be enough <NS type="AGN"><i>place</i><c>places</c></NS> to <NS type="S"><i>cultivite</i><c>cultivate</c></NS> cotton and to let <NS type="W"><i><NS type="R"><i>grass</i><c>graze</c></NS> <NS type="CN"><i>sheeps</i><c>sheep</c></NS></i><c>sheep graze</c></NS>.</p>
+          <p>Community: <NS type="RP"><i>Another</i><c>another</c></NS> very important point! <NS type="MD"><i><NS type="DJ"><i>Electronical</i><c>Electronic</c></NS></i><c>The electronic</c></NS> community <NS type="R">takes more and more pace</NS> in our <NS type="UJ"><i>habitual</i></NS> lifestyle. We <NS type="MV"><c>will</c></NS> see<NS type="UP"><i>,</i></NS> <NS type="UD"><i>the</i></NS> objects <NS type="UV"><i>will</i></NS> <NS type="RV"><i>come</i><c>become</c></NS> smaller. So small that I can <NS type="MY"><c>not</c></NS> imagine, they will be <NS type="TV"><i>introduce</i><c>introduced</c></NS> (maybe like chips) <NS type="RT"><i>in</i><c>into</c></NS> our clothes.</p>
+          <p>Our feelings will be <NS type="TV"><i>transmit</i><c>transmitted</c></NS> <NS type="DY"><i>electronical</i><c>electronically</c></NS> through our clothes to other people. I think <NS type="RT"><i>at</i><c>of</c></NS> <NS type="MD"><c>an</c></NS> internet. "<NS type="MD"><c>The</c></NS> Internet on our body".. I'm <NS type="S"><i>shure</i><c>sure</c></NS> that is not impossible!</p>
+          <p>Clothes will take a very important place in our future. They will be like a second skin.</p>
+          <p>Or do you think, an <NS type="DN"><i>icetime</i><c>ice age</c></NS> will come?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

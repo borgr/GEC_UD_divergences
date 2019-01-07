@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR732*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>40.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Tito Torres Vargas</p>
+          <p>ELIZABETH GASKELL COLLEGE</p>
+          <p>Manchester, UK</p>
+          <p>Helen Ryan</p>
+          <p>Competition Organizer</p>
+          <p>Dear Madam,</p>
+          <p>Thank you for this great opportunity to travel with you for free! I entered the competition you organized but never expected to be the lucky winner.</p>
+          <p>I could only travel <NS type="RT"><i>on</i><c>in</c></NS> the first week of July because I have to join my parents on their trip to Italy, due to start on the 20th.</p>
+          <p>The <NS type="S"><i>accomodation</i><c>accommodation</c></NS> that best suits me is <NS type="R"><i>in</i><c>the</c></NS> <NS type="FN"><i>log cabins</i><c>log cabin</c></NS>, as the space in tents is very limited and I am not used to <NS type="FV"><i>have</i><c>having</c></NS> all my belongings in order and packed at all times.</p>
+          <p><NS type="ID"><i>In respect of</i><c>With regard to</c></NS> the activities you offer, it is difficult to choose <NS type="RT"><i>in</i><c>from</c></NS> such a <NS type="S"><i>hugh</i><c>huge</c></NS> variety, but I prefer to do those I <NS type="W"><i>better know</i><c>know better</c></NS> <NS type="MQ"><c>such</c></NS> as climbing. I've been studying Photography on my own, and I am looking forward to <NS type="FV"><i>practise</i><c>practising</c></NS> new techniques and <NS type="FV"><i>take</i><c>taking</c></NS> pictures of new landscapes.</p>
+          <p>Please send me a list of the items I <NS type="R"><i>many</i><c>may</c></NS> need there, including the most appropriate clothes for the <NS type="RP"><i>american</i><c>American</c></NS> weather. I would also like to know in advance the amount of money I need to bring for expenses that will not be included.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Most of us would agree on that. Who has never had a bad experience related <NS type="RT"><i>with</i><c>to</c></NS> an unsatisfactory product? Moreover, who has the freedom to buy <NS type="W"><i><NS type="RT"><i>with</i><c>on</c></NS> an unlimited budget whatever they need</i><c>whatever they need on an unlimited budget</c></NS>? And finally who has all the time needed to do so?</p>
+          <p>There are many things that can go wrong in the process of <NS type="S"><i>adquiring</i><c>acquiring</c></NS> a product or service. And whenever money is involved, some problems are likely to <NS type="RV"><i>happen</i><c>arise</c></NS>. Thieves will try to put their hands in our wallets and purses, and even the <NS type="RP"><i>so called</i><c>so-called</c></NS> 'plastic money' is not always safe.</p>
+          <p>Hunting on the <NS type="RP"><i>High Street</i><c>high street</c></NS>, or the <NS type="RP"><i>Shopping Malls</i><c>shopping malls</c></NS><NS type="UP"><i>,</i></NS> for the desired bargain - because we <NS type="MP"><i>cant</i><c>can't</c></NS> afford <NS type="W"><i>otherwise to buy <NS type="MA"><c>anything</c></NS></i><c>to buy anything otherwise</c></NS> - <NS type="W"><i>becomes often</i><c>often becomes</c></NS> a desperate <NS type="S"><i>atempt</i><c>attempt</c></NS> to <NS type="R"><i>reach a living</i><c>attain a lifestyle</c></NS> promoted by the new <NS type="RJ"><i>consuming</i><c>consumerist</c></NS> society. And nobody can say they would rather go back to the <NS type="RN"><i>caverns'</i><c>stone</c></NS> age <NS type="RC"><i>where</i><c>when</c></NS> money was not even invented.</p>
+          <p>With more free time and more money to spend than ever, shopping is a great activity, but when this creates bad habits <NS type="MQ"><c>such</c></NS> as overspending, <NS type="MA"><c>it</c></NS> could lead to serious problems.</p>
+          <p><NS type="RY"><i>At the end</i><c>In the end</c></NS> <NS type="RA"><i>all</i><c>everything</c></NS> depends <NS type="RT"><i>in</i><c>on</c></NS> our <NS type="S"><i>attitud</i><c>attitude</c></NS> to life, including shopping. I particularly enjoy making lists of the products <NS type="M"></NS> before going shopping. But even without money to spend <NS type="MA"><c>it</c></NS> is fun to rush from time to time <NS type="RT"><i>in</i><c>through</c></NS> the sales that <NS type="S"><i>seasonaly</i><c>seasonally</c></NS> appear, or simply look at the superb displays that shops have in their showrooms.</p>
+          <p>Shopping may be enjoyable or not at all!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

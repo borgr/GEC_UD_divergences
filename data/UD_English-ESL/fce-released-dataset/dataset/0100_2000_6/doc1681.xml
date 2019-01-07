@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR665*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I have just received your letter informing me that I won a two week holiday at Camp California, so I am writing to you to <NS type="RV"><i>indicate</i><c>tell</c></NS> <NS type="MA"><c>you</c></NS> my preferences for the travel and the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>.</p>
+          <p>I have no particular needs but one: it will be necessary for me to travel in July because my work will keep me very busy in all <NS type="MD"><c>the</c></NS> other months.</p>
+          <p>About the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I have no problems, but I would prefer staying in <NS type="MD"><c>a</c></NS> tent, so that the holiday may be more adventurous.</p>
+          <p>During the holiday, I would like <NS type="FV"><i>playing</i><c>to play</c></NS> tennis and golf. I can play tennis quite well, but I have never played golf, so, if it is possible, I would like <NS type="FV"><i>taking</i><c>to take</c></NS> lessons with a teacher.</p>
+          <p>I would like to know also what I will have to pay <NS type="MT"><c>for</c></NS> with my money and how the <NS type="RN"><i>climate</i><c>weather</c></NS> is at Camp California, because I have to decide which clothes to bring. I look forward to your <NS type="RN"><i>answer</i><c>reply</c></NS>.</p>
+          <p>Yours sincerely,</p>
+          <p>Clara Mancini</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>People often have very different opinions about shopping. Most women and girls like it, especially when they want to buy clothes and shoes. A man <NS type="W"><i>usually is</i><c>is usually</c></NS> less interested in shopping, maybe because he frequently has to pay <NS type="MT"><c>for</c></NS> what his wife has bought.</p>
+          <p>In my opinion, shopping can be interesting in big stores, where you can find everything, or in shops which sell something special or strange. <NS type="ID"><i>On the contrary</i><c>On the other hand</c></NS>, I don't like going to shops where you see only common things, and I hate it when <NS type="RA"><i>there</i><c>it</c></NS> is <NS type="UQ"><i>a lot of</i></NS> <NS type="DJ"><i>crowd</i><c>crowded</c></NS>. In this case, you have to stay in long queues, you can't walk without being pulled or pushed, and you often have to spend <NS type="FD"><i>a</i><c>an</c></NS> hour <NS type="FV"><i>to buy</i><c>buying</c></NS> some soap or a packet of biscuits. Even if you are with a friend, you can't talk, because of the noise and the confusion, and you may find it difficult also to walk close to each other.</p>
+          <p>The <NS type="FJ"><i>better</i><c>best</c></NS> thing to do to <NS type="RV"><i>skip</i><c>avoid</c></NS> queues and <NS type="FN"><i>crowd</i><c>crowds</c></NS> is not to go shopping on Saturdays, but it is not always possible.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

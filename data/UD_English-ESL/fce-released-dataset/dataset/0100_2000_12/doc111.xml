@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR449*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to thank <NS type="MA"><c>you</c></NS> for <NS type="RD"><i>your</i><c>the</c></NS> interesting and excellent programme<NS type="UP"><i>,</i></NS> that you <NS type="AGV"><i>has</i><c>have</c></NS> organised, <NS type="MC"><c>and</c></NS> especially <NS type="RT"><i>concerning</i><c>for</c></NS> the opportunity to visit the National Art Gallery and the Science Museum.</p>
+          <p>I am also writing to ask for your permission to go to the London Fashion and Leisure show, which <NS type="TV"><i>would</i><c>will</c></NS> be on Tuesday 14 March. It will be a presentation of the latest fashions and <NS type="RT"><i>about</i><c>of</c></NS> <NS type="UD"><i>the</i></NS> leisure and sports wear. Moreover there will be a <NS type="RN"><NS type="S"><i>demostration</i><c>demonstration</c></NS></NS> of <NS type="UD"><i>a</i></NS> modern <NS type="MP"><i>make up</i><c>make-up</c></NS> and new different, <NS type="DJ">shaking</NS> hairstyles.</p>
+          <p>I would like to add that it <NS type="RV"><i>could</i><c>would</c></NS> <NS type="W"><i>be <NS type="S"><i>definetely</i><c>definitely</c></NS></i><c>definitely be</c></NS> a great opportunity because the tickets will be free for students.</p>
+          <p>Finally, I would like to suggest that we could attend the show after visiting the Science Museum, instead of <NS type="RV"><i>doing</i><c>going</c></NS> shopping.</p>
+          <p>Many thanks in advance for your cooperation. I look <NS type="S"><i>foward</i><c>forward</c></NS> to hearing from you in the near future.</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>"It was dangerous, but I knew I had to do it<NS type="MP"><c>,</c></NS>" Peter whispered<NS type="MP"><c>,</c></NS> smiling at me.</p>
+          <p><NS type="RP"><i>it</i><c>It</c></NS> was a cold, stormy, winter's night outside. The wind was blowing and the heavy rain was drumming <NS type="S"><i>agaist</i><c>against</c></NS> our bedroom window. I could hear <NS type="FD"><i>a</i><c>an</c></NS> owl hooting in the tree nearby. My husband and I were sitting on our bed.</p>
+          <p>Peter, my husband, was a tall, strong man in his <NS type="DN"><i>mid-forty</i><c>mid-forties</c></NS>. We used to <NS type="RV"><i>remember</i><c>recount</c></NS> our <NS type="RN"><i>daytime</i><c>day</c></NS> before <NS type="RV"><i>felling</i><c>falling</c></NS> asleep. As a postman, Peter<NS type="UP"><i>,</i></NS> had to deliver letters <NS type="S"><i>aroud</i><c>around</c></NS> our little village. He knew everybody, <NS type="R"><i>especially</i><c>including</c></NS> Mrs Rilke, an elderly, eagle-eyed <NS type="W"><i>teacher <NS type="DJ"><i>in retirement</i><c>retired</c></NS></i><c>retired teacher</c></NS>, who lived in <NS type="FD"><i>a</i><c>an</c></NS> old cottage with her five bad-tempered dogs. She <NS type="TV"><i>has</i><c>had</c></NS> never received any <NS type="FN"><i>letter</i><c>letters</c></NS>, <NS type="RT"><i>since</i><c>till</c></NS> that morning.</p>
+          <p> "She was very angry when I arrived. She stared suspiciously at me through <NS type="RD"><i>her</i><c>the</c></NS> glasses on the tip of her nose. After I had opened her gate, she called loudly <NS type="MT"><c>to</c></NS> her five, horrible dogs. I realised I had to run away, but I <NS type="W"><i>had still</i><c>still had</c></NS> her letter. Suddenly I made up my mind, and running as fast as a champion horse I reached her hands and left the letter, then I went away quickly and, fortunately, <NS type="MV"><c>was</c></NS> just in time to close the gate between me and the dogs!<NS type="MP"><c>"</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

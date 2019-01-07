@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR759*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear</p>
+          <p>Mrs. Helen Ryan:</p>
+          <p>I've <NS type="S"><i>recived</i><c>received</c></NS> your letter and I'm very happy to know that I won the competition and the first prize.</p>
+          <p>In answer to your <NS type="FN"><i>questions</i><c>question</c></NS>, I will have to say that I <NS type="W"><i><NS type="RY"><i>just</i><c>only</c></NS> can</i><c>can only</c></NS> go to the <NS type="DN"><i>campament</i><c>camp</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> July because of my job<NS type="RP"><i>,</i><c>;</c></NS> they only gave me that month <NS type="RJ"><i>free</i><c>off</c></NS>.</p>
+          <p>In the camp I would like to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I hate to sleep <NS type="RY"><i><NS type="DY"><i>uncomfortable</i><c>uncomfortably</c></NS></i><c>badly</c></NS> and<NS type="UP"><i>,</i></NS> I will if I stay in a tent. <NS type="RT"><i><NS type="S"><i>Acording</i><c>According</c></NS> to</i><c>In</c></NS> your letter, you asked me to choose two of your activities. I <NS type="MV"><c>would</c></NS> <NS type="S"><i>prefere</i><c>prefer</c></NS> to do some climbing because that's what I do in my spare time and I do it quite well. Apart from that, if you give surfing classes I would love to take them; surfing is one of my chilhood <NS type="S"><i>drems</i><c>dreams</c></NS> that <NS type="UA"><i>I</i></NS> never came true.</p>
+          <p>I have a few questions that you might be able to answer <NS type="UA"><i>me</i></NS>. I don't know what <NS type="S"><i>tipe</i><c>type</c></NS> of clothes <NS type="UV"><i>do</i></NS> I have to take <NS type="RC"><i>and</i><c>or</c></NS> the amount of money that I'm going to spend, so if you<NS type="MP"><c>,</c></NS> please<NS type="MP"><c>,</c></NS> could help me <NS type="MT"><c>by</c></NS> giving me this information I would be very pleased. <NS type="MP"><i>Im</i><c>I'm</c></NS> looking forward to <NS type="FV"><i>go</i><c>going</c></NS> to the camp and hearing from you soon</p>
+          <p>Yours sincerely</p>
+          <p>Carmen Garcia.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Shooping</i><c>Shopping</c></NS> is not always enjoyable.</p>
+          <p>We <NS type="W"><i>all have</i><c>have all</c></NS> been <NS type="S"><i>shooping</i><c>shopping</c></NS> once in our <NS type="IN"><i>lifes</i><c>lives</c></NS> and sometimes it probably has not been very enjoyable, why? <NS type="RP"><i>we</i><c>We</c></NS> had a class discussion and we all agree <NS type="RT"><i>in</i><c>on</c></NS> some points.</p>
+          <p>For example<NS type="MP"><c>,</c></NS> if we go to a big mall we will probably never find what we <NS type="TV"><i>were</i><c>are</c></NS> looking for, and instead of <NS type="IV"><i>buing</i><c>buying</c></NS> what we came for we will <NS type="RV"><i>go out</i><c>leave</c></NS> with lots of things that we liked but we will never use. And that will be <NS type="MD"><c>a</c></NS> waste of time.</p>
+          <p>Sometimes we have to take our little brothers with us, because our mother isn't home, and <NS type="RA"><i>then</i><c>that</c></NS> is <NS type="RC"><i>where</i><c>when</c></NS> the problems begin. Most of the <NS type="FN"><i>times</i><c>time</c></NS> <NS type="RA"><i>one</i><c>he</c></NS> <NS type="AGV"><i>get</i><c>gets</c></NS> lost, or they start <NS type="IV"><i>plaing</i><c>playing</c></NS> around, making noise, bothering people, etc... And when this happens you get <NS type="RT"><i>on</i><c>in</c></NS> a bad mood and you'll have a bad <NS type="W"><i><NS type="S"><i>shooping</i><c>shopping</c></NS> day</i><c>day shopping</c></NS>.</p>
+          <p>So if you want to have a good<NS type="MP"><c>,</c></NS> relaxing <NS type="W"><i><NS type="S"><i>shooping</i><c>shopping</c></NS> day</i><c>day shopping</c></NS>, we recommend you <NS type="X"><i>not to go</i><c>don't go</c></NS> with your little brothers and to go with <NS type="S"><i>enogh</i><c>enough</c></NS> time to look <NS type="S"><i>arround</i><c>around</c></NS> for what you really want.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

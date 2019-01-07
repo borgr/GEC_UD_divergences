@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE65*0100*2001*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>Thank you for your letter. I am writing to give you some advice <NS type="RT"><i>of</i><c>about</c></NS> <NS type="RD"><i>an</i><c>the</c></NS> international student conference.</p>
+          <p>First of all, the name of <NS type="MD"><c>the</c></NS> hotel which we have been booked into is <NS type="MD"><c>the</c></NS> Palace Hotel. And we have two <NS type="RN"><i>choices</i><c>ways</c></NS> to get to the conference, a bus or a train. Both of them are <NS type="R">as <NS type="DJ"><i><NS type="S"><i>convinience</i><c>convenience</c></NS></i><c>convenient</c></NS> as getting there</NS>.</p>
+          <p>The day before we will leave <NS type="UY"><i>there</i></NS>, we have a party which takes place in our hotel. It is a kind of formal party, so we should be <NS type="UP"><i>well-dressed</i><c>well dressed</c></NS>. I suggest that you wear <NS type="UD"><i>a</i></NS> formal dress. There <NS type="TV"><i><NS type="AGV"><i>is</i><c>are</c></NS></i><c>will be</c></NS> some <NS type="CN"><i>finger foods</i><c>finger food</c></NS> and drinks. It might be a great party for <NS type="MD"><c>the</c></NS> end of <NS type="MD"><c>the</c></NS> conference.</p>
+          <p><NS type="R">End of all</NS>, in my opinion we could go <NS type="MT"><c>to</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> <NS type="SA"><i>center</i><c>centre</c></NS> of the town because there <NS type="AGV"><i>is</i><c>are</c></NS> many places to have a look <NS type="MT"><c>at</c></NS> and go shopping. It's quite a nice <NS type="MN"><c>area</c></NS> and a suitable place to spend <NS type="UT"><i>for</i></NS> three hours. It could be interesting for them.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Imagine our life without a telephone. If <NS type="RD"><i>a</i><c>the</c></NS> telephone <NS type="TV"><i>haven't</i><c>hadn't</c></NS> been invented, we wouldn't <NS type="R">have lived perfectly like nowadays</NS>. <NS type="RV"><i>Wouldn't</i><c>Don't</c></NS> you think we rely on it more than we <NS type="RV"><i>expect</i><c>imagine</c></NS>?</p>
+          <p>A telephone is used when we need to contact <NS type="UT"><i>with</i></NS> someone, and also <NS type="R"><i>an</i><c>in</c></NS> emergency <NS type="FN"><i>situation</i><c>situations</c></NS> and <NS type="MT"><c>for</c></NS> <NS type="RD"><i>an</i><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. It has various <NS type="R"><NS type="AGN"><i>way</i><c>ways</c></NS> to use</NS><NS type="RP"><i>, however</i><c>. However</c></NS>, nowadays it is not only used <NS type="RT"><i>by</i><c>for</c></NS> these <NS type="AGN"><i>purpose</i><c>purposes</c></NS>, but also it keeps <NS type="RA"><i>our</i><c>us</c></NS> company. <NS type="UY"><i>Even if</i><c>If</c></NS> you feel <NS type="RJ"><i>alone</i><c>lonely</c></NS>, you can talk and hear from your <NS type="FN"><i>friend</i><c>friends</c></NS> easily. Then it makes you happy.</p>
+          <p><NS type="MD"><i>Long</i><c>A long</c></NS> time ago people lived without this perfect invention. But how? They used to keep in touch <NS type="R"><i>with someone with a</i><c>by</c></NS> letter. <NS type="R">In spite of taking a lot of time to catch up with</NS>, it was <NS type="RD"><i>a</i><c>the</c></NS> only way. So that's why they have invented <NS type="RD"><i>a</i><c>the</c></NS> <NS type="S"><i>telephon</i><c>telephone</c></NS>.</p>
+          <p>Now we <NS type="TV"><i>could</i><c>can</c></NS> <NS type="R">feel the world closer and closer beaus of a telephone</NS>. Who wouldn't <NS type="MV"><c>be</c></NS> <NS type="DJ"><i>thank</i><c>thankful</c></NS> for this great invention?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

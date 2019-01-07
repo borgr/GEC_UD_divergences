@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1053*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>13, June 2000</p>
+          <p>Dear Sir or Madam,</p>
+          <p>Firstly I would like to thank you for the two weeks that I am going to <NS type="RV"><i>stay</i><c>spend</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> Camp California</p>
+          <p>Secondly, I will be able to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I am a manager so I <NS type="RP"><i>can not</i><c>cannot</c></NS> travel another time. Now I am going to answer a few questions: I think it is better for me to stay in a log cabin because I have terrible backaches so I <NS type="RP"><i>can not</i><c>cannot</c></NS> sleep on the floor. I would like to sing and <NS type="MV"><c>take</c></NS> <NS type="FN"><i>photograph</i><c>photographs</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I've done a course <NS type="RT"><i>about</i><c>in</c></NS> photography and I think that I am very good <NS type="RT"><i>on</i><c>at</c></NS> it. <NS type="ID"><i>In the other hand</i><c>On the other hand</c></NS>, I <NS type="RP"><i>can not</i><c>cannot</c></NS> sing very well but I would like to do this <NS type="MN"><c>activity</c></NS> there.</p>
+          <p>I would like to know <NS type="RQ"><i>which</i><c>what</c></NS> type of clothes I <NS type="TV"><i>will</i><c>should</c></NS> wear there<NS type="RP"><i>, would</i><c>.  Would</c></NS> you check the weather forecast for me, please? And how much money <NS type="W"><i>I am</i><c>am I</c></NS> going to need to have there with me?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely.</p>
+          <p>Maria Sophia Candoso.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>the lost wallet</p>
+          <p>A long time ago, when I started working, I received my first <NS type="RN"><i>pay</i><c>paycheque</c></NS> and went to a shopping center to spend my money <NS type="RT"><i>with</i><c>on</c></NS> my credit card. I bought everything I wanted.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> the day to pay my credit card <NS type="TV"><i>arrives</i><c>arrived</c></NS> and where was my money? I started to look <NS type="UT"><i>in</i></NS> everywhere. <NS type="TV"><i>I've asked</i><c>I asked</c></NS> my mom and my friends and <NS type="X"><i>everybody didn't know</i><c>nobody knew</c></NS> where it was. My mom said:</p>
+          <p>'<NS type="TV"><i>You've told</i><c>You told</c></NS> me that you were going to put it in your wallet.'</p>
+          <p>I started to look for my wallet and I couldn't find it, <NS type="R">lighter</NS>. Now I was without my money and my wallet. What could I do?</p>
+          <p>Suddenly the door bell rang. I went to see who was there. It was <NS type="SX"><i>and</i><c>an</c></NS> old woman asking who <NS type="W"><i>was Maria</i><c>Maria was</c></NS>.</p>
+          <p>'<NS type="RA"><i>It's</i><c>That's</c></NS> me!' I said.</p>
+          <p>That's when she showed me my wallet and said she had found it on the <NS type="SX"><i>sit</i><c>seat</c></NS> <NS type="RT"><i>of</i><c>at</c></NS> the <NS type="RN">eating-place</NS> <NS type="RT"><i>of</i><c>at</c></NS> the shopping center that I went <NS type="MT"><c>to</c></NS> that day!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

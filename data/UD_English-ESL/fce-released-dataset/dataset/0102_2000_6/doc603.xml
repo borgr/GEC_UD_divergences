@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR39*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam!</p>
+          <p>I'm writing to you because of the musical show "Over the rainbow", <NS type="S"><i>wich</i><c>which</c></NS> I <NS type="RV"><i>visited</i><c>saw</c></NS> on Friday the 16th of June in your theatre. There are several points I have to complain <NS type="MT"><c>about</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> <NS type="RV"><i>made</i><c>meant</c></NS> the evening <NS type="MV"><c>was</c></NS> not nice at all.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS> the show started much later than <NS type="UA"><i>it</i></NS> was <NS type="RV"><i>written out</i><c>advertised</c></NS>. Instead of half past seven the show <NS type="IV"><i>startet</i><c>started</c></NS> at quarter past eight. I couldn't go to <NS type="RV"><i>have</i><c>get</c></NS> <NS type="R"><i>a</i><c>any</c></NS> refreshment <NS type="R"><i>because of</i><c>for</c></NS> two reasons, the first one is that there was no information <NS type="MT"><c>about</c></NS> how <NS type="R"><i>much time</i><c>long</c></NS> the start of the show <NS type="TV"><i>is</i><c>was</c></NS> going to be late <NS type="MT"><c>by</c></NS>. The second reason is that the <NS type="W"><i>restaurant of the theatre</i><c>theatre restaurant</c></NS> was closed <NS type="W"><i>because of building plans for the next two month</i><c>for the next two months because of building plans</c></NS>.</p>
+          <p>After I waited for about 45 minutes the show suddenly started but I <NS type="UV"><i>had</i></NS> <NS type="TV"><i>to realize</i><c>realised</c></NS> that the main actor Danny Brook, who was the reason why I went <NS type="RT"><i>into</i><c>to</c></NS> the show<NS type="MP"><c>,</c></NS> had been <NS type="RV"><i>traded</i><c>replaced</c></NS> by <NS type="RP"><i>an other</i><c>another</c></NS> actor, who couldn't sing <NS type="UC"><i>as</i></NS> half as <NS type="DY"><i>good</i><c>well</c></NS> <NS type="RC"><i>then</i><c>as</c></NS> Brook.</p>
+          <p>On your <NS type="FN"><i>ticket</i><c>tickets</c></NS> information is written <NS type="UY"><i>out</i></NS> that discounts are available, when I <NS type="TV"><i>ask</i><c>asked</c></NS> at the ticket <NS type="RN"><i>reception</i><c>office</c></NS> I couldn't get any discount for <NS type="IV"><i>beeng</i><c>being</c></NS> <NS type="MD"><c>a</c></NS> student.</p>
+          <p>To <NS type="R"><i>make an result</i><c>conclude,</c></NS> the evening in your theatre and the show was very disappointing and not like <NS type="MA"><c>the one</c></NS> promised. For these reasons I want to ask you <NS type="R"><i>to get</i><c>for</c></NS> my money<NS type="MP"><c>,</c></NS> <NS type="UT"><i>of</i></NS> £25<NS type="MP"><c>,</c></NS> back.</p>
+          <p><NS type="S">reasently</NS></p>
+          <p>Miss. Winkler</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>What is the prize?</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. He didn't want to say what Sarah <NS type="W"><i>just had</i><c>had just</c></NS> told him, it just came <NS type="UT"><i>over</i><c>out</c></NS> <NS type="MT"><c>of</c></NS> his mouth, when he talked to James. "Sarah has won in a quiz show?" James was more than just interested, he wanted to know what she had won. But Pat made a promise not to tell anybody about the quiz show and he <NS type="W"><i>already had</i><c>had already</c></NS> told enough.</p>
+          <p>After one hour the <NS type="W"><i>hohle</i><c>whole</c></NS> class had heard about Sarah's secret. Everybody was interested in what she had won but <NS type="S"><i>knowbody</i><c>nobody</c></NS> wanted to ask Sarah because it was told <NS type="RT"><i>in</i><c>as</c></NS> a secret to them. Sarah realized that everybody was nice and friendly to her but something was going on in the class, when she turned around <NS type="UD"><i>a</i></NS> talking and <NS type="S"><i>wispering</i><c>whispering</c></NS> started. Suddenly, she went to Pat and asked him<NS type="MP"><i> did</i><c>, "Did</c></NS> you tell anybody about our secret<NS type="MP"><i>.</i><c>?"</c></NS> Pat told her everything. Sarah looked at him for a while, <NS type="SX"><i>than</i><c>then</c></NS> she stood in front of the class and <NS type="IV"><i>explaind</i><c>explained</c></NS> to the others<NS type="UP"><i>,</i></NS> that she <NS type="TV"><i>won</i><c>had won</c></NS> a prize for 20 people to travel for 1 week to the <NS type="RN"><i>sea</i><c>coast</c></NS> of southern France and <NS type="R"><i>everybody</i><c>every one</c></NS> of the 19 pupils was invited, except Pat who wasn't very good at keeping secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

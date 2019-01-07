@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR205*0100*2000*02">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p> Dear Mr Robertson,</p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you because I <NS type="TV"><i>had been asked</i><c>have been asked</c></NS> to make a little suggestion about the programme <NS type="DA"><i>your</i><c>you</c></NS> have organised <NS type="RT"><i>to</i><c>for</c></NS> our English class <NS type="RN"><i>travel</i><c>trip</c></NS>.</p>
+          <p>First of all, thank you for the programme, we think it is very good, especially the river trip to <NS type="RP"><i>greenwich</i><c>Greenwich</c></NS>, we believe we will enjoy <NS type="MA"><c>it</c></NS> a lot going to <NS type="RP"><i>greenwich</i><c>Greenwich</c></NS>. Moreover, in our opinion, this <NS type="RN"><i>travel</i><c>trip</c></NS> is going to be very interesting for us.</p>
+          <p>On the other hand, we have seen an advertisement for the London Fashion and Leisure <NS type="RP"><i>show</i><c>Show</c></NS> and we would all like to go the show. We think it is a good opportunity because <NS type="RP"><i>london</i><c>London</c></NS> fashion is the most important <NS type="RT"><i>over</i><c>in</c></NS> the world, and we all <NS type="TV"><i>learn</i><c>will learn</c></NS> a lot about London style going to this show.</p>
+          <p>We think we could <NS type="RV">change</NS> <NS type="MD"><c>the</c></NS> <NS type="S"><i>shooping</i><c>shopping</c></NS> <NS type="MN"></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>going</i><c>to go</c></NS> to the show. The show is free, and it is only on Tuesday 14th of March. It is open from 10.00 until 19.00, and we could go there <NS type="RT"><i>on</i><c>in</c></NS> the afternoon.</p>
+          <p>Thank you for your attention.</p>
+          <p>We are looking forward to your answer,</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p> Thinking about the media's treatment of famous people, I've realised <NS type="UT"><i>of</i></NS> some things.</p>
+          <p><NS type="ID"><i>On my point of view</i><c>In my view</c></NS> the media's treatment of famous people is very bad. The <NS type="IN"><i>media's</i><c>media</c></NS> are looking forward to <NS type="FV"><i>create</i><c>creating</c></NS> great expectations about famous people. They are not trying to give information, they are only looking to get money, and to entertain the public.</p>
+          <p>On the other hand, if the <NS type="IN"><i>media's</i><c>media</c></NS> are acting in that way <NS type="MA"><c>it</c></NS> is because of <NS type="UD"><i>the</i></NS> society. <NS type="W"><i><NS type="UD"><i>The society</i><c>Society</c></NS> <NS type="MA"><c>it</c></NS> is</i><c>It is society</c></NS> <NS type="RA"><i>who</i><c>that</c></NS> increases the audience of the media, if nobody <NS type="RV"><i>gave</i><c>paid</c></NS> attention to the famous <NS type="MP"><i>people</i><c>people's</c></NS> private <NS type="IN"><i>lifes</i><c>lives</c></NS>, this treatment would finish.</p>
+          <p>But in my opinion, before you get famous you know <NS type="RA"><i>which</i><c>what</c></NS> are the consequences. As in another <unknown/> you may know what could happen.</p>
+          <p>To sum up, there is no <NS type="W"><i>job perfect</i><c>perfect job</c></NS>, and <NS type="FV"><i>be</i><c>being</c></NS> famous involves a <NS type="S"><i>lof</i><c>lot</c></NS> <NS type="MT"><c>of</c></NS> money, but also a lot of <NS type="S"><i>jouralists</i><c>journalists</c></NS> following your private life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

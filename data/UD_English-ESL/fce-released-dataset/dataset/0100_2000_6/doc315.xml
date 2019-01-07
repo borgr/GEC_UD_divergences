@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR133*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan.</p>
+          <p>Thank you for your letter. I am so happy to win the prize and <NS type="RV"><i>come true</i><c>realise</c></NS> my dream.</p>
+          <p>I would like to travel to California this July, because I can take <NS type="FD"><i>an</i><c>a</c></NS> holiday from 14th to 27th of July.</p>
+          <p>I would prefer log cabins. I have never used <NS type="RA"><i>it</i><c>one</c></NS> and I think it would be more exciting than tents.</p>
+          <p>I have heard that <NS type="UD"><i>the</i></NS> Camp California is famous for surfing, so I hope that I will enjoy surfing for the first time. Besides, I will take the <NS type="RN"><i>chance</i><c>opportunity</c></NS> to play golf. It is my only <NS type="SA"><i>favorite</i><c>favourite</c></NS> hobby.</p>
+          <p>What about clothes and money? I don't know what the weather is like, and you are paid for travel costs, but I am wondering <NS type="RC"><i>that</i><c>whether</c></NS> it <NS type="TV"><i>is included</i><c>includes</c></NS> two activities. Also, I have a dog. Can I go with him.</p>
+          <p>Please, let me know <NS type="M"><c>the answers to</c></NS> <NS type="AGD"><i>this</i><c>these</c></NS> questions as soon as possible.</p>
+          <p>I appreciate your competition and I look forward to hearing your answer</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>I am sorry. This letter is late, because last week I took exams, so I was very busy.</p>
+          <p>To reply <NS type="MT"><c>to</c></NS> your <NS type="RN"><i>answer</i><c>question</c></NS>, it was <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="FD"><i>an</i><c>a</c></NS> nice experience. As you know, I like <NS type="UD"><i>a</i></NS> pop music so much and <NS type="MD"><c>the</c></NS> singer was one of my <NS type="SA"><i>favorite</i><c>favourite</c></NS> singers. Also, in the future <NS type="TV"><i>I'll want</i><c>I want</c></NS> to be an organizer like <NS type="MT"><c>at</c></NS> this concert, so it'll be useful <NS type="UD"><i>the</i></NS> experience <NS type="RT"><i>to</i><c>for</c></NS> me.</p>
+          <p>I am writing <NS type="MT"><c>about</c></NS> how I got the position and what I did. Firstly, I applied to a concert agency to help, because I had the experience before and I knew how to organize and what to do.</p>
+          <p><NS type="RT"><i>In</i><c>At</c></NS> the pop concert, there were many people, so before starting the pop concert, I arranged the seats and carried some musical instruments. It was somewhat hard <NS type="RT"><i>to</i><c>for</c></NS> me. After the concert, I cleaned all the ground with other helpers and we moved the seats again.</p>
+          <p>If you have some questions, let me know. I am looking forward to hearing from you</p>
+          <p>With best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

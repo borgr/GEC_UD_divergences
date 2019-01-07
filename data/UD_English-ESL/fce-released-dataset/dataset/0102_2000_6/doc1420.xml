@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR53*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I have recently been to the Circle Theatre to see a musical show. It was advertised as London's Newest and best musical show. However, it <NS type="TV"><i>had been</i><c>was</c></NS> a very <NS type="S"><i>dissappointing</i><c>disappointing</c></NS> evening for me.</p>
+          <p>Firstly, it was mentioned that there were going to be two <NS type="DN"><i>starrings</i><c>stars</c></NS> but, in fact, only <NS type="RD"><i>an</i><c>one</c></NS> actor <NS type="AGV"><i>were</i><c>was</c></NS> performing <NS type="RT"><i>on</i><c>in</c></NS> the show.</p>
+          <p>Secondly, there was a delay <NS type="RT"><i>on</i><c>with</c></NS> the show<NS type="MP"><c>,</c></NS> which <NS type="TV"><i>supposed</i><c>was supposed</c></NS> to <NS type="FV"><i>started</i><c>start</c></NS> at 19.30 but<NS type="UP"><i>,</i></NS> it <NS type="UV"><i>was</i></NS> actually started at 20:15. This really upset me as no notice <NS type="AGV"><i>were</i><c>was</c></NS> given before the show.</p>
+          <p>Thirdly, the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> said that <NS type="UD"><i>the</i></NS> discounts were <NS type="S"><i>avaliable</i><c>available</c></NS> but<NS type="UP"><i>,</i></NS> the ticket seller said that there was no discount <NS type="R">allowing or</NS> <NS type="S"><i>avaliable</i><c>available</c></NS>.</p>
+          <p>In addition, the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> mentioned that <NS type="MD"><c>the</c></NS> restaurant <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="DJ"><i>opened</i><c>open</c></NS> after the show but it was closed because<NS type="UP"><i>,</i></NS> <NS type="R">short of cooker</NS>.</p>
+          <p>Finally, I would like to ask for <NS type="MD"><c>my</c></NS> money back <NS type="RT"><i>for</i><c>on</c></NS> the ticket due to the <NS type="S"><i>disapointing</i><c>disappointing</c></NS> evening out and <NS type="MD"><c>the</c></NS> <NS type="RJ"><i>unreliable</i><c>misleading</c></NS> advertisement you have <NS type="RV">created</NS>.</p>
+          <p>I am looking forward to hearing from you as soon as possible.</p>
+          <p>Yours faithfully,</p>
+          <p>Cook Phatosub.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Nowaday</i><c>Nowadays</c></NS>, modern technology is <NS type="IV"><i>becomming</i><c>becoming</c></NS> <NS type="RY"><i>very</i><c>absolutely</c></NS> essential to our daily life. <NS type="UC"><i>As it</i><c>It</c></NS> is another important factor which affects our life, apart from money, health, food and <NS type="RN"><i>house</i><c>housing</c></NS>.</p>
+          <p>The reasons it is important to us are, first of all, <NS type="R">if you think <NS type="SX"><i>bout</i><c>about</c></NS> life</NS> without computers, communication <NS type="RN"><i>machines</i><c>technology</c></NS> and transportation <NS type="UN"><i>machines</i></NS><NS type="RP"><i>. We</i><c>, we</c></NS> wouldn't be able to <NS type="RV"><i>sort out</i><c>process</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> and <NS type="IN"><i>datas</i><c>data</c></NS> <NS type="R"><i>this</i><c>so</c></NS> quickly. Secondly, no one could communicate on the phone <NS type="R">through countries or even through houses</NS> as <NS type="RY"><i><NS type="DY"><i>immediate</i><c>immediately</c></NS></i><c>quickly</c></NS> as nowadays. Lastly, it would take people months and months to travel to the other side of the world and also the journey would be much more dangerous than <NS type="FV"><i>travel</i><c>travelling</c></NS> by plane. Without all this <NS type="DD"><i>you</i><c>your</c></NS> life would <NS type="S"><i>definately</i><c>definitely</c></NS> change back to <NS type="R">the same position as it were</NS> 50 or more years ago. <NS type="FV"><i>Put</i><c>To put</c></NS> it in <NS type="AGQ"><i>another</i><c>other</c></NS> words, modern technology has changed our life to became more advanced in every <NS type="AGN"><i>ways</i><c>way</c></NS>.</p>
+          <p>On the other hand, the <NS type="DN"><i>affects</i><c>effects</c></NS> that it has on our daily life <NS type="AGV"><i>is</i><c>are</c></NS> not always good as <NS type="RY"><i>sometime</i><c>sometimes</c></NS><NS type="UP"><i>,</i></NS> the technology <NS type="TV"><i>went</i><c>goes</c></NS> wrong and <NS type="R">out of hand of people who control it</NS> can cause <NS type="DJ"><i>disaster</i><c>disastrous</c></NS> accidents, for example: plane crashes, <NS type="FN"><i>trains</i><c>train</c></NS> <NS type="DN"><i>crashed</i><c>crashes</c></NS> and <NS type="MD"><c>the</c></NS> explosion of <NS type="S"><i>nuclears</i><c>nuclear</c></NS> <NS type="FN"><i>bomb</i><c>bombs</c></NS>. If this <NS type="AGV"><i>continue</i><c>continues</c></NS> to happen our life <NS type="TV"><i>would</i><c>will</c></NS> be very <NS type="S"><i>misarable</i><c>miserable</c></NS> as <NS type="FN"><i>accident</i><c>accidents</c></NS> <NS type="AGV"><i>happens</i><c>happen</c></NS> all the time. Therefore, it is important to get it exactly right.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

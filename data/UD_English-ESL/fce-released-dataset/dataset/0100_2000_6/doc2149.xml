@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR868*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to thank you for your letter confirming <NS type="W"><i>the first prize that I won</i><c>that I won the first prize</c></NS> in your competition. I would <NS type="W"><i>like also</i><c>also like</c></NS> <NS type="U"><i>with the present</i></NS> to give you some information about me in order to arrange the details for the trip.</p>
+          <p>First of all, I would like to inform you that I will be able to travel only during July because in June I am going to <NS type="RV"><i>give</i><c>sit</c></NS> examinations for the First Certificate in English. Furthermore, in August I will be preparing for my course at the <NS type="RP"><i>University</i><c>university</c></NS> <NS type="SX"><i>which</i><c>where</c></NS> I am starting next September.</p>
+          <p>Secondly, I would be grateful if you could arrange <NS type="W"><i>for me <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>accommodation for me</c></NS> in log cabins as I am not used <NS type="RT"><i>on</i><c>to</c></NS> <NS type="RV"><i>living</i><c>staying</c></NS> in the countryside and especially <NS type="MY"><c>not</c></NS> in tents.</p>
+          <p>In addition, I would like to inform you that I <NS type="MV"><c>would</c></NS> prefer to do Surfing and Sailing while I <NS type="TV"><i>will be</i><c>am</c></NS> at the <NS type="RP"><i>Camp</i><c>camp</c></NS>, as I am an active member of <NS type="MD"><c>the</c></NS> Sailing and Surfing Club of Manchester and it will be a great chance for me to practise my techniques and skills.</p>
+          <p>I would <NS type="W"><i>be also</i><c>also be</c></NS> grateful if you could send me information about the average <NS type="W"><i>living cost</i><c>cost of living</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> California<NS type="MP"><c>,</c></NS> as I have to <NS type="RV"><i>arrange</i><c>work out</c></NS> the amount of money that I am going to spend, and some advice about the clothes that I need. I would <NS type="W"><i>like also</i><c>also like</c></NS> <NS type="MA"><c>you</c></NS> to specify if the food is <NS type="DJ"><i>including</i><c>included</c></NS> in the prize.</p>
+          <p>Please let me know if you need more information.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>As requested, I visited some classes during <NS type="UD"><i>the</i></NS> <NS type="FN"><i>lesson</i><c>lessons</c></NS> and some other rooms while activities were taking place.</p>
+          <p>The aim of this report is <NS type="FV"><i>make</i><c>to make</c></NS> a series of suggestions on which lessons and other activities should be filmed.</p>
+          <p><NS type="UV"><i>It's</i><c>It</c></NS> seems to me that it will be an extremely good advertisement for our school if you <NS type="R">take plans from</NS> the <NS type="W"><i>lesson of Chemistry</i><c>chemistry lesson</c></NS> in the laboratory, because our laboratory is new, recognised as one of the best in the area as it has a huge amount of <NS type="RN"><i>instruments</i><c>equipment</c></NS> and really some very good <NS type="RN"><i>professors</i><c>teachers</c></NS>, and also many experiments are taking place in this laboratory<NS type="MP"><c>.</c></NS></p>
+          <p>Furthermore, I think it will be a good idea to <NS type="R">take plans from a match of our school team</NS> <NS type="RT"><i>in</i><c>on</c></NS> the football <NS type="RN"><i>field</i><c>pitch</c></NS> as it is completely new and <NS type="DY"><i>full</i><c>fully</c></NS> <NS type="DJ"><i>equiped</i><c>equipped</c></NS>.</p>
+          <p>In addition, I think you <NS type="R"><NS type="W"><i>have to take also</i><c>also have to take</c></NS> plans from</NS> the school's <NS type="RP"><i>Nursery</i><c>nursery</c></NS> as there are a lot of facilities for the children, and the parents can <NS type="RV"><i>recognise</i><c>see</c></NS> that the teachers are very good.</p>
+          <p>I <NS type="W"><i>think also</i><c>also think</c></NS> that <NS type="MA"><c>it</c></NS> will be a good idea to take some general <NS type="RN">plans</NS> of the school area as there is a huge <NS type="RN">background</NS>.</p>
+          <p>In conclusion, I have to declare that <NS type="UD"><i>my</i></NS> <NS type="RA"><i>myself</i><c>I</c></NS> and my fellow students will be available to help <NS type="RT"><i>to</i><c>with</c></NS> this short video <NS type="ID">by all means</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

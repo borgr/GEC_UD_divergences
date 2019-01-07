@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR393*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about the musical show "Over the rainbow" performed at "The Circle Theatre" on the 20th of May.</p>
+          <p>To begin with, the show was supposed to start at 19:30 but, due to a "technical problem", as they said, it started at 20:15. However, it would not have been such a great problem if the show <NS type="UT"><i>on</i></NS> <NS type="UD"><i>the</i></NS> <NS type="TV"><i>proved</i><c>had proved</c></NS> to be as good as they promised but it really was not worth seeing, especially because the <NS type="RJ"><i>first</i><c>main</c></NS> actor was not Danny Brook<NS type="MP"><c>,</c></NS> <NS type="R"><i>as</i><c>whom</c></NS> we expected<NS type="MP"><c>,</c></NS> but an unknown, clearly an inexperienced young actor, named Tom Douglas.</p>
+          <p>What is more, there were no discounts available <NS type="RT"><i>for</i><c>on</c></NS> the ticket <NS type="RN"><i>fees</i><c>prices</c></NS> nor <NS type="W"><i>we had</i><c>had we</c></NS> the opportunity to visit the theatre restaurant, as it was closed for mourning reasons.</p>
+          <p>I am not satisfied with the service we received, I am therefore writing <NS type="R"><i>for</i><c>to request</c></NS> a full refund and I expect to receive <NS type="W"><i>by post a cheque</i><c>a cheque by post</c></NS> for £20.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>LIKE BLIND SHEEP</p>
+          <p>In the 21st century, people will all the wearing the same clothes, the same shoes, they will be buying the same accessories. We'll get <NS type="RY"><i>out</i><c>up</c></NS> in the morning and find <NS type="UY"><i>out</i></NS> that our neighbour wears <NS type="R"><i>our</i><c>the</c></NS> same jacket and he's boasting about a pair of shoes which are too similar to ours.</p>
+          <p>The thing is we are too fashion conscious, too fussy about our appearance and we'll end up <NS type="L"><i>forking out for</i><c>buying</c></NS> smart clothes only because the people next door are doing so!!</p>
+          <p>The reason why we'll do this is that we need to be accepted by the elite group that decide who you must be and how you must behave. They make you think there's noting left to do but to surrender and do what you've been told to, like blind sheep.</p>
+          <p>Anyway, I don't really mind what people will be wearing in 100 years' time. As for me the only thing I care <NS type="RT"><i>for</i><c>about</c></NS> in the morning is that I don't have <NS type="UD"><i>my</i></NS> <NS type="W"><i>socks mismatched</i><c>mismatched socks</c></NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

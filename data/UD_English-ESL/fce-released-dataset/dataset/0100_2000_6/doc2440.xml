@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR984*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen<NS type="MP"><c>,</c></NS></p>
+          <p>Thank you for my prize! I <NS type="MV"><c>have</c></NS> never been <NS type="RT"><i>in</i><c>to</c></NS> the USA and I should be glad to spend two weeks at Camp California.</p>
+          <p>I can only have some <NS type="FN"><i>holidays</i><c>holiday</c></NS> in July from the 3rd to the 17th with my husband at the same time<NS type="RP"><i>, that</i><c>.  That</c></NS> is why I would like to travel during those two weeks.</p>
+          <p>For the accommodation I would prefer to have <NS type="MD"><c>a</c></NS> <NS type="FN"><i>tents</i><c>tent</c></NS> because I <NS type="RV"><i>used</i><c>am used to</c></NS> <NS type="UT"><i>to</i></NS> <NS type="RV"><i><NS type="FV"><i>travel</i><c>travelling</c></NS></i><c>staying</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> <NS type="RP"><i>Campsites</i><c>campsites</c></NS> and I love it during summer, <NS type="ID">just to change the customs</NS>!!</p>
+          <p>Concerning <NS type="R"><i>those</i><c>the</c></NS> activities<NS type="MP"><c>,</c></NS> I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> two of them. I enjoy swimming and <NS type="RP"><i>anytime</i><c>any time</c></NS> I have <NS type="MD"><c>the</c></NS> <NS type="AGN"><i>opportunities</i><c>opportunity</c></NS> to swim I go. My second activity is painting because I love art and art history and I think that <NS type="MA"><c>it</c></NS> is better to <NS type="RV"><i>join</i><c>do</c></NS> one sport and one <NS type="ID">"soft leisure"</NS> and I do not really want to involve myself in a new activity that I <NS type="R"><i>don't know</i><c>am unfamiliar with</c></NS> <NS type="RT"><i>for</i><c>during</c></NS> my holidays.</p>
+          <p>Please could you tell me about the weather<NS type="MP"><c>,</c></NS> if I need special clothes and about <NS type="R"><i>the money for the change</i><c>how to change my money</c></NS><NS type="MP"><c>,</c></NS> if you don't mind<NS type="RP"><i>.</i><c>?</c></NS> See you soon!</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable" "Shopping today!" <NS type="MC"><c>If</c></NS> <NS type="RP"><i>You</i><c>you</c></NS> decide <NS type="CE">to go in town or during holidays to move in a "shopping destination"</NS>, that <NS type="UV"><i>is</i></NS> <NS type="AGV"><i>mean</i><c>means</c></NS> that you need something special for <NS type="RA"><i>you</i><c>yourself</c></NS> or someone else. You have the money and the time <NS type="R"><i>as</i><c>that</c></NS> you want. That's why it should be a great day! Save some money to go <NS type="UT"><i>for</i></NS> shopping in Paris or Roma and see how <NS type="UV"><i>is</i></NS> the French or Italian fashion <NS type="MV"><c>looks</c></NS> on <NS type="RA"><i>yourself</i><c>you</c></NS>! <NS type="RP"><i>and</i><c>And</c></NS> after that you can <NS type="R"><i>make a stop in</i><c>visit</c></NS> the <NS type="RP"><i>Duty-free</i><c>duty-free</c></NS> <NS type="MN"><c>shops</c></NS> and buy some <NS type="RJ"><i>chipper</i><c>cheap</c></NS> souvenirs. Singapoor and many places in Asia are famous for the shopping, and it is really nice to go there with <NS type="MQ"><c>enough</c></NS> money to buy <NS type="RA"><i>that</i><c>what</c></NS> you always wanted to. But even if shopping <NS type="CE">can means dream</NS> it can be boring sometimes. If you have no money and a friend <NS type="AGV"><i>ask</i><c>asks</c></NS> you to <NS type="RV"><i>come</i><c>go</c></NS> <NS type="UT"><i>for</i></NS> shopping, it should be boring! <NS type="RP"><i>and</i><c>And</c></NS> you <NS type="MV"><c>may</c></NS> become jealous <NS type="RT"><i>against</i><c>of</c></NS> him and want him to do <NS type="RA"><i>that</i><c>it</c></NS> quickly! <NS type="RP"><i>or</i><c>Or</c></NS> you <NS type="MV"><c>may</c></NS> <NS type="UV"><i>are going to</i></NS> get <NS type="RJ"><i>nervous</i><c>irritable</c></NS>! And you can find <NS type="M"><c>that there are</c></NS> too <NS type="CQ"><i>much</i><c>many</c></NS> people in <NS type="MD"><c>the</c></NS> shops, it is too hot or you <NS type="RP"><i>can not</i><c>cannot</c></NS> <NS type="RV"><i>have</i><c>get</c></NS> <NS type="R"><i>your</i><c>the</c></NS> right size or the right colour or flavour -- - then you get angry! <NS type="RP"><i>or</i><c>Or</c></NS> you decide <NS type="X"><i>to not spend</i><c>not to spend</c></NS> <NS type="MD"><c>the</c></NS> money <NS type="UT"><i>in</i></NS> shopping today, but <NS type="R">in front of the shop</NS>. What is going on??</p>
+          <p>So, you'd better <NS type="FV"><i>to stay</i><c>stay</c></NS> <NS type="MT"><c>at</c></NS> home today...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

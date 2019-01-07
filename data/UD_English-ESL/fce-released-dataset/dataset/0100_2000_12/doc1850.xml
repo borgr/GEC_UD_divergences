@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR708*0100*2000*02">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I am writing on behalf of <NS type="MD"><c>the</c></NS> students in your English class. Firstly, we are <NS type="DJ"><i>please</i><c>pleased</c></NS> and would like to thank you for your <NS type="DV"><i>arrangement</i><c>arranging</c></NS> to <NS type="FV"><i>taking</i><c>take</c></NS> us to London for 3 days.</p>
+          <p>Unfortunately, some students have seen an <NS type="AGN"><i>advertisements</i><c>advertisement</c></NS> for the London Fashion and Leisure Show and we <NS type="MV"><c>would</c></NS> all like to go to the show.</p>
+          <p>This show will <NS type="FV"><i>be taken</i><c>take</c></NS> place at <NS type="MD"><c>the</c></NS> Central Exhibition Hall in London on Tuesday 14 of March <NS type="RT"><i>at</i><c>between</c></NS> 10.00 - 19.00, <NS type="R">which</NS> <NS type="AGV"><i>include</i><c>includes</c></NS> the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles.</p>
+          <p>It is a great opportunity to visit <NS type="MA"><c>it</c></NS> because it is <NS type="RV"><i>shown</i><c>held</c></NS> only twice a year and <NS type="UD"><i>the</i></NS> entrance is free for students. Furthermore, most of us are designers so this might help to <NS type="UP"><i><NS type="FV"><i>up-dated</i><c>up-date</c></NS></i><c>update</c></NS> <NS type="AGA"><i>their</i><c>our</c></NS> knowledge as well.</p>
+          <p>Therefore, I would like to suggest that on Monday 13 and Wednesday 14 of March, we still stick with your plan. We might change the schedule on Tuesday 14 March, from visiting <NS type="MD"><c>the</c></NS> Science Museum to The London fashion and Leisure Show.</p>
+          <p>I would appreciate <NS type="MA"><c>it</c></NS> if the matter <NS type="TV"><i>can</i><c>could</c></NS> be settled <NS type="UY"><i>down</i></NS> easily and look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p><NS type="RA"><i>I</i><c>It</c></NS> was dangerous, but I knew I had to do it. I remember when I was in secondary school. At that time, my friends and I <NS type="AGV"><i>was</i><c>were</c></NS> so daring and full of energy.</p>
+          <p>One day before <NS type="MD"><c>an</c></NS> exam, we were so excited and <NS type="DJ"><i>frighten</i><c>frightened</c></NS> because we weren't ready for <NS type="MD"><c>the</c></NS> exam. We knew that our teacher kept the exam papers in her desk. One of my <NS type="AGN"><i>friend</i><c>friends</c></NS> came up with the idea that we had to steal them. The question was who would be the person <NS type="RV"><i><NS type="FV"><i>do</i><c>to do</c></NS></i><c>to perform</c></NS> this action so we tossed a coin, and the result was me. I was so <NS type="DJ"><i>scare</i><c>scared</c></NS> and <NS type="DJ"><i>frighten</i><c>frightened</c></NS> because if I was caught I would be punished.</p>
+          <p>However, I had to do it otherwise my <NS type="AGN"><i>friend</i><c>friends</c></NS> would call me a chicken and they dared me to do it.</p>
+          <p>So, that afternoon <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RP"><i>lunch time</i><c>lunchtime</c></NS>, I went into the teachers' room and opened her desk and took the paper out <NS type="S"><i>quitely</i><c>quietly</c></NS> and calmly. Finally, I was <NS type="DY"><i>succeed</i><c>successful</c></NS> in doing that. I took it to copy and returned it <NS type="UY"><i>back</i></NS> without anyone <NS type="FV"><i>saw</i><c>seeing</c></NS> me.</p>
+          <p>That was the most <NS type="DJ"><i>scarely</i><c>scary</c></NS> and daring thing that I did in my childhood. I <NS type="RV"><i>wouldn't</i><c>can't</c></NS> <NS type="FV"><i>have imagined</i><c>imagine</c></NS> <NS type="M"><c>what would have happened</c></NS> if I had been caught.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

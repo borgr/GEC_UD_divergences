@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR273*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Smith,</p>
+          <p>I went to London last week for business and<NS type="MP"><c>,</c></NS> loving <NS type="W"><i>very much theatre</i><c>theatre very much</c></NS><NS type="MP"><c>,</c></NS> I had promised my friend to <NS type="RV"><i>offer</i><c>give</c></NS> her, after work, a very good evening <NS type="RT"><i>with</i><c>at</c></NS> your musical show: "Over the Rainbow".</p>
+          <p>I had read <NS type="UT"><i>about</i></NS> <NS type="W"><i>it that</i><c>that it</c></NS> was a very enjoyable show! What a surprise!</p>
+          <p>Your advertisement was a quite lie and I have to tell you <NS type="MT"><c>about</c></NS> my disappointment. Every <NS type="RN"><i>point</i><c>statement</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> wrong. (I wondered if it was a fake!)</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, <NS type="UT"><i>from</i></NS> your advert <NS type="M"><c>led me to expect</c></NS> Danny Brook (who is a very good singer I appreciate very much) <NS type="M"><c>but he</c></NS> was not <NS type="RY"><i>here</i><c>there</c></NS>. An unknown <NS type="RN"><i>man</i><c>actor</c></NS> was singing, not in <NS type="RN"><i>tone</i><c>tune</c></NS> - awful for my ears - (poor Tina Truelove! such a professional singer with a beginner!)</p>
+          <p><NS type="UT"><i>At second</i><c>Second</c></NS>, to go on <NS type="R"><i>with</i><c>describing</c></NS> the beginning, your show started not at 19.30 but nearly one hour later (20.15 to be more precise!)</p>
+          <p>And for the third point, I <NS type="UV"><i>would</i></NS> <NS type="TV"><i>hope</i><c>had hoped</c></NS> to <NS type="RV"><i>offer</i><c>give</c></NS> a good <NS type="RN"><i>diner</i><c>dinner</c></NS> to my friend because I knew your restaurant <NS type="R"><i>as</i><c>was</c></NS> a famous place but I was <NS type="RY"><i>still</i><c>again</c></NS> disappointed. It was closed for <NS type="UQ"><i>some</i></NS> <NS type="RN"><i>improvements</i><c>renovation</c></NS>!</p>
+          <p>I hope you will understand <NS type="MY"><c>why</c></NS> my evening was detestable and you will give me back my money.</p>
+          <p>I <NS type="RV"><i>join</i><c>attach</c></NS> <NS type="MT"><c>to</c></NS> this letter my two tickets.</p>
+          <p>I am looking forward to hearing from you</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets!</p>
+          <p><NS type="ID"><i>Poor of I</i><c>Poor me</c></NS>, I thought it was nice to have a friend and to be able to share lots of things!</p>
+          <p>I was very young when this story happened but though it was a child's adventure I remember it <NS type="RY"><i>yet</i><c>still</c></NS>. I was just thirteen years old!</p>
+          <p>I had read a very good book about pirates and I know I <NS type="RV"><i>got</i><c>have</c></NS> a very creative imagination. <NS type="R">To make to profit my ideas</NS> my parents lived in a small village near <NS type="UD"><i>a</i></NS> wonderful <NS type="RN"><i>country</i><c>countryside</c></NS>.</p>
+          <p>Like my <NS type="IN"><i>heros</i><c>heroes</c></NS><NS type="MP"><c>,</c></NS> I would <NS type="TV"><i>like</i><c>have liked</c></NS> to live in a ship and decided to build something in a tree. The highest tree near a river I have ever seen. <NS type="MD"><i>Peaceful</i><c>A peaceful</c></NS> place <NS type="R"><i>and</i><c>with a</c></NS> wonderful view.</p>
+          <p>With my friend Pat (<NS type="ID"><i>I put him in the confidence</i><c>I took him into my confidence</c></NS>) I started to work and my idea became real.</p>
+          <p>It was our fortress and every day we could improve it. The tree was our ship and the river the sea. We could play <NS type="MT"><c>for</c></NS> hours and hours without seeing an adult or <NS type="MQ"><c>any</c></NS> other children from the village. I <NS type="RV"><i><NS type="IV"><i>prefered</i><c>preferred</c></NS></i><c>liked</c></NS> it. It was our secret<NS type="MP"><c>,</c></NS> Pat and I. <NS type="MD"><i>Child's</i><c>A child's</c></NS> secret.</p>
+          <p>But Pat could not keep it <NS type="RY"><i>too</i><c>very</c></NS> long. He had a fault: he talked a lot and told <NS type="RP"><i>an other</i><c>another</c></NS> friend our <NS type="RN"><i>story</i><c>secret</c></NS>. What a <NS type="S"><i>catestrophee</i><c>catastrophe</c></NS>! All <NS type="MD"><c>the</c></NS> children <NS type="RV"><i>went</i><c>left</c></NS> <NS type="UT"><i>from</i></NS> the village and wanted to play with us. I accepted them but I was very angry <NS type="RT"><i>against</i><c>with</c></NS> Pat. Our <NS type="RN"><i>quietness</i><c>peace</c></NS> disappeared and very <NS type="RY"><i>fast</i><c>soon</c></NS> everybody wanted to command my ship. A <NS type="S"><i>desaster</i><c>disaster</c></NS>!</p>
+          <p>There <NS type="AGV"><i>was</i><c>were</c></NS> lots of fights between us and we were naughty like <NS type="AGN"><i>child</i><c>children</c></NS> <NS type="TV"><i>could</i><c>can</c></NS> be with other <NS type="AGN"><i>child</i><c>children</c></NS>.</p>
+          <p>The result was my ship was destroyed and never <NS type="RY"><i>more</i><c>again</c></NS> <NS type="W"><i>I could</i><c>could I</c></NS> trust in any friend!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

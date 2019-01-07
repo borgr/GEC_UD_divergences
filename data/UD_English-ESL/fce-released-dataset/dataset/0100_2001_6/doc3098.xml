@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE52*0100*2001*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing with reference <NS type="RT"><i>on</i><c>to</c></NS> your letter concerning <NS type="RD"><i>an</i><c>the</c></NS> organization of an international student conference <NS type="RT"><i>in</i><c>at</c></NS> Wimbledon Art College. Below I <NS type="RV"><i><NS type="TV"><i>am clarifying</i><c>clarify</c></NS></i><c>provide</c></NS> some information you asked about.</p>
+          <p>First of all, I would like to give you more information about <NS type="MD"><c>the</c></NS> name and location of the hotel. The group has been booked into <NS type="MD"><c>the</c></NS> "Maria Luisa" <NS type="RP"><i>hotel</i><c>Hotel</c></NS><NS type="MP"><c>,</c></NS> which is situated <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="SA"><i>center</i><c>centre</c></NS> of Wimbledon called Wimbledon Village. This hotel is the next building after <NS type="MD"><c>the</c></NS> Art College, so it will be easy for your group to find the place.</p>
+          <p>Secondly turning to the end-of-conference party, it is <NS type="RV"><i><NS type="IV"><i>planed</i><c>planned</c></NS></i><c>meant</c></NS> to be <NS type="RT"><i>in</i><c>on</c></NS> Wimbledon Common - <NS type="MD"><c>a</c></NS> nice piece of <NS type="DJ"><i>England</i><c>English</c></NS> <NS type="RN"><i>nature</i><c>countryside</c></NS>. So, it may be a good idea to <NS type="RV"><i>take</i><c>wear</c></NS> <NS type="UQ"><i>some</i></NS> very comfortable and informal clothes.</p>
+          <p>Thirdly, talking about your free afternoon before leaving the area, I would suggest you <NS type="FV"><i>to visit</i><c>visit</c></NS> <NS type="MD"><c>the</c></NS> Wimbledon Museum of Tennis. <NS type="SX"><i>Where</i><c>There</c></NS> is quite <NS type="MD"><c>a</c></NS> good <NS type="RN"><i>exposition</i><c>exhibition</c></NS> <NS type="SX"><i>their</i><c>there</c></NS>, giving interesting information about the history of Wimbledon Tennis Tournaments.</p>
+          <p>I look forward to meeting your group <NS type="RT"><i>in</i><c>at</c></NS> our conference.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Report.</p>
+          <p>Introduction:</p>
+          <p>The purpose of this report is to give a brief <NS type="S"><i>discription</i><c>description</c></NS> of the Academy of Art in <NS type="UP"><i>St.-Petersburg</i><c>St Petersburg</c></NS>. <NS type="ID"><i>From my point of view</i><c>In my opinion</c></NS> this building is the best <NS type="RN"><i>option</i><c>place</c></NS> to visit.</p>
+          <p>Location:</p>
+          <p>This building is situated on the magnificent <NS type="RN"><i>embankment</i><c>bank</c></NS> of <NS type="MD"><c>the</c></NS> Niva River with an <NS type="S"><i>exellent</i><c>excellent</c></NS> view <NS type="RT"><i>on</i><c>of</c></NS> the Hermitage Museum.</p>
+          <p>History:</p>
+          <p>The building was built by <NS type="MD"><c>a</c></NS> very <NS type="DJ"><i>famious</i><c>famous</c></NS> Russian architect and is a <NS type="S"><i>marvellouse</i><c>marvellous</c></NS> example of Russian classic <NS type="S"><i>architerture</i><c>architecture</c></NS> of <NS type="MD"><c>the</c></NS> <NS type="UP"><i>XVIIIth</i><c>XVIII</c></NS> century.</p>
+          <p>Facilities:</p>
+          <p>In the Academy of Art you can find the <NS type="IJ"><i>oldiest</i><c>oldest</c></NS> art <NS type="S"><i>libarary</i><c>library</c></NS><NS type="MP"><c>,</c></NS> with a wide range of books, <NS type="MC"><c>and</c></NS> the Museum of Russian Art<NS type="MP"><c>,</c></NS> with a huge collection of <NS type="AGN"><i>painting</i><c>paintings</c></NS>, sculpture and architectural projects from <NS type="MD"><c>the</c></NS> early eighteenth to late twentieth centuries. It is also a good <NS type="RN"><i>chance</i><c>opportunity</c></NS> to be introduced <NS type="RT"><i>with</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> Russian system of art education.</p>
+          <p>Conclusion:</p>
+          <p>The building of <NS type="MD"><c>the</c></NS> Academy of Art in <NS type="UP"><i>St.-Petersburg</i><c>St Petersburg</c></NS> is worth visiting and interesting <NS type="RT"><i>as</i><c>because of</c></NS> <NS type="MD"><c>its</c></NS> <NS type="RJ"><i>historical</i><c>historic</c></NS> <NS type="R"><i>as</i><c>and</c></NS> educational aspects.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

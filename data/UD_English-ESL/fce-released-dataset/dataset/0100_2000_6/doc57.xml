@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR782*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan</p>
+          <p>I am very happy to know that I have won the first prize in your competition. Now I can realize one of my <NS type="AGN"><i>dream</i><c>dreams</c></NS>.</p>
+          <p>I can give you all the information that you need. I prefer to travel in July because it is the only month I can have two <NS type="MP"><i>weeks</i><c>weeks'</c></NS> holiday.</p>
+          <p>For the accommodation I prefer to have a log cabin because I have some problems with my back and I need a bed to sleep in. I can do two activities during my stay at the camp. The first one I <NS type="TV"><i>choose</i><c>have chosen</c></NS> is swimming. I have a good level <NS type="M"><c>of proficiency</c></NS> in swimming and I <NS type="RV"><i><NS type="TV"><i>have done</i><c>did</c></NS></i><c>entered</c></NS> some competitions last year which I <NS type="TV"><i>have won</i><c>won</c></NS>. For the second activity I <NS type="TV"><i>choose</i><c>have chosen</c></NS> photography. I have <NS type="TV"><i>take</i><c>taken</c></NS> a photography course <NS type="MT"><c>over</c></NS> the last two years so I am able to <NS type="RV"><i>do</i><c>take</c></NS> some beautiful pictures.</p>
+          <p>One question, I just want to know what kind of clothes do I take with me? And how <NS type="CQ"><i>many</i><c>much</c></NS> money do I need?</p>
+          <p>I thank you in advance.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>You want to hear about my experience <NS type="RT"><i>in</i><c>of</c></NS> helping at a pop concert. You can't imagine how <NS type="RJ"><i>funny</i><c>fun</c></NS> it was! You could do so many things because you received a <NS type="UP"><i>free-pass</i><c>free pass</c></NS> which allowed you to go where you wanted and <NS type="RA"><i>it</i><c>that</c></NS> was what I <NS type="RV"><i><NS type="TV"><i>had prefer</i><c>preferred</c></NS></i><c>liked</c></NS> about this experience.</p>
+          <p>I really enjoyed <NS type="FV"><i>to serve</i><c>serving</c></NS> the drinks to the pop-stars. You could speak to them and you could see that a lot were very cool and the other ones were <NS type="ID">still in the sky</NS>. And you heard the concerts too.</p>
+          <p>After the concert I had to clean the area and it took a long time because people <NS type="RV"><i><NS type="TV"><i>were</i><c>had been</c></NS></i><c>had behaved</c></NS> like pigs. But I was chatting and laughing with other workers.</p>
+          <p>One more word! If you <NS type="UV"><i>can</i></NS> have the chance to do it too, do it! It was a very positive experience. I didn't regret it and I want to do it again!</p>
+          <p>Write <NS type="MT"><c>to</c></NS> me soon.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR293*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Ryan</p>
+          <p>I have just received your letter and I am really delighted and thrilled to win the first prize in your competition.</p>
+          <p>For the trip to California, I can only go in July, I am afraid, because my English course finishes in June and it starts again in August.</p>
+          <p>In your letter you mentioned that I could choose between sleeping in tents or <NS type="MD"><c>a</c></NS> log cabin, and I would like to sleep in a log cabin please. <NS type="M"><i>Because</i><c>This is because</c></NS> last time I was in a tent, I found it really uncomfortable and when it rained in the night I couldn't <NS type="TV"><i>got</i><c>get</c></NS> to sleep because of the sound of water hitting the tent.</p>
+          <p>I would like to take part in surfing and swimming please. Although I have never done surfing before, I am a quite advanced swimmer.</p>
+          <p>Finally I would like to ask some questions. What is the weather like over there and what should I wear? How much money would I need? How big is the camp?</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Shopping can be very exciting and fun. The feeling of buying new things is wonderful. But it might not be the same <NS type="RP"><i>everytime</i><c>every time</c></NS>.</p>
+          <p>We all go shopping, maybe not every day, but certainly at least once a week. Shopping is very important because it's the only way to get things. For example, food. You will not be able to survive without food. So buying <NS type="W"><i>things <NS type="S"><i>neccessary</i><c>necessary</c></NS></i><c>necessary things</c></NS> is fine I think. But buying things that <NS type="MA"><c>you</c></NS> do not need or you have not planned to might make you feel good at the time, but days or weeks later when you realise you did not need to spend money on them, you might regret buying them. For example you did not plan to buy any crisps, but they are at half price and you buy them without thinking. But <NS type="RY"><i>after</i><c>afterwards</c></NS> you never eat them and just bin them.</p>
+          <p>I think buying things needed and planned could be enjoyable but buying things you don't need or unplanned, might make you feel sad after <NS type="RP"><i>sometime</i><c>some time</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

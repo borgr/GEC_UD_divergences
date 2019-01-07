@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR938*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing with reference to Over the Rainbow<NS type="MP"><c>,</c></NS> <NS type="MD"><c>the</c></NS> musical show<NS type="MP"><c>,</c></NS> which I went to see at the Circle Theatre last night. Being a theatre lover, I am always looking forward to seeing new musicals, but unfortunately, this particular one was very disappointing.</p>
+          <p>First of all, Danny Brook was not starring, even <NS type="MC"><c>though</c></NS> it was stated in your advertisement <NS type="M"><c>that he would perform</c></NS>, but the main role was played by an unknown actor. Secondly, I had to wait for <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes for the show to start, and it was 20:15 (not 19:30) when the curtain went up.</p>
+          <p>Another disappointing thing was that I could not get <NS type="RD"><i>any</i><c>a</c></NS> student discount, even <NS type="RC"><i>that</i><c>though</c></NS> your advertisement promised them. To make things even worse, the theatre restaurant was closed after the show, because of the roof repairs.</p>
+          <p>As you can see I had a very disappointing evening - the worst one <NS type="RT"><i>during</i><c>of</c></NS> my week's holiday in London. I would like therefore to have my money back, so please send me a cheque for £20 to <NS type="UV"><i>pay</i></NS> the address above.</p>
+          <p>Yours faithfully,</p>
+          <p>Katja Menan.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future.</p>
+          <p>Almost everyone is trying to be fashionable and look modern. Every season we can see <NS type="MD"><c>the</c></NS> arrival of new styles, fabrics and proportions. Let's try to imagine<NS type="UP"><i>,</i></NS> what <NS type="W"><i>will clothes</i><c>clothes will</c></NS> be like 100 years from now?</p>
+          <p>I think in the future people will express themselves by wearing appropriate clothes. There will be <NS type="MD"><c>a</c></NS> mixture of styles from different times <NS type="RT"><i>of</i><c>in</c></NS> the past, so if you feel like a medieval princess, you can dress like one. <NS type="UD"><i>A new</i><c>New</c></NS> technology and science will change fabrics, so they will change their <NS type="FN"><i>colour</i><c>colours</c></NS> during the day.</p>
+          <p>In the future people will be even more concerned <NS type="RT"><i>with</i><c>about</c></NS> <NS type="CN"><i>pollutions</i><c>pollution</c></NS> and harmful UV-rays. So their clothes will have built-in protective filters to help them keep healthy.</p>
+          <p>With so many choices<NS type="MP"><c>,</c></NS> shopping for clothes is going to be even <NS type="R"><i>greater</i><c>more</c></NS> fun than it is now. <NS type="MD"><i>Fashion</i><c>The fashion</c></NS> of the future will not be the same as today's, but it will be more exciting and fun!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR814*0100*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan</p>
+          <p>Thank you for your information. I am very happy to win this prize but also I have some questions about <NS type="R"><i>this</i><c>the</c></NS> <NS type="RP"><i>Camp</i><c>camp</c></NS>.</p>
+          <p>I would like to know if it is possible to travel to this <NS type="RP"><i>Camp</i><c>camp</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> July because for me it is the best time and I <NS type="RP"><i>can not</i><c>cannot</c></NS> travel before or after <NS type="M"></NS><NS type="MP"><c>,</c></NS> according to my employer. <NS type="R"><i>While</i><c>During</c></NS> <NS type="AGQ"><i>this</i><c>these</c></NS> two weeks I would like to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because you can be nearer to <NS type="UD"><i>the</i></NS> nature <NS type="RT"><i>as</i><c>than</c></NS> you are <NS type="RT"><i>on</i><c>in</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>. I like to go camping. From the activities<NS type="MP"><c>,</c></NS> I choose <NS type="RP"><i>Basketball and Golf</i><c>basketball and golf</c></NS>. <NS type="W"><i><NS type="RT"><i>In</i><c>At</c></NS> <NS type="RP"><i>Basketball</i><c>basketball</c></NS> I am very good</i><c>I am very good at basketball</c></NS>, because I have played in a <NS type="RP"><i>Basketball-Team</i><c>basketball team</c></NS> for ten years. But <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RP"><i>Golf</i><c>golf</c></NS> I am a beginner.</p>
+          <p>I would like to know if it is necessary for me to take some clothes with me for the <NS type="DJ"><i>sport</i><c>sports</c></NS> activities? Also I would like to know how much money I should take with me. If you could tell me <NS type="R"><i>this</i><c>the</c></NS> answers it would be very nice.</p>
+          <p>Yours sincerely</p>
+          <p>Aydo Ackermann</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>I think shopping is not always an enjoyable thing because there are a lot of things which are not good <NS type="M"><c>about it</c></NS>. For example: you need a lot of money each month for shopping, and a part of this money is only for buying the <NS type="IJ"><i>necessaryiest</i><c>most necessary</c></NS> things like bread and other things to eat. I enjoy shopping when I can buy some clothes.</p>
+          <p>Also a problem <NS type="R"><i>while</i><c>with</c></NS> <NS type="UD"><i>the</i></NS> shopping is that most <NS type="M"><c>of the time</c></NS> there are <NS type="R"><i>so</i><c>too</c></NS> many people and a lot of traffic in all <NS type="MD"><c>the</c></NS> <NS type="RP"><i>shopping-centres</i><c>shopping centres</c></NS>. All the people are there <NS type="RY"><i>most</i><c>mostly</c></NS> on the same day because there are not a lot of other <NS type="RN"><i>possibilities</i><c>opportunities</c></NS> for shopping <NS type="R"><i>while</i><c>during</c></NS> the week for <NS type="UD"><i>the</i></NS> <NS type="RN"><i>employees</i><c>workers</c></NS>.</p>
+          <p>I think one <NS type="RN"><i>possibility</i><c>alternative</c></NS> is to buy your things on the <NS type="RP"><i>internet</i><c>Internet</c></NS>, because then you <NS type="X"><i>have not</i><c>don't have</c></NS> to invest a lot of time <NS type="UT"><i>for</i></NS> buying all <NS type="AGQ"><i>this</i><c>these</c></NS> things, and they bring you the things <NS type="RT"><i>at</i><c>to</c></NS> <NS type="MD"><c>your</c></NS> home<NS type="MP"><c>.</c></NS> In the end I think it is <NS type="UD"><i>the</i></NS> best if you have the <NS type="RN"><i>possibility</i><c>chance</c></NS> to shop when there are not so many people because then you have enough time and you are not stressed.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

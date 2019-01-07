@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1096*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to express my great disappointment about the musical show I attended in your theatre last weekend.</p>
+          <p>According to your advertisement, it stars DANNY BROOK <NS type="RP"><i>AND</i><c>and</c></NS> TINA TRUELOVE, but <NS type="S"><i>surprisinggly</i><c>surprisingly</c></NS>, <NS type="UA"><i>it</i></NS> <NS type="MN"></NS> was <NS type="S"><i>proformed</i><c>performed</c></NS> by a different actor <NS type="MT"><c>of</c></NS> <NS type="AGA"><i>who</i><c>whom</c></NS> I <NS type="W"><i>even didn't</i><c>didn't even</c></NS> know the name. In addition, the show was supposed <NS type="FV"><i>to be started</i><c>to start</c></NS> at 19:30 but it <NS type="RV"><i>was</i><c>started</c></NS> half <NS type="MD"><c>an</c></NS> hour later, <NS type="RT"><i>until</i><c>at</c></NS> 20:15.</p>
+          <p><NS type="ID"><i>To make the matter worse</i><c>To make matters worse</c></NS>, I had expected <NS type="R"><i>the ticket with some discount</i><c>to get a discount on the ticket</c></NS>, but when I went to the <NS type="DN"><i>ticket box</i><c>ticket office</c></NS>, there was <NS type="X"><i>no</i><c>not</c></NS> any discount available. The last thing is the theatre restaurant was closed after the show, because it only opened until 9 o'clock at night.</p>
+          <p>You can imagine how disappointed I <NS type="TV"><i>am</i><c>was</c></NS><NS type="MP"><c>,</c></NS> <NS type="UC"><i>when</i></NS> spending money on such a terrible evening. I would like you to look into the matter immediately and I <NS type="TV"><i>insisted</i><c>insist</c></NS> on <NS type="MV"><c>getting</c></NS> some money back. I look forward to receiving a satisfactory reply as soon as possible.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Nowadays, we use a lot of modern technology both at home and <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> office but it has its <NS type="FN"><i><NS type="S"><i>aventage</i><c>advantage</c></NS></i><c>advantages</c></NS> and <NS type="FN"><i><NS type="S"><i>disaventage</i><c>disadvantage</c></NS></i><c>disadvantages</c></NS>.</p>
+          <p>The first and most important thing is that modern technology <NS type="AGV"><i>have</i><c>has</c></NS> made our life easier, for instance <NS type="MD"><c>the</c></NS> <NS type="RN"><i>ricer</i><c>rice</c></NS> cooker is a great invention, all you have to do is <NS type="FV"><i>putting</i><c>put</c></NS> rice <NS type="RT"><i>on</i><c>in</c></NS> it and switch <NS type="MA"><c>it</c></NS> on, it makes cooking more <NS type="DJ"><i><NS type="S"><i>effeciently</i><c>efficiently</c></NS></i><c>efficient</c></NS>. <NS type="S"><i>Furthmore</i><c>Furthermore</c></NS>, we <NS type="UV"><i>can</i></NS> use <NS type="MD"><c>the</c></NS> computer and telephone a lot. Wherever you are, you can get in touch with people whenever you want.</p>
+          <p>It is often suggested that<NS type="UP"><i>,</i></NS> modern technology makes the gap bigger between <NS type="IN"><i>peoples</i><c>people</c></NS>, they get used to communicating with the machine then forget how to deal with human beings.</p>
+          <p>To sum up, I believe that modern technology could help our daily life but we should not <NS type="S"><i>alway</i><c>always</c></NS> rely on it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

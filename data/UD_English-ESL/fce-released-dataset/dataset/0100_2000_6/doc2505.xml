@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1015*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to you to thank you <NS type="UY"><i>very much</i></NS> for the <NS type="RN"><i>price</i><c>prize</c></NS> you're giving me. This is the first time <NS type="RT"><i>of</i><c>in</c></NS> my life that I won anything like that. When I <NS type="S"><i>recived</i><c>received</c></NS> your <NS type="SX"><i>latter</i><c>letter</c></NS>, I could not <NS type="S"><i>belive</i><c>believe</c></NS> it.</p>
+          <p>I am glad to <NS type="RV"><i>replay</i><c>reply to</c></NS> your <NS type="SX"><i>latter</i><c>letter</c></NS>. <NS type="DY"><i>Unfortunatelly</i><c>Unfortunately</c></NS>, I will <NS type="W"><i>be able to go only</i><c>only be able to go</c></NS> in July because the restaurant where I am working will be closed for <NS type="RD"><i>this</i><c>that</c></NS> <NS type="RN"><i>dates</i><c>month</c></NS>.</p>
+          <p><NS type="MT"><i>My</i><c>On my</c></NS> last holiday in <NS type="MD"><c>a</c></NS> <NS type="SX"><i>tend</i><c>tent</c></NS> I had <NS type="MD"><c>a</c></NS> very bad experience, the <NS type="IN"><i>mosquitos</i><c>mosquitoes</c></NS> nearly killed me. I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>.</p>
+          <p>With reference to the activities, I have never been climbing. I would like to try this sport. I am a lover of <NS type="RN"><i>risk</i><c>danger</c></NS> sports. I am <NS type="MD"><c>a</c></NS> really good singer. I <NS type="AS"><i><NS type="TV"><i>am enjoying</i><c>enjoy</c></NS> a lot with karaoke</i><c>enjoy karaoke a lot</c></NS>.</p>
+          <p>I am in <NS type="S"><i>doupt</i><c>doubt</c></NS> <NS type="MT"><c>as to</c></NS> <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes I have to bring with me. And <NS type="M"><c>may I</c></NS> also ask you<NS type="UP"><i>,</i></NS> how much money I have to take with me.</p>
+          <p>Please<NS type="MP"><c>,</c></NS> if you could help me with this I <NS type="TV"><i>will</i><c>would</c></NS> be very glad.</p>
+          <p>Thank you one more time for everything.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Hi Kim,</p>
+          <p>You cannot imagine what I've been up to. I had the best <NS type="S"><i>expreience</i><c>experience</c></NS> in my <NS type="DN"><i>live</i><c>life</c></NS>.</p>
+          <p><NS type="CE">I've to relax <NS type="UA"><i>myself</i></NS> to <NS type="AS"><i><NS type="S"><i>expleint</i><c>explain</c></NS> to you this</i><c>this to you</c></NS> very well.</NS></p>
+          <p>The company I work <NS type="MT"><c>for</c></NS><NS type="UP"><i>,</i></NS> works for Los Svaves<NS type="RP"><i>, it's</i><c>. It's</c></NS> a very famous <NS type="RN">group</NS> from my country. Can you guess <NS type="S"><i>whe</i><c>who</c></NS> they <NS type="IV"><i>chossed</i><c>chose</c></NS> for the <NS type="RN"><i>work</i><c>job</c></NS>, "me", yes<NS type="MP"><c>,</c></NS> me, I couldn't <NS type="FV"><i>belived</i><c>believe</c></NS> it. <NS type="R">At the moment just</NS> I went just to one concert.</p>
+          <p>My job <NS type="S"><i>basequily</i><c>basically</c></NS> <NS type="RV"><i>consisted in</i><c>was to</c></NS><NS type="MP"><c>,</c></NS> <NS type="R">before and after the actuation</NS>, make everything ready. <NS type="TV"><i>I've get</i><c>I got</c></NS> used to <NS type="FV"><i>do</i><c>doing</c></NS> it very <NS type="RY"><i>soon</i><c>quickly</c></NS>.</p>
+          <p>To be <NS type="S"><i>honnest</i><c>honest</c></NS> the most <NS type="RJ"><i><NS type="SX"><i>exited</i><c>excited</c></NS></i><c>exciting</c></NS> part of all this was <NS type="MV"><c>getting</c></NS> to know the group. The singer is <NS type="MD"><c>a</c></NS> very nice <NS type="RN"><i>gay</i><c>guy</c></NS>, as <NS type="MV"><c>are</c></NS> the rest of the group.</p>
+          <p>If this <NS type="AGV"><i>happen</i><c>happens</c></NS> <NS type="MY"><c>again</c></NS> I'll write <NS type="MT"><c>to</c></NS> you to tell you more.</p>
+          <p>Your friend</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

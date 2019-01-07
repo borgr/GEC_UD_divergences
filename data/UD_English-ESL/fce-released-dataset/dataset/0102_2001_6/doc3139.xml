@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="OU5*0102*2001*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>36.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Belinda Marriott,</p>
+          <p>My name is Akihiro and I'm a member of an English club at West Isle College. I'm writing this letter to invite you to the event which I'm organizing for people who want to improve their English, as our teacher told me that you have come to live in our area.</p>
+          <p>Our English club is not a very big one, with 14 students and a teacher. Most of the students are between 18 and 22 years old, but there are some <NS type="RJ"><i>elder</i><c>older</c></NS> <NS type="MN"><c>students</c></NS><NS type="RP"><i>, the</i><c>. The</c></NS> eldest is 28 years old. We all love to learn English.</p>
+          <p>At the event, I'd like you to give us a speech. You can tell us about whatever you like. For example, a speech about your latest work would be very nice. I'm planning the event <NS type="RT"><i>on</i><c>for</c></NS> 15 or 22 February, from 7 to 8 p.m. Please tell me which day is good for you. After the event, I'd like to offer you <NS type="UD"><i>a</i></NS> dinner at a Japanese restaurant near our college.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Sincerely yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>I had never taken birthdays <NS type="DY"><i>serious</i><c>seriously</c></NS>, <NS type="RQ"><i>both</i><c>neither</c></NS> my own <NS type="RC"><i>and</i><c>nor</c></NS> <NS type="MA"><c>those</c></NS> of others, until I had that really special day on my twenty-fourth birthday.</p>
+          <p>I was born in May, which is the busiest month for school teachers in Japan. Unfortunately, both of my parents are teachers. In my childhood, they were always too busy to remember my birthday and I didn't remember my birthday either.</p>
+          <p>When I was 23, I joined <NS type="FD"><i>a</i><c>an</c></NS> NGO in Denmark and <NS type="RV"><i>stared</i><c>started</c></NS> living with other members, most of <NS type="AGA"><i>who</i><c>whom</c></NS> are from Europe. On that day, I noticed that they were preparing something for me and that reminded me that it was my birthday. I had never had a birthday party before and I didn't expect much.</p>
+          <p>The party was far <NS type="S"><i>beyound</i><c>beyond</c></NS> my <NS type="FN"><i>expectation</i><c>expectations</c></NS>. <NS type="L"><i>20</i><c>Twenty</c></NS> people from five different countries celebrated <NS type="RT"><i>for</i><c>with</c></NS> me. I had never felt happier.</p>
+          <p>I still often forget my birthday, but I will never forget that special one I had two years ago. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

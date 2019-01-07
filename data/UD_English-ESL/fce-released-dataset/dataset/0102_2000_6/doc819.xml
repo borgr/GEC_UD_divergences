@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR326*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing in order to express my extreme dissatisfaction with the musical show 'Over the Rainbow' that recently took place in The Circle Theatre.</p>
+          <p>During <NS type="RD"><i>my</i><c>a</c></NS> prior holiday in London I came across an <NS type="DJ"><i>encourageing</i><c>encouraging</c></NS> <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the show and decided to see it.</p>
+          <p>Unfortunately, I was very <NS type="S"><i>dissappointed</i><c>disappointed</c></NS> to find out that there were no discounts available! Therefore, it cost me more money then usual.</p>
+          <p>In addition, I was very annoyed by the fact that the event had started at 20:15 - not 19:30 as <NS type="RV"><i>mentioned</i><c>stated</c></NS> in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS>.</p>
+          <p>My dissatisfaction became even <NS type="RJ"><i>bigger</i><c>greater</c></NS> when I <NS type="UV"><i>had</i></NS> <NS type="TV"><i>realize</i><c>realized</c></NS> that <NS type="R">there had been a different actor than Danny Brook performing</NS>!</p>
+          <p>Moreover, I was unable to use the theatre restaurant as it had been closed <NS type="RT"><i>due to</i><c>for</c></NS> redecoration!</p>
+          <p>Having noticed that this was not 'a perfect evening out' I would like to ask for my money back. I feel <NS type="R"><i>as if</i><c>that</c></NS> I <NS type="TV"><i>had</i><c>have</c></NS> been lied to and thus I demand my money <NS type="FV"><i>to be</i><c>be</c></NS> returned.</p>
+          <p>I am looking forward to receiving a response in the near future.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Everyone had <NS type="RY"><i>already</i><c>soon</c></NS> heard <NS type="RT"><i>of</i><c>about</c></NS> me getting the secret access code for the 'Secret Society' organisation.</p>
+          <p>This was the kind of association everybody knew <NS type="RT"><i>of</i><c>about</c></NS> but nobody talked about. Everyone was aware that <NS type="RV"><i>telling</i><c>talking</c></NS> aloud about <NS type="MD"><c>the</c></NS> 'Secret Society' could get you in trouble, serious trouble. There had been cases when somebody entered the club but never came back afterwards.</p>
+          <p>I guess it was that thrill that actually made me anxious to know what really was going on inside the dodgy-looking old house guarded by a man with an unfriendly hound.</p>
+          <p>I've always enjoyed <NS type="UD"><i>the</i></NS> <NS type="RN"><i>hazard</i><c>danger</c></NS> and this time getting the password was, indeed, <NS type="ID">a tough <NS type="S"><i>coockie</i><c>cookie</c></NS></NS>. But knowing what these people are capable of makes me <NS type="RV"><i>doubt</i><c>wonder</c></NS> <NS type="S"><i>wether</i><c>whether</c></NS> to use it or not. Especially now, when 'big-mouth' Pat <NS type="TV"><i>spread</i><c>has spread</c></NS> the news to <NS type="S"><i>litterally</i><c>literally</c></NS> everyone. I wouldn't be surprised if suddenly something bad happened to me.</p>
+          <p>Therefore, I have to escape. What I've learned from this situation is to never trust people again. You should remember about this in the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR633*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>I have just received your letter and I am writing to give you further information about myself.</p>
+          <p>First of all, July is the only month I can travel in because I will have to start working from August, and I would like to stay in a tent when I am at the Camp so that I can enjoy the great atmosphere which tents only can make and I love.</p>
+          <p>I would also like to tell you which two activities I am keen to do at the Camp. One of them is basketball, which I have been playing for over seven years, and I am the captain of my university basketball team. The other one is tennis, which is also my <NS type="SA"><i>favorite</i><c>favourite</c></NS> <NS type="AGN"><i>sports</i><c>sport</c></NS> and I have been playing for several years. I go to elementary school to teach children how to play tennis every Wednesday and Friday.</p>
+          <p>I am therefore writing to enquire about some things. What I would like to know is what the weather is like so that I can bring appropriate clothes and also how much money I should bring. Lastly, I would like to know how many people are <NS type="IV"><i>comming</i><c>coming</c></NS> to the Camp I will go <NS type="MT"><c>to</c></NS>.</p>
+          <p>I <NS type="S"><i>sould</i><c>should</c></NS> be grateful if you would send me <NS type="MD"><c>the</c></NS> further information that I asked <NS type="MT"><c>for</c></NS> and I look forward to hearing from you soon.</p>
+          <p><NS type="L"><i>Yours sincerely</i><c>Yours faithfully</c></NS>,</p>
+          <p>Makoto Tanaka</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>For a short video</p>
+          <p>Introduction</p>
+          <p>The aim of this report is to summarize the results of a survey about lessons and other activities which should be filmed. This report is based on a sample of over 80 students of my school.</p>
+          <p><NS type="SA"><i>Favorite</i><c>Favourite</c></NS> lessons</p>
+          <p>Interestingly, over half of the students who were asked enjoy attending history class, while 30 per cent are keen to take an art and music class, and a small number of the student (less than 15 per cent) like to take social studies class.</p>
+          <p><NS type="SA"><i>Favorite</i><c>Favourite</c></NS> activities</p>
+          <p>Not surprisingly, football was well-preferred as an activity which students do after school generally (over 30 per cent) and also about 25 per cent preferred baseball. Amazingly, over 20 per cent of the students would like to take up handball from next year.</p>
+          <p>Conclusion</p>
+          <p>To sum up, it seems that there are so many interesting lessons and activities at our school,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

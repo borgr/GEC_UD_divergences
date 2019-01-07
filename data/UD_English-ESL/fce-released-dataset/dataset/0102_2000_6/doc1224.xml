@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR504*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>To the Manager of the theatre</p>
+          <p>Dear Sir/Madam</p>
+          <p>I am writing in order to tell <NS type="DA"><i>your</i><c>you</c></NS> <NS type="MT"><c>about</c></NS> <NS type="IA"><i><NS type="RP"><i>some things</i><c>somethings</c></NS></i><c>something</c></NS> that happened to me at the theatre<NS type="RP"><i>, at</i><c>. At</c></NS> <NS type="RD"><i>that</i><c>the</c></NS> <NS type="RN"><i>moment</i><c>time</c></NS> I felt <NS type="DJ"><i>astonish</i><c>astonished</c></NS><NS type="MP"><c>,</c></NS> thinking <NS type="UT"><i>about</i></NS>: "How <NS type="MV"><c>can</c></NS> an important theatre have problems like this<NS type="RP"><i>.</i><c>?</c></NS>" But, Yes.</p>
+          <p>First the <NS type="DN"><i>starring</i><c>star</c></NS> was going to be Danny Brook, but then another man took his place<NS type="RP"><i>,</i><c>.</c></NS> I couldn't believe it<NS type="RP"><i>, you</i><c>. You</c></NS> <NS type="TV"><i>couldn't</i><c>can't</c></NS> <NS type="RV"><i>change</i><c>replace</c></NS> Danny Brook, a very important artist, and put a <NS type="RN"><i><NS type="S"><i>begginer</i><c>beginner</c></NS></i><c>novice</c></NS> <NS type="UA"><i>one</i></NS> <NS type="M"><c>in his place</c></NS>. It was very disappointing.</p>
+          <p>Secondly, It was supposed to start at 19:30 and it started at 20:15. Yes, 45 minutes<NS type="RP"><i>,</i><c>!</c></NS> I want to see you in that <NS type="RN"><i>case</i><c>position</c></NS>. What would you do? I felt like a <NS type="DN"><i>dumb</i><c>fool</c></NS>, and all the <NS type="RN"><i>people</i><c>audience</c></NS> felt <NS type="RT"><i>like</i><c>as</c></NS> <NS type="R"><i>me</i><c>I did</c></NS>.</p>
+          <p>And well, don't talk about the discounts, because they didn't exist. More than that, the restaurant was closed because it was <NS type="RT"><i>on</i><c>under</c></NS> <NS type="DN"><i>repairing</i><c>repair</c></NS>.</p>
+          <p><NS type="ID">At end</NS>, I could see that the advertisement said<NS type="MP"><c>,</c></NS> "Your perfect evening out"<NS type="RP"><i>, it</i><c>. It</c></NS> wasn't the perfect evening<NS type="RP"><i>, now</i><c>. Now</c></NS> I'm looking for a <NS type="RN"><i>layer</i><c>lawyer</c></NS>, because I want my money back, <NS type="R">if don't well you know the end of this story</NS>.</p>
+          <p>Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, because one day when Maria, her sister, was walking to <NS type="UD"><i>the</i></NS> school, a car stopped <NS type="RT"><i>at</i><c>beside</c></NS> her and a man said<NS type="MP"><c>,</c></NS> "I know who is your <NS type="RN"><i>love</i><c>lover</c></NS>, it's Peter".</p>
+          <p>Maria <NS type="RV"><i>passed</i><c>spent</c></NS> all <NS type="UD"><i>the</i></NS> day thinking about who told them that<NS type="RP"><i>, there</i><c>. There</c></NS> were two <NS type="S"><i>posibilities</i><c>possibilities</c></NS>: one<NS type="MP"><c>,</c></NS> her best friend Becca<NS type="MP"><c>,</c></NS> or <NS type="AGD"><i>his</i><c>her</c></NS> sister Pat.</p>
+          <p>But the problem began to <NS type="RV"><i>increase</i><c>get worse</c></NS> because all her friends knew her secret. It was like a "chain reaction", until Maria didn't want to go to school <NS type="RP"><i>any more</i><c>anymore</c></NS><NS type="RP"><i>, her</i><c>. Her</c></NS> mother talked to her, but there was no <NS type="RN">case</NS><NS type="RP"><i>, she</i><c>. She</c></NS> was very angry and hurt.</p>
+          <p>One day, at <NS type="AGD"><i>his</i><c>her</c></NS> house, she listened <NS type="MT"><c>to</c></NS> Pat talking with a friend and Maria realised that Pat <NS type="TV"><i><NS type="RV"><i>said</i><c>told</c></NS></i><c>had told</c></NS> everything, because they were talking about a secret of another friend. But there was a problem<NS type="RP"><i>,</i><c> -</c></NS> how to <NS type="FV"><i>said</i><c>say</c></NS> it to Pat, in a good or in a bad way<NS type="RP"><i>, she</i><c>. She</c></NS> decided for the good one.</p>
+          <p>Obviously, Pat first <NS type="RV"><i>refused</i><c>denied</c></NS> <NS type="MA"><c>it</c></NS>, but then she accepted that she was wrong, and <NS type="TV"><i><NS type="S"><i>apologyse</i><c>apologise</c></NS></i><c>apologised</c></NS> <NS type="MT"><c>to</c></NS> Maria<NS type="RP"><i>, after</i><c>. After</c></NS> <NS type="R"><i>then</i><c>that</c></NS> Pat never again talked about <NS type="RA"><i>someone</i><c>anyone</c></NS> <NS type="RT"><i>within</i><c>without</c></NS> his or her permission.</p>
+          <p>The End.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

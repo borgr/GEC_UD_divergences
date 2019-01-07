@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1056*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to reply <NS type="MT"><c>to</c></NS> your letter in which you let me know I <NS type="TV"><i>had</i><c>have</c></NS> won the first prize in your competition.</p>
+          <p>I would like to travel in July as it is the only month <NS type="UT"><i>in</i></NS> this year when I do not have any exams. I am currently attending University and I have exams all term long.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> accommodation I would prefer a tent, as I love nature and I like going camping a lot.</p>
+          <p><NS type="RT"><i>About</i><c>Regarding</c></NS> the two activities I have to choose I will take surfing and basketball. I know very little about surfing, it is almost something new for me. I have only <NS type="RV"><i>practised</i><c>done</c></NS> it once. But, <NS type="ID"><i>on the other side</i><c>on the other hand</c></NS>, I am a good basketball player, and I <NS type="RV"><i>practise</i><c>play</c></NS> <NS type="UA"><i>it</i></NS> three or four times a week as I play in the University team.</p>
+          <p>There are some things I would like to know first of all<NS type="RP"><i>, the</i><c>: the</c></NS> kind of clothes I should take with me<NS type="RP"><i>. Then</i><c>; then</c></NS>, if I need to take any money to the camp<NS type="RP"><i>. And</i><c>; and</c></NS> finally, if you could tell <NS type="MA"><c>me</c></NS> when <NS type="W"><i>would I</i><c>I would</c></NS> be leaving and coming back.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi! How are you? How are you doing at school? I have a terrible cold but I feel OK anyway. I got it two weeks ago <NS type="RT"><i>in</i><c>at</c></NS> a concert, but although I've been to the doctor, I can't get over it <NS type="UY"><i>yet</i></NS>!</p>
+          <p><NS type="U"><i>Well, but</i><c>But</c></NS> I don't regret going to that concert. It was wonderful! You know I love designing clothes, and there I had the chance to make a dream come true.</p>
+          <p>A friend of mine was organising <NS type="RD"><i>a</i><c>the</c></NS> pop concert, and as he knew me well, he asked me if I'd like to design the clothes the pop singers would wear in the show. Of course, I accepted immediately<NS type="MP"><c>,</c></NS> very pleased.</p>
+          <p>It was a marvellous experience<NS type="RP"><i>,</i><c>.</c></NS> I really enjoyed working with such a nice team, they were really kind <NS type="RT"><i>with</i><c>to</c></NS> me. And, as if <NS type="RA"><i>it</i><c>that</c></NS> wasn't enough, <NS type="M"><c>I was</c></NS> doing what I love! It's something I will never forget.</p>
+          <p>And tell me, are you planning <NS type="FV"><i>coming</i><c>to come</c></NS> back to visit me? Please let me know if you have some days free so <NS type="R"><i>as</i><c>we can</c></NS> <NS type="FV"><i>to organise</i><c>organise</c></NS> a little journey together. Well, I think I'd better <NS type="RV"><i>close</i><c>finish</c></NS> now. Write back soon! love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

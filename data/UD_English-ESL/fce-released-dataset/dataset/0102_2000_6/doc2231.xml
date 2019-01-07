@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR96*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>41-50</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/madam</p>
+          <p>I am writing with regard to your <NS type="S"><i>advertisment</i><c>advertisement</c></NS>. During my 2 <NS type="RP"><i>week's</i><c>weeks'</c></NS> holiday I <NS type="RV"><i>would like</i><c>wanted</c></NS> to attend a musical show. It was my <NS type="SA"><i>favorite</i><c>favourite</c></NS> <NS type="RN"><i>play</i><c>musical</c></NS>. I was very <NS type="DJ"><i>hopefull</i><c>hopeful</c></NS> that I was going to have a good time. But there were <NS type="L"><i>many</i><c>a lot of</c></NS> things which went wrong.</p>
+          <p>Firstly, I <NS type="TV"><i>have had</i><c>had</c></NS> no discount <NS type="R"><i>at</i><c>when I</c></NS> <NS type="TV"><i>paying</i><c>paid</c></NS>. <NS type="RP"><i>secondly</i><c>Secondly</c></NS> there was <NS type="MD"><c>a</c></NS> delay which got me into trouble<NS type="RP"><i>,</i><c>.</c></NS> After the show I couldn't catch my train. Because I didn't have any plan I decided to have <NS type="UD"><i>a</i></NS> lunch in <NS type="MD"><c>the</c></NS> theatre restaurant. But it was closed. The worst thing is that I couldn't <NS type="RV"><i>watch</i><c>see</c></NS> my <NS type="SA"><i>favorite</i><c>favourite</c></NS> actor. I was so <NS type="S"><i>dissapointted</i><c>disappointed</c></NS> <NS type="RT"><i>with</i><c>about</c></NS> that. I couldn't <NS type="S"><i>consentrate</i><c>concentrate</c></NS> on the play any more.</p>
+          <p><NS type="RY"><i>Contrary to</i><c>In contrast to</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> everything was <NS type="S"><i>disapointing</i><c>disappointing</c></NS>. I regret <NS type="MV"><c>to have</c></NS> to demand all my <NS type="RN"><i>expenses</i><c>money</c></NS> <NS type="MY"><c>back</c></NS>. I hope you are going to be take into consideration my terrible <NS type="RN"><i>situation</i><c>experience</c></NS>.</p>
+          <p>I am waiting for a satisfactory answer<NS type="MP"><c>.</c></NS></p>
+          <p>Yours faithfully</p>
+          <p>Azami</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Technology has developed <NS type="RY">increasingly</NS> in recent years. As a result of this our society has changed a lot.</p>
+          <p>On the one hand technology has made our lives more comfortable and easier. On the other hand we have faced some problems, such as social and environmental problems.</p>
+          <p>Nowadays students have <NS type="CQ"><i>much</i><c>many</c></NS> more <NS type="IN"><i>facilitis</i><c>facilities</c></NS> in education than before. Although in those days the only way of learning was reading. These days we can use <NS type="MD"><c>a</c></NS> computer, television and some sophisticated equipment<NS type="RP"><i>.</i><c>,</c></NS> which were <NS type="DJ"><i>unusuall</i><c>unusual</c></NS> <NS type="RY"><i>before</i><c>once</c></NS>. <NS type="SX"><i>Than</i><c>Then</c></NS> <NS type="RT"><i>to</i><c>with</c></NS> technology we can reach any place in the world easily. We can get <NS type="UQ"><i>some</i></NS> information more quickly. Technology has a huge effect on our <NS type="MP"><i>spare time</i><c>spare-time</c></NS> activities as well. Children play <NS type="SX"><i>wit</i><c>with</c></NS> <NS type="FN"><i>computer</i><c>computers</c></NS> instead of <NS type="MD"><c>the</c></NS> <NS type="S"><i>usuall</i><c>usual</c></NS> <NS type="RN"><i>plays</i><c>toys</c></NS>.</p>
+          <p>Despite the huge <NS type="RN"><i>facilities</i><c>advantages</c></NS><NS type="MP"><c>,</c></NS> technology has affected our lives negatively. There has been <NS type="MD"><c>a</c></NS> change <NS type="M"><c>in the</c></NS> <NS type="S"><i>relatinships</i><c>relationships</c></NS> between people. People are getting more and more lonely. We have noticed the <NS type="S"><i>environmential</i><c>environmental</c></NS> damage in recent years.</p>
+          <p>While we are using technology, we should take into consideration <NS type="MD"><c>the</c></NS> environment. We shouldn't allow <NS type="W"><i>to be exploited the world</i><c>the world to be exploited</c></NS>. If we want to leave a good world to the next generations, we should behave more respectfully <NS type="RT"><i><NS type="S"><i>againgst</i><c>against</c></NS></i><c>towards</c></NS> <NS type="UD"><i>the</i></NS> nature.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

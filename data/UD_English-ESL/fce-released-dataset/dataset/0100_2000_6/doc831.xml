@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR335*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="S"><i>madame</i><c>Madam</c></NS></p>
+          <p>I'm very surprised about the good news and I'm sure I'll really have a good time in California.</p>
+          <p>I'm happy to answer <NS type="UT"><i>to</i></NS> your questions.</p>
+          <p>First of all, I would like to travel in July because my boss won't let me <NS type="R"><i>free</i><c>take time off</c></NS> in August.</p>
+          <p>Secondly, I would like to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I like camping a lot and I do it whenever I can. Regarding <NS type="UT"><i>to</i></NS> the activities, I choose swimming and tennis.</p>
+          <p>I'm a good swimmer and I would like to do it in the Californian <NS type="RP"><i><NS type="SX"><i>See</i><c>Sea</c></NS></i><c>sea</c></NS>. I don't think I'll have the chance <NS type="UT"><i>of</i></NS> <NS type="FV"><i>doing</i><c>to do</c></NS> it again in the future.</p>
+          <p><NS type="ID">On the contrary</NS>, I'm an absolute beginner <NS type="RT"><i>in</i><c>at</c></NS> playing tennis and I'm not fit <NS type="MY"><c>enough</c></NS> <NS type="RT"><i>in</i><c>for</c></NS> running but I chose it because it is a sport I've always wanted to learn BUT I'VE NEVER HAD enough free time.</p>
+          <p>There is something I would like to ask you. What kind of clothes am I supposed to bring with me? And what about money? Should I bring cash or <NS type="W"><i>a credit card is</i><c>is a credit card</c></NS> all I will need?</p>
+          <p>And what about sanitary precautions?</p>
+          <p>I can't <NS type="RV"><i>?look forward</i><c>wait</c></NS> to start this adventure.</p>
+          <p>Yours <NS type="DY"><i>sincerily</i><c>sincerely</c></NS></p>
+          <p>Carla Reale</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>I'm a woman and they say that shopping is women's <NS type="RJ"><i>best</i><c>favourite</c></NS> activity. But I have a particular problem. I'm not slim and I'm a little ashamed of my body. That's why shopping is not an easy thing to do. In fact I can't buy whatever I like and I can't follow fashions <NS type="UY"><i>just</i></NS> like the other women do. When I go shopping I always have to ask for the extra-large size and <NS type="M"><c>it's</c></NS> harder to find it.</p>
+          <p>I see a lot of pretty things but I have to <NS type="RV"><i>quit</i><c>abandon</c></NS> the idea of wearing them just because I think that they won't look so pretty on me.</p>
+          <p>And if this is a problem <NS type="RT"><i>to</i><c>for</c></NS> me, imagine how bad a very fat woman (or man) <NS type="RV"><i>should</i><c>would</c></NS> feel.</p>
+          <p>Often they must go <NS type="RT"><i>in</i><c>to</c></NS> special shops to <NS type="SX"><i>by</i><c>buy</c></NS> their clothes. It looks like a sort of racism and unfortunately our society looks for beauty. Just think about commercials. They're full of perfect people. The sort of people you will never find in real life.</p>
+          <p>Will this ever change?</p>
+          <p>I hope so, but, in the meantime, I'm on a diet.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

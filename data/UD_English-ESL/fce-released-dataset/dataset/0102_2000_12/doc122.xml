@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR501*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I spent two days at the International Arts Festival you <NS type="TV"><i>have organized</i><c>organized</c></NS>. I enjoyed it very much and I think you <NS type="TV"><i>have had</i><c>had</c></NS> a great idea.</p>
+          <p>I went to all the events, they were really good.</p>
+          <p>I liked all the stars and the artists who came from around the world, even if the number of countries was very <NS type="RJ"><i>little</i><c>small</c></NS>, only six. Why don't you let more countries <NS type="FV"><i>to participate</i><c>participate</c></NS> next year?</p>
+          <p>I also liked the concerts. But, can I give you a suggestion for next year? Try to find bigger halls, because this year they were really too small!</p>
+          <p>I enjoyed all the plays and films, but they were fewà why don't you <NS type="RV">broadcast</NS> more at <NS type="MD"><c>the</c></NS> next Festival?</p>
+          <p>I also went to the dance shows, the art exhibition and the talks by writers, they were really very nice and interesting.</p>
+          <p>I also agree with you about the ticket's <NS type="RN"><i>prize</i><c>price</c></NS>. In fact, it was really a reasonably-priced ticket, excellent because you could go to all the events <NS type="RY"><i>only</i><c>just</c></NS> with <NS type="R">it</NS>. And that's the reason <NS type="R"><i>because</i><c>why</c></NS> lots of people came.</p>
+          <p>An <NS type="DN"><i>admiree</i><c>admirer</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Capua, 16/12/2000</p>
+          <p>Hi Jane, how are you?</p>
+          <p>I received your letter yesterday, and I want to answer you <NS type="RY"><i>soon</i><c>quickly</c></NS>!</p>
+          <p>I think the discussion in your class was very interesting. In my country there are different rules at school, but I think they are, more or less, the same in England. You have to begin your lesson at 8.25 and wait for the teacher of the next lesson in the class.</p>
+          <p>You have a break of ten minutes, <NS type="R">that you would have to do in class</NS>. You can't speak during the lesson or outside the classrooms. You can't write on walls and desks..</p>
+          <p>I have some rules also at home, but they are few. I can do everything I want, except going out with the car during the night. My parents are afraid of it because I <NS type="W"><i><NS type="RV"><i>took</i><c>got</c></NS> my licence only</i><c>only got my licence</c></NS> in September.</p>
+          <p>My parents also like eating all together, but it isn't a rule, only <NS type="FD"><i>an</i><c>a</c></NS> <NS type="DN"><i>habitude</i><c>habit</c></NS>!</p>
+          <p>I don't think there is <NS type="RA"><i>something</i><c>anything</c></NS> I'd like to change!</p>
+          <p>I like my life, both at school and at home!</p>
+          <p>Write to me soon</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

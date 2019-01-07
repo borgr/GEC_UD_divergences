@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1069*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan,</p>
+          <p>Thank you for first prize. I was glad to win your competition. I look forward to coming soon.</p>
+          <p>I would like to travel in July<NS type="RP"><i>. Because</i><c>, because</c></NS> it is the only <NS type="W"><i>free time I will have</i><c>time I will have free</c></NS>.</p>
+          <p>I was very happy to hear that all accommodation and travel costs are paid for. And I would prefer <NS type="MD"><c>a</c></NS> tent to <NS type="MD"><c>a</c></NS> log cabin<NS type="RP"><i>. Because</i><c>, because</c></NS> I have had <NS type="S"><i>experiance</i><c>experience</c></NS> <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to <NS type="RV"><i><NS type="S"><i>leve</i><c>live</c></NS></i><c>stay</c></NS></i><c>staying</c></NS> in <NS type="MD"><c>a</c></NS> tent and I like it very much.</p>
+          <p>Thank you for <NS type="MD"><c>the</c></NS> chance to do two activities. I would like to choose Tennis and Photography. I <NS type="TV"><i>play</i><c>have played</c></NS> tennis since I was ten years of age. In my opinion tennis is the best sport I have ever <NS type="IV"><i>plaed</i><c>played</c></NS>. Another activity <NS type="RA"><i>what</i><c>which</c></NS> I have chosen is photography. I have just finished <NS type="MD"><c>a</c></NS> <NS type="S"><i>profesional</i><c>professional</c></NS> <NS type="RN"><i>photographer</i><c>photography</c></NS> course and I would like to <NS type="S"><i>continiew</i><c>continue</c></NS> my education in this activity.</p>
+          <p>I would like to ask some questions.</p>
+          <p>First of all what kind of clothes <NS type="MV"><c>do</c></NS> I have to take with me?</p>
+          <p>Also, how much money <NS type="MV"><c>do</c></NS> I have to take?</p>
+          <p><NS type="MA"><i>Look</i><c>I look</c></NS> forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thank you for your letter. I was glad to hear from you.</p>
+          <p>Like I said, <NS type="TV"><i>I'd helped</i><c>I helped</c></NS> at a pop concert. I liked it very much. It was very interesting and <NS type="DJ"><i><NS type="S"><i>enjoing</i><c>enjoying</c></NS></i><c>enjoyable</c></NS>.</p>
+          <p><NS type="RD"><i>A</i><c>The</c></NS> pop concert had ten pop bands. Each of them <NS type="TV"><i>must <NS type="FV"><i>sang</i><c>sing</c></NS></i><c>had to sing</c></NS> two songs. After <NS type="RA"><i>all</i><c>that</c></NS> they chose <NS type="MD"><c>the</c></NS> three best bands.</p>
+          <p><NS type="R"><i>While</i><c>At</c></NS> this concert I saw a lot of popular singers. For example: Maraya Kary, Tom Jone; Madonna. I saw the "Boys on". I knew you love them and I <NS type="RV"><i>took</i><c>got</c></NS> two autographs for you and of course for myself.</p>
+          <p>Afterwards "Boys on" won the first prize.</p>
+          <p>I was <NS type="S"><i>shoked</i><c>shocked</c></NS> because I had <NS type="S"><i>alredy</i><c>already</c></NS> spoken with them and I had <NS type="RV"><i>taken</i><c>got</c></NS> two autographs.</p>
+          <p><NS type="R">Another part of my <NS type="S"><i>experiance</i><c>experience</c></NS> at <NS type="MD"><c>the</c></NS> pop concert when we <NS type="TV"><i>will meet</i><c>meet</c></NS> each other</NS>.</p>
+          <p>Look forward to hearing from you soon.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

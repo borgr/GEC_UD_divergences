@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE13*0100*2001*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am glad to <NS type="FV"><i>helping</i><c>help</c></NS> you <NS type="RT"><i>for</i><c>with</c></NS> the organisation of the international student conference.</p>
+          <p>The group has been booked into the Palace Hotel, and the best way to get from there to the conference is by tube<NS type="RP"><i>, the</i><c>. The</c></NS> <NS type="RN"><i>building</i><c>location</c></NS> of the conference is then five minutes by <NS type="S"><i>footh</i><c>foot</c></NS>.</p>
+          <p>At the <NS type="MD"><i><NS type="UP"><i>end-of-conference</i><c>end of conference</c></NS></i><c>end of the conference</c></NS> there is a party, where we can eat something, dance and speak to each other about the conference.</p>
+          <p>For the party I suggest you <NS type="FV"><i>to wear</i><c>wear</c></NS> classic clothes; maybe something black and not red or pink. I am going to wear <NS type="W"><i>black classic</i><c>classic black</c></NS> trousers and a white <NS type="S"><i>jorsey</i><c>jersey</c></NS> - it <NS type="RV"><i>can</i><c>might</c></NS> be that this information <NS type="AGV"><i>give</i><c>gives</c></NS> you some idea too.<NS type="UP"><i>.</i></NS></p>
+          <p>On the last day we are going to have about three <NS type="MP"><i>hours</i><c>hours'</c></NS> free <NS type="FN"><i>times</i><c>time</c></NS>. What do you think <NS type="R"><i>if we will</i><c>about</c></NS> <NS type="FV"><i>go</i><c>going</c></NS> to <NS type="UV"><i>visit</i></NS> the Arts Museum? <NS type="SX"><i>Of</i><c>Or</c></NS> <NS type="UC"><i>if</i></NS> we <NS type="RV"><i>will</i><c>could</c></NS> go to hear a classic concert near the conference <NS type="UP"><i>building's</i><c>buildings</c></NS><NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>I hope that I have been able to give you some help. <NS type="RP"><i>and</i><c>And</c></NS> I am looking forward to seeing you at the conference.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Morgan,</p>
+          <p>I am writing a report, <NS type="MT"><c>in</c></NS> which <NS type="MA"><c>I</c></NS> will describe <NS type="MT"><c>for</c></NS> you the most important building <NS type="RT"><i>of</i><c>in</c></NS> my town.</p>
+          <p>The most important building of Biasco is the ,,Casa Cavalier Pellanda". It is <NS type="RD"><i>an</i><c>the</c></NS> <NS type="W"><i>old big</i><c>big old</c></NS> house of a rich lord in the middle of the town. <NS type="RT"><i>Into</i><c>In</c></NS> this house there is a big museum, where you <NS type="TV"><i>could</i><c>can</c></NS> <NS type="RV"><i>know</i><c>learn</c></NS> <NS type="MT"><c>about</c></NS> the <NS type="RN"><i>past</i><c>history</c></NS> of Biasco.</p>
+          <p>Under the museum there is a big dark place, where the wine is produced. Your American students could learn how the ,,Meriot ticinese" is produced and why <NS type="W"><i>is it</i><c>it is</c></NS> so famous in Tiano. I think that these suggestions could interest your <NS type="FN"><i>student</i><c>students</c></NS><NS type="MP"><i> <NS type="RY"><i>then</i><c>also</c></NS></i><c>. Also</c></NS> Biasco, with its ,,Casa Cavalier Pellanda", is the middle <NS type="FN"><i>points</i><c>point</c></NS> of two <NS type="DN">tailes</NS> - Leventina and Blenio - and the middle <NS type="FN"><i>points</i><c>point</c></NS> of two similar but also different cultures too.</p>
+          <p>I hope that <NS type="CD"><i>these</i><c>this</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> will <NS type="RV"><i>bring</i><c>encourage</c></NS> you to visit Biasco and its ,,house".</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

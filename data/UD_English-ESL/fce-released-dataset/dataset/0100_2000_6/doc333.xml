@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR138*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Referring to the <NS type="W"><i>won competition</i><c>competition I won</c></NS>, I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>say</i><c>to say</c></NS> that I am very happy to be the <NS type="RN"><i>first</i><c>winner</c></NS>. Accordingly I will give you the further information that you wanted.</p>
+          <p>First, you asked <NS type="SX"><i>abut</i><c>about</c></NS> <NS type="R"><i>the travel time</i><c>when I would like to travel</c></NS> and the only possible time for me is in July, because my company only gave me <NS type="FN"><i>holidays</i><c>holiday</c></NS> <NS type="MN"><c>time</c></NS> in this period.</p>
+          <p>Second, I prefer <NS type="R"><i>accommodation</i><c>to stay</c></NS> in <NS type="MD"><c>a</c></NS> tent. I want to feel the real nature and spirit of Camp California.</p>
+          <p><NS type="RP"><i>Further more</i><c>Furthermore</c></NS>, I should choose between two activities and <NS type="MV"><c>say</c></NS> how good I am at each one. I choose singing and surfing<NS type="RP"><i>,</i><c> - </c></NS> singing because I am a singer in a band and I hope to make my voice more perfect and surfing because I have never <NS type="TV"><i>surf</i><c>surfed</c></NS> and I want to learn <NS type="R"><i>to</i><c>how</c></NS>.</p>
+          <p>Finally, I have some questions. I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>know</i><c>to know</c></NS> what type of clothes I should bring with me? How much money should I take with me? <NS type="R"><i>Is it possible</i><c>Can I</c></NS> <NS type="RV"><i><NS type="TV"><i>to travel</i><c>travel</c></NS></i><c>come</c></NS> with a friend of mine?</p>
+          <p>Yours sincerely</p>
+          <p>Marlene Berg</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? I hope <NS type="M"><c>you're</c></NS> fine. <NS type="R"><i>Me,</i><c>I am</c></NS> fine, because <NS type="R"><i>of</i><c>I have been</c></NS> helping at the concert <NS type="MV"><c>called</c></NS> 'The Dome'. I can say that this was one of the best experiences of my life. First I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="FV"><i>help</i><c>to help</c></NS> to <NS type="RV"><i>cook</i><c>make</c></NS> coffee and <NS type="RV"><i>make</i><c>prepare</c></NS> food for <NS type="RN"><i>popular people</i><c>pop stars</c></NS> like Mariah Carey, Elton John, Backstreet Boys, <NS type="R"><i>Echt ect</i><c>etc</c></NS>... Before and after the concert the "stars" <NS type="TV"><i>are</i><c>were</c></NS> very hungry and I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="FV"><i>serve</i><c>to serve</c></NS> them food, drinks and <NS type="R">something like this</NS>. Kim, <NS type="ID">check it in your mind</NS>, I have had <NS type="RJ"><i>near</i><c>close</c></NS> contact with Mariah Carey! I am so happy about it. Different "stars" gave me <NS type="RN"><i>signatures</i><c>autographs</c></NS> and <NS type="TV"><i>talk</i><c>talked</c></NS> really <NS type="DY"><i>nice</i><c>nicely</c></NS> and <NS type="DY"><i>normal</i><c>normally</c></NS> with me. <NS type="R"><i>At the time the concert was running</i><c>During the concert</c></NS> I cleaned the kitchen and the room where the "stars" ate. The <NS type="RP"><i>after show</i><c>after-show</c></NS> dinner party was very nice and I have never thought that <NS type="RN"><i>popular people</i><c>pop stars</c></NS> like Elton John <NS type="AGV"><i>dances</i><c>dance</c></NS> on the table if <NS type="AGA"><i>he</i><c>they</c></NS> <NS type="AGV"><i>likes</i><c>like</c></NS> the music and if <NS type="AGA"><i>he</i><c>they</c></NS> have <NS type="RV"><i>made</i><c>had</c></NS> a great show on stage. It was just great and after this event I can say that <NS type="RN"><i>popular people</i><c>pop stars</c></NS> are normal humans like everyone <NS type="MY"><c>you're</c></NS>!</p>
+          <p>Love,</p>
+          <p>Marlene</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

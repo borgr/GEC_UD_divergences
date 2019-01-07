@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR350*0100*2000*01">
+  <candidate><personnel><language>French</language></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> <NS type="S"><i>Misses</i><c>Mrs</c></NS> Helen Ryan,</p>
+          <p>First of all I would like to thank you for giving me the <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to travel. You asked me some questions about the day that suits me the best to depart, the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would like to have and so on.</p>
+          <p>Travelling in July, I have to say, would be perfect for me because <NS type="R"><i>I have got my <NS type="S"><i>birtday</i><c>birthday</c></NS></i><c>my birthday is on</c></NS> the 24th of <NS type="RD"><i>this</i><c>that</c></NS> month and I wish <NS type="U"><i>I could</i></NS> <NS type="FV"><i>spend</i><c>to spend</c></NS> my <NS type="S"><i>birtday</i><c>birthday</c></NS> <NS type="R"><i>as well as</i><c>in the best way</c></NS> possible, so <NS type="RA"><i>it</i><c>that</c></NS> means there.</p>
+          <p>I also would prefer to sleep <NS type="RT"><i>into</i><c>in</c></NS>  tents<NS type="MP"><c>,</c></NS> which are more comfortable<NS type="MP"><c>,</c></NS> and, because I have been doing lots of <NS type="CN"><i>campings</i><c>camping</c></NS>, I am quite used to this kind of <NS type="S"><i>accomodation</i><c>accommodation</c></NS>.</p>
+          <p>The activities I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> both represent a <NS type="S"><i>pation</i><c>passion</c></NS> for me. Painting and swimming are my <NS type="AGN"><i>way</i><c>ways</c></NS> to <NS type="RV"><i>spend</i><c>have</c></NS> a good time<NS type="MP"><c>,</c></NS> especially on holiday.</p>
+          <p>I <NS type="UV"><i>may</i></NS> have a question for you to answer<NS type="RP"><i>,</i><c>:</c></NS> please could you tell <NS type="DA"><i>my</i><c>me</c></NS> how much money do I need to bring with me?</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p><NS type="RC"><i>However</i><c>Although</c></NS> it is not always enjoyable, people are shopping more and more<NS type="RP"><i>, it</i><c>.  It</c></NS> is very fashionable <NS type="ID">those times</NS>. They do not always buy lots of things, but I think most of them do.</p>
+          <p>Even people who haven't got lots of money go shopping <NS type="UY"><i>anyway</i></NS>. Is it enjoyable to walk around shops, looking at nice <NS type="L"><i>stuff</i><c>things</c></NS>, without having enough money to <NS type="RV"><i>spend on</i><c>buy</c></NS> <NS type="AGA"><i>it</i><c>them</c></NS>? Is it enjoyable to go shopping when it is <NS type="RN"><i>rush time</i><c>rush hour</c></NS> or when it is very hot<NS type="MP"><c>,</c></NS> in summer for instance?</p>
+          <p>Enjoying shopping isn't <NS type="RD"><i>the</i><c>a</c></NS> reason for doing <NS type="RA"><i>that</i><c>it</c></NS>. I think people either go shopping <NS type="DV"><i>to change mind</i><c>to relax</c></NS> because they may have lots of problems or to meet other people, to feel they belong to a group of human <NS type="AGN"><i>being</i><c>beings</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

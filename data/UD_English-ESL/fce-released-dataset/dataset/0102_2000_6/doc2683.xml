@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1085*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I want to complain about your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="RT"><i>about</i><c>for</c></NS> the <NS type="RN"><i>theatre</i><c>production</c></NS> 'Over the Rainbow'<NS type="MP"><c>;</c></NS> I had a very disappointing evening.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I wanted so much to see my favourite actor Danny Brook as he was supposed to be in the show, but he wasn't.</p>
+          <p>Secondly the show didn't start until 20:15 but it should have started <NS type="MT"><c>at</c></NS> 19:30 so we had to sit and wait<NS type="MP"><c>,</c></NS> which was very boring. There were no discounts on the <NS type="FN"><i>ticket</i><c>tickets</c></NS> available either.</p>
+          <p>After the show we wanted to have something to eat in the theatre restaurant but it was closed <NS type="R"><i>because</i><c>for</c></NS> <NS type="RN"><i>rebuilding</i><c>refurbishment</c></NS>.</p>
+          <p>In the advertisement it says "your perfect evening out" but it was a real disappointment. I would like to have the money back that I spent on the tickets I bought.</p>
+          <p>I look forward to hearing from you as soon as possible.</p>
+          <p>Yours Faithfully</p>
+          <p>Svetlana</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She had always been like that, <NS type="W"><i>said my best friend Ann</i><c>my best friend Ann said</c></NS> to me when I told her that I had told Pat a secret <NS type="R"><i>yesterday</i><c>the day before</c></NS>.</p>
+          <p>The secret was that I was in love with Peter <NS type="RT"><i>in</i><c>from</c></NS> my course. I shouldn't have told her, but I was so sure she wouldn't tell anyone.</p>
+          <p>Yesterday when I arrived <NS type="RT"><i>to</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> college, I saw Pat standing with Peter and a lot of other boys and they were looking <NS type="DY"><i>strange</i><c>strangely</c></NS> at me and <NS type="S"><i>laufhing</i><c>laughing</c></NS>. I felt how I started to blush. In the classroom it became even <NS type="IJ"><i>worser</i><c>worse</c></NS>. People started to <NS type="S"><i>whrite</i><c>write</c></NS> things on the board and <NS type="FV"><i>pointing</i><c>to point</c></NS> at me.</p>
+          <p>In the <NS type="RP"><i>lunchbreak</i><c>lunch break</c></NS> I went to Pat and asked her why she had told him the secret, but she just ignored me like she didn't know me. After that I never went back to the course again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

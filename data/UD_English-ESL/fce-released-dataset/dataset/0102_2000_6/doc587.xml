@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR31*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing in connection with the musical show I saw in your theatre a week ago.</p>
+          <p>Although the show was supposed to be <NS type="UD"><i>the</i></NS> London's newest and best musical show, I <NS type="TV"><i>am</i><c>was</c></NS> rather disappointed with it. Firstly, I was really looking forward to seeing Danny Brook and Tina Truelove on the stage. However, you changed actors without informing <NS type="MD"><c>the</c></NS> <NS type="RN"><i>viewers</i><c>audience</c></NS>.</p>
+          <p>As if this were not enough, the show was <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes late. Your leaflet was rather misleading on this subject.</p>
+          <p>According to your leaflet, tickets were supposed to be a bit cheaper, but I was refused <NS type="UV"><i>being given</i></NS> a discount.</p>
+          <p>On top of everything, the theatre restaurant was closed.</p>
+          <p>You can imagine how disappointed I <NS type="TV"><i>must be</i><c>was</c></NS> to <NS type="RV"><i>spent</i><c>have</c></NS> such an imperfect evening. I demand a full refund or I will be forced to take this <NS type="RN"><i>mater</i><c>matter</c></NS> further.</p>
+          <p>I look forward to receiving your prompt reply.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Recently, we <NS type="TV"><i>have had</i><c>had</c></NS> a very interesting discussion about how science and technology affects our lives. My life has also changed as a result of modern technology. Thanks to computers, phones, mobile phones, <NS type="M"><c>and the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> I can communicate with other people faster than I was able to <NS type="UV"><i>do</i></NS> before. My father is a sailor and I <NS type="RV"><i>meet</i><c>see</c></NS> him only four times a year. But thanks to mobile <NS type="FN"><i>phone</i><c>phones</c></NS> I can contact him even if he is sailing in the Atlantic Ocean. I also enjoy shopping <NS type="RT"><i>through</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. This way I don't have to <NS type="UV"><i>do</i></NS> be queuing in shops and supermarkets and I can choose fashionable clothes. In the future I would love to be a doctor, especially a cardiologist. Nowadays, modern technology is used in medicine more often and it can minimise the risk of the death of the patients.</p>
+          <p>However, I can see some disadvantages of technological progress. First of all, I spend too much time indoors playing <NS type="M"><c>on the</c></NS> computer or watching TV. I know that if I want to keep fit and stay healthy, I must take up some sport. Moreover, modern technology has made our environment more polluted. That's why we should <NS type="RV"><i>abandon</i><c>ban</c></NS> cars from city centres, <NS type="MC"><c>and</c></NS> <NS type="FV"><i>closed</i><c>close</c></NS> down factories which produce too much <NS type="RN"><i>sewage</i><c>waste</c></NS>. Although modern progress has made our life easier, it may <NS type="W"><i>be also</i><c>also be</c></NS> harmful. We should all be aware of these consequences of modern technology and use it <NS type="RY"><i>considerably</i><c>wisely</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

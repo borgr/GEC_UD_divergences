@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE74*0100*2001*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>12 June 2001</p>
+          <p>Dear Mrs Smith</p>
+          <p>Thank you for your letter dated 8 June 2001. I hope I can give you the information you need<NS type="RP"><i>. So</i><c>, so</c></NS> the conference will be a great experience <NS type="RT"><i>to</i><c>for</c></NS> you and your group.</p>
+          <p>Your group will stay at the Palace Hotel. The Palace Hotel is situated in the town centre next to the railway station. A free <NS type="S"><i><NS type="UP"><i>shuttel-bus</i><c>shuttel bus</c></NS></i><c>shuttle bus</c></NS> <NS type="RV"><i>gets</i><c>takes</c></NS> you to the <NS type="SA"><i><NS type="UP"><i>conference-center</i><c>conference center</c></NS></i><c>conference centre</c></NS>. The bus <NS type="IV"><i>leavs</i><c>leaves</c></NS> at 8 a.m. <NS type="RT"><i>at</i><c>from</c></NS> the front entrance of the hotel.</p>
+          <p>The end-of-conference party is <NS type="UV"><i>playing</i></NS> in a <NS type="RN"><i>rent</i><c>tent</c></NS> and in the <NS type="FN"><i><NS type="RP"><i>greenground</i><c>green ground</c></NS></i><c>grounds</c></NS>. There will be a barbecue, a place to dance and <NS type="RA"><i>many</i><c>much</c></NS> more. It <NS type="TV"><i>is</i><c>will be</c></NS> a <NS type="S"><i>surprice</i><c>surprise</c></NS>! I suggest <NS type="AS"><i>to wear</i><c>that you wear</c></NS> <NS type="UP"><i>leisure-clothes</i><c>leisure clothes</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> the party.</p>
+          <p><NS type="MT"><i>The</i><c>On the</c></NS> last afternoon you could go on a <NS type="UP"><i>city-tour</i><c>city tour</c></NS>, <NS type="S"><i>visite</i><c>visit</c></NS> the <NS type="RP"><i>museum</i><c>Museum</c></NS> of Fine Arts<NS type="MP"><c>,</c></NS> or enjoy the beautiful flower garden next to the <NS type="RJ"><i>common</i><c>public</c></NS> park.</p>
+          <p>I hope I <NS type="TV"><i><NS type="RV"><i>could</i><c>was able to</c></NS></i><c>have been able to</c></NS> give you some ideas. I look forward to seeing you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>What would life be without the phone?</p>
+          <p>Have you ever thought about a world without <NS type="MD"><c>the</c></NS> phone? <NS type="AS"><i>How was it</i><c>What was it like</c></NS> in the <NS type="MP"><i>18</i><c>18th</c></NS> century with no <NS type="RN"><i>opportunity</i><c>possibility</c></NS> <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to communicate</i><c>communicating</c></NS> by phone<NS type="MP"><c>,</c></NS> and <NS type="AS"><i>how would it be</i><c>what would it be like</c></NS> now?</p>
+          <p>I <NS type="RP"><i>can not</i><c>cannot</c></NS> imagine how our life would be. We <NS type="TV"><i>are living</i><c>live</c></NS> in a busy world. In the business world you use the phone all the time to speak with your clients, to make appointments, to order an article <NS type="DY"><i>e.c.</i><c>etc.</c></NS>; <NS type="RY"><i>then</i><c>so</c></NS>, time is money!</p>
+          <p>How has the phone affected my own life? I think<NS type="UP"><i>,</i></NS> that is a good question to think about. I could not call my friends from <NS type="RP"><i>an other</i><c>another</c></NS> city and just say "hello". It would be difficult and <NS type="TV"><i>take</i><c>would take</c></NS> more time to make an appointment.</p>
+          <p>So, what <NS type="TV"><i>did the <NS type="UP"><i>phone-revolution</i><c>phone revolution</c></NS></i><c>has the phone revolution done</c></NS> for us? It saves <NS type="MA"><c>us</c></NS> time.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

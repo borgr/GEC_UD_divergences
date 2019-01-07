@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR604*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan Helen,</p>
+          <p>thank you for the information<NS type="RP"><i>,</i><c>.</c></NS> I am glad I've won first prize!</p>
+          <p>I would like to go in July <NS type="L"><i>for</i><c>because</c></NS> it's the only month I can choose. In July I'll be on my vacation. As for <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I <NS type="MV"><c>would</c></NS> prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in tents. In my opinion it's the best way of joining nature and fully enjoying it. I'd be glad to choose painting and singing. And I'm good at both because I used to <NS type="RV"><i>attend</i><c>go</c></NS> to a painting studio when I was at school. I also used to <NS type="RV"><i>join</i><c>be in</c></NS> the school choir and was one of the best sopranos. So I'd be happy to do the activities <NS type="RT"><i>on</i><c>for</c></NS> two reasons. First I am good enough at both of them. Secondly I truly love painting and singing.</p>
+          <p>I would like to know what the weather is like in California in July to <NS type="R"><i>be aware of</i><c>know</c></NS> what clothes I should take. Another thing I am interested in is general information <NS type="RT"><i>of</i><c>on</c></NS> prices in the USA.</p>
+          <p>I would greatly appreciate your <NS type="DJ"><i>soonest</i><c>prompt</c></NS> answer.</p>
+          <p>Yours sincerely</p>
+          <p>E. Sidorov.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>I enjoy shopping like any woman. It is amazing and sometimes <NS type="S"><i>amuzing</i><c>amusing</c></NS> how charming and strong the spell of luxurious supermarkets and cosy little shops is. And still even this strong spell can be easily shattered. Who can prevent me from having a good, <NS type="MC"><c>though</c></NS> probably not for my purse, time in the magic world of shopping? The assistant of evil power which frustrates the long-looked-forward-to spell is a shop assistant. Or I would rather say he or she <NS type="U"><i>might be or</i></NS> might happen to be such. It's all very nice to be met by a helpful assistant with a radiant smile, ready to help you. But sometimes I really get annoyed at his or her, persistent in nature and polite in structure, questions or suggestions. To say nothing about his or her giving advice! I always make my own decisions! Like any human being I am not delighted to feel guilty, especially when I am not. But I do feel ill at ease when I see <NS type="S"><i>dissappointed</i><c>disappointed</c></NS> or angry assistants' faces on leaving the magic world without any <NS type="RN"><i>remembrances</i><c>souvenirs</c></NS> of it!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

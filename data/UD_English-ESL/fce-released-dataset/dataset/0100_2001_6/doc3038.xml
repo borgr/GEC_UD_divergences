@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE31*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Maria,</p>
+          <p>I've <NS type="S"><i>recieved</i><c>received</c></NS> your letter asking me for further information about the conference that you <NS type="TV"><i>going</i><c>are going</c></NS> to organise very soon<NS type="RP"><i>, here</i><c>. Here</c></NS> <NS type="S"><i>yo</i><c>you</c></NS> <NS type="R">have a little help for it</NS>.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, I'd like to tell you that the hotel where you <NS type="TV"><i>going</i><c>are going</c></NS> to stay is "The Palace Hotel", <NS type="S"><i>wich</i><c>which</c></NS> is situated at the <NS type="SA"><i>center</i><c>centre</c></NS> of the town. It can't be difficult to find, because <NS type="MA"><c>it</c></NS> is very near <NS type="RT"><i>of</i><c>to</c></NS> the conference. Also there is a bus provided <NS type="RT"><i>for</i><c>by</c></NS> the organisation to take all the students <NS type="RT"><i>at</i><c>to</c></NS> the hotel. At the end of the conference <NS type="RA"><i>it</i><c>there</c></NS> will be a party. I might suggest you <NS type="FV"><i>to wear</i><c>wear</c></NS> a casual <NS type="RN"><i>dress</i><c>outfit</c></NS>, because many students <NS type="AGV"><i>feels</i><c>feel</c></NS> <NS type="MT"><c>like</c></NS> relaxing after <NS type="RD"><i>the</i><c>a</c></NS> whole day sitting and listening <NS type="R"><i>all</i><c>at</c></NS> the conference. The party <NS type="TV"><i>is</i><c>will be</c></NS> <NS type="RV">amazed</NS> by a group of musicians, and <NS type="UC"><i>as</i></NS> I <NS type="TV"><i>remembered</i><c>remember</c></NS> <NS type="UT"><i>from</i></NS> last year it was <NS type="RJ"><i>unforgiven</i><c>unforgettable</c></NS>, because all the people <NS type="SX"><i>where</i><c>were</c></NS> dancing and having a lot of fun.</p>
+          <p>It is a well-situated town with a lot of museums to visit<NS type="MP"><c>,</c></NS> especially "the History <NS type="RP"><i>museum</i><c>Museum</c></NS>"<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> I visited last year, and I think you <NS type="RV"><i>can</i><c>will</c></NS> enjoy <NS type="MA"><c>it</c></NS> <NS type="UY"><i>as well</i></NS>. It doesn't take a lot of time to <NS type="RV">visit</NS> and <NS type="UD"><i>the</i></NS> entrance is free.</p>
+          <p><NS type="RV"><i><NS type="S"><i>Whising</i><c>Wishing</c></NS></i><c>Hoping</c></NS> I've been very helpful to you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><c>THE</c></NS> TELEPHONE <NS type="TV"><i><NS type="AGV"><i>CHANGE</i><c>CHANGES</c></NS></i><c>HAS CHANGED</c></NS> OUR <NS type="IN"><i>LIFES</i><c>LIVES</c></NS></p>
+          <p>It's <NS type="S"><i>imposible</i><c>impossible</c></NS> <NS type="RP"><i><NS type="S"><i>Nowdays</i><c>Nowadays</c></NS></i><c>nowadays</c></NS> to <NS type="RV"><i>think</i><c>imagine</c></NS> a life without that invention <NS type="R">how quickly affects our life especially in business</NS>. We can't imagine a big company without a phone, <NS type="RA"><i>that</i><c>which</c></NS> can <NS type="FV"><i>makes</i><c>make</c></NS> business more <NS type="RJ"><NS type="DJ"><i>quickly</i><c>quick</c></NS></NS> than anything else.</p>
+          <p>Also, I <NS type="TV"><i>was</i><c>have been</c></NS> asking <NS type="UY"><i>too</i></NS> <NS type="L"><i>many</i><c>a lot of</c></NS> people in the street<NS type="RP"><i>.</i><c>:</c></NS> Could you live without <NS type="MD"><c>a</c></NS> telephone? The answer was <NS type="RY"><i>all</i><c>always</c></NS> the same<NS type="MP"><c>:</c></NS> "<NS type="S"><i>Imposible</i><c>Impossible</c></NS>". An old woman told me how important <NS type="W"><i>was the phone</i><c>the phone was</c></NS> when her only son was abroad <NS type="IV"><i>studing</i><c>studying</c></NS> computers <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> "Chicago University"<NS type="RP"><i>, she</i><c>. She</c></NS> told me that every night <NS type="MA"><c>she</c></NS> <NS type="TV"><i>was expecting</i><c>expected</c></NS> a call from her son, <NS type="L"><i>for</i><c>because</c></NS> <NS type="R">her was the line of the <NS type="S"><i>hapiness</i><c>happiness</c></NS></NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> <NS type="RA"><i>it</i><c>there</c></NS> was one <NS type="S"><i>persone</i><c>person</c></NS> <NS type="AGA"><i><NS type="S"><i>wich</i><c>which</c></NS></i><c>who</c></NS> <NS type="UA"><i>he</i></NS> told me<NS type="UP"><i>,</i></NS> <NS type="AGA"><i>it</i><c>he</c></NS> wasn't happy at all with the phone, because he used to <NS type="S"><i>writte</i><c>write</c></NS> a lot, especially at Christmas <NS type="M"><c>when he wanted</c></NS> to wish all his friends a very nice Christmas but now everybody <NS type="AGV"><i>phone</i><c>phones</c></NS> him<NS type="MP"><c>,</c></NS> <NS type="RV"><i>losing</i><c>ending</c></NS> a very old <NS type="RN"><i>fashion</i><c>tradition</c></NS>.</p>
+          <p>In my opinion this little "box" that everybody has at home can <NS type="DV"><i>safe</i><c>save</c></NS> your life, especially if you need to ring a doctor in an emergency situation.</p>
+          <p>In conclusion don't make <NS type="UD"><i>a</i></NS> very long phone calls and you won't have to pay a very expensive bill.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

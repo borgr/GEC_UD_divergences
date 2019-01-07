@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR407*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan,</p>
+          <p>Thank you for the letter. It sounds great. I can't believe it but I'm really pleased to hear that I won first prize.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> I can travel only in July because I'm studying at college until the end of June and in August I'm travelling <NS type="MT"><c>to</c></NS> Greece for one <NS type="AGN"><i>months</i><c>month</c></NS>.</p>
+          <p>Secondly<NS type="MP"><c>,</c></NS> I would like to stay in log cabins because it would be more spacious and comfortable than tents.</p>
+          <p>I'll tell you <NS type="MD"><c>the</c></NS> two activities I chose. I would like to play tennis and swim. <NS type="TV"><i>I'm belonging</i><c>I belong</c></NS> to a tennis club and it is <NS type="RD"><i>the</i><c>my</c></NS> <NS type="UY"><i>most</i></NS> favourite <NS type="AGN"><i>sports</i><c>sport</c></NS>. I sometimes have a match with friends. I go swimming once a week. I like swimming because I can relax in water.</p>
+          <p>Lastly, could I ask you something? <NS type="RY"><i>How</i><c>What</c></NS> is the weather like in California? Do I need clothes with long sleeves? How much money should I bring? Can I change money <NS type="RT"><i>for</i><c>into</c></NS> US dollars there?</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>'Shopping is not always enjoyable.'</p>
+          <p>Is it true or not?</p>
+          <p>Generally<NS type="MP"><c>,</c></NS> women like shopping. They like looking for fashionable clothes, bags, shoes and so on. In the bargain season, all shops are full of people who <NS type="MV"><c>are</c></NS> keen on finding <NS type="CN"><i>stuffs</i><c>stuff</c></NS> which <NS type="AGV"><i>are</i><c>is</c></NS> good value for money. You can see battles between two people who want the same thing sometimes. The most interesting thing is that many men are waiting for their wives or girlfriends outside the shop during shopping. They don't fancy going into the <NS type="DJ"><i>crowdy</i><c>crowded</c></NS> shop. It is very boring and tiring to be kept waiting.</p>
+          <p>For the women, too. If they can't find things which they expected, they go there <NS type="UY"><i>just</i></NS> only to get tired.</p>
+          <p>Shopping is enjoyable when you find exactly what you want in a calm shop but not always.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

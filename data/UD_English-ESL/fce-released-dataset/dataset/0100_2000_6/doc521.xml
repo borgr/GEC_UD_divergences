@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR216*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>As you mentioned that I have won the competition - two weeks at Camp California in the U.S.A. <NS type="MP"><c>-</c></NS> <NS type="UY"><i>therefore</i></NS> here is the information that you require.</p>
+          <p>I can travel only in July because during this month I am free to go anywhere<NS type="RP"><i>, actually</i><c>. Actually</c></NS> it is my summer holiday.</p>
+          <p>Apart from that I wouldn't mind at all whether <NS type="MA"><c>I</c></NS> <NS type="TV"><i>to stay</i><c>stay</c></NS> in tents or log cabins but if I have to choose between these two I'd prefer to stay in tents because <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>gives</i><c>give</c></NS> me a nice feeling <NS type="R"><i>and</i><c>of</c></NS> relaxation<NS type="RP"><i>, it</i><c>. It</c></NS> is very <NS type="S"><i>unusal</i><c>unusual</c></NS> <NS type="U"><i>for me</i></NS> to stay in log cabins while you are camping.</p>
+          <p>The activities that I'd like to do: <NS type="MD"><i><NS type="RP"><i>First</i><c>first</c></NS></i><c>the first</c></NS> one <NS type="UA"><i>it</i></NS> would be basketball and to be honest I can play it very well <NS type="R"><i>due to</i><c>because</c></NS> I used to be a basketball player in my high school<NS type="RP"><i>. <NS type="MD"><i>Second</i><c>The second</c></NS></i><c>; the second</c></NS> activity <NS type="UA"><i>it</i></NS> would be tennis<NS type="RP"><i>,</i><c>.</c></NS> I am not <NS type="RD"><i>the</i><c>an</c></NS> expert <NS type="RT"><i>in</i><c>at</c></NS> this <NS type="UA"><i>one</i></NS> because I've played it only twice but I know how to hit the ball and basic stuff like <NS type="MA"><c>that</c></NS>; <NS type="FV"><i>serve</i><c>serving</c></NS> the ball, <NS type="RP"><i>back hand</i><c>backhand</c></NS> and <NS type="RP"><i>fore hand</i><c>forehand</c></NS> to hit the ball.</p>
+          <p>Finally I have something to ask you about how many people can stay in one <NS type="AGN"><i>tents</i><c>tent</c></NS><NS type="RP"><i>?</i><c>.</c></NS> Do I have to bring swimming <NS type="RN"><i>suit</i><c>trunks</c></NS> if I want to swim <NS type="RT"><i>in</i><c>at</c></NS> the camp? How much money do I need and what else do I need to pay <NS type="MT"><c>for</c></NS>?</p>
+          <p>This information should <NS type="MV"><c>be</c></NS> enough for you but if you'd like to know more about anything please ask me and do not hesitate.</p>
+          <p>I'm looking forward to it and I hope <NS type="FV"><i>seeing</i><c>to see</c></NS> you <NS type="UT"><i>during</i></NS> this summer.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="RY"><i>Sometime</i><c>Sometimes</c></NS> when you ask your friend<NS type="MP"><c>,</c></NS> especially girls<NS type="RP"><i>.</i><c>,</c></NS> <NS type="MP"><i>What</i><c>"What</c></NS> would you like to <NS type="MV"><c>do</c></NS> after the class or during the weekend?<NS type="MP"><c>"</c></NS> <NS type="RP"><i>The</i><c>the</c></NS> typical answer would be 'I'm going to <NS type="MD"><c>the</c></NS> shop because I like it<NS type="MP"><c>,</c></NS> even <NS type="FN"><i>windows</i><c>window</c></NS> shopping would be fine'. However, for me shopping is not always enjoyable. Why? First of all, <NS type="TV"><i>it's wasting</i><c>it wastes</c></NS> my time<NS type="MP"><c>,</c></NS> especially when I can't find the thing I want<NS type="RP"><i>, this</i><c>. This</c></NS> is very frustrating. In addition, it's so tiring to walk around the place over and over to find the thing you want. Apart from that, it's quite annoying when you have to compare or to <NS type="DV">survey</NS> the price in order to buy the cheapest one, if possible. Once you've got <NS type="RA"><i>all</i><c>everything</c></NS> <NS type="MT"><c>on</c></NS> your shopping list, you also have to carry all the bags that you just bought<NS type="MP"><c>,</c></NS> which <NS type="AGV"><i>is</i><c>are</c></NS> very heavy <NS type="RY"><i>sometime</i><c>sometimes</c></NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> shopping is not a bad thing<NS type="UP"><i>,</i></NS> <NS type="UY"><i>only</i></NS> if you plan <NS type="UA"><i>it</i></NS> carefully what to buy, where to go, how much money you will spend <NS type="UT"><i>on</i></NS>?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

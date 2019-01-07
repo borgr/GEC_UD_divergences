@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR230*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>On behalf of our class I would like to give you some information about the London Fashion and Leisure show<NS type="UP"><i>,</i></NS> that we saw advertised and we are interested <NS type="MT"><c>in</c></NS> <NS type="UY"><i>indeed</i></NS>. In addition we would like to thank you <NS type="RT"><i>about</i><c>for</c></NS> the programme.</p>
+          <p>Firstly, I would like to give you some details about this show. It will take place in <NS type="MD"><c>the</c></NS> Central Exhibition Hall, in London, on Tuesday <NS type="MD"><c>the</c></NS> 14th of March and <NS type="R">the suitable time</NS> will be 10.00 - 19.00</p>
+          <p>I would like to mention that <NS type="MT"><c>on</c></NS> this day we are going to visit the Science Museum in the morning and after we are going <NS type="UT"><i>for</i></NS> shopping, so I believe it will be a good <NS type="RN"><i>change</i><c>chance</c></NS> for all of us to attend this show as it is free for students! The most important thing is that the time that the show starts is perfect and is <NS type="RJ"><i>suitable</i><c>compatible</c></NS> as well with our programme because <NS type="RT"><i>until</i><c>by</c></NS> 19:00 I think that everyone will have finished their shopping.</p>
+          <p>Secondly, I would like to give you more details about the show and particularly <NS type="MT"><c>about</c></NS> what <NS type="UV"><i>does</i></NS> it <NS type="AGV"><i>include</i><c>includes</c></NS>. The latest <NS type="FN"><i>fashion</i><c>fashions</c></NS> will be on show and also the Leisure and sports wear. Really interesting! Moreover <NS type="R">all about the make up and the hairstyles</NS>. I think that <NS type="AS"><i>it will be a great opportunity to all of us to be on this show</i><c>this show will be a great opportunity for all of us</c></NS> while we are <NS type="UV"><i>going to be</i></NS> in London. But<NS type="UP"><i>,</i></NS> if there is a problem <NS type="RC"><i>that</i><c>because</c></NS> the show is on Tuesday afternoon, the same <NS type="RN"><i>hour</i><c>time</c></NS> <NS type="RT"><i>with</i><c>as</c></NS> <NS type="M"><i>shopping</i><c>our shopping trip</c></NS>, I suggest <NS type="RV"><i>having</i><c>going</c></NS> <NS type="UD"><i>the</i></NS> shopping on Wednesday afternoon <NS type="RC"><i>that</i><c>when</c></NS> we will not have anything to do!</p>
+          <p>I look forward to your reply,</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Some people think that <NS type="FV"><i>to be</i><c>being</c></NS> a famous person is <NS type="MD"><c>a</c></NS> very <NS type="S"><i>excuiting</i><c>exciting</c></NS> thing, that all the time this makes you feel <NS type="DJ"><i>completely</i><c>complete</c></NS> and also they think that if you are famous you are special as well.</p>
+          <p>I believe<NS type="UP"><i>,</i></NS> that if somebody wants <NS type="UD"><i>the</i></NS> fame and <NS type="UD"><i>the</i></NS> glory <NS type="MA"><c>he</c></NS> must be <NS type="S"><i>tottally</i><c>totally</c></NS> <NS type="RJ"><i>sure</i><c>clear</c></NS> about the results. For example, <NS type="UD"><i>the</i></NS> politicians <NS type="UD"><i>the</i></NS> have <NS type="IV"><i>choosed</i><c>chosen</c></NS> their careers<NS type="RP"><i>,</i><c>;</c></NS> they must know that <NS type="R">they are going to involved with everything that it has to do with publicity and their country</NS> and the most important <NS type="MN"><c>thing</c></NS> is that they have to realize that they should be extremely careful <NS type="RT"><i>of</i><c>about</c></NS> their movements or else they are going to have <NS type="MD"><c>a</c></NS> bad reputation, and they will <NS type="W"><i>be not</i><c>not be</c></NS> <NS type="MV"><c>considered</c></NS> trustworthy.</p>
+          <p><NS type="R">Another <NS type="S"><i>succesfull</i><c>successful</c></NS> <NS type="S"><i>carreer</i><c>career</c></NS> such as, film stars must also be balanced</NS>. If somebody is a film star this <NS type="AGV"><i>mean</i><c>means</c></NS> that <NS type="MA"><c>he</c></NS> has got a different kind of life, <NS type="MD"><c>a</c></NS> more comfortable, more interesting <NS type="MN"><c>life</c></NS> but it doesn't mean that he or she can't be like normal people even if he or she is a star.</p>
+          <p>If somebody wants to be famous of <NS type="S"><i>cource</i><c>course</c></NS> <NS type="MA"><c>they</c></NS> must be <NS type="DJ">on the top</NS> and the mass media will be following him or her. But I think that <NS type="SX"><i>the</i><c>there</c></NS> are limits. Everybody <NS type="AGV"><i>deserve</i><c>deserves</c></NS> to have a private life even if he is a plumber or even if she is a famous singer. It doesn't matter what kind of <NS type="S"><i>carreer</i><c>career</c></NS> or job you <NS type="RV"><i>are <NS type="FV"><i>follow</i><c>following</c></NS></i><c>have</c></NS>. You must control your behaviour and try not <NS type="FV"><NS type="DV">implove</NS></NS> so much yourself. And finally the journalists <NS type="UD"><i>the</i></NS> should know how to respect the private <NS type="FN"><i>life</i><c>lives</c></NS> of everyone and not <NS type="FV"><i>trying</i><c>try</c></NS> to make money <NS type="U"><i>for a living</i></NS> by using the reputation of <NS type="UD"><i>the</i></NS> famous people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

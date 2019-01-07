@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR820*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to reply to your letter. I'm very glad to hear that I have won first prize in your competition. Here <NS type="UA"><i>there</i></NS> <NS type="AGV"><i>are</i><c>is</c></NS> the <NS type="CN"><i>informations</i><c>information</c></NS> you require.</p>
+          <p>First of all, I'm available <NS type="UT"><i>for</i></NS> <NS type="FV"><i>travel</i><c>to travel</c></NS> only in July because in August I'm going to attend a language course in France.</p>
+          <p>As far as <NS type="S"><i>accomodation</i><c>accommodation</c></NS> is concerned<NS type="MP"><c>,</c></NS> I would prefer to stay in a log cabin because I think it is more comfortable, and, therefore, I have never stayed in a tent.</p>
+          <p>The two activities I have chosen are basketball and tennis.</p>
+          <p>I play basketball very well, although I have never taken part in important competitions; however, I am not very good at tennis, and I would like to improve <NS type="UA"><i>it</i></NS>.</p>
+          <p>Moreover I would be grateful if you could tell me how much money I have to take, and <NS type="RQ"><i>which</i><c>what</c></NS> clothes are <NS type="FJ"><i>better</i><c>best</c></NS> <NS type="UV"><i>to be</i></NS> <NS type="FV"><i><NS type="RV"><i>put on</i><c>wear</c></NS></i><c>to wear</c></NS> during the holiday.</p>
+          <p>Yours sincerely</p>
+          <p>Rita Pizzi</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>This report shows which lessons and activities are <NS type="FJ"><i>better</i><c>best</c></NS> to <NS type="FV"><i>be filmed</i><c>film</c></NS> in order to make a short video about daily life at our school. It is based on interviews taken from over 80% of my classmates.</p>
+          <p>First of all, according to the majority of them, <NS type="RP"><i>latin and greek</i><c>Latin and Greek</c></NS> lessons should be filmed. In fact they find it difficult to take them in and, in their opinion, these lessons are the most important so as to show their daily life at school.</p>
+          <p>On the other hand, about 3% of students suggest that <NS type="W"><i>also chemistry lessons should</i><c>chemistry lessons should also</c></NS> be filmed, because they often take place in the laboratory that the school has <NS type="RY"><i>lately</i><c>recently</c></NS> built; in fact some experiments might be filmed.</p>
+          <p>Furthermore, some students would like to film the <NS type="W"><i>football school team</i><c>school football team</c></NS>, because football is the most <NS type="R">practised</NS> activity <NS type="RT"><i>by</i><c>among</c></NS> the students.</p>
+          <p>To sum up, it is clear that not only should the film be about the subjects they study, but it should concern their <NS type="DJ"><i>sportif</i><c>sports</c></NS> activities as well.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

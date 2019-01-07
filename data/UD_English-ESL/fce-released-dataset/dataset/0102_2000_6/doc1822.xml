@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR77*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I <NS type="TV"><i>have read</i><c>read</c></NS> your advertisement for the show <NS type="M"></NS> and I went to the theatre to see it but I had a very disappointing evening.</p>
+          <p>In your advertisement, <NS type="MA"><c>it</c></NS> said that one of the <NS type="AGN"><i>actor</i><c>actors</c></NS> was Danny Brook but it was a different actor. This was very disappointing and I believe that all the people there<NS type="UP"><i>,</i></NS> were angry.</p>
+          <p>The musical show <NS type="RV"><i>must</i><c>should</c></NS> have <NS type="TV"><i>been started</i><c>started</c></NS> at half past seven but it started at quarter past eight.</p>
+          <p>About the tickets, <NS type="UA"><i>I</i></NS> the advertisement said that discounts would be available but <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="RV"><i>would</i><c>were</c></NS> not.</p>
+          <p>Also the theatre restaurant was closed and I do not know why. When I read the advertisement, it said that the <NS type="S"><i>restaurand</i><c>restaurant</c></NS> would be <NS type="DJ"><i>opened</i><c>open</c></NS>.</p>
+          <p>Lastly, I want to tell you that I <NS type="RV"><i>had</i><c>did</c></NS> not <NS type="MV"><c>have</c></NS> a perfect evening and I would be grateful if you <NS type="RV"><i>could</i><c>would</c></NS> send me my money back.</p>
+          <p>I am looking forward to your <NS type="RN"><i>answer</i><c>reply</c></NS>.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat was not very good at keeping secrets. Pat was my best friend. She lived <NS type="DY"><i>next to my house</i><c>next door</c></NS> and we went to the same school. I told her all my problems and I could rely on her.</p>
+          <p>One day I heard my mother <NS type="FV"><i>to tell</i><c>tell</c></NS> my father that she <NS type="TV"><i>want</i><c>wanted</c></NS> to divorce because she <NS type="TV"><i>can't</i><c>couldn't</c></NS> live with him any more.</p>
+          <p>When I heard <NS type="RA"><i>it</i><c>this</c></NS>, I went to my room and I was crying. I called Pat to come to my house because I was not very <NS type="RJ">good</NS> and <NS type="M"></NS> to tell her what had happened.</p>
+          <p><NS type="MD"><i>Few</i><c>A few</c></NS> minutes later Pat came to my house and I told her that my parents <NS type="TV"><i>are</i><c>were</c></NS> going to divorce. Pat did not believe me and she <NS type="UV"><i>started</i></NS> <NS type="TV"><i>to ask</i><c>asked</c></NS> why. I told her that I did not know.</p>
+          <p>She helped me to forget it for a few minutes, she made me <NS type="FV"><i>to laugh</i><c>laugh</c></NS> and <NS type="SX"><i>the</i><c>then</c></NS> she left. But before she left<NS type="MP"><c>,</c></NS> I begged her not to tell anybody.</p>
+          <p>The <NS type="RJ"><i>other</i><c>next</c></NS> morning I went to school and all the students came <NS type="RY"><i>next</i><c>up</c></NS> to me and told me not to be <NS type="RJ"><i>mad</i><c>upset</c></NS> because of my parents.</p>
+          <p>Then I realised that Pat told <NS type="MA"><c>them</c></NS> my secret and I felt very angry, that's why I said at the beginning that Pat was not very good at keeping secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

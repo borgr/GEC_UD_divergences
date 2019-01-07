@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1042*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>First of all, I would like to thank you for the letter which brought me such good news.</p>
+          <p>I enjoyed a lot participating in your competition and hope to <NS type="RV"><i><NS type="S"><i>apreciate</i><c>appreciate</c></NS></i><c>enjoy</c></NS> the <NS type="RN"><i>travel</i><c>trip</c></NS> I <NS type="TV"><i>won</i><c>have won</c></NS>.</p>
+          <p>Secondly, I will give you with pleasure some information about myself you need to have.</p>
+          <p>To be honest, the only suitable time for me to travel is in July because my session at the University will have finished only <NS type="RT"><i>in</i><c>at</c></NS> the end of June.</p>
+          <p><NS type="R"><i>As an</i><c>For</c></NS> accommodation at Camp California I prefer a tent because I have been <NS type="UV"><i>doing</i></NS> camping for years and enjoy it very much.</p>
+          <p>As I have a chance to do 2 activities while I am at the Camp, I will choose singing<NS type="MP"><c>,</c></NS> which I am very good at<NS type="MP"><c>,</c></NS> and swimming<NS type="MP"><c>,</c></NS> which I am fond of but<NS type="MP"><c>,</c></NS> unfortunately, not a professional.</p>
+          <p><NS type="R"><i>In the end</i><c>Finally</c></NS> I would like you to tell me if I should take some special clothes and also <NS type="R"><i>the</i><c>what</c></NS> sum of money I will need... during my vacation.</p>
+          <p>I wish you all the best and look forward to hearing from you soon.</p>
+          <p>Sincerely yours,</p>
+          <p>Lena Kazanova</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>A lot of women would never agree with me and almost all the men <NS type="RT"><i>of</i><c>in</c></NS> the world would never believe that in my opinion<NS type="UP"><i>,</i></NS> shopping is really not always enjoyable.</p>
+          <p>Eternal crowds, high prices, long hours of choosing a suitable thing, that is what shopping means to me.</p>
+          <p><NS type="RY"><i>Especially</i><c>In particular</c></NS>, I can't <NS type="RV"><i>support</i><c>bear</c></NS> to <NS type="RV"><i>do</i><c>go</c></NS> shopping with my mother: it takes so much time that later I regret <NS type="UT"><i>of</i></NS> agreeing to go with <NS type="MA"><c>her</c></NS>.</p>
+          <p>When I am on my own, everything is fine: I do my shopping quickly because I never have to spend hours <NS type="FV"><i>to choose</i><c>choosing</c></NS> what I really want either for myself or someone else.</p>
+          <p>Shopping is a personal art and everybody has his own way <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to do</i><c>doing</c></NS> it.</p>
+          <p>Some go just to <NS type="ID"><i>kill the time</i><c>kill time</c></NS><NS type="MP"><c>;</c></NS> others <NS type="UP"><i>-</i></NS> to look at something new<NS type="RP"><i>,</i><c>.</c></NS> I am in the third group - <NS type="RY"><i>previously</i><c>beforehand</c></NS> I think of what I will buy and go straight to the department I need.</p>
+          <p>But sometimes I have to forget my opinion and spend all the day <NS type="W"><i>looking <NS type="RT"><i>for</i><c>with</c></NS> my mother</i><c>with my mother looking</c></NS> <NS type="RT"><i>in</i><c>through</c></NS> a huge department-store.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

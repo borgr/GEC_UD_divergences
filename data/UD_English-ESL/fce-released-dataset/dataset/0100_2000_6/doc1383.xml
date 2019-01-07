@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR44*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am writing to <NS type="RV"><i>answer</i><c>reply</c></NS> to your letter in which you told me I won first prize in <NS type="RD"><i>our</i><c>your</c></NS> <NS type="S"><i>competetion</i><c>competition</c></NS>, which is two weeks <NS type="M"></NS><NS type="RP"><i>,</i><c>.</c></NS> I was very happy with this result since I did not think I could win.</p>
+          <p>First of all I would like to tell you that I will be able to travel only in July because in the other months I will be too busy with my work. In the second place I add that I would prefer <NS type="R"><i>an <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>to stay</c></NS> in a tent, even though it is not very comfortable, because I want to put myself to the test by living in <NS type="UD"><i>a</i></NS> <NS type="FN"><i>condition</i><c>conditions</c></NS> I am not used to.</p>
+          <p>Besides this, in <NS type="S"><i>connexion</i><c>connection</c></NS> with the activities we will have the chance to do, I would like to inform you that I choose swimming and tennis because I am quite good at both, especially at tennis.</p>
+          <p>In addition to this I would like to ask you <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes and how much money <NS type="UA"><i>it</i></NS> is necessary to have, since I am undecided about it<NS type="MP"><c>,</c></NS> not knowing the cost of <NS type="RN"><i>life</i><c>living</c></NS> in California.</p>
+          <p>I look forward to hearing from you soon,</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS>,</p>
+          <p>Marino Rizzo</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>The aim of this report is to suggest which activities <NS type="RT"><i>of</i><c>in</c></NS> our daily life at school <NS type="S"><i>shoud</i><c>should</c></NS> be filmed to give the other students <NS type="RD"><i>the</i><c>an</c></NS> idea of what we usually do<NS type="MP"><c>,</c></NS> not only during the lessons but also the rest of the time.</p>
+          <p>Most of the students agree in saying that <NS type="M"><c>there are</c></NS> two <NS type="U"><i>are the</i></NS> main features <NS type="RT"><i>of</i><c>in</c></NS> our daily life at school which should be filmed: it would be very funny to <NS type="RV"><i>dwell</i><c>concentrate</c></NS> on us working and speaking together<NS type="MP"><c>,</c></NS> without the help of the teacher<NS type="MP"><c>,</c></NS> <NS type="CE">to show our efforts and sometimes successful and sometimes ridiculous</NS> and also to film some amusing moments we <NS type="TV"><i>spent</i><c>spend</c></NS> waiting for the teacher.</p>
+          <p>A <NS type="RJ"><i>little</i><c>small</c></NS> percentage, on the contrary, said it would be very useful to film the teacher when she is <NS type="AS"><i>explaining us something important</i><c>something important to us</c></NS>, to give <NS type="RD"><i>the</i><c>an</c></NS> idea of <NS type="UD"><i>the</i></NS> real life in our classroom. <NS type="R">which is the most</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

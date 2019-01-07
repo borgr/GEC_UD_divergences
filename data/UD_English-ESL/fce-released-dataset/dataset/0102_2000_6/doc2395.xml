@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR965*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Smith,</p>
+          <p>I'm terribly sorry but I <NS type="RV"><i>would</i><c>have</c></NS> <NS type="FV"><i><NS type="RV"><i>notice</i><c>inform</c></NS></i><c>to inform</c></NS> you about a very disappointing evening. I'm sure you'll read this letter<NS type="UP"><i>,</i></NS> with the intention of explaining the problems <NS type="MA"><c>I</c></NS> had during the musical show <NS type="RT"><i>of</i><c>at</c></NS> <NS type="RD"><i>his</i><c>your</c></NS> theatre. One of the causes of my <NS type="DN"><i>disappointing</i><c>disappointment</c></NS> was the <NS type="R"><i>different</i><c>substitute</c></NS> actor that played <NS type="MT"><c>in</c></NS> the show.</p>
+          <p>I like <NS type="W"><i>very much Danny Brook</i><c>Danny Brook very much</c></NS>, and his <NS type="S"><i>unaspected</i><c>unexpected</c></NS> absence caused <NS type="UT"><i>on</i></NS> me <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>big</i><c>great</c></NS> sadness.</p>
+          <p>Then, <NS type="MD"><c>the</c></NS> musical show had to start at 19,30..why <NS type="W"><i>at 20:15 there was <NS type="UY"><i>also</i></NS> the light on</i><c>was the light on at 20:15</c></NS>? You'll <NS type="UV"><i>be</i></NS> agree with me that 45 minutes <NS type="FV"><i>to waiting</i><c>waiting</c></NS> for the <NS type="R"><i>starting</i><c>start</c></NS> of the show is <NS type="W"><i>a too long</i><c>too long a</c></NS> time.</p>
+          <p>The advertisement for the show indicated discounts available and <NS type="MD"><c>an</c></NS> open restaurant after the show but it wasn't <NS type="R"><i>in this way</i><c>like that</c></NS>. The restaurant was closed <NS type="L"><i>'cause</i><c>because</c></NS> of illness.. <NS type="R"><i>of who</i><c>whose</c></NS>? It's <NS type="MD"><c>a</c></NS> strange thing! For those reasons I ask you for some money back, sure of my good reasons.</p>
+          <p><NS type="RN">Greetings</NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>It's for this reason that <NS type="W"><i>now I'm</i><c>I'm now</c></NS> in this terrible situation. I can't believe she said that<NS type="UP"><i>,</i></NS> I was at <NS type="UD"><i>the</i></NS> Maria's party and<NS type="MP"><c>,</c></NS> <NS type="L"><i>'cause</i><c>because</c></NS> <NS type="UT"><i>of</i></NS> <NS type="DA"><i>my</i><c>I</c></NS> <NS type="DV"><i>distraction</i><c>was distracted</c></NS>, I <NS type="RV"><i>said</i><c>told</c></NS> Pat that I had lost <NS type="UD"><i>the</i></NS> Jon's shirt. I <NS type="RV"><i>was</i><c>had</c></NS> <NS type="TV"><i>agree</i><c>agreed</c></NS> to buy another one, of the same style, but now he's angry with me, <NS type="L"><i>'cause</i><c>because</c></NS> I didn't say anything to him.</p>
+          <p>I don't know <NS type="R"><i>how</i><c>what</c></NS> to do. He's my best friend and so he wanted <NS type="W"><i>from me all the truth</i><c>all the truth from me</c></NS> I <NS type="TV"><i>can</i><c>could</c></NS> give him. It's all right, but I also think that he's <NS type="UY"><i>too</i></NS> <NS type="FV"><i><NS type="S"><i>exagerate</i><c>exaggerate</c></NS></i><c>exaggerating</c></NS>. I don't think <NS type="MA"><c>I</c></NS> <NS type="UT"><i>of</i></NS> <NS type="FV"><i>having</i><c>have</c></NS> done <NS type="MQ"><c>such</c></NS> a <NS type="UJ"><i>so</i></NS> bad thing <NS type="MC"><c>as</c></NS> to <NS type="RV"><i><NS type="FV"><i>broke</i><c>break</c></NS></i><c>destroy</c></NS> our <NS type="DN"><i>friendness</i><c>friendship</c></NS>. I feel sad and shocked. I like his company, and we are happy when we are <NS type="S"><i>togheter</i><c>together</c></NS>. I can't <NS type="FV"><i>finished</i><c>finish</c></NS> <NS type="M"><c>with him</c></NS> <NS type="L"><i>'cause</i><c>because</c></NS> of a girl <NS type="RA"><i>that</i><c>who</c></NS> can't <NS type="FV"><i>keeping</i><c>keep</c></NS> a simple secret.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

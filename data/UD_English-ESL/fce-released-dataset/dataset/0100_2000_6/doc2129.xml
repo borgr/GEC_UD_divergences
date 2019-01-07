@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR858*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I'm writing to give you the information you requested in your letter dated March<NS type="UP"><i>,</i></NS> 31st, in which you informed me that I have won first prize in your competition.</p>
+          <p>I can only travel in July, because the Hospital I work for has <NS type="R"><i>accepted</i><c>allowed me to take</c></NS> my holidays <NS type="RT"><i>on</i><c>in</c></NS> that month. I don't mind if I travel during the first fortnight or during the second one, although I would prefer travelling during the second fortnight, if it is possible.</p>
+          <p>Regarding the accommodation, I would prefer staying in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>. I have never liked staying in tents because I think they are uncomfortable, especially if the stay is going to last more than two or three days.</p>
+          <p>It's difficult for me to <NS type="FV"><i>chose</i><c>choose</c></NS> two activities from your list, but I think I would like to play basketball. I have never been good at team sports, but I really like basketball and I think it can be very interesting to meet other people by means of this team sport. I like swimming too, because I think it is one of the best sports to keep you fit and healthy.</p>
+          <p>I would be very grateful if you could give me some <NS type="S"><i>aditional</i><c>additional</c></NS> information. What type of clothes must I take? Is it necessary to take <NS type="R"><i>dressed cloth</i><c>formal dress</c></NS> for any formal events? Must I take cash <NS type="UN"><i>money</i></NS> or can I use <NS type="UD"><i>the</i></NS> credit cards? Thank you in advance for your help.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thanks for your last letter. I can understand why you are impatient to hear about my experience at the concert last month. I have met our favourite singer, Celine Dion! She is wonderful. But, first of all, let me explain to you what I did during the concert.</p>
+          <p>We arrived at the stadium the <NS type="R"><i>previous evening</i><c>evening before</c></NS>. The team of volunteers was a great one, and all of us were willing to help <NS type="RT"><i>in</i><c>with</c></NS> anything they needed <NS type="MV"><c>done</c></NS>. Firstly, we were asked to <NS type="RV"><i>clear</i><c>clean</c></NS> the stadium, especially the seats and surroundings. When we finished <NS type="RV"><i>clearing</i><c>cleaning</c></NS>, some of us offered <NS type="UD"><i>our</i></NS> <NS type="R"><i>help</i><c>to help</c></NS> to <NS type="RV"><i>enter</i><c>bring</c></NS> the sound equipment into the stadium. They said that it wasn't necessary and we sat down on the grass and observed how the <NS type="RN"><i><NS type="S"><i>scenary</i><c>scenery</c></NS></i><c>stage</c></NS> was being prepared for the concert.</p>
+          <p>And then, when <NS type="RA"><i>all</i><c>everything</c></NS> was <NS type="RJ"><i>prepared</i><c>ready</c></NS>, Celine appeared <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="RN"><i><NS type="S"><i>scenary</i><c>scenery</c></NS></i><c>stage</c></NS> to <NS type="RV"><i>make</i><c>do</c></NS> <NS type="R"><i>some</i><c>a</c></NS> sound <NS type="RN"><i>tests</i><c>check</c></NS>. I was astonished. It was incredible! I was so near her! When she finished the <NS type="RN"><i>tests</i><c>sound check</c></NS>, I went to meet her<NS type="RP"><i>,</i><c>.</c></NS> I told her I was very happy <NS type="UT"><i>for</i></NS> <NS type="RV"><i><NS type="FV"><i>staying</i><c>to stay</c></NS></i><c>to be</c></NS> there and <NS type="FV"><i>having</i><c>to have</c></NS> helped at the concert, and I asked her <NS type="MT"><c>for</c></NS> an <NS type="S"><i>authograph</i><c>autograph</c></NS>. She gave it to me with a great smile and gave permission to take a photograph of both of us. And she dedicated the photograph to me!</p>
+          <p>I still believe it has only been a dream! I am willing to show you the <NS type="S"><i>authograph</i><c>autograph</c></NS> and the photograph.</p>
+          <p>Please, make sure you can come next weekend. We will be able to talk <NS type="SX"><i>bout</i><c>about</c></NS> the concert and we will listen together to <NS type="UD"><i>the</i></NS> <NS type="W"><i>last Celine Dion's C.D.</i><c>Celine Dion's last CD.</c></NS></p>
+          <p>Let me know if you are going to come so that I <NS type="MV"><c>can</c></NS> prepare the bedroom to put you up <NS type="MT"><c>in</c></NS>.</p>
+          <p>Please, come!</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR187*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I am writing in order to give my opinions about the annual International Arts Festival I have <NS type="RV"><i>visited</i><c>attended</c></NS>.</p>
+          <p>First of all, I have to say that the idea of such a festival is great. It gives an opportunity to get acquainted with the <NS type="DJ"><i>cultures'</i><c>cultural</c></NS> variety of the whole world. However, at this festival there were artists <NS type="W"><i>only from</i><c>from only</c></NS> six countries<NS type="RP"><i>. Whereas</i><c>, whereas</c></NS> <NS type="RD"><i>an</i><c>the</c></NS> advertisement promised stars from around the world.</p>
+          <p>Despite that, all the jazz, rock and classical concerts were extremely enjoyable<NS type="RP"><i>. Although,</i><c>, although</c></NS> some concert halls were too small for all the guests of the festival.</p>
+          <p>Another <NS type="S"><i>disadvatage</i><c>disadvantage</c></NS> of the festival's programme was <NS type="MD"><c>the</c></NS> lack of plays and films which are the best <NS type="MN"></NS> to display <NS type="RD"><i>the</i><c>a</c></NS> modern <NS type="RN"><i>county's</i><c>country's</c></NS> culture<NS type="RP"><i>.</i><c>,</c></NS> I <NS type="RV"><i>suppose</i><c>think</c></NS>. I hope there will be more of them next year.</p>
+          <p>I must also admit the organization of the festival was perfect. All the guests were offered a weekend ticket for all events. That was an excellent decision as all the events started at different <NS type="FN"><i>time</i><c>times</c></NS> and there <NS type="AGV"><i>was</i><c>were</c></NS> plenty of them. In addition, it was <NS type="DY"><i>reasonable-priced</i><c>reasonably-priced</c></NS>.</p>
+          <p>In <NS type="S"><i>conclusuon</i><c>conclusion</c></NS>, I would like to say that in spite of the success of the festival some improvements still can be <NS type="RV"><i>done</i><c>made</c></NS>. For example, <NS type="UD"><i>the</i></NS> next year's one <NS type="RV"><i>may</i><c>could</c></NS> last not for two days only, but for a week. So it will be available for <NS type="MD"><c>a</c></NS> greater <NS type="RN"><i>amount</i><c>number</c></NS> of people.</p>
+          <p>The programme <NS type="TV"><i>can</i><c>could</c></NS> <NS type="W"><i>be also</i><c>also be</c></NS> improved by adding new categories such as folk songs.</p>
+          <p>Thank you for your kind attention.</p>
+          <p>Sincerely yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Everybody wants to earn a bit of money. Especially young people who are always <NS type="RT">out of</NS> their small budget. <NS type="DY"><i>Fortunatelly</i><c>Fortunately</c></NS>, there are many ways to earn some money nowadays.</p>
+          <p>Of course, young people can work only in their spare time. It <NS type="AGV"><i>mean</i><c>means</c></NS> that a job should be part-time.</p>
+          <p>So, one opportunity is working as a baby-sitter. This job doesn't demand much <NS type="CN"><i>abilities</i><c>ability</c></NS>, but a lot of patience though. In addition to baby-sitting<NS type="MP"><c>,</c></NS> you may also give some lessons to small children such as (tl) teaching them to read or write or just basic rules and words of a foreign language, <NS type="S"><i>Eglish</i><c>English</c></NS><NS type="MP"><c>,</c></NS> for example.</p>
+          <p>Another way to earn some money is to work as a waiter after classes. This job requires a lot of energy<NS type="MP"><c>,</c></NS> however. But you can earn more. Furthermore, it's possible to work abroad during a holiday.</p>
+          <p>But if you don't like children and are not easy-going enough to work as a waiter you may <NS type="FV"><i>chose</i><c>choose</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> more <NS type="S"><i>pieceful</i><c>peaceful</c></NS> job of a typist at home. There are a lot of people not willing to type essays and reports themselves or just not having a computer. So, you can help them and earn <NS type="R"><NS type="S"><i>quiete</i><c>quite</c></NS> enough</NS>.</p>
+          <p>To sum up, there is no problem without a solution and if you are an active and broad-minded person, you will surely find a way to earn money even in <NS type="MD"><c>the</c></NS> Arctic.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

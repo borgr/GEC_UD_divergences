@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR786*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>17/06/00</p>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about the show "Over the Rainbow"<NS type="MP"><c>,</c></NS> which I saw at your theatre two weeks ago; as a matter of fact our evening turned out to be very disappointing.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I was really looking forward to the performance of the leading actor Danny Brook, but sadly he wasn't there, he was <NS type="RV"><i>filled in</i><c>replaced</c></NS> by a different actor, who was <NS type="UY"><i>instead</i></NS> rather disappointing.</p>
+          <p>Furthermore the show should have started at 19.30 but instead it began at 20:15<NS type="MP"><c>,</c></NS> which was really unpleasant.</p>
+          <p>At the ticket office I also asked for a discount but they told me this wasn't possible, <NS type="R"><i>instead</i><c>though</c></NS> your advertisement <NS type="W"><i>said clearly</i><c>clearly said</c></NS> there were discounts available!</p>
+          <p>At the end of the show I was so tired that I decided to eat something at your restaurant, but surprisingly it was closed due to some <NS type="RJ">unreasonable</NS> technical problems!</p>
+          <p>The <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="RV"><i>assured</i><c>promised</c></NS> us a perfect evening but it wasn't, so I would highly appreciate <NS type="MA"><c>it</c></NS> if you could <NS type="W"><i>refund completely</i><c>completely refund</c></NS> our tickets.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets: he always wanted to know everything about everybody and <NS type="RY"><i>after</i><c>afterwards</c></NS>, of course, he would give away all he knew, but one day he had some problems...</p>
+          <p>His best friend Paul couldn't put up anymore with Pat always revealing his secrets, so <NS type="MA"><c>he</c></NS> decided to play a trick on him. Since Paul ran a very popular hotel in London, he told Pat that on Sunday the superstar Madonna was supposed to be staying there with her new <NS type="S"><i>misterious</i><c>mysterious</c></NS> lover.</p>
+          <p>Paul told Pat not to tell anyone about Madonna and especially <NS type="R"><i>to</i><c>not</c></NS> the press. Pat obviously couldn't <NS type="RV"><i>help being</i><c>keep</c></NS> silent about this so, since he also needed some money, he decided to reveal everything to the <NS type="DJ"><i>scandalistic</i><c>scandal-mongering</c></NS> press, not knowing that Paul had made up <NS type="RJ"><i>all the</i><c>the whole</c></NS> story! On Sunday all the <NS type="RP"><i>english</i><c>English</c></NS> press <NS type="AGV"><i>was</i><c>were</c></NS> waiting for Madonna in front of Paul's hotel and when they discovered that it was all <NS type="FD"><i>an</i><c>a</c></NS> <NS type="RN"><i>invention</i><c>hoax</c></NS>, they got so angry that they wrote <NS type="RT"><i>on</i><c>in</c></NS> every newspaper that Pat had made up everything! Paul finally had his revenge!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

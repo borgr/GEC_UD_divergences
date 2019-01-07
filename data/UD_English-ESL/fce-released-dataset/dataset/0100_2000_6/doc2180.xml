@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR879*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am very glad to hear <NS type="W"><i>that I have won the first prize from you</i><c>from you that I have won the first prize</c></NS>. I appreciate all <NS type="UT"><i>about</i></NS> this.</p>
+          <p>I am writing to you about my information which you need. Firstly, I am afraid that I am <NS type="UY"><i>just</i></NS> available to travel only in July because it is difficult to get <NS type="U"><i>my own</i></NS> holiday from my work <NS type="R"><i>a</i><c>at</c></NS> the moment.</p>
+          <p>I prefer staying in tents to log cabins because I have really been interested in making tents and staying <NS type="MT"><c>in</c></NS> <NS type="RA"><i>there</i><c>them</c></NS>.</p>
+          <p>Finally, if I have any chance to choose activities, I will choose <NS type="RP"><i>Basket ball</i><c>basketball</c></NS> and Sailing with no doubt because I would love to make friends <NS type="RT"><i>from</i><c>through</c></NS> these kinds of sports. Both could be exciting for me.</p>
+          <p>I would like to know more about clothes and money. I have got <NS type="DQ"><i>not</i><c>no</c></NS> idea about them. I would be grateful if you could send me some information <NS type="RT"><i>of</i><c>about</c></NS> them.</p>
+          <p>I am looking forward to hearing from you in the near future.</p>
+          <p>Yours faithfully,</p>
+          <p>KANG OFF WOO</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I am happy to write a letter to you. What I really want to <NS type="RV"><i>say</i><c>tell you</c></NS> is about my recent experience.</p>
+          <p>Last month, I helped at a pop concert by chance. I have just <NS type="MV"><c>worked</c></NS> as a normal worker but I have met so many famous singers who I <NS type="RY"><i>ever</i><c>always</c></NS> <NS type="TV"><i>seen</i><c>see</c></NS> on TV. Of course, I could listen to all their music<NS type="MP"><c>,</c></NS> which <NS type="AGV"><i>were</i><c>was</c></NS> so cool. After the concert I had <NS type="UV"><i>got</i></NS> an opportunity to join them <NS type="RT"><i>to</i><c>at</c></NS> the party. The best thing was that I have learned how to <NS type="RV"><i>control</i><c>take care of</c></NS> their expensive instruments and I have sung my <NS type="SA"><i>favorite</i><c>favourite</c></NS> songs with them.</p>
+          <p><NS type="RY"><i>Especially</i><c>In particular</c></NS>, Mike<NS type="MP"><c>,</c></NS> who is a member of Metal Potato told me I <NS type="TV"><i>had</i><c>have</c></NS> got a talent <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to play</i><c>playing</c></NS> the electric guitar. It is impossible to explain all my experience without this word, "Brilliant!!!".</p>
+          <p>I would like to invite you to their next concert and share my experience with you. Please let me know <NS type="W"><i>if you want to come as soon as possible</i><c>as soon as possible if you want to come</c></NS>.</p>
+          <p>Best wishes,</p>
+          <p>KANG OFF WOO</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

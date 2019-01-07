@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1119*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> in order to complain about the musical show<NS type="MP"><c>,</c></NS> <NS type="MD"><c>the</c></NS> <NS type="AS"><i>which name is</i><c>name of which is</c></NS> Over the Rainbow<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> I <NS type="UV"><i>could</i></NS> <NS type="TV"><i>see</i><c>saw</c></NS> in your theatre recently.</p>
+          <p>I like <NS type="W"><i>very much this musical</i><c>this musical very much</c></NS> and while I was spending some days in London I <NS type="UV"><i>could</i></NS> <NS type="TV"><i>see</i><c>saw</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> advertisement so I decided to go to see it.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I had problems with tickets because I could not get the discounts that you mentioned in the advertisement. It was a <NS type="S"><i>pitty</i><c>pity</c></NS> but it did not <NS type="S"><i>annoye</i><c>annoy</c></NS> me because I thought that the musical was good enough to pay £ 20 <NS type="MT"><c>for</c></NS>.</p>
+          <p>So I entered <NS type="UT"><i>to</i></NS> the theatre to enjoy the musical but I do not know the reason why it started at a quarter past eight (three quarters <NS type="M"><c>of an hour</c></NS> <NS type="R"><i>delayed</i><c>late</c></NS>).</p>
+          <p>Then I got <NS type="RJ"><i>nervous</i><c>irritable</c></NS> and I thought that the organization was very bad because nobody explained <NS type="MT"><c>to</c></NS> us the reasons <NS type="MC"><c>why</c></NS> <NS type="M"><c>the show was late starting</c></NS>.</p>
+          <p>Finally, when the musical started I realized that Danny Brook, my favourite actor, was not there. In your advertisement his name was in <NS type="RJ"><i>main</i><c>big</c></NS> letters and in the musical <NS type="AS"><i>the actor was different</i><c>there was a different actor</c></NS>.</p>
+          <p>After the show I decided to go to <NS type="RV"><i>drink</i><c>have</c></NS> a coffee and to smoke a <NS type="S"><i>cigarrete</i><c>cigarette</c></NS> to try <NS type="FV"><i>calm</i><c>to calm</c></NS> myself and suddenly I could see that the restaurant was closed because it was the <NS type="W"><i><NS type="R"><i>free day</i><c>day off</c></NS> for the barman</i><c>barman's day off</c></NS>.</p>
+          <p>I am very <NS type="S"><i>indignatged</i><c>indignant</c></NS> because I wasted my time and it was a horrible evening so I would like you <NS type="FV"><i>return</i><c>to return</c></NS> my money and take <NS type="FN"><i>notes</i><c>note</c></NS> of all these problems. If you do not return my money I will send a letter to a lawyer.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>HOW HAS MODERN TECHNOLOGY CHANGED YOUR DAILY LIFE?</p>
+          <p>A long time ago technology wasn't an important <NS type="RN"><i>element</i><c>thing</c></NS> for people because they didn't appreciate it.</p>
+          <p>Change <NS type="AGV"><i>weren't</i><c>wasn't</c></NS> <NS type="R"><i>a normal situation</i><c>common</c></NS> and Governments didn't invest enough money <NS type="RT"><i>on</i><c>in</c></NS> it. Nowadays, technology is changing our life every day.</p>
+          <p>For instance, modern technology is changing the way I work. My computer is faster and it is able to do a lot of things <NS type="W"><i>on that I wasted a lot of time</i><c>that I wasted a lot of time on</c></NS> before.</p>
+          <p>Not only are <NS type="UD"><i>the</i></NS> computers useful for <NS type="RV"><i><NS type="FV"><i>keep</i><c>keeping</c></NS></i><c>storing</c></NS> information but also computers can give you a lot of information <NS type="R"><i>due</i><c>thanks</c></NS> to <NS type="MD"><c>the</c></NS> Internet.</p>
+          <p>On the other hand, I <NS type="TV"><i>realized</i><c>realise</c></NS> that modern technology <NS type="W"><i>not is</i><c>is not</c></NS> as good as people think: I hate mobiles. I know that some people need them to work but I can't understand why teenagers need <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p>To sum up, modern technology is changing my work, my life, and my friends.</p>
+          <p>Maybe it would be a nice idea to <NS type="S"><i>analize</i><c>analyse</c></NS> these changes and to put limits <NS type="RT"><i>to</i><c>on</c></NS> technology, because I think that the most important <NS type="MN"><c>thing</c></NS> is <NS type="MV"><c>to understand</c></NS> our life and <NS type="SX"><i>no</i><c>know</c></NS> the ways we <NS type="MV"><c>can</c></NS> improve it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

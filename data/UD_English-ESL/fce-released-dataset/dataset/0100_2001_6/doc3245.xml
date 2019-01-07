@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE83*0100*2001*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Maria Smith<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I got your letter this morning and I am very pleased to give you some information.</p>
+          <p><NS type="ID">As I know</NS>, he booked the Palace Hotel in <NS type="MD"><c>the</c></NS> downtown <NS type="MN"><c>area</c></NS>. When you go to the conference, you can take a bus or a taxi. But if you have enough time, I would like to recommend <NS type="FV"><i>to walk</i><c>walking</c></NS><NS type="RP"><i>. Because</i><c> because</c></NS> there are a lot of <NS type="S"><i>beatiful</i><c>beautiful</c></NS> trees and you can see the sea. And also it takes just fifteen minutes. I think everybody can enjoy it.</p>
+          <p>By the way<NS type="MP"><c>,</c></NS> the end-of-conference party is a kind of <NS type="S"><i>fairwell</i><c>farewell</c></NS> party. There will be three parts. The first part, the chairman and a few guests will <NS type="RV"><i>have</i><c>give</c></NS> a speech and the second part, the <NS type="S"><i>participacients</i><c>participants</c></NS> will evaluate themselves, and <NS type="UD"><i>the</i></NS> the last part <NS type="UA"><i>it</i></NS> will <NS type="RV"><i>provide</i><c>consist of</c></NS> dinner and drinks. It will <NS type="W"><i>be not</i><c>not be</c></NS> too formal <NS type="MD"><c>a</c></NS> party. So you can wear what you like.</p>
+          <p>Moreover, I would like to recommend <NS type="MD"><c>a</c></NS> 'City tour' for three hours. Everybody <NS type="R"><i>an</i><c>will</c></NS> enjoy themselves. It is £12 each and there is a reduction for groups.</p>
+          <p>I hope it will be a good tip for you and if you have any problem, you can contact <NS type="UT"><i>with</i></NS> me <NS type="RP"><i>any time</i><c>anytime</c></NS>. And have a nice time in my town and send my <NS type="FN"><i>regard</i><c>regards</c></NS> to Richard.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Nowadays there are a lot of inventions around the world, and they make us more comfortable and <NS type="M"><c>our lives more</c></NS> convenient. Moreover we <NS type="RP"><i>can not</i><c>cannot</c></NS> live without them. For example: electricity, <NS type="MD"><c>the</c></NS> computer, <NS type="S"><i>telephon</i><c>telephone</c></NS>, boat, and car (wheel), etc. None of them are unimportant for us.</p>
+          <p>But I think the invention of electricity is the most important thing among them. If you look around at home, there are a lot of electric things. Electricity <NS type="R"><i>could be</i><c>made us</c></NS> able to invent other things. It also gave us more free time, especially for women. It has <NS type="DY"><i>abosolutly</i><c>absolutely</c></NS> reduced women's <NS type="UD"><i>our</i></NS> <NS type="DN"><i>house working</i><c>housework</c></NS> time.</p>
+          <p><NS type="W"><i><NS type="RP"><i>Evenmore</i><c>Even more</c></NS> we can enjoy our night</i><c>We can enjoy our night even more</c></NS> with lights. If we want <NS type="FV"><i>do</i><c>to do</c></NS> something, we can do it at night <NS type="MD"><c>the</c></NS> same as <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> day.</p>
+          <p>Finally<NS type="MP"><c>,</c></NS> the quality of our life is changed by electricity. It could reduce our working time and make us <NS type="RJ">enjoyable</NS>. It is also advancing more and more. It will give us <NS type="MD"><c>a</c></NS> better future!</p>
+          <p>Have you ever imagined that you would drive <NS type="MD"><c>an</c></NS> electric car!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

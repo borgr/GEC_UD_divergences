@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR71*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan</p>
+          <p>Thank you for your letter<NS type="MP"><c>,</c></NS> which I have just received this morning. I am really <NS type="RJ"><i>appreciated</i><c>pleased</c></NS> to hear that I have won first prize in the competition - two weeks at Camp California in the U.S.A. I am writing this letter to <NS type="RV"><i>inform</i><c>give</c></NS> you more information about myself.</p>
+          <p>I would like to travel only in July because I will have a summer holiday for 2 months at that time. I would prefer <NS type="R"><i>the accommodation</i><c>to stay</c></NS> at Camp California in tents because it would be nice to spend the time living in tents with a nice environment and fresh air. Also I would like to do two activities while I am at the Camp<NS type="MP"><c>,</c></NS> which are swimming and photography. Photography is quite interesting for me<NS type="M"><c>; I like</c></NS> to take <NS type="UD"><i>a</i></NS> <NS type="FN"><i>photograph</i><c>photographs</c></NS> in <NS type="RD"><i>the</i><c>a</c></NS> place where I have never been to <NS type="MY"><c>before</c></NS>. Swimming is quite <NS type="MD"><c>a</c></NS> nice <NS type="RN"><i>activity</i><c>way</c></NS> to relax and work out. It is really enjoyable to keep my body fit and healthy by swimming.</p>
+          <p>Anyway, I would like to know <NS type="UC"><i>that</i></NS> how many people are <NS type="RV"><i>joining at</i><c>going to</c></NS> this Camp. Could you please tell me about the clothes I should take?</p>
+          <p>I am looking forward to hearing from you as soon as possible.</p>
+          <p>Yours sincerely</p>
+          <p>Boonsri Thanasukolwit.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>Thanks for your last letter. I'm really sorry<NS type="UP"><i>,</i></NS> it's taken me so long to reply. How are you doing? I hope that you can get on well with your roommate.</p>
+          <p>Anyway, I enjoyed helping at a pop concert last month. I and my friend <NS type="UP"><i>-</i></NS> Emma<NS type="UP"><i>,</i></NS> <NS type="UA"><i>we</i></NS> helped to paint the <NS type="S"><i>scence</i><c>scenery</c></NS> <NS type="U"><i>of the background</i></NS> on the stage. As you <NS type="TV"><i>known</i><c>know</c></NS>, I like drawing and painting when I have <NS type="CQ"><i>a</i><c>some</c></NS> free time so that <NS type="MV"><c>is</c></NS> why I chose to paint the <NS type="S"><i>scence</i><c>scenery</c></NS> <NS type="U"><i>of the background</i></NS>. I really enjoyed painting it and it looked very nice. And I particularly liked the experience <NS type="R"><i>that I</i><c>of</c></NS> <NS type="FV"><i>helped</i><c>helping</c></NS> to <NS type="RV">screen</NS> and paint a picture of "Bon Jovi" on every <NS type="AGN"><i>T-shirts</i><c>T-shirt</c></NS> which <NS type="AGV"><i>are</i><c>was</c></NS> given to the <NS type="FN"><i>audiences</i><c>audience</c></NS>. I felt that it was a great time in my life.</p>
+          <p>However, I told my teacher that I am willing to <NS type="ID"><i>give a hand</i><c>lend a hand</c></NS> next time. Are you willing to <NS type="ID"><i>give a hand</i><c>lend a hand</c></NS> next time? If you are, I'll tell you <NS type="M"><c>about it</c></NS> in advance. I must stop writing now as I have a lot of homework to do.</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR420*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to you because I have recently been <NS type="RT"><i>at</i><c>to</c></NS> your musical show at the Circle Theatre but I'm sorry to say that I had a very disappointing evening.</p>
+          <p>I was in London for a week's holiday and I decided to go to the theatre. I saw your musical show advertised in my hotel and I decided to buy a ticket. I am still a student and I saw in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> that there were some discounts available. I asked <NS type="RT"><i>for</i><c>about</c></NS> it but the answer I received was that there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any kind of <NS type="AGN"><i>discount</i><c>discounts</c></NS>. I arrived at the theatre at 19.00 and I thought I'd have waited only thirty minutes. I waited more than one hour because the show started at 20.15. But, at <NS type="RD"><i>the</i><c>that</c></NS> moment, I thought that these things can happen. When the musical show started I had the third bad surprise. The male actor wasn't Danny Brook but an actor that I've never seen before. At the end of the show I was very hungry and so I had the brilliant <NS type="MN"><c>idea</c></NS> to decide to go to the theatre restaurant but, of course, it was closed!</p>
+          <p>I think that if there had been only one or two problems I wouldn't have written to <NS type="RV"><i>reply</i><c>complain</c></NS> but there <NS type="TV"><i>had been</i><c>were</c></NS> only problems. I'd like not only to <NS type="RV"><i>reply</i><c>complain</c></NS> but also to have my money back because my evening wasn't "perfect" as you advertised but it was a big disaster.</p>
+          <p>I am looking forward to hearing <NS type="MT"><c>from</c></NS> you as soon as possible.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Every aspect of our daily life is influenced by technology. I'll give you some examples describing how technology affects my life every day.</p>
+          <p>The first thing I do every day, when I get up, is to prepare <NS type="MD"><c>a</c></NS> fantastic cappuccino with my <NS type="S"><i>coffe</i><c>coffee</c></NS> machine. Then I go to work by motorbike. The first thing I do when I arrive <NS type="RT"><i>in</i><c>at</c></NS> my office is to switch on my computer. <NS type="UT"><i>During all</i><c>All</c></NS> <NS type="UD"><i>the</i></NS> day I speak with the majority of my <NS type="S"><i>collegues</i><c>colleagues</c></NS> by telephone or e-mail. <NS type="RY"><i>Sometime</i><c>Sometimes</c></NS> I <NS type="RV"><i>stay</i><c>am</c></NS> alone all <NS type="UD"><i>the</i></NS> day but I have <NS type="FN"><i>contacts</i><c>contact</c></NS> with many people.</p>
+          <p>When I have to book a holiday, to buy a book or to <NS type="RV"><i>control</i><c>check</c></NS> my bank account <NS type="MA"><c>I</c></NS> use <NS type="MD"><c>the</c></NS> Internet and I do all these things, and many others, without moving from my office. When I finish <NS type="FV"><i>to work</i><c>working</c></NS> I come back home. If I haven't enough time to cook I prepare my meal using my fantastic microwave <NS type="S"><i>hoven</i><c>oven</c></NS>. If I'm too tired to go out with my friends I finish my day <NS type="RV"><i>looking</i><c>watching</c></NS> a programme on television. I know that it can appear a sad day but it's what a lot of people do every day in every part of the world.</p>
+          <p>To conclude, I think that technology has improved many aspects of our daily life. But it's also true that sometime we aren't able to <NS type="RV"><i>make</i><c>take</c></NS> a step without it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

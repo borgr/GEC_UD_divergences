@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR815*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>18.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>13 June. 2000</p>
+          <p>Dear Ryan,</p>
+          <p>I am so <NS type="RJ"><i>marvellous</i><c>amazed</c></NS> about winning the competition. I am <NS type="CE">answering what you would like to know some information from me</NS>.</p>
+          <p><NS type="RY"><i>At first</i><c>Firstly</c></NS>, I am able to travel only in July because I will <NS type="RV"><i>have</i><c>be</c></NS> on holiday in July, furthermore I have <NS type="FD"><i>a</i><c>an</c></NS> important exam in November. Secondly I would prefer to stay in <NS type="MD"><c>a</c></NS> tent as it will be natural life while I am at the Camp. Thirdly I <NS type="MV"><c>am</c></NS> keen on playing tennis and taking some <NS type="RN"><i>photography</i><c>photographs</c></NS>.</p>
+          <p>In spite of the fact that the <NS type="S"><i>weathe</i><c>weather</c></NS> is bad, I play tennis. I collect strange <NS type="RN"><i>photography</i><c>photographs</c></NS> by myself. Finally<NS type="MP"><c>,</c></NS> I am wondering <NS type="UA"><i>that</i></NS> how much money I need for myself and what kind of clothes I need.</p>
+          <p>I look forward to hearing from you as soon as possible.</p>
+          <p>Yours sincerely</p>
+          <p>Bae Ki Seul</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Title: Speaking activity</p>
+          <p>I like speaking activity while I am in the class. During that time I can talk <NS type="MT"><c>about</c></NS> some secret <NS type="W"><i>things or private</i><c>or private things</c></NS> with <NS type="UP"><i>class-mates</i><c>classmates</c></NS>. After that we know each other <NS type="RY"><i>more</i><c>better</c></NS> than before. In addition speaking activity <NS type="AGV"><i>include</i><c>includes</c></NS> everything <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to learn</i><c>learning</c></NS> English such as listening, speaking, <NS type="MC"><c>and</c></NS> <NS type="S"><i>grammer</i><c>grammar</c></NS> as well. <NS type="MT"><i>Other</i><c>In other</c></NS> <NS type="FN"><i>lesson</i><c>lessons</c></NS>, the teacher teaches lots of things which are <NS type="S"><i>grammer</i><c>grammar</c></NS>, English culture... etc. It might be good. However<NS type="MP"><c>,</c></NS> all <NS type="MD"><c>the</c></NS> students are passive. So it can be boring. <NS type="RP"><i>give</i><c>Give</c></NS> a topic and then <NS type="DV"><i>discussion</i><c>discuss</c></NS> <NS type="UT"><i>about</i></NS> it. I know <NS type="UA"><i>that</i></NS> what my friends think and like. <NS type="CE">It is real life who we are</NS>. Also the film must be funny. If a film is boring, nobody will <NS type="RV"><i>see</i><c>watch</c></NS> it. During speaking, there are lots of <NS type="MN"><c>things</c></NS> happening such as, some students can't understand what the other students say and their culture. Having fun and <NS type="RV"><i>knowing</i><c>acquiring</c></NS> new knowledge. It makes us laugh.</p>
+          <p>So I think that speaking activity should be filmed as you can see and know <NS type="MD"><c>the</c></NS> real us and <NS type="M"><c>it would be</c></NS> funny as well.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

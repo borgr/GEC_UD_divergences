@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR200*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Jane</i></NS> Clark,</p>
+          <p>I am writing with reference to the International Arts Festival <NS type="MA"><c>which</c></NS> I have recently been to and I would like to give you my opinions about it.</p>
+          <p>According to the title of the advertisement, which was a great idea, there <NS type="TV"><i>were</i><c>would be</c></NS> stars and artists from around the world<NS type="UP"><i>;</i></NS> but they were only from six countries.</p>
+          <p>In addition to this<NS type="MP"><c>,</c></NS> some concert halls were too small to host all the people who were there <NS type="SX"><i>fro</i><c>for</c></NS> the occasion and, personally speaking<NS type="MP"><c>,</c></NS> <NS type="M"><c>I think</c></NS> the show could be done <NS type="RT"><i>at</i><c>in</c></NS> the open air next year, so that <NS type="MD"><c>the</c></NS> music would also create a fantastic atmosphere all around.</p>
+          <p><NS type="MD"><i>Plays</i><c>The plays</c></NS> and films <NS type="RV"><i>had</i><c>were</c></NS> a great success and I would like to ask if there will be more next year because in my opinion people would appreciate it.</p>
+          <p>The other events I went to, dance shows, art exhibitions and <NS type="FN"><i>talk</i><c>talks</c></NS> by writers, were <NS type="MP"><i>well organised</i><c>well-organised</c></NS> and extremely interesting.</p>
+          <p>Furthermore the weekend ticket was reasonably-priced and this was <NS type="MD"><c>an</c></NS> excellent decision because it gave the opportunity to a lot of people, adults but also students, to take part <NS type="RT"><i>to</i><c>in</c></NS> the Festival.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear George,</p>
+          <p>I'm writing to answer your question about <NS type="MD"><c>the</c></NS> rules in my life, at school and at home.</p>
+          <p>As you may know, I attend a Liceo, which is the most <NS type="RJ">difficult</NS> kind of high school in Italy.</p>
+          <p>Our teachers are very <NS type="S"><i>strick</i><c>strict</c></NS>, we have to stand up as they come into class and wait until they say ôDo sit down!<NS type="RP"><i>,</i><c>"</c></NS><NS type="UP"><i>,</i></NS>. We can't talk during lessons and we only have a <NS type="MP"><i><NS type="SX"><i>en</i><c>ten</c></NS> <NS type="FN"><i>minutes</i><c>minute</c></NS></i><c>ten-minute</c></NS> break at 10.30 a.m. If we're late, we have to go to the principal and ask for his signature <NS type="M"></NS> to go to class.</p>
+          <p>It's hard to be extremely <NS type="SX"><i>quite</i><c>quiet</c></NS> for five hours but I reckon it's a good <NS type="RN"><i>way</i><c>method</c></NS> of education.</p>
+          <p><NS type="ID"><i>On the other side</i><c>On the other hand</c></NS>, I feel free at home. I help doing <NS type="MD"><c>the</c></NS> cleaning or the washing, but I do it because I want to, not because my parents make me do it.</p>
+          <p>I can go out and stay out late, I've got my car and my mobile, so that they can call me whenever they need to <NS type="RV"><i>hear</i><c>speak to</c></NS> me; but above all I know they trust me and consider <NS type="DA"><i>my</i><c>me</c></NS> an adult.</p>
+          <p><NS type="S"><i>Therefor</i><c>Therefore</c></NS> I wouldn't change anything in my home life <NS type="UC"><i>and</i></NS> <NS type="RC"><i>neither</i><c>or</c></NS> in my school life.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Best wishes<NS type="RP"><i>.</i><c>,</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

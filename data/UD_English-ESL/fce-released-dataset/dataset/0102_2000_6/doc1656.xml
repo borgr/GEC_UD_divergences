@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR91*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I write you this letter to complain about your musical show. First of all, the show began three quarters of an hour late: it started at quarter past eight instead of half past seven, <NS type="RA"><i>what</i><c>which</c></NS> of course was very <NS type="R"><i>bothering</i><c>annoying</c></NS>.</p>
+          <p>I went to your show to see Mr. Danny Brook, who was supposed to play the main character, but he didn't <NS type="FV"><i>appeared</i><c>appear</c></NS>. He had been replaced by a really bad actor, <NS type="MT"><c>of</c></NS> whom I don't even know the name. I was very <NS type="DJ"><i>disappoint</i><c>disappointed</c></NS> <NS type="RT"><i>of</i><c>with</c></NS> that change, because Mr. Brook is one of my favourite <NS type="AGN"><i>actor</i><c>actors</c></NS>.</p>
+          <p>There were supposed to be discounts for the tickets, <NS type="RA"><i>what</i><c>which</c></NS> appeared to be wrong <NS type="SX"><i>to</i><c>too</c></NS>. I had to pay the full <NS type="RN"><i>prize</i><c>price</c></NS> for them, which was quite <NS type="S"><i>expencive</i><c>expensive</c></NS>.</p>
+          <p>My wife and I had decided to eat at the theatre restaurant after the play. It turned <NS type="MY"><c>out</c></NS> to be impossible: the restaurant was closed and we didn't even <NS type="FV"><i>received</i><c>receive</c></NS> an <NS type="S"><i>explaination</i><c>explanation</c></NS> <NS type="UC"><i><NS type="S"><i>therefor</i><c>therefore</c></NS></i></NS>.</p>
+          <p>I had a really bad evening and would like to ask you for my money back.</p>
+          <p>Waiting for your reply</p>
+          <p>Yours faithfully</p>
+          <p>Pierre Gaussier</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>In my opinion modern technology has changed my life a lot. First <NS type="RT"><i>off</i><c>of</c></NS> all, if computers <NS type="S"><i>haden't</i><c>hadn't</c></NS> been invented, I wouldn't spend half of the day in front of <NS type="RA"><i>it</i><c>one</c></NS>! I use my computer for many things, such as <NS type="CN"><i>homeworks</i><c>homework</c></NS>, games, digital video or <NS type="MD"><c>the</c></NS> Internet.</p>
+          <p>The <NS type="S"><i>developpement</i><c>development</c></NS> of portable communication systems, such as mobile phones<NS type="MP"><c>,</c></NS> has greatly changed our way of life. It is now possible to talk to a friend almost everywhere and <NS type="DY"><i>everywhen</i><c>anytime</c></NS>, even if we are two thousand <NS type="SA"><i>kilometers</i><c>kilometres</c></NS> away from each other.</p>
+          <p>Precision industry has changed my life a lot too. I <NS type="RV"><i><NS type="DV"><i>practicate</i><c>practise</c></NS></i><c>go</c></NS> Scuba Diving during the <NS type="UP"><i>week-ends</i><c>weekends</c></NS> and <NS type="S"><i>hollydays</i><c>holidays</c></NS>. That wouldn't have been possible a century ago, because all our <NS type="RN"><i>material</i><c>equipment</c></NS>, such as <NS type="RN"><i>dive</i><c>diving</c></NS> computers, tanks or regulators<NS type="MP"><c>,</c></NS> didn't <NS type="TV"><i>existed</i><c>exist</c></NS> at that time.</p>
+          <p>I think that we live easier now (thanks to modern medicine) and that our lives will get easier with <NS type="UD"><i>the</i></NS> time.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

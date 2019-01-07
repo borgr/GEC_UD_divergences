@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR534*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>&lt;16</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>I am the person who won your competition and I am writing in reply to your letter.</p>
+          <p>First of all, I can travel only in <NS type="RP"><i>july</i><c>July</c></NS> because that is the only time when I am free from my examinations.</p>
+          <p>I prefer staying in a tent as I am used to it and find it more comfortable.</p>
+          <p>The two activities I would like to do in the camp are swimming and photography. I am a good swimmer and I <NS type="TV"><i>had</i><c>have</c></NS> some <NS type="S"><i>expirience</i><c>experience</c></NS> in photography<NS type="MP"><i> however</i><c>. However</c></NS><NS type="MP"><c>,</c></NS> I have <NS type="RQ"><i>very much</i><c>a lot</c></NS> to learn.</p>
+          <p>Finally, I have got two questions to ask you. How much money and <NS type="M"><c>how many</c></NS> clothes should I take with me?</p>
+          <p>I am very grateful for your prize and looking forward to visiting the camp.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>I think that bits from the whole school day should be filmed. This will show how the school lives.</p>
+          <p>In the morning prefects make sure that everybody is awake and <NS type="UY"><i>already</i></NS> up. At the assembly students are told about changes in the timetable and activities for the whole day.</p>
+          <p>In the computing department <NS type="AGN"><i>student</i><c>students</c></NS> learn about <NS type="DN"><i>informational</i><c>information</c></NS> technologies. The main job of the head of the computing department is not to teach but to keep the computers working properly.</p>
+          <p>Maths is the most popular subject in the school. Mathematics teachers do <NS type="MD"><c>a</c></NS> great deal of work and have almost no time to prepare lessons.</p>
+          <p>In the chemistry lab experiments are often set up. The teacher looks after the <NS type="AGN"><i>pupil</i><c>pupils</c></NS> while they are investigating the topic of the lesson.</p>
+          <p>Meals are very important. <NS type="MD"><i>Kitchen</i><c>The kitchen</c></NS> staff works hard to provide students with <NS type="MD"><c>a</c></NS> variety of food.</p>
+          <p>The video can <NS type="FV"><i>be finished</i><c>finish</c></NS> with a view of the school from outside.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE47*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>19.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Maria</i></NS> Smith</p>
+          <p>With reference to your letter which I <NS type="S"><i>recived</i><c>received</c></NS> yesterday, I would like to give you some details about <NS type="RP"><i>The</i><c>the</c></NS> international student conference, also the <NS type="S"><i>acomodation</i><c>accommodation</c></NS> and activities that are <NS type="IV"><i>planed</i><c>planned</c></NS> during this week.</p>
+          <p>The <NS type="RP"><i>Hotel</i><c>hotel</c></NS> that is booked for the students <NS type="UA"><i>it</i></NS> is one of the <NS type="SX"><i>beast</i><c>best</c></NS> in the area, it has <NS type="L"><i>great</i><c>very good</c></NS> facilities and it is situated near to the place where the conference is going to be. The best way to get there from <NS type="RP"><i>The</i><c>the</c></NS> hotel is by bus and it is already booked for <NS type="R"><i>the next day</i><c>the day after</c></NS> you arrive, at 8:30 am.</p>
+          <p>About the party which is just at the end of the conference, <NS type="CE">a good it would be</NS> a dance party and the students don't really need to wear special clothes, it's just to have a little dance and meet all the students<NS type="RP"><i>, after</i><c>. After</c></NS> the party<NS type="MP"><c>,</c></NS> there is a small trip to the old part of the city and I think it would be a good choice <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to spend</i><c>spending</c></NS> the last three hours that you have left before <NS type="FV"><i>go</i><c>going</c></NS> back.</p>
+          <p>I hope this letter <NS type="AGV"><i><NS type="S"><i>aswer</i><c>answer</c></NS></i><c>answers</c></NS> all your questions, if you <NS type="S"><i>whant</i><c>want</c></NS> to know more about it just give me a call or send me a letter.</p>
+          <p><NS type="RP"><i><NS type="DA"><i>your</i><c>yours</c></NS></i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>The aim of this report is to give some information about <NS type="RP"><i>The</i><c>the</c></NS> new Acapulco <NS type="S"><i>resart</i><c>resort</c></NS> buildings which <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="TV"><i>build</i><c>built</c></NS> 10 years ago<NS type="MP"><i> <NS type="UC"><i>and</i></NS> <NS type="AG"><i>it is one</i><c>they are some</c></NS></i><c>. They are some</c></NS> of the first buildings that <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="TV"><i>build</i><c>built</c></NS> with the latest <NS type="S"><i>tecnonology</i><c>technology</c></NS> and <NS type="RV"><i>made</i><c>designed</c></NS> by <NS type="FD"><i>a</i><c>an</c></NS> important Mexican <NS type="DN"><i>arquitector</i><c>architect</c></NS>.</p>
+          <p>In addition<NS type="MP"><c>,</c></NS> the resort has an interesting <NS type="DJ"><i><NS type="RP"><i>History</i><c>history</c></NS></i><c>historical</c></NS> background <NS type="RT"><i>about</i><c>concerning</c></NS> <NS type="MD"><c>the</c></NS> <NS type="DN"><i>arquitectory</i><c>architecture</c></NS> and the best facilities and activities that you could have in Mexico<NS type="MP"><c>,</c></NS> for example, it provides <NS type="IJ"><i>differents</i><c>different</c></NS> kinds of tours around Mexico. <NS type="ID"><i>On the contrary</i><c>On the other hand</c></NS> it is far away from the city and it has <NS type="RJ">difficult</NS> transport facilities.</p>
+          <p>In spite of the disadvantages, I would strongly <NS type="FV"><i><NS type="S"><i>recomended</i><c>recommended</c></NS></i><c>recommend</c></NS> <NS type="UT"><i>to</i></NS> students and <NS type="MD"><c>the</c></NS> public to visit the new Acapulco resort buildings<NS type="UP"><i>.</i></NS> and have a great experience <NS type="RV"><i>knowing</i><c>learning</c></NS> about <NS type="MD"><c>the</c></NS> <NS type="MP"><i>buildings</i><c>buildings'</c></NS> history and at the same time <NS type="IV"><i>traveling</i><c>travelling</c></NS> around Mexico.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

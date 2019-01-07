@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR578*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>&lt;16</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RN"><i>Mr/Mrs</i><c>Sir/Madam</c></NS>,</p>
+          <p><NS type="TV"><i>I've <NS type="RV"><i>seen</i><c>attended</c></NS></i><c>I attended</c></NS> your festival and I would like to give you my suggestions <NS type="RT"><i>to</i><c>for</c></NS> it. I must say that <NS type="MD"><c>the</c></NS> International Arts Festival is really <NS type="MD"><c>a</c></NS> great idea. And your last festival was very <NS type="S"><i>intresting</i><c>interesting</c></NS> too.</p>
+          <p>But also there are some <NS type="RV">notes</NS> that you should improve in <NS type="UD"><i>the</i></NS> next year's festival to make it <NS type="DY"><i>absolutelly</i><c>absolutely</c></NS> wonderful. First of all, you must invite artists and stars from more countries around the world, because there <NS type="TV"><i>are</i><c>were</c></NS> people only from six countries. I think it can make your festival more popular.</p>
+          <p>Jazz, rock and classical concerts are amazing, but I think that some concert halls are too small, so not everybody can come.</p>
+          <p>Your dance shows are very beautiful, <NS type="MD"><c>the</c></NS> art <NS type="FN"><i>exhibitions</i><c>exhibition</c></NS> is something original and exciting. And also it is very interesting to talk with writers.</p>
+          <p>I think that one reasonably-priced weekend <NS type="MN"><c>ticket</c></NS> for all events is <NS type="MD"><c>an</c></NS> <NS type="S"><i>exellent</i><c>excellent</c></NS> idea because it isn't so <NS type="RP"><i>Expensive</i><c>expensive</c></NS> as buying <NS type="MD"><c>a</c></NS> ticket <NS type="RT"><i>to</i><c>for</c></NS> each event, and with this ticket you can visit everything you want. I hope you will continue <NS type="UT"><i>to</i></NS> <NS type="RV"><i>making</i><c>holding</c></NS> your festivals.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Tom,</p>
+          <p>How are you? Thank you for your last letter. It was very interesting. The question you asked me in it is very original too.</p>
+          <p>I must say that <NS type="MD"><c>the</c></NS> rules aren't <NS type="MD"><c>the</c></NS> same in <NS type="MD"><c>the</c></NS> schools of our country. Every school has <NS type="UP"><i>it's</i><c>its</c></NS> own rules. I think that my school is very democratic and so there are very good relations between teachers and students. We are all very friendly in our class and we help <NS type="UT"><i>to</i></NS> each other when we have a problem. So the main rule in our school is <NS type="RV">regarding</NS> <NS type="S"><i>theachers</i><c>teachers</c></NS>.</p>
+          <p>I'm allowed to do many things at home. My parents are very kind, and they know that their son will do everything right. And the main reason <NS type="RP"><i>Why</i><c>why</c></NS> our family is so friendly<NS type="UP"><i>,</i></NS> <NS type="UA"><i>it's</i><c>is</c></NS> because we haven't <NS type="RV"><i>go</i><c>got</c></NS> many rules. So, I think there isn't <NS type="RA"><i>something</i><c>anything</c></NS> I'd like to change.</p>
+          <p>I hope everything is good in your family and your school.</p>
+          <p>Take care,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

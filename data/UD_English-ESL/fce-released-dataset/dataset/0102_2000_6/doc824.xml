@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR330*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>17th June, 2000</p>
+          <p>Dear Sir/Madam:</p>
+          <p>Or <NS type="ID"><i>to whom it main concern</i><c>to whom it may concern</c></NS>:</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you because I had a very disappointing evening at the Circle Theatre.</p>
+          <p>Well <NS type="RA"><i>I</i><c>it</c></NS> seems to me that you should know what <NS type="TV"><i>had happened</i><c>happened</c></NS> there.</p>
+          <p>First of all, I read your advertisement where it was written that the <NS type="UN"><i>musical</i></NS> show started at 19.30, but do you know <NS type="UT"><i>at</i></NS> what <NS type="RN"><i>hour</i><c>time</c></NS> it started? It started at 20:15! Don't you think <NS type="RA"><i>it</i><c>that</c></NS> <NS type="RV"><i>is</i><c>shows</c></NS> a lack of respect? Really it <NS type="RV"><i>was</i><c>does</c></NS>.</p>
+          <p>I forgot to tell you that there were no <NS type="W"><i>available discounts</i><c>discounts available</c></NS>. And <NS type="MD"><c>the</c></NS> tickets were too expensive! Most people couldn't afford them.</p>
+          <p><NS type="ID"><i>As a matter of fact</i><c>And another thing</c></NS>, when the <NS type="UN"><i>musical</i></NS> show was over, I was really hungry. But as I had read your advertisement I knew there was a restaurant. So I went there in order to have something to eat. But can you believed it<NS type="RP"><i>, it</i><c>? It</c></NS> was closed. <NS type="RY"><i>Absolutely</i><c>Completely</c></NS> closed. So I asked someone who seemed to be in charge, and he told me that it was too late to have a meal. This really <NS type="TV"><i>disappoint</i><c>disappointed</c></NS> me. I was both hungry and angry.</p>
+          <p>Well I think that is all, but I will ask you to give <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>Looking forward <NS type="MT"><c>to</c></NS> hearing from you.</p>
+          <p>yours Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Secrets</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Maybe this is how my story begins.</p>
+          <p>Well first of all<NS type="MP"><c>,</c></NS> Pat was a very <NS type="MJ"><c>good</c></NS> friend of mine. He was really a good friend, until something <NS type="TV"><i>had happened</i><c>happened</c></NS>.</p>
+          <p>I was attending college, as I normally do. With nothing to lose, at all, but on the contrary, with a lot to learn <NS type="UT"><i>from</i></NS>.</p>
+          <p>I was very keen on English lessons, maybe because I was sitting near the Boy I <NS type="TV"><i>loves</i><c>loved</c></NS>. Yes, I think this was the only reason. His name was Cody. He was a very handsome and <NS type="MP"><i>good looking</i><c>good-looking</c></NS> boy. But <NS type="ID"><i>far from that</i><c>more than that</c></NS>, he was a very kind person.</p>
+          <p>Pat told me that he was also in love with me. He told me that it was <NS type="S"><i>nessary</i><c>necessary</c></NS> to do something about <NS type="MA"><c>it</c></NS>. But I didn't know what to do.</p>
+          <p>Pat suggested <NS type="RA"><i>me</i><c>I</c></NS> <NS type="FV"><i>to talk</i><c>talk</c></NS> to him. But I really didn't <NS type="FV"><i>managed</i><c>manage</c></NS> to do so.</p>
+          <p>As Pat was <NS type="IV"><i>lossing</i><c>losing</c></NS> his patience, he decided to talk to him. I can say that I was very <NS type="S"><i>nervious</i><c>nervous</c></NS> <NS type="RC"><i>or</i><c>and</c></NS> anxious about what was going to happen. He didn't <NS type="TV"><i>kept</i><c>keep</c></NS> my secret.</p>
+          <p>Pat told him that I was in love with him. This was my secret and now it was not. But <NS type="MY"><c>even</c></NS> so, I think it was for the best, he was also in love with me.</p>
+          <p>But on the other hand I will never trust <NS type="UT"><i>in</i></NS> Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

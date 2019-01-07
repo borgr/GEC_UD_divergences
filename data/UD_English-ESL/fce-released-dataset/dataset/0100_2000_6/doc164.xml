@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR646*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="R"><i>Misses</i><c>Mrs</c></NS> RYAN</p>
+          <p>I am writing to inquire whether <NS type="RA"><i>there</i><c>it</c></NS> is possible to have more details about travel and to give my preferences <NS type="RT"><i>about</i><c>regarding</c></NS> travel. Indeed I would rather <NS type="FV"><i>to travel</i><c>travel</c></NS> only <NS type="RT"><i>on</i><c>in</c></NS> July since I'm going to work in <NS type="RP"><i>august</i><c>August</c></NS> in order to earn money to pay <NS type="MT"><c>for</c></NS> my studies next year.</p>
+          <p>Moreover I would prefer <NS type="R"><i>being accommodate</i><c>to stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I can't put up with mosquitos and other insects which <NS type="UV"><i>risk</i></NS> <NS type="FV"><i>coming</i><c>come</c></NS> into tents.</p>
+          <p><NS type="UT"><i>Besides</i></NS> I've chosen two activities from the list: <NS type="RP"><i>Tennis</i><c>tennis</c></NS> <NS type="MP"><c>(</c></NS>as I <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> this sport regularly and I'm very good <NS type="RT"><i>in</i><c>at</c></NS> this activity<NS type="MP"><c>)</c></NS> and <NS type="RP"><i>Golf</i><c>golf</c></NS> because I <NS type="RV"><i>ignore</i><c>don't know</c></NS> <NS type="RA"><i>all</i><c>anything</c></NS> about this sport and I wish <NS type="UA"><i>I</i></NS> <NS type="UV"><i>will</i></NS> <NS type="R"><i>discover</i><c>to find out about</c></NS> it <NS type="U"><i>thanks to you</i></NS>.</p>
+          <p><NS type="U"><i>On the other hand,</i></NS> I would <NS type="RV"><i>obtain</i><c>like</c></NS> some details about the kind of clothes that I should <NS type="RV"><i>carry</i><c>take</c></NS> with me and how much money to take<NS type="MP"><c>.</c></NS></p>
+          <p><NS type="UA"><i>You don't</i><c>Don't</c></NS> hesitate to contact me in order to have further information.</p>
+          <p>I hope <NS type="R"><i>quickly hearing from you</i><c>to hear from you soon</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear readers</p>
+          <p>As you <NS type="TV"><i>have already know</i><c>already know</c></NS>, your English class is going to make a short video about daily life at your school<NS type="RP"><i>, that's</i><c>.  That's</c></NS> why I'm writing a report suggesting which<NS type="UP"><i>,</i></NS> lessons and other activities<NS type="UP"><i>,</i></NS> should be filmed.</p>
+          <p>First of all, <NS type="RA"><i>he</i><c>it</c></NS> seems obvious that we should, at least once, film a lesson with our English teacher who <NS type="TV"><i>have had</i><c>had</c></NS> the idea to make this short video.</p>
+          <p><NS type="RT"><i>Besides</i><c>Also</c></NS> I would suggest filming <NS type="UD"><i>a</i></NS> lunch <NS type="RT"><i>to</i><c>in</c></NS> the restaurant at twelve o'clock in order that people are aware of the high level of <NS type="FN"><i>noises</i><c>noise</c></NS> inside the restaurant because of <NS type="MD"><c>the</c></NS> <NS type="RN"><i>babbles</i><c>babbling</c></NS>.</p>
+          <p>At the end, <NS type="ID"><i>to my opinion</i><c>in my opinion</c></NS>, <NS type="RP"><i>It</i><c>it</c></NS> would be interesting to film a <NS type="W"><i><NS type="RN"><i>course</i><c>lesson</c></NS> of sport</i><c>sports lesson</c></NS> in order that our parents realise that we improve our <NS type="RP"><i><NS type="IN"><i>body's</i><c>bodies</c></NS></i><c>bodies'</c></NS> abilities, and not only our <NS type="R"><i>brain's</i><c>mental</c></NS> abilities at school.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

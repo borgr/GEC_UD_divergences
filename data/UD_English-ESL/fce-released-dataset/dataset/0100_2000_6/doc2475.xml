@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR998*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> Mrs Ryan</p>
+          <p>When I received your letter, I was very surprised and happy because I don't remember <NS type="U"><i>that I</i></NS> <NS type="FV"><i><NS type="RV"><i>did</i><c>entered</c></NS></i><c>entering</c></NS> this competition.</p>
+          <p>First I can travel only in July because<NS type="UP"><i>,</i></NS> I will finish school at the end of June and I will <NS type="RV"><i>pass</i><c>sit</c></NS> my exam in <NS type="S"><i>Septemeber</i><c>September</c></NS>; so I have to <NS type="RV"><i>repeat</i><c>revise</c></NS> <NS type="MT"><c>for</c></NS> it a lot during the month of August.</p>
+          <p>To answer your second question, I choose <NS type="R"><i>the <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>to sleep</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I like to sleep outside.</p>
+          <p>For the activities, I choose the <NS type="RP"><i>Golf</i><c>golf</c></NS> and the <NS type="RP"><i>Surfing</i><c>surfing</c></NS> (<NS type="RA"><i>that</i><c>it</c></NS> wasn't easy to decide which activities I will do, <NS type="SX"><i>cause</i><c>because</c></NS> almost <NS type="MQ"><c>every</c></NS> choice interested me)<NS type="MP"><c>.</c></NS></p>
+          <p>I <NS type="TV"><i>tried</i><c>have tried</c></NS> <NS type="UD"><i>the</i></NS> golf twice<NS type="RP"><i>,</i><c>. </c></NS> I'm really bad but I hope to <NS type="RV"><i>do</i><c>make</c></NS> much progress <NS type="MY"><c>quickly</c></NS>.</p>
+          <p>I <NS type="TV"><i><NS type="RV"><i>never did</i><c>never tried</c></NS></i><c>have never tried</c></NS> surfing, but every time I see surfing on television I find <NS type="RA"><i>this</i><c>it</c></NS> <NS type="RJ"><i>magic</i><c>magical</c></NS>.</p>
+          <p>I have just two questions.</p>
+          <p>Can I wash any clothes there?</p>
+          <p>How <NS type="CQ"><i>many</i><c>much</c></NS> money will I have to take with me?</p>
+          <p>Please phone me to answer my two questions.</p>
+          <p>Thanks for <NS type="RA"><i>all</i><c>everything</c></NS></p>
+          <p>Mar</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Hello Kim</p>
+          <p>I'm sorry I can only write now because last week I <NS type="TV"><i>have</i><c>had</c></NS> too much work.</p>
+          <p>As you asked me I will tell you about the pop concert <NS type="UT"><i>of</i></NS> last month.</p>
+          <p>With my friend Miko <NS type="RA"><i>we</i><c>I</c></NS> looked for <NS type="W"><i>a little job <NS type="U"><i>during a</i></NS> <NS type="UP"><i>week-end</i><c>weekend</c></NS></i><c>a little weekend job</c></NS> and one evening we met a guy who wanted to <NS type="RV"><i>buy</i><c>sell</c></NS> <NS type="UQ"><i>some</i></NS> drinks <NS type="RT"><i>in</i><c>at</c></NS> the pop concert and so we told him that we <NS type="TV"><i>were agree</i><c>agreed</c></NS> to help him at the bar.</p>
+          <p>It was a wonderful <NS type="UP"><i>week-end</i><c>weekend</c></NS>: we were opposite <NS type="UT"><i>to</i></NS> the singers and we <NS type="TV"><i>have seen</i><c>saw</c></NS> every concert without buying any tickets <NS type="UN"><i>entry</i></NS>! (<NS type="RP"><i>we</i><c>We</c></NS> were <NS type="RV"><i>include</i><c>part</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> the staff of the concert<NS type="MP"><c>.</c></NS>)</p>
+          <p>At the end we <NS type="TV"><i>have</i><c>had</c></NS> 1200<NS type="UP"><i>. -</i></NS> <NS type="RT"><i>of</i><c>in</c></NS> <NS type="RN"><i>benefice</i><c>profit</c></NS> and each <NS type="MT"><c>of</c></NS> us <NS type="TV"><i>take</i><c>took</c></NS> 400<NS type="UP"><i>. -</i></NS> for himself</p>
+          <p>I <NS type="DY"><i>particulary</i><c>particularly</c></NS> <NS type="TV"><i>like</i><c>liked</c></NS> seeing all <NS type="AGD"><i>this</i><c>those</c></NS> people, and I <NS type="TV"><i>meet</i><c>met</c></NS> a lot of new <NS type="AGN"><i>friend</i><c>friends</c></NS> there.</p>
+          <p>For next year we <NS type="TV"><i>search</i><c>are searching</c></NS> for a new barwoman.</p>
+          <p>Write to me soon and tell me if you want to join us for 2001.</p>
+          <p>Love Mar</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

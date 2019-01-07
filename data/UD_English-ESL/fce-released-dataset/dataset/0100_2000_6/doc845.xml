@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR342*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to ask for some queries about your letter which I have received.</p>
+          <p>Firstly, I would like to travel <NS type="MT"><c>to</c></NS> Camp California on Monday, 6th July, because my school's holiday will begin at the end of June. Otherwise I will not be able to join that camp.</p>
+          <p>Secondly, could you make an arrangement for me to stay in a log cabin, because it seems that living in log cabins is more exciting than in tents. Also I would prefer to go swimming and surfing, because I used to be an assistant in a Korean national pool<NS type="MP"><c>,</c></NS> so <NS type="UC"><i>that</i></NS> I am good at swimming. However, I have never tried <NS type="UV"><i>to go</i></NS> surfing. That is why I would like to do that.</p>
+          <p>Finally, could you tell me if I have to bring some clothes, towels and extra money? I would <NS type="TV"><i>be appreciated</i><c>appreciate</c></NS> it if you <NS type="TV"><i>supply</i><c>supplied</c></NS> some <NS type="RN"><i>towers</i><c>towels</c></NS>, if possible.</p>
+          <p>Thanks for your attention.</p>
+          <p>I really look forward to receiving your reply soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>It seems ages since I wrote to you. How have you been? How's your new flat? When I received your letter with photographs of that flat, it really looked nice. Anyway, I'll tell you about my wonderful experience which I enjoyed at a pop concert.</p>
+          <p>It took place in <NS type="RD"><i>a</i><c>the</c></NS> Korea national center which <NS type="TV"><i>was</i><c>is</c></NS> the biggest building in Korea. There were a lot of people, I guess over 50,000, who wanted to see famous singers and listen to their songs.</p>
+          <p>I helped to guide <NS type="S"><i>foreginers</i><c>foreigners</c></NS> who would like to <NS type="UV"><i>take</i></NS> <NS type="FV"><i>participated</i><c>participate</c></NS> in that. You know, I have studied English for two years in England. That's why I could attend <NS type="UT"><i>to</i></NS> that concert as a volunteer, because they needed people who could speak English very well.</p>
+          <p>What I really enjoyed was meeting famous World singers such as Madona, Bon Jovi, Ena and so on. I got Madona's <NS type="RN"><i>signature</i><c>autograph</c></NS>! Can you believe it? I'll show you that and some pictures.</p>
+          <p>I really hope to see you soon.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

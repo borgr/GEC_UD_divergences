@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR244*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>17/06/2000</p>
+          <p>Mr Smith,</p>
+          <p>I write <NS type="MT"><c>to</c></NS> you because last <NS type="RP"><i>friday</i><c>Friday</c></NS> I had a very disappointing evening <NS type="RT"><i>in</i><c>at</c></NS> your theatre. I went there because I had read a <NS type="RN">banner</NS> about the musical show "Over the rainbow", but <NS type="RQ"><i>many</i><c>a lot of</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> wrong.</p>
+          <p>Last week I was in London with my friends and we decided to go to the theatre to see <NS type="UY"><i>how</i></NS> the famous Danny Brook act.</p>
+          <p>But when we arrived at 2.00 pm to see the <NS type="W"><i>show of 2.30 p.m.</i><c>2.30 pm show</c></NS>, we couldn't enter <NS type="UT"><i>in</i></NS> the theatre because the discounts weren't available. So we returned in the evening and we waited 45 minutes <NS type="RT"><i>until</i><c>for</c></NS> the beginning of the show! <NS type="RY"><i>No</i><c>Not</c></NS> only <NS type="MA"><c>that</c></NS>: we had the bad surprise that Brook had been <NS type="RV"><i><NS type="S"><i>substituded</i><c>substituted</c></NS></i><c>replaced</c></NS> by another actor!</p>
+          <p>I ask you if <NS type="W"><i>is it</i><c>it is</c></NS> possible to have my money back, please, because I want to <NS type="TV"><i>forgot</i><c>forget</c></NS> that expense. Thank you.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Modern technology can't not <NS type="S"><i>transforme</i><c>transform</c></NS> our daily life.</p>
+          <p>The inventions of the <NS type="SA"><i>airplane</i><c>aeroplane</c></NS>, of the train and of the car, have reduced the distances of the world, so we can go to the other side of the world in half a day. It means that daily life is faster and busier because I'm able to go to school in the morning and then to play soccer in the afternoon, and <NS type="RT"><i>after</i><c>in</c></NS> <NS type="MD"><c>a</c></NS> few minutes I can <NS type="RV"><i>stay</i><c>be</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the other side of Lecce to play piano with my <NS type="UJ"><i>musical</i></NS> band, then I can go back home when I want, listening <NS type="MT"><c>to</c></NS> the <NS type="RN"><i>notices</i><c>news</c></NS> about what <NS type="TV"><i>happens</i><c>has happened</c></NS> around the world <NS type="RT"><i>with</i><c>on</c></NS> <NS type="W"><i>the radio of my car</i><c>my car radio</c></NS>. So I have <NS type="R"><i>must</i><c>many</c></NS> more <NS type="IJ"><i>interestings</i><c>interesting</c></NS> things to do in my life.</p>
+          <p>But the most important innovation <NS type="RT"><i>of</i><c>in</c></NS> <NS type="DJ"><i>technology</i><c>technological</c></NS> development is the computer. <NS type="RT"><i>In</i><c>At</c></NS> <NS type="RP"><i>everytime</i><c>every time</c></NS> of the day I can communicate with people of all <NS type="AGN"><i>nationality</i><c>nationalities</c></NS> of the world, I can <NS type="RV"><i>have</i><c>get</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> about everything, I can buy something which I can't find in the shops <NS type="RT"><i>of</i><c>in</c></NS> my town, so I can do anything just <NS type="MT"><c>by</c></NS> clicking on the mouse!</p>
+          <p>Sadly, there is also a negative aspect. Sometimes, <NS type="MD"><c>the</c></NS> computer <NS type="RV"><i><NS type="S"><i>substitudes</i><c>substitutes</c></NS></i><c>replaces</c></NS> real relationships between people. In fact, many boys <NS type="RV"><i>pass</i><c>spend</c></NS> several hours in front of their computer and <NS type="UD"><i>the</i></NS> <NS type="RV"><i>forgive</i><c>forget</c></NS> that out of their houses there are their friends....</p>
+          <p>In conclusion, I think that modern technology <NS type="RV"><i><NS type="AGV"><i>get</i><c>gets</c></NS></i><c>makes</c></NS> my life more interesting, but I prefer to <NS type="RV"><i>stay</i><c>be</c></NS> with my friends and with my girlfriend <NS type="SX"><i>then</i><c>than</c></NS> in front of a computer!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

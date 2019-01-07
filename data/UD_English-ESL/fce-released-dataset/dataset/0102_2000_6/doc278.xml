@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1131*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about the musical 'OVER THE RAINBOW'. There were some unfortunate incidents.</p>
+          <p>To begin with, according to your advertisement, discount tickets <NS type="TV"><i>were</i><c>are</c></NS> <NS type="S"><i>availabe</i><c>available</c></NS>. However, I could not get them. So I could <NS type="MY"><c>not</c></NS> get a good seat.</p>
+          <p>In addition to this, the show was supposed to start at 19.30, but it started at 20.15. As a result, I could not visit the restaurant since it had already closed when the show finished.</p>
+          <p>To make matters worse, <NS type="W"><i><NS type="RA"><i>it</i><c>there</c></NS> was <NS type="RD"><i>the</i><c>a</c></NS> different actor although Danny Brook should have starred</i><c>although Danny Brook should have starred there was a different actor</c></NS>. I was really looking forward to seeing his <NS type="RN"><i>role</i><c>performance</c></NS>, but <NS type="R">on starting the show</NS>, I found it <NS type="RJ"><i>disappointed</i><c>disappointing</c></NS>. Can you imagine how upset I was?</p>
+          <p>Finally, I would like to ask you to <NS type="AS"><i>give some money back to me</i><c>give me some money back</c></NS>.</p>
+          <p>I look forward to receiving <NS type="RD"><i>your</i><c>a</c></NS> satisfactory reply by return of post.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>In my opinion, modern technology has changed my daily life <NS type="RY"><i>greatly</i><c>significantly</c></NS>.</p>
+          <p>To begin with, I think the mobile phone is very useful because I can make a phone call wherever I am, without looking for a telephone box. When I meet my friends somewhere but cannot arrive there on time, I can tell them about it <NS type="R"><i>with</i><c>using</c></NS> the phone. On the other hand, when I do not want anybody to disturb <NS type="R"><i>my time</i><c>me</c></NS>, the phone annoys me.</p>
+          <p>Secondly, as far as I am concerned, the computer is a great invention. With <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> and E-mail, I can get lots of information from everywhere, and I can get in touch with my friends who live <NS type="UT"><i>in</i></NS> abroad. Since I bought a computer, I have been checking <NS type="MT"><c>for</c></NS> E-mails from my friend almost every day. <NS type="R">Finding them</NS>, I feel happy even if there is only one.</p>
+          <p>On balance then, I think that modern technology really affects my life even though I feel that it <NS type="RV"><i>improves</i><c>advances</c></NS> too rapidly <NS type="M"><c>for me</c></NS> to catch up.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

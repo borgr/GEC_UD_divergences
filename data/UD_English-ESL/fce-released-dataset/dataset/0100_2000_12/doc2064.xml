@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR831*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Thank you for organising a good programme for us. All of my classmates are expecting to go to London. I am satisfied with your programme. However I would like to suggest a good idea as a representative of our class.</p>
+          <p>We have just <NS type="IV"><i>sen</i><c>seen</c></NS> the advertisement for 'The London fashion and Leisure Show'. The show <NS type="AGV"><i>include</i><c>includes</c></NS> the latest fashions, <NS type="CN"><i><NS type="RP"><i>sports wears</i><c>sportswears</c></NS></i><c>sportswear</c></NS> and <NS type="MP"><i>make up</i><c>make-up</c></NS>. We are very keen on <NS type="UD"><i>the</i></NS> fashions and <NS type="MP"><i>make up</i><c>make-up</c></NS>. Moreover, the <NS type="S"><i>admittion</i><c>admission</c></NS> fee is free for students. It would be a great opportunity to study the latest fashion trend.</p>
+          <p>It is held at the 'Central Exhibition Hall' on 14 March., from 10 A.M. to 7 P.M. Therefore we could go there after the Science Museum. If some students want <NS type="UD"><i>a</i></NS> <NS type="MV"><c>to go</c></NS> shopping, they could go on 15 March<NS type="RP"><i>. Because</i><c>, because</c></NS> we have <NS type="UD"><i>a</i></NS> free time on 15 March <NS type="M"><c>in the</c></NS> afternoon.</p>
+          <p>I hope you will consider my suggestion.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>'A robot wakes me up at 7 A.M. every morning. I am served breakfast with fresh coffee. Washing and cleaning have <NS type="W"><i>been already</i><c>already been</c></NS> done by my robot maid! Everybody might dream about this kind of situation.</p>
+          <p>It <NS type="RV"><i>would be</i><c>may</c></NS> come true in the near future. Our robot maid will do all of <NS type="MD"><c>the</c></NS> <NS type="RP"><i>house work</i><c>housework</c></NS> instead of <NS type="MD"><c>a</c></NS> human. In addition to this you will be able to control all <NS type="AGN"><i>part</i><c>parts</c></NS> of <NS type="MD"><c>the</c></NS> house by <NS type="UD"><i>a</i></NS> computer such as temperature or <NS type="S"><i>vacume</i><c>vacuum</c></NS> cleaning.</p>
+          <p>However, this robot <NS type="RP"><i>can not</i><c>cannot</c></NS> replace <NS type="R"><i>of</i><c>a</c></NS> mother or wife. They can clean the house but they <NS type="RP"><i>can not</i><c>cannot</c></NS> give <NS type="UD"><i>the</i></NS> affection to the family. Children need <NS type="MP"><i>parents</i><c>parents'</c></NS> love and support all the time.</p>
+          <p>To sum up, modern technology will bring lots of changes and our daily lives <NS type="TV"><i>would</i><c>will</c></NS> be more <NS type="DJ"><i>convenience</i><c>convenient</c></NS>. But these robots <NS type="RP"><i>can not</i><c>cannot</c></NS> <NS type="FV"><i>be replaced</i><c>replace</c></NS> <NS type="UT"><i>of</i></NS> <NS type="MD"><c>a</c></NS> <NS type="DJ"><i>warm-heart</i><c>warm-hearted</c></NS> human.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR785*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>14th June 2000</p>
+          <p>Dear Miss Ryan,</p>
+          <p>I am really pleased to be the winner of your competition and I cannot help thinking about the two weeks in the USA.</p>
+          <p>First of all, I would like to travel only in June<NS type="MP"><c>,</c></NS> given that my wife will come with me<NS type="RP"><i>:</i><c>;</c></NS> her <NS type="AGN"><i>holiday</i><c>holidays</c></NS> are only in June.</p>
+          <p>Concerning accommodation at Camp California, would it be possible to <NS type="RV"><i>live</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>? <NS type="UY"><i>Indeed, my</i><c>My</c></NS> wife is afraid of sleeping in tents.</p>
+          <p><NS type="UY"><i>Moreover,</i></NS> I <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>play</c></NS> <NS type="RP"><i>Basketball</i><c>basketball</c></NS> in a famous French <NS type="RP"><i>Club</i><c>club</c></NS><NS type="RP"><i>:</i><c>;</c></NS> <NS type="RP"><i>That</i><c>that</c></NS> is the reason why I would like to choose the <NS type="RP"><i>Basketball</i><c>basketball</c></NS>. If I had to <NS type="FV"><i>chose</i><c>choose</c></NS> <NS type="RP"><i>an other</i><c>another</c></NS> activity, I think I would do <NS type="RP"><i>Photography</i><c>photography</c></NS>. In fact, this activity seems to be very <NS type="S"><i>interresting</i><c>interesting</c></NS>. Unfortunately, I have never <NS type="RV"><i><NS type="SA"><i>practiced</i><c>practised</c></NS></i><c>tried</c></NS> but I feel <NS type="R"><i>to like</i><c>like</c></NS> <NS type="RV"><i>discovering</i><c>trying</c></NS> <NS type="RA"><i>that</i><c>it</c></NS>.</p>
+          <p>Finally, I would <NS type="RV"><i>want</i><c>like</c></NS> to ask you whether we <NS type="TV"><i>had</i><c>have</c></NS> to bring <NS type="MQ"><c>any</c></NS> money<NS type="RP"><i>:</i><c>.</c></NS> Life is so expensive there! Furthermore, what sort of clothes must we have for the different activities?</p>
+          <p>I hope my answers will satisfy you. I thank you again.</p>
+          <p>Yours sincerely</p>
+          <p>Tom Turner</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>After having thought about this video and asked <NS type="RJ"><i>different</i><c>various</c></NS> people so as to know what they suggested, I reached the following conclusions: we must film the lessons which are the most important and the activities which take <NS type="MY"><c>up</c></NS> a great part <NS type="RT"><i>in</i><c>of</c></NS> a day at school; this being in three parts.</p>
+          <p>the morning</p>
+          <p>That is why I propose to start our film with the beginning of the day, when all <NS type="MD"><c>the</c></NS> students come <NS type="RT"><i>in</i><c>into</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RN"><i>class</i><c>classroom</c></NS>. Then, we should film the English class so as to show who <NS type="TV"><i>makes</i><c>made</c></NS> the film. Furthermore, as <NS type="RP"><i>Mathematics</i><c>mathematics</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> the main lesson in the morning, we ought to film <NS type="MT"><c>at</c></NS> a time <NS type="RC"><i>where</i><c>when</c></NS> we are in <NS type="MD"><c>the</c></NS> <NS type="RP"><i>MathClass</i><c>maths class.</c></NS></p>
+          <p>the lunch</p>
+          <p>After that <NS type="MA"><c>we</c></NS> could <NS type="RV"><i>come</i><c>go</c></NS> <NS type="MT"><c>to</c></NS> <NS type="UD"><i>the</i></NS> lunch<NS type="MP"><c>,</c></NS> which takes two hours per day. The <NS type="FJ"><i>better</i><c>best</c></NS> <NS type="MN"><c>thing</c></NS> to do would be to <NS type="RV"><i>present</i><c>show</c></NS> the cooking <NS type="S"><i>personnal</i><c>personnel</c></NS> <NS type="L"><i>for</i><c>because</c></NS> they are very nice.</p>
+          <p>the afternoon</p>
+          <p>We could begin the afternoon with <NS type="UD"><i>the</i></NS> sport, showing the different <NS type="R">places</NS> with <NS type="MD"><c>their</c></NS> surroundings (<NS type="R">near the wild</NS>): it would give a good impression. I advise <NS type="FV"><i>to finish</i><c>finishing</c></NS> with a <NS type="W"><i>lesson of <NS type="RP"><i>Chemistry</i><c>chemistry</c></NS></i><c>chemistry lesson</c></NS> so that people see the <NS type="S"><i>laboratery</i><c>laboratory</c></NS>. Before that, I would have <NS type="TV"><i>showed</i><c>shown</c></NS> the break at 3 o'clock<NS type="MP"><c>,</c></NS> which is important for us.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

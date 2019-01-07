@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR666*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I am writing to express how <NS type="W"><i>I was dissatisfied</i><c>dissatisfied I was</c></NS> with OVER THE RAINBOW<NS type="MP"><c>,</c></NS> which was <NS type="RV"><i>presented</i><c>put on</c></NS> by the Circle Theatre.</p>
+          <p>First of all, the reason why I bought the ticket was Danny Brook, who is my <NS type="SA"><i>favorite</i><c>favourite</c></NS> star, and was going to <NS type="RV"><i>play for</i><c>appear in</c></NS> the show. However, there was a different actor instead of him, and this was <NS type="R">most my disappointment</NS>.</p>
+          <p>Moreover, <NS type="R">as your advertisement</NS>, we would get <NS type="MD"><c>a</c></NS> discount price for the ticket, but it was not available.</p>
+          <p>Although the show was supposed to start at <NS type="RP"><i>19=30</i><c>19.30</c></NS>, it started at <NS type="RP"><i>20=15</i><c>20.15</c></NS>, so I had to wait for an hour.</p>
+          <p>To make matters worse, because of the late <NS type="DN"><i>starting</i><c>start</c></NS>, the theatre restaurant had already closed <NS type="R"><i>after</i><c>when</c></NS> the show finished.</p>
+          <p>I wonder if you could give me a refund <NS type="U"><i>for that</i></NS>, because the show was <NS type="RY"><i>extremely</i><c>very</c></NS> different <NS type="MT"><c>from</c></NS> <NS type="RA"><i>which</i><c>what</c></NS> I <NS type="TV"><i>was expected</i><c>expected</c></NS>.</p>
+          <p>I hope you <NS type="TV"><i>would</i><c>will</c></NS> take immediate action <NS type="RT"><i>for</i><c>on</c></NS> <NS type="RA"><i>that</i><c>this</c></NS>. I look forward to hearing from you in the future.</p>
+          <p>Yours <NS type="DY"><i>faithfuly</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Our daily life with modern technology</p>
+          <p>Science and technology are necessary for our life. I could say that we <NS type="RP"><i>can not</i><c>cannot</c></NS> <NS type="S"><i>servive</i><c>survive</c></NS> without them.</p>
+          <p>Nowadays, <NS type="MN"><c>technology</c></NS><NS type="MP"><c>,</c></NS> especially computer technology<NS type="MP"><c>,</c></NS> is improving, therefore, we can get <NS type="R"><NS type="RQ"><i>any</i><c>all</c></NS> kinds of information as much as we require</NS>. <NS type="R">It is getting more <NS type="S"><i>convinient</i><c>convenient</c></NS> and useful than our past life</NS>. <NS type="RP"><i>Further more</i><c>Furthermore</c></NS>, it is possible to <NS type="RV"><i>cure</i><c>treat</c></NS> many patients who have serious <NS type="FN"><i><NS type="S"><i>desease</i><c>disease</c></NS></i><c>diseases</c></NS> more effectively, if we use modern technology <NS type="RT"><i>for</i><c>in</c></NS> medical science.</p>
+          <p>However, if we rely on modern technology too much, it is difficult to be independent, <NS type="R"><i>otherwise</i><c>because</c></NS> we will tend <NS type="W"><i>to not</i><c>not to</c></NS> consider or solve a problem by ourselves.</p>
+          <p><NS type="ID"><i>From my point of view</i><c>In my opinion</c></NS>, it is great that science and technology improve <NS type="UT"><i>for</i></NS> our life. <NS type="R">Because of <NS type="S"><i>convinience</i><c>convenience</c></NS></NS>, we can <NS type="RV"><i>spend</i><c>use</c></NS> <NS type="MD"><c>our</c></NS> time more effectively, but we should not <NS type="UV"><i>be</i></NS> rely on these <NS type="MN"><c>things</c></NS> too much.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR499*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Helen Ryan:</p>
+          <p>I have received your letter <NS type="SX"><i>bout</i><c>about</c></NS> the competition and I am very glad about it.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July, please, because that <NS type="MV"><c>is</c></NS> when I am <NS type="RT"><i>in</i><c>on</c></NS> vacation. That is really the only time I have, unfortunately.</p>
+          <p>I would love it if I could <NS type="RV"><i>be accommodated</i><c>stay</c></NS> in a tent. I'm looking forward to learning how to take care of myself in dangerous situations, such as getting lost in a forest, and I think <NS type="RV"><i>being</i><c>staying</c></NS> in a tent will be very <NS type="DJ"><i>usefull</i><c>useful</c></NS> for that. I'd also like to get in touch with nature, and that <NS type="TV"><i>is</i><c>will be</c></NS> a great way <NS type="M"><c>to do that</c></NS>.</p>
+          <p>About the activities listed <NS type="RT"><i>on</i><c>in</c></NS> your letter, I choose basketball and singing. I have played basketball for six years, and I've <NS type="MV"><c>been</c></NS> in competitions for five years. I have good singing skills too. I have sung in the church's choir for three years, and I have had singing classes at school since first grade. I have recorded a demo tape, which I can send to you if you <NS type="RV"><i>will</i><c>like</c></NS>, in which I also play the guitar.</p>
+          <p>I would like to know how cold it is up there, <NS type="R"><i>for me to</i><c>so I</c></NS> know what kind of clothes I should bring.</p>
+          <p>Yours <NS type="RY"><i>truthfully</i><c>sincerely</c></NS></p>
+          <p>Benedito Alencar</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>There was a huge Madonna show in a soccer stadium here in São Paulo. The most amazing thing is that I helped <NS type="RT"><i>on</i><c>at</c></NS> it!</p>
+          <p>I helped <NS type="MT"><c>with</c></NS> setting up the sound equipment, programming the light system on the computer, <NS type="MC"><c>and</c></NS> <NS type="FV"><i>tidy</i><c>tidying</c></NS> up Madonna's room! I helped with the selling of the tickets, with the security, with the designing...</p>
+          <p>But the <NS type="RJ"><i>unpredicted</i><c>unexpected</c></NS> <NS type="MN"><c>thing</c></NS> was that I actually got to meet Maddy, and talk to her for almost one hour! The Material girl's the sweetest person in the world, totally unlike <NS type="MA"><c>what</c></NS> the media says <NS type="M"><c>about her</c></NS>. Mo' told me everything about her new album, "Music", and how the single <NS type="RT"><i>with</i><c>of</c></NS> the same name had slipped <NS type="RT"><i>into</i><c>onto</c></NS> the Internet in the UP3 format. She sang to me part of the album's second single, "How it feels like for a girl"!</p>
+          <p>Her daughter, Lourdes Maria, is such a pretty little girl<NS type="UP"><i>,</i></NS> that I couldn't take my eyes off of her. Her boyfriend, Guy Richie, was there too, and he's a really good person.</p>
+          <p>This is something I will never ever <NS type="S"><i>foget</i><c>forget</c></NS>. The show <NS type="RY"><i>after</i><c>afterwards</c></NS> was great. I couldn't believe that I had met that superstar <NS type="RA"><i>that</i><c>who</c></NS> was dancing in front of a <NS type="S"><i>crouded</i><c>crowded</c></NS> soccer stadium. Hope you enjoy the pictures<NS type="RP"><i>,</i><c>.</c></NS> <NS type="MA"><c>I</c></NS> got one autograph for you.</p>
+          <p>Yours faithfully, Benedito.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

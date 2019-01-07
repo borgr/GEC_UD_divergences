@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR608*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>41-50</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Ms Ryan</p>
+          <p>Thank you very much for your letter which I have received <NS type="UA"><i>it</i></NS> this morning.</p>
+          <p>I am so pleased that I have won the first prize in your competition.</p>
+          <p>Firstly, I would like to go to Camp California in the U.S.A in July because I still have got an examination in my college until June, 20th. So if it's possible could you <NS type="S"><i>arrenge</i><c>arrange</c></NS> it for me please. And also, I would prefer the log cabins to the tents<NS type="MP"><c>,</c></NS> <NS type="RC"><i>otherwise</i><c>as</c></NS> I have never slept in <NS type="RD"><i>the</i><c>a</c></NS> <NS type="S"><i>sleepin</i><c>sleeping</c></NS> bag before. I imagine I <NS type="S"><i>could'n</i><c>couldn't</c></NS> sleep at all.</p>
+          <p>Secondly, I would like to play basketball and tennis at the Camp. They are my two choices of activities<NS type="RP"><i>. Because</i><c>, because</c></NS> I used to play tennis and basketball for ages.</p>
+          <p>Finally, could you give me your suggestion about money and clothes. What <NS type="FN"><i>kind</i><c>kinds</c></NS> of clothes are suitable to take with me and <NS type="R">could I have any benefit from you for my trip or not</NS>. Could you please send me more information about this.</p>
+          <p>I am looking forward to receiving your reply soon.</p>
+          <p>Yours sincerely,</p>
+          <p>Yumi Nakamura</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Kim</p>
+          <p>Hi! How are you? Thank you for your kind letter and I am glad to <NS type="FV"><i>hearing</i><c>hear</c></NS> about your news.</p>
+          <p>Kim, I would like to tell you my wonderful experience last month! On 5th of May<NS type="MP"><c>,</c></NS> which was <NS type="MD"><c>a</c></NS> national holiday in Japan, I had a part-time <NS type="RN"><i>work</i><c>job</c></NS> at a pop concert in the Tokyo Dome.</p>
+          <p>The pop singer <NS type="MV"><c>was</c></NS> called Hikaru Utada, she is only seventeen years old but she is the most popular singer now in Japan. The concert <NS type="TV"><i>was start</i><c>started</c></NS> <NS type="MT"><c>at</c></NS> 7.00 p.m. At that time I was <NS type="RT"><i>in</i><c>on</c></NS> the second floor where I had to work <NS type="UV"><i>is</i></NS>. <NS type="R">I did a part of gard job.</NS> I stood up in front of <NS type="MD"><c>the</c></NS> <NS type="FN"><i>audiences</i><c>audience</c></NS> and <NS type="R">I had given an attention to them</NS>. I couldn't see 'Hikaru' but I still could hear her songs. I thought if you were here I could really enjoy <NS type="MA"><c>it</c></NS> with you.</p>
+          <p>All of her <NS type="SX"><i>funs</i><c>fans</c></NS> were <NS type="S"><i>stooud</i><c>stood</c></NS> up the whole concert and dancing. <NS type="R">I was so exciting night.</NS></p>
+          <p>Some of <NS type="MD"><c>the</c></NS> <NS type="SX"><i>funs</i><c>fans</c></NS> were not good at all because they shouted and argued, but most of <NS type="MD"><c>the</c></NS> people were very good. I had enjoyed <NS type="W"><i>so much <NS type="UT"><i>with</i></NS> my wonderful experience</i><c>my wonderful experience so much</c></NS>.</p>
+          <p>I am looking</p>
+          <p>Please give my regards to your family</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

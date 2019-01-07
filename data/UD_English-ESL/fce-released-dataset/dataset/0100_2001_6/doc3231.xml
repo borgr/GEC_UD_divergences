@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE76*0100*2001*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>40.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I'm writing in response to the letter we have received from you, in order to let you know all the information you have asked for.</p>
+          <p>First of all, your group has been booked into the Palace Hotel, <NS type="W"><i><NS type="UP"><i>Main-Road</i><c>Main Road</c></NS> 21</i><c>21 Main Road</c></NS>, which is situated not far from our college. I'd suggest you <NS type="FV"><i>to walk</i><c>walk</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> will only take you about seven minutes. Just follow <NS type="UP"><i>Main-Road</i><c>Main Road</c></NS> until <NS type="MA"><c>you</c></NS> <NS type="TV"><i>to reach</i><c>reach</c></NS> a junction, where you turn right and then walk along Denl-a-Lion Road. The college is a huge, yellow building - you can't miss it.</p>
+          <p>Secondly, you have <NS type="RV"><i>required</i><c>requested</c></NS> information about the end-of-conference party. It will begin at 6 o'clock p.m. and last until midnight. All the students will be provided with sacks and we have managed to book a band as well. The location of the party isn't fixed yet, but we will let you know after your arrival.</p>
+          <p>There is no need <NS type="FV"><i>putting</i><c>to put</c></NS> on special clothes for the party<NS type="RP"><i>, casual</i><c>. Casual</c></NS> <NS type="R"><i>ones</i><c>dress</c></NS> should do <NS type="R"><i>it</i><c>just</c></NS> as well, <NS type="L"><i>for</i><c>because</c></NS> we want everyone to feel comfortable.</p>
+          <p>Last but not least I will give you some ideas <NS type="RT"><i>of</i><c>about</c></NS> where to spend your free afternoon. I'd suggest you <NS type="FV"><i>to visit</i><c>visit</c></NS> our local museum, as there is a marvellous exhibition there at the moment. Provided the weather is fine, you could also go swimming or make a tour <NS type="RT"><i>through</i><c>of</c></NS> our beautiful town. (I could book a guide for you if you're interested<NS type="MP"><c>.</c></NS>)</p>
+          <p>Please write back or call me if there is any more information you need.</p>
+          <p>I'm looking forward to meeting you and wish you all the best.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>The telephone, a blessing.</p>
+          <p>Who of you could imagine life without the telephone? Not being able to call your friend and ask if you can pop <NS type="RY"><i>in</i><c>over</c></NS> for a moment? Not being able to lie to your mother-in-law and pretend you can't attend her garden party because of an illness, without having to look her in the eye? When Alexander Graham Bell first invented the telephone, he had no idea <NS type="UT"><i>of</i></NS> how popular it would be one day. Its first <NS type="RN"><i>appliance</i><c>application</c></NS> was <NS type="R">in order</NS> to listen to a concert if you were not able to attend it in person. Nowadays, however, the whole world is connected by a telephone system and no one <NS type="TV"><i>could</i><c>can</c></NS> imagine life without it.</p>
+          <p>Take me, for example, I use it whenever there is a problem and I need some advice, or when I have to call off a meeting for any reason. I cannot always walk to the person and say "Sorry, I must cancel our meeting", because then it's too late anyway, isn't it?</p>
+          <p>Life definitely wouldn't be the same without the invention of the telephone. We use it daily in order to get information or to pass it on.</p>
+          <p>Just try to spend one week without using a telephone at all, and you will see that it is impossible to do so. So don't take the telephone for granted, but keep in mind that our modern way of life is mainly due to its invention.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

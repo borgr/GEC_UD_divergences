@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR824*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>Thanks a lot for giving me the prize. I am so happy because of that. Thank you very much for treating me in that way.</p>
+          <p><NS type="S"><i>Appart</i><c>Apart</c></NS> from that, here <NS type="UA"><i>you</i></NS> <NS type="AGV"><i>are</i><c>is</c></NS> the <NS type="RN"><i><NS type="S"><i>repplies</i><c>replies</c></NS></i><c>information</c></NS> that you asked me for:</p>
+          <p>- concerning <NS type="UT"><i>to</i></NS> the date: I can go in July because it's my <NS type="FN"><i>holidays</i><c>holiday</c></NS> month. That was <NS type="MA"><c>what</c></NS> my boss told me.</p>
+          <p>- About the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, as I read, you can offer me <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> or <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>. From my point of view, I think tents are better than log cabins, so please, could you <NS type="RV"><i><NS type="S"><i>accomodate me</i><c>accommodate me</c></NS></i><c>put me up</c></NS> in a tent?</p>
+          <p>- Activities: I am very keen on surfing because, where I live, I can <NS type="RV"><i><NS type="S"><i>pactice</i><c>practise</c></NS></i><c>do</c></NS> it every day. I also want to "book in" singing because I love singing very much and I am always singing in my house.</p>
+          <p>Thank you so much for your <NS type="RN"><i>attention</i><c>concern</c></NS>.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+          <p>Javi Fernández</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Why don't you buy the green one? Oh, no! That's horrible, mum! This is <NS type="U"><i>one of</i></NS> a normal scene when a mother and her daughter are <NS type="RV"><i>buying</i><c>shopping</c></NS> and getting clothes from the shelves. That is what most <NS type="U"><i>of the</i></NS> women love. They love going to a shopping centre and <NS type="FV"><i>put</i><c>putting</c></NS> lots of clothes on. That's so good when you have <NS type="MD"><c>the</c></NS> money <NS type="UT"><i>for</i></NS> <NS type="DV"><i>joy</i><c>to enjoy</c></NS> it but, <NS type="S"><i>appart</i><c>apart</c></NS> from that, there are many problems.</p>
+          <p><NS type="ID"><i>On the one hand</i><c>First of all</c></NS>, a big problem <NS type="AGV"><i>are</i><c>is</c></NS> the children. When they go <NS type="UT"><i>to</i></NS> shopping with their mothers, they want to buy all the things that <NS type="R"><i>their sight reach</i><c>they see</c></NS>: doors, little cars, films... but, when their mothers see a good thing that they want to buy, <NS type="R"><i>there</i><c>then</c></NS> <NS type="W"><i>are the children</i><c>the children are</c></NS><NS type="UP"><i>:</i></NS> crying because they are tired <NS type="RT"><i>for</i><c>from</c></NS> shopping all <NS type="UD"><i>the</i></NS> day.</p>
+          <p><NS type="ID"><i>On the other hand</i><c>Also</c></NS> there is a big problem: the <NS type="S"><i>mony</i><c>money</c></NS>. People buy and buy unnecessary things but, when they <NS type="R"><i><NS type="AGV"><i>arrives</i><c>arrive</c></NS> in their houses</i><c>get home</c></NS>, they can see an empty wallet.</p>
+          <p>So, do you believe that a shopping <NS type="RN"><i>bag</i><c>trip</c></NS> like this one is an enjoyable <NS type="W"><i>shopping day</i><c>day's shopping</c></NS>?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

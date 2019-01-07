@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR473*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> Mr. Jones,</p>
+          <p>How are you? I'm not so well, and that's the reason why I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to you.</p>
+          <p>Because you are the manager <NS type="RT"><i>at</i><c>of</c></NS> the theatre, you have to know<NS type="UP"><i>,</i></NS> <NS type="MT"><c>about</c></NS> the problems which it has.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> and the most important for me<NS type="MP"><c>,</c></NS> is that you lie to your audience. I didn't see <NS type="W"><i>anywhere Danny Brook</i><c>Danny Brook anywhere</c></NS>, but another actor. That <NS type="UA"><i>it</i></NS> was a big mistake. <NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS>  said that the show starts at 19:30 but it started 45 minutes later. Also there weren't any discounts.</p>
+          <p>Oh! I <NS type="UY"><i>as</i></NS> almost <NS type="TV"><i>forget</i><c>forgot</c></NS>. <NS type="DD"><i>You</i><c>Your</c></NS> restaurant was closed because your <NS type="RN"><i>cooker</i><c>chef</c></NS> was ill. What can you say about that?</p>
+          <p>So, that's why I'm asking you to give me<NS type="UP"><i>,</i></NS> some of <NS type="MD"><c>my</c></NS> money back. <NS type="W"><i>The perfect evening out I was <NS type="RV"><i>waiting for</i><c>expecting</c></NS></i><c>I was expecting the perfect evening out</c></NS>, it was <NS type="RY"><i>finally</i><c>in the end</c></NS> one of the most <NS type="RJ"><i>disappointed</i><c>disappointing</c></NS><NS type="UP"><i>,</i></NS> <NS type="R"><i>of mine</i><c>of my life</c></NS>.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>That's a good question! I know that<NS type="UP"><i>,</i></NS> each student <NS type="TV"><i>gave</i><c>will give</c></NS> <NS type="UD"><i>its</i></NS> <NS type="MD"><c>a</c></NS> different <NS type="FN"><i>answers</i><c>answer</c></NS>, but some of us will have some <NS type="RN">opinions</NS>.</p>
+          <p>I think that<NS type="UP"><i>,</i></NS> the <NS type="RJ">big</NS> <NS type="UP"><i>'</i></NS><NS type="RN"><i><NS type="DN"><i>improve</i><c>improvement</c></NS></i><c>development</c></NS><NS type="UP"><i>'</i></NS> of technology <NS type="MT"><c>in</c></NS> the last 30 years <NS type="TV"><i>helped</i><c>has helped</c></NS> and <NS type="MV"><c>is</c></NS> still helping us a lot in our daily life. With <NS type="UP"><i>T.V</i><c>TV</c></NS> we can learn<NS type="UP"><i>,</i></NS> what is going on all over the world. With <NS type="UD"><i>the</i></NS> telephones, <NS type="UD"><i>the</i></NS> aeroplanes, <NS type="MC"><c>and</c></NS> even <NS type="UD"><i>the</i></NS> fast ships<NS type="MP"><c>,</c></NS> there are no big distances any more.</p>
+          <p><NS type="SX"><i>Eve</i><c>Every</c></NS> summer <NS type="TV"><i>I'm going</i><c>I go</c></NS> <NS type="W"><i>with my family abroad</i><c>abroad with my family</c></NS>. We can see new countries, learn about their history etc. With my computer (<NS type="MC"><c>and</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>) I can speak <NS type="RT"><i>with</i><c>to</c></NS> my friends<NS type="UP"><i>,</i></NS> <NS type="R"><i>as far</i><c>wherever</c></NS> they are.</p>
+          <p>All <NS type="RA"><i>these</i><c>this</c></NS> may <NS type="UV"><i>be</i></NS> <NS type="FV"><i>sounds</i><c>sound</c></NS> great, but <NS type="AGA"><i>they</i><c>it</c></NS> <NS type="AGV"><i>aren't</i><c>isn't</c></NS> all <NS type="M"></NS>. <NS type="U"><i>With a lot of using</i><c>Using</c></NS> <NS type="UT"><i>of</i></NS> <NS type="MD"><c>the</c></NS> <NS type="UP"><i>T.V</i><c>TV</c></NS> and computer<NS type="UP"><i>,</i></NS> <NS type="AGV"><i>make</i><c>makes</c></NS> people more <NS type="RJ"><i>close</i><c>closed</c></NS>. You might not know your neighbour because <NS type="W"><i>all the time <NS type="DA"><i>your</i><c>you</c></NS> <NS type="MV"><c>are</c></NS> in the house</i><c>you are in the house all the time</c></NS>. Children are not studying as much <NS type="MT"><c>as</c></NS> they <NS type="RV"><i>have</i><c>ought</c></NS> to, because they are watching <NS type="UP"><i>T.V</i><c>TV</c></NS>, <NS type="RV"><i><NS type="S"><i>speacing</i><c>speaking</c></NS></i><c>talking</c></NS> on the phone or even playing computer games.</p>
+          <p>That's why my marks this year were <NS type="MD"><c>a</c></NS> bit low. And <NS type="RP"><i>ofcourse</i><c>of course</c></NS> my parents were very angry with me. This is also another <NS type="RN"><i>reason</i><c>cause</c></NS> of <NS type="SX"><i>heard</i><c>heart</c></NS> <NS type="S"><i>attacts</i><c>attacks</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

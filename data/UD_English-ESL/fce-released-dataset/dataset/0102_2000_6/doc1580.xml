@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR616*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Last week, I <NS type="TV"><i>had visited</i><c>visited</c></NS> your theatre and I was very disappointed because I did not have a perfect evening out like <NS type="UA"><i>what</i></NS> <NS type="MD"><c>your</c></NS> advertisement said.</p>
+          <p>I would like to complain <NS type="MT"><c>about</c></NS> four things <NS type="RT"><i>about</i><c>concerning</c></NS> your theatre. <NS type="SX"><i>Fist</i><c>First</c></NS> thing, the actor is <NS type="RY"><i>very</i><c>really</c></NS> horrible so I recommend you <NS type="FV"><i>to change</i><c>change</c></NS> the actor because he will <NS type="AS"><i>make an audience who <NS type="AGV"><i>visit</i><c>visits</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> theatre disappoint</i><c>disappoint an audience who visits your theatre</c></NS>.</p>
+          <p>Second thing, you should open the show on time because if the audience have to wait, they will not feel happy<NS type="MP"><i> but</i><c>. But</c></NS> I think you know that.</p>
+          <p><NS type="RT"><i>According to</i><c>Regarding</c></NS> the advertisement, it said <NS type="R">tickets £ 10, £ 15 and £ 20 discounts available</NS> but when I bought the ticket, the discounts <NS type="RV"><i>did</i><c>were</c></NS> not available</p>
+          <p>After the show I was very hungry so I went to the restaurant in the theatre but it was closed for <NS type="RN"><i>decorating</i><c>refurbishment</c></NS><NS type="MP"><i> that</i><c>. That</c></NS> <NS type="TV"><i><NS type="AGV"><i>make</i><c>makes</c></NS></i><c>made</c></NS> me very angry and <NS type="DJ"><i>disappoint</i><c>disappointed</c></NS>.</p>
+          <p>To conclude, your theatre is <NS type="R">not good like what advertisement said</NS> so I would like to ask for some money back. I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>(Chan Suntavee)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Nowadays, science and technology are very important to our life. The technology <NS type="AS"><i><NS type="AGV"><i>make</i><c>makes</c></NS> my daily life change</i><c>changes my daily life</c></NS> a <NS type="AGN"><i>lots</i><c>lot</c></NS> <NS type="R">compare to the past</NS>.</p>
+          <p>For example, when I was young, I used to walk to school <NS type="RP"><i>everyday</i><c>every day</c></NS> but now my father has a car so I don't have to walk anymore, because my father gives me a lift <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+          <p>At home, I have a video game so I play it all the time and I'm very <NS type="RJ"><i><NS type="DJ"><i>enjoy</i><c>enjoyable</c></NS></i><c>glad</c></NS> that <NS type="MA"><c>it</c></NS> <NS type="AGV"><i>make</i><c>makes</c></NS> my daily life happy so it's excellent but on the other hand I <NS type="TV"><i>didn't</i><c>don't</c></NS> do any homework or study at all.</p>
+          <p>Another example is <NS type="MD"><c>the</c></NS> computer<NS type="RP"><i>,</i><c>.</c></NS> I don't have to watch television or read a newspaper because I can <NS type="RV"><i>know</i><c>get</c></NS> the news by using <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the computer.</p>
+          <p>To sum up, <NS type="UD"><i>the</i></NS> modern technology has changed my daily life in bad ways and good ways. Therefore my daily life will change <NS type="RT"><i>to</i><c>in</c></NS> bad ways or goods ways<NS type="RP"><i>, it</i><c>. It</c></NS> depends on how I use the technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

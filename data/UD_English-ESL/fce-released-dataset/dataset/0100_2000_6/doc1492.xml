@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR577*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan.</p>
+          <p>I am writing to reply <NS type="MT"><c>to</c></NS> your letter about <NS type="R"><i>my</i><c>the</c></NS> first prize in your competition and <NS type="FV"><i>give</i><c>to give</c></NS> you all <NS type="MD"><c>the</c></NS> information for my two weeks at Camp California.</p>
+          <p>First of all, I <NS type="MV"><c>would</c></NS> prefer travelling in July, because <NS type="RA"><i>it</i><c>I</c></NS> will be <NS type="R"><i>my school</i><c>on</c></NS> vacation and I'm not allowed to travel during <NS type="RN"><i>school times</i><c>term</c></NS>. It'd be great if I could <NS type="RV"><i>be accommodated</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because I've never slept in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> before, and I think it is an interesting experience.</p>
+          <p>Secondly, the two activities <NS type="S"><i>wich</i><c>which</c></NS> I'd like to <NS type="RV"><i><NS type="S"><i>pratice</i><c>practise</c></NS></i><c>do</c></NS> during the <NS type="RN"><i>campsite</i><c>camp</c></NS> are sailing and surfing. I have already surfed when I was travelling in Brazil, but since <NS type="RA"><i>them</i><c>then</c></NS> I <NS type="X"><i>have hadn't</i><c>haven't had</c></NS> a chance to do it again. Although I know how <NS type="FV"><i>surfing</i><c>to surf</c></NS>, I have no idea about sailing<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="R"><i>just</i><c>have</c></NS> only read about it and I am very interested <NS type="MT"><c>in</c></NS> <NS type="FV"><i><NS type="RV"><i><NS type="DV"><i>to practice</i><c>to practise</c></NS></i><c>to try</c></NS></i><c>trying</c></NS>. Is there any problem?</p>
+          <p>I'd like to ask you some questions: <NS type="RP"><i>Is</i><c>is</c></NS> <NS type="MA"><c>it</c></NS> necessary <NS type="FV"><i>bring</i><c>to bring</c></NS> <NS type="MQ"><c>any</c></NS> money to the Camp? How much? And about clothes? What is <NS type="DJ"><i>more <NS type="S"><i>appropiated</i><c>appropriated</c></NS></i><c>appropriate</c></NS>?</p>
+          <p>Finally, I want to thank you for <NS type="SX"><i>the</i><c>this</c></NS> great opportunity<NS type="MP"><c>.</c></NS> I look forward to hearing from you.</p>
+          <p>Yours sincerely.</p>
+          <p>Camila Beatriz de J. Branco</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>A <NS type="RN">programme</NS> <NS type="MV"><c>is</c></NS> not often good.</p>
+          <p>Shopping is said <NS type="R"><i>that</i><c>to be</c></NS> an enjoyable <NS type="RN">programme</NS> in all situations. However sometimes it isn't so wonderful as it seems to be.</p>
+          <p>When you go to a <NS type="UN"><i>sale</i></NS> shop it is <NS type="S"><i>dificult</i><c>difficult</c></NS> to find what you <NS type="TV"><i>look</i><c>are looking</c></NS> for without <NS type="RD"><i>a</i><c>the</c></NS> help of the shop assistant. The problem is <NS type="FV"><i>find</i><c>finding</c></NS> a shop assistant who <NS type="AGV"><i><NS type="RV"><i>hear</i><c>listen</c></NS></i><c>listens</c></NS> <NS type="MT"><c>to</c></NS> your problems and can help you. After that you have to wait a long time in the <NS type="S"><i>qeue</i><c>queue</c></NS> to pay and many times <NS type="MA"><c>it</c></NS> isn't possible <NS type="FV"><i>pay</i><c>to pay</c></NS> with your credit card and you don't have <NS type="R"><i>a</i><c>any</c></NS> money in cash. So you <NS type="TV"><i><NS type="RV"><i>had lost</i><c>had wasted</c></NS></i><c>have wasted</c></NS> hours <NS type="FV"><i>to buy</i><c>buying</c></NS> nothing. You can't talk to <NS type="MD"><c>the</c></NS> manager even to give him suggestions <NS type="M"><c>on how</c></NS> to improve his business, because he is always absent. And don't try to complain to someone else because they won't hear you.</p>
+          <p>To conclude, although you can have good <NS type="RN"><i>moments</i><c>times</c></NS> while shopping all of us know that it is not always enjoyable, <NS type="X"><i>isn't it</i><c>is it</c></NS>?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

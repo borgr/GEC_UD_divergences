@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1094*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to complain about your theatre and its <NS type="W"><i>last night show</i><c>show last night</c></NS>.</p>
+          <p>Firstly I would <NS type="SX"><i>lice</i><c>like</c></NS> to say that I <NS type="TV"><i>am</i><c>was</c></NS> very <NS type="S"><i>dissappointed</i><c>disappointed</c></NS> with the show and that I didn't have the perfect evening out, as <NS type="U"><i>you had</i></NS> advertised.</p>
+          <p><NS type="ID"><i>I have no idea <NS type="UT"><i>from</i></NS> where to start</i><c>I don't know where to start</c></NS>. The main character of the musical show, <NS type="RA"><i>which</i><c>who</c></NS> I'd like to say wasn't the "BEST", was <NS type="DJ"><i>awfull</i><c>awful</c></NS>. His <NS type="RN"><i>act</i><c>acting</c></NS> was not good and he didn't seem <NS type="FV"><i>like</i><c>to like</c></NS> acting<NS type="MP"><c>.</c></NS> Even my son could act better. After the <NS type="RJ"><i>horrible</i><c>terrible</c></NS> <NS type="RN"><i>act</i><c>acting</c></NS> of your star, <NS type="UA"><i>it</i></NS> comes the starting <NS type="RN"><i><NS type="SX"><i>ours</i><c>hours</c></NS></i><c>time</c></NS>. I was sitting <NS type="UC"><i>and</i></NS> waiting for <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes until the play started. You advertise that the show begins at 19.30 and not at 20:15<NS type="MP"><c>,</c></NS> as it did. And then, when I arrived at the theatre<NS type="MP"><c>,</c></NS> I expected to have a discount but <NS type="DY"><i>unfortunatly</i><c>unfortunately</c></NS> I didn't. <NS type="ID"><i>Among all these</i><c>On top of all this</c></NS><NS type="MP"><c>,</c></NS> the theatre restaurant was closed<NS type="UP"><i>,</i></NS> because the <NS type="S"><i>shef</i><c>chef</c></NS> and the waiters <NS type="SX"><i>where</i><c>were</c></NS> on holiday. You could hire other <NS type="MN"><c>staff</c></NS> to do the work. I was very <NS type="S"><i>dissappointed</i><c>disappointed</c></NS><NS type="MP"><c>,</c></NS> <NS type="ID"><i>what else can I write</i><c>what else can I say</c></NS>. It was <NS type="TV"><i>suppose</i><c>supposed</c></NS> to be my perfect <NS type="S"><i>everning</i><c>evening</c></NS> out. But it wasn't. I <NS type="TV"><i>will ask</i><c>am asking</c></NS> <NS type="MT"><c>for</c></NS> my money back.</p>
+          <p>In <NS type="RP"><i>Conclusion</i><c>conclusion</c></NS><NS type="MP"><c>,</c></NS> I'd like to <NS type="S"><i>recoment</i><c>recommend</c></NS> that you should<NS type="UP"><i>,</i></NS> first<NS type="UP"><i>,</i></NS> know what you have to offer and <NS type="SX"><i>the</i><c>then</c></NS> <NS type="FV"><i>advertising</i><c>advertise</c></NS> it.</p>
+          <p>Yours <NS type="S"><i>sensirly</i><c>sincerely</c></NS></p>
+          <p>Helena<NS type="UP"><i>.</i></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I shouldn't have told her that my dad had <NS type="S"><i>physcological</i><c>psychological</c></NS> problems. I knew that she was going to spread it around and tell <NS type="U"><i>it to</i></NS> my brother.</p>
+          <p>It all started when I was about 10 years old, <NS type="RC"><i>like</i><c>as</c></NS> my brother <NS type="MV"><c>is</c></NS> now, and I overheard my mother talking about my father and his problems<NS type="UP"><i>,</i></NS> to my aunt. I was hurt inside and cried till my tears <NS type="TV"><i>run</i><c>ran</c></NS> dry. I couldn't accept it. All these years I believed that my father was killed in a car <NS type="S"><i>accitend</i><c>accident</c></NS>. I was <NS type="RV"><i>leaving</i><c>living</c></NS> <NS type="UT"><i>in</i></NS> a lie.</p>
+          <p>Now <NS type="RT"><i>in</i><c>at</c></NS> the age of seventeen I made the huge mistake <NS type="MT"><c>of</c></NS> <NS type="RV"><i><NS type="FV"><i>to say</i><c>saying</c></NS></i><c>mentioning</c></NS><NS type="UP"><i>,</i></NS> this problem to my "friend" Pat. I knew that she <NS type="TV"><i>is</i><c>was</c></NS> close to my brother and that she <NS type="TV"><i>loves</i><c>loved</c></NS> him a lot, so I never thought that things <NS type="RV"><i>could</i><c>would</c></NS> turn <NS type="MY"><c>out</c></NS> like this.</p>
+          <p>When<NS type="UP"><i>,</i></NS> one day Pat came over to my house<NS type="MP"><c>,</c></NS> we started arguing about <NS type="RJ"><i>common</i><c>ordinary</c></NS> things and <NS type="RT"><i>in</i><c>during</c></NS> our <NS type="S"><i>fite</i><c>fight</c></NS> <NS type="W"><i>suddenly came <NS type="RY"><i>about</i><c>up</c></NS> the subject of my father and his problems</i><c>the subject of my father and his problems suddenly came up</c></NS>. Pat started shouting and screaming, saying what was <NS type="DY"><i>realy</i><c>really</c></NS> going on. My brother couldn't stay away. He <NS type="TV"><i>stand</i><c>stood</c></NS> outside my door and heard every single word. When I realised <NS type="UA"><i>it</i></NS>, it was too late. The secret <NS type="TV"><i>was <NS type="S"><i>revilied</i><c>revealed</c></NS></i><c>had been revealed</c></NS>. And now I try to help my brother <NS type="S"><i>beaus</i><c>because</c></NS> I've been there, in his place, and I know how it feels.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

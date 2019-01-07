@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR553*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am Margherita X from <NS type="UD"><i>the</i></NS> class 3C, <NS type="AGA"><i>which</i><c>who</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> going to spend three days in London. We had the opportunity to read your programme and we are happy because it is very <NS type="DY"><i>good</i><c>well</c></NS> organized. We especially like <NS type="M"><c>the idea of going to</c></NS> the National Art gallery. Thank you.</p>
+          <p>With this letter I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>ask</i><c>to ask</c></NS> you if you <NS type="S"><i>wuld</i><c>would</c></NS> change it because we saw in the London Advertiser an advertisement for the London Fashion and Leisure Show. The <NS type="RP"><i>Show</i><c>show</c></NS> is <NS type="MT"><c>on</c></NS> Tuesday, March 14th<NS type="MP"><c>,</c></NS> from 10.00-19.00 in the Central <NS type="S"><i>Exibition</i><c>Exhibition</c></NS> Hall. They <NS type="MV"><c>are</c></NS> <NS type="L"><i><NS type="S"><i>gona</i><c>gonna</c></NS> show</i><c>going to show</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> latest <NS type="FN"><i>fashion</i><c>fashions</c></NS>, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and new hairstyles.</p>
+          <p>We all think that it would be a good opportunity to see this show. We are young and we <NS type="W"><i>all are</i><c>are all</c></NS> interested in fashion. <NS type="W"><i>For <NS type="UD"><i>the</i></NS> students it is free</i><c>It is free for students</c></NS>.</p>
+          <p>We thought that we could change the programme this way: we could go to the Science Museum <NS type="MT"><c>on</c></NS> Wednesday afternoon instead of Tuesday.</p>
+          <p>I really hope that you <NS type="MV"><c>are</c></NS> <NS type="L"><i><NS type="S"><i>gona</i><c>gonna</c></NS> consider</i><c>going to consider</c></NS> our request.</p>
+          <p>Yours <NS type="S"><i>sincierly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>My dear brother</p>
+          <p>It was dangerous, but I knew I had to do it. It was a normal Saturday morning. My mam was cooking and my dad was sitting in his chair reading a book. I knew that my brother was at home, <NS type="S"><i>althoug</i><c>although</c></NS> I didn't know where <NS type="M"><c>he was</c></NS>.</p>
+          <p>I was doing my <NS type="CN"><i>homeworks</i><c>homework</c></NS> when I heard an explosion. I came out of my room and I saw my brother <NS type="S"><i>n</i><c>on</c></NS> fire. He was playing with fire and alcohol in the bathroom. My first reaction was to <NS type="RV">put</NS> him on the floor so that the fire could <NS type="RV"><i>stop</i><c>be put out</c></NS>. He was screaming because he <NS type="RV"><i>had</i><c>was</c></NS> <NS type="MT"><c>in</c></NS> such <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>big</i><c>great</c></NS> pain.</p>
+          <p>We were shocked<NS type="RP"><i>,</i><c>;</c></NS> <NS type="X"><i>we all didn't know</i><c>none of us knew</c></NS> what to do. I called a taxi because my father wasn't able to drive. We went to the hospital and they <NS type="RV"><i>cured</i><c>treated</c></NS> him.</p>
+          <p>He had to stay there for three long weeks. Since that bad experience he <NS type="TV"><i>never <NS type="IV"><i>playied</i><c>played</c></NS></i><c>has never played</c></NS> with fire again. I really <NS type="RV"><i>like</i><c>love</c></NS> my brother and I would do anything possible to save him.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

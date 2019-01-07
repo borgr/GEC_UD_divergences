@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR797*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>For the attention <NS type="RT"><i>to</i><c>of</c></NS> the manager: I am writing to complain about the organization of the musical show that the Circle Theatre presented. Firstly, it was said that the stars who were <NS type="R">invited to the estatement</NS> were Dany Brook and Tina Truelove. However, Dany Brook did not act and was replaced by another actor who was terribly disappointing <NS type="RT"><i>on</i><c>in</c></NS> his performance. In addition, the <NS type="RN"><i>event</i><c>show</c></NS> was supposed to start at 19.30 but we could not enjoy the show until 20.15. The advertisement for the show announced that we <NS type="MV"><c>would</c></NS> <NS type="FV"><i>were</i><c>be</c></NS> able to visit the Theatre restaurant after the show but it was closed <NS type="R"><i>due to</i><c>because</c></NS> the Chef who <NS type="RV"><i>leaded</i><c>runs</c></NS> the Restaurant did not remember to bring the keys to open it. Also, the advertisement said that discounts <NS type="RT"><i>for</i><c>on</c></NS> the tickets would be available, but <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> not. To conclude, I would be grateful if the organization <NS type="R"><i>of</i><c>running</c></NS> the theatre <NS type="RV"><i>bring</i><c>gave</c></NS> <NS type="MA"><c>me</c></NS> my money back. yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets and she told her mother what had happened during the concert.</p>
+          <p>Peter had a <NS type="DJ"><i>terribly</i><c>terrible</c></NS> problem with drugs. He started to <NS type="S"><i>consum</i><c>consume</c></NS> the stuff at the age of twenty. He had problems at home because his mother wanted to settle down <NS type="RT"><i>to</i><c>in</c></NS> Australia, but Peter was used to <NS type="FV"><i>live</i><c>living</c></NS> in New York, <NS type="M"><c>where it is</c></NS> overcrowded and <NS type="M"><c>he was</c></NS> <NS type="S"><i>surronded</i><c>surrounded</c></NS> by people. Australia is <NS type="W"><i>a country too calm</i><c>too calm a country</c></NS> for him.</p>
+          <p>We invited him to <NS type="UV"><i>enjoy</i></NS> the <NS type="W"><i>concert of Texas</i><c>Texas concert</c></NS> but he started to <NS type="RV"><i>make</i><c>talk</c></NS> <NS type="CN"><i>nonsenses</i><c>nonsense</c></NS> because of the drugs. Firstly, he began to run around the crowd and also to hit the advertisements which announced the concert. A security guard saw <NS type="RA"><i>it</i><c>this</c></NS> and <NS type="RV"><i>put</i><c>turned</c></NS> his attention <NS type="RT"><i>on</i><c>to</c></NS> him. Pat stared at him and asked for help. The security guard heard her and <NS type="IV"><i>agreeded</i><c>agreed</c></NS> with Pat that if Peter continued acting <NS type="RT"><i>on</i><c>in</c></NS> this way he would <NS type="RV"><i>obliged</i><c>advise</c></NS> us to <NS type="RV"><i>go out of</i><c>leave</c></NS> the concert.</p>
+          <p>He did <NS type="UA"><i>it</i></NS>.</p>
+          <p>When we arrived <NS type="UT"><i>at</i></NS> home, Pat told <NS type="UT"><i>to</i></NS> his mother what had happened.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

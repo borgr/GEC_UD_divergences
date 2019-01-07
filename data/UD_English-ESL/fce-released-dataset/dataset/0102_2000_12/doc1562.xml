@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR607*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>16.12.00</p>
+          <p>Dear Jane</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> I want to tell you that the idea of the "International Arts Festival" was a really great idea. I enjoyed the festival <NS type="RY">pretty</NS> much. However I think that it could be better if you could rearrange <NS type="RJ"><i>little</i><c>small</c></NS> details.</p>
+          <p>I think that next year you should have more artists from different countries, so that it can be a real International Festival. <NS type="CE">This also would take more attraction to the festival</NS>.</p>
+          <p>Another point which I think was <NS type="S"><i>ennoying</i><c>annoying</c></NS><NS type="UP"><i>,</i></NS> <NS type="TV"><i><NS type="AGV"><i>are</i><c>is</c></NS></i><c>was</c></NS> the concert <NS type="FN"><i>halls</i><c>hall</c></NS>. The concerts were great but the hall was too small for so <NS type="CQ"><i>much</i><c>many</c></NS> people<NS type="MP"><c>.</c></NS> I hope that next year the concerts will take place in a bigger hall.</p>
+          <p>The plays and the films were really great. I enjoyed all of them. I hope to see <NS type="CQ"><i>much</i><c>many</c></NS> more films next year.</p>
+          <p>The best thing about the festival was the price I think, because it <NS type="RV"><i>made</i><c>had</c></NS> a really big effect on the <NS type="RN">attraction</NS>, <NS type="MC"><c>and</c></NS> that of course made the festival much more enjoyable.</p>
+          <p>I again want to say that it was really nice to be at the festival. I believe that next year will be better if you consider my ideas.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="RP"><i><NS type="S"><i>Sinccerly</i><c>Sincerely</c></NS></i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>16.12.00</p>
+          <p>Dear Andrew,</p>
+          <p>I just received your letter and decided <NS type="UA"><i>you</i></NS> to write back now<NS type="UP"><i>;</i></NS> because of your questions which were about <NS type="UD"><i>the</i></NS> rules. I'm really tired of the rules in school!</p>
+          <p>Actually not all the schools in Turkey are so strict but <NS type="DY"><i>unfortunatly</i><c>unfortunately</c></NS> the school that I'm going <NS type="MT"><c>to</c></NS> is like a military camp. The uniform<NS type="UP"><i>,</i></NS> we <NS type="TV"><i>are wearing</i><c>wear</c></NS> has to be perfect. No one is allowed to wear anything which isn't written in the school rules. The general rules which are used in all schools aren't so strict<NS type="MP"><c>,</c></NS> however there are a few things that need to be changed. For example<NS type="MP"><c>,</c></NS> if you don't come to school <NS type="MT"><c>for</c></NS> 10 days in a year<NS type="MP"><c>,</c></NS> <NS type="AGA"><i>we</i><c>you</c></NS> fail that year.</p>
+          <p>Thank God it isn't so strict at home. My family allows me almost <NS type="RP"><i>every thing</i><c>everything</c></NS> except smoking and drinking <NS type="S"><i>alchol</i><c>alcohol</c></NS> of course, which I don't do anyway. I am allowed to stay up late, I'm allowed to bring my friends home and stuff like that. However there is one thing that my parents don't like me to do. They hate it when I <NS type="RV"><i>listen to</i><c>play</c></NS> music loudly. I think they don't like the music I listen to.</p>
+          <p>This is all that I can tell you about my school and family. Rules are <NS type="RP"><i>every where</i><c>everywhere</c></NS> and you can't change them. So just don't think about them.</p>
+          <p>Your <NS type="RP"><i>Best</i><c>best</c></NS> <NS type="RP"><i>Pen</i><c>pen</c></NS> friend</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

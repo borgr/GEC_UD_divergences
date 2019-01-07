@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR289*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Miss ,</p>
+          <p>I am writing to suggest some <NS type="FN"><i>idea</i><c>ideas</c></NS> for the International <NS type="FN"><i>Art</i><c>Arts</c></NS> Festival next year. I have just been there and <NS type="RV"><i>noticed</i><c>thought of</c></NS> some <NS type="RN"><i>points</i><c>improvements</c></NS> which could make the festival better.</p>
+          <p>First of all, the festival was a great idea. There were a number of stars and artists from around the world, but <NS type="W"><i>from only</i><c>only from</c></NS> six countries. Secondly, they held some concerts, but some <NS type="M"><c>of the</c></NS> concert halls were so small that there was not enough space for <NS type="MQ"><c>all</c></NS> the people. Thirdly, it was nice to see several plays and films. We would be pleased if you could have more. Fourthly, everyone seems to have enjoyed seeing <NS type="MD"><c>the</c></NS> dance shows and the art exhibitions and listening to the talks. Lastly, the weekend ticket was excellent because it was quite reasonable. However, a ticket for each event is expensive. I suggest you have a <NS type="MP"><i>oneday</i><c>one-day</c></NS> ticket or a <NS type="RJ"><i>reasonable</i><c>reasonably priced</c></NS> ticket for every event.</p>
+          <p>That is everything I have <NS type="RV"><i>noticed</i><c>thought of</c></NS> <NS type="RT"><i>about</i><c>concerning</c></NS> the festival. I would be grateful if you could think about it.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sharyl,</p>
+          <p>Thank you for your letter. I really enjoyed reading it. I'm very happy to know you're <NS type="RY">pretty</NS> well.</p>
+          <p>Speaking of rules, most of them are annoying! There're plenty of rules in my high school. For example, girls must keep the length of <NS type="RD"><i>the</i><c>their</c></NS> <NS type="FN"><i>skirt</i><c>skirts</c></NS> <NS type="UT"><i>by</i></NS> 5 cm <NS type="RT"><i>under</i><c>below</c></NS> their knees. That's so stupid! It doesn't <NS type="RV"><i>bother</i><c>interfere with</c></NS> studying, does it? And also we're not allowed to bring any sweets. I know some rules are necessary to control the students. The school uniform is a good example. And the advantage of this is I don't need to think about what to put on every morning!</p>
+          <p>In my house, I'm allowed to do anything unless it bothers somebody. But there's one thing I can't stand <NS type="UY"><i>up</i></NS>. I'm not allowed to go out late at night. I want to go dancing sometimes. You're allowed to do that, aren't you? That's wonderful! I'm really jealous of you!</p>
+          <p>Take care. I'll write to you soon!</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

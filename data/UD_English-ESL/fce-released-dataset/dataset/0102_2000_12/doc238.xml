@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR960*0102*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Ireland, 16 December 2000</p>
+          <p>Dear Mrs Clark,</p>
+          <p>I am writing to you about the International Arts Festival which took place <NS type="R"><i>these</i><c>on the</c></NS> 21 and 22 November. I think it is a great idea to have this kind of festival in our region and I really enjoyed most of the events I went to. However, I feel that it could be even better next year.</p>
+          <p>Firstly, according to your advertisement, the 'Stars and artists from around the world' came from only six countries. I felt quite disappointed as everybody knows that "our" world is full of different cultures. Maybe not enough were represented.</p>
+          <p>In spite of the fact that the classical concerts were really good, I think that some concert halls were too small and so not everybody could appreciate the <NS type="RJ"><i>good</i><c>excellent</c></NS> quality of the music.</p>
+          <p>I really enjoyed the plays and films<NS type="RP"><i>,</i><c>.</c></NS> I wonder if there <NS type="TV"><i>would</i><c>will</c></NS> be more next year? I hope so!</p>
+          <p>Finally, I would like to tell you that the idea of one <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> ticket for the weekend is excellent<NS type="RP"><i>, we</i><c>. We</c></NS> can go where we want to, see what we feel like <NS type="R"><i>to</i><c>seeing</c></NS>. However, I think <NS type="RD"><i>a</i><c>the</c></NS> weekend is really too short. May I suggest you <NS type="FV"><i>to think</i><c>think</c></NS> about doing the festival over <NS type="RD"><i>one</i><c>a</c></NS> week.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Magda,</p>
+          <p>Thanks very much for your letter. As you asked me in it, here are some <NS type="M"><c>of the</c></NS> school and home rules in my country, France.</p>
+          <p>First of all, and I think it's <NS type="R"><i>a big difference with</i><c>very different in</c></NS> England, children don't wear uniforms at school. I was very surprised when I saw them in your country. It was a bit funny for me.</p>
+          <p>Of course when you're in class you have to behave yourself<NS type="R"><i>,</i><c> and</c></NS> be polite with the teacher and the other <NS type="RP"><i>school children</i><c>schoolchildren</c></NS>. During the break <NS type="UY"><i>too</i></NS>, usually some teachers stay out and keep an eye on you. I think nowadays, children are more free and <NS type="RJ">heard</NS><NS type="RP"><i>,</i><c>.</c></NS> I mean <NS type="MT"><c>as regards</c></NS> the contact between them and adults. Usually they know what they're allowed to do or not and if they don't respect it, the teacher not only punishes them (<NS type="MC"><c>though</c></NS> not always) but also speaks with them.</p>
+          <p>At home <NS type="MA"><c>it</c></NS> is different<NS type="RP"><i>, each</i><c>. Each</c></NS> family has its own rules. <NS type="ID"><i>As I am concerned</i><c>As far as I am concerned</c></NS>, when I was a child, I was not allowed to stay <NS type="MY"><c>up</c></NS> very late with my parents and sometimes I wanted to because I was not tired. But I was a <NS type="RJ"><i>wise</i><c>clever</c></NS> child<NS type="RP"><i>, so</i><c>. So</c></NS><NS type="RP"><i>! Usually</i><c>, usually</c></NS>, at home, like at school, you have to behave yourself but differently, because you're at home so you feel more confident. There are some rules<NS type="MP"><c>,</c></NS> like "don't speak with a full mouth"; "don't put your finger in your <NS type="RN"><i>noise</i><c>nose</c></NS>"; "say please and thank you"; "don't fight with your brother"; and so on, but I think it's the same everywhere.</p>
+          <p>Well, I hope I've helped you a little and I look forward to hearing from you soon.</p>
+          <p>With lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

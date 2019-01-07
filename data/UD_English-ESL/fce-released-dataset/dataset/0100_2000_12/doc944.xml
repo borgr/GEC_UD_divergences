@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR391*0100*2000*02">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>As we have seen the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> the <NS type="DN"><i>programmed</i><c>programme</c></NS> the school <NS type="RV"><i>set</i><c>arranged</c></NS> for us as a farewell <NS type="AGN"><i>activities</i><c>activity</c></NS>, we are very <NS type="DJ"><i>appreciate</i><c>appreciative</c></NS> and would like to thank <NS type="MA"><c>you</c></NS> for your kindness, as all of <NS type="R">them</NS> are very interesting and give us a chance to meet and <NS type="RV">join</NS> the other class<NS type="MP"><c>,</c></NS> which we <NS type="TV"><i>hardly done</i><c>have hardly done</c></NS> <NS type="R"><i>it before</i><c>at all</c></NS>.</p>
+          <p>However, on <NS type="UD"><i>the</i></NS> March 14, there is the "London Fashion and Leisure Show", which is also interesting for us. As you know all of us in this class are preparing to <NS type="R">go in for</NS> the art &amp; design school in the next semester. So this is a great <NS type="S"><i>oppotunity</i><c>opportunity</c></NS> for us to get used to the real world of fashion design, because in this show there will <NS type="RV"><i>have</i><c>be</c></NS> a fashion show, a <NS type="S"><i>demonstation</i><c>demonstration</c></NS> from <NS type="MP"><i>make up</i><c>make-up</c></NS> artists, and a contest for hair <NS type="FN"><i>stylist</i><c>stylists</c></NS>. Furthermore, most of the <NS type="S"><i>famouse</i><c>famous</c></NS> <NS type="R">brand of <NS type="SX"><i>sport were</i><c>sportswear</c></NS> companies</NS> will <NS type="RV"><i>join in</i><c>be at</c></NS> this exhibition with their new <NS type="FN"><i>product</i><c>products</c></NS> for the coming season.</p>
+          <p>We would like to know if all of us can <NS type="RV"><i>join in</i><c>go to</c></NS> this event. We all agree that we are going <NS type="R"><i>to join</i><c>on</c></NS> the school trip to <NS type="MD"><c>the</c></NS> Science Museum, which is the most interesting trip for us. Anyway, <NS type="S"><i>intstead</i><c>instead</c></NS> of <NS type="FV"><i>go</i><c>going</c></NS> shopping in the afternoon session, we will attend the show. This is the solution that we all think <NS type="UA"><i>it</i></NS> will be the <NS type="RY"><i>less</i><c>least</c></NS> <NS type="RJ"><NS type="DJ"><i>effected</i><c>effective</c></NS></NS> to the other students, as the school do not need to re-arrange <NS type="RQ"><i>all the</i><c>the whole</c></NS> trip just because of our special <NS type="DN"><i>interesting</i><c>interest</c></NS>.</p>
+          <p>We hope <NS type="MY"><c>very</c></NS> much that you understand, and would like to thank <NS type="MA"><c>you</c></NS> in advance for your cooperation.</p>
+          <p>We <NS type="TV"><i>looking</i><c>look</c></NS> forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>I had never wanted to be a hero</p>
+          <p>It was dangerous, but I <NS type="TV"><i>know</i><c>knew</c></NS> I had to do it. Even though all of my friends who were with me <NS type="RT"><i>in</i><c>on</c></NS> that day <NS type="UQ"><i>all</i></NS> said<NS type="MP"><c>,</c></NS> "Just let it go, it's <NS type="CL"><i>just only</i><c>only</c></NS> a puppy. Why do you have to take a risk?" It seemed that <NS type="X"><i>all of them didn't have</i><c>none of them had</c></NS> any sympathy <NS type="RT"><i>to</i><c>for</c></NS> that lovely <NS type="DJ"><i>blue eyes</i><c>blue-eyed</c></NS> puppy that somebody who <NS type="TV"><i>have</i><c>had</c></NS> no mercy <NS type="TV"><i>just left</i><c>had just left</c></NS> <NS type="UA"><i>it</i></NS> there, <NS type="RT"><i>in</i><c>on</c></NS> a highway.</p>
+          <p><NS type="R">If you imagine how dangerous you were while you had to stop your car and got</NS> <NS type="RY"><i>off</i><c>out</c></NS> <NS type="MT"><c>of</c></NS> the car on the highway where <NS type="R">there were only car at least 120 km/hr running along your side</NS>. It was true that small dog <NS type="AGV"><i>were</i><c>was</c></NS> in danger, but your life <NS type="TV"><i>was</i><c>would be</c></NS> in that situation as well once you <NS type="TV"><i>decide</i><c>decided</c></NS> to do that brave thing. <NS type="R"><i>All my</i><c>My whole</c></NS> body was shaking, and I would almost have turned back to my car if I <NS type="RV"><i>didn't</i><c>hadn't</c></NS> <NS type="TV"><i><NS type="SX"><i>here</i><c>hear</c></NS></i><c>heard</c></NS> that small creature cry as if he wanted me to be his owner.</p>
+          <p>So I just crossed the road, <NS type="W"><i>and jumped,</i><c>jumped, and</c></NS> picked him up. I <NS type="TV"><i>feel</i><c>felt</c></NS> like I was a hero at that moment, even though I'd never <NS type="SX"><i>though</i><c>thought</c></NS> of it before.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

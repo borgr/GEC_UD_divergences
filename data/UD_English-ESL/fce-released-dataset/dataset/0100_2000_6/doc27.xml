@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1095*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>31-40</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>13th June</p>
+          <p>Dear Ms Ryan</p>
+          <p>I am so grateful and I can't believe I am so lucky to <NS type="FV"><i>receiving</i><c>receive</c></NS> your letter in which <NS type="MA"><c>you</c></NS> said that I have won the first prize in your competition, <NS type="RT"><i>for</i><c>of</c></NS> two weeks camping in California in the U.S.A.</p>
+          <p>I am writing to inform <NS type="MA"><c>you</c></NS> that I can only go in July, the summer holiday, because I have got a place <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> university and it will start in August. Is <NS type="UA"><i>there</i></NS> the time I request available? I would also like to ask <NS type="M"></NS> accommodation you offer <NS type="AGV"><i>are</i><c>is</c></NS> in <NS type="RN"><i>tens</i><c>tents</c></NS> or log cabins. If I can choose I would prefer <NS type="RN"><i>tens</i><c>tents</c></NS>. I like to sleep on open land and see the sun come up in the morning.</p>
+          <p>In addition, I choose painting and sailing for my activities. I <NS type="MY"><i>can</i><c>can't</c></NS> wait to do my painting <NS type="RT"><i>for</i><c>of</c></NS> the rising sun, and can't imagine how wonderful sailing along the rivers <NS type="MV"><c>will be</c></NS>.</p>
+          <p>Finally, can you tell me what kind of clothes I should bring with <NS type="MA"><c>me</c></NS>, and how much spending money will be <NS type="TV"><i>need</i><c>needed</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>JUAN LILY LEE</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>13th June</p>
+          <p>Shopping is not always enjoyable. I don't really like shopping. <NS type="RY"><i>Sometime</i><c>Sometimes</c></NS> when I'm <NS type="RJ"><i>boring</i><c>bored</c></NS> and can't find something else to do<NS type="RP"><i>.</i><c>,</c></NS> I go look round <NS type="MD"><c>the</c></NS> shops. When I see some clothes in the window I like, I <NS type="UV"><i>would</i></NS> go in and try them <NS type="MY"><c>on</c></NS>. But I always <NS type="AGV"><i>finds</i><c>find</c></NS> <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="MV"><c>do</c></NS> not look nice on me. <NS type="R">The other thing I don't like going shopping is</NS> <NS type="RT"><i>in</i><c>at</c></NS> the weekend. All the shops are full of people, and people treat the <NS type="RN"><i><NS type="S"><i>articals</i><c>articles</c></NS></i><c>items</c></NS> like rubbish<NS type="RP"><i>. <NS type="FV"><i>Hang</i><c>Hanging</c></NS></i><c>, hanging</c></NS> them <NS type="RP"><i>every where</i><c>everywhere</c></NS> after they <NS type="TV"><i>tried</i><c>have tried</c></NS> <NS type="M"><c>them on</c></NS> and <NS type="MV"><c>found</c></NS> that <NS type="MA"><c>they</c></NS> <NS type="RV"><i><NS type="AGV"><i>was</i><c>were</c></NS></i><c>did</c></NS> not suit them.</p>
+          <p>Also <NS type="RT"><i>in</i><c>with</c></NS> <NS type="UD"><i>the</i></NS> weekend shopping<NS type="RP"><i>. You</i><c>, you</c></NS> <NS type="UV"><i>do</i></NS> can't find <NS type="RP"><i>some where</i><c>somewhere</c></NS> to sit down <NS type="DY"><i>comfortaly</i><c>comfortably</c></NS> to have a cup of tea. Mc.Donnals, K.F.C, <NS type="R"><i>the</i><c>are</c></NS> all full of people.</p>
+          <p>However, shopping is <NS type="M"><i>nice</i><c>a nice way</c></NS> to spend <NS type="DD"><i>you</i><c>your</c></NS> leisure time and give yourself <NS type="M"><c>a chance</c></NS> to relax sometimes, but <NS type="MA"><c>I</c></NS> suggest that <NS type="M"><i>never</i><c>you never do it</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the weekend.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

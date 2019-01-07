@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR257*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>MR. MANAGER,</p>
+          <p>I'M WRITING <NS type="MT"><c>TO</c></NS> YOU TO COMPLAIN ABOUT THE MUSICAL SHOW "OVER THE RAINBOW" <NS type="S"><i>WICH</i><c>WHICH</c></NS> WAS <NS type="RV"><i>PRESENTED</i><c>PERFORMED</c></NS> LAST WEEK. YOUR ADVERTISING LEAFLET WAS COMPLETELY <NS type="RJ"><i>WRONG</i><c>INACCURATE</c></NS><NS type="RP"><i>,</i><c>.</c></NS> IT SAID THAT DANNY BROOK WAS ACTING BUT, WHEN I GOT THERE, THERE WAS ANOTHER GUY ON STAGE. IT WAS DISAPPOINTING, SPECIALLY FOR ME WHO IS A GREAT FAN OF DENNY. THAT'S NOT ALL! IT STARTED FORTY-FIVE MINUTES AFTER THE RIGHT TIME AND WE HAD TO WAIT OUTSIDE THE THEATRE. THE TICKETS WERE SUPPOSED TO <NS type="RV"><i>HAVE</i><c>INCLUDE</c></NS> DISCOUNTS BUT THE LADY WHO WAS SELLING <NS type="MA"><c>THEM</c></NS> TOLD ME THAT I MUST BE WRONG, THEY NEVER GIVE ANY DISCOUNTS TO ANYONE.</p>
+          <p>AFTER THE SHOW, I WENT TO VISIT YOUR RESTAURANT AS SUGGESTED <NS type="RT"><i>ON</i><c>IN</c></NS> THE ADVERTISEMENT BUT WHEN I GOT THERE IT WAS CLOSED. ONE OF THE EMPLOYEES OF THE THEATRE TOLD ME THAT IT WAS BECAUSE THEY WERE CLEANING IT TO GET RID OF THE RATS. <NS type="RV"><i>I'VE</i><c>I WAS</c></NS> NOT IMPRESSED WHEN HE TOLD ME THIS.</p>
+          <p>FOR ALL <NS type="AGD"><i>THIS</i><c>THESE</c></NS> REASONS MY EVENING WAS TERRIBLE AND I WOULD LIKE TO RECEIVE AT LEAST PART OF MY MONEY BACK.</p>
+          <p>YOURS <NS type="S"><i>SINCEARLY</i><c>SINCERELY</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>SINCE I WAS BORN, SCIENCE AND TECHNOLOGY <NS type="TV"><i>ARE</i><c>HAVE BEEN</c></NS> DEVELOPING FASTER AND FASTER<NS type="RP"><i>,</i><c>.</c></NS> JUST <NS type="RT"><i>AS</i><c>FOR</c></NS> EXAMPLE, <NS type="MD"><c>THE</c></NS> INTERNET GETS HUNDREDS OF NEW USERS EVERY SINGLE DAY. THIS TECHNOLOGY <NS type="TV"><i>CHANGED</i><c>HAS CHANGED</c></NS> OUR <NS type="AGN"><i>LIFE</i><c>LIVES</c></NS> IN MANY WAYS AND WE ALMOST DON'T NOTICE IT.</p>
+          <p>IN MY CASE, I'M COMPLETELY INTEGRATED WITH THEM, <NS type="MT"><c>IN</c></NS> ALMOST EVERYTHING I DO I USE THIS TECHNOLOGY. WHEN I WAS YOUNGER I USED TO READ BOOKS, WRITE, LISTEN TO THE RADIO AND, NOWADAYS, YOU CAN DO ALL <NS type="AGD"><i>THIS</i><c>THESE</c></NS> THINGS USING A COMPUTER. IT'S ONE OF THE MOST USEFUL TOOLS THAT MEN <NS type="TV"><i>INVENTED</i><c>HAVE INVENTED</c></NS><NS type="MP"><c>.</c></NS> IT'S POSSIBLE TO DO <NS type="UP"><i>LOT'S</i><c>LOTS</c></NS> OF THINGS AND TALK TO OTHER PEOPLE TOO USING A PC. <NS type="W"><i>MOST OF MY DAY I SPEND</i><c>I SPEND MOST OF MY DAY</c></NS> IN FRONT OF ONE OF THOSE MACHINES, STUDYING, RESEARCHING, PLAYING AND TALKING TO FRIENDS ALL AROUND THE WORLD.</p>
+          <p>THIS TECHNOLOGY <NS type="W"><i>HAS ALSO</i><c>ALSO HAS</c></NS> IT'S BAD ASPECT<NS type="RP"><i>,</i><c>.</c></NS> IT <NS type="RV"><i>MAKES</i><c>DISTANCES</c></NS> YOU <NS type="UJ"><i><NS type="IJ"><i>MORE FAR</i><c>FURTHER</c></NS></i></NS> FROM PEOPLE<NS type="RP"><i>,</i><c>;</c></NS> <NS type="M"><c>YOU BECOME</c></NS> ISOLATED FROM TRUE RELATIONSHIPS BUT YOU CAN HANDLE IT WHEN YOU <NS type="TV"><i>GOT</i><c>GET</c></NS> USED TO THIS.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

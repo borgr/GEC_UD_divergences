@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR348*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm writing to complain about the service <NS type="R">you'd offered</NS> me last Saturday evening at The Circle Theatre.</p>
+          <p><NS type="TV"><i>I've</i><c>I'd</c></NS> read your advertisement and it didn't <NS type="RV"><i>say</i><c>tell</c></NS> the truth. There weren't any <NS type="AGN"><i>discount</i><c>discounts</c></NS> available as you'd assured <NS type="MA"><c>me</c></NS> in the <NS type="SX"><i>add</i><c>ad</c></NS>. I think you should check the information before <NS type="FV"><i>print</i><c>printing</c></NS> it!</p>
+          <p>I arrived at the right time (19.30) that evening but the play, which was 'Over The Rainbow', started almost an hour <NS type="FY"><i>later</i><c>late</c></NS>. And nobody told me why!</p>
+          <p>When the play began I realised that the main actor had been <NS type="RV"><i>changed</i><c>replaced</c></NS> and the new one wasn't good at all.</p>
+          <p>I couldn't visit the theatre after the performance because it was closed for <NS type="RN"><i>reparations</i><c>repairs</c></NS>. Why didn't you say something about it?</p>
+          <p>I didn't have the 'perfect evening out' you'd promised so I want to ask for my money back because your service was terrible.</p>
+          <p>Please answer my letter as soon as possible. I'll be looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>Marcella, Scalia C.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>'How Has Modern Technology Changed My Daily Life?'</p>
+          <p>This is not a simple question because I <NS type="RV"><i>got</i><c>have been</c></NS> used to dealing with technology since I was a child but I'm going to try to explain <NS type="MT"><c>to</c></NS> you how <NS type="M"></NS>.</p>
+          <p>I didn't have a computer until I was eight. Then my brother and I started to develop a new ability. <NS type="RT"><i>In</i><c>At</c></NS> that time I used the computer only to play <NS type="U"><i>with its</i></NS> video games.</p>
+          <p>When I was thirteen I discovered a completely different use for my computer. It became <NS type="S"><i>scencial</i><c>essential</c></NS> to <NS type="FV"><i>do</i><c>doing</c></NS> my homework. And years later it enabled me to get a very good job.</p>
+          <p>One day my mother got a terrible disease. She had to be operated on and my family and I were very scared. But when we talked to the doctor we felt more relaxed because he <NS type="RV"><i>answered</i><c>told</c></NS> us that the operation was a very simple one.</p>
+          <p>I think that if my mother had got ill ten years before, she wouldn't <NS type="TV"><i>survive</i><c>have survived</c></NS>. <NS type="UD"><i>The modern</i><c>Modern</c></NS> technology is better now than <NS type="UA"><i>what</i></NS> it used to be.</p>
+          <p>What do you think about this? I'm sure that these arguments have explained my point of view, haven't they? Now I would like to have your point of view.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

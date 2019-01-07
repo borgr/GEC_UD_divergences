@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR877*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>&lt;16</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Helen</i></NS> Ryan,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you to answer the letter in which, as you probably know, you congratulated me for having won first prize in your competition and tried to encourage me to travel to California and attend that <NS type="RP"><i>Camp</i><c>camp</c></NS>.</p>
+          <p>I'm going to give you all the information you need from me.</p>
+          <p>I <NS type="W"><i>only can</i><c>can only</c></NS> travel <NS type="SX"><i>I</i><c>in</c></NS> July, because <NS type="RA"><i>it</i><c>that</c></NS> is when I stop playing basketball to rest before starting the new season. I don't mind staying wherever you want me to. However, I prefer log cabins to tents. They're more comfortable.</p>
+          <p><NS type="RT"><i>According to</i><c>Regarding</c></NS> the activities<NS type="MP"><c>,</c></NS> I would love to play basketball. I'm used to playing it, and I'm quite a good player. The other activities don't appeal <NS type="MT"><c>to</c></NS> me much, but I'm quite good at <NS type="RP"><i>Golf</i><c>golf</c></NS>. I like surfing and playing tennis, <NS type="M"><c>and sports</c></NS> such as sailing and climbing. Please, don't make me sing or paint, because I'm not very keen on it.</p>
+          <p><NS type="RP"><i><NS type="UP"><i>there'are</i><c>there are</c></NS></i><c>There are</c></NS> no more questions.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you to tell you how much I enjoyed last Saturday.</p>
+          <p>It was such a beautiful night! <NS type="DJ"><i>Unforgetable</i><c>Unforgettable</c></NS>.</p>
+          <p>I had always dreamt of being near "The Cranberies", but I had never thought that the dream could <NS type="FV"><i>became</i><c>become</c></NS> <NS type="S"><i>reallity</i><c>reality</c></NS>.</p>
+          <p>During the afternoon, Tim and <NS type="FA"><i>me</i><c>I</c></NS> spent the hours before the <NS type="S"><i>concer</i><c>concert</c></NS> <NS type="RV"><i>laying</i><c>lying</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the park next to the <NS type="DN"><i>sport hall</i><c>sports hall</c></NS> where the concert was to be held.</p>
+          <p><NS type="RP"><i>AT</i><c>At</c></NS> seven o'clock on the dot we went there <NS type="UT"><i>for</i></NS> <NS type="FV"><i>starting</i><c>to start</c></NS> queueing. We bought the tickets and then we <NS type="TV"><i>sit</i><c>sat</c></NS> down to rest.</p>
+          <p>After a few minutes the dream happened: Kare - the <NS type="S"><i>guitarrist</i><c>guitarist</c></NS> - appeared over there. At first we both thought we were dreaming but when we realised it was true we went there and <NS type="TV"><i>ask</i><c>asked</c></NS> him some questions. And then we <NS type="RV"><i><NS type="TV"><i>bring</i><c>brought</c></NS></i><c>carried</c></NS> his guitar for him. It was great to help him.</p>
+          <p>Finally he said how <NS type="RJ"><i>thankful</i><c>grateful</c></NS> he was and <NS type="S"><i>alowed</i><c>allowed</c></NS> us to stay with them till the concert started.</p>
+          <p>That's all.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Aladdin</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

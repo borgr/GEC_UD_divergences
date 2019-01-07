@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR85*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>My name is Furilo J.M. and last month I spent a few days in London<NS type="RP"><i>,</i><c>;</c></NS> I visited <NS type="DD"><i>you</i><c>your</c></NS> theatre.</p>
+          <p>The reason I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter <NS type="RT"><i>for</i><c>to</c></NS> you is that <NS type="RT"><i>in</i><c>during</c></NS> my <NS type="DN"><i>staying</i><c>stay</c></NS> in London I felt very disappointed about your theatre.</p>
+          <p>When I went to that theatre I was very excited because I was thinking I would see my favourite musical star, someone <NS type="MA"><c>who</c></NS> actually didn't appear<NS type="RP"><i>,</i><c>;</c></NS> I noticed <NS type="R"><i>there</i><c>that</c></NS> in the show, <NS type="M"><c>there was</c></NS> someone completely different <NS type="RT"><i>of</i><c>to</c></NS> him so I felt bad.</p>
+          <p>Moreover, this <NS type="RN"><i>complaining</i><c>complaint</c></NS> is not only about the actor, <NS type="RP"><i>who ever</i><c>whoever</c></NS> <NS type="M"></NS>, the problem is that the show started too late. I arrived there at 19:00 and the show began <NS type="UY"><i>only</i></NS> <NS type="MT"><c>at</c></NS> 20:15.</p>
+          <p><NS type="MY"><c>When</c></NS> I bought my tickets, I noticed I didn't <NS type="RV"><i>have</i><c>get</c></NS> any <NS type="FN"><i>discounts</i><c>discount</c></NS> <NS type="RT"><i>as</i><c>like</c></NS> <NS type="R"><i>it</i><c>the one that</c></NS> was written on the folder. After the show I wanted <NS type="RP"><i>some thing</i><c>something</c></NS> <NS type="RT"><i>on</i><c>from</c></NS> the theatre's restaurant, but it was closed.</p>
+          <p>After all the <NS type="DN"><i>inconvenients</i><c>inconvenience</c></NS> that made me feel really mad. I think I can <NS type="W"><i>forgive your theatre, only</i><c>only forgive your theatre</c></NS> if you give me a refund of the money I spent there, and some <NS type="UD"><i>other</i></NS> more for all the problems I had.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Technology nowadays is something everybody has on <NS type="RD"><i>your</i><c>his</c></NS> <NS type="UA"><i>own</i></NS> mind. Every person in the world looks <NS type="RT"><i>for</i><c>to</c></NS> technology <NS type="RP"><i>everyday</i><c>every day</c></NS> to improve the way they live their own <NS type="AGN"><i>life</i><c>lives</c></NS>.</p>
+          <p>We young people don't remember when technology wasn't part of our daily life, but our parents, or <NS type="RP"><i>grand parents</i><c>grandparents</c></NS> remember <NS type="MA"><c>it</c></NS> <NS type="RY"><i>exactly</i><c>well</c></NS> <NS type="MT"><c>from</c></NS> when they were young, and everything was made in a different way<NS type="RP"><i>, for</i><c>. For</c></NS> example our parents didn't have computers at home when they were teenagers.</p>
+          <p>Nowadays, it's very common to have a computer <NS type="RT"><i>at</i><c>in</c></NS> your house, and when you have to do <NS type="R"><i>a</i><c>some</c></NS> homework, you can type it on your computer, print it and bring it to <NS type="UD"><i>the</i></NS> school<NS type="RP"><i>, also</i><c>. Also</c></NS> you can search for new subjects on the <NS type="RP"><i>internet</i><c>Internet</c></NS>.</p>
+          <p>Finally, technology is a word that <NS type="MA"><c>we</c></NS> will never get out of our minds, and we don't know how <NS type="UN"><i>technology</i></NS>, <NS type="RC"><i>and</i><c>or</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RQ"><i>which</i><c>what</c></NS> speed<NS type="MP"><c>,</c></NS> it will develop <NS type="RT"><i>to</i><c>in</c></NS> the future. Maybe, technology will never stop <NS type="RV"><i>growing</i><c>advancing</c></NS> and our life will never work without computers.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

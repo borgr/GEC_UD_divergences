@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR869*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen,</p>
+          <p>It <NS type="TV"><i>is</i><c>was</c></NS> great to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you. I cannot believe I'm the winner of your competition.</p>
+          <p>I'm really very happy.</p>
+          <p>As far as <NS type="R"><i>some</i><c>the</c></NS> further information you need from me is concerned, I am very glad to give you all the <NS type="R"><i>details of the matter</i><c>relevant details</c></NS>.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July; that is for me the only possibility because I will finish my course <NS type="RT"><i>a</i><c>at</c></NS> <NS type="RP"><i>University</i><c>university</c></NS> at the end of June and I will start to work in September.</p>
+          <p>As far as <NS type="S"><i>accomodtion</i><c>accommodation</c></NS> is concerned, I would like to live in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> at Camp California. I prefer this type of <NS type="S"><i>accomodation</i><c>accommodation</c></NS> because I am used to living in tents during my summer holidays.</p>
+          <p>As I am an athletic swimmer and a good surfer too, my choice from your attached list is naturally swimming and surfing.</p>
+          <p>I like to <NS type="R"><i>travel with light <NS type="S"><i>logguage</i><c>luggage</c></NS></i><c>travel light</c></NS> and I have no idea about the weather; could you suggest <NS type="UA"><i>me</i></NS> what kind of clothes I <NS type="RV"><i>have</i><c>should</c></NS> <NS type="FV"><i>to bring</i><c>bring</c></NS> with me?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Hi Kim!</p>
+          <p>It's great to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you!</p>
+          <p>The <NS type="W"><i>last month concert</i><c>concert last month</c></NS>! The singer was fabulous and the musicians played fantastic songs.</p>
+          <p>I was employed in <NS type="R"><i>the security service</i><c>security</c></NS>. I did it for free because it was a non-profit concert <NS type="UT"><i>for</i></NS> <NS type="FV"><i>helping</i><c>to help</c></NS> the poor people. It was the first time for me and I consider this experience the best of my life.</p>
+          <p>I had to look after people near the stage. The organiser gave me a radio and I had to advise the other staff members in case of <NS type="MQ"><c>any</c></NS> disorder. At the same time I could enjoy the music! I think this is what I particularly liked about this experience.</p>
+          <p>I suggest you <NS type="FV"><i>to try</i><c>try</c></NS> this kind of experience. You should be <NS type="DJ"><i>pride</i><c>proud</c></NS> of <NS type="RA"><i>you</i><c>yourself</c></NS><NS type="MP"><c>,</c></NS> helping people who <NS type="AGV"><i>suffers</i><c>suffer</c></NS>, and at the same time you <NS type="RV"><i>may</i><c>can</c></NS> enjoy yourself!</p>
+          <p>I am looking forward to seeing you!</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

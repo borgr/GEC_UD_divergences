@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR511*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Santiago, June 17th, 200</p>
+          <p>Dear Sir,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> this letter because I am very <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> with your musical show. I recently went to London on vacation, with some friends. We were told that this was a great show, and we decided to see how it was. If the show was as good as we were told we should save our final night for it, this was going to be the end of our vacation, a great one<NS type="MP"><c>,</c></NS> by the way.</p>
+          <p>When our final day arrived, we went <NS type="IV"><i>shoping</i><c>shopping</c></NS> in the morning and then we went to the hotel to change our clothes and get ready for the show.</p>
+          <p>When we arrived, <NS type="SX"><i>the</i><c>there</c></NS> were a lot of people, the <NS type="RN"><i>pace</i><c>place</c></NS> was <NS type="S"><i>beatiful</i><c>beautiful</c></NS>, all seemed perfect. When we <NS type="TV"><i><NS type="DV"><i>entrance</i><c>enter</c></NS></i><c>entered</c></NS> the place our problems <NS type="TV"><i>begun</i><c>began</c></NS>. First, there were no <NS type="AGN"><i>discount</i><c>discounts</c></NS> on the tickets but that was fine. Then, the show had a great delay, almost an hour<NS type="RP"><i>,</i><c>;</c></NS> we <NS type="TV"><i>deal</i><c>dealt</c></NS> with that too. After that they changed the principal actor, the one that replaced him was very bad, that made us <NS type="DY"><i>realy</i><c>really</c></NS> angry. But that isn't all, to complete this tragedy the restaurant was closed.</p>
+          <p>I hope that you understand <NS type="RC"><i>that</i><c>why</c></NS> I want my money back, or at least some of it, because this <NS type="AGV"><i>weren't</i><c>wasn't</c></NS> my "perfect evening out"</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>How has <NS type="S"><i>moden</i><c>modern</c></NS> technology changed my daily life? I think that technology <NS type="AGV"><i>have</i><c>has</c></NS> <NS type="TV"><i>change</i><c>changed</c></NS> my life and <NS type="MP"><i><NS type="CN"><i>everybodies</i><c>everybody</c></NS></i><c>everybody's</c></NS> life in many ways. Nowadays, technology is everywhere, all over your house, your school, <NS type="S"><i>ofice</i><c>office</c></NS> or any place you can be in a city. This technology has <NS type="TV"><i>help</i><c>helped</c></NS> to <NS type="FV"><i>made</i><c>make</c></NS> my life easier and more exciting, but like <NS type="S"><i>everithing</i><c>everything</c></NS> <NS type="MA"><c>it</c></NS> <NS type="MV"><c>has</c></NS> had some negative <NS type="AGN"><i><NS type="RN"><i>thing</i><c>aspect</c></NS></i><c>aspects</c></NS>.</p>
+          <p>This technology has <NS type="TV"><i>help</i><c>helped</c></NS> in many fields, like medicine, <NS type="S"><i>entreteinment</i><c>entertainment</c></NS>, work and other <NS type="AGN"><i>thing</i><c>things</c></NS>, so it has <NS type="S"><i>obviusly</i><c>obviously</c></NS> <NS type="TV"><i>change</i><c>changed</c></NS> the <NS type="AGN"><i>life</i><c>lives</c></NS> of many people.</p>
+          <p>The bad <NS type="RN"><i>things</i><c>consequences</c></NS> that this could have are <NS type="S"><i>unimportan</i><c>unimportant</c></NS>, in <NS type="S"><i>comperison</i><c>comparison</c></NS> with all the good things <NS type="RA"><i>this</i><c>it</c></NS> <NS type="AGV"><i>have</i><c>has</c></NS> done, so let's <NS type="UV"><i>don't</i><c>not</c></NS> focus on the negative aspects of it.</p>
+          <p>I think technology has become a part of our <NS type="IN"><i>lifes</i><c>lives</c></NS>, so we have to learn how to live in this new world, <NS type="RA"><i>that</i><c>which</c></NS> is changing as fast as computers change. This is a new era, an era for a new <NS type="S"><i>tipe</i><c>type</c></NS> of people, the <NS type="S"><i>feuta</i><c>future</c></NS> people</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

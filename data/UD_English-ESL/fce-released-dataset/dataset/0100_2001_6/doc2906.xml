@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE6*0100*2001*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing to reply to your letter and to give answers to your questions.</p>
+          <p>The group has been booked into the Palace Hotel, a five star hotel, which offers many facilities. It is famous for its friendly staff and comfortable rooms. The students can get there <NS type="RT"><i>with</i><c>on</c></NS> the No 35 bus. They must get on the bus from the city centre and get off after five <NS type="RN"><i>stations</i><c>stops</c></NS> at Palace Station. The hotel is opposite the station.</p>
+          <p>At the <NS type="DN"><i>end-of-conference</i><c>end of the conference</c></NS><NS type="MP"><c>,</c></NS> the college, in which the conference will be held, gives a party for all the students. <NS type="AGA"><i>It</i><c>They</c></NS> will be offered light food, like sandwiches, pommes frites, chips, sweets and different drinks - no alcohol. There will be <NS type="DJ"><i>life</i><c>live</c></NS> music and the students can dance and enjoy themselves. It would be better to wear casual clothes, because they are more comfortable and are liked by students.</p>
+          <p>On the last day, the students can enjoy a sightseeing tour around the city, which can be arranged if the students want to. The group can also visit the zoo, the opera or stay and relax <NS type="RT"><i>at</i><c>in</c></NS> the college's enormous garden and enjoy the <NS type="RN"><i>settings</i><c>scenery</c></NS>.</p>
+          <p>Do not hesitate to contact me if you require further information. I am looking forward to seeing you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>To: Group Leader of American students</p>
+          <p>From:</p>
+          <p>Subject: An interesting building to visit</p>
+          <p>Here is information about the Castle in Nyremberg</p>
+          <p>Location: The castle is in the city centre <NS type="RJ"><i>nearby</i><c>near</c></NS> an enormous church. <NS type="RA"><i>Someone</i><c>You</c></NS> can get to the city centre <NS type="RT"><i>with</i><c>on</c></NS> the No.456 bus and then <NS type="MV"><c>go</c></NS> on foot to the castle.</p>
+          <p>Service: It is over 100 years old but it is kept in <NS type="UD"><i>a</i></NS> good condition by the local people, who are <NS type="S"><i>proude</i><c>proud</c></NS> of this castle.</p>
+          <p>Activities: At <NS type="RD"><i>this</i><c>the</c></NS> time of the year<NS type="UP"><i>,</i></NS> you will visit Nyremberg, <NS type="W"><i><NS type="RT"><i>on</i><c>in</c></NS> the castle are <NS type="TV"><i>taken</i><c>taking</c></NS> place many theatrical plays or concerts</i><c>many theatrical plays or concerts are taking place in the castle</c></NS>.</p>
+          <p>View: From the castle you can have a wonderful view of <NS type="RQ"><i>all the</i><c>the whole</c></NS> town, especially at night when all the lights are on. It is a different <NS type="S"><i>expirience</i><c>experience</c></NS>.</p>
+          <p>History: At the castle <NS type="MA"><c>there</c></NS> are always <NS type="MD"><c>a</c></NS> few guides, who will show someone around and tell him about the history of the castle (when it was built, by whom and why), which makes everyone <NS type="S"><i>enthousistic</i><c>enthusiastic</c></NS>.</p>
+          <p>RECOMMENDATION</p>
+          <p>I <NS type="S"><i>recomment</i><c>recommend</c></NS> <NS type="FV"><i>to visit</i><c>visiting</c></NS> this castle, because it is interesting, <NS type="SA"><i>marvelous</i><c>marvellous</c></NS> and something different. It is the favourite place of all the tourists who visit Nyremberg. Nyremberg is also famous for this castle and the students will have a different <NS type="S"><i>expirience</i><c>experience</c></NS> and a lesson too. By the way<NS type="MP"><c>,</c></NS> you can visit the</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

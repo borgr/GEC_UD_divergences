@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR713*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan</p>
+          <p>It was a <NS type="SX"><i>grate</i><c>great</c></NS> pleasure to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you<NS type="UP"><i>,</i></NS> that I have won first prize in your competition.</p>
+          <p>I am very glad that all accommodation and travel costs are paid, but <NS type="RY"><i>even though</i><c>still</c></NS> I would like to know how much money <NS type="UV"><i>do</i></NS> I have to take with me. I would <NS type="R">be glad</NS> to travel only in July <NS type="RT"><i>because of</i><c>for</c></NS> family reasons. <NS type="RQ"><i>Other</i><c>Another</c></NS> point is accommodation. I would be more than happy if you could <NS type="FV"><i>have provided</i><c>provide</c></NS> me with <NS type="MD"><c>a</c></NS> tent. The reasons <NS type="R"><i>as</i><c>are the</c></NS> following<NS type="RP"><i>;</i><c>:</c></NS> <NS type="M"><c>a tent promotes a</c></NS> better relationship with nature, and <NS type="M"><c>is a</c></NS> <NS type="SX"><i>grate</i><c>great</c></NS> opportunity to improve my health.</p>
+          <p>Also I would like to tell you which activities I would like to <NS type="FV"><i>chose</i><c>choose</c></NS> and why. I like swimming and photography because it will be very interesting to improve my skills at both activities.</p>
+          <p>The last thing I would like to know is <NS type="RA"><i>which</i><c>what</c></NS> clothes <NS type="UV"><i>do</i></NS> I have to take, even though the <NS type="S"><i>weathe</i><c>weather</c></NS> in July will be good.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Almost all of us like shopping! Going in and out of the shops, buying clothes, food and presents, but <NS type="UD"><i>a</i></NS> few of us <NS type="UA"><i>who</i></NS> <NS type="AGV"><i>is</i><c>are</c></NS> very happy to spend money.</p>
+          <p>Money is a very important thing <NS type="RT"><i>in</i><c>for</c></NS> shopping<NS type="RP"><i>, if</i><c>. If</c></NS> you have money, <NS type="MA"><c>it</c></NS> is not a problem, but if you don't? So, let's <NS type="S"><i>imagen</i><c>imagine</c></NS> that your credit card is not working, or some one <NS type="IV"><i>stold</i><c>stole</c></NS> your cash from your pocket. We will say <NS type="M"><c>you're</c></NS> unlucky, but no one will help you in that situation. Also it is very difficult to shop if you are <NS type="DJ"><i>handicapt</i><c>handicapped</c></NS>.</p>
+          <p>Staying in a <NS type="S"><i>que</i><c>queue</c></NS> or <NS type="S"><i>croude</i><c>crowd</c></NS> is also <NS type="S"><i>unplesent</i><c>unpleasant</c></NS>. All <NS type="MD"><c>the</c></NS> people are shouting, stepping on your feet and it is very likely that you won't get the product you need.</p>
+          <p><NS type="S"><i>After words</i><c>Afterwards</c></NS> you are <NS type="S"><i>tiered</i><c>tired</c></NS> and have no <NS type="RN"><i>power</i><c>energy</c></NS> to do things.</p>
+          <p>After all <NS type="MD"><c>the</c></NS> things that I have mentioned it is <NS type="DJ"><i>clearly</i><c>clear</c></NS> <NS type="UV"><i>seen</i></NS> that shopping is not enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

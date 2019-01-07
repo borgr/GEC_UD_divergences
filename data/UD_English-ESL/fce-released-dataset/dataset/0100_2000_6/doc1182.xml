@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR482*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am very impressed that I have won your competition. As the letter said that <NS type="R">all questions you would like to know, I'm going to give you in</NS> the following:</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> I would like to travel in July only because I have two <NS type="MP"><i>months</i><c>months'</c></NS> holiday which are July and August<NS type="RP"><i>,</i><c>.</c></NS> I choose July because it is the only <NS type="UD"><i>one</i></NS> month that I think I'm free. In August I have to work <NS type="UY"><i>so</i></NS>.</p>
+          <p>Secondly<NS type="MP"><c>,</c></NS> I prefer the tents because I've never been in <NS type="RD"><i>that</i><c>a</c></NS> tent so I would like to try.</p>
+          <p>Thirdly<NS type="MP"><c>,</c></NS> for the activities I would like to <NS type="FV"><i>chose</i><c>choose</c></NS> climbing and photography<NS type="RP"><i>,</i><c>.</c></NS> I have never done them before. The only reason is I would like to try and I think they are matching activities<NS type="RP"><i>, when</i><c>. When</c></NS> you climb <NS type="UT"><i>up</i></NS> the mountain <NS type="UY"><i>then</i></NS> you can take <NS type="UD"><i>the</i></NS> <NS type="FN"><i>photograph</i><c>photographs</c></NS> of the views.</p>
+          <p><NS type="RY"><i>Eventually</i><c>Finally</c></NS><NS type="MP"><c>,</c></NS> I would like to ask you<NS type="UP"><i>,</i></NS> <NS type="UV"><i>are</i></NS> about money and clothes. <NS type="AS"><i>How much do I have to bring the money</i><c>How much money do I have to bring</c></NS>? And what is the weather like? <NS type="RA"><i><NS type="RP"><i>which</i><c>Which</c></NS></i><c>What</c></NS> <NS type="MN"><c>clothes</c></NS> <NS type="R">I could bring them to be</NS> <NS type="RV"><i>match</i><c>suit</c></NS> the weather.</p>
+          <p>Yours sincerely</p>
+          <p>Sintawichai Chaow</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Shopping is when <NS type="L"><i><NS type="AGN"><i>human</i><c>humans</c></NS></i><c>people</c></NS> <NS type="AGV"><i>goes</i><c>go</c></NS> to the <NS type="FN"><i>shop</i><c>shops</c></NS> and buy what they <NS type="RV"><i>went</i><c>want</c></NS><NS type="RP"><i>, however</i><c>. However</c></NS><NS type="MP"><c>,</c></NS> I think this word is for women because they like beautiful clothes <NS type="MC"><c>and</c></NS> all <NS type="AGN"><i>sort</i><c>sorts</c></NS> of things.</p>
+          <p>Anyway<NS type="MP"><c>,</c></NS> shopping is not always enjoyable as the title <NS type="MV"><c>states</c></NS> because firstly you will get <NS type="RJ"><i>tied</i><c>tired</c></NS> because you have to walk <NS type="CL"><i>out and in</i><c>in and out</c></NS> the shops. Secondly you will get angry <NS type="RT"><i>on</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> bad <NS type="RN"><i>treatment</i><c>manners</c></NS> of the <NS type="RN"><i>sellers</i><c>assistants</c></NS> in the shop. Thirdly<NS type="MP"><c>,</c></NS> if you're fat you won't find <NS type="DD"><i>you</i><c>your</c></NS> size. <NS type="S"><i>Forthly</i><c>Fourthly</c></NS><NS type="MP"><c>,</c></NS> that product is too expensive for you and the last problem is you buy <NS type="SX"><i>to</i><c>too</c></NS> <NS type="CQ"><i>much</i><c>many</c></NS> things but you have not got your own car so you have to carry big boxes by <NS type="RP"><i>your self</i><c>yourself</c></NS>.</p>
+          <p>I think if you have lots of money and don't know what to do with it, do not go shopping give the money to charity<NS type="RP"><i>, that</i><c>. That</c></NS> is better than shopping. <NS type="ID"><i>For me my opinions on this one</i><c>In my opinion</c></NS> <NS type="MA"><c>it</c></NS> is true it is boring<NS type="RP"><i>, it</i><c>. It</c></NS> might <NS type="MV"><c>be</c></NS> because I am a boy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

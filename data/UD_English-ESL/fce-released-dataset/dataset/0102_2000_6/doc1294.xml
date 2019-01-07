@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR532*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing in order to explain to you the problems regarding the musical show I saw at your theatre.</p>
+          <p>First of all, <NS type="RA"><i>there</i><c>it</c></NS> was written in the advertisement for the show<NS type="UP"><i>,</i></NS> that <NS type="UY"><i>there</i></NS> <NS type="AS"><i>would be Danny Brook as main actor</i><c>the main actor would be Danny Brook</c></NS>, but a different actor played in the show.</p>
+          <p>The show started forty-five minutes <NS type="FY"><i>later</i><c>late</c></NS> and this really disappointed me. Besides, when I bought the ticket, I found out there <NS type="AGV"><i>was</i><c>were</c></NS> not <NS type="MQ"><c>any</c></NS> discounts for <NS type="AGN"><i>ticket</i><c>tickets</c></NS>, while you wrote the contrary. Moreover, I could not go to the theatre restaurant because, by the time the show had finished, it had already closed.</p>
+          <p><NS type="S"><i>Definetely</i><c>Definitely</c></NS>, it was a very disappointing evening and I would appreciate <NS type="RD"><i>your</i><c>it</c></NS> if it <NS type="TV"><i>was</i><c>is</c></NS> possible to have my money back.</p>
+          <p>I am looking forward to hearing from you in the near future.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She was a very pretty and kind girl, but she had this bad habit. This was her only fault. She had a lot of friends but nobody trusted her. That was why she <NS type="TV"><i>decide</i><c>decided</c></NS> to change her behaviour. She was given a chance: if she <NS type="TV"><i>had been</i><c>was</c></NS> able not to tell everybody a secret for a short time, her friends would <NS type="FV"><i>have started</i><c>start</c></NS> trusting her. The secret was about a <NS type="UP"><i>surprise-party</i><c>surprise party</c></NS> for her <NS type="RP"><i>bestfriend's</i><c>best friend's</c></NS> birthday. As soon as the <NS type="FN"><i>arrangement</i><c>arrangements</c></NS> for the party started, she began to feel nervous and anxious because she wanted to tell everything to her <NS type="RP"><i>bestfriend</i><c>best friend</c></NS>. But, as the days went by, she was surprised because she realized she was getting <NS type="RV"><i>used</i><c>used to</c></NS> not <NS type="FV"><i>to tell</i><c>telling</c></NS> secrets <NS type="RP"><i>any more</i><c>anymore</c></NS>. The day of the party arrived and Pat succeeded in keeping the secret. All her friends were amazed at <NS type="M"><c>how she had</c></NS> <NS type="UA"><i>her</i></NS> <NS type="TV"><i>change</i><c>changed</c></NS> and started trusting her at once.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

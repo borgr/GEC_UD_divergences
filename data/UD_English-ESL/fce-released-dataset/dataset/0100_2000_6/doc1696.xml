@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR670*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>Thank you for your letter. I'd like to go on holiday for two weeks at Camp California in the U.S.A. I can go only <NS type="RT"><i>on</i><c>in</c></NS> July because I'm a student. It's summer holiday <NS type="RT"><i>during</i><c>at</c></NS> that time. I want to know if it is <NS type="S"><i>avaliabile</i><c>available</c></NS> <NS type="RT"><i>during</i><c>at</c></NS> that time.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I would be pleased if the accommodation <NS type="TV"><i>is</i><c>was</c></NS> in <NS type="MD"><c>a</c></NS> log cabin because I'm afraid of insects and it's wet in the tent. It'll make me like <NS type="UT"><i>at</i></NS> the village.</p>
+          <p>I like painting, and once I won first prize in the university competition. I think I'll have <NS type="MD"><c>a</c></NS> chance to draw <NS type="RQ"><i>the</i><c>some</c></NS> pictures, and I'll show <NS type="M"><c>them to</c></NS> my friends who have never been there before. <NS type="AGQ"><i>Another</i><c>The other</c></NS> <NS type="AGN"><i>activities</i><c>activity</c></NS> I would prefer is sailing. My father was a sailor when I was child. I was <NS type="IV"><i>draged</i><c>dragged</c></NS> <NS type="MT"><c>into</c></NS> <NS type="FV"><i>to learn</i><c>learning</c></NS> sailing. I'm good at it. It would be exciting.</p>
+          <p><NS type="S"><i>Fathermore</i><c>Furthermore</c></NS><NS type="MP"><c>,</c></NS> I would like to ask you which kind <NS type="MT"><c>of</c></NS> clothes I need to take and how much money I'll spend.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Recently we <NS type="TV"><i>have</i><c>had</c></NS> a class discussion about shopping. All of the students agree <NS type="UT"><i>with</i></NS> that shopping is not always enjoyable.</p>
+          <p>Women always enjoy shopping. But a lot of <NS type="DN"><i>incovenients</i><c>inconveniences</c></NS> <NS type="S"><i>anoy</i><c>annoy</c></NS> them. So they said they do not always enjoy shopping. First of all the <NS type="UN"><i>car</i></NS> parking is not <NS type="S"><i>convinent</i><c>convenient</c></NS> and <NS type="MV"><c>is</c></NS> expensive. Sometimes you can't find a place to park your car. Sometimes you have to park your car in a <NS type="RJ"><NS type="S"><i>futher</i><c>further</c></NS></NS> place then walk to the supermarket.</p>
+          <p><NS type="S"><i>Futhermore</i><c>Furthermore</c></NS><NS type="MP"><c>,</c></NS> when you look <NS type="S"><i>aroud</i><c>around</c></NS> the supermarket, you can't <NS type="DY"><i>easyly</i><c>easily</c></NS> find the goods which you want to buy. It's very confusing without <NS type="MD"><c>the</c></NS> right <NS type="S"><i>singho</i><c>signs</c></NS>. Sometimes you get lost in the supermarket.</p>
+          <p> <NS type="RY"><i>Otherwise</i><c>Additionally</c></NS><NS type="MP"><c>,</c></NS> men <NS type="X"><i>always don't like</i><c>never like</c></NS> shopping<NS type="RP"><i>, while</i><c>. While</c></NS> their wives are doing <NS type="MD"><c>the</c></NS> shopping they sit in the car or read <NS type="MD"><c>a</c></NS> newspaper. They would be happy if there <NS type="TV"><i>are</i><c>were</c></NS> sports and leisure facilities in the supermarket. <NS type="TV"><i><NS type="MY"><i>They'll</i><c>Then they'll</c></NS></i><c>Then they'd</c></NS> change their mind. Instead of hating shopping they <NS type="TV"><i>will</i><c>would</c></NS> <NS type="FV"><i>enjoying</i><c>enjoy</c></NS> shopping.</p>
+          <p>In my opinion<NS type="MP"><c>,</c></NS> nowadays<NS type="MP"><c>,</c></NS> shopping is not always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

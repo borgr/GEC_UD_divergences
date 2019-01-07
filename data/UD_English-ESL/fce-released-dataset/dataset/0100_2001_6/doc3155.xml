@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE66*0100*2001*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>I <NS type="TV"><i>received</i><c>have received</c></NS> your letter and I'm pleased to answer your questions.</p>
+          <p>M. Brown has booked rooms in the Palace Hotel. This is a <NS type="MP"><i>first class</i><c>first-class</c></NS> hotel. The easiest way <NS type="MV"><c>to get</c></NS> from the hotel to the conference is <NS type="RT"><i>with</i><c>by</c></NS> <NS type="UD"><i>the</i></NS> bus. There is a bus stop in front of your hotel. Take the bus in <NS type="MD"><c>the</c></NS> direction <NS type="MT"><c>of</c></NS> <NS type="MD"><c>the</c></NS> <NS type="SA"><i>center</i><c>centre</c></NS> <NS type="MT"><c>of</c></NS> town. After four stops<NS type="MP"><c>,</c></NS> get off the bus. The name of this bus stop is 'Kongresshaus'. <NS type="RC"><i>If</i><c>When</c></NS> you <NS type="RV"><i>leave</i><c>get off</c></NS> the bus, the conference is in the <NS type="RN"><i>house</i><c>building</c></NS> <NS type="RT"><i>opposite</i><c>across</c></NS> the road. You can't miss it.</p>
+          <p>Afterwards we will eat together in a restaurant and we will go <NS type="RT"><i>in</i><c>to</c></NS> a disco. For the disco<NS type="MP"><c>,</c></NS> you <NS type="S"><i>musn't</i><c>mustn't</c></NS> wear blue jeans.</p>
+          <p>Finally<NS type="MP"><c>,</c></NS> <NS type="RT"><i>at</i><c>on</c></NS> your last day<NS type="MP"><c>,</c></NS> I <NS type="RV"><i>propose</i><c>suggest</c></NS> you <NS type="TV"><i>to do</i><c>do</c></NS> a sightseeing tour in our town. It takes you two hours. Afterwards you will have <NS type="RQ"><i>any</i><c>some</c></NS> time to buy some souvenirs from Switzerland. If you have any more questions, <NS type="AS"><i>write me back</i><c>write back to me</c></NS>.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I will write about the invention of the computer.</p>
+          <p>With the computer<NS type="MP"><c>,</c></NS> our work is easier and more interesting.</p>
+          <p>Before the time <NS type="RT"><i>with</i><c>of</c></NS> computers, people had to write <NS type="W"><i>every time a whole letter</i><c>a whole letter every time</c></NS> <NS type="M"></NS>. When they <NS type="MV"><c>wanted</c></NS> <NS type="FV"><i>would correct</i><c>to correct</c></NS> a word, they had to write the whole letter again. With the computer<NS type="MP"><c>,</c></NS> we can write a letter, correct a word or change the name without <NS type="IV"><i>writting</i><c>writing</c></NS> the whole letter again. We save the letter and in three <NS type="AGN"><i>week</i><c>weeks</c></NS> we could send it to another person.</p>
+          <p>I work <NS type="RT"><i>at</i><c>in</c></NS> a bank and I work all day with computers. If we <NS type="S"><i>hand't</i><c>hadn't</c></NS> <NS type="SX"><i>ay</i><c>any</c></NS> <NS type="UQ"><i>one</i></NS>, we <NS type="TV"><i>had</i><c>would have</c></NS> to write all the transactions on <NS type="FN"><i>papers</i><c>paper</c></NS>.</p>
+          <p>If I order money for our bank with the computer<NS type="MP"><c>,</c></NS> I can be sure that <NS type="RA"><i>I</i><c>it</c></NS> will arrive the day after. But if I had to write a letter and to send it by post, the money <NS type="TV"><i>will arrive</i><c>would arrive</c></NS> two or three days after.</p>
+          <p>I have never <NS type="TV"><i>work</i><c>worked</c></NS> without a computer, but if we hadn't any<NS type="MP"><c>,</c></NS> we would <NS type="W"><i>it find</i><c>find it</c></NS> <NS type="DJ"><i>normally</i><c>normal</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

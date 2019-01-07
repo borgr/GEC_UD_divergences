@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR469*0100*2000*01">
+  <candidate><personnel><language>Spanish</language></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Hi Helen,</p>
+          <p><NS type="MP"><i>Im</i><c>I'm</c></NS> very excited because I won the first prize and my family is very proud of me.</p>
+          <p><NS type="RP"><i>about</i><c>About</c></NS> the things you asked me in your letter<NS type="MP"><c>,</c></NS> I would like to go to camp California <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RP"><i>july</i><c>July</c></NS> because that's the month when <NS type="R"><i>I go out from school</i><c>term ends</c></NS> and I have my vacations and I think it would be much easier that month. About my <NS type="S"><i>acommodations</i><c>accommodation</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the camp<NS type="MP"><c>,</c></NS> I would prefer to stay in a log cabin because it's safer than being in a tent and because you sleep more <NS type="DY"><i><NS type="S"><i>confortable</i><c>comfortable</c></NS></i><c>comfortably</c></NS>. The activities that I would like to do are <NS type="SX"><i>signing</i><c>singing</c></NS><NS type="MP"><c>,</c></NS> because my friend told me that <NS type="MP"><i>im</i><c>I'm</c></NS> good at it<NS type="RP"><i>.</i><c>,</c></NS> and the other <NS type="S"><i>activitie</i><c>activity</c></NS> that I would like to do is climbing because I <NS type="SX"><i>thing</i><c>think</c></NS> it <NS type="MV"><c>is</c></NS> very exciting although I have never tried climbing<NS type="RP"><i>.</i><c>,</c></NS> because <NS type="W"><i>in my city there are no mountains</i><c>there are no mountains in my city</c></NS>.</p>
+          <p>I just want to ask you <NS type="RT"><i>for</i><c>about</c></NS> something else. How many jeans, Pants, <NS type="AGN"><i>sweater</i><c>sweaters</c></NS> etc... do I have to take? <NS type="RP"><i>and</i><c>And</c></NS> how much money <NS type="RV"><i>would</i><c>do</c></NS> I need to bring in my pocket?</p>
+          <p>I appreciate <NS type="RD"><i>that</i><c>the</c></NS> <NS type="S"><i>opportuniti</i><c>opportunity</c></NS> that you are giving <NS type="UT"><i>to</i></NS> me and <NS type="MP"><i>Im</i><c>I'm</c></NS> very <NS type="RJ"><i>thankful</i><c>grateful</c></NS> to you guys.</p>
+          <p>atte. Henrique Aguilar</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim <NS type="MP"><i>Im</i><c>I'm</c></NS> having a great time here in <NS type="RP"><i>brazil</i><c>Brazil</c></NS>, I have been going out with some friends <NS type="R"><i>an</i><c>and</c></NS> now I have a girlfriend. <NS type="MP"><i>Shes</i><c>She's</c></NS> very nice and very Pretty too.<NS type="UP"><i>,</i></NS> Well on march 11th there was <NS type="MD"><c>a</c></NS> group here in brazil <NS type="L"><i>named</i><c>called</c></NS> "Los Jagoares"<NS type="MP"><c>,</c></NS> they sing pop music. <NS type="RP"><i>and</i><c>And</c></NS> <NS type="R"><i><NS type="MP"><i>its</i><c>it's</c></NS></i><c>they are</c></NS> one of my <NS type="SA"><i>favorites</i><c>favourites</c></NS> and as you know I have a cousin that works as <NS type="FD"><i>a</i><c>an</c></NS> organizer for all the bands that would like to have a concert in <NS type="RP"><i>brazil</i><c>Brazil</c></NS> and when my cousin knew that my <NS type="SA"><i>favorite</i><c>favourite</c></NS> band was coming he called me and <NS type="RV"><i>told</i><c>asked</c></NS> me <NS type="UA"><i>that</i></NS> if I would like to help them to install the speakers, microphones etc... and I said<NS type="MP"><c>,</c></NS> "<NS type="RP"><i>sureman".</i><c>Sure man."</c></NS> That night I went to the stadium and I met the singer<NS type="MP"><i> his</i><c>. His</c></NS> name is saul Hernañdez and he is very funny<NS type="MP"><i> that</i><c>. That</c></NS> night I had a lot of fun with them and of course I was <NS type="RT"><i>on</i><c>in</c></NS> the first <NS type="RN"><i>line</i><c>row</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the concert. It was the best day of my life. I hope you are having fun and that you are OK. Your friend Henrique.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

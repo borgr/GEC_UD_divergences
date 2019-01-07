@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR643*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir, Madam,</p>
+          <p>I am writing to <NS type="S"><i>complan</i><c>complain</c></NS> about your service. Last Sunday I went to the Circle Theatre. I watched a musical show which <NS type="MV"><c>was</c></NS> called 'Over the Rainbow'. I was very disappointed <NS type="MT"><c>with</c></NS> it<NS type="RP"><i>. Because</i><c>, because</c></NS> there were other actors <NS type="M"><c>to those advertised</c></NS> <NS type="RA"><i>which</i><c>who</c></NS> played <NS type="RY"><i>too</i><c>very</c></NS> badly. I don't understand why you changed them. I hoped to see Danny Brook and Tina Truelove as was <NS type="RV"><i>presented</i><c>advertised</c></NS> in an advertisement.</p>
+          <p>You <NS type="RV"><i>had</i><c>were meant</c></NS> to start the show at 19.30 p.m. but you started <NS type="RY"><i>too</i><c>very</c></NS> late at 20.15 p.m <NS type="S"><i>withour</i><c>without</c></NS> any <NS type="S"><i>ecxpenetion</i><c>explanation</c></NS> to <NS type="RN"><i>people</i><c>the audience</c></NS>.</p>
+          <p>Why did you put <NS type="RT"><i>into</i><c>in</c></NS> the advertisement 'Discounts Available'? <NS type="AGA"><i>It</i><c>They</c></NS> <NS type="AGV"><i><NS type="S"><i>wasen't</i><c>wasn't</c></NS></i><c>weren't</c></NS>!!! <NS type="R"><i>Any kinds of</i><c>All</c></NS> tickets were <NS type="M"><c>sold at the</c></NS> original <NS type="S"><i>prase</i><c>price</c></NS>.</p>
+          <p>After the show many people wanted go to your theatre restaurant, but it was closed because <NS type="W"><i>there someone <NS type="RV">has fixed</NS> something</i><c>someone <NS type="RV">has fixed</NS> something there</c></NS>.</p>
+          <p>I had <NS type="RD"><i>the</i><c>a</c></NS> very disappointing evening so I would like to ask for <NS type="UN"><i>return</i></NS> my money <NS type="MY"><c>back</c></NS>. I got the ticket for £20.</p>
+          <p>I am <NS type="W"><i>hearing to looking <NS type="S"><i>fermards</i><c>forward</c></NS></i><c>looking forward to hearing</c></NS> from you.</p>
+          <p>Yours faithfully,</p>
+          <p>Ilya V.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I knew that but I needed someone who could <NS type="S"><i>understent</i><c>understand</c></NS> and support me at that moment. I told <NS type="UT"><i>to</i></NS> her about my <NS type="S"><i>pregnency</i><c>pregnancy</c></NS> because she has <NS type="MD"><c>a</c></NS> friend who works in a hospital as a doctor. I asked her for <NS type="S"><i>hepl</i><c>help</c></NS> and she promised me <NS type="MV"><c>she would</c></NS> do <NS type="IA"><i>everythings</i><c>everything</c></NS> <NS type="R"><i>what</i><c>that</c></NS> she <NS type="TV"><i>can</i><c>could</c></NS> and keep my secret. Pat <NS type="AS"><i>gave <NS type="SX"><i>same</i><c>some</c></NS> <NS type="DN"><i>advise</i><c>advice</c></NS> for me</i><c>gave me some advice</c></NS> and I <NS type="S"><i>disayded</i><c>decided</c></NS> to have an <NS type="S"><i>operetion</i><c>operation</c></NS>.</p>
+          <p><NS type="RT"><i>In</i><c>Within</c></NS> a week <NS type="UN"><i>time</i></NS> my classmates and teachers started <NS type="FV"><i>to <NS type="S"><i>toking</i><c>talking</c></NS></i><c>to talk</c></NS> <NS type="RT"><i>from</i><c>about</c></NS> me. I <NS type="RV"><i><NS type="TV"><i>understand</i><c>understood</c></NS></i><c>knew</c></NS> who <NS type="TV"><i>told</i><c>had told</c></NS> my secret to everyone. I got <NS type="RD"><i>the</i><c>a</c></NS> <NS type="R"><i>big</i><c>bit</c></NS> <NS type="S"><i>dipress</i><c>depressed</c></NS> but my parents supported me. We had a <NS type="RJ"><i>big</i><c>long</c></NS> conversation. They stopped me <NS type="RV"><i><NS type="FV"><i>to do</i><c>doing</c></NS></i><c>having</c></NS> the <NS type="S"><i>operetion</i><c>operation</c></NS>.</p>
+          <p><NS type="W"><i>Then I was 15 years old</i><c>I was 15 years old then</c></NS>. Now I am 16 and I have got <NS type="MD"><c>a</c></NS> nice baby boy. My family <NS type="W"><i>very love him</i><c>love him very</c></NS> <NS type="MY"><c>much</c></NS> and support us. I still go to school and I <NS type="UV"><i>have</i></NS> plan <NS type="W"><i>go to</i><c>to go</c></NS> <NS type="R"><i>a</i><c>to</c></NS> college <NS type="UT"><i>on</i></NS> next year.</p>
+          <p>I would like to tell <NS type="UT"><i>to</i></NS> everyone<NS type="RP"><i>,</i><c> -</c></NS> don't be naive when you share <NS type="W"><i>with <NS type="S"><i>sameone</i><c>someone</c></NS> your big secret or <NS type="S"><i>promlem</i><c>problem</c></NS></i><c>your big secret or problem with someone</c></NS>. First tell <NS type="UT"><i>to</i></NS> your parents. I am sure it is the best way. <NS type="S"><i>Ofcoure</i><c>Of course</c></NS> secrets can be different...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

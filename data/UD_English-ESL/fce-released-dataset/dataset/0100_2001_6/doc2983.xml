@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE16*0100*2001*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>39.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith</p>
+          <p>It was such a pleasure to receive your letter, and we will be extremely glad to see you at the conference<NS type="UP"><i>,</i></NS> we have been organising. Let me give you some further information concerning the event.</p>
+          <p>Firstly I would like to inform you about the hotel we have already booked for you. <NS type="MA"><i>Is</i><c>It is</c></NS> called <NS type="MD"><c>the</c></NS> Palace Hotel, and we hope that <NS type="MA"><c>it</c></NS> is going to <NS type="RV"><i>satisfy</i><c>meet</c></NS> your <NS type="S"><i>expectetions</i><c>expectations</c></NS>. The conference is not too far from your hotel. I strongly <NS type="S"><i>reccommend</i><c>recommend</c></NS> you to use <NS type="UD"><i>the</i></NS> public <NS type="RN"><i>transportation</i><c>transport</c></NS> in order to get there, <NS type="SX"><i>cause</i><c>because</c></NS> you may <NS type="UV"><i>be</i></NS> find other types of transportation quite expensive.</p>
+          <p>Moreover, you must be aware of the fact that the conference is going to last two hours, <NS type="S"><i>untill</i><c>until</c></NS> 10:00 pm. After that our college has organised a <NS type="S"><i>barbequiou</i><c>barbecue</c></NS> night, with traditional local music that you must not miss. You don't need to wear formal clothes<NS type="RP"><i>. Just</i><c>, just</c></NS> <NS type="RP"><i>every day</i><c>everyday</c></NS> clothes.</p>
+          <p>Finally, I am aware of the fact that <NS type="MT"><c>on</c></NS> the last day you have some hours free before you catch your plane. Don't miss the chance to visit our famous tourist attractions. There is also <NS type="MD"><c>a</c></NS> huge <NS type="DN"><i>shop centre</i><c>shopping centre</c></NS><NS type="UP"><i>,</i></NS> where you can buy some souvenirs or taste some of our traditional food.</p>
+          <p>I hope that you will find my information <NS type="DJ"><i>helpfull</i><c>helpful</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p><NS type="UP"><i>I'am</i><c>I am</c></NS> looking forward to seeing you<NS type="MP"><c>.</c></NS></p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>THE <NS type="S"><i>HYSTORICAL</i><c>HISTORICAL</c></NS> MUSEUM</p>
+          <p>Welcome to Athens!! Without any doubt, <NS type="MA"><c>it</c></NS> <NS type="MV"><c>is</c></NS> a <NS type="S"><i>hystorical</i><c>historical</c></NS> place which provides <NS type="UP"><i>it's</i><c>its</c></NS> visitors with the opportunity to discover different aspects of <NS type="UD"><i>the</i></NS> <NS type="RP"><i>greek</i><c>Greek</c></NS> history <NS type="M"></NS> during the passing of <NS type="MD"><c>the</c></NS> centuries.</p>
+          <p>Don't miss the chance to visit the <NS type="S"><i>hystorical</i><c>historical</c></NS> museum, located in the heart of the capital city. A traditional building which was built at the beginning of the century<NS type="RP"><i>. The</i><c>, the</c></NS> <NS type="S"><i>hystorical</i><c>historical</c></NS> museum is simply a symbol, a <NS type="RN">proof</NS> of what <NS type="MD"><c>the</c></NS> <NS type="FN"><i><NS type="RP"><i>greek</i><c>Greek</c></NS></i><c>Greeks</c></NS> have always considered as <NS type="MD"><c>a</c></NS> <NS type="RJ"><i>main</i><c>fundamental</c></NS> <NS type="RN"><i>principal</i><c>principle</c></NS>: their freedom. There are five <NS type="S"><i>diffrent</i><c>different</c></NS> floors, each of them presents a <NS type="S"><i>diffrent</i><c>different</c></NS> <NS type="DJ"><i>chronical</i><c>chronological</c></NS> period of <NS type="RP"><i>greek</i><c>Greek</c></NS> history, starting from the period before the birth of <NS type="S"><i>Juisus</i><c>Jesus</c></NS> and concluding <NS type="RT"><i>to</i><c>with</c></NS> the revolution of 1967. The museum provides the visitor with the opportunity to see original pieces of writing, famous paintings having as <NS type="MD"><c>their</c></NS> main subject the revolution of 1821, and aspects of the <NS type="RP"><i>greek</i><c>Greek</c></NS> religion that <NS type="AGV"><i>has</i><c>have</c></NS> always <NS type="MV"><c>been</c></NS> considered to be <NS type="MD"><c>a</c></NS> vital part of <NS type="RP"><i>greek</i><c>Greek</c></NS> history. There is a small <NS type="R"><i>amount of money that visitors should pay for entry</i><c>entry fee</c></NS>. Inside the museum there is <NS type="MD"><c>a</c></NS> bookshop <NS type="R"><i>having</i><c>with</c></NS> a large variety of <NS type="S"><i>hystorical</i><c>historical</c></NS> books, maps etc.</p>
+          <p>If you really want to discover what <NS type="RP"><i>greek</i><c>Greek</c></NS> history <NS type="RV">means</NS>, we strongly recommend you to visit the <NS type="S"><i>hystorical</i><c>historical</c></NS> museum!!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

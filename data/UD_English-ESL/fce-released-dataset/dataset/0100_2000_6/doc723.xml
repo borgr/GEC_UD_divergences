@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR283*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dears Ms. <NS type="UN"><i>Helen</i></NS> Ryan,</p>
+          <p>I was really <NS type="S"><i>greatful</i><c>grateful</c></NS> when I <NS type="S"><i>recieved</i><c>received</c></NS> your letter which informed me that I have won first prize in your competition.</p>
+          <p>I would like to make this trip the first week or the last week of July<NS type="UP"><i>. Because</i><c> because</c></NS> my school finishes <NS type="MT"><c>at</c></NS> <NS type="MD"><c>the</c></NS> end of June and I will have a <NS type="MP"><i>month</i><c>month's</c></NS> break <NS type="MC"><c>and</c></NS> after that<NS type="MP"><c>.</c></NS> I have to do a computing course which I have already applied for <NS type="UA"><i>it</i></NS>. Could you possibly tell me, at Camp California will I stay in tents or log cabins<NS type="RP"><i>.</i><c>?</c></NS> <NS type="S"><i>Personily</i><c>Personally</c></NS> I prefer to stay in log cabins because they are much more comfortable than tents.</p>
+          <p>I really enjoy swimming and playing tennis. <NS type="S"><i>Unfortunetley</i><c>Unfortunately</c></NS> I am not good at <NS type="RA"><i>both</i><c>either</c></NS> of them. Maybe I will have time to do enough <NS type="DN"><i>practise</i><c>practice</c></NS><NS type="MP"><c>,</c></NS> as much as I always wanted to do.</p>
+          <p>Could you tell me what sort of clothes I would need to bring with me and will I need any extra money for this holiday<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I look forward to hearing from you soon!</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I don't know where to start but I can say it was the <NS type="RJ"><i>greatest</i><c>best</c></NS> time I have ever had.</p>
+          <p>As I mentioned <NS type="MT"><c>to</c></NS> you before<NS type="MP"><c>,</c></NS> <NS type="MD"><c>a</c></NS> <NS type="RP"><i>Friend</i><c>friend</c></NS> of mine<NS type="UP"><i>,</i></NS> <NS type="UA"><i>she</i></NS> is a stage assistant and she needed <NS type="UD"><i>a</i></NS> help <NS type="RT"><i>for</i><c>with</c></NS> that pop concert last month.</p>
+          <p>I told her if she <NS type="TV"><i>need</i><c>needed</c></NS> help<NS type="MP"><c>,</c></NS> I would be happy to help her. Next day<NS type="MP"><c>,</c></NS> when I went there<NS type="MP"><c>,</c></NS> I <NS type="TV"><i>have met</i><c>met</c></NS> lots of people <NS type="MA"><c>who</c></NS> <NS type="MV"><c>were</c></NS> very famous and very friendly. It took us almost a month to prepare for this concert.</p>
+          <p>You wouldn't believe how hard it was. <NS type="RP"><i>the</i><c>The</c></NS> stage was covered with all <NS type="FN"><i>sort</i><c>sorts</c></NS> of light and we made it look like a waterfall.</p>
+          <p>The waterfall <NS type="TV"><i>made</i><c>was made</c></NS> <NS type="RT"><i>by</i><c>from</c></NS> real rock so that was the worst bit because <NS type="AG"><i>they were</i><c>it was</c></NS> really heavy and we had to carry <NS type="AGA"><i>them</i><c>it</c></NS>, but <NS type="MT"><c>at</c></NS> the end of <NS type="MD"><c>the</c></NS> <NS type="RN"><i>moth</i><c>month</c></NS> when the concert started, it was all over.</p>
+          <p>I <NS type="TV"><i>sung</i><c>sang</c></NS> and <NS type="TV"><i>dance</i><c>danced</c></NS> all day. I have lots of <NS type="AGN"><i>memory</i><c>memories</c></NS> which I could never forget.</p>
+          <p>I wish you were there.</p>
+          <p>I <NS type="RV"><i>hope</i><c>wish</c></NS> you shared my happiness with me.</p>
+          <p>Lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

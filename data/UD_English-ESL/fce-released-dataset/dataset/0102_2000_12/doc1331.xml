@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR545*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Clark,</p>
+          <p>I am writing to thank you for organising the International Arts Festival, in which I participated this year, and to give you my opinion about it.</p>
+          <p>I think that organising this event was a great idea. I was very pleased when I read your advertisement for the festival. One reasonably-priced weekend ticket for all events was also an excellent idea. It encouraged me to take part in the festival.</p>
+          <p>Despite all this I would like to complain about some <NS type="S"><i>detailes</i><c>details</c></NS>.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> stars were supposed to come from all around the world. Apparently there were artists from only six countries.</p>
+          <p>All the concerts were great, but some concert halls were too small. There was a terrible lack of room and fresh air inside them.</p>
+          <p>I would also like to suggest <NS type="MC"><c>that</c></NS> you <NS type="FV"><i>to try</i><c>try</c></NS> and make more plays and films available next year.</p>
+          <p>I trust you will give this matter your <NS type="RJ"><i>great</i><c>careful</c></NS> attention. I look forward to visiting <NS type="MD"><c>the</c></NS> International Arts Festival next year.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mary,</p>
+          <p>Thanks for your letter. I'm sorry for not having written earlier, but I've had an exhausting exam session at school.</p>
+          <p>It was very interesting to hear about <NS type="MD"><c>the</c></NS> rules in England. The rules in Poland are quite similar to those <NS type="S"><i>discribed</i><c>described</c></NS> in your letter.</p>
+          <p>We are not allowed to talk during <NS type="UD"><i>the</i></NS> <NS type="FN"><i>lesson</i><c>lessons</c></NS> and we have to do our homework every day. Usually we don't have to wear school <NS type="FN"><i>uniforms</i><c>uniform</c></NS>, but there are schools<NS type="UP"><i>,</i></NS> in which there is such obligation. In most of the schools students have to change their shoes in order not to make the floor dirty. If I could change anything, I would probably <NS type="RV"><i>lessen</i><c>reduce</c></NS> the amount of homework. It's hard to find any spare time sometimes!</p>
+          <p>What about <NS type="RN"><i>home</i><c>house</c></NS> rules? Well, we both know that parents are the ones who rule at home. All the things we're not allowed to do depend on them. Anyway, I must finish now. Has your dog <NS type="W"><i><NS type="RY"><i>already</i><c>now</c></NS> recovered</i><c>recovered now</c></NS>? I'm looking forward to hearing from you soon.</p>
+          <p>Lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

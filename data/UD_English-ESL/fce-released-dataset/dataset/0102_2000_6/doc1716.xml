@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR678*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the musical show "OVER THE RAINBOW" which I saw in your theatre yesterday.</p>
+          <p>I had really <NS type="RV"><i>expected</i><c>looked forward to</c></NS> the show because it was the first time I had seen it in London and I was attracted by your advertisement which looked very exciting. However, I found it very disappointing.</p>
+          <p>Firstly, the show started at 20:15 not at 19.30 so I had to wait for 45 minutes <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RD"><i>the</i><c>my</c></NS> seat<NS type="MP"><c>,</c></NS> so it made me upset. Secondly, I was very disappointed as soon as the actors showed up on stage because they were not <NS type="MD"><c>the</c></NS> actors who you advertised. Thirdly, you state that there are discounts available but I could not get any reductions at all.</p>
+          <p>Finally, to make matters worse, your restaurant had already closed after finishing the show so I could not eat anything. You mentioned <NS type="UA"><i>that</i></NS> "Your perfect evening out!" in your advert. but it was <NS type="W"><i>not absolutely</i><c>absolutely not</c></NS> true!</p>
+          <p>So I must insist that I want to have a full refund. I look forward to receiving your cheque as soon as possible.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>For many years scientific and technological <NS type="RP"><i>break throughs</i><c>breakthroughs</c></NS> have changed our lives. I think that the more technological developments we have<NS type="MP"><c>,</c></NS> the more comfortable lives we enjoy. <NS type="S"><i>Amaisingly</i><c>Amazingly</c></NS>, we can find that <NS type="AS"><i>computer users are getting more and more</i><c>there are more and more computer users</c></NS>. So <NS type="UD"><i>the</i></NS> life is much faster and more convenient than before.</p>
+          <p>My daily life has also changed a lot through the use of <NS type="FN"><i>computer</i><c>computers</c></NS> or <NS type="S"><i>mordern</i><c>modern</c></NS> technology.</p>
+          <p>First of all, using <NS type="MD"><c>a</c></NS> computer is the most important <NS type="MN"><c>thing</c></NS> for me because I can store my personal records such as diary or expenses and I send E-mail to my friends who live abroad. I used to write letters but it takes time to arrive there or sometimes <NS type="AGV"><i>disappear</i><c>disappears</c></NS><NS type="MP"><c>,</c></NS> so E-mail is brilliant for my life. In addition to this, <NS type="UV"><i>doing</i></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> is quite useful and helpful to have information from all over the world. Before I go on holiday I use <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> to book or get details from <NS type="MD"><c>the</c></NS> travel agency, which means I could save my time and physical energy. In conclusion, in my opinion, there are many advantages in my daily life at present and I would recommend people learn computers and would like to say "Enjoy your lives".</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

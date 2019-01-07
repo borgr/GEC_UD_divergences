@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE33*0100*2001*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RP"><i>mrs</i><c>Mrs</c></NS> <NS type="RP"><i>smith</i><c>Smith</c></NS></p>
+          <p>I received your letter asking <NS type="MT"><c>for</c></NS> some information about <NS type="MD"><c>the</c></NS> conference<NS type="MP"><c>.</c></NS></p>
+          <p>I am glad to provide all <NS type="MD"><c>the</c></NS> information<NS type="MP"><c>.</c></NS></p>
+          <p>The group has been booked <NS type="MT"><c>into</c></NS> the <NS type="RP"><NS type="RN"><i>place</i><c>Palace</c></NS></NS> Hotel which is near the train station. <NS type="RP"><i>it</i><c>It</c></NS> is really easy to <NS type="RV"><i>reach</i><c>get</c></NS> to the conference from the hotel. The bus <NS type="TV"><i>running</i><c>runs</c></NS> <NS type="MT"><c>from</c></NS> <NS type="MT"><c>in</c></NS> front of the hotel. <NS type="RP"><i>if</i><c>If</c></NS> you catch the red bus <NS type="RA"><i>that</i><c>it</c></NS> will drop you <NS type="MT"><c>in</c></NS> front of the conference building.</p>
+          <p><NS type="RT"><i>In</i><c>At</c></NS> the conference you should wear formal dress but you are free to choose <NS type="RD"><i>its</i><c>the</c></NS> colour or style.</p>
+          <p>At the end of the conference there will be <NS type="MD"><c>a</c></NS> <NS type="S"><i>reseption</i><c>reception</c></NS> at the hotel. <NS type="RP"><i>we</i><c>We</c></NS> have arranged some tours <NS type="RT"><i>in</i><c>of</c></NS> the city. <NS type="RP"><i>you</i><c>You</c></NS> will be <NS type="TV"><i>visit</i><c>visiting</c></NS> some interesting places and towers.</p>
+          <p>I look forward to seeing you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Computer magic.</p>
+          <p>Can you imagine <NS type="UD"><i>the</i></NS> life before <NS type="AGN"><i>computer</i><c>computers</c></NS><NS type="RP"><i>.</i><c>?</c></NS> Lots of books, papers, <NS type="L"><i>many</i><c>lots of</c></NS> things on the <NS type="S"><i>tabels</i><c>tables</c></NS>.</p>
+          <p><NS type="MD"><c>A</c></NS> <NS type="RP"><i>Computer</i><c>computer</c></NS> is <NS type="MD"><c>a</c></NS> really <NS type="S"><i>claver</i><c>clever</c></NS> machine. <NS type="AGA"><i>He</i><c>It</c></NS> <NS type="AGV"><i>store</i><c>stores</c></NS> all <NS type="MD"><c>the</c></NS> information, never <NS type="AGV"><i>say</i><c>says</c></NS> enough<NS type="MP"><c>,</c></NS> and it never <NS type="AGV"><i>forget</i><c>forgets</c></NS> any information<NS type="RP"><i>, whenever</i><c>. Whenever</c></NS> we want <NS type="AGA"><i>them</i><c>it</c></NS> from <NS type="AGA"><i>him</i><c>it</c></NS><NS type="MP"><c>,</c></NS> <NS type="AGA"><i>he</i><c>it</c></NS> <NS type="S"><i>dosn't</i><c>doesn't</c></NS> refuse.</p>
+          <p><NS type="AGA"><i>He</i><c>It</c></NS> saves time for humankind<NS type="MP"><c>.</c></NS> People don't need to spend a lot <NS type="MT"><c>of</c></NS> time <NS type="FV"><i>to record</i><c>recording</c></NS> everything<NS type="RP"><i>, it</i><c>. It</c></NS> makes space in offices.</p>
+          <p><NS type="L"><i>Many</i><c>A lot of</c></NS> bosses or <NS type="MN"><c>workers</c></NS> in <NS type="UD"><i>the</i></NS> factories  <NS type="TV"><i>not being needed</i><c>do not need</c></NS> to employ many <NS type="S"><i>claver</i><c>clever</c></NS> workers <NS type="RP"><i>Because</i><c>because</c></NS> we don't need <NS type="W"><i>them a lot</i><c>a lot <NS type="MT"><c>of</c></NS> them</c></NS>. This saves a lot <NS type="MT"><c>of</c></NS> money for companies.</p>
+          <p><NS type="FN"><i>Computer</i><c>Computers</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> <NS type="TV"><i>been helping</i><c>helped</c></NS> to improve health <NS type="RP"><i>Because</i><c>because</c></NS> in this century we can use <NS type="AGA"><i>it</i><c>them</c></NS> in medical <NS type="AGN"><i>operation</i><c>operations</c></NS><NS type="MP"><c>.</c></NS> Doctors can manage the <NS type="IJ"><i>extreemest</i><c>most extreme</c></NS> operation <NS type="DY"><i>easyly</i><c>easily</c></NS> and <NS type="S"><i>confedantly</i><c>confidently</c></NS>.</p>
+          <p>In general <NS type="FN"><i>computer</i><c>computers</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> brought human life two <NS type="AGN"><i>century</i><c>centuries</c></NS> <NS type="RY"><i>ahead</i><c>forward</c></NS>. <NS type="RP"><NS type="AGA"><i>it</i><c>They</c></NS></NS> <NS type="AGV"><i>makes</i><c>make</c></NS> life easier for us.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

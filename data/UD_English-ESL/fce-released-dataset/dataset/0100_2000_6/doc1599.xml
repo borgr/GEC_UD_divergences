@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR627*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan!</p>
+          <p>I'm very happy that I won first prize in your <NS type="S"><i>competion</i><c>competition</c></NS>. Two weeks at California in the USA is the thing <NS type="W"><i>about I dreamed</i><c>I dreamed about</c></NS> a lot. You asked me few questions in your letter. I would like to answer.</p>
+          <p>The only <NS type="UQ"><i>one</i></NS> <NS type="RN"><i>term</i><c>time</c></NS> for me to visit you is July. I can come to USA <NS type="RT"><i>on</i><c>in</c></NS> July <NS type="S"><i>becouse</i><c>because</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> August I will be working with my father. We are building a new house for our family. What about accommodation<NS type="RP"><i>,</i><c>?</c></NS> I prefer tents to log cabins. Nights <NS type="R">in hol.</NS> <NS type="RT"><i>on</i><c>in</c></NS> July are hot. <NS type="MD"><i>Tent</i><c>A tent</c></NS> will be <NS type="IJ"><i>more cooler</i><c>cooler</c></NS> to sleep <NS type="MT"><c>in</c></NS> <NS type="SX"><i>then</i><c>than</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> cabin.</p>
+          <p>You offer a great <NS type="S"><i>veriety</i><c>variety</c></NS> of activities. My best sports disciplines are swimming and basketball. I am a life guard and I could work in your camp as a rescuer next summer. Basketball is the game which I love. I always watch the NBA matches on T.V. It will be great for me to <NS type="RV"><i>train</i><c>do</c></NS> basketball in <NS type="MD"><c>the</c></NS> USA. I have <NS type="S"><i>qustions</i><c>questions</c></NS> <NS type="SX"><i>to</i><c>too</c></NS>. How much money should I take with me and what sort of clothes are <NS type="RV"><i>requested</i><c>required</c></NS><NS type="MP"><c>?</c></NS></p>
+          <p>Thank You.</p>
+          <p>Yours sincerely K.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Shoping</i><c>Shopping</c></NS> is not always enjoyable.</p>
+          <p>Ten or fifteen years ago we had <NS type="W"><i>in Poland empty shelves in shops</i><c>empty shelves in shops in Poland</c></NS>. We could only buy things from Russia. People <NS type="S"><i>alwas</i><c>always</c></NS> queued for stuff from <NS type="MD"><c>the</c></NS> west. If you had wanted something special for example for a gift you had to stay in a line all night. It was the worst side of shopping in Poland <NS type="MD"><c>a</c></NS> couple <NS type="MT"><c>of</c></NS> years ago. Nowadays we have capitalism, free market<NS type="MP"><c>,</c></NS> lots of <NS type="S"><i>privete</i><c>private</c></NS> shops, markets and <NS type="UP"><i>super-markets</i><c>supermarkets</c></NS>. We can buy everything <NS type="U"><i>what about</i></NS> we imagine. Polish <NS type="AGN"><i><NS type="RP"><i>super market</i><c>supermarket</c></NS></i><c>supermarkets</c></NS> are not <NS type="MP"><i>Polish origin</i><c>Polish-origin</c></NS> shops. They are imported from <NS type="S"><i>enother</i><c>another</c></NS> Western <NS type="DJ"><i>Europe</i><c>European</c></NS> country.</p>
+          <p>I <NS type="S"><i>apprieciate</i><c>appreciate</c></NS> <NS type="AGD"><i>this</i><c>these</c></NS> shops for lots of products, <NS type="SX"><i>cheep</i><c>cheap</c></NS> prices <NS type="SX"><i>end</i><c>and</c></NS> big spaces. But the problem is when I want to buy only one thing, for example bread. On <NS type="S"><i>Friedy</i><c>Friday</c></NS> evening and <NS type="UT"><i>at</i></NS> on the weekdays <NS type="CQ"><i>each</i><c>all</c></NS> supermarkets are crowded. They are filled <NS type="RT"><i>by</i><c>with</c></NS> people who <NS type="SX"><i>went</i><c>want</c></NS> <NS type="FV"><i>buy</i><c>to buy</c></NS> everything.</p>
+          <p>I do not like crowded places. This is the reason why I do not like shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

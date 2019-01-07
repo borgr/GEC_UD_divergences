@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR316*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>31-40</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>Thank you very much for your letter. I am very happy to be the winner of the competition and I am looking forward to <NS type="FV"><i>come</i><c>coming</c></NS> to Camp California.</p>
+          <p>I hope there will be no problem if I travel in July, as this is the only free period I have. <NS type="RT"><i>From</i><c>In</c></NS> August, <NS type="U"><i>in fact</i></NS>, I will start <NS type="UC"><i>with</i></NS> a new job and I will not be able to <NS type="RV"><i>live</i><c>leave</c></NS> Rome for a long <NS type="RN"><i>period</i><c>time</c></NS>.</p>
+          <p>As far as accommodation is concerned, I would prefer to stay in a log cabin, because tents are too hot for me.</p>
+          <p>I am also pleased to have the chance to do some activities and I would like to choose something I am not able to do <NS type="UT"><i>so</i></NS>. So, I have decided to <NS type="TV"><i>chose</i><c>choose</c></NS> photography and surfing because I am an absolute beginner at both of them.</p>
+          <p>Please let me know <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>is the climate like</i><c>the climate is like</c></NS> at the <NS type="RP"><i>Camp</i><c>camp</c></NS>, so that I can take with me the right kind of clothes. It would <NS type="W"><i>be also</i><c>also be</c></NS> useful for me to know if there will be <NS type="RQ"><i>some</i><c>any</c></NS> extra expenses, in order to take enough money for two weeks.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>Vittoria Santini</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Being a woman, I naturally love shopping. It is a really great pleasure going in and out <NS type="RT"><i>from</i><c>of</c></NS> different shops, <NS type="FV"><i>try</i><c>trying</c></NS> on a variety of clothes and shoes, and finally <NS type="FV"><i>go</i><c>going</c></NS> back home with dozens of bags in your hands.</p>
+          <p>However, there are a few <NS type="RN"><i>moments</i><c>times</c></NS> <NS type="UT"><i>in</i></NS> <NS type="R"><i>which</i><c>when</c></NS> you cannot enjoy shopping. The first one is the Christmas period. Shops are incredibly crowded. You cannot try on a dress and decide to buy it<NS type="MP"><c>,</c></NS> or not in peace, because outside there is a queue of people waiting for their turn. In many cases, you do not even find the things you want, because <NS type="MD"><c>the</c></NS> shops run out of products very quickly. Moreover, during this period, prices are usually much higher than in the other <NS type="UP"><i>month's</i><c>months</c></NS>.</p>
+          <p>Another situation in which shopping is not enjoyable<NS type="UP"><i>,</i></NS> is when you go shopping with a man. For the majority of men, in fact, shopping is the most boring activity in the world. A man will try to prevent you from trying more than one dress <NS type="MY"><c>on</c></NS> and will refuse to stay in the same shop for more than five minutes.</p>
+          <p>Anyway, apart from these two cases, shopping is always very amusing.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

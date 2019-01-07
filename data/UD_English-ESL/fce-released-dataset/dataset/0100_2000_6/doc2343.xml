@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR939*0100*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am glad that I have won first prize in your competition. I <NS type="TV"><i>have been</i><c>was</c></NS> very surprised <NS type="FV"><i>winning</i><c>to win</c></NS>. You ask me in your letter when I would like to travel. The answer is the following one: I <NS type="W"><i>only can</i><c>can only</c></NS> travel <NS type="MT"><c>in</c></NS> July because I have to work all August. I can take holidays only <NS type="MT"><c>in</c></NS> the month of July. You ask me if I prefer to sleep in tents or log cabins. I prefer the tents because I never use <NS type="R"><i>such</i><c>this</c></NS> kind of accommodation. I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> the two following activities. <NS type="MD"><i>First</i><c>The first</c></NS> one is <NS type="RP"><i>Tennis</i><c>tennis</c></NS> and <NS type="MD"><c>the</c></NS> second one is sailing. I <NS type="TV"><i>played</i><c>have been playing</c></NS> tennis for many years. I have even <NS type="RV"><i>done</i><c>entered</c></NS> competitions. I like <NS type="W"><i>a lot this game</i><c>this game a lot</c></NS>. I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> sailing because I would like to try a new sport. I love water but I <NS type="TV"><i>never try</i><c>have never tried</c></NS> this sport before.</p>
+          <p>I would like to ask you two questions. How much money do I have to take with me for these two weeks and what kind of clothes do I have to bring with me? I'll be very happy to see you soon.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>.</p>
+          <p>Yves DUTEIL</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Shopping is not always enjoyable because of different problems.</p>
+          <p>The first thing is the <NS type="RN"><i>place</i><c>location</c></NS> of <NS type="RN"><i>shopping</i><c>the shops</c></NS>. Sometimes you have to go far away from home to do your shopping and it takes a lot of time. The second thing is that you need to go shopping when the supermarkets are open. Many people work late and they do not have enough time to go <NS type="UT"><i>for</i></NS> shopping. The third thing is the <NS type="R"><i>trouble of full shops</i><c>crowds</c></NS>. Everybody <NS type="AGV"><i>do</i><c>does</c></NS> their shopping at the same <NS type="RN"><i>moment</i><c>time</c></NS> and often in the same place. It is almost a battle to buy different things and <NS type="UV"><i>to go</i></NS> <NS type="FV"><i>paying</i><c>to pay</c></NS> <NS type="MT"><c>for</c></NS> those things. People are often <NS type="RJ"><i>nervous</i><c>irritable</c></NS> and <NS type="S"><i>agressive</i><c>aggressive</c></NS>. Sometimes you can see fights between two men or women.</p>
+          <p>There is one more thing. When you are a man and your wife asks you to <NS type="RV"><i>come</i><c>go</c></NS> <NS type="UT"><i>for</i></NS> shopping, be patient! Because women <NS type="AGV"><i>loves</i><c>love</c></NS> shopping and you have to follow them everywhere and always <NS type="FV"><i>giving</i><c>give</c></NS> your opinion about clothes, music, <NS type="S"><i>parfums</i><c>perfumes</c></NS>...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR556*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Mrs/Miss Helen:</p>
+          <p>Thank you very much for your letter. It is excellent to have won this prize.</p>
+          <p>To be honest I had doubts about winning the competition, because in spite of <NS type="UA"><i>I</i></NS> <NS type="FV"><i>think</i><c>thinking</c></NS> I did well, I had to play against <NS type="UD"><i>a</i></NS> very strong <NS type="RN"><i>competence</i><c>competition</c></NS>. The idea <NS type="RT"><i>about</i><c>of</c></NS> going to California for 2 weeks <NS type="AGV"><i>make</i><c>makes</c></NS> me feel very excited.</p>
+          <p><NS type="RT"><i>According</i><c>Referring</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> your letter, July is the <NS type="U"><i>period of</i></NS> time <NS type="MC"><c>that</c></NS> suits me best. My job is less demanding in July.</p>
+          <p>About the accommodation<NS type="MP"><c>,</c></NS> I would prefer to stay in a tent. I have never done it before, so I really fancy the idea.</p>
+          <p>I am really <NS type="DJ"><i>surprise</i><c>surprised</c></NS> about how many activities can be <NS type="RV"><i>practised</i><c>done</c></NS> in this place. If <NS type="MA"><c>it</c></NS> is possible I would like <NS type="FV"><i>swimming</i><c>to swim</c></NS>. I am very good at swimming.</p>
+          <p><NS type="ID"><i>On one hand</i><c>On the one hand</c></NS> I think that climbing sounds very exciting, but on the other hand it scares me a lot, so I will play tennis. I am not so bad at tennis but I would like to improve my style.</p>
+          <p>By the way, I would like to know if the <NS type="ID"><i>level of life</i><c>cost of living</c></NS> in <NS type="MD"><c>the</c></NS> USA is similar to <NS type="MD"><c>the</c></NS> UK. How much money should I bring with me?</p>
+          <p>Another point is about <NS type="UD"><i>the</i></NS> clothes<NS type="RP"><i>, could</i><c>. Could</c></NS> you confirm <NS type="UA"><i>me</i></NS> that I'll need summer clothes? I would be very pleased <NS type="M"></NS>.</p>
+          <p>Please<NS type="MP"><c>,</c></NS> if you need further information from me, don't hesitate to contact me again.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Normally I <NS type="W"><i>enjoy really <NS type="UY"><i>much</i></NS> shopping</i><c>really enjoy shopping</c></NS>.</p>
+          <p>In fact when I don't feel very happy I decide to <NS type="RV"><i>do</i><c>go</c></NS> shopping to try to <NS type="S"><i>cher</i><c>cheer</c></NS> myself up. And really, it works.</p>
+          <p>But not everything about shopping is enjoyable. For example, I hate <NS type="MA"><c>it</c></NS> when I get into a shopping centre and it is crowded. I don't like <NS type="MA"><c>it</c></NS> when I have to try on <NS type="IJ"><i>differents</i><c>different</c></NS> sizes because the small <NS type="MN"><c>size</c></NS> doesn't fit <NS type="R"><i>on my body</i><c>me</c></NS> because I have <NS type="RV"><i>got</i><c>put on</c></NS> weight. It is <NS type="RT"><i>in</i><c>at</c></NS> this moment when really I <NS type="S"><i>realiase</i><c>realise</c></NS> I am getting fat and it is a horrible feeling.</p>
+          <p>I think women, in general, are very impulsive <NS type="MC"><c>when</c></NS> purchasing things. Many times we buy things that<NS type="MP"><c>,</c></NS> <NS type="R"><i>in fact</i><c>actually</c></NS>, we don't need and, sometimes you <NS type="MV"><c>are</c></NS> <NS type="DJ"><i>surprise</i><c>surprised</c></NS> when you check the balance of your bank account and then you need to cut down <NS type="MT"><c>on</c></NS> your expenses for 2 months.</p>
+          <p>But from another point of view, it is silly to be earning money and <NS type="X"><i>don't spend</i><c>not spending</c></NS> it as you want. At the end of the day money is just money.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

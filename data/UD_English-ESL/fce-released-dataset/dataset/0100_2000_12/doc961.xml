@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR401*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I'm writing to you to thank you for <NS type="UD"><i>the</i></NS> organising our programme for a trip to London<NS type="RP"><i>,</i><c>.</c></NS> I'm <NS type="MD"><c>a</c></NS> student at <NS type="MD"><c>the</c></NS> College of Economics and I <NS type="TV"><i>was</i><c>have been</c></NS> chosen to write to you about this matter.</p>
+          <p>Our class really appreciate <NS type="R"><i>for</i><c>your</c></NS> preparing this programme, especially <NS type="RT"><i>for</i><c>with regard to</c></NS> Monday's <NS type="RN"><NS type="S"><i>atraction</i><c>attraction</c></NS></NS>. We are <NS type="S"><i>extremaly</i><c>extremely</c></NS> interested in <NS type="S"><i>wisiting</i><c>visiting</c></NS> London. <NS type="U"><i>The idea of sightseeing</i><c>Sightseeing</c></NS> by bus <NS type="TV"><i>would</i><c>will</c></NS> be a great <NS type="RN"><i>possibility</i><c>opportunity</c></NS> for us to <NS type="RV"><i>know</i><c>get to know</c></NS> <NS type="W"><i>better <NS type="RD"><i>our</i><c>the</c></NS> wonderful <NS type="RN"><i>capitol</i><c>capital</c></NS></i><c>the wonderful capital better</c></NS>. Although we are excited about the <NS type="DN">scientic</NS>, I would like <NS type="W"><i>you to ask</i><c>to ask you</c></NS><NS type="UP"><i>,</i></NS> if it would be possible to change our schedule a little bit. In <NS type="MD"><c>the</c></NS> last edition of 'London's Guide' we saw an advert <NS type="RT"><i>of</i><c>for</c></NS> 'The London <NS type="S"><i>Fasion</i><c>Fashion</c></NS> and Leisure Show', which will be held on Tuesday and it <NS type="TV"><i>lasted</i><c>lasts</c></NS> from 10 a.m. to 7 p.m. The offer <NS type="S"><i>mentiones</i><c>mentions</c></NS> <NS type="MD"><c>the</c></NS> 'latest <NS type="S"><i>fasions</i><c>fashions</c></NS>', which we are <NS type="DY"><i>incredible</i><c>incredibly</c></NS> interested in. In addition it <NS type="RV">recommends</NS> also <NS type="MD"><c>the</c></NS> 'Leisure and Sports Wear'. <NS type="MD"><i><NS type="AGN"><i>Thing</i><c>Things</c></NS></i><c>The things</c></NS> which attract us the most are<NS type="UP"><i>:</i></NS> '<NS type="MP"><i>Make up</i><c>Make-up</c></NS>' and 'Hairstyles'. We strongly recommend it, because students' admission is free. I'm convinced that you <NS type="TV"><i>agree</i><c>will agree</c></NS> with us and we <NS type="TV"><i><NS type="RV"><i>take part in</i><c>attend</c></NS></i><c>will attend</c></NS> this show.</p>
+          <p>We would be terribly grateful<NS type="UP"><i>,</i></NS> if you <NS type="RV"><i><NS type="TV"><i>accept</i><c>accepted</c></NS></i><c>agreed with</c></NS> our <NS type="RN"><i>offer</i><c>suggestion</c></NS>.</p>
+          <p>I'm looking forward to hearing from you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Nowedays</i><c>Nowadays</c></NS> famous people don't have an easy life. They are always <NS type="RV"><NS type="S"><i>attacted</i><c>attracted</c></NS></NS> by naughty journalists, which have <NS type="MD"><c>a</c></NS> <NS type="RN"><i>aspiration</i><c>desire</c></NS> to earn big money for writing an <NS type="DY"><i>extremaly</i><c>extremely</c></NS> good report<NS type="UP"><i>,</i></NS> or article.</p>
+          <p>To begin with, we enjoy reading <NS type="CN"><i>gossips</i><c>gossip</c></NS> about famous stars and politicians, although they sometimes aren't <NS type="DJ"><i>truly</i><c>true</c></NS>. In addition we are fascinated <NS type="RT"><i>in</i><c>by</c></NS> their <NS type="FN"><i>marriage</i><c>marriages</c></NS>, children, holidays etc. What is more it was their own choice to become popular and <NS type="UP"><i>well-known</i><c>well known</c></NS>. <NS type="R"><i>By</i><c>When</c></NS> <NS type="IV"><i>chosing</i><c>choosing</c></NS> this style of life they should realise<NS type="UP"><i>,</i></NS> <NS type="AS"><i>how their life would <NS type="RV"><i>look</i><c>be</c></NS> like</i><c>what their life would be like</c></NS>.</p>
+          <p>On the other hand, their life has no <NS type="S"><i>privaty</i><c>privacy</c></NS>. In spite of being incredibly famous, they might feel very <NS type="DJ"><i>anxiously</i><c>anxious</c></NS> and lonely. They are always under <NS type="RJ"><i>high</i><c>great</c></NS> pressure in their <NS type="UP"><i>every-day</i><c>everyday</c></NS> life, because they are afraid of being <NS type="TV"><i>recognise</i><c>recognised</c></NS>.</p>
+          <p>Some people may argue, but I think<NS type="UP"><i>,</i></NS> that <NS type="S"><i>politicions</i><c>politicians</c></NS> and <NS type="UP"><i>films-stars</i><c>film stars</c></NS> belong to the public. In conclusion, I <NS type="S"><i>belive</i><c>believe</c></NS> that we have <NS type="MD"><c>a</c></NS> right to be informed about their <NS type="FN"><i>life</i><c>lives</c></NS>, providing that journalists respect some important rules.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR742*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to complain about the treatment that we <NS type="TV"><i>have received</i><c>received</c></NS> when we went to the Circle theatre in order to see the musical show "Over the rainbow"<NS type="MP"><c>,</c></NS> whose actors were Anthony Keens and Tina Truelove.</p>
+          <p>When we arrived at the Circle theatre in the evening, we <NS type="TV"><i>were waiting</i><c>waited</c></NS> <NS type="RT"><i>during</i><c>for</c></NS> a long time, because <NS type="UC"><i>that</i></NS> <NS type="DD"><i>you</i><c>your</c></NS> advertisement <NS type="RV"><i>noticed</i><c>stated</c></NS> that the <NS type="UJ"><i>musical</i></NS> show would begin at 19:30, and eventually it began at 20:15.</p>
+          <p>Moreover, the actors were not the same <NS type="RT"><i>of</i><c>as</c></NS> <NS type="M"><c>the ones in</c></NS> the advertisement. Finally, after the show we went to the theatre restaurant but it was closed because they were on <NS type="FN"><i>holidays</i><c>holiday</c></NS>. This evening was the worst evening of <NS type="UQ"><i>all</i></NS> my life.</p>
+          <p>I would like <NS type="UC"><i>that</i></NS> you <NS type="FV"><i>give</i><c>to give</c></NS> me back some money <NS type="RT"><i>of</i><c>for</c></NS> the tickets.</p>
+          <p>I look <NS type="MY"><c>forward</c></NS> to hearing from you soon.</p>
+          <p>Yours faithfully.</p>
+          <p>PEDRO REZ SORAN</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She told our parents that we were going to get married in Brazil. Because of this, Sally's parents and my parents went to Brazil <NS type="RY"><i>rapidly</i><c>posthaste</c></NS>. Sally and I had bought a nice big house beside the sea <NS type="RT"><i>in</i><c>on</c></NS> the outskirts of the city. It had three bedrooms, two bathrooms, one dining room and one kitchen. Indeed, it had a big swimming pool and a <NS type="S"><i>beatiful</i><c>beautiful</c></NS> garden. When my parents arrived in Brazil and found us, our dreams were erased. We had to come back to Spain. Because of this, we had to sell the house and left our jobs. When we arrived in Spain, we had to explain <NS type="MT"><c>to</c></NS> our parents all <NS type="MT"><c>about</c></NS> our adventure.</p>
+          <p>That day was the worst day of <NS type="UQ"><i>all</i></NS> my <NS type="MJ"><c>whole</c></NS> life. <NS type="RY"><i>Nowadays</i><c>Now</c></NS>, Sally and I are married, have three children, a marvellous house and both of us are working <NS type="RT"><i>in</i><c>for</c></NS> a big company.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

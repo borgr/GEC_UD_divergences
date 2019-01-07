@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR894*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am so glad that I have won this competition - two weeks at Camp California in the U.S.A. I would like to travel in the middle of July because my summer holiday starts in the middle of July. Is it possible to travel in July? And also I like to camp in a tent, because it will be more interesting than log cabins. You need to do everything by yourself.</p>
+          <p>Taking <NS type="UD"><i>a</i></NS> <NS type="FN"><i><NS type="RN"><i>photography</i><c>photograph</c></NS></i><c>photographs</c></NS> during the holiday is <NS type="MD"><c>a</c></NS> very good memory for me, and I can share my adventures <NS type="RT"><i>to</i><c>with</c></NS> my friends. So while I am at the Camp I <NS type="RV"><i>like</i><c>want</c></NS> to take <NS type="L"><i>many</i><c>a lot of</c></NS> <NS type="RN"><i><NS type="CN"><i>photographies</i><c>photography</c></NS></i><c>photographs</c></NS> and climb a mountain. <NS type="R"><NS type="UP"><i>Fresh-air</i><c>Fresh air</c></NS>, flowers and meeting some interesting people while you are climbing you have</NS>. By the way, I wonder if I need a lot of money and what kind of clothes I should bring. Finally, thanks for <NS type="AS"><i>giving this opportunity to me</i><c>giving me this opportunity</c></NS><NS type="MP"><c>.</c></NS> I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>13/06/00</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Shopping sounds very <NS type="S"><i>enjobleable</i><c>enjoyable</c></NS> and <NS type="MV"><c>is</c></NS> fantastic for women. You can find a lot of interesting things which <NS type="R"><i>you</i><c>were</c></NS> unexpected. Some people enjoy window shopping, but some people enjoy spending their money on <NS type="UD"><i>their</i></NS> clothes or shoes. Nowadays<NS type="MP"><c>,</c></NS> in a family<NS type="MP"><c>,</c></NS> shopping isn't <NS type="MD"><c>a</c></NS> <NS type="FN"><i>women's</i><c>woman's</c></NS> job.</p>
+          <p><NS type="ID"><i>In other hand</i><c>On the other hand</c></NS>, after shopping you'll get tired and maybe you can't afford your credit card. For instance, you <NS type="TV"><i>want</i><c>wanted</c></NS> to buy everything which you saw, and after that, you don't know how much you have spent. If you are going shopping someone can easily steal your wallet <NS type="R"><i>which</i><c>when</c></NS> you are looking at some interesting things. It <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="RY"><i>very</i><c>really</c></NS> awful.</p>
+          <p>However, shopping has pros and cons<NS type="RP"><i>, it</i><c>. It</c></NS> depends on personal <NS type="RN"><i>thinking</i><c>taste</c></NS>. I enjoy shopping very much<NS type="RP"><i>, it</i><c>. It</c></NS> can <NS type="RV"><i>let</i><c>help</c></NS> me know what's going on in the world. But it is a good idea to have a break during the shopping <NS type="MN"><c>trip</c></NS>, <NS type="MY"><c>then</c></NS> you won't feel so tired.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

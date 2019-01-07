@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR962*0100*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, thank you for your programme. It is very <NS type="RJ"><i>various</i><c>varied</c></NS> and interesting. We all <NS type="RV"><i>enjoy</i><c>like</c></NS> it. But last week we <NS type="TV"><i>have seen</i><c>saw</c></NS> an advertisement for the London Fashion and Leisure Show. This presentation will show the latest fashions and <NS type="UD"><i>the</i></NS> leisure and sports wear. We would be very <NS type="RJ"><i>interesting</i><c>interested</c></NS> in seeing <NS type="UD"><i>the</i></NS> <NS type="RP"><i>english</i><c>English</c></NS> fashion. At this show we could see different new <NS type="M"></NS> <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles.</p>
+          <p>The event is a great opportunity because it is on the 14th of March and it is free for students. For <NS type="S"><i>pratical</i><c>practical</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS>, this show <NS type="AGV"><i>start</i><c>starts</c></NS> at 10.00 and <NS type="AGV"><i>close</i><c>closes</c></NS> at 19.00. It will <NS type="RV"><i>stay</i><c>be</c></NS> in the Central Exhibition Hall in London. It is not too far and the <NS type="S"><i>openning</i><c>opening</c></NS> hours <NS type="RV"><i>fit</i><c>suit</c></NS> us.</p>
+          <p>About the programme, we suggest <NS type="FV"><i>to see</i><c>seeing</c></NS> the show on the Tuesday morning and <NS type="RY"><i>after</i><c>afterwards</c></NS> <NS type="FV"><i>to <NS type="RV"><i>do</i><c>go</c></NS></i><c>going</c></NS> shopping. As far as we are concerned<NS type="MP"><c>,</c></NS> we prefer <NS type="FV"><i>seeing</i><c>to see</c></NS> the Science Museum rather than the National Art Gallery. We also suggest <NS type="FV"><i>to visit</i><c>visiting</c></NS> the Science Museum <NS type="SX"><i>or</i><c>on</c></NS> Wednesday morning and <NS type="MT"><c>in</c></NS> the afternoon, if some <NS type="UD"><i>one</i></NS> of us <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="S"><i>intersted</i><c>interested</c></NS>, we could see the National Art Gallery.</p>
+          <p>I hope you won't be too angry <NS type="RT"><i>for</i><c>about</c></NS> this <NS type="DN"><i>changing</i><c>change</c></NS> but we would all like to go to the show.</p>
+          <p>Waiting for your answer, <NS type="L">receive our greetings.</NS></p>
+          <p><NS type="RT"><i>For</i><c>On behalf of</c></NS> the class</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p><NS type="DY"><i>General</i><c>Generally</c></NS> speaking, homes will change considerably. They will become less dark and more <NS type="S"><i>confortable</i><c>comfortable</c></NS> than today.  People's homes will <NS type="TV"><i>build</i><c>be built</c></NS> more economically by using natural <NS type="CN"><i>energies</i><c>energy</c></NS> like solar or wind energy. <NS type="AGD"><i>This</i><c>These</c></NS> <NS type="DN"><i>improvments</i><c>improvements</c></NS> will be <NS type="RV">involved</NS> by the lack of petrol and <NS type="DJ"><i>unrecycling</i><c>non-renewable</c></NS> <NS type="CN"><i>energies</i><c>energy</c></NS>.</p>
+          <p>About the size of <NS type="FN"><i><NS type="S"><i>hous</i><c>house</c></NS></i><c>houses</c></NS>, I think that in cities houses will be more and more <NS type="RJ"><i>little</i><c>small</c></NS> because of <NS type="UD"><i>the</i></NS> <NS type="RP"><i>over population</i><c>overpopulation</c></NS>. We <NS type="W"><i>also will</i><c>will also</c></NS> see very <NS type="RJ"><i>high</i><c>tall</c></NS> buildings which <NS type="AGV"><i>contains</i><c>contain</c></NS> a lot of narrow flats.</p>
+          <p><NS type="DY"><i>In opposite</i><c>In contrast</c></NS>, in the <NS type="FN"><i>suburb</i><c>suburbs</c></NS> or in the <NS type="RN"><i>land</i><c>countryside</c></NS>, more and more rich people will build big houses. Homes like this will be <NS type="TV"><i>build</i><c>built</c></NS> with the latest technologies and <NS type="MV"><c>will be</c></NS> very luxurious.</p>
+          <p>But about <NS type="MD"><c>the</c></NS> differences between <NS type="MD"><c>the</c></NS> <NS type="W"><i>rich's and poor's homes</i><c>homes of the rich and poor</c></NS><NS type="MP"><c>,</c></NS> <NS type="MA"><c>they</c></NS> will be the same in the <NS type="S"><i>futur</i><c>future</c></NS>. New technologies and facilities won't improve the relationship between people. I think that people will be as alone and <NS type="S"><i>julous</i><c>jealous</c></NS> as today.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE51*0100*2001*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>18.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Maria:</p>
+          <p>Thank you for your letter. <NS type="RA"><i>I</i><c>It</c></NS> will be pleasure to help you.</p>
+          <p>The following <NS type="AGV"><i>are</i><c>is</c></NS> some information about the International student conference.</p>
+          <p>The party will be <NS type="UV"><i>take place</i></NS> in <NS type="MD"><c>the</c></NS> Palace Hotel. The Hotel is very close <NS type="M"><c>to the</c></NS> Town Hall. From <NS type="RP"><i>park square</i><c>Park Square</c></NS>, just go straight. You can see the sign <NS type="RT"><i>of</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> hotel.</p>
+          <p>This is <NS type="FD"><i>a</i><c>an</c></NS> International student party, so I suggest you wear <NS type="S"><i>tradional</i><c>traditional</c></NS> <NS type="RN"><i>clothes</i><c>costume</c></NS>. It looks nice and <NS type="AGV"><i>have</i><c>has</c></NS> <NS type="R">good meaning</NS>.</p>
+          <p>You can <NS type="RV"><i>notice</i><c>inform</c></NS> <NS type="AGQ"><i>every</i><c>all the</c></NS> students <NS type="SX"><i>what</i><c>that</c></NS> they <NS type="TV"><i>could</i><c>can</c></NS> <NS type="RV"><i>make</i><c>take</c></NS> some <NS type="S"><i>tradional</i><c>traditional</c></NS> food to the party. After <NS type="MD"><c>the</c></NS> meal, you can play some games and prepare <NS type="RD"><i>some</i><c>a</c></NS> <NS type="RN"><i>gift</i><c>prize</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> the winner. At the end of <NS type="MD"><c>the</c></NS> conference you can dance and <NS type="FV"><i>singing</i><c>sing</c></NS> together.</p>
+          <p><NS type="R"><i>There is</i><c>These are</c></NS> my <NS type="AGN"><i>suggestion</i><c>suggestions</c></NS> <NS type="RT"><i>about</i><c>for</c></NS> this party. If you still have <NS type="RD"><i>some</i><c>a</c></NS> problem, you can call me.</p>
+          <p>Love from,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Report <NS type="M"><c>on the</c></NS> <NS type="W"><i>building of LUTON University</i><c>LUTON University building</c></NS></p>
+          <p>I heard that a group of <NS type="DJ"><i>America</i><c>American</c></NS> students has just arrived in our town. I want to <NS type="RV">introduce</NS> an interesting building for them to visit.</p>
+          <p>It is <NS type="MD"><c>the</c></NS> main building of LUTON University <NS type="RT"><i>at</i><c>in</c></NS> <NS type="RP"><i>park square</i><c>Park Square</c></NS>. <NS type="RA"><i>There</i><c>It</c></NS> is <NS type="FD"><i>a</i><c>an</c></NS> academic building. It <NS type="S"><i>inculds</i><c>includes</c></NS> <NS type="MD"><c>a</c></NS> <NS type="S"><i>labrary</i><c>library</c></NS><NS type="RP"><i>.</i><c>,</c></NS> <NS type="R">II suit</NS>, <NS type="RJ">academic</NS> rooms<NS type="MP"><c>,</c></NS> a <NS type="DN">GYM Club</NS> and a <NS type="S"><i>restuarant</i><c>restaurant</c></NS>.</p>
+          <p>There is a very big <NS type="S"><i>labrary</i><c>library</c></NS>. You can find any information from it <NS type="RA"><i>what</i><c>that</c></NS> you want. <NS type="RT"><i>At</i><c>For</c></NS> the rest of <NS type="MD"><c>the</c></NS> time, you can go to <NS type="MD"><c>the</c></NS> IT <NS type="RN"><i>suit</i><c>suite</c></NS> <NS type="FV"><i>use</i><c>to use</c></NS> <NS type="MD"><c>the</c></NS> Internet. If you feel hungry, you don't need <NS type="FV"><i>go</i><c>to go</c></NS> out. <NS type="RY">Just</NS> <NS type="RT"><i>at</i><c>in</c></NS> the same building, you <NS type="TV"><i>could</i><c>can</c></NS> find <NS type="MD"><c>a</c></NS> <NS type="S"><i>restuarant</i><c>restaurant</c></NS>.</p>
+          <p>I <NS type="AS"><i><NS type="S"><i>recommen</i><c>recommend</c></NS> this <NS type="S"><i>buiding</i><c>building</c></NS> to visit</i><c>recommend visiting this building</c></NS><NS type="RP"><i>. Because</i><c>, because</c></NS> American students <NS type="R">will know British students is how to study and different campus life</NS>. They can also talk with British students <NS type="R">to <NS type="S"><i>communiate</i><c>communicate</c></NS> study experience</NS>.</p>
+          <p>I think it will be interesting<NS type="UP"><i>.</i></NS> for American students.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

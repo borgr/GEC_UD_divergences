@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR574*0102*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear sir,</p>
+          <p>I'm sorry to tell you<NS type="UP"><i>,</i></NS> that I'm really disappointed <NS type="RT"><i>of</i><c>with</c></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the musical show <NS type="RT"><i>in</i><c>at</c></NS> the Circle Theatre. First of all, I was really looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> one of my favourite actors Danny Brook in the show, but you had a different actor, <NS type="RA"><i>what</i><c>which</c></NS> disappointed me very much. Also, the show didn't start <NS type="RT"><i>in</i><c>on</c></NS> time, it started half an hour <NS type="FY"><i>later</i><c>late</c></NS>. And you <NS type="TV"><i>have</i><c>had</c></NS> written in your advert<NS type="UP"><i>,</i></NS> that there would be discounts available, <NS type="RA"><i>what</i><c>which</c></NS> <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> <NS type="RJ"><i>possible</i><c>available</c></NS> <NS type="RD"><i>this</i><c>that</c></NS> evening. After the show we wanted to visit the restaurant, but it was closed because of <NS type="MD"><c>the</c></NS> <NS type="RN">painting-works</NS> inside the restaurant. Finally we <NS type="X"><i>had no</i><c>did not have</c></NS> <NS type="MD"><c>a</c></NS> perfect evening at all! And <NS type="MC"><c>because</c></NS> of these <NS type="DN"><i>circumstands</i><c>circumstances</c></NS>, I would like to have a part of my money back.</p>
+          <p>I hope you understand my concern.</p>
+          <p>Yours</p>
+          <p><NS type="S"><i>Faithully</i><c>Faithfully</c></NS>,</p>
+          <p>Brigitte Beschle</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Because he likes to tease people. So, it was last summer, we were on a short trip with our class to <NS type="FD"><i>a</i><c>an</c></NS> <NS type="UP"><i>adventure-park</i><c>adventure park</c></NS>. We had a lot of fun. Until we came to a big cave, where you could walk through. It was <NS type="SX"><i>quiet</i><c>quite</c></NS> scary for me, but I said to myself, come on you can do it. I walked <NS type="MT"><c>in</c></NS> first with Pat and two of my friends. But suddenly, there were only Pat and <NS type="RA"><i>I</i><c>me</c></NS> left. We lost the others. So I tried <NS type="W"><i>to get not</i><c>not to get</c></NS> in <NS type="MD"><c>a</c></NS> panic, but <NS type="MV"><c>had</c></NS> no chance. I was so worried <NS type="M"><c>I would</c></NS> not <NS type="FV"><i>to find</i><c>find</c></NS> the way out<NS type="UP"><i>,</i></NS> that I started to scream and cry. First, Pat started to laugh, but as he realized<NS type="UP"><i>,</i></NS> that I didn't stop crying, he <NS type="TV"><i>comfort</i><c>comforted</c></NS> me until I <NS type="TV"><i>was calming</i><c>calmed</c></NS> down. And after a while we found the way out. I <NS type="TV"><i>ask</i><c>asked</c></NS> him<NS type="UP"><i>,</i></NS> not to tell anybody that I cried. He said, '<NS type="RP"><i><NS type="S"><i>shure</i><c>sure</c></NS></i><c>Sure</c></NS><NS type="MP"><c>,</c></NS> no problem'. But next day, back in the classroom, some of the students looked at me and started to laugh. After that <NS type="MA"><c>it</c></NS> was all clear, Pat and secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

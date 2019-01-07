@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR528*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Last week I had the chance to spend time in London and this is why I decided to go to the Circle Theatre to see the <NS type="UJ"><i>musical</i></NS> show.</p>
+          <p>Firstly, I would like to tell you I <NS type="W"><i>had unfortunately</i><c>unfortunately had</c></NS> a very bad evening. Indeed, I was very <NS type="DJ"><i>surprise</i><c>surprised</c></NS> to <NS type="R"><i>ear</i><c>hear</c></NS> when I asked for a discount that it was not possible to <NS type="RV"><i>have</i><c>get</c></NS> one.</p>
+          <p>In spite of that, I finally decided to <NS type="RV"><i>take</i><c>get</c></NS> one ticket.</p>
+          <p>The other bad point was the time when the show started, it was already 20:15 when the first star <NS type="RV"><i><NS type="S"><i>entred</i><c>entered</c></NS></i><c>came</c></NS> on <NS type="UD"><i>the</i></NS> <NS type="RN"><i>scene</i><c>stage</c></NS>, but your advertisement <NS type="IV"><i>sayed</i><c>said</c></NS> 19.30!</p>
+          <p>The worst was when the actors <NS type="R">were presented to us</NS> and the starring names were completely different <NS type="R"><i>than</i><c>to what</c></NS> I expected.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS>, I didn't understand why you pushed people to visit your restaurant if you don't open it after the show!</p>
+          <p>This is why<NS type="MP"><c>,</c></NS> for all of <NS type="RD"><i>those</i><c>these</c></NS> good reasons<NS type="MP"><c>,</c></NS> I am asking for some money back.</p>
+          <p>I am sure you will understand my request regarding my complaint, your credibility is depending <NS type="RT"><i>of</i><c>on</c></NS> <NS type="MA"><c>it</c></NS>.</p>
+          <p>I look forward to <NS type="DV"><i>earing</i><c>hearing</c></NS> from you .</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Our century is a century of changes, of evolution. Since the end of the 40's<NS type="MP"><c>,</c></NS> which is the period <NS type="RY"><i>where</i><c>when</c></NS> <NS type="UD"><i>the</i></NS> technology started <NS type="MV"><c>to advance</c></NS>, nobody can say that nothing has changed.</p>
+          <p>Every day, from the morning to the evening we are completely dependent <NS type="RT"><i>of</i><c>on</c></NS> <NS type="UD"><i>the</i></NS> technology.</p>
+          <p>In fact our <NS type="RP"><i>life style</i><c>lifestyle</c></NS> is based on <NS type="UD"><i>the</i></NS> technology, now, if we want to stay at home without having contact with other people, we can do it, we just need a computer and a modem and that's it.</p>
+          <p>If I want to discuss <NS type="MA"><c>something</c></NS> with friends or order a Pizza, I can do it <NS type="MC"><c>as</c></NS> <NS type="DY"><i>easely</i><c>easily</c></NS> as I want, when <NS type="RA"><i>it</i><c>I</c></NS> want. <NS type="R"><i>In spite</i><c>Because</c></NS> of that, I think <NS type="UD"><i>the</i></NS> technology is improving my quality of life.</p>
+          <p>A good example is the <NS type="S"><i>celular</i><c>cellular</c></NS> phone<NS type="RP"><i>,</i><c>.</c></NS> I can contact my family without <NS type="MQ"><c>any</c></NS> problem, I can inform my company if I <NS type="TV"><i>had</i><c>have</c></NS> an accident <NS type="RT"><i>with</i><c>in</c></NS> my car.</p>
+          <p>If I compare my life now with the life of my <NS type="RP"><i>grand parents</i><c>grandparents</c></NS>, I think both are comparable<NS type="RP"><i>,</i><c>.</c></NS> I say that because without knowing <NS type="MT"><c>about</c></NS> the technology, it's difficult to imagine a <NS type="FJ"><i>best</i><c>better</c></NS> life, in fact, you <NS type="R">leave with your time</NS>. Even if <NS type="UD"><i>the</i></NS> technology is important for my quality of life, I am not able to say if <NS type="RA"><i>it</i><c>that</c></NS> will continue to be the case in 10 years.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR589*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to you to complain about my unpleasant experience of visiting your theatre on May 21st. I had dreamt about visiting the Circle Theatre to see Danny Brook's performance for a long time. As soon as I saw your advertisement in the 'Tourist Guide' issue 46, I decided to go at once.</p>
+          <p>However, all my expectations failed to <NS type="RV"><i>become</i><c>come</c></NS> true. First of all, I found that no discounts <NS type="RT"><i>for</i><c>on</c></NS> tickets were available<NS type="UP"><i>. Although</i><c> although</c></NS> you mentioned <NS type="AGA"><i>it</i><c>them</c></NS> in your advertisement. Next, the show started at 20:15 instead of 19:30. And, finally, right before the <NS type="DN"><i>starting</i><c>start</c></NS> they announced that Danny Brook <NS type="S"><i>woud</i><c>would</c></NS> not be in the show that evening. So he was replaced by another actor. After the show I was not <NS type="S"><i>surpised</i><c>surprised</c></NS> at all to <NS type="RV"><i>know</i><c>learn</c></NS> that the theatre restaurant was closed for redecoration.</p>
+          <p><NS type="ID">As a whole</NS>, I have to say that I got something completely different from what I had expected to get. In connection with that I ask you to refund the money I paid for my tickets. I really hope it will not take you long to settle the matter.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p><NS type="DY"><i>Undoubtfully</i><c>Undoubtedly</c></NS>, modern technology <NS type="TV"><i>changed</i><c>has changed</c></NS> my daily life. And the best word I can <NS type="MV"><c>use</c></NS> <NS type="FV"><i>describe</i><c>to describe</c></NS> all the changes <NS type="UT"><i>with</i></NS> is "<NS type="DJ"><i>drastical</i><c>drastic</c></NS>". Every aspect of my life is being constantly <NS type="TV"><i>influence</i><c>influenced</c></NS> by achievements of science and technology - health, work, household, interaction with other people, etc.</p>
+          <p>Among the greatest inventions of man I <NS type="TV"><i>came</i><c>come</c></NS> <NS type="S"><i>accross</i><c>across</c></NS> <NS type="DY"><i>dayly</i><c>daily</c></NS> are <NS type="MD"><c>the</c></NS> telephone, computer and automobile. At any time of <NS type="RD"><i>a</i><c>the</c></NS> day I may contact any person <NS type="RT"><i>at</i><c>in</c></NS> any part of the world over <NS type="MD"><c>the</c></NS> phone. It takes me less than a minute to get in touch with my friend Nigel living in Australia - <NS type="FN"><i>thousand</i><c>thousands</c></NS> <NS type="MT"><c>of</c></NS> <NS type="UP"><i>kilometres'</i><c>kilometres</c></NS> <NS type="MY"><c>away</c></NS> from me. <NS type="MD"><i>Computer</i><c>The computer</c></NS>, probably the must versatile invention, allows me to get <NS type="UD"><i>an</i></NS> access to <NS type="RJ">huge</NS> <NS type="S"><i>informatonal</i><c>informational</c></NS> sources through the <NS type="RP"><i>internet</i><c>Internet</c></NS>, to <NS type="RV"><i>make</i><c>do</c></NS> shopping without leaving my house, to do my work more effectively and quickly. <NS type="MD"><i>Automobile</i><c>The automobile</c></NS> saves <NS type="DA"><i>my</i><c>me</c></NS> time when I'm travelling.</p>
+          <p>All the above and many other achievements of modern technology make my life more convenient, comfortable, effective and fun. But <NS type="RA"><i>it</i><c>that</c></NS> is not the end. Scientists continue <NS type="CN"><i>researches</i><c>research</c></NS> into new technologies, such as lasers, digital technology, <NS type="MC"><c>and</c></NS> <NS type="DJ"><i>gene</i><c>genetic</c></NS> engineering. And I'm sure all those will set new<NS type="MP"><c>,</c></NS> better standards for my way of living.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

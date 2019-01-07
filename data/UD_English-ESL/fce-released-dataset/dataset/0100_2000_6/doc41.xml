@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR163*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Helen. Ryan,</p>
+          <p>Thank you for <NS type="UD"><i>your</i></NS> confirming about the first prize in your competition. I was pleased <NS type="RY"><i>as</i><c>when</c></NS> I got it.</p>
+          <p>I'll confirm about my hopes.</p>
+          <p>I hope I'll be able to travel <NS type="RT"><i>on</i><c>in</c></NS> July<NS type="RP"><i>. Due</i><c>, due</c></NS> to the fact that my children have summer holiday from July. I prefer to stay in log cabins , <NS type="RC"><i>therefore</i><c>because</c></NS> I'm going to travel with 2 children and my dog. I wonder if I can take them as well. Then I'd like to join the activities, swimming and Singing. I love swimming and also I've got a <NS type="S"><i>scubar</i><c>scuba</c></NS> diving licence. I used to enjoy <NS type="S"><i>floting</i><c>floating</c></NS> on the water whenever I was on holiday. Singing is the most <NS type="S"><i>favarite</i><c>favourite</c></NS> hobby for us. We often go out to sing in <NS type="MD"><c>a</c></NS> Karaoke bar.</p>
+          <p>My son experienced winning the first prize in a Karaoke competition.</p>
+          <p>I'd like to know <NS type="UC"><i>that</i></NS> how much <NS type="S"><i>monery</i><c>money</c></NS>, <NS type="MC"><c>and</c></NS> how many clothes we need.</p>
+          <p><NS type="RA"><i>It</i><c>I</c></NS> would be grateful if you sent me more details</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="L"><i>Yours sincerely</i><c>Yours faithfully</c></NS></p>
+          <p>Hana Soma</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>First of all<NS type="MP"><c>,</c></NS> we can't go shopping without money. Nowadays, most <NS type="RP"><i>product's</i><c>products'</c></NS> prices <NS type="AGV"><i>has</i><c>have</c></NS> gone up with our own country's <NS type="DJ"><i>economy</i><c>economic</c></NS> development. Despite the poor material of product, we have to pay <NS type="L"><i>much</i><c>a lot of</c></NS> money, even though we <NS type="MV"><c>are</c></NS> completely satisfied <NS type="MT"><c>with</c></NS> shopping at that time, we sometimes regret buying after the shopping. It sounds <NS type="UT"><i>like</i></NS> foolish. However it often <NS type="AGV"><i>happen</i><c>happens</c></NS>.</p>
+          <p><NS type="SX"><i>Secondary</i><c>Secondly</c></NS><NS type="MP"><c>,</c></NS> the <NS type="UN"><i>customer's</i></NS> service often makes us angry. Of <NS type="S"><i>couse</i><c>course</c></NS>, the shopkeepers are human <NS type="AGN"><i>being</i><c>beings</c></NS> as well. <NS type="R">But for their considerations, they're working in their <NS type="S"><i>rutines</i><c>routines</c></NS>.</NS> So their attitude sometimes seems to be bossy and pushy.</p>
+          <p>I sometimes <NS type="RV"><i>loose</i><c>lose</c></NS> my desire to buy a thing because of their <NS type="DJ"><i>badly</i><c>bad</c></NS> <NS type="S"><i>behaviers</i><c>behaviour</c></NS>.</p>
+          <p>Moreover, shopping is just a part of life <NS type="UN"><i>style</i></NS>. It's necessary to buy something to <NS type="DV"><i>alive</i><c>live</c></NS>. We have to buy <NS type="UT"><i>for</i></NS> <NS type="RP"><i>some thing</i><c>something</c></NS>. For example, for our jobs<NS type="MP"><c>,</c></NS> <NS type="S"><i>supecial</i><c>special</c></NS> <NS type="IN"><i>ceremonys</i><c>ceremonies</c></NS><NS type="MP"><c>,</c></NS> and so on. <NS type="R">Even when the risk comes up with shopping.</NS></p>
+          <p>To sum up, shopping is not always enjoyable for us</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

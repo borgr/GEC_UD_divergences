@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR920*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RN"><i>Mr/<NS type="S">Mss</NS></i><c>Sir/Madam</c></NS></p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you <NS type="UT"><i>in</i></NS> <NS type="FV"><i>complain</i><c>to complain</c></NS> about <NS type="MD"><c>the</c></NS> musical show<NS type="UP"><i>,</i></NS> that I <NS type="RV"><i><NS type="TV"><i>have visited</i><c>visited</c></NS></i><c>went to</c></NS> last evening. I had a <NS type="MP"><i>week</i><c>week's</c></NS> holiday in London, so I wanted to spend my last evening <NS type="R">with great pleasure</NS>, however it was the <NS type="FJ"><i>worse</i><c>worst</c></NS> evening in my life.</p>
+          <p>First of all, the actors were different from those who were advertised. Second, the show started at 20:15, <NS type="S"><i>althoug</i><c>although</c></NS> I read that it <NS type="TV"><i>started</i><c>would start</c></NS> at 19:30! <NS type="RP"><i>More over</i><c>Moreover</c></NS><NS type="MP"><c>,</c></NS> after watching <NS type="RD"><i>a</i><c>the</c></NS> show I wanted to visit your theatre restaurant, but it was closed, it really disappointed me.</p>
+          <p>It was my dream to see Danny Brook and Tina Truelove, so it is still my dream because of your show.</p>
+          <p>So, I had no perfect evening out and I want my money back. I hope you'll understand my situation and if you want other people to visit your show, you should return my money.</p>
+          <p>Yours <NS type="DY"><i>faithfuly</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>How has modern <NS type="S"><i>techology</i><c>technology</c></NS> changed my daily life<NS type="RP"><i>.</i><c>?</c></NS> Fifty years ago people <NS type="W"><i>even didn't</i><c>didn't even</c></NS> think that after 2000 years they would have another life. When Thomas Adison invented <NS type="UD"><i>an</i></NS> electric light, it was the greatest invention for people of that <NS type="S"><i>centure</i><c>century</c></NS>. And nowadays modern technology can change all our <NS type="FN"><i>life</i><c>lives</c></NS>. I mean, almost everyone <NS type="W"><i>has now</i><c>now has</c></NS> a car, a computer, a <NS type="S"><i>mobil</i><c>mobile</c></NS> phone and even an airplane. My life is changing too. First of all<NS type="MP"><c>,</c></NS> now I can phone my friends and parents from every place, I can chat with other foreign teenagers with the help of the <NS type="RP"><i>internet</i><c>Internet</c></NS>. Second<NS type="MP"><c>,</c></NS> modern technology helps me in the kitchen. <NS type="S"><i>Coocking</i><c>Cooking</c></NS> <NS type="TV"><i>became</i><c>has become</c></NS> faster with the help of the microwave. What is more<NS type="MP"><c>,</c></NS> <NS type="RP"><i>Modern</i><c>modern</c></NS> technology prevents different illnesses. <NS type="RP"><i>Further more</i><c>Furthermore</c></NS>, yesterday <NS type="TV"><i>I've heard</i><c>I heard</c></NS> that every man could fly <NS type="RT"><i>to</i><c>into</c></NS> <NS type="UD"><i>the</i></NS> space without any experience, it is great, from my point of view<NS type="MP"><c>,</c></NS> <NS type="MC"><c>that</c></NS> in <NS type="W"><i>2050 <NS type="MD"><c>the</c></NS> year</i><c>the year 2050</c></NS> everybody will fly <NS type="RT"><i>to</i><c>into</c></NS> <NS type="UD"><i>the</i></NS> space.</p>
+          <p>On the other hand<NS type="MP"><c>,</c></NS> people can <NS type="DV">atrophided</NS> of all <NS type="AGD"><i>this</i><c>these</c></NS> inventions. <NS type="AGA"><i>He</i><c>They</c></NS> become lazy because they know that they can <NS type="RV"><i>seat</i><c>sit</c></NS> on the sofa and <NS type="RV"><i>turn</i><c>change</c></NS> the <NS type="RV"><i>chances</i><c>channels</c></NS> on the TV by pressing a <NS type="S"><i>boton</i><c>button</c></NS>.</p>
+          <p>In conclusion<NS type="MP"><c>,</c></NS> I want to say that <NS type="RP"><i>inspite</i><c>in spite</c></NS> of this, I hope that in future we will have more and more new inventions and they will <NS type="RV"><i>stop</i><c>prevent</c></NS> our disasters and problems.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

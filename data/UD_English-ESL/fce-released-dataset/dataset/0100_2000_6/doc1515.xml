@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR586*0100*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Mrs Ryan</p>
+          <p>Regarding your letter dated <NS type="UT"><i>on</i></NS> the 6th of June I'm so happy to receive the first <NS type="RN"><i>price</i><c>prize</c></NS>. Thanks very much.</p>
+          <p>I would like to travel in July to California. The reason is that we have long holidays at school <NS type="RT"><i>on</i><c>at</c></NS> <NS type="RD"><i>this</i><c>that</c></NS> time. Although<NS type="UP"><i>,</i></NS> the accommodation isn't so important for me<NS type="RP"><i>.</i><c>,</c></NS> I would prefer the log cabin because of the comfort and the better bed.</p>
+          <p>I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> <NS type="R"><i>the</i><c>as my</c></NS> activities surfing and photography. I'm a beginner <NS type="RT"><i>on</i><c>at</c></NS> both activities.</p>
+          <p>I have <NS type="R"><i>some questions as follow</i><c>the following questions</c></NS>:</p>
+          <p>1. What kind of clothes are needed?</p>
+          <p>2. What <NS type="MV"><c>do</c></NS> I have to pay <NS type="UT"><i>by</i></NS> myself?</p>
+          <p>3. Should I take some money with me?</p>
+          <p>4. How is the <NS type="S"><i>wheather</i><c>weather</c></NS> in California?</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS>,</p>
+          <p>A. Becker</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Most of the time <NS type="W"><i>is shopping</i><c>shopping is</c></NS> fun and enjoyable.</p>
+          <p>There are a lot of reasons <NS type="MC"><c>why</c></NS> <NS type="RA"><i>that</i><c>it</c></NS> <NS type="TV"><i>could</i><c>can</c></NS> be awful to go shopping. <NS type="R">Even</NS> if you run out of money or you have to buy a particular thing which is difficult to find. I <NS type="W"><i>had once</i><c>once had</c></NS> this problem. I was looking for a special fruit.</p>
+          <p>The sales assistants in the stores aren't so nice <NS type="RC"><i>and</i><c>or</c></NS> helpful. Sometimes they give me a bad feeling <NS type="RT"><i>as</i><c>like</c></NS> <NS type="CE">,,customer treat with order"</NS>.</p>
+          <p>Last week I was shopping with my younger brother. Awful<NS type="RP"><i>.</i><c>!</c></NS> He wanted everything <NS type="RA"><i>what</i><c>that</c></NS> his eyes saw. All the stuff for children <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the same level as <NS type="U"><i>they have</i></NS> their eyes. Afterwards, I felt tired and <NS type="DJ"><i>unsatisfy</i><c>unsatisfied</c></NS> <NS type="MC"><c>with</c></NS> the store.</p>
+          <p>The shops have bad opening times.</p>
+          <p>When I feel <NS type="R"><i>me comfortable</i><c>in the mood</c></NS> for shopping everything <NS type="TV"><i>will be</i><c>is</c></NS> closed or <NS type="RA"><i>you</i><c>I</c></NS> haven't enough time to look around.</p>
+          <p>My conclusion on these points <NS type="AGV"><i>are</i><c>is</c></NS> not so bad. I like shopping <NS type="R"><i>at all</i><c>only</c></NS> with my best friend.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

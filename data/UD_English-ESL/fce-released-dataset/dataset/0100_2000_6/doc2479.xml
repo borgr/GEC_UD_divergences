@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1000*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>I am very glad that I have won first prize in your competition and I can go to the United States. It has always been my dream to go there and to be able to see that <NS type="DJ"><i>beautifull</i><c>beautiful</c></NS> country. Now my dream will come true.</p>
+          <p>I will try to give you some information about me. The best time to travel for me is July because I am working and only then <NS type="W"><i>I can</i><c>can I</c></NS> have holidays. I would be pleased if it is possible.</p>
+          <p>About accommodation, I would prefer a tent because I have never slept in <NS type="RD"><i>the</i><c>a</c></NS> tent and I would like to try it. It will be very interesting for me because <NS type="DY"><i>normaly</i><c>normally</c></NS> I <NS type="RV"><i>have not</i><c>do not have</c></NS> a lot of time to do activities. I would prefer swimming because I <NS type="RY"><i>very</i><c>really</c></NS> like it and I am trying to swim <NS type="DY"><i>anywhen</i><c>whenever</c></NS> I have got some time, and painting because I have finished <NS type="MD"><c>a</c></NS> painting course and I have some practice with this.</p>
+          <p>That is very nice that <NS type="RQ"><i>every</i><c>all</c></NS> costs are <NS type="IV"><i>paited</i><c>paid</c></NS> for but I would like to ask you how much money I should <NS type="FV"><i>to take</i><c>take</c></NS> with me because I do not <NS type="SX"><i>now</i><c>know</c></NS> anything about prizes in the U.S.A. and please <NS type="FV"><i>to tell</i><c>tell</c></NS> me if I need anything to paint because it would be difficult to take it with me, so if I will need to take everything I will just change this <NS type="S"><i>activite</i><c>activity</c></NS>.</p>
+          <p>Thank you for the letter and I am looking forward <NS type="MT"><c>to</c></NS> an answer.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Hallo Kim,</p>
+          <p>Thank you for <NS type="FV"><i>answer</i><c>answering</c></NS> <NS type="UT"><i>on</i></NS> my last letter, I hope your sister's health is better than <NS type="UT"><i>on</i></NS> last time and she is all right.</p>
+          <p>My life is a little bit changed after that concert <NS type="UT"><i>on</i></NS> last month. I will try to explain <NS type="MT"><c>to</c></NS> you why.</p>
+          <p>As you <NS type="SX"><i>now</i><c>know</c></NS> I was helping to make <NS type="RQ"><i>every</i><c>all the</c></NS> decorations before and during the concert. It was <NS type="MD"><c>a</c></NS> <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS> new experience for me. I have never before met so many people and I didn't now that is so hard to keep everything in order during <NS type="RD"><i>the</i><c>a</c></NS> concert. Now I <NS type="SX"><i>now</i><c>know</c></NS> that everything <NS type="AGV"><i>need</i><c>needs</c></NS> <NS type="RN"><i>patient</i><c>patience</c></NS>, time and hard work before someone <NS type="TV"><i>will sing</i><c>sings</c></NS> any record on <NS type="RN"><i>scene</i><c>stage</c></NS>. The people were <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS>, they <NS type="AGV"><i>was</i><c>were</c></NS> helping each other with everything and it was a lot <NS type="UT"><i>of</i></NS> easier to do. It is <NS type="MD"><c>a</c></NS> very nice feeling when you need help and <NS type="MA"><c>there</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> so many people <NS type="RA"><i>which</i><c>who</c></NS> want to help you. I will never forget this concert and those people. It was good experience which I will never forget. I hope I will be able to do it again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

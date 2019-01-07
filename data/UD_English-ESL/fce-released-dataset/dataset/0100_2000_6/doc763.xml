@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR300*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen</p>
+          <p>I am very surprised <NS type="UT"><i>for</i></NS> <NS type="FV"><i>have</i><c>to have</c></NS> received your letter in which you explained to me that I have won <NS type="MD"><c>a</c></NS> prize in your competition. After that, I would like to say Thanks, I <NS type="W"><i>never have</i><c>have never</c></NS> won any <NS type="FN"><i><NS type="RN"><i>price</i><c>prize</c></NS></i><c>prizes</c></NS> at all.</p>
+          <p>Now, I will answer your <NS type="RN"><i>requests</i><c>questions</c></NS>. In reference <NS type="RT"><i>about</i><c>to</c></NS> the date of <NS type="UD"><i>the</i></NS> travel, I would like to travel in July because at the moment I am working at <NS type="UD"><i>the</i></NS> University and I only have July to take my holidays.</p>
+          <p>As <NS type="MA"><c>you</c></NS> state in your letter I have to choose the <NS type="W"><i>accommodation type <NS type="MT"><c>of</c></NS></i><c>type of accommodation</c></NS>. I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because since I was a child I have <NS type="TV"><i>being</i><c>been</c></NS> using this type of accommodation. I used to go <NS type="UT"><i>to</i></NS> <NS type="CN"><i>campings</i><c>camping</c></NS>.</p>
+          <p>About camp activities<NS type="MP"><c>,</c></NS> I would prefer to do basketball and photography. I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> these activities because <NS type="RY"><i>actually</i><c>these days</c></NS> I am playing <NS type="RT"><i>with</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> university team, and photography is my <NS type="S"><i>favoorate</i><c>favourite</c></NS> hobby. I have recently bought a new camera.</p>
+          <p>Finally let me know what kind of clothes will be the most suitable at camp. Is <NS type="MA"><c>it</c></NS> <NS type="DJ"><i><NS type="S"><i>necesarilly</i><c>necessarily</c></NS></i><c>necessary</c></NS> <NS type="FV"><i>bring</i><c>to bring</c></NS> <NS type="R"><i>to me</i><c>any</c></NS> money <NS type="U"><i>in there</i></NS>?</p>
+          <p>I look forward to hearing from you</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>I am <NS type="FV"><i><NS type="IV"><i>writen</i><c>written</c></NS></i><c>writing</c></NS> to you <NS type="FV"><i>telling</i><c>to tell</c></NS> <NS type="MA"><c>you</c></NS> about my experience at a pop concert.</p>
+          <p>It began when <NS type="DD"><i>ours</i><c>our</c></NS> <NS type="RJ"><i>common</i><c>mutual</c></NS> <NS type="FN"><i>friends</i><c>friend</c></NS> Martha<NS type="UP"><i>,</i></NS> <NS type="S"><i>ofered</i><c>offered</c></NS> me <NS type="M"><c>the chance</c></NS> to <NS type="R"><i>be a organization member at</i><c>help organise</c></NS> the concert<NS type="RP"><i>, obviously</i><c>. Obviously</c></NS> I accepted. Now I can tell you that it was an <NS type="S"><i>amaizing</i><c>amazing</c></NS> <NS type="S"><i>challange</i><c>challenge</c></NS> for me because I <NS type="TV"><i>never did</i><c>had never done</c></NS> anything like that.</p>
+          <p>My duties <NS type="RT"><i>like</i><c>as</c></NS> a <NS type="RN"><i>organization</i><c>staff</c></NS> member were <NS type="RJ"><i><NS type="S"><i>diferent</i><c>different</c></NS></i><c>various</c></NS><NS type="RP"><i>, the</i><c>. The</c></NS> <NS type="S"><i>firts</i><c>first</c></NS> day I had to pick the bands up <NS type="RT"><i>at</i><c>from</c></NS> the airport, <NS type="MC"><c>and</c></NS> for <NS type="RA"><i>it</i><c>this</c></NS> I hired a van. The following day I was the person who <NS type="TV"><i>provide</i><c>provided</c></NS> the meals for all the <NS type="UN"><i>organization</i></NS> staff and <NS type="RY"><i>besides</i><c>also</c></NS> every day I was <NS type="U"><i>at the</i></NS> <NS type="RP"><i>back-stage</i><c>backstage</c></NS> supporting the catering staff.</p>
+          <p><NS type="W"><i>Particularly I am</i><c>I am particularly</c></NS> pleased to <NS type="FV"><i>had</i><c>have</c></NS> <NS type="TV"><i>know</i><c>known</c></NS> the most popular pop stars in the world.</p>
+          <p><NS type="RV"><i>Hopping</i><c>Hoping</c></NS> to hear from you</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

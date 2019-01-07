@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE94*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>31-40</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Maria,</p>
+          <p>I hope that all the information you need <NS type="TV"><i>would</i><c>will</c></NS> be <NS type="RV"><i>answered</i><c>provided</c></NS> <NS type="DY"><i>satisfactorialy</i><c>satisfactorily</c></NS>.</p>
+          <p>First of all you have been booked <NS type="MT"><c>in</c></NS> at the palace hotel.</p>
+          <p>Secondly the best way to go from the hotel to the conference <NS type="SA"><i>center</i><c>centre</c></NS> is to use one of the <NS type="S"><i>shutel</i><c>shuttle</c></NS> buses we provide at this <NS type="RN"><i><NS type="S"><i>efect</i><c>effect</c></NS></i><c>event</c></NS>. <NS type="RP"><i>they</i><c>They</c></NS> are going to leave at 9 o'clock.</p>
+          <p><NS type="RP"><i>concerning</i><c>Concerning</c></NS> the <NS type="MP"><i>end <NS type="MT"><c>of</c></NS> conference</i><c>end-of-conference</c></NS> party<NS type="RP"><i>. It</i><c>, it</c></NS> is going to take place in the same hotel, the <NS type="RP"><i>palace hotel</i><c>Palace Hotel</c></NS><NS type="RP"><i>, we</i><c>. We</c></NS> suggest casual <NS type="RN"><i>dressing</i><c>dress</c></NS> for this special event.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS>, concerning your free afternoon, there are plenty of activities, but I suggest you<NS type="UP"><i>,</i></NS> <NS type="FV"><i>to visit</i><c>visit</c></NS> the Caldea <NS type="SA"><i>center</i><c>centre</c></NS><NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> is a very special <NS type="RN">bath</NS> <NS type="SA"><i>center</i><c>centre</c></NS>.</p>
+          <p>If you need <NS type="S"><i>futher</i><c>further</c></NS> information do not hesitate to contact us.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Jhon,</p>
+          <p>In your previous letter you asked <NS type="MT"><c>for</c></NS> information about interesting <NS type="FN"><i>building</i><c>buildings</c></NS> to visit in my country.</p>
+          <p>There are plenty of <NS type="IN"><i>churchs</i><c>churches</c></NS>, cathedrals, and <NS type="IJ"><i>olds</i><c>old</c></NS> <NS type="S"><i>cotages</i><c>cottages</c></NS>. The <NS type="IN"><i>churchs</i><c>churches</c></NS> and the cathedral are very <NS type="S"><i>intesting</i><c>interesting</c></NS> because of their <NS type="IJ"><i>differents</i><c>different</c></NS> <NS type="RP"><i><NS type="IJ"><i>romanics</i><c>romanic</c></NS></i><c>Romanic</c></NS> styles. I suggest you visit first the cathedral of "Le Seu d'Mrgell" because it is the most <NS type="RJ">emblematic</NS> building in the area.</p>
+          <p>If you are interested <NS type="RT"><i>by</i><c>in</c></NS> more <NS type="IJ"><i>moderns</i><c>modern</c></NS> buildings I <NS type="UV"><i>can</i></NS> suggest you <NS type="FV"><i>to visit</i><c>visit</c></NS> "Caldea"<NS type="MP"><c>,</c></NS> which is a very modern <NS type="RN">bath</NS> centre with <NS type="UD"><i>a</i></NS> beautiful architecture.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> if none of my <NS type="AGN"><i>suggestion</i><c>suggestions</c></NS> <NS type="R">fit with <NS type="DI"><i>yours</i><c>your</c></NS> expectations</NS>, let me <NS type="S"><i>kwon</i><c>know</c></NS> more about what kind of buildings you are interested in and I'll do <NS type="UQ"><i>all</i></NS> my best to find something more suitable.</p>
+          <p>Best regards</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

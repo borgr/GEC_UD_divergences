@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR268*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm writing this letter to you<NS type="UP"><i>,</i></NS> because during my stay in London<NS type="UP"><i>,</i></NS> I went to the theatre to see a musical <NS type="UN"><i>show</i></NS>, and I had a very disappointing evening.</p>
+          <p>Last Saturday I went to see "Over the Rainbow". When I read the advertisement, I noticed that Danny Brook acted in this musical <NS type="UN"><i>show</i></NS>. I <NS type="RV"><i>appreciated</i><c>liked</c></NS> him a lot. When the show started forty-five minutes <NS type="FY"><i>later</i><c>late</c></NS>, I realised that the main actor had been <NS type="RV"><i>changed</i><c>replaced</c></NS>. That <NS type="RN"><i>change</i><c>replacement</c></NS> really disappointed me. Another problem was that I didn't <NS type="RV"><i>have</i><c>get</c></NS> any discount, and I wasn't alone, we were five <NS type="L"><i>persons</i><c>people</c></NS>. Our idea after the show<NS type="UP"><i>,</i></NS> was to visit the theatre restaurant, but it was closed. Nobody could give me an <NS type="RN"><i>answer</i><c>explanation</c></NS>. I really had an awful evening.</p>
+          <p>Please send me a letter, with the explanations for all these problems that I <NS type="TV"><i>told</i><c>have told</c></NS> you <NS type="MT"><c>about</c></NS>. Next time, be more careful with what you put in your advertisement.</p>
+          <p>I'm looking forward to receiving your letter.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Secrets</p>
+          <p>Unfortunately, Pat wasn't very good <NS type="R"><i>a</i><c>at</c></NS> keeping secrets. That night my parents went out, so I had to stay home with Pat. I invited my best friends, and I asked Christian to bring some videos. We left Pat in her room with those videos, and we went to the top of the house, the third floor.</p>
+          <p>That room was totally dark. We went upstairs with only a candle, and the idea of planning something crazy.</p>
+          <p>Manuel had a farm, <NS type="RY"><i>no</i><c>not</c></NS> so <NS type="RY"><i>long</i><c>far</c></NS> from the town, where we could do whatever we wanted. But what was the problem<NS type="RP"><i>.</i><c>?</c></NS> We were too young to <NS type="RV"><i>stay</i><c>spend</c></NS> a <NS type="SX"><i>hole</i><c>whole</c></NS> weekend alone. I thought of the idea of telling our parents that we had <NS type="MV"><c>gone</c></NS> <NS type="UD"><i>a</i></NS> camping with the school. We were all <NS type="DJ"><i>agree</i><c>agreed</c></NS>. We were going to spend a weekend alone, with nobody else, playing football, going to bed at the time we wanted, talking about girls. It was perfect.</p>
+          <p>We were very calm, discussing the last details of our weekend, when we heard a noise that came <NS type="UY"><i>out</i></NS> from a room that was near us. Manuel opened the door, and there she was, Pat with Ramiro's sister<NS type="MP"><c>,</c></NS> <NS type="RV"><i>hearing</i><c>listening to</c></NS> all our conversation.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

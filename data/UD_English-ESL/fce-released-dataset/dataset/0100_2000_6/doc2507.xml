@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1017*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you to give you the <NS type="RJ">suitable</NS> information you need about me. <NS type="RP"><i>but</i><c>But</c></NS> also I would like to thank you for the very nice prize.</p>
+          <p>Here <NS type="AGV"><i>are</i><c>is</c></NS> some of the information: I would like to travel in July because <NS type="W"><i>then the school year ends</i><c>the school year ends then</c></NS> and I will be able to go on vacation. I would prefer to stay in log cabins because I can't sleep outside in a tent. I would be very pleased if I could <NS type="RV"><NS type="DV"><i>practice</i><c>practise</c></NS></NS> basketball and swimming<NS type="MP"><c>.</c></NS> I am very good at basketball and I <NS type="TV"><i>am playing</i><c>play</c></NS> in my <NS type="UP"><i>school's</i><c>school</c></NS> team. I know how to swim and dive from high places. I am very keen on both sports.</p>
+          <p>Of course there are some things that I would like to ask you<NS type="RP"><i>, if</i><c>. If</c></NS> possible, I would like to know what kind of clothes <NS type="W"><i><NS type="RV"><i>shall</i><c>should</c></NS> I</i><c>I should</c></NS> take with me<NS type="RP"><i>. And</i><c>, and</c></NS> <NS type="RY">finally</NS> how much money <NS type="W"><i>will I</i><c>I will</c></NS> need to have with me.</p>
+          <p>I am looking forward to hearing from you. Thank you again<NS type="MP"><c>.</c></NS></p>
+          <p>Yours <NS type="S"><i>Sincierly</i><c>Sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>I'm writing to tell you about my experience last month.</p>
+          <p>You know that last month I helped at a pop concert and <NS type="TV"><i>I've enjoyed</i><c>I enjoyed</c></NS> it very much. I did many different kinds of things. First of all I helped with the decoration of the place where the <NS type="S"><i>consert</i><c>concert</c></NS> would take place. Then I helped the dancers with their dance on stage. After that I helped the singers perform and dance together and finally I helped with the lights for the show. It was amazing! <NS type="U"><i>(the show)</i></NS></p>
+          <p>I had a really great time working with all the pop singers and dancers and <NS type="RN">decorators</NS><NS type="MP"><c>.</c></NS> I even met some very interesting people with <NS type="FA"><i>who</i><c>whom</c></NS> <NS type="MA"><c>I</c></NS> <NS type="RV"><i>made</i><c>became</c></NS> really good friends. What I liked the most was working with the singers, teaching them how to dance and follow some <NS type="RN"><i>footsteps</i><c>steps</c></NS>.</p>
+          <p>This <NS type="TV"><i>is</i><c>was</c></NS> an experience<NS type="UP"><i>,</i></NS> I'll never forget. I'm looking forward to hearing from you very, very soon.</p>
+          <p>Your friend</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

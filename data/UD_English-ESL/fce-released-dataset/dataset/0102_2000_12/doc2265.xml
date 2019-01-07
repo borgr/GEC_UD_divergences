@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR907*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Clark,</p>
+          <p>The International Arts Festival was very interesting including the fact that Stars and artists had also come from around the world.   I enjoyed it tremendously.  Later I found out that the stars and artists had only come from six countries.</p>
+          <p>Not only were there Jazz and Rock but there were <NS type="DN"><i>clasics</i><c>classical concerts</c></NS> as well.  The only thing that distracted me was the size of the concert halls.   They were very small and I was pushed by everyone.</p>
+          <p>There were wonderful plays and films which I hope <NS type="UC"><i>that</i></NS> there <NS type="TV"><i>would have been</i><c>will be</c></NS> more <NS type="MT"><c>of</c></NS>.  All the other shows such as dance shows, art <NS type="FN"><i>exhibition</i><c>exhibitions</c></NS> and talks by writers were very <NS type="RN"><i>amusing</i><c>entertaining</c></NS>.</p>
+          <p>I was happy at the end as the weekend tickets were <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> for all events.  I thought it was worthwhile to have spent two days <NS type="RT"><i>in</i><c>at</c></NS> the Arts Festival <NS type="RT"><i>at</i><c>in</c></NS> the end.</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Once upon a time there was a widow and a widower.  They treated each other as if they were husband and wife.</p>
+          <p>Around two years later there was a meeting.  By that time the widow could not walk and the widower could not see.  When the widower sensed that the widow badly wanted to go, the widow clung on the widower's back and set off telling him where to go.</p>
+          <p>On the way they were thirsty so when they looked into the lake, they saw a long bar of gold.  The widower told the widow leave it alone as they couldn't share it when the widow told him.  They kept going on until they met a fat, small man.  He came and said to the widower that he was to <NS type="RV"><i>bring</i><c>take</c></NS> him on his back.  The widow<NS type="MP"><c>,</c></NS> who was afaid<NS type="MP"><c>,</c></NS> told the man <NS type="RT"><i>of</i><c>about</c></NS> the gold.</p>
+          <p>When the man hurriedly ran to the lake, all he found was a long snake.  He was just able to kill it by cutting the snake <NS type="RT"><i>into</i><c>in</c></NS> half by using his knife which was as sharp as a sickle.</p>
+          <p>The man went back to the widower and kicked him.  The widower was confused and they went to the lake.  They were very surprised when they found out the gold was cut in half.  They lived happily ever after.   This story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

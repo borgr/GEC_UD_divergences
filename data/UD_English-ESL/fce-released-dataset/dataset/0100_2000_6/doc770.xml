@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR303*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>I was very happy to <NS type="RV"><i>know</i><c>learn</c></NS> that I have won the first prize in your competition and it will be a good opportunity for me to go to the U.S.A.</p>
+          <p>If it is possible, I would like to travel in July. I will be working until the end of June and I am going to start university in August.</p>
+          <p>I would prefer to sleep in a tent, because, in my opinion, it is easier to make friends and I like camping as well.</p>
+          <p>I have chosen photography and climbing <NS type="RT"><i>for</i><c>as</c></NS> <NS type="MD"><c>my</c></NS> activities. I am a beginner in photography but I am really interested in <NS type="MA"><c>it</c></NS>. I have a medium level <NS type="M"><c>of proficiency</c></NS> in climbing and I would like to climb the Californian mountains.</p>
+          <p>Can you tell me how much money I have to take, if I have to take winter clothes and if it is possible to rent a car there<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Thank you for this opportunity.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>I like shopping. Some people when they are tired relax <NS type="MT"><c>by</c></NS> <NS type="S"><i>spleeping</i><c>sleeping</c></NS>, reading a book or watching television<NS type="MP"><c>,</c></NS> but not me. Walking along the crowded streets of my city is my way of relaxing.</p>
+          <p>I have been working in a shop for a long time and I have noticed that I am not the only one <NS type="ID">in this case</NS>. There <NS type="TV"><i>were</i><c>are</c></NS> always, at the end of the afternoon, some well-dressed women coming from their offices and they just <NS type="TV"><i>spent</i><c>spend</c></NS> one hour in the shop <NS type="S"><i>whithout</i><c>without</c></NS> buying anything.</p>
+          <p>However<NS type="MP"><c>,</c></NS> it is true that shopping is not always enjoyable<NS type="MP"><c>,</c></NS> for example before Christmas or during some special <NS type="S"><i>salles</i><c>sales</c></NS>. In these periods of the year, the supermarkets and the shops are full of stressed adults and tired children <NS type="R">trying to walk</NS> in a <NS type="RJ"><i>warm</i><c>hot</c></NS> and noisy place.</p>
+          <p>In conclusion, you have to know when and where to shop quietly but in my opinion spending money in a crowded shop is the most enjoyable thing in the world.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR757*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have received your letter today and I would <NS type="MV"><c>like</c></NS> to thank you for the first <NS type="RN"><i>price</i><c>prize</c></NS>.</p>
+          <p>The best dates for me to travel<NS type="UP"><i>,</i></NS> would be in July because <NS type="RY">actually</NS> I work in the <NS type="R"><i>communication firm</i><c>communications industry</c></NS> and I must ask <NS type="UT"><i>to</i></NS> my employer when I can take holidays. But I think it will be from the 7 July 2000 to the 21 July 2000. <NS type="RT"><i>For</i><c>Regarding</c></NS> the accommodation at camp, I prefer <NS type="UT"><i>in</i></NS> the log cabins, because <NS type="MD"><c>a</c></NS> few years go, I went camping with some friends and every night it rained and in the tent<NS type="UP"><i>,</i></NS> it was impossible to sleep because the ground was so wet<NS type="RP"><i> so</i><c>.  So</c></NS> for this <NS type="RN"><i>fact</i><c>reason</c></NS>, I choose the log cabins.</p>
+          <p><NS type="CE">For the two activites that I chose are at first swimming</NS><NS type="RP"><i>,</i><c>.</c></NS> I am in the <NS type="RP"><i>Swimming Team</i><c>swimming team</c></NS> and I must go two times per week to <NS type="DV"><i>entretain</i><c>train</c></NS> <NS type="UA"><i>me</i></NS> because I have <NS type="MD"><c>a</c></NS> competition every weekend. My second choice<NS type="U"><i>, it</i></NS> is <NS type="RP"><i>Basketball</i><c>basketball</c></NS>. I have played basketball at school and I was one of the best <NS type="AGN"><i>player</i><c>players</c></NS><NS type="MP"><i> after</i><c>.  After</c></NS> that, I decided to coach a team but I should stop because I have started <NS type="MV"><c>entering</c></NS> swimming <NS type="FN"><i>competition</i><c>competitions</c></NS>.</p>
+          <p>For these two weeks, what kind of clothes <NS type="W"><i>I must</i><c>must I</c></NS> take? <NS type="R">It is including the transport and travel</NS>, but for the food and extra <NS type="RN"><i>hobbies</i><c>activities</c></NS> I must take some money. Could you tell me <NS type="DY"><i>approximatively</i><c>approximately</c></NS> <NS type="M"><c>how much?</c></NS></p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+          <p>M. Bruni</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? I'm fine.</p>
+          <p>You know last month I helped at a pop concert as <NS type="R"><i>like</i><c>part of the</c></NS> security. It was a very good experience.</p>
+          <p>The concert sarted at 6:00 pm <NS type="M"></NS> until 2:00 am, and I started to work at 12:00 pm to <NS type="S"><i>prepear</i><c>prepare</c></NS> the <NS type="RN"><i>scene</i><c>stage</c></NS> with the musicians.</p>
+          <p>After that, at 2:00 pm, when people arrived, I was at the entrance to take the tickets and<NS type="MP"><c>,</c></NS> you know<NS type="MP"><c>,</c></NS> it was <NS type="S"><i>incredibale</i><c>incredible</c></NS> because some people slept all <NS type="UD"><i>the</i></NS> night in front of the stadium to be in the front row. There were maybe 50,000 spectators for this show<NS type="RP"><i>, it</i><c>.  It</c></NS> was amazing. When the concert started I had <NS type="R">to look round</NS> if anybody threw bottles or <NS type="RA"><i>something</i><c>anything</c></NS> else on the <NS type="RN"><i>scene</i><c>stage</c></NS>. I also helped to serve people who would like <NS type="FV"><i>drink</i><c>to drink</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I was like a barman. I saw old people, <NS type="FN"><i>child</i><c>children</c></NS>.... and for me it was very strange and it was very <NS type="S"><i>interessting</i><c>interesting</c></NS>, because I met a lot of people and the best thing was that I knew the pop group who sang<NS type="RP"><i>, it</i><c>.  It</c></NS> was fantastic. If I <NS type="TV"><i>had</i><c>have</c></NS> <NS type="RP"><i>an other</i><c>another</c></NS> opportunity to do that I think that I will do.</p>
+          <p>Write <NS type="MT"><c>to</c></NS> me as soon as possible. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR805*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>14.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms.</p>
+          <p>I am writing to you <NS type="S"><i>becaus</i><c>because</c></NS> I was very <NS type="RJ"><i>disappointing</i><c>disappointed</c></NS> with the <NS type="RN"><i>presentation</i><c>show</c></NS> you have <NS type="RV"><i>made</i><c>put on</c></NS> to attract people to come to your theatre.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I came to see <NS type="RD"><i>a</i><c>the</c></NS> play just <NS type="S"><i>becaus</i><c>because</c></NS> my <NS type="S"><i>faivourite</i><c>favourite</c></NS> <NS type="S"><i>actrice</i><c>actress</c></NS> <NS type="S"><i>shoud</i><c>should</c></NS> <NS type="R"><i>of</i><c>have</c></NS> been <NS type="UN"><i>part</i></NS> in it, but she <NS type="RV"><i>didn't</i><c>wasn't</c></NS>. The <NS type="R"><i>evening time</i><c>time of the evening performance</c></NS> on <NS type="RD"><i>a</i><c>the</c></NS> <NS type="S"><i>tiket</i><c>ticket</c></NS> was 19.30 and actually it started at 20.15<NS type="MP"><c>,</c></NS> which <NS type="RV"><i>made</i><c>forced</c></NS> visitors <NS type="FV"><i>stay</i><c>to stay</c></NS> in <NS type="RD"><i>a</i><c>one</c></NS> <NS type="S"><i>plase</i><c>place</c></NS> for 45 <NS type="L"><i>min</i><c>minutes</c></NS>, <NS type="MD"><c>a</c></NS> <NS type="RN"><i>waist</i><c>waste</c></NS> of time. The <NS type="FN"><i>tickets</i><c>ticket</c></NS> discounts <NS type="AGV"><i>was</i><c>were</c></NS> not available under any <NS type="S"><i>subconstanses</i><c>circumstances</c></NS> and the theatre restaurant was closed.</p>
+          <p>I strongly <NS type="UV"><i>do</i></NS> <NS type="S"><i>recomand</i><c>recommend</c></NS> <NS type="DA"><i>your</i><c>you</c></NS> to pay <NS type="MD"><c>a</c></NS> minimum 50% of the full price <NS type="R"><i>for what</i><c>that</c></NS> <NS type="UV"><i>I've</i><c>I</c></NS> <NS type="IV"><i>payed</i><c>paid</c></NS>.</p>
+          <p>Your <NS type="DJ"><i>faithfull</i><c>faithful</c></NS></p>
+          <p>Mr. Farydone.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future.</p>
+          <p>I think that in 100 years from now, the clothes fashion will be <NS type="DY"><i>totaly</i><c>totally</c></NS> different. In my <NS type="S"><i>apineon</i><c>opinion</c></NS> the world <NS type="UT"><i>by</i></NS> <NS type="RP"><i>it self</i><c>itself</c></NS> will be different in temperature <NS type="R"><i><NS type="SX"><i>cased</i><c>caused</c></NS> by</i><c>as a result of</c></NS> global warming<NS type="MP"><c>,</c></NS> <NS type="RY"><i>as well as</i><c>also</c></NS> people <NS type="MV"><c>will</c></NS> become <NS type="UY"><i>more</i></NS> <NS type="IJ"><i>niceer</i><c>nicer</c></NS>, less <unknown/> <NS type="MA"><c>this</c></NS> will take place, so the clothes will mainly be <NS type="SX"><i>maid</i><c>made</c></NS> from cotton with <NS type="RJ">smooth</NS> colours like dark <NS type="S"><i>grean</i><c>green</c></NS> or <NS type="SA"><i>gray</i><c>grey</c></NS>. <NS type="AGA"><i>It</i><c>They</c></NS> will be <NS type="S"><i>comfotable</i><c>comfortable</c></NS> <NS type="R"><i>close</i><c>clothes</c></NS> <NS type="S"><i>becaus</i><c>because</c></NS> the main point for any <NS type="S"><i>caind</i><c>kind</c></NS> of <NS type="DN"><i>clothe</i><c>clothing</c></NS> is to be <NS type="S"><i>comfatable</i><c>comfortable</c></NS>. Also there will be no leather or <NS type="S"><i>fethers</i><c>feathers</c></NS> used in <NS type="S"><i>maiking</i><c>making</c></NS> <NS type="MD"><c>these</c></NS> clothes <NS type="S"><i>becaus</i><c>because</c></NS> by that time the <NS type="W"><i>population of animals</i><c>animal population</c></NS> will <NS type="TV"><i><NS type="S"><i>foll</i><c>fall</c></NS></i><c>have fallen</c></NS> and Green <NS type="S"><i>pease</i><c>peace</c></NS> will <NS type="MV"><c>be</c></NS> very strong <NS type="UN"><i>community</i></NS>, much stronger and <NS type="MY"><c>more</c></NS> <NS type="S"><i>pouful</i><c>powerful</c></NS> than it is now. So <NS type="UT"><i>as</i></NS> we can <NS type="RV"><i>think</i><c>imagine</c></NS> the Future Fashion <NS type="RV"><i>can</i><c>might</c></NS> be <NS type="S"><i>pleasent</i><c>pleasant</c></NS> or <NS type="S"><i>unpleasent</i><c>unpleasant</c></NS> for different people. The <NS type="AGN"><i><NS type="SX"><i>stile</i><c>style</c></NS></i><c>styles</c></NS> will be more or less <NS type="R"><i><NS type="S"><i>simelar</i><c>similar</c></NS> to</i><c>the same as</c></NS> each other and <NS type="S"><i>everyon</i><c>everyone</c></NS> will be <NS type="S"><i>setisfaid</i><c>satisfied</c></NS> with <NS type="RA"><i>its</i><c>them</c></NS> <NS type="UN"><i>needs</i></NS>.</p>
+          <p>writen by H. Farydone</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

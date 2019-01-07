@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR166*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="UD"><i>the</i></NS> <NS type="DN"><i>manage</i><c>manager</c></NS> of <NS type="MD"><c>the</c></NS> theatre,</p>
+          <p>I went to the circle theatre to see a musical show, OVER THE RAINBOW. I really <NS type="RV"><i>expected</i><c>looked forward to</c></NS> the musical show, but it was a disappointing show.</p>
+          <p><NS type="RY"><i>At first</i><c>Firstly</c></NS>, <NS type="DA"><i>you</i><c>your</c></NS> advertisement said there were Danny Brook and Tina Truelove, but it had different <NS type="DN"><i>actor</i><c>actors</c></NS> <NS type="DY"><i>disappointely</i><c>to my disappointment</c></NS>. Secondly, it said the show started at 19:30, but it <NS type="TV"><i><NS type="S"><i>deleyed</i><c>delayed</c></NS></i><c>was delayed</c></NS> <NS type="RT"><i>to</i><c>until</c></NS> 20:15. I had to wait 45 minutes, wasting time.</p>
+          <p>Thirdly, tickets were £10, £15 and £20, and I knew that these were available <NS type="RT"><i>to</i><c>on</c></NS> discount, following the advertisement. But it was impossible.</p>
+          <p>And I wanted to visit your theatre restaurant after the show but it was closed<NS type="MP"><i> though</i><c>. Though</c></NS> they said it was possible to visit <NS type="MD"><c>the</c></NS> theatre restaurant after the show, they didn't prepare <NS type="MA"><c>it</c></NS> at all. <NS type="CE">Even if one of your woman officer annoyed my question, I asked that why they didn't prepare restaurant, as if they advertised like that. But she was annoyed me.</NS></p>
+          <p>You said it would be <NS type="MD"><c>a</c></NS> perfect evening, but it wasn't. It was <NS type="MD"><c>an</c></NS> <NS type="RJ"><i>upset</i><c>upsetting</c></NS> evening. So I <NS type="AS"><i>ask for money back to you</i><c>ask you for money back</c></NS>. I couldn't be satisfied <NS type="MT"><c>with</c></NS> your theatre. I hope you accept my suggestion.</p>
+          <p><NS type="RT"><i>With</i><c>In</c></NS> <NS type="MD"><c>the</c></NS> <NS type="DN"><i>hopeness</i><c>hope</c></NS> <NS type="MC"><c>that</c></NS> you understand me.</p>
+          <p>Elsy Sun.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Unfortunely</i><c>Unfortunately</c></NS>, Pat wasn't very good at keeping secrets.</p>
+          <p>Pat <NS type="RV"><i>talks</i><c>tells</c></NS> <NS type="MP"><i>others</i><c>others'</c></NS> secrets to everyone easily.</p>
+          <p>At first<NS type="MP"><c>,</c></NS> when he had a girlfriend, they talked to each other <NS type="S"><i>franckly</i><c>frankly</c></NS>. His <NS type="RP"><i>girl friend</i><c>girlfriend</c></NS> talked to him <NS type="MT"><c>about</c></NS> everything.</p>
+          <p><NS type="M"><i>Because</i><c>That was because</c></NS> she <NS type="RV"><i>believed</i><c>trusted</c></NS> him. But after they <NS type="S"><i>seperated</i><c>separated</c></NS>, <NS type="RA"><i>his</i><c>he</c></NS> told his friends her secrets without <NS type="RV"><i>considering</i><c>thinking</c></NS>.</p>
+          <p>And when his friend, J, <NS type="RV"><i>got</i><c>had</c></NS> <NS type="MD"><c>a</c></NS> big problem, J asked Pat and his friend for help <NS type="UA"><i>him</i></NS>. It was about his private problem, related <NS type="MT"><c>to</c></NS> his <NS type="FN"><i>friendship</i><c>friendships</c></NS> in <NS type="MD"><c>the</c></NS> whole school.</p>
+          <p>If he had told everybody, J would have been blamed by <NS type="MD"><c>the</c></NS> whole school. But he forgot it and told his friends. Actually it was not on <NS type="UD"><i>his</i></NS> purpose<NS type="RP"><i>. But</i><c>, but,</c></NS> sometimes, Pat <NS type="R">mistakes to speak</NS> someone's secrets. Though it was not on <NS type="UD"><i>his</i></NS> purpose, it makes his friends leave him. They can't <NS type="RV"><i>believe</i><c>trust</c></NS> him. Pat also regrets <NS type="UT"><i>about</i></NS> his <NS type="RV"><i>speaking</i><c>telling secrets</c></NS>. It could be difficult for him to change himself. It is like <NS type="W"><i>his one of</i><c>one of his</c></NS> bad <NS type="S"><i>habbits</i><c>habits</c></NS>.</p>
+          <p>Poor Pat, now he is blamed by everyone such as the people <NS type="W"><i>who he <NS type="RV"><i>talked</i><c>told</c></NS> their secrets</i><c>whose secrets he told</c></NS> to everybody.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

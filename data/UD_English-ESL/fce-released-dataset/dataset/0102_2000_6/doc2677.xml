@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1080*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir, I'm writing this letter to you because I'm very disappointed and I believe you have to <NS type="RV"><i>hang</i><c>give</c></NS> me some money back. Last week I was in London to see your new musical show. Before I bought my ticket and <NS type="RV"><i>booked</i><c>made</c></NS> train and hotel reservations I'd read a lot <NS type="MT"><c>of</c></NS> good reviews <NS type="RT"><i>about</i><c>of</c></NS> that show and I thought it <NS type="TV"><i>was</i><c>would be</c></NS> a great <NS type="RN"><i>moment</i><c>event</c></NS> to share with friends. But that evening became a real nightmare! Firstly<NS type="MP"><c>,</c></NS> your advertisement is a real lie. Discounts available?? False and not true! Then the show was late <NS type="MV"><c>starting</c></NS>, we had been waiting for a long long time before it started. But finally it started.. and what!! Danny Brook wasn't on the stage! I saw a young actor who I've never seen <NS type="MY"><c>before</c></NS> and who <NS type="X"><i>seemed not</i><c>did not seem</c></NS> to know <NS type="W"><i>by heart his role</i><c>his role by heart</c></NS>! Shame on you! After that "show" we were starving and we had planned to eat in your theatre <NS type="S"><i>restaurand</i><c>restaurant</c></NS> but what a surprise! It was closed (of course) and why? A general strike... It wasn't at all a perfect evening<NS type="MP"><c>.</c></NS> I'm not pleased. I would weep if I wasn't so angry. To summarize<NS type="MP"><c>,</c></NS> I want <NS type="UC"><i>that</i></NS> you <NS type="FV"><i><NS type="RV"><i>hang</i><c>give</c></NS></i><c>to give</c></NS> me my money back and very quickly. <NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully..</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Modern technology had changed <NS type="MD"><c>the</c></NS> <NS type="W"><i>human being's daily <NS type="AGV"><i>life</i><c>lives</c></NS></i><c>daily lives of human beings</c></NS> long before I was born.</p>
+          <p>Nowadays<NS type="MP"><c>,</c></NS> <NS type="ID"><i>according to me</i><c>in my opinion</c></NS><NS type="MP"><c>,</c></NS> the most important revolution is connected with new technologies.</p>
+          <p>Let's take the <NS type="S"><i>mobil</i><c>mobile</c></NS> phone. Our parents used the phone to make <NS type="UD"><i>an</i></NS> important <NS type="AGN"><i>appointment</i><c>appointments</c></NS>. Nowadays everybody has got a phone which is "<NS type="S"><i>mobil</i><c>mobile</c></NS>". And I'm <NS type="RD"><i>not</i><c>no</c></NS> different<NS type="MP"><c>,</c></NS> I've got one and it has changed my everyday life. I <NS type="W"><i>always can</i><c>can always</c></NS> be reached, I can phone friends when I know I <NS type="TV"><i>would</i><c>will</c></NS> be late and thanks to that <NS type="RN"><i>appliance</i><c>device</c></NS> I feel less nervous and now I'm sure I couldn't live without it.</p>
+          <p>It's the same with <NS type="MD"><c>the</c></NS> Internet and that's a very new thing. I send and receive more <NS type="RN"><i>mails</i><c>e-mails</c></NS> than letters! I can chat with my sister or friends without speaking when I'm working because it <NS type="AGV"><i>take</i><c>takes</c></NS> <NS type="UY"><i>up</i></NS> just <NS type="RQ"><i>some</i><c>a few</c></NS> minutes. With <NS type="MD"><c>the</c></NS> Internet and<NS type="MP"><c>,</c></NS> <NS type="ID"><i>according to me</i><c>in my opinion</c></NS><NS type="MP"><c>,</c></NS> the world is <NS type="FV"><i>become</i><c>becoming</c></NS> smaller and bigger at the same time. Smaller because I can visit an American library without leaving my desk and bigger because it seems to be endless.</p>
+          <p>Yes my daily life has <NS type="TV"><i>been changed</i><c>changed</c></NS> and it's a good thing.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

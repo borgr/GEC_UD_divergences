@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1031*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen:</p>
+          <p>I have just received your letter, and I am very happy about this. Thanks very much!</p>
+          <p>I think I would like to travel only <NS type="RT"><i>on</i><c>in</c></NS> July because <NS type="TV"><i>I've just finished</i><c>I'll have just finished</c></NS> my course at that time, and I can have a short <NS type="AGN"><i>holidays</i><c>holiday</c></NS> <NS type="R">in these days</NS>. It will be very nice for me.</p>
+          <p>Accommodation at Camp California is in tents or log cabins<NS type="RP"><i>,</i><c>.</c></NS> I think I <NS type="RV"><i>prefer</i><c>like</c></NS> both of them, because I've never been there before, and never heard of these two <NS type="RN">places</NS>. I am very interested in both <NS type="RN">places</NS> but, I can just choose one <NS type="RN">place</NS><NS type="RP"><i>,</i><c>.</c></NS> I think I will choose log cabins<NS type="RP"><i>,</i><c>;</c></NS> <NS type="AGA"><i><NS type="UV"><i>it's</i><c>it</c></NS></i><c>they</c></NS> <NS type="AGV"><i>sounds</i><c>sound</c></NS> good and if I have time, maybe I can <NS type="RV"><i>go to</i><c>stay in</c></NS> tents next time (maybe next year<NS type="RP"><i>.)</i><c>).</c></NS></p>
+          <p>When I am at Camp, I will choose singing and photography<NS type="MP"><c>.</c></NS> I can sing <NS type="RJ"><i>classic</i><c>classical</c></NS> music and pop music, <NS type="R">seem</NS> like rock &amp; roll. Maybe TITANIC. My mum <NS type="TV"><i>liked</i><c>likes</c></NS> me singing this song. And I can also <NS type="RV"><i>make</i><c>take</c></NS> very good <NS type="RN"><i>photography</i><c>photographs</c></NS>, because I learned <NS type="MV"><c>to do</c></NS> this in China two years ago.</p>
+          <p>Another thing is I would like to ask you some questions about <NS type="MD"><c>the</c></NS> <NS type="RN"><i>journey</i><c>stay</c></NS><NS type="RP"><i>,</i><c>.</c></NS> What's the weather like? What kind of clothes shall I take? <NS type="RP"><i>and</i><c>And</c></NS> how much does it cost per night <NS type="RV"><i><NS type="FV"><i>live</i><c>to live</c></NS></i><c>to stay</c></NS> in a Hotel? Thanks for your help.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>A lot of people enjoy shopping very much<NS type="RP"><i>, me</i><c>. Me</c></NS> too. But sometimes shopping is not very enjoyable.</p>
+          <p>Firstly, I am a student<NS type="RP"><i>,</i><c>.</c></NS> I don't have <NS type="MD"><c>a</c></NS> job, so, I have to <NS type="FV"><i>asked</i><c>ask</c></NS> <NS type="MT"><c>for</c></NS> money from my parents. I can't <NS type="FV"><i>asked</i><c>ask</c></NS> <NS type="MT"><c>for</c></NS> too much<NS type="MP"><i> that's</i><c>. That's</c></NS> very bad for my parents. When I go shopping<NS type="RP"><i>.</i><c>,</c></NS> I <NS type="S"><i>alway</i><c>always</c></NS> feel <NS type="DJ"><i>shame</i><c>ashamed</c></NS> because I spend my <NS type="MP"><i>parents</i><c>parents'</c></NS> money. (<NS type="RP"><i>although</i><c>Although</c></NS> I <NS type="RV"><i>got</i><c>have got</c></NS> <NS type="MD"><c>a</c></NS> part-time job, it <NS type="MV"><c>provides</c></NS> just enough to pay my rent.)</p>
+          <p>Secondly, if you live in a big city, <NS type="UD"><i>the</i></NS> things <NS type="MV"><c>are</c></NS> always expensive. You <NS type="UV"><i>should</i></NS> spend more money on buying clothes and food, <NS type="M"><c>you think</c></NS> you will <NS type="MV"><c>be</c></NS> very happy when you <NS type="RV"><i>buy</i><c>shop</c></NS> <NS type="UA"><i>it</i></NS>, but<NS type="UP"><i>,</i></NS> when you come back home <NS type="MC"><c>and</c></NS> take out <NS type="DD"><i>you</i><c>your</c></NS> purse, you <NS type="RV"><i>must</i><c>will</c></NS> be <NS type="UV"><i>feel</i></NS> sad<NS type="RP"><i>, <NS type="DD"><i>you</i><c>your</c></NS></i><c>. Your</c></NS> purse <NS type="MV"><c>is</c></NS> nearly empty<NS type="UP"><i>,</i></NS> (when you don't have enough money<NS type="RP"><i>.)</i><c>).</c></NS></p>
+          <p>Sometimes, when you <NS type="TV"><i>shopping</i><c>shop</c></NS> <NS type="R">on the street</NS>, you will see a lot of things that you like, and you can't buy <NS type="AGA"><i>it</i><c>them</c></NS> <NS type="RY">once</NS>, <NS type="MY"><c>then</c></NS> <NS type="W"><i>you will feel very sad maybe</i><c>maybe you will feel very sad</c></NS>. <NS type="R">And then, you may save money for the things you like, nothing to do, just for the poor things what you like so</NS> funny<NS type="MP"><c>,</c></NS> isn't it?</p>
+          <p>Another thing is when you <NS type="TV"><i>shopping</i><c>shop</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> a busy street, <NS type="UV"><i>seem</i></NS> like <NS type="RP"><i>oxford st</i><c>Oxford St</c></NS> in London<NS type="RP"><i>.</i><c>,</c></NS> a lot of <NS type="AGN"><i>thief</i><c>thieves</c></NS> <NS type="MV"><c>are</c></NS> there<NS type="RP"><i>, they</i><c>. They</c></NS> will steal <NS type="DD"><i>you</i><c>your</c></NS> money<NS type="RP"><i>, that's</i><c>. That's</c></NS> so dangerous.</p>
+          <p>So, in my opinion shopping is not really enjoyable all the time for me. <NS type="RA"><i>It</i><c>This</c></NS> will stop when I get a good job. Maybe I will feel better and enjoy it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR859*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am from Brazil and I recently <NS type="RV"><i><NS type="S"><i>expent</i><c>spent</c></NS></i><c>had</c></NS> a holiday in London. During my stay I read an advertisement <NS type="RT"><i>of</i><c>for</c></NS> a musical show being <NS type="RV"><i>held</i><c>put on</c></NS> at The Circle Theatre. As I was reading the advertisement I got very excited, because I am a great fan of Danny Brook, and he was going to be performing in the <NS type="RN"><i>play</i><c>musical</c></NS>. <NS type="R"><i>As</i><c>When</c></NS> I got to the theatre I asked for the discounts shown in your advertisement, but they were not <NS type="S"><i>avaible</i><c>available</c></NS>. Anyway, I decided to buy my ticket, since I thought the play was going to be good. So I <NS type="IV"><i>sitted</i><c>sat</c></NS> in my chair and waited for 45 minutes until the show started, <NS type="RA"><i>that</i><c>which</c></NS> is an unacceptable delay.</p>
+          <p><NS type="ID"><i>Even though</i><c>Despite this</c></NS> I was still excited about the show, but then I <NS type="S"><i>sudently</i><c>suddenly</c></NS> <NS type="TV"><i>realise</i><c>realised</c></NS> that Danny Brook <NS type="TV"><i>is</i><c>was</c></NS> not performing, he had been replaced by an extremely disappointing actor.</p>
+          <p>The night <NS type="TV"><i>had been</i><c>was</c></NS> terrible, but it could <NS type="TV"><i>be</i><c>have been</c></NS> saved by a nice dinner in your restaurant, but it <NS type="TV"><i>been</i><c>was</c></NS> closed because the heater was not working due to <NS type="MD"><c>a</c></NS> <NS type="DN"><i>leaking</i><c>leak</c></NS>. As you can see it was not the perfect evening out your advertisement talked about. <NS type="RC"><i>Then</i><c>So</c></NS>, I would be glad if you could <NS type="RV"><i>have</i><c>give</c></NS> <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily <NS type="S"><i>lief</i><c>life</c></NS><NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Modern technology has brought <NS type="MA"><c>us</c></NS> many <NS type="RN"><i>discoveries</i><c>inventions</c></NS> which have made our daily lives much easier. For example, <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> has given us the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> <NS type="UT"><i>of</i></NS> <NS type="FV"><i><NS type="S"><i>acessing</i><c>accessing</c></NS></i><c>to access</c></NS> reliable information very fast.</p>
+          <p>I guess science is about solving our daily problems with technological advances. That is exactly what <NS type="TV"><i>happens</i><c>has happened</c></NS> to me. When I was younger<NS type="MP"><c>,</c></NS> I remember that when I had to study or to work on a school project I would take a lot of time researching <NS type="RT"><i>on</i><c>in</c></NS> libraries, looking for old books. Today I can connect to the Internet and find all the information I need faster than you can imagine.</p>
+          <p>But technology is not just about studying, it is entertainment too! I can watch pay-per-view films without having to go out to rent one. I can also listen to <NS type="RP"><i>cds</i><c>CDs</c></NS>, play the latest games, <NS type="FV"><i>watching</i><c>watch</c></NS> concerts.. everything in a zap. You also have fast food, or food made in the microwave within a few minutes.</p>
+          <p>As you can see, technology is about saving <NS type="UD"><i>our</i></NS> time, so we may have more time to do what we like. In my opinion, technology is making my life much better <NS type="R"><i>because of</i><c>by doing</c></NS> that.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

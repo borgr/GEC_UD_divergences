@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1010*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>London, June 17th, 2000</p>
+          <p>Dear Sir,</p>
+          <p>Last week I bought some tickets to the musical show "Over the Rainbow", thinking that I would have a perfect evening, <NS type="RT"><i>like</i><c>as</c></NS> its advertisement <NS type="RV"><i><NS type="AGV"><i>tell</i><c>tells</c></NS></i><c>promises</c></NS> us.</p>
+          <p>Unfortunately, I had a terrible evening. At first I became worried because there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any discounts available, <NS type="R"><i>like</i><c>though</c></NS> your advertisement <NS type="AGV"><i>say</i><c>says</c></NS> <NS type="M"><c>there are</c></NS>. And I became even more angry <NS type="M"><c>when I</c></NS> <NS type="TV"><i>to have</i><c>had</c></NS> to wait 45 minutes for the show to begin. It's necessary to start on time, and your <NS type="RN">paper</NS> <NS type="TV"><i>was informing</i><c>had informed</c></NS> <NS type="MA"><c>us</c></NS> that it would begin at 19:30. It didn't happen.</p>
+          <p>To complete my sadness, the main actor was replaced by another one who <NS type="TV"><i>I've</i><c>I'd</c></NS> never heard anything <NS type="RT"><i>from</i><c>about</c></NS>, and did not have the same talent that the one shown on the advertisement <NS type="RV"><i><NS type="AGV"><i>do</i><c>does</c></NS></i><c>has</c></NS>.</p>
+          <p>I'm writing to you to complain about this show, and to ask for my money back. It isn't fair not returning the money <NS type="RT"><i>for</i><c>to</c></NS> a person who bought tickets to watch a show that was supposed to be great, but actually was a <NS type="RN"><i>shame</i><c>disgrace</c></NS>.</p>
+          <p>I'm looking forward to your answer.</p>
+          <p>Cordially,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Secrets between friends</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. And because of that, everyone at school <NS type="RV"><i>happened</i><c>got</c></NS> to know that Ali was dating Nick, <NS type="RA"><i>that</i><c>who</c></NS> <NS type="TV"><i>used to be</i><c>was</c></NS> Caroline's boyfriend at the time.</p>
+          <p>Pat was Ali's best friend, and because of that, Ali told her that she was going out with Caroline's boyfriend, but asked her to keep <NS type="R"><i>the</i><c>it</c></NS> secret.</p>
+          <p>One week later, everyone at school started to laugh at Caroline and look down on Ali and Nick. Caroline discovered everything, and argued with the <NS type="DJ"><i>infidel</i><c>unfaithful</c></NS> couple. It was a big quarrel, people that were many <NS type="SA"><i>meters</i><c>metres</c></NS> <NS type="RY"><i>distant</i><c>away</c></NS> could hear it. Pat entered the fight, and it became more loud and <NS type="S"><i>agressive</i><c>aggressive</c></NS>.</p>
+          <p>One more week <NS type="TV"><i>has passed</i><c>passed</c></NS>, and things became calm: Ali decided <NS type="W"><i>to never</i><c>never to </c></NS> look Pat <NS type="ID"><i>on the fact</i><c>in the eye</c></NS> anymore. They have <NS type="RV"><i>turned</i><c>become</c></NS> <NS type="UA"><i>themselves</i></NS> <NS type="UT"><i>into</i></NS> big enemies. And Nick told her that his real love was his girlfriend Caroline, and that they weren't going to break up. Poor Ali..</p>
+          <p>So, it's very important to be a person <NS type="R"><i>than</i><c>who</c></NS> can keep secrets, even your own secrets, or a friend's one. One of the most beautiful things <NS type="RT"><i>on</i><c>in</c></NS> the world is <NS type="UD"><i>the</i></NS> true and loyal friendship. Then, we have to be <NS type="R"><i>as</i><c>the</c></NS> best secret keepers <NS type="UT"><i>as</i></NS> possible, or we will end <NS type="MY"><c>up</c></NS> like Ali and Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

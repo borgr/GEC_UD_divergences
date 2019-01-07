@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR168*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>DEAR SIR,</p>
+          <p>I AM WRITING TO COMPLAIN ABOUT A MUSICAL <NS type="UN"><i>SHOW</i></NS> THAT IS TAKING <NS type="RN"><i>PART</i><c>PLACE</c></NS> <NS type="RT"><i>IN</i><c>AT</c></NS> THE CIRCLE THEATRE. I WAS WORRIED WHEN I SAW THE ADVERTISEMENT <NS type="RT"><i>OF</i><c>FOR</c></NS> THE <NS type="RN"><i>PLAY</i><c>MUSICAL</c></NS> IN A NEWSPAPER ON SUNDAY.</p>
+          <p>THE FIRST PROBLEM WAS WHEN I READ <NS type="R"><i>THE</i><c>WHO WAS</c></NS> STARRING. IT SAID: 'DANNY BROOK'. BUT, WHEN I WAS WATCHING THE PLAY, I REALISED THAT <NS type="RA"><i>THERE</i><c>IT</c></NS> WAS A DIFFERENT ACTOR AND, REALLY, I WAS DISAPPOINTED. ANOTHER PROBLEM WAS THE TIME THAT I HAD TO WAIT. I THOUGHT IT <NS type="TV"><i>WILL</i><c>WOULD</c></NS> BE AT 19.30 AND I <NS type="TV"><i>HAVE BEEN WAITING</i><c>WAITED</c></NS> FOR <NS type="MP"><i>FORTY FIVE</i><c>FORTY-FIVE</c></NS> MINUTES!! BESIDES THIS, I COULD NOT <NS type="RV"><i>VISIT</i><c>GO TO</c></NS> THE RESTAURANT IN THE THEATRE BECAUSE IT WAS CLOSED. IN <NS type="S"><i>ADITION</i><c>ADDITION</c></NS> TO THIS, I DID NOT HAVE ANY DISCOUNT <NS type="RT"><i>IN</i><c>ON</c></NS> MY TICKET. SO, I HAD TO PAY A LOT OF MONEY TO SEE A PLAY THAT WAS A <NS type="DJ"><i>COMPLETELY</i><c>COMPLETE</c></NS> DISASTER.</p>
+          <p>TO SUM UP, I DID NOT <NS type="RV"><i>SPEND</i><c>HAVE</c></NS> A PERFECT EVENING. I THINK THAT IT WAS THE WORST I HAVE EVER HAD. <NS type="ID"><i>ON THE WHOLE</i><c>TO CONCLUDE</c></NS>, I WOULD LIKE TO HAVE MY MONEY BACK.</p>
+          <p>YOURS FAITHFULLY</p>
+          <p>MANUELA BELABARA</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>JUST BE YOURSELF</p>
+          <p>IN<NS type="UP"><i>,</i></NS> THE FUTURE<NS type="UP"><i>,</i></NS> PEOPLE WILL BE WEARING FASHIONABLE CLOTHES LIKE NOW. PEOPLE WILL BE VERY WORRIED ABOUT WHAT THEY WEAR.</p>
+          <p><NS type="ID"><i>ONE THE ONE HAND</i><c>ON THE ONE HAND</c></NS>, THERE WILL BE PEOPLE WHO <NS type="TV"><i>WOULD</i><c>WILL</c></NS> WEAR FASHIONABLE CLOTHES. <NS type="AGD"><i>THIS</i><c>THESE</c></NS> PEOPLE WILL BE WORRIED ABOUT WHAT THEY LOOK LIKE. ON THE OTHER HAND, THERE WILL BE <NS type="CQ"><i>LESS</i><c>FEWER</c></NS> PEOPLE WHO <NS type="TV"><i>WOULD</i><c>WILL</c></NS> WEAR WHATEVER THEY LIKE.</p>
+          <p>NOWADAYS, PEOPLE <NS type="W"><i>SEEM TO BE ALWAYS</i><c>ALWAYS SEEM TO BE</c></NS> WORRIED. ALL THE TIME THEY ARE ASKING<NS type="UP"><i>,</i></NS> WHAT <NS type="UV"><i>ARE</i></NS> THEY <NS type="TV"><i>LOOKING</i><c>LOOK</c></NS> LIKE AND THEY WASTE A LOT OF MONEY <NS type="RT"><i>IN</i><c>ON</c></NS> CLOTHES.</p>
+          <p>ON THE WHOLE, CLOTHES WILL <NS type="UV"><i>HAVE</i></NS> <NS type="RY"><i>NO</i><c>NOT</c></NS> CHANGE. IN MY OPINION, PEOPLE WILL <NS type="RV"><i>GIVE</i><c>ATTACH</c></NS> IMPORTANCE TO HOW THEIR <NS type="AGN"><i>PERSONALITY</i><c>PERSONALITIES</c></NS> DEVELOP AND THEY WILL GIVE UP WORRYING ABOUT WHAT THEY WEAR. THEY WILL HAVE ENOUGH MONEY TO BUY WHAT THEY NEED AND TO BE HAPPY WITH IT.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

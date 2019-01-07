@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR555*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>Last Saturday I went to your theatre to see the new musical show<NS type="UP"><i>;</i></NS> "Over The Rainbow"<NS type="MP"><c>.</c></NS></p>
+          <p>It was <NS type="TV"><i>writing</i><c>written</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the advertisement that Danny BROOK was going to <NS type="RV"><i>play</i><c>star</c></NS> with Tina TRUELOVE, but it was not him who <NS type="RV"><i>played</i><c>starred</c></NS>. That disappointed <NS type="UQ"><i>both</i></NS> me and the people who just went to see him.</p>
+          <p>And <NS type="MT"><c>regarding</c></NS> the <NS type="FN"><i><NS type="RP"><i>Times</i><c>times</c></NS></i><c>time</c></NS><NS type="RP"><i>;</i><c>,</c></NS> the show <NS type="RV"><i>had</i><c>was meant</c></NS> to start at 19:30, however it started at 20:15. Therefore, people there had to wait for 45 minutes. Also, <NS type="RA"><i>there</i><c>it</c></NS> was said <NS type="MA"><c>there</c></NS> <NS type="TV"><i>to be</i><c>would be</c></NS> discounts <NS type="RT"><i>for</i><c>on</c></NS> the <NS type="FN"><i>ticket</i><c>tickets</c></NS> but I <NS type="RV"><i>saw</i><c>had</c></NS> nothing like this. All <NS type="MD"><c>the</c></NS> people there <NS type="RV"><i>gave</i><c>paid</c></NS> the same amount of money. After the show, I went to the restaurant in the theatre to eat something but it was closed because it was being cleaned that day.</p>
+          <p>I had a horrible evening, just the opposite of what I expected, so I want my money back.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>THE BIG <NS type="RN"><i>FAULT</i><c>MISTAKE</c></NS></p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. It was a big <NS type="RN"><i>fault</i><c>mistake</c></NS> to <NS type="RV"><i>gave</i><c>tell</c></NS> her a secret, especially an important one.</p>
+          <p>It all started two years ago. Rod was a happy man at that <NS type="AGN"><i>times</i><c>time</c></NS>. One day, while he was gardening, he saw an old lady being kidnapped by some strange <NS type="FN"><i>man</i><c>men</c></NS>, who he ran after and <NS type="W"><i><NS type="MA"><c>he</c></NS> caught one of whom</i><c>one of whom he caught</c></NS>. Just then, the strange man took out his gun. Rod jumped on him and the man killed himself <NS type="UP"><i>,</i></NS><NS type="RT"><i>by</i><c>with</c></NS> his own gun. Nobody saw <NS type="RC"><i>or</i><c>and</c></NS> nobody heard what had happened.</p>
+          <p>Rod told this to nobody, except Pat, his best friend. One day, when they were arguing, Pat was very <NS type="RJ">anxious</NS> and told what she knew to <NS type="MD"><c>the</c></NS> police.</p>
+          <p>Rod was arrested that day and was sent to prison. He <NS type="TV"><i>then was</i><c>was then</c></NS> killed by the other man who escaped that day and was caught soon afterwards.</p>
+          <p>Rod's grave is now in prison. And these lines <NS type="TV"><i><NS type="AGV"><i>writes</i><c>write</c></NS></i><c>are written</c></NS> on his gravestone:</p>
+          <p>Here lies the <NS type="W"><i>poor body of</i><c>body of poor</c></NS> Rod,</p>
+          <p>Never give your secrets away,</p>
+          <p>This is why poor Rod died.</p>
+          <p>And everyone was surprised.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR179*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr. (...),</p>
+          <p>My name is ... Two weeks ago my family and I visited London. During our stay we saw a <NS type="RJ">bright</NS> advertisement <NS type="RT"><i>of</i><c>for</c></NS> your theatre and decided to see this <NS type="RJ"><i>newest</i><c>latest</c></NS> and best musical show (as it <NS type="TV"><i>was said</i><c>said</c></NS> in <NS type="DD"><i>you</i><c>your</c></NS> advertisement). Actually<NS type="RP"><i>.</i><c>,</c></NS> I must say that <NS type="MA"><c>it</c></NS> <NS type="W"><i>our perfect evening wasn't</i><c>wasn't our perfect evening</c></NS> out!</p>
+          <p>In your <NS type="L"><i>ad</i><c>advertisement</c></NS> <NS type="MA"><c>it</c></NS> <NS type="TV"><i>was said</i><c>said</c></NS> that in <NS type="MD"><c>the</c></NS> main roles <NS type="MA"><c>there</c></NS> would be Danny Brook and Tina Truelove. Danny wasn't there! Instead there was a different actor whose <NS type="RN"><i>play</i><c>performance</c></NS> was disappointing.</p>
+          <p>The show <NS type="RV"><i>had</i><c>was supposed</c></NS> to begin at 19.30, but <NS type="RY"><i>indeed</i><c>in fact</c></NS> it started at 20.15 and we had to wait for 45 minutes <NS type="CE">in a great noise</NS>.</p>
+          <p>Some <NS type="RN">words</NS> about <NS type="MD"><c>the</c></NS> tickets: <NS type="DD"><i>you</i><c>your</c></NS> <NS type="L"><i>ad</i><c>advertisement</c></NS> <NS type="RV"><i>noticed</i><c>said</c></NS> that discounts were available so we didn't have <NS type="MQ"></NS> money with us. When we <NS type="RV"><i>came</i><c>arrived</c></NS><NS type="MP"><c>,</c></NS> the administration of the theatre said that discounts are not available.</p>
+          <p>Finally, when we decided to visit your theatre restaurant after the show<NS type="MP"><c>,</c></NS> it was closed (all the staff went home because the show lasted 45 minutes longer).</p>
+          <p>For all these reasons<NS type="MP"><c>,</c></NS> I would like you to give me at least half of my money back.</p>
+          <p><NS type="R">With hope for a mutual agreement</NS>, Mrs. (...).</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. It was May<NS type="UP"><i>,</i></NS> 15 - our <NS type="RP"><i>english</i><c>English</c></NS> teacher's birthday. Marion was our favourite school teacher and we decided to <NS type="RV"><i>make</i><c>organise</c></NS> a surprise for her.</p>
+          <p><NS type="MD"><i>Month</i><c>A month</c></NS> <NS type="RY"><i>ago</i><c>before</c></NS> we began to prepare for this day and we all agreed to keep it <NS type="UT"><i>in</i></NS> a secret. We <NS type="TV"><i>have been discussing</i><c>had been discussing</c></NS> for a long time what to <NS type="RV"><i>present</i><c>give</c></NS> her. There were a lot of proposals from the students: one <NS type="RV"><i>proposed</i><c>suggested</c></NS> a vase, another <NS type="UP"><i>-</i></NS> a good pen (he said it would be useful for the teacher). But we decided to buy a picture, because she <NS type="TV"><i>has always told</i><c>had always told</c></NS> us about art galleries with <NS type="UD"><i>a</i></NS> great <NS type="S"><i>exitement</i><c>excitement</c></NS>.</p>
+          <p>We <NS type="TV"><i>have chosen</i><c>chose</c></NS> the best one with a beautiful nature <NS type="MN"><c>scene</c></NS> in it.</p>
+          <p>We also decided to arrange a party on her birthday (and it had to be a surprise too).</p>
+          <p><NS type="RD"><i>A</i><c>The</c></NS> day before her birthday we had an English lesson, and after the lesson Pat <NS type="RV"><i>came</i><c>went</c></NS> up to Marion and told her about our surprise. He was bad-tempered and envious and he didn't want everything to be all right, and besides he didn't like Marion. That's why he disappointed Marion and us.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

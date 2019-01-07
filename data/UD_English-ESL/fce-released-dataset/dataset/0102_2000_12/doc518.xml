@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR214*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I am writing about the International Arts Festival which has just finished.</p>
+          <p>I <NS type="TV"><i>congratulated</i><c>congratulate</c></NS> <NS type="UT"><i>with</i></NS> you because it <NS type="TV"><i>has been</i><c>was</c></NS> a great idea <NS type="RC"><i>since</i><c>and</c></NS> the town needed a cultural event. I especially <NS type="TV"><i>appreciate</i><c>appreciated</c></NS> the weekend tickets which almost everybody could afford, <NS type="RY"><i>also</i><c>even</c></NS> students like me.</p>
+          <p>However, I think that some concert halls were too small for the musical performances. You probably did not expect such a big audience! Being very fond of films, I would have <NS type="TV"><i>appreciate</i><c>appreciated</c></NS> seeing more of them. For next year's <NS type="RN"><i>edition</i><c>festival</c></NS>, you could possibly add some foreign films, like <NS type="UD"><i>the</i></NS> Chinese ones, which I <NS type="W"><i>most like</i><c>like most</c></NS>.</p>
+          <p>Finally, in order to make <NS type="MA"><c>it</c></NS> a really international festival, I think you should invite artists from all over the world, not just from six countries like this year.</p>
+          <p>I hope that you will appreciate my opinions and suggestions, which I have shared with my friends.</p>
+          <p> Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Simply a good idea and that's enough</p>
+          <p>Are you young and full of life but <NS type="UA"><i>you</i></NS> don't have enough money to enjoy your spare time? Simply let your brain work and you could <NS type="RV"><i>find out</i><c>come up with</c></NS> wonderful ideas to earn money enjoying yourself.</p>
+          <p>Are you fed up <NS type="RT"><i>of</i><c>with</c></NS> looking after the screaming baby of your mother's friend? You could move from children to pets and become a dog-sitter, spending your afternoons walking round the park and chatting with a friend.</p>
+          <p>Are you keen on music and <NS type="UA"><i>you</i></NS> love going to <NS type="FN"><i>disco</i><c>discos</c></NS>? With a short training <NS type="MN"></NS> you'll be able to mix songs at parties. You won't dance but the <NS type="IN"><i>earning</i><c>earnings</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="TV"><i>guarantee</i><c>guaranteed</c></NS>!</p>
+          <p>Do you like do-it-yourself and <NS type="W"><i>your house is</i><c>is your house</c></NS> full of marvellous but <NS type="DJ"><i>unuseful</i><c>useless</c></NS> things? You could sell them to a specialised shop and finally tidy up your room!</p>
+          <p> So, what are <NS type="MA"><c>you</c></NS> waiting for? Work out your own idea and <NS type="RV"><i>realise it</i><c>put it into practice</c></NS>: money won't be a problem for you anymore!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

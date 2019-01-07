@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR854*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark, the organiser of <NS type="MD"><c>the</c></NS> International Arts Festival</p>
+          <p>I'm one of the <NS type="RN"><i><NS type="AGN"><i>citizen</i><c>citizens</c></NS></i><c>people</c></NS> that enjoyed the last International Arts Festival. Most of <NS type="MD"><c>the</c></NS> attractions <NS type="TV"><i>are</i><c>were</c></NS> excellent, but I'd like to point out that <NS type="MD"><c>the</c></NS> <NS type="UP"><i>"</i></NS><NS type="R">quality <NS type="TV"><i>is</i><c>was</c></NS> high, but <NS type="MD"><c>the</c></NS> quantity <NS type="TV"><i>is</i><c>was</c></NS> not enough</NS><NS type="UP"><i>!</i></NS>.</p>
+          <p>First of all, <NS type="R">the only "six countries" doesn't mean "around the world"</NS>. I suppose you had difficulty <NS type="FV"><i>to manage</i><c>managing</c></NS> the schedule.</p>
+          <p>Second, some concert <NS type="AGN"><i>hall</i><c>halls</c></NS> were too small, so some <NS type="M"><c>of the</c></NS> audience couldn't concentrate <NS type="MT"><c>on</c></NS> <NS type="FV"><i>to listen</i><c>listening</c></NS> to the music. And others couldn't enter the hall.</p>
+          <p>But <NS type="MD"><c>the</c></NS> "<NS type="MP"><i>All in one</i><c>all-in-one</c></NS> ticket" was a good idea. In fact queuing up in front of every ticket office is <NS type="MD"><c>a</c></NS> <NS type="DN"><i>wasting</i><c>waste</c></NS> <NS type="MT"><c>of</c></NS> time.</p>
+          <p>I <NS type="S"><i>pressume</i><c>presume</c></NS> if the <NS type="R">term becomes longer</NS> the festival <NS type="TV"><i>become</i><c>will become</c></NS> <NS type="RJ"><i><NS type="IJ"><i>more excellent</i><c>excellent</c></NS></i><c>better</c></NS><NS type="RP"><i>. Because</i><c>, because</c></NS> <NS type="TV"><i>it's</i><c>it'll be</c></NS> <NS type="FJ"><i>easy</i><c>easier</c></NS> to manage the <NS type="MP"><i><NS type="FN"><i>artist</i><c>artists</c></NS></i><c>artists'</c></NS> schedule and <NS type="MD"><c>the</c></NS> audience can enjoy <NS type="R">the live</NS>.</p>
+          <p>I'd like to go to the Festival again!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Thank you for your letter. And I'd like to answer <NS type="UT"><i>for</i></NS> your question. <NS type="RY"><i>AT first</i><c>First</c></NS>, in Japan, generally school rules are more <NS type="DJ"><i>strictly</i><c>strict</c></NS> than <NS type="MT"><c>at</c></NS> <NS type="UP"><i>home's</i><c>home</c></NS>. The gap between them is tremendously big! I can say the <NS type="FN"><i>action</i><c>actions</c></NS> which <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="IV"><i>prohibitted</i><c>prohibited</c></NS> at school <NS type="AGV"><i>is</i><c>are</c></NS> no problem at home<NS type="RP"><i>. Because</i><c>, because</c></NS> the purpose of school rules is not only <NS type="MV"><c>to create</c></NS> discipline but also <NS type="DN"><i>unify</i><c>unity</c></NS>.</p>
+          <p>Here, I <NS type="TV"><i>write</i><c>will write</c></NS> down one of the rules at my school. "Whenever the students wear an extra <NS type="MN"><c>item of</c></NS> <NS type="RN"><i>cloth</i><c>clothing</c></NS> (because of <NS type="MD"><c>the</c></NS> cold or something) his or her (not <NS type="MD"><c>the</c></NS> <NS type="FN"><i>students</i><c>student</c></NS>!) parents <NS type="RV"><i>write down</i><c>fill in</c></NS> an application form with their <NS type="RJ">authorized</NS> signatures".</p>
+          <p>You will ask me why<NS type="RP"><i>, the</i><c>. The</c></NS> reason is <NS type="R"><i>the</i><c>given</c></NS> above..."<NS type="DN"><i>unify</i><c>unity</c></NS>". In addition "the students must not use any commercial paper bags (<NS type="RV">received</NS> at <NS type="MD"><c>a</c></NS> department store etc)". Now you know the reason!</p>
+          <p>Needless to say I'd like to change such ridiculous rules, because such rules are not for us. They are for teachers<NS type="UP"><i>'</i></NS>! Don't you think so?</p>
+          <p>Do you have any rules at school that make you upset? If you have please tell me.</p>
+          <p><NS type="L">Yours faithfully</NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

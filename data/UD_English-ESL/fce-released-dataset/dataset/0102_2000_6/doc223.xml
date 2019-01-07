@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR763*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about a musical show, which I <NS type="TV"><i>have seen</i><c>saw</c></NS> in your theatre<NS type="UP"><i>,</i></NS> in London during my holiday.</p>
+          <p><NS type="RT"><i>According to</i><c>Considering</c></NS> the advertisement, which appeared in one of <NS type="UD"><i>the</i></NS> London's newspapers, I would like to present you <NS type="MT"><c>with</c></NS> some of my <NS type="S"><i>complaines</i><c>complaints</c></NS> about your musical spectacle. Firstly, I would like to say that the cast, which you "<NS type="RV"><i>offered</i><c>advertised</c></NS>"<NS type="MP"><c>,</c></NS> has been changed. The man who played the main male role was <NS type="R"><i>different than this one,</i><c>not the one</c></NS> who was mentioned in the advertisement. Secondly, the time when your musical should start <NS type="TV"><i>has been</i><c>was</c></NS> changed, <NS type="RV"><i>making your show delayed</i><c>delaying your show</c></NS> for <NS type="DY"><i>nearlly</i><c>nearly</c></NS> one hour! In your <NS type="RN"><i>offer</i><c>advertisement</c></NS> I noticed <NS type="CQ"><i>an</i><c>some</c></NS> information about discounts which were supposed to be available - no, they were not! Another "defect" in the advertisement was an "invitation" to the restaurant after the show. For unknown <NS type="U"><i>for me</i></NS> reasons, I found the restaurant closed (there was no information <NS type="RV"><i>telling</i><c>giving</c></NS> <NS type="UT"><i>about</i></NS> a <NS type="RN"><i>cause</i><c>reason</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> closing it). Finally, you guaranteed "a perfect evening out", but for me it was the worst visit <NS type="RT"><i>in</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> theatre in two years <NS type="UN"><i>time</i></NS>.</p>
+          <p>To sum up, I am very disappointed about the musical in your theatre. Neither <NS type="MD"><c>the</c></NS> beautiful <NS type="S"><i>surranding</i><c>surroundings</c></NS> near your theatre nor <NS type="MD"><c>the</c></NS> comfortable <NS type="DN"><i>sits</i><c>seats</c></NS> <NS type="TV"><i>will <NS type="UT"><i>not</i></NS> <NS type="S"><i>recompansate</i><c>compensate</c></NS></i><c>compensated</c></NS> <NS type="MT"><c>for</c></NS> my horrible evening. Therefore, I would like you to send my money back, because I think I deserve it as a <NS type="RN"><i>viewer</i><c>member of the audience</c></NS>. I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Technology is very important in our life. Mainly, because it makes it easier and more comfortable. Nevertheless<NS type="MP"><c>,</c></NS> it has some advantages and drawbacks.</p>
+          <p>In my opinion<NS type="MP"><c>,</c></NS> my daily life is full of modern technology. I meet <NS type="AGA"><i>her</i><c>it</c></NS> "at every corner": at home, at school, in the backyard and so on. It also changed my <NS type="UP"><i>life-style</i><c>lifestyle</c></NS> for <NS type="MD"><c>the</c></NS> better - I think. Every morning I use a toaster to have my sandwiches done, <NS type="MD"><c>a</c></NS> washing machine which makes my clothes clean again. <NS type="RY"><i>Recently</i><c>Today</c></NS>, modern technology means: mobile phones, computers, <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, super-fast cars etc. These improvements <NS type="AGV"><i>helps</i><c>help</c></NS> me with my ordinary <NS type="RN"><i><NS type="IN"><i>dutes</i><c>duties</c></NS></i><c>chores</c></NS>. I can do my homework on <NS type="MD"><c>a</c></NS> computer, prepare for the class test by searching <NS type="MT"><c>for</c></NS> information <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> Internet and use a mobile phone every time <NS type="UC"><i>when</i></NS> I want to <NS type="RV"><i>connect</i><c>talk</c></NS> with one of my parents.</p>
+          <p>However, technology has a bad influence on us<NS type="RP"><i>,</i><c> -</c></NS> generally on our <NS type="S"><i>healf</i><c>health</c></NS>. <NS type="MD"><i>Couple</i><c>A couple</c></NS> of months ago, some foreign scientists noticed that mobile phones <NS type="R">make a possibility of getting sick with cancer</NS>. Also fast and <NS type="DJ"><i>well-improved</i><c>high-tech</c></NS> <NS type="FN"><i>car</i><c>cars</c></NS> increase <NS type="RD"><i>a</i><c>the</c></NS> <NS type="FN"><i>risk</i><c>risks</c></NS> of pollution <NS type="RT"><i>of</i><c>in</c></NS> our air and mainly lead to very dangerous accidents.</p>
+          <p>In conclusion<NS type="MP"><c>,</c></NS> I think that modern technology makes our life easier<NS type="RP"><i>, nevertheless</i><c>. Nevertheless</c></NS>, we should avoid any possible risks connected with these improvements. Then we will be able to say that technology is something we should be proud of.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

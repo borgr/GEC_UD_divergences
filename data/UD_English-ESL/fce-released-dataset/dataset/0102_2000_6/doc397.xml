@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR159*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Mr Manager:</p>
+          <p>A few days ago I went to London to have a nice holiday. I was expecting to have fun, so I decided to go to the play "Over the Rainbow", <NS type="MP"><i>thats</i><c>that's</c></NS> now <NS type="RV"><i>presenting</i><c>showing</c></NS> in your theatre. I read the advertisement and I thought it was going to be a <NS type="S"><i>plesent</i><c>pleasant</c></NS> evening.</p>
+          <p>From the <NS type="S"><i>beggining</i><c>beginning</c></NS> it was all a disappointment. When I went to buy the ticket I tried to get a discount with my student card, but that was not <NS type="S"><i>posible</i><c>possible</c></NS>. I let this pass and I bought it anyway, thinking that <NS type="MA"><c>it</c></NS> was <NS type="S"><i>posible</i><c>possible</c></NS> that <NS type="RA"><i>it</i><c>this</c></NS> was only a mistake in your advertisement.</p>
+          <p>But the play started <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes late, and the star of the show, of whom I'm a great fan <NS type="R">an</NS> who was the <NS type="DJ"><i>mainly</i><c>main</c></NS> reason <NS type="RT"><i>of</i><c>for</c></NS> why I decided to see the play, <NS type="TV"><i>was changed</i><c>had been changed</c></NS> for another actor, <NS type="R"><i>how</i><c>who</c></NS> turned out to be really bad.</p>
+          <p>You will understand how <NS type="DJ"><i>upseting</i><c>upsetting</c></NS> all this was, and I decided to visit your restaurant, thinking that could save my visit to the theatre, but it was closed and I had to go back to my hotel <NS type="RV"><i>felling</i><c>feeling</c></NS> mad <NS type="R"><i>an</i><c>and</c></NS> hungry.</p>
+          <p>I think you <NS type="TV"><i>realized</i><c>realise</c></NS> why I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to ask you to give <NS type="MA"><c>me</c></NS> my money back. All the <NS type="AGN"><i>thing</i><c>things</c></NS> that were promised in your advertisement were <NS type="X"><i>not true</i><c>untrue</c></NS>, and it was <NS type="DY"><i>definitly</i><c>definitely</c></NS> NOT the perfect evening out.</p>
+          <p><NS type="S"><i>Specting</i><c>Expecting</c></NS> that you will <NS type="RV"><i>solve</i><c>resolve</c></NS> this misunderstanding.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>There's no doubt that modern <NS type="S"><i>tecnology</i><c>technology</c></NS> has changed our lives, but how?</p>
+          <p>I think that some of the changes <NS type="TV"><i>had</i><c>have</c></NS> been very good, like the <NS type="S"><i>impruvement</i><c>improvement</c></NS> <NS type="RT"><i>to</i><c>in</c></NS> <NS type="UD"><i>the</i></NS> medical science, <NS type="RA"><i>that</i><c>which</c></NS> now can <NS type="FV"><i>saved</i><c>save</c></NS> millions of <NS type="L"><i>persons</i><c>people</c></NS> that one hundred years ago were doomed to die or to live miserable lives.</p>
+          <p>It has changed the ways <NS type="U"><i>in how</i></NS> people <NS type="S"><i>comunicate</i><c>communicate</c></NS>. First the telegraph and the radio <NS type="R"><i>an</i><c>and</c></NS> now TV, the telephone and the Internet <NS type="TV"><i>allowed</i><c>allow</c></NS> people <NS type="FV"><i>be</i><c>to be</c></NS> in contact with others really quickly<NS type="MP"><c>,</c></NS> and distances <NS type="MP"><i>arent</i><c>aren't</c></NS> now so difficult <NS type="UT"><i>of</i></NS> <NS type="FV"><i>overcome</i><c>to overcome</c></NS>.</p>
+          <p>But <NS type="S"><i>tecnology</i><c>technology</c></NS> <NS type="TV"><i>had</i><c>has</c></NS> not only changed our lives in a good way, giving us <NS type="FN"><i>thing</i><c>things</c></NS> that can make our lives more <NS type="S"><i>confortable</i><c>comfortable</c></NS>, it <NS type="TV"><i>had</i><c>has</c></NS> also <NS type="MV"><c>created</c></NS> <NS type="AGN"><i>thing</i><c>things</c></NS> that <NS type="MP"><i>arent</i><c>aren't</c></NS> bad, but if they are in the hands of the wrong people they can destroy the world.</p>
+          <p><NS type="UD"><i>The weapons</i><c>Weapons</c></NS> and <NS type="UD"><i>the</i></NS> factories are <NS type="IV"><i>destroing</i><c>destroying</c></NS> our planet and we need to <NS type="FV"><i>realized</i><c>realise</c></NS> that we have to use <NS type="S"><i>tecnology</i><c>technology</c></NS> to <NS type="S"><i>impruve</i><c>improve</c></NS> our lives, <NS type="R"><i>but</i><c>while</c></NS> always <NS type="S"><i>triying</i><c>trying</c></NS> to respect nature.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

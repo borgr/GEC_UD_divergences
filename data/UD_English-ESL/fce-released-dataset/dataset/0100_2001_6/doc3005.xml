@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE25*0100*2001*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Maria Smith,</p>
+          <p>First of all, the group has been booked into the Palace Hotel. It is a big hotel because there will be a lot of people. It has a <NS type="UP"><i>swimming-pool</i><c>swimming pool</c></NS> and a nice bar.</p>
+          <p>The hotel is ten minutes <NS type="RY"><i>far</i><c>away</c></NS> from the conference <NS type="MN"><c>centre</c></NS> and there will be a bus available to go directly over there.</p>
+          <p>At the end of the conference<NS type="UP"><i>,</i></NS> there will be a dinner in a luxurious restaurant<NS type="MP"><c>,</c></NS> so people must have nice clothes; <NS type="UP"><i>jean's</i><c>jeans</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> not allowed. Next to the restaurant, there is a disco for people who like dancing.</p>
+          <p>We can do a lot of things in my area. We have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to visit the old town<NS type="RP"><i>, it's</i><c>. It's</c></NS> very nice and there <NS type="AGV"><i>is</i><c>are</c></NS> a lot of shops. We can visit the old castle or the painting museum too.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I find television the most important invention. I think it's good for old people because some of them cannot go to the cinema <NS type="SA"><i>anymore</i><c>any more</c></NS>. <NS type="ID"><i>In one hand</i><c>On the one hand</c></NS> <NS type="RA"><i>it</i><c>that</c></NS>'s because they <NS type="RP"><i>have not</i><c>haven't</c></NS> enough money to pay <NS type="MT"><c>for</c></NS> it and <NS type="ID"><i>in the other hand</i><c>on the other hand</c></NS> it's because they can't move very well<NS type="MP"><c>,</c></NS> for example if they are disabled. With television, old people are less alone because most <NS type="UT"><i>of</i></NS> old <NS type="FN"><i>woman</i><c>women</c></NS> <NS type="FV"><i>have not</i><c>don't have</c></NS> <NS type="RD"><i>her</i><c>their</c></NS> <NS type="FN"><i>husband</i><c>husbands</c></NS> <NS type="SA"><i>anymore</i><c>any more</c></NS>.</p>
+          <p>Television is a good way to be informed <NS type="RT"><i>with</i><c>about</c></NS> the news. I prefer being informed by television than by newspapers<NS type="RP"><i>,</i><c>;</c></NS> it's more relaxing.</p>
+          <p>I think television is a good invention for children<NS type="MP"><c>,</c></NS> <NS type="MT"><c>for</c></NS> when they have free time<NS type="MP"><i> <NS type="UC"><i>and</i></NS> while</i><c>. While</c></NS> they are watching television, we don't have to look after them if we have something important to do.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

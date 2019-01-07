@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE24*0100*2001*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>21.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>I read your letters and I'm ready to help you.</p>
+          <p>I think that we have to think <NS type="MT"><c>about</c></NS> which hotel is <NS type="FJ"><i>better</i><c>best</c></NS> for the students. I have an idea and I think that you will agree with me. I was thinking about the Palace Hotel because it's very nice and cheap. It has comfortable bedrooms and <NS type="MD"><c>a</c></NS> place for parties. You can book this hotel<NS type="MP"><i> it's</i><c>. It's</c></NS> the best and it's near to <NS type="MD"><c>the</c></NS> conference<NS type="MP"><i> it's</i><c>. It's</c></NS> only 15 minutes <NS type="ID"><i>by walk</i><c>on foot</c></NS>.</p>
+          <p>I think that it will be nice <NS type="RT"><i>about</i><c>for</c></NS> the end-of-conference party if you <NS type="TV"><i>will invite</i><c>invite</c></NS> somebody to sing and give <NS type="UT"><i>to</i></NS> the <NS type="AGN"><i>student</i><c>students</c></NS> the time to enjoy <NS type="DA"><i>theirselves</i><c>themselves</c></NS> and to dance. The party <NS type="UA"><i>it</i></NS> will be nice. <NS type="W"><i>The clothes now</i><c>Now the clothes</c></NS> that they will wear <NS type="UA"><i>it</i></NS> <NS type="AGV"><i>has</i><c>have</c></NS> to be smart, not <NS type="R"><i>how</i><c>the kind you would wear if</c></NS> you <NS type="TV"><i>are</i><c>were</c></NS> going to <NS type="MD"><c>a</c></NS> casino for example but nice casual, <NS type="R">not with</NS> sports shoes or T-shirts.</p>
+          <p>On the last day in the afternoon <NS type="RC"><i>that</i><c>when</c></NS> you have three <NS type="SX"><i>ours</i><c>hours</c></NS> free you can go for coffee or <NS type="FV"><i>to visit</i><c>visit</c></NS> some places.</p>
+          <p>Those are my ideas for the conference. I hope that you will like <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Today our article <NS type="UA"><i>it</i></NS> will be about <NS type="UD"><i>an</i></NS> inventions that we need <NS type="RP"><i>inour</i><c>in our</c></NS> life. I think that <NS type="W"><i>all <NS type="AGD"><i>this</i><c>these</c></NS> things we need</i><c>we need all these things</c></NS> in our life because <NS type="AGA"><i>it</i><c>they</c></NS> can give us a lot of things.</p>
+          <p>First of all we need the telephone in our house because it's important to make <NS type="MD"><c>a</c></NS> call if you need something <NS type="SX"><i>of</i><c>or</c></NS> if <NS type="UA"><i>it</i></NS> something <NS type="TV"><i><NS type="IV"><i>happend</i><c>happened</c></NS></i><c>happens</c></NS> to your house and nobody is <NS type="RT"><i>next to</i><c>with</c></NS> you.</p>
+          <p><NS type="R">The second one is the lamp, the electricity that is very important in our life</NS>. In the past <NS type="UD"><i>the</i></NS> people didn't have <NS type="S"><i>electicity</i><c>electricity</c></NS> and if they wanted<NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> to read or to cook something they used to <NS type="RV"><i>do</i><c>light</c></NS> <NS type="R"><i>in the</i><c>a</c></NS> fire. It's important to have electricity because without <NS type="RA"><i>this</i><c>it</c></NS> you can't do anything.</p>
+          <p>The other one is the television. You must have <NS type="MD"><c>a</c></NS> TV because you can <NS type="RV"><i><NS type="S"><i>liten</i><c>listen</c></NS></i><c>learn</c></NS> <NS type="MT"><c>about</c></NS> what <NS type="UA"><i>it</i></NS> <NS type="TV"><i><NS type="IV"><i>happend</i><c>happened</c></NS></i><c>is happening</c></NS> in the world and you can <NS type="RV"><i>watch</i><c>see</c></NS> some places that you <NS type="TV"><i>didn't go</i><c>haven't been</c></NS> <NS type="MT"><c>to</c></NS>. You can enjoy <NS type="U"><i>you time</i></NS> <NS type="FV"><i>to watch</i><c>watching</c></NS> a film if you have <NS type="MQ"><c>some</c></NS> free time.</p>
+          <p><NS type="RD"><i>The</i><c>A</c></NS> boat <NS type="UA"><i>it's</i><c>is</c></NS> not so important but you can use <NS type="RA"><i>it</i><c>one</c></NS> for fishing and to see some places.</p>
+          <p>The car <NS type="W"><i>now is</i><c>is now</c></NS> very important in our life<NS type="MP"><i> you</i><c>. You</c></NS> can go wherever you want. <NS type="UT"><i>In this</i><c>This</c></NS> year <NS type="R">the <NS type="IN"><i>familys</i><c>families</c></NS> they have 3 cars in one family one by one person</NS>.</p>
+          <p>For me the most important thing is the telephone because without this you can't do anything<NS type="RP"><i>, it's</i><c>. It's</c></NS> part of my life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

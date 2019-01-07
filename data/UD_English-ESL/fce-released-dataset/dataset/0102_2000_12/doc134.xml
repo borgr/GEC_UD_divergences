@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR548*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p><NS type="R">I am writing about an annual international arts festival with a good impression. I have spent two days on it which was exciting.</NS> However, I would like to make a suggestion that you could consider for it.</p>
+          <p>The name of the event, International Arts Festival, is <NS type="MD"><c>a</c></NS> great idea actually, but there were stars and artists <NS type="W"><i>only from</i><c>from only</c></NS> six countries <NS type="R">apart from your advertisement</NS>. I suppose more countries are going to be informed even during and after the events.</p>
+          <p>The second point I would like to make is about the concerts which showed people Jazz, rock and <NS type="RJ"><i>classic</i><c>classical</c></NS> <NS type="MN"><c>music</c></NS>, which were fantastic. However, <NS type="UA"><i>there</i></NS> <NS type="UV"><i>were</i></NS> some concert halls were too small. Quite few seats were available for <NS type="MD"><c>the</c></NS> audience, so a few people had to stand and watch <NS type="MD"><c>the</c></NS> concerts. I see you might not have had much time to be well-organised.</p>
+          <p>As well as that, <NS type="R">I expect you plays and films are performed more</NS>. Even if the majority of my friends had a good time there I saw some people <NS type="R">would anticipate it, because there were many people who were impressed in it.</NS></p>
+          <p>Finally, I would like to see the good side of things about the weekend ticket. It is <NS type="FD"><i>a</i><c>an</c></NS> excellent price because when I am <NS type="TV"><i>tempt</i><c>tempted</c></NS> to watch some festivals, obviously it costs much more money. At that time I was lucky and also, I would like to <NS type="S"><i>recommand</i><c>recommend</c></NS> <NS type="MA"><c>it</c></NS> <NS type="MT"><c>to</c></NS> other friends. That's how I am feeling about that.</p>
+          <p>I expect you <NS type="RV"><i>can</i><c>will</c></NS> be <NS type="W"><i>organised even better</i><c>even better organised</c></NS> next year.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear George,</p>
+          <p>Thank you for your letter. I could be interested in your letter.</p>
+          <p><NS type="R">But it is quite different rather than you. Becoming more strict gradually at home that at school is true as you said.</NS></p>
+          <p>Nowadays while my country is developing, most people are very busy, so they can't bring up their children. <NS type="R">I think the rule of school has many thing stoping students doing.</NS> For example, if students behave wrongly at school, they will have some punishments even up to now. What else, unless they pass the exam they have to <NS type="RV"><i>get</i><c>have</c></NS> extra <NS type="FN"><i>lesson</i><c>lessons</c></NS> or <NS type="FN"><i>test</i><c>tests</c></NS>. But most teachers consult with their parents, so <NS type="SX"><i>it</i><c>if</c></NS> they behave wrongly it is true <NS type="MC"><c>that</c></NS> teachers call their parents.</p>
+          <p>Apart from that, at home, children are not allowed to use impolite words and on <NS type="MD"><c>the</c></NS> weekend they have to help parents to do some chores.</p>
+          <p>But people would like to change <NS type="MD"><c>the</c></NS> <NS type="RP"><i>life style</i><c>lifestyle</c></NS> in their house because there <NS type="TV"><i>haven't been</i><c>aren't</c></NS> convenient <NS type="S"><i>appliaces</i><c>appliances</c></NS> in their <NS type="FN"><i>house</i><c>houses</c></NS> yet.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

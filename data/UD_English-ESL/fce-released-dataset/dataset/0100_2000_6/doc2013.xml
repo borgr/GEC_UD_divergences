@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR806*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Helen Ryan,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to reply <NS type="MT"><c>to</c></NS> your letter and <NS type="S"><i>comenicate</i><c>communicate</c></NS> my <NS type="S"><i>aceptance</i><c>acceptance</c></NS> of the first prize in your Competition.</p>
+          <p>This summer, I am available <NS type="RT"><i>on</i><c>in</c></NS> July because <NS type="RT"><i>on</i><c>in</c></NS> <NS type="S"><i>Agust</i><c>August</c></NS> my family and I are going to go to Canada and <NS type="RT"><i>on</i><c>in</c></NS> September I will go back <NS type="RT"><i>at</i><c>to</c></NS> university. If there is no chance to go to California <NS type="RT"><i>on</i><c>in</c></NS> July, I could wait <NS type="S"><i>untill</i><c>until</c></NS> next summer.</p>
+          <p>About accommodation, I would like to <NS type="MV"><c>have</c></NS> a <NS type="SX"><i>long</i><c>log</c></NS> cabin because last year I had an accident and my back <NS type="TV"><i>is</i><c>was</c></NS> <NS type="S"><i>enjure</i><c>injured</c></NS>, so sleeping in a tent <NS type="UA"><i>it</i></NS> would be painful for me.</p>
+          <p>I play basketball at university and my <NS type="RN"><i>level</i><c>standard</c></NS> is quite good but <NS type="MA"><c>what</c></NS> I am really enjoying is being a referee. Due to my back <NS type="S"><i>enjure</i><c>injury</c></NS>, this year I could not train and play with my team, so I am not fit<NS type="RP"><i>, it</i><c>. It</c></NS> would be a good <NS type="S"><i>aidea</i><c>idea</c></NS> to be a referee. I would like to swim everyday if <NS type="MA"><c>it</c></NS> is <NS type="RJ"><i>able</i><c>possible</c></NS>. <NS type="S"><i>Althoung</i><c>Although</c></NS> swimming is so <NS type="RJ"><i>bored</i><c>boring</c></NS>, it would be a good <NS type="MN"><c>thing</c></NS> <NS type="FV"><i>help</i><c>to help</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>curing</i><c>cure</c></NS> my back.</p>
+          <p>Could you please let me know where <NS type="W"><i>will I</i><c>I will</c></NS> <NS type="S"><i>eate</i><c>eat</c></NS>? <NS type="RP"><i>if</i><c>If</c></NS> <NS type="W"><i>will there</i><c>there will</c></NS> be a vegetarian menu? <NS type="RP"><i>and</i><c>And</c></NS> how much is it? <NS type="RP"><i>how</i><c>How</c></NS> <NS type="CQ"><i>many</i><c>much</c></NS> money <NS type="MV"><c>do</c></NS> you think <NS type="W"><i>will I</i><c>I will</c></NS> need for those two weeks? And please could you give me <NS type="MQ"><c>some</c></NS> details about <NS type="R"><i>how does</i><c>what</c></NS> the weather <NS type="MV"><c>is</c></NS> like there and what type <NS type="R"><i>the</i><c>of</c></NS> clothes <NS type="W"><i>will I</i><c>I will</c></NS> have to <NS type="S"><i>bringh</i><c>bring</c></NS>?</p>
+          <p>Looking forwards to hearing from you</p>
+          <p>Yours <NS type="DY"><i>sincerily</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>It was brilliant! I had the best month <NS type="RT"><i>in</i><c>of</c></NS> my life. It was a hard month because my job was very hard<NS type="RP"><i>,</i><c>.</c></NS> I worked 12 hours per day but <NS type="S"><i>alwalys</i><c>always</c></NS> with <NS type="RJ"><i>funny</i><c>fun</c></NS> people. My job was cleaning the <NS type="RN"><i>ground</i><c>floor</c></NS> after the concert; "it was very dirty". It wasn't a nice job but I had all night for drinking and dancing of course<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="X"><i>had not</i><c>didn't have</c></NS> to pay <NS type="UT"><i>for</i></NS> <NS type="FV"><i>getting</i><c>to get</c></NS> in.</p>
+          <p>I <NS type="RV"><i>felt</i><c>fell</c></NS> in love with a beautiful girl "Calen"<NS type="RP"><i>, she</i><c>. She</c></NS> is from Spain and was selling "hot dogs". She will come to Liverpool next week and I'll put her up. Probably she'll come with a friend <NS type="MC"><c>and</c></NS> if you want you can <NS type="RV"><i>enjoy</i><c>join</c></NS> us.</p>
+          <p>Helping at the pop concert has been a great experience because I've <NS type="RV"><i>done</i><c>met</c></NS> <NS type="UD"><i>a</i></NS> new friends and I know that <NS type="RT"><i>in</i><c>at</c></NS> the concert there <NS type="AGV"><i>isn't</i><c>aren't</c></NS> any <NS type="AGN"><i>drunk</i><c>drunks</c></NS> just <NS type="RJ"><i>funny</i><c>fun</c></NS><NS type="R"><i> and</i><c>,</c></NS> wonderful people.</p>
+          <p>I am looking forward to next summer because I'd like to go to Spain to help <NS type="RT"><i>in</i><c>with</c></NS> "Doctor Meesee"<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> is the best concert in the world<NS type="RP"><i>,</i><c>.</c></NS> I hope you will come there. You have to save up <NS type="MQ"><c>some</c></NS> money because Spain is too expensive (beach, beer, discos..).</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

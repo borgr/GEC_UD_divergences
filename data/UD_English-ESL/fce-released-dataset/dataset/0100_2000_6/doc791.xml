@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR314*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>14.06.2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you for your letter. I <NS type="TV"><i>was</i><c>am</c></NS> very glad I won the competition. This trip will, undoubtedly<NS type="MP"><c>,</c></NS> be a wonderful experience.</p>
+          <p>As far as the <NS type="W"><i>dates of <NS type="RN"><i>travelling</i><c>travel</c></NS></i><c>travel dates</c></NS> are concerned, the only period available would be in July as I am fully booked for the <NS type="RN"><i>remaining</i><c>rest</c></NS> <NS type="M"><c>of the</c></NS> summer. I really didn't expect to win the trip. I would therefore be very <NS type="RJ"><i>thankful</i><c>grateful</c></NS> if you could book the tickets for then.</p>
+          <p>Concerning the accommodation <NS type="RN"><i>choice</i><c>options</c></NS> you have <NS type="RV"><i>proposed</i><c>offered</c></NS> me, please make sure I am sleeping in a tent, as I have never experienced <NS type="MP"><i>open air</i><c>open-air</c></NS> camping before. I think it would be nice to try it at least once.</p>
+          <p>Concerning the proposed activities<NS type="MP"><c>,</c></NS> please, <NS type="RV"><i>accept me</i><c>put me down</c></NS> for Singing and Painting. The only problem would be that my drawing is pretty bad. Concerning Singing activities, I think I'm quite good as I have been in my school's choir for 3 years.</p>
+          <p>Could you please include in your next letter some information about the amount of money and clothes we have to <NS type="RV"><i>carry</i><c>bring</c></NS>?</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>17 October 2000</p>
+          <p>Dear Kim,</p>
+          <p>As you asked me, I <NS type="TV"><i>write</i><c>am writing</c></NS> <NS type="MT"><c>to</c></NS> you about my experience at the <NS type="RP"><i>Pop Concert</i><c>pop concert</c></NS>.</p>
+          <p>Well, on the whole, it was pretty cool. There was no big <NS type="RN">stress</NS> about it. The only thing I was asked to do was to help carry the lunches of the singers and to help with light and sound management, when the guy there had to do something else. Oh yes, I also had to check the tickets for five minutes. The woman had to deliver something. The problem <NS type="RT"><i>about</i><c>with</c></NS> this job is that you have to deal with huge <NS type="RN"><i>amounts</i><c>numbers</c></NS> of people. There were 963 <NS type="L"><i>persons</i><c>people</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the "<NS type="S"><i>Armaggedon</i><c>Armageddon</c></NS>" that night!</p>
+          <p>But, as I said, the whole thing was fun. You must show a great <NS type="S"><i>sence</i><c>sense</c></NS> of responsibility. But, Kim, can you see <NS type="RP"><i>an other</i><c>another</c></NS> way to meet the "New Bentley" for free, talk to them and even get paid? That was my best day ever, the one <NS type="MC"><c>when</c></NS> I shared a meal with Paul McPartney. I'm sure you are <NS type="S"><i>jalous</i><c>jealous</c></NS> now. Don't worry they still organise these "youth work" <NS type="SA"><i>programs</i><c>programmes</c></NS>.</p>
+          <p>With love</p>
+          <p>John</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

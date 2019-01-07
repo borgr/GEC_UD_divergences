@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR419*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about The Circle Theatre which is very different from <NS type="R">what it have shown</NS>. I will let you know about what I have in mind.</p>
+          <p>I went to your theatre last <NS type="RP"><i>saturday</i><c>Saturday</c></NS>, <NS type="MT"><c>at</c></NS> about 7. p.m. I asked for discounts. But a clerk said that <NS type="MD"><c>the</c></NS> time for discounts had <NS type="RV"><i>been finished</i><c>ended</c></NS>. I did not care about <NS type="MD"><c>the</c></NS> money and I rushed into <NS type="M"><c>the theatre</c></NS> and then took a seat with some food. I was waiting for the show that was supposed to start at 7.30 p.m. But it started at 8.15. I felt nervous. When I saw an actor, he was a different actor. I was very upset and disappointed.</p>
+          <p>After the show ended, I was on the way to the theatre restaurant. <NS type="ID">What was more</NS>, it <NS type="TV"><i>closed</i><c>was closed</c></NS> because of <NS type="S"><i>refurishing</i><c>refurbishing</c></NS>.</p>
+          <p>If you were me, how would you feel? So, I could not help <NS type="UT"><i>to</i></NS> writing to you and would like to <NS type="RV"><i>take</i><c>receive</c></NS> money back.</p>
+          <p>I <NS type="TV"><i>enclosed</i><c>enclose</c></NS> the <NS type="W"><i>receipt of theatre</i><c>theatre receipt</c></NS>.</p>
+          <p>Yours faithfully,</p>
+          <p>Bying Kak</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>- How has modern technology changed your daily life?</p>
+          <p>I was born in 1973. At this time, our nation was <NS type="UT"><i>under</i></NS> a developing country. Almost all the people had a Television which provided events around our <NS type="RN"><i>county</i><c>country</c></NS> very quickly. As I <NS type="IV"><i>growed</i><c>grew</c></NS> up, T.V was one of the <NS type="IJ"><i>mysteriest</i><c>most mysterious</c></NS> things like a telephone and a bus.</p>
+          <p>When it comes to modern technology, I grately appreciate it.</p>
+          <p>First thing is <NS type="RD"><i>a</i><c>the</c></NS> computer. When I was a university student, I had to find out some <NS type="S"><i>imformation</i><c>information</c></NS> <NS type="RT"><i>about</i><c>for</c></NS> my homework. I could not get <NS type="AGA"><i>them</i><c>it</c></NS>. but a computer <NS type="RV"><i>made</i><c>allowed</c></NS> me <NS type="FV"><i>get</i><c>to get</c></NS> <NS type="AGA"><i>them</i><c>it</c></NS> from <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>.</p>
+          <p>Second thing is <NS type="RD"><i>an</i><c>the</c></NS> airplane. I <NS type="TV"><i>have been imagining</i><c>imagined</c></NS> where <NS type="AGQ"><i>another</i><c>other</c></NS> <NS type="S"><i>contries</i><c>countries</c></NS> are like England. Now I am in England. <NS type="CE">I know a ship but an airplane made an arrival to here be quick.</NS></p>
+          <p>Third thing is <NS type="RD"><i>a</i><c>the</c></NS> telephone. It saves time. Whenever I do not know about something, I phone <NS type="MA"><c>someone</c></NS> and ask <NS type="MT"><c>about</c></NS> it.</p>
+          <p>All in all, I have been having many benefits from modern technology<NS type="MP"><c>,</c></NS> which is very useful. But it might be a problem, making me lazy.</p>
+          <p>Now, <NS type="R">the world is one end</NS> and I have to take advantage of modern technology for my future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

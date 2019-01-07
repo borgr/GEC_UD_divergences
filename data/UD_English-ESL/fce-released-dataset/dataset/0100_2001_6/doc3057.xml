@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE37*0100*2001*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Smith</p>
+          <p><NS type="RP"><i>my</i><c>My</c></NS> name is ..., I am a local student and <NS type="RP"><i>i</i><c>I</c></NS> will give you the requested information. The rooms for your students have been booked at the Palace Hotel near the <NS type="UP"><i>city-centre</i><c>city centre</c></NS>. The hotel is just three <NS type="RP"><i>busstops</i><c>bus stops</c></NS> away from our college<NS type="UP"><i>. So</i><c> so</c></NS> you and your students can take the bus from the central <NS type="RP"><i>busstation</i><c>bus station</c></NS> that is right in front of your hotel to get to the conference.</p>
+          <p>The end-of-conference party starts just one <NS type="SX"><i>our</i><c>hour</c></NS> after the end of the conference. It is located in our sports hall. There will be live music and a midnight dinner. <NS type="UC"><i>So you</i><c>You</c></NS> don't have to appear very <NS type="DY">noble</NS> dressed, just as you like <NS type="UA"><i>it</i></NS> (there is no <NS type="RN"><i>order</i><c>dress code</c></NS> - you may wear what you want).</p>
+          <p>For your last day I think it would be interesting to <NS type="S"><i>vistit</i><c>visit</c></NS> our <NS type="RJ"><i>historical</i><c>historic</c></NS> and famous <NS type="UP"><i>city-centre</i><c>city centre</c></NS>. I will organize a tourist guide to give us information about the old buildings and sights.</p>
+          <p>If you have any more questions<NS type="MP"><c>,</c></NS> write me a short letter.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>The invention of the car was a great point in history. From there on people <NS type="RV"><i>got</i><c>were</c></NS> mobile and had the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to travel wherever they wanted. <NS type="W"><i>Of course within</i><c>Within of course</c></NS> the physical barriers. People now had the chance to move to <NS type="RP"><i>far away</i><c>faraway</c></NS> places to spend their <NS type="S"><i>leassure</i><c>leisure</c></NS> time, to relax, or just to see something different than their <NS type="DN"><i>home-countryside</i><c>home</c></NS>.</p>
+          <p>In my life the car has an enormous influence. I come from a rural area. The next city is 15 km away and there is no <NS type="RJ">acceptable</NS> bus <NS type="UP"><i>-</i></NS> or rail connection to go there. It <NS type="TV"><i>has been</i><c>was</c></NS> <NS type="SX"><i>quiet</i><c>quite</c></NS> hard <NS type="RT"><i>to</i><c>for</c></NS> me not to have the <NS type="RN">opportunities</NS> for my free time like my friends <NS type="AGA"><i>that</i><c>who</c></NS> lived in or near the city. I just had no <NS type="RN"><i>possibility</i><c>way</c></NS> to meet them after school, because I had no vehicle to get there. I always needed my Mom or my Dad to take me where I wanted to go.</p>
+          <p>Today I have my own car and I use it daily to get to work and to meet my friends at any place and any time. So with my car I achieved <NS type="UD"><i>a</i></NS> great freedom. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR673*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Brown,</p>
+          <p>I'm writing this letter to you to make a <NS type="DN"><i>complain</i><c>complaint</c></NS> about the <NS type="W"><i>"Over the <NS type="RP"><i>rainbow</i><c>Rainbow</c></NS>" musical show</i><c>musical show "Over the Rainbow"</c></NS> which I saw yesterday. I have to say that I'm very disappointed with what I saw because <NS type="RT"><i>by</i><c>after</c></NS> <NS type="IV"><i>seing</i><c>seeing</c></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> I expected more<NS type="MP"><c>.</c></NS> <NS type="RD"><i>That</i><c>The</c></NS> show was entirely different to what it says <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> .</p>
+          <p>I arrived at the theatre at 19:30, found my seat and waited for forty-five minutes, with two hundred other people<NS type="MP"><c>,</c></NS> for the show to start.</p>
+          <p>When it finally started I noticed that the famous actor Danny Brook <NS type="TV"><i>was replaced</i><c>had been replaced</c></NS> by someone who was not as good as him. Danny Brook was the reason that most people came to see the show. After some time<NS type="MP"><c>,</c></NS> a few of them started to leave the theatre. I was a little more <NS type="S"><i>portient</i><c>patient</c></NS> so I stayed to watch the <NS type="SX"><i>hole</i><c>whole</c></NS> show, which by the way was the worst I <NS type="TV"><i>had</i><c>have</c></NS> ever seen. I don't know why I <NS type="IV"><i>payed</i><c>paid</c></NS> £20 with no <NS type="FN"><i>discounts</i><c>discount</c></NS><NS type="MP"><c>,</c></NS> <NS type="R"><i>as</i><c>which</c></NS> the advertisements said <NS type="RA"><i>it</i><c>I</c></NS> <NS type="S"><i>woul</i><c>would</c></NS> have. Then I <NS type="S"><i>thougt</i><c>thought</c></NS> that I should go to the theatre restaurant to have a drink or eat something so that I couldn't say that I <NS type="TV"><i>wasted</i><c>had wasted</c></NS> my time by coming here. I became furious when I saw that it was closed because there weren't any employees to <NS type="RV"><i>work</i><c>do</c></NS> <NS type="MD"><c>the</c></NS> <NS type="MN"><c>work</c></NS>.</p>
+          <p>So, I went home as fast as I could to write you this letter. I don't care what you <NS type="TV"><i>will do</i><c>do</c></NS> about the theatre but I want my money back because this wasn't the perfect evening out you promised it would be.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MT"><i>The</i><c>For the</c></NS> last forty years, technology has been growing very fast. <NS type="RP"><i>first</i><c>First</c></NS> it was used only by the military or by scientists but <NS type="MT"><c>for</c></NS> the last twenty years modern technology <NS type="TV"><i>is</i><c>has been</c></NS> found in any house, rich or poor<NS type="MP"><c>,</c></NS> and it helps people do hard work.</p>
+          <p>Most houses have many electric devices like <NS type="MD"><c>a</c></NS> microwave <NS type="UN"><i>machine</i></NS>, an oven<NS type="MP"><c>,</c></NS> a mixer, a <NS type="RP"><i>dish washer</i><c>dishwasher</c></NS> and many other things which can do a job <NS type="RT"><i>by</i><c>at</c></NS> the press of a button.</p>
+          <p><NS type="MT"><i>The</i><c>In the</c></NS> last ten <NS type="AGN"><i>year</i><c>years</c></NS> computers <NS type="TV"><i>had entered</i><c>have entered</c></NS> almost every house, especially in rich <NS type="IN"><i>countrys</i><c>countries</c></NS>. <NS type="S"><i>Competers</i><c>Computers</c></NS> <NS type="TV"><i>entirely changed</i><c>have entirely changed</c></NS> <NS type="MP"><i>people</i><c>people's</c></NS> lives. Children can play games on <NS type="AGA"><i>it</i><c>them</c></NS> or watch a film. There are millions of things you can do with a computer. You can listen to music and generally use it for fun but the primary reason that <NS type="FN"><i>computer</i><c>computers</c></NS> were invented was for communication. There are <NS type="S"><i>hundrets</i><c>hundreds</c></NS> of <NS type="S"><i>prograns</i><c>programs</c></NS> which help you communicate with your cousin in Australia or with a complete stranger <NS type="RA"><i>which</i><c>who</c></NS> you <NS type="L"><i>wanna</i><c>want to</c></NS> meet. Millions of people use computers for this reason.</p>
+          <p>The general conclusion about computers is that they help people to have easier lives by doing hard work and helping them. They are important to people who like to have fun with games and they are<NS type="UP"><i>,</i></NS> maybe the best way to communicate with someone you know or a person you want to meet<NS type="MP"><c>.</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

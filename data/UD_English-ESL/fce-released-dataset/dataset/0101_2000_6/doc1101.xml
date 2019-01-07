@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR447*0101*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Brown</p>
+          <p>I am writing to inform you about a party that we <NS type="TV"><i>decided</i><c>have decided</c></NS> to organise for Mr. Brown's birthday.</p>
+          <p>I want to ask you to come to our party and also to help us <NS type="RT"><i>about</i><c>with</c></NS> what present <NS type="W"><i><NS type="TV"><i>shall</i><c>should</c></NS> we</i><c>we should</c></NS> buy for Mr. Brown.</p>
+          <p>To begin with, I must explain to you that the party is a surprise for Mr. Brown and it <NS type="TV"><i>would</i><c>will</c></NS> take place on Tuesday 16th of June from 3:00 to 6:00 pm at the college canteen. Some of the children will bring food and also there <NS type="TV"><i>would</i><c>will</c></NS> be nice music too.</p>
+          <p>Also, I want to mention that all the class will come, all the teachers will be there, and the Principal will come too.</p>
+          <p>Finally, I want to ask you about Mr. Brown's present. We <NS type="MP"><i>dont</i><c>don't</c></NS> have any idea what to buy for him. Can you help us? I think that a good present could be a CD or a book. What do you think?</p>
+          <p>We hope to see you at the party and have a <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS> time together.</p>
+          <p>I will look forward to hearing from you soon.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>My favourite season of the year is summer. I think that most <NS type="U"><i>of the</i></NS> people love summer, especially the people in Greece. I <NS type="MP"><i>dont</i><c>don't</c></NS> know why but the summer <NS type="UA"><i>it</i></NS> is the most beautiful season. All the scenery with the lovely sun, the wonderful beaches, the green mountains and the smell of the sea, make me feel great.</p>
+          <p>I live in Greece, and <NS type="RY"><i>especially</i><c>to be exact</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> an island, so I know very well what summer means. It means swimming at the <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS> beaches, tasting the delicious <NS type="CN"><i>foods</i><c>food</c></NS> <NS type="SX"><i>ad</i><c>and</c></NS> having <NS type="MD"><c>a</c></NS> wonderful time every day and every night with your friends.</p>
+          <p>Also it means <NS type="FV"><i>to meet</i><c>meeting</c></NS> other people, <NS type="FV"><i>to have</i><c>having</c></NS> fun together, <NS type="FV"><i>to travel</i><c>travelling</c></NS> <NS type="RT"><i>at</i><c>to</c></NS> all the places <NS type="RT"><i>of</i><c>on</c></NS> the island. I think that the summer makes people <NS type="FV"><i>to feel</i><c>feel</c></NS> great, <NS type="FV"><i>to have</i><c>have</c></NS> fun, <NS type="FV"><i>to enjoy</i><c>enjoy</c></NS> themselves. I believe that the summer is a season for everybody who wants to have <NS type="MD"><c>a</c></NS> wonderful time and wonderful memories wherever <NS type="SX"><i>the</i><c>they</c></NS> go.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

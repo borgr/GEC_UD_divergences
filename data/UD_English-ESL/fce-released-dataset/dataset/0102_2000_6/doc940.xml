@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR387*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>During my holiday in London I decided to go to the theatre. I found your advertisement in the <NS type="RN"><i>tourism</i><c>tourist board</c></NS> <NS type="S"><i>officis</i><c>offices</c></NS> and <NS type="R"><i>how</i><c>as</c></NS> the musical "Over the rainbow" seemed to be a good option I <NS type="TV"><i>choose</i><c>chose</c></NS> it.</p>
+          <p>The problem is that there <NS type="AGV"><i>was</i><c>were</c></NS> some differences between the advertisement and the show <NS type="TV"><i>I've seen</i><c>I saw</c></NS>. First, Danny Brook wasn't the star that night, he was replaced by an actor that seemed <NS type="MT"><c>like</c></NS> a rookie. Another problem, the show started at 20:15 <NS type="R"><i>in the place</i><c>instead</c></NS> of 19:30 and when it finished I couldn't have <NS type="UD"><i>a</i></NS> dinner because the theatre's restaurant was closed (it closes at 22:00). Moreover, there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any discounts <NS type="IJ"><i>availables</i><c>available</c></NS> (I'm <NS type="MD"><c>a</c></NS> student but I paid <NS type="MT"><c>for</c></NS> a <NS type="RJ"><i>full</i><c>full-price</c></NS> ticket).</p>
+          <p><NS type="R">How it was explained above, I'm not satisfied</NS> and I want to be <NS type="MV"><c>given</c></NS> <NS type="MD"><c>a</c></NS> refund.</p>
+          <p>yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She's the sister of my ex-girlfriend<NS type="MP"><c>,</c></NS> <NS type="RA"><i>which</i><c>who</c></NS> is called Eingrid. She was a really nice person and loved me a lot. <NS type="R">We'll</NS> understand why I'm writing <NS type="RT"><i>in</i><c>about</c></NS> the past.</p>
+          <p>Last weekend we <NS type="RV"><i>diced</i><c>decided</c></NS> to go to the <NS type="S"><i>bach</i><c>beach</c></NS> with Pat and Nick (her boyfriend). When we arrived there Eingrid and Pat decided to <NS type="DV"><i>take a sunbath</i><c>sunbathe</c></NS> while I and Nik walked <NS type="RT"><i>in</i><c>on</c></NS> the sand. <NS type="RT"><i><NS type="S"><i>Lyter</i><c>Later</c></NS></i><c>After</c></NS> a long time walking we decided to return and <NS type="R"><i>how</i><c>now</c></NS> the weather was so hot we <NS type="MV"><c>decided</c></NS> <NS type="FV"><i>found</i><c>to find</c></NS> a place to drink something. Then I found an ex-girlfriend that Eingrid hates. We had a little conversation and suddenly she kissed me, but I refused to continue. I called Nick to go search <NS type="MT"><c>for</c></NS> the girls (he was in the WC) and said goodbye to <NS type="RA"><i>she</i><c>her</c></NS>.</p>
+          <p>When we met the girls Eingrid was furious, she said <NS type="MT"><c>to</c></NS> me that Pat had <NS type="TV"><i>saw</i><c>seen</c></NS> me kissing another girl and our relationship was over! I'm really very <NS type="DJ"><i>unlucked</i><c>unlucky</c></NS>. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

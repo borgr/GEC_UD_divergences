@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR340*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear sir or madam,</p>
+          <p>I have recently been on a holiday <NS type="RT"><i>in</i><c>to</c></NS> London. During my stay I went to see the musical "Over the Rainbow". Now I want to complain about a few things which made me very disappointed.</p>
+          <p>First the advertisement said that there were discounts available but there were not.</p>
+          <p>Secondly I <NS type="W"><i>also would</i><c>would also</c></NS> like to say that the musical was supposed to start at 19.30 but it did not start until 20.15. Finally when it started we noticed to our <NS type="DN"><i>suprisement</i><c>surprise</c></NS> that it was not the right actor <NS type="M"><c>on stage</c></NS>. Very disappointing<NS type="MP"><c>,</c></NS> as Danny Brook is my favourite actor. We <NS type="RV"><i>saw</i><c>watched</c></NS> the musical in sadness.</p>
+          <p>Afterwards we wanted to go for a <NS type="S"><i>pleasent</i><c>pleasant</c></NS> dinner. To our surprise the restaurant was closed because <NS type="MT"><c>of</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> lack of staff to keep it open.</p>
+          <p>It was certainly not a perfect night out. I would be very pleased if I could have my money back. I hope to receive <NS type="UD"><i>the</i></NS> payment as soon as possible.</p>
+          <p>Yours faithfully</p>
+          <p>FREDA SVENSSEN</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Fashion of the future</p>
+          <p>What will clothes be like 100 years from now? In what way will they change? Of course nobody knows the answer and maybe we should be happy <NS type="RT"><i>for</i><c>about</c></NS> that.</p>
+          <p>I gave it <NS type="R"><i>a</i><c>some</c></NS> thought the other day and when I think about future-clothing I can't take my mind <NS type="RT"><i>from</i><c>off</c></NS> <NS type="UP"><i>plastic-fabrics</i><c>plastic fabrics</c></NS>. My conclusion is that people will wear less and thinner clothes.</p>
+          <p>I mean when the <NS type="RP"><i>earth's</i><c>Earth's</c></NS> getting warmer and warmer because of <NS type="RD"><i>an</i><c>the</c></NS> pollution that we people <NS type="RV"><i>cause</i><c>create</c></NS> <NS type="MT"><c>in</c></NS> the world. Maybe in the future they'll find <NS type="UY"><i>out</i></NS> a new fabric which protects you from dirt and dangerous sunshine.</p>
+          <p>Maybe everybody will end up wearing shorts and skirts. <NS type="RJ"><i>Strict</i><c>Formal</c></NS> suits will be transformed into <NS type="UD"><i>a</i></NS> school-uniform-like <NS type="AGN"><i>shirt</i><c>shirts</c></NS> and <NS type="DJ"><i>knee-lengthed</i><c>knee-length</c></NS> shorts.</p>
+          <p>Anyway<NS type="MP"><c>,</c></NS> we <NS type="S"><i>defenately</i><c>definitely</c></NS> <NS type="SX"><i>now</i><c>know</c></NS> that they're going to change. If we live long enough we'll be able to find out <NS type="MY"><c>how</c></NS>, so keep living!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

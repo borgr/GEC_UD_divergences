@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR512*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Manager</p>
+          <p>I'm writing to complain about <NS type="MD"><c>the</c></NS> poor <NS type="CN"><i>administrations</i><c>administration</c></NS> of your theatre<NS type="RP"><i>. Because</i><c>, because</c></NS> the advertisement for <NS type="MD"><c>the</c></NS> show and the <NS type="RJ"><i>real</i><c>actual</c></NS> show were completely different.</p>
+          <p>First of all, as you can see Starring was Danny Brook and Tina Truelove <NS type="RT"><i>on</i><c>in</c></NS> your advertisement but when I sat <NS type="MT"><c>in</c></NS> my seat, <NS type="MD"><c>a</c></NS> different actor and actress appeared. I was very disappointed because I was longing <NS type="UT"><i>for</i></NS> <NS type="FV"><i>seeing</i><c>to see</c></NS> them<NS type="MP"><c>,</c></NS> as a fan. Moreover, the show didn't start in time so I had been waiting for ages.</p>
+          <p>In addition, when I entered <NS type="UT"><i>into</i></NS> the theatre I couldn't have <NS type="MD"><c>a</c></NS> discount in spite of <NS type="MV"><c>being</c></NS> <NS type="MD"><c>a</c></NS> student and I couldn't use <NS type="UT"><i>in</i></NS> your restaurant either after the show. <NS type="RT"><i>In</i><c>At</c></NS> that time, it was closed because it had been being repaired. <NS type="TV"><i>It's</i><c>It was</c></NS> nonsense, wasn't it?</p>
+          <p>Anyway, it was not "My perfect Evening out" but I think that it was a kind of "contract infringement" so I would like to ask for my money back.</p>
+          <p>I look forward to hearing from you soon</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed our daily life? Of course, our life will be completely changed. However, we have to consider <NS type="R"><NS type="UT"><i>about</i></NS> our nature and <NS type="UP"><i>human-being</i><c>human being</c></NS></NS>.</p>
+          <p>First of all, the developed technology and science will make our life more convenient than now. All your <NS type="RN"><i><NS type="CN"><i>stuffs</i><c>stuff</c></NS></i><c>tasks</c></NS> will be performed by <NS type="UD"><i>the</i></NS> computers. For example, if you watch "The Star Trek" - science fiction programme on TV, you will realise that you <NS type="W"><i>just can</i><c>can just</c></NS> say "Do it" and then the computers will do it.</p>
+          <p>However, there are some problems. If all your <NS type="RN">staffs</NS> are fulfilled by <NS type="UD"><i>the</i></NS> computers, we might be idler than now. Moreover, we have to consider <NS type="UT"><i>about</i></NS> our <NS type="RN"><i>nature</i><c>environment</c></NS>. As you know, even now, science and technology are destroying our environment, for example weird temperature etc. If we don't protect our environment, our daily life will not be convenient. Rather<NS type="MP"><c>,</c></NS> our daily life will be deteriorated.</p>
+          <p>To sum up, future civilization is important for us. If there is <NS type="R">no our good nature,</NS> our daily life will be unhappy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

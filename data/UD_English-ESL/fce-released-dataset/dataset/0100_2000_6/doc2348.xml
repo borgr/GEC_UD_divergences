@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR941*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>It would be a great <NS type="S"><i>plessure</i><c>pleasure</c></NS> to spend two weeks at Camp California and I can't find any suitable words to express my enthusiasm. First of all, as a reply <NS type="RT"><i>for</i><c>to</c></NS> your letter, I'd like to say, that I can only go on this camp in July because I have a full-time job and it is essential not to leave it for a long time. In July I can make an exception. <NS type="RT"><i>According to</i><c>With regards</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would prefer log cabins, as they are more comfortable and I like convenience. As <NS type="RT"><i>to</i><c>for</c></NS> the list of activities<NS type="MP"><c>,</c></NS> I choose climbing and surfing. I like new challenges, even when I've never done them before, and I'm really looking forward to gaining this new kind of experience. If you don't mind I would like to ask you some vital questions. Do I have to take warm clothes? How much money would you recommend me to take?</p>
+          <p>I would appreciate <NS type="MA"><c>it</c></NS> if you <NS type="TV"><i>send</i><c>sent</c></NS> me a reply <NS type="RT"><i>for</i><c>to</c></NS> my Questions as soon as possible</p>
+          <p>Yours faithfully</p>
+          <p>Tadeusz Ochman</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>,,Shopping is not always enjoyable". From my point of view it is a very controversial issue, and we can't just easily claim whether it is enjoyable or not. It only depends on the person who is actually doing it and some convenient circumstances like a huge amount of money <NS type="RT"><i>on</i><c>in</c></NS> our bank account. Some people don't like doing shopping at all and they can well explain to everyone why it isn't enjoyable. Luckily, I'm one of these people. First of all, shopping is a waste of time. People just run from one shop to another and they just can't decide what to buy. During the rush hour, shopping is almost impossible due to big queues in every single shop in the nearby area. I just can't understand people who<NS type="MP"><c>,</c></NS> with <NS type="MD"><c>a</c></NS> smile on their faces<NS type="MP"><c>,</c></NS> spend their last money on unnecessary but expensive things. They are ready to <NS type="S"><i>sacrifise</i><c>sacrifice</c></NS> all their savings to get something that will make their <NS type="SA"><i>neighbor</i><c>neighbour</c></NS> <NS type="S"><i>jelous</i><c>jealous</c></NS>.</p>
+          <p>So, as a <NS type="S"><i>conlusion</i><c>conclusion</c></NS>, I might say that shopping isn't enjoyable at all and I'd rather stay at home instead.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

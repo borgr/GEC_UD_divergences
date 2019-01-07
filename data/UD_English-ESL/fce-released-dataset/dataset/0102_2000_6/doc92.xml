@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR373*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>To <NS type="S"><i>whome</i><c>whom</c></NS> it may concern,</p>
+          <p>I am writing to tell <NS type="MA"><c>you</c></NS> that I had a very disappointing evening <NS type="RT"><i>regarding</i><c>at</c></NS> a musical show at your theatre. There are some things that I was not completely satisfied with and I would like to point them out.</p>
+          <p>Firstly, the advertisement <NS type="RV"><i>told</i><c>said</c></NS> that Danny Brook was going to <NS type="S"><i>starr</i><c>star</c></NS> in <NS type="RD"><i>a</i><c>the</c></NS> musical but it turned out <NS type="MV"><c>to be</c></NS> a completely different person<NS type="MP"><c>,</c></NS> which was very disappointing. It was very unprofessional of you to <NS type="FV"><i>had</i><c>have</c></NS> <NS type="RV">printed</NS> <NS type="RD"><i>a</i><c>the</c></NS> wrong <NS type="DN">starring name</NS> <NS type="RT"><i>on</i><c>in</c></NS> the paper. Secondly, according to the <NS type="S"><i>advertisment</i><c>advertisement</c></NS>, the musical was <NS type="S"><i>supprsed</i><c>supposed</c></NS> to start at 19.30 but it actually started at 20.15<NS type="MP"><c>,</c></NS> which caused me <NS type="UD"><i>a</i></NS> <NS type="FN"><i><NS type="RN"><i>trouble</i><c>problem</c></NS></i><c>problems</c></NS>. As for my ticket, I was expecting to get a discount as a student, as it said <NS type="R"><i>so</i><c>I would</c></NS> in the advertisement<NS type="RP"><i>, however</i><c>. However</c></NS>, <NS type="X"><i>it was not</i><c>none was</c></NS> <NS type="RY">actually</NS> available<NS type="MP"><c>,</c></NS> which was very disappointing again. Then, I was hoping to have a meal at the theatre restaurant<NS type="MP"><c>,</c></NS> which was recommended in the advertisement<NS type="RP"><i>, however</i><c>. However</c></NS>, it was not possible for me to do so as the restaurant was closed due to the <NS type="RN"><i>stuff</i><c>staff</c></NS> vacation<NS type="MP"><c>,</c></NS> which I thought was very unprofessional.</p>
+          <p>With all the <NS type="S"><i>dissatisfuction</i><c>dissatisfaction</c></NS> above, therefore, I would like to ask for some of my money back as my evening was not what it <NS type="RV"><i>would</i><c>should</c></NS> have <NS type="TV"><i>to be</i><c>been</c></NS>.</p>
+          <p>I hope that you will consider this letter <NS type="RY"><i>seriously</i><c>carefully</c></NS> and try to improve your <NS type="RN">service</NS>.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. How did we know that she was that kind of person? Well, it all <NS type="TV"><i>begun</i><c>began</c></NS> when Pat's friend, Molly, went down to London...</p>
+          <p>Molly went down to London for <NS type="MD"><c>the</c></NS> shopping and as she was walking <NS type="MT"><c>along</c></NS> the street<NS type="RP"><i>. She</i><c>, she</c></NS> <NS type="RV"><i>found</i><c>saw</c></NS> <NS type="MQ"><c>some</c></NS> <NS type="S"><i>familier</i><c>familiar</c></NS> faces on the other side of the street. It was Vance and Sally<NS type="MP"><c>,</c></NS> whom she had not seen for ages. Pat, too, <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="MD"><c>a</c></NS> friend of <NS type="RA"><i>them</i><c>theirs</c></NS> and has seen them <NS type="MT"><c>from</c></NS> time to time.</p>
+          <p>Molly, Vance and Sally had a quick chat and said good-bye to each other as, to Molly, they seemed to be in a hurry and as Molly knew that they <NS type="TV"><i>have</i><c>had</c></NS> been dating, she wanted them to enjoy their <NS type="UJ"><i>own</i></NS> time <NS type="MY"><c>together</c></NS>.</p>
+          <p><NS type="R"><i>After</i><c>When</c></NS> Molly went back home <NS type="RT"><i>in</i><c>to</c></NS> Aberdeen, she told Pat that she had met Vance and Sally in London. Then<NS type="MP"><c>,</c></NS> suddenly, <NS type="R">Pat's face turned</NS> to look confused and <NS type="MA"><c>she</c></NS> said in a small voice, '<NS type="TV"><i>Haven't they broken</i><c>Didn't they break</c></NS> up <NS type="MD"><c>a</c></NS> long time ago? Sally must have a new <NS type="RP"><i>boy friend</i><c>boyfriend</c></NS>'. As Molly didn't know this, she was so surprised and tried to ask more about it. Then, Pat realized that it was supposed to be kept <NS type="UT"><i>as</i></NS> a secret but it just came out of her mouth! She didn't mean to do <NS type="R"><i>so</i><c>it</c></NS>, but this kind of thing happens a lot. Now Pat is feeling so guilty about what she has done because Molly isn't good at keeping secrets either! Everyone is going to know that Sally has been cheating both on Vance and her new boyfriend and <NS type="UD"><i>the</i></NS> <NS type="RP"><i>Poor</i><c>poor</c></NS> Vance is always the last person to know <NS type="UA"><i>it</i></NS>. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

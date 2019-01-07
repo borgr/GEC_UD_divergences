@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR442*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>Thank you for the letter you wrote to me to inform me about the prize I won. I was so happy! I couldn't believe it.</p>
+          <p>If it is possible I would like to travel in July because school is finishing on the 28th June and I have already <NS type="SX"><i>excepted</i><c>accepted</c></NS> a job <NS type="RT"><i>in</i><c>for</c></NS> August.</p>
+          <p>I think it would be fun to stay in a tent those two weeks<NS type="RP"><i>,</i><c>.</c></NS> I have never done that before, <NS type="R"><i>by</i><c>but</c></NS> my friends told me that I would enjoy it.</p>
+          <p>As you offer many activities it was hard to choose which ones I want to do, but I <NS type="S"><i>dicided</i><c>decided</c></NS> to take swimming and photography, because I am very good at swimming and because <NS type="W"><i>currently I am</i><c>I am currently</c></NS> attending a photography course in Vienna. I am not very experienced but I think that I will find a lot of beautiful <NS type="RN">motives</NS> in the USA.</p>
+          <p><NS type="RA"><i>I</i><c>It</c></NS> would be very kind if you could inform me about how much money I have to take with me and <NS type="RQ"><i>which</i><c>what</c></NS> clothes I will need.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thank you for the card you wrote to me<NS type="RP"><i>,</i><c>.</c></NS> I hope you enjoyed your holidays.</p>
+          <p>I spent some great days in Vienna where I had the chance to help at the <NS type="W"><i>concert of <NS type="RP"><i>"pearl jam"</i><c>Pearl Jam</c></NS></i><c>Pearl Jam concert</c></NS>.</p>
+          <p>The first thing I did<NS type="W"><i>was to <NS type="RV"><i><NS type="S"><i>controll</i><c>control</c></NS></i><c>check</c></NS> the tickets of the fans who <NS type="RV"><i>visited</i><c>came</c></NS> <NS type="MT"><c>to</c></NS> the concert together with a friend of mine</i><c>, together with a friend of mine, was to check the tickets of the fans who came to the concert</c></NS>.</p>
+          <p>There <NS type="W"><i>always was</i><c>was always</c></NS> a lot of security stuff around us to make sure <NS type="RP"><i>every thing</i><c>everything</c></NS> <NS type="TV"><i>is</i><c>was</c></NS> <NS type="RP"><i>ok</i><c>OK</c></NS>, because there really were <NS type="S"><i>thousends</i><c>thousands</c></NS> of <NS type="L"><i>persons</i><c>people</c></NS>.</p>
+          <p>Then we had time to listen to the music.</p>
+          <p>The other thing I had to do was to make some sandwiches and drinks just before they returned <NS type="R"><i>behind the stage</i><c>backstage</c></NS> to rest a little bit before they continued playing. It was amazing to be in the same room they were <NS type="MT"><c>in</c></NS>. Edi Vedder even talked to me about their <NS type="RN"><NS type="S"><i>programms</i><c>programmes</c></NS></NS>!</p>
+          <p>I think that I will never see them again <NS type="RY"><i>personally</i><c>face-to-face</c></NS>, but I will never forget those two days - being so close to them, unbelievable!</p>
+          <p>Hope to see you soon !</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

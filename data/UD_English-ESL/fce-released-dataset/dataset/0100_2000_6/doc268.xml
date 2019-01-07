@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1082*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>12.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan,</p>
+          <p>I am really pleased <NS type="FV"><i>hearing</i><c>to hear</c></NS> from you<NS type="R"><i>,</i><c> that</c></NS> I won the prize. So I can go camping for two weeks. It must be great.</p>
+          <p>As regards your questions, I would like to travel in July because at the moment I am a student and my summer holiday will start on 27th June so I can go to <NS type="MD"><c>the</c></NS> U.S.A in July and I prefer staying in tents because I have never experienced camping in <NS type="RD"><i>the</i><c>a</c></NS> tent. So exciting!</p>
+          <p>And I would like to have chances to play tennis and go swimming. In <NS type="MD"><c>the</c></NS> case of swimming, I am really good at it but I just started playing tennis <NS type="W"><i><NS type="RY"><i>before</i><c>ago</c></NS> 3 weeks</i><c>3 weeks ago</c></NS>. However, I am <NS type="RY"><i>very</i><c>really</c></NS> enjoying playing tennis.</p>
+          <p>Further, I have a question. Actually I have never <NS type="RV"><i>gone</i><c>been</c></NS> camping so I really have no idea about that. I wonder which clothes are suitable for your camping. And How about the money? Do you <NS type="RV"><i>think</i><c>know</c></NS> if there <NS type="AGV"><i>is</i><c>are</c></NS> some occasions to spend money or not? I am really <NS type="RV"><i>expecting</i><c>looking forward to</c></NS> going camping</p>
+          <p>Yours sincerely</p>
+          <p>JAE KWAI</p>
+         </coded_answer>
+     </answer1>
+  </text>
+</head></learner>

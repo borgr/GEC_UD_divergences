@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1115*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>A few days ago, as I was having a week's holiday in London, I read your advertisement<NS type="MP"><c>,</c></NS> which convinced me to go to see your show: Over The Rainbow. I must tell you that this show was the worst one I had ever been to.</p>
+          <p>First of all, I was very disappointed by the fact that the actors who <NS type="RV"><i>played</i><c>performed</c></NS> were not the ones who were supposed to <NS type="RV"><i>do</i><c>be</c></NS> <NS type="RA"><i>it</i><c>there</c></NS>!</p>
+          <p>I was all the more angry as the show started at 20:15 instead of 19:30<NS type="MP"><c>,</c></NS> as <NS type="UA"><i>it</i></NS> was written in your ad! Another problem: there was no discount available!</p>
+          <p>Finally, at the end of this very disappointing evening, I decided to go to the theatre restaurant - which was also mentioned in your ad - but I was told that this <NS type="UA"><i>latter</i></NS> was closed <NS type="R"><i>because of</i><c>for</c></NS> a private party!</p>
+          <p>To put it in a nutshell, contrary to what was <NS type="RV"><i>explained</i><c>described</c></NS> in the advertisement, it was not my perfect evening out and that is why I would like to get my money back.</p>
+          <p>I look forwards to hearing from you</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. When you told her something important, she could not help telling it to someone else so as not to be the only one to know it. Actually, even though she was seventeen, she still behaved like a <NS type="MP"><i>ten year old</i><c>ten-year-old</c></NS> child and it was very difficult for her to know that she could not do or tell something - like a secret<NS type="MP"><c>,</c></NS> for example. Thus when Sally explained <NS type="MT"><c>to</c></NS> her that she had fallen in love with Kevin, Pat felt very <NS type="RJ"><i><NS type="S"><i>embarassed</i><c>embarrassed</c></NS></i><c>awkward</c></NS>. In fact, she knew that even if Sally was her best friend, she would not be able to keep such a secret. It might seem a bit strange but if Pat had been able to choose whether she wanted to know a secret or not, she would have <NS type="IV"><i>prefered</i><c>preferred</c></NS> not to know it. Pat was totally upset. She felt all the more ill at ease as Sally trusted her. Thus when Sally asked her not to reveal the secret, Pat ran away, <NS type="SX"><i>when</i><c>went</c></NS> home, <NS type="MC"><c>and</c></NS> locked herself in her bedroom. But when she saw the phone that she used in order to call her friends, she started to cry since she knew that she would use it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

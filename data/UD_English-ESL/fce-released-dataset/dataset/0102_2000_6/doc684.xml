@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR265*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>17-6-00</p>
+          <p>Dear Sir/Madam:</p>
+          <p>I am writing to complain about the musical show<NS type="RP"><i>:</i><c>,</c></NS> Over the Rainbow, presented in your theatre on 15th of June.</p>
+          <p>I went to the theatre to buy the ticket and expected to <NS type="RV"><i>have</i><c>get</c></NS> a discount as I was a student. However, the salesman in the box office told me the discount tickets had <NS type="TV"><i>been sold</i><c>sold</c></NS> out. I could not understand why but <NS type="MA"><c>I</c></NS> still bought the ticket because I was crazy about Danny Brook. Then, I went into the theatre on time but became a little bit angry <NS type="RT"><i>for</i><c>after</c></NS> waiting until 20:15, forty-five minutes after the expected starting time. Furthermore, I was so disappointed to find out that Danny Brook was not on the stage and the leading actor sang so <NS type="DY"><i>bad</i><c>badly</c></NS> that I left the theatre before it finished. <NS type="RY"><i>At last</i><c>Last</c></NS>, I went to the theatre restaurant but it was closed because it needed cleaning.</p>
+          <p>I think it was definitely not <NS type="RD"><i>a</i><c>the</c></NS> perfect evening <NS type="UT"><i>as</i></NS> <NS type="S"><i>garenteed</i><c>guaranteed</c></NS> in your advertisement. I look forward to having a full refund in the very near future as I did not enjoy it at all.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Now everybody in the class knew my mum was a cleaner and teased me for having <NS type="RD"><i>such</i><c>that</c></NS> kind of mum. I was so sad about it and did not forgive Pat even though she <NS type="TV"><i><NS type="AGV"><i>apologise</i><c>apologises</c></NS></i><c>apologised</c></NS> <NS type="UT"><i>for</i></NS> thousands of times.</p>
+          <p>A week later, when I was still in a bad mood, my form teacher, Mrs Brown, talked about jobs in our English lesson. She told us there were numerous types of job in the world. Some offered a high salary while some did <NS type="MY"><c>not</c></NS>. However, they are <NS type="DY"><i>equal</i><c>equally</c></NS> important for our society. 'Who wants to be a doctor?' She asked. Many students raised their hands. 'Who wants to be a lawyer?' Again, many students put up their hand. But when she asked who wanted to be a cleaner, nobody raised his hand and I felt so <NS type="RJ"><i>shameful</i><c>ashamed</c></NS> that I lowered my head. 'Cleaner is a very good job.' Mrs Brown said <NS type="RT"><i>with</i><c>in</c></NS> a loud voice. 'If there were no <NS type="AGN"><i>cleaner</i><c>cleaners</c></NS>, who would clean the school for us<NS type="RP"><i>, who</i><c>? Who</c></NS> would keep the environment nice and tidy<NS type="RP"><i>.</i><c>?</c></NS>' Suddenly, all <NS type="RD"><i>the</i><c>my</c></NS> classmates applauded and smiled <NS type="RT"><i>to</i><c>at</c></NS> me with respect. The teacher also grinned and I was so impressed and repeated the words in my heart: 'All <NS type="UD"><i>the</i></NS> jobs have the same importance.'</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

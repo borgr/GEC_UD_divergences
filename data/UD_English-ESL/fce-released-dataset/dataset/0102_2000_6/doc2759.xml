@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1118*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>Last night I went to the Circle Theatre to see the show "Over the Rainbow", and I have to say that I had a very disappointing evening, even though I heard that the show was exciting.</p>
+          <p>Two days before I read <NS type="RD"><i>the</i><c>an</c></NS> <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for this show, <NS type="R"><i>where</i><c>which</c></NS> <NS type="M"><c>said that</c></NS> Danny Brook was starring. Unfortunately<NS type="MP"><c>,</c></NS> last evening there was a different actor and that was very disappointing.</p>
+          <p>Apart from that<NS type="MP"><c>,</c></NS> the show started at 20:15<NS type="MP"><c>,</c></NS> not at 19:30, as it <NS type="UV"><i>is</i></NS> <NS type="RV"><i>written</i><c>said</c></NS> in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> and the theatre restaurant was closed when the show finished.</p>
+          <p>I am in London for a week and I <NS type="TV"><i>had</i><c>have</c></NS> to say that last evening I had an awful time, so I want some of my money back.</p>
+          <p>I am looking forward to <NS type="FV"><i>receive</i><c>receiving</c></NS> your reply with my money.</p>
+          <p>Yours faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>Pat and I had been friends for a long time and as my best friend he knew all my secrets.</p>
+          <p>Yesterday afternoon, when I went home, my mother <NS type="TV"><i>want</i><c>wanted</c></NS> to talk <NS type="MT"><c>to</c></NS> me <NS type="RT"><i>for</i><c>about</c></NS> something, so I went <NS type="RT"><i>in</i><c>into</c></NS> her bedroom to speak <NS type="RT"><i>with</i><c>to</c></NS> her. She told me that she knew that last Saturday I went <NS type="RT"><i>in</i><c>to</c></NS> a party without <NS type="FV"><i>asked</i><c>asking</c></NS> her and that she had to punish me for that. She told me that I had to stay at home <NS type="RT"><i>for</i><c>at</c></NS> <NS type="RD"><i>that</i><c>the</c></NS> weekend and not <NS type="FV"><i>to go out</i><c>go out</c></NS> with my friends.</p>
+          <p>When I went <NS type="RT"><i>in</i><c>to</c></NS> my bedroom I <NS type="S"><i>reliased</i><c>realised</c></NS> that Pat had told my mother <NS type="RT"><i>for</i><c>about</c></NS> the party, because <NS type="RP"><i>noone</i><c>no one</c></NS> else knew that my mother did not know that <NS type="M"></NS><NS type="MP"><c>.</c></NS></p>
+          <p>I called him and we had a big argument. Pat is not a reliable person<NS type="MP"><c>,</c></NS> so he is not my best friend anymore.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

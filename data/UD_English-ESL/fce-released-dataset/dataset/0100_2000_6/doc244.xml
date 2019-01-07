@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR983*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I have just received your letter which made me so happy<NS type="MP"><c>.</c></NS> <NS type="UC"><i>and</i></NS> I am writing to <NS type="RV"><i>apply</i><c>reply</c></NS> <NS type="MT"><c>to</c></NS> your questions.</p>
+          <p>First of all, I can travel only <NS type="MT"><c>in</c></NS> July because my son's school is going to finish at the end of June, so it is impossible for me to travel during <NS type="UT"><i>on</i></NS> June. Apart from that<NS type="MP"><c>,</c></NS> I work in an international tourism agency and August is the busiest month of the year<NS type="MP"><c>,</c></NS> so July is the best choice for me.</p>
+          <p>I would rather stay in <NS type="MD"><c>a</c></NS> <NS type="FN"><i>tents</i><c>tent</c></NS> because I used to go camping when I was a teenager with my family. I have always loved camping.</p>
+          <p>My favourite hobby is photography and I think I am very good at it. I have been taking photographs since I was 17. I took some lessons and after that I <NS type="TV"><i>have really improved</i><c>really improved</c></NS> <NS type="UA"><i>it</i></NS>. <NS type="RT"><i>Beside</i><c>Besides</c></NS> this, I am very good at playing basketball. I used to play in <NS type="MD"><c>the</c></NS> high <NS type="UP"><i>school's</i><c>school</c></NS> team.</p>
+          <p>Also, I have some questions. I have never been to California before so I have no idea about the climate. Could you please give me some information about it and what kind of clothes <NS type="W"><i>should I</i><c>I should</c></NS> bring for my holiday. Besides, I really would like to know<NS type="UP"><i>,</i></NS> <NS type="S"><i>approxiametely</i><c>approximately</c></NS> how much money <NS type="W"><i>should I</i><c>I should</c></NS> take with me<NS type="RP"><i>?</i><c>.</c></NS> Is it an expensive city?</p>
+          <p>I hope all <NS type="AGD"><i>those</i><c>this</c></NS> information will help you.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I am so sorry that I couldn't write <NS type="MT"><c>to</c></NS> you last week. As you know, I was very busy and excited about a pop concert which I worked <NS type="MT"><c>at</c></NS> as a director's assistant during the last week.</p>
+          <p>First of all, it was a very successful concert and probably you have heard the singer's name before<NS type="MP"><c>,</c></NS> <NS type="RA"><i>who</i><c>she</c></NS> is called Tina.</p>
+          <p>As a director's assistant<NS type="MP"><c>,</c></NS> my job was <NS type="MD"><c>the</c></NS> <NS type="RN"><i>arrangement</i><c>organisation</c></NS> of the audience's seats and tickets. <NS type="R">All seats were brought from a sponsor company</NS>. <NS type="RP"><i>Everyday</i><c>Every day</c></NS> I worked for two hours in a shop <NS type="FV"><i>to <NS type="DV"><i>sale</i><c>sell</c></NS></i><c>selling</c></NS> tickets. It was quite enjoyable because <NS type="RP"><i>everyday</i><c>every day</c></NS> I met different people who like listening <NS type="UD"><i>the</i></NS> <NS type="MT"><c>to</c></NS> pop music so we had lots of things to talk about. I also helped <NS type="MT"><c>with</c></NS> <NS type="W"><i>the singer's some special <NS type="RN"><i>demands</i><c>requests</c></NS></i><c>some special requests of the singer</c></NS> which weren't so difficult to <NS type="RV"><i>do</i><c>arrange</c></NS>. She was very nice and friendly.</p>
+          <p><NS type="RT"><i>At</i><c>On</c></NS> the <NS type="W"><i>concert night</i><c>night of the concert</c></NS>, I worked as well.</p>
+          <p>After the concert<NS type="MP"><c>,</c></NS> I was absolutely exhausted but the thing is I will never forget this experience. I met lots of people who were very famous. The best thing was of course <NS type="MV"><c>meeting</c></NS> Tina. We promised each other to keep in touch and she has invited me <NS type="MT"><c>to</c></NS> her next concert!</p>
+          <p>So, <NS type="R"><i>my news <NS type="AGV"><i>are</i><c>is</c></NS> finished</i><c>that's all my news</c></NS>. Write <NS type="UA"><i>me</i></NS> back soon.</p>
+          <p>Love from,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

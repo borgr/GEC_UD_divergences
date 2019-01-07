@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1037*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sirs,</p>
+          <p>Two weeks ago, I came to London for a week's holiday. During my stay in your city, I had the opportunity to <NS type="RV"><i>assist to</i><c>attend</c></NS> your show named 'Over the rainbow' after having read an advertisement in the magazine 'Going-out'<NS type="MP"><c>,</c></NS> <NS type="UT"><i>of</i></NS> the 1st of June <NS type="MN"><c>issue</c></NS>.</p>
+          <p>I'm writing to you in order to complain about this show. The problems started when we arrived at the Theatre: my <NS type="MP"><i>6 year old</i><c>6-year-old</c></NS> son had to pay <NS type="MD"><c>the</c></NS> full price. Then, even if we could enter <NS type="UT"><i>in</i></NS> the <NS type="RN"><i>room</i><c>theatre</c></NS>, the show didn't start before 20:15, which is 45 minutes later than <NS type="TV"><i>expects</i><c>expected</c></NS>. Indeed, we are still waiting <NS type="RT"><i>on</i><c>for</c></NS> Danny Brook who was not in the <NS type="RN"><i>piece</i><c>play</c></NS>. And last, at the end of the <NS type="RN"><i>program</i><c>performance</c></NS>, we would <NS type="TV"><i>like</i><c>have liked</c></NS> to have a drink in the theatre Restaurant, but it was already closed due to the poor attendance.</p>
+          <p>As this evening was for my family and <NS type="UA"><i>I</i></NS> a wasted one, I permit myself to ask you for <NS type="MD"><c>a</c></NS> refund.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Yours faithfully</p>
+          <p>JANN BRUL</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p><NS type="ID"><i>There is no need to be a <NS type="S"><i>genious</i><c>genius</c></NS></i><c>You don't have to be a genius</c></NS> to notice that technology has <NS type="DV"><i>evoluated</i><c>evolved</c></NS> so considerably during the last <NS type="MQ"><c>few</c></NS> decades that our everyday life has changed.</p>
+          <p>From my point of view, modern technology has <NS type="UJ"><i>first</i></NS> <NS type="TV"><i>permit</i><c>permitted</c></NS> <NS type="UT"><i>to</i></NS> me to find a job as I work as a computer engineer. In this domain, you have to <NS type="RV">afford</NS><NS type="MP"><c>,</c></NS> <NS type="RP"><i>everyday</i><c>every day</c></NS><NS type="MP"><c>,</c></NS> the development of new technology. And as new discoveries bring new discoveries, progress is going faster and faster.</p>
+          <p>The advantage of this is that you need to <NS type="MV"><c>take</c></NS> <NS type="MT"><c>an</c></NS> interest <NS type="UA"><i>yourself</i></NS> in <NS type="RA"><i>all</i><c>everything</c></NS> if you don't want to be <NS type="ID"><i>put on the side</i><c>left on the shelf</c></NS>. And so, your life is not boring at all as you learn new things <NS type="RP"><i>everyday</i><c>every day</c></NS>. <NS type="ID"><i>In the other hand</i><c>On the other hand</c></NS>, you cannot <NS type="RV"><i>stay quiet</i><c>rest</c></NS> for 2 <NS type="AGN"><i>week</i><c>weeks</c></NS> as some new inventions come out every day.</p>
+          <p>Finally, new technology <NS type="AGV"><i>have</i><c>has</c></NS> a great influence on my life as it permits me to live on. But, who knows, may be one day I will develop <NS type="MD"><c>a</c></NS> technology that will send me <NS type="R"><i>right</i><c>straight</c></NS> to the unemployment office!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

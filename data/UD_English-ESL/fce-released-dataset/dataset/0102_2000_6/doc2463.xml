@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR993*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>To the manger of the Circle Theatre Mr Smith</p>
+          <p>Caen, Saturday June 17th</p>
+          <p>Mr Smith,</p>
+          <p>I have recently been to London on <NS type="UD"><i>a</i></NS> holiday <NS type="UN"><i>trip</i></NS> so I decided to spend my <NS type="UP"><i>free-time</i><c>free time</c></NS> going to the musical show you were advertising <NS type="UT"><i>for</i></NS>. It seemed very attractive and the <NS type="UJ"><i>different</i></NS> <NS type="CN"><i>informations</i><c>information</c></NS> on the ad pushed me into going to it.</p>
+          <p>Unfortunately, I've been really disappointed. I'm not keen on liars<NS type="MP"><c>,</c></NS> Mr Smith<NS type="MP"><c>,</c></NS> and I think that you've lied to <NS type="UD"><i>such</i></NS> naive <NS type="AGN"><i>tourist</i><c>tourists</c></NS> like us: some brilliant actors were supposed to play the <NS type="AGN"><i>part</i><c>parts</c></NS> and we only had different<NS type="MP"><c>,</c></NS> <NS type="UC"><i>and</i></NS> <NS type="DJ"><i>pityful</i><c>pitiful</c></NS> ones. Moreover the show was expected to begin at 19.30 but it was delayed <NS type="RT"><i>of</i><c>by</c></NS> forty-five minutes. It is a shame! I ought not to talk about the restaurant<NS type="MP"><c>,</c></NS> <NS type="M"><c>which was</c></NS> closed for no apparent reasons</p>
+          <p>You had promised a perfect evening but I <NS type="TV"><i>spend</i><c>spent</c></NS> <NS type="FD"><i>an</i><c>a</c></NS> horrible one <NS type="MY"><c>there</c></NS> and you ruined my holiday!</p>
+          <p><NS type="ID"><i>What are you mistaken us for</i><c>What do you take us for</c></NS>, Mr Smith? Foolish idiots? We did not deserve such <NS type="MD"><c>a</c></NS> bad show. That's why I want my money back! Now! <NS type="S"><i>Otherweise</i><c>Otherwise</c></NS> I'll have to put some <NS type="IQ"><i>others</i><c>other</c></NS> ads <NS type="MY"><c>out</c></NS> in London saying that your show is just a <NS type="RN"><i>fake</i><c>fraud</c></NS>!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How modern technology changed your daily life!</p>
+          <p>To begin with, I'd like to underline how the <NS type="RN"><i>place</i><c>importance</c></NS> of technology has increased <NS type="RT"><i>since</i><c>in</c></NS> a couple of years. With the end of the Second world war and the <NS type="MN"><c>beginning of</c></NS> economic prosperity<NS type="MP"><c>,</c></NS> many goods like <NS type="FN"><i>TV</i><c>TVs</c></NS>, <NS type="FN"><i><NS type="UP"><i>washing-machine</i><c>washing machine</c></NS></i><c>washing machines</c></NS>, etc. became cheaper and <NS type="FJ"><i>available</i><c>more available</c></NS>. Nowadays, the Internet and the mobile phone<NS type="MP"><c>,</c></NS> with the <NS type="S"><i>developpment</i><c>development</c></NS> of satellite <NS type="MN"><c>communication</c></NS><NS type="MP"><c>,</c></NS> seem to take the lead. Do they affect my daily life?</p>
+          <p>As far as I am concerned, the first way modern technology <NS type="AGV"><i>influence</i><c>influences</c></NS> me is <NS type="RT"><i>in</i><c>through</c></NS> my work: the <NS type="RP"><i>internet</i><c>Internet</c></NS> has become such an incredible tool, I can <NS type="UV"><i>make</i></NS> research <NS type="RT"><i>about</i><c>into</c></NS> everything I want, find <NS type="CN"><i>informations</i><c>information</c></NS> for lectures<NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> or <NS type="S"><i>exercices</i><c>exercises</c></NS>. The internet is really the widest source of knowledge.</p>
+          <p>Nevertheless, new technology has made me <NS type="UV"><i>become</i></NS> more lazy. I spend a lot of <NS type="MY"><c>my</c></NS> free time watching TV, or surfing on the Internet or playing <NS type="MT"><c>on</c></NS> the computer. Maybe it <NS type="MV"><c>will</c></NS> change me into a kind of <NS type="SA"><i>self-centered</i><c>self-centred</c></NS> person, a loner.</p>
+          <p>But the positive way new technology <NS type="AGV"><i>have</i><c>has</c></NS> changed my life is in <NS type="MD"><c>the</c></NS> way <NS type="MA"><c>I</c></NS> <NS type="TV"><i>to communicate</i><c>communicate</c></NS>. It made it possible to discover, to talk with new people on the Internet but also to join and to be joined by my friends or parent. I can send e-mails or use the mobile phone. But we should not forget that <NS type="R"><i>it's</i><c>they are</c></NS> only tools and <NS type="MV"><c>should</c></NS> <NS type="S"><i>emphazise</i><c>emphasise</c></NS> human relationships.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR198*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Brown,</p>
+          <p>My name is Anne Singler and I have <NS type="UY"><i>already</i></NS> watched the musical "Over the rainbow" in the Circle Theatre. I'm writing to you because I wasn't pleased with the show! In your advert for the musical <NS type="UN"><i>show</i></NS> you promised the newest and best musical show, but it wasn't. First I was very disappointed about the price of the ticket because I expected to pay a <NS type="RJ"><i>smaller</i><c>lower</c></NS> <NS type="S"><i>pice</i><c>price</c></NS> than £20 for my <NS type="MP"><i>six year old</i><c>six-year-old</c></NS> daughter. Then the show <NS type="RY"><i>already</i><c>actually</c></NS> started at 20:15 and not at 19:30! I was quite bored, sitting in my chair and waiting for the beginning of the show.</p>
+          <p>For me the most disappointing problem was that the <NS type="DN"><i>starring</i><c>star</c></NS> Danny Brook wasn't there. My husband was also looking forward to seeing Mr. Brook as an actor <NS type="RT"><i>of</i><c>in</c></NS> your musical because he is one of his greatest fans. The actor <NS type="RA"><i>which</i><c>who</c></NS> acted instead of Danny Brook wasn't as good as Mr. Brook.</p>
+          <p>After the show, which wasn't really the best I have ever seen, my family and I wanted to get some snacks in the theatre restaurant. When we arrived at the restaurant we <NS type="UV"><i>had</i></NS> <NS type="TV"><i>to realize</i><c>realised</c></NS> that it was closed because the cook was ill. After this last <NS type="RN">point of troubles</NS> we went home with only bad <NS type="DN"><i>remembers</i><c>memories</c></NS> of this evening.</p>
+          <p>So I want to ask you <NS type="UT"><i>for</i></NS> <NS type="FV"><i>giving</i><c>to give</c></NS> me my money back because I think I <NS type="MV"><c>would</c></NS> <NS type="TV"><i>have</i><c>have been</c></NS> better <NS type="MT"><c>off</c></NS> <NS type="FV"><i>spent</i><c>spending</c></NS> my money on <NS type="RA"><i>anything</i><c>something</c></NS> else.</p>
+          <p>I hope you understand my point of view and write back.</p>
+          <p>Yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>The secret</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>One day her best friend Sally told her that she had betrayed her boyfriend. Pat was really shocked to hear this but she had to promise Sally to keep quiet. Pat really liked chatting about others and so she wasn't able to keep quiet about Sally's secret. She told it to her boyfriend Paul. After that Paul <NS type="RV"><i>got</i><c>turned</c></NS> white in <NS type="R"><i>his</i><c>the</c></NS> face, he was pale like a wall and it seemed <NS type="RC"><i>as</i><c>that</c></NS> he <NS type="TV"><i>would</i><c>was</c></NS> <NS type="UV"><i>be</i></NS> very nervous. Pat couldn't understand Paul's reaction and so she didn't <NS type="RV"><i>care</i><c>worry</c></NS> about it.</p>
+          <p>Some weeks later when Pat was walking to school she met Sally, <NS type="RA"><i>which</i><c>who</c></NS> <NS type="TV"><i>just came</i><c>had just come</c></NS> out of Paul's house. Now Pat realized what was going on and could <NS type="S"><i>undstand</i><c>understand</c></NS> why her boyfriend got so nervous about the secret. He was Sally's lover!</p>
+          <p>In this moment Pat wished that she <NS type="W"><i>never <NS type="UV"><i>would</i></NS> <NS type="TV"><i>have</i><c>had</c></NS></i><c>had never</c></NS> been keen on knowing secrets!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR930*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am replying <NS type="R">in response of the competition I won</NS>. As you asked in the letter, I will write everything I need to know about the <NS type="RN"><i>travel</i><c>trip</c></NS>.</p>
+          <p>First of all, I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July, because<NS type="MP"><c>,</c></NS> during the other months, I will be studying, preparing myself for <NS type="UJ"><i>other</i></NS> exams or I will be <NS type="RY"><i>out</i><c>away</c></NS> travelling somewhere else with my relatives.</p>
+          <p>I have been thinking and I decided I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, simply because it's a new experience and I would like to try everything new. Also, it seems more dangerous. <NS type="RT"><i>For</i><c>Regarding</c></NS> the two activities I have to choose, I decided to choose a new <NS type="S"><i>activitie</i><c>activity</c></NS> that I have never done before, which is Sailing<NS type="RP"><i>,</i><c>.</c></NS> <NS type="UC"><i>so</i></NS> I am a <NS type="DJ"><i>totally</i><c>total</c></NS> <NS type="S"><i>begginer</i><c>beginner</c></NS> at this. The other <NS type="S"><i>activitie</i><c>activity</c></NS> is Photography<NS type="RP"><i>,</i><c>.</c></NS> I am not an expert, but I know how to use a camera<NS type="RP"><i>, all</i><c>.  All</c></NS> I want is to improve my knowledge.</p>
+          <p>Finally, I need to know what kind of clothes and how many <NS type="MN"><c>clothes</c></NS> I should pack. Is there any place <NS type="RC"><i>that</i><c>where</c></NS> I can wash my clothes? I also <NS type="TV"><i>needed</i><c>need</c></NS> some information <NS type="RT"><i>on</i><c>about</c></NS> the money I <NS type="RV"><i>will</i><c>should</c></NS> take. Do you have any kind of souvenirs that I can buy? Do I need to take any money at all?</p>
+          <p>I will be waiting <NS type="MT"><c>for</c></NS> a reply.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+          <p>Sara Todi</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm sorry it took so long for me to answer your letter, but I've been too busy with my school, papers and everything. But now I <NS type="TV"><i>found</i><c>have found</c></NS> some time to tell you everything about the pop concert I helped <NS type="M"></NS>.</p>
+          <p>There were about a hundred people that wanted to help, but only two would be chosen. When they said my name, I couldn't believe it! All I could think was "Oh my god, I'm gonna be talking <NS type="MT"><c>with</c></NS> and helping the most famous pop bands!" I was so excited that I couldn't believe <NS type="MA"><c>it</c></NS>.</p>
+          <p>When I arrived to help them, they welcomed me and were so nice <NS type="RT"><i>with</i><c>to</c></NS> me that it seemed we had known each <NS type="RA"><i>others</i><c>other</c></NS> <NS type="RT"><i>in</i><c>for</c></NS> ages! They weren't <NS type="R"><i>those</i><c>the</c></NS> kind of people that think they're gods.</p>
+          <p>I helped them <NS type="MT"><c>with</c></NS> organizing the stage, cleaning everything, fixing what was broken and they even let me play with their <NS type="S"><i>guittars</i><c>guitars</c></NS>! That was so great!</p>
+          <p>I don't know exactly how I felt<NS type="RP"><i>, sometimes</i><c>.  Sometimes</c></NS> I wake up and think it was nothing but a dream. I hope you liked everything I said and I hope <NS type="R"><i>an</i><c>you</c></NS> <NS type="RV"><i>answer</i><c>reply</c></NS> as soon as possible.</p>
+          <p>Best wishes,</p>
+          <p>Sara</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

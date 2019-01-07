@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="OU2*0102*2001*02">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>40.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Mary,</p>
+          <p>I'm really happy to hear from you! I've had so much work at school recently (exams!) and so many things to do, that I've almost forgotten how good it is to relax and rest a bit. Fortunately, the people from my class are really great and we all love trips - especially interesting ones.</p>
+          <p>The boat trip <NS type="TV"><i>you're</i><c>you were</c></NS> asking about in your letter was really fantastic and well organized<NS type="RP"><i>, there</i><c>. There</c></NS> were absolutely no problems and we had lots of fun! Here are some facts for you:</p>
+          <p>The departures are at 8 am and 10 a.m. every day, but it's much better to set off earlier as the boat is less crowded then (I know you hate getting up early, but...). After two hours of the cruise, there is a stop at the beautiful Bourne Castle where they offer guided tours. I think such a tour is essential, because you can learn lots of interesting things about the history of the castle.</p>
+          <p>After visiting the castle there is lunch at a restaurant, but you'd better take <NS type="MD"><c>a</c></NS> picnic - it's so beautiful there!</p>
+          <p>In the afternoon you can choose from a variety of water sports at the lake. Try windsurfing, you'll have lots of fun!</p>
+          <p>I'm telling you - the trip was wonderful and I'm sure your group will like it. Especially <NS type="RC"><i>that</i><c>because</c></NS> the prices are reasonable and if you have a group of 15 people, you get a discount.</p>
+          <p>Try it and have fun!</p>
+          <p>I'm looking forward to hearing from you<NS type="RP"><i>, take</i><c>. Take</c></NS> care,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>It was three o'clock in the morning when the phone rang. I rushed to answer it, but when I picked up the phone, there was nobody there. "Stupid teenagers again" - I thought angrily, climbing the stairs to my bedroom.</p>
+          <p>Suddenly, I heard <NS type="RD"><i>some</i><c>a</c></NS> strange sound behind me. I turned around quickly, but there was nothing - the sound <NS type="TV"><i>disappeared</i><c>had disappeared</c></NS>. I began <NS type="FV"><i>feeling</i><c>to feel</c></NS> a bit scared, not that I was afraid of ghosts, but...I had <NS type="RD"><i>this</i><c>the</c></NS> impression that something was wrong. I stopped and listened. Nothing. A complete silence.</p>
+          <p>After a minute I started walking up the stairs again and I heard the same sound - it was the sound of footsteps! I was so frightened that I could barely move, but I turned my head again. There was nobody <NS type="MY"><c>there</c></NS>. But something <NS type="TV"><i>changed</i><c>had changed</c></NS> - the kitchen door was wide open.</p>
+          <p>Suddenly I saw a figure of a man, dressed in black, moving towards me. I couldn't believe my own eyes, so I closed them quickly and ran to my sister's room.</p>
+          <p>"Jane" - I shouted - "There is a ghost downstairs! A man, dressed in a black suit!"</p>
+          <p>"I know" - replied my little sister peacefully, - "It's Grandpa. Don't you know it's his birthday today?"</p>
+          <p>"Yes, but our grandpa is dead, don't you remember?" - I cried.</p>
+          <p>"That's right. But haven't you just said you've <NS type="TV"><i>see</i><c>seen</c></NS> a GHOST?" - she asked and looked at me as if I had lost my mind.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

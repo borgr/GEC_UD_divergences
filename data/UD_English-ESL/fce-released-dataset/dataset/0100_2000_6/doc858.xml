@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR347*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I am very glad to hear from you that I have won the first prize in your competition. I would like to reply and ask you some questions.</p>
+          <p>Firstly, I <NS type="TV"><i>would</i><c>will</c></NS> be available for travelling only in July because my university will finish at the end of June and will start again in August. Secondly, <NS type="RT"><i>for</i><c>regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would say I prefer living in <NS type="MD"><c>a</c></NS> tent rather than in <NS type="MD"><c>a</c></NS> log cabin because I used to sleep in <NS type="MD"><c>a</c></NS> tent <NS type="RC"><i>while</i><c>when</c></NS> I was <NS type="RV"><i>joining</i><c>staying</c></NS> <NS type="MT"><c>in</c></NS> a local scout camp in my country. Thirdly, I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> Sailing and Photography from the list you gave me because both of them are my <NS type="SA"><i>favorite</i><c>favourite</c></NS> hobbies and I have been enjoying Sailing and Photography for several years so I am quite good at both of them. Finally, I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>ask</i><c>to ask</c></NS> you whether I have to prepare any <NS type="S"><i>speacial</i><c>special</c></NS> clothes for camping or <NS type="W"><i>the camp will</i><c>will the camp</c></NS> provide them for me.</p>
+          <p>I look forward to receiving the details <NS type="RT"><i>of</i><c>regarding</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RN"><i>travelling</i><c>trip</c></NS> soon and <NS type="MT"><c>to</c></NS> joining your camp in July.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p><NS type="ID"><i>In my opinion, I do agree</i><c>I do agree</c></NS> with this <NS type="RN"><i>expression</i><c>statement</c></NS>. One of the most unforgettable <NS type="AGN"><i>habit</i><c>habits</c></NS> of city life is going out <NS type="UT"><i>for</i></NS> shopping. I used to hang around famous <NS type="RN"><i>cloth</i><c>clothes</c></NS> shops looking at the new <NS type="MP"><i><NS type="FN"><i>arrival</i><c>arrivals</c></NS></i><c>new-arrivals</c></NS> clothes section. It is not only <NS type="UD"><i>a</i></NS> good fun to see the new fashions and things but <NS type="MA"><c>it</c></NS> also <NS type="AGV"><i>decrease</i><c>decreases</c></NS> the <NS type="MN"><c>amount of</c></NS> money in my pocket.</p>
+          <p><NS type="RY"><i>Sometime</i><c>Sometimes</c></NS> shopping doesn't <NS type="RV"><i>give</i><c>do</c></NS> anything <NS type="RT"><i>to</i><c>for</c></NS> you but <NS type="RY"><i>always</i><c>only</c></NS> <NS type="AGV"><i>waste</i><c>wastes</c></NS> all your free time. A group of girls can <NS type="RV"><i>spend their time</i><c>stay</c></NS> in a shopping <NS type="SA"><i>center</i><c>centre</c></NS> forever. It seems to me that more people in my hometown tend to go shopping in their free time because the shopping <NS type="IN"><i>complexs</i><c>complexes</c></NS> nowadays are more attractive and combine every <NS type="AGN"><i>facilities</i><c>facility</c></NS> inside. From my point of view, someone goes shopping just because he/she wants to show off that he/she is wealthy.</p>
+          <p>Keeping <NS type="MD"><c>a</c></NS> balance between daily life and shopping life may <NS type="RV"><i>give</i><c>be</c></NS> more enjoyable rather than always walking in an air-conditioned shopping complex.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

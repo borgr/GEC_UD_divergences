@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR875*0100*2000*02">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>39.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I would like first, <NS type="RT"><i>in the name of</i><c>on behalf of</c></NS> my whole class, to thank you for all you've done for us and for our trip to London.</p>
+          <p>We've just been told about your programme and I must say that we all like it! What I am most looking forward to<NS type="UP"><i>,</i></NS> is the River trip to Greenwich; but I would also really like to visit the Science Museum as well as the National Gallery! This will be very enriching for us! You must wonder why I'm writing to you, <NS type="SX"><i>them</i><c>then</c></NS>! ... <NS type="RP"><i>well</i><c>Well</c></NS> actually we've <NS type="SX"><i>must</i><c>just</c></NS> received an <NS type="RN">advertisement</NS> for the London Fashion and Leisure Show, and the vast majority of the class would like to go and see it. This will take place in the Central Exhibition Hall on Tuesday 14th March. We thought it would be a great experience for us since we <NS type="RY">quite</NS> don't have such opportunities in our everyday life! Moreover, <NS type="UD"><i>the</i></NS> <NS type="RN"><i>entrance</i><c>admission</c></NS> is free for the students so that won't raise the cost <NS type="RT"><i>for</i><c>of</c></NS> the trip. I thought we should visit the Science Museum on Monday afternoon so that we could do the River trip on Tuesday morning just before going to the fashion show! Anyway, we were <NS type="FV"><i>to go</i><c>going</c></NS> shopping on Tuesday afternoon so that won't be a problem to my mind!</p>
+          <p>I hope you will <NS type="RV"><i>take account of</i><c>consider</c></NS> our request,</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>It was dangerous but I knew I had to do it. George was about to be <NS type="S"><i>linched</i><c>lynched</c></NS> on account of his <NS type="W"><i>colour skin</i><c>skin colour</c></NS>. Someone had to react ... I had to react! ... otherwise I would have felt responsible for his death, for the rest of my life.</p>
+          <p>George was <NS type="RV"><i>leaning</i><c>lying</c></NS> on the floor, surrounded by his own lake of blood. He had just been beaten by a <NS type="RN"><i>ground</i><c>group</c></NS> of white men. And <NS type="RY">yet</NS><NS type="UP"><i>,</i></NS> he was too weak to resist the rats<NS type="UP"><i>,</i></NS> coming from everywhere and eating his face, his legs and his arms, waiting with great impatience for his death.</p>
+          <p>He had been chained and no way could he escape from his fate without some help! The place where I was hidden was overlooking the house where he was kept <NS type="S"><i>prisonner</i><c>prisoner</c></NS>. No one was <NS type="S"><i>garding</i><c>guarding</c></NS> him. They were all celebrating their victory with a gorgeous dinner around the <NS type="RP"><i>fire place</i><c>fireplace</c></NS>. I tiptoed as far as the house, carefully opened the door, and headed to George. At the very moment when he <NS type="RV"><i>say</i><c>saw</c></NS> me, his eyes began to shine and I could feel that he had recovered some hope. I <NS type="RV"><i>delivered</i><c>rescued</c></NS> him and we were about to flee, taking back our dignity and freedom<NS type="MP"><c>,</c></NS> overwhelmed with <NS type="RN"><i>join</i><c>joy</c></NS>, when we saw a <NS type="RP"><i>whiteman</i><c>white man</c></NS>, <NS type="RV"><i><NS type="S"><i>targelting</i><c>targeting</c></NS></i><c>aiming</c></NS> his gun at us, and about to shoot ...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

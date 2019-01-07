@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR503*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to inform you about the differences between <NS type="RD"><i>the</i><c>your</c></NS> <NS type="S"><i>advertisment</i><c>advertisement</c></NS> and the real show. I am also expecting to get some money back.</p>
+          <p>First of all, the show started 45 minutes late. We all had to sit and wait because there was nobody to explain the reason <NS type="RT"><i>of</i><c>for</c></NS> the delay and <NS type="RV"><i>excuse</i><c>apologise</c></NS> about it. If there <NS type="TV"><i>was</i><c>had been</c></NS> someone to do so, we could have gone out to eat something.</p>
+          <p>Then, as we were told that the show was <NS type="S"><i>begginning</i><c>beginning</c></NS>, the second shock of the evening faced us. Instead of the famous actor Danny Brook, a very bad and disappointing actor showed up.</p>
+          <p>Watching the show plus the 45 minutes of delay made us hungry of course so we decided to eat at the theatre restaurant. As it was too late, the restaurant was closed and we starved till we got to our homes. We were also disappointed because there were no discounts!</p>
+          <p>(As I mentioned above) I was very disappointed and I am asking for some money back if possible.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>PAT AND SECRETS</p>
+          <p>.... Unfortunately, Pat wasn't very good at keeping secrets. Knowing that<NS type="MP"><c>,</c></NS> he decided <NS type="UT"><i>to</i></NS> not to see Alison until the birthday party.</p>
+          <p>Everybody was given a job, and Pat's job was buying the cake and the candles. The best bakery was <NS type="RT"><i>at</i><c>on</c></NS> the other side of the town so there was no danger <NS type="RT"><i>for</i><c>of</c></NS> him <NS type="FV"><i>to see</i><c>seeing</c></NS> Alison and <NS type="FV"><i>reveal</i><c>revealing</c></NS> the party.</p>
+          <p>He went out of his house and got on his bike to go to the bakery. On his way he saw lots of places he could <NS type="TV"><i>buy</i><c>have bought</c></NS> the birthday cake but knowing that the safest one was the one which <NS type="TV"><i>is</i><c>was</c></NS> <NS type="UY"><i>as</i></NS> <NS type="MD"><c>the</c></NS> <NS type="FJ"><i><NS type="S"><i>andy</i><c>handy</c></NS></i><c>handiest</c></NS> <NS type="RT"><i>as</i><c>for</c></NS> Alison's house<NS type="MP"><c>,</c></NS> he kept on riding.</p>
+          <p>When he reached the bakery, he was quite relieved and he almost forgot that he had a secret to keep. <NS type="MT"><c>After</c></NS> <NS type="RP"><i>Picking</i><c>picking</c></NS> the best cake he was preparing to go back. He suddenly saw Alison and said "<NS type="TV"><i>Did</i><c>Do</c></NS> you like the cake<NS type="RP"><i>, it's</i><c>? It's</c></NS> for your birthday party".</p>
+          <p>After the conversation was over Pat still wasn't aware of what he had done, and he didn't find out till the party took place.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

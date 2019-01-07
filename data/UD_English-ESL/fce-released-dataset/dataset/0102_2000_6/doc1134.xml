@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR462*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to express my dissatisfaction <NS type="RT"><i>about</i><c>with</c></NS> the musical show I <NS type="TV"><i>had seen</i><c>saw</c></NS> yesterday, called 'Over The Rainbow'.</p>
+          <p>Firstly, I was <NS type="S"><i>disapointed</i><c>disappointed</c></NS>, because the actor Danny Brook did not <NS type="TV"><i>appeared</i><c>appear</c></NS> in the show. Then, another thing I would like to mention is that the time advertised was wrong, because the show started at 20:15.</p>
+          <p>Another thing is that there were discounts on the price of the tickets, and I did not <NS type="RV"><i>have</i><c>get</c></NS> any discount. <NS type="R">It</NS> also <NS type="RV"><i>puts</i><c>states</c></NS> that there was a restaurant to eat in after the show, but it was closed because it was not completely built.</p>
+          <p>Finally, I would like to know why <NS type="M"></NS> would have a perfect evening, because I did not have one, so I would like to have my money back.</p>
+          <p>I look forward to hearing from you in the very near future.</p>
+          <p>Yours faithfully,</p>
+          <p>Juan Almo Dali</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. One day, when Peter and Pat were alone in class, he confessed <NS type="MT"><c>to</c></NS> her that he was gay. She <NS type="RV"><i>got</i><c>was</c></NS> very surprised when Pat told her that he was gay.</p>
+          <p>During the week Pat and Peter talked about the problem he had and the consequences that <NS type="TV"><i>will</i><c>would</c></NS> <NS type="RV"><i><NS type="IV"><i>occured</i><c>occurred</c></NS></i><c>follow</c></NS> if he <NS type="AS"><i>told it to his parents</i><c>told his parents about it</c></NS>. On Saturday Peter, Pat and some other friends went to the cinema. When they <NS type="RV"><i>saw</i><c>were watching</c></NS> the film, Katy and John approached <NS type="UT"><i>to</i></NS> Peter and told him that they <NS type="TV"><i>will</i><c>would</c></NS> continue being his friends.</p>
+          <p>Peter got very angry and <NS type="RV"><i>told</i><c>asked</c></NS> Pat why <NS type="W"><i><NS type="RV"><i>did</i><c>had</c></NS> they</i><c>they had</c></NS> <NS type="TV"><i>say</i><c>said</c></NS> that to him. Pat did not answer <NS type="UT"><i>to</i></NS> him. The next day all the school knew that Peter was gay and even though he didn't mind what <NS type="TV"><i>happened</i><c>had happened</c></NS> he didn't <NS type="FV"><i>talked</i><c>talk</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> Pat <NS type="UY"><i>no</i></NS> <NS type="RY"><i>more</i><c>again</c></NS> in his life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

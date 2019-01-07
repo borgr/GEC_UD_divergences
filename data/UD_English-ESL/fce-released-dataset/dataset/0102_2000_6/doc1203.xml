@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR494*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I am writing to make a complaint about the Circle Theatre. I recently went there to see the musical show "Over the Rainbow". I was very <NS type="S"><i>disapointed</i><c>disappointed</c></NS> to find out that most of the things said in the advertisement for the show were not true.</p>
+          <p>For example, the advertisement said that Danny Brook would be the lead actor, but he was not. Instead, there was this unknown actor <NS type="R"><i>with</i><c>who gave</c></NS> a very bad performance and <NS type="MV"><c>had</c></NS> a terribly annoying voice. Moreover, the play did not start at the time it was supposed to. I had to wait for <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes. All the waiting made me quite hungry, so I was expecting to have good meal at the theatre restaurant after the show. However, it was closed for cleaning.</p>
+          <p>All these problems spoiled my evening and frustrated me, since I was expecting to see a good play, so I expect a full refund. By the way, why weren't any discounts available for the tickets, as <NS type="UA"><i>it</i></NS> was <NS type="RV"><i>said</i><c>promised</c></NS> in the advertisement?</p>
+          <p>I look forward to hearing from you and having my money back.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>The New Modern Life</p>
+          <p>Modern technology and science have changed my life in many ways. <NS type="UD"><i>The easy</i><c>Easy</c></NS> access to information and the new ways of communicating with other people help me save time that I can spend doing whatever I want to.</p>
+          <p>Of all the recent technological advances, the one that <NS type="TV"><i>had</i><c>has had</c></NS> the <NS type="FJ"><i>great</i><c>greatest</c></NS> impact on my life <NS type="TV"><i>was</i><c>is</c></NS> the Internet. It provides you <NS type="MT"><c>with</c></NS> all the information you want. I don't watch the news on television anymore, because I can use my computer to read only the things that interest me.</p>
+          <p>Mobile phones are another thing that <NS type="AGV"><i>is</i><c>are</c></NS> making my life much easier. They allow you to talk to other people no matter where you are. This can be very useful when you have a problem that needs an immediate solution.</p>
+          <p>All these things save me lots of time. I get to rest more and spend more time at home, and so they make me a happier person. For the next <NS type="MQ"><c>few</c></NS> years, we can expect many more <NS type="R"><i>technologies</i><c>technological advances</c></NS> that will continue making our lives easier.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR481*0102*2000*01">
+  <candidate><personnel><language>French</language><age>31-40</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about the musical show I <NS type="TV"><i>have seen</i><c>saw</c></NS> last Friday in your theatre.</p>
+          <p>Unfortunately your advertisement <NS type="RT"><i>about</i><c>for</c></NS> it wasn't true!</p>
+          <p>Firstly, <NS type="TV"><i>it's</i><c>it was</c></NS> written that <NS type="W"><i><NS type="MT"><c>in</c></NS> it <NS type="TV"><i>will</i><c>would</c></NS> <NS type="RV"><i><NS type="TV"><i>be played</i><c>be playing</c></NS></i><c>be performing</c></NS> by Danny Brook</i><c>Danny Brook would be performing in it</c></NS>, but in fact <NS type="RA"><i>it</i><c>he</c></NS> wasn't. I was very disappointed when I saw someone I've never heard <NS type="RT"><i>about</i><c>of</c></NS> <NS type="UA"><i>it</i></NS>. In addition to this, the <NS type="RN"><i>timetable</i><c>time</c></NS><NS type="MP"><c>,</c></NS> 19.30<NS type="MP"><c>,</c></NS> wasn't correct. <NS type="RV"><i><NS type="TV"><i>We've lost</i><c>We lost</c></NS></i><c>We wasted</c></NS> our time waiting outside in the cold <NS type="MY"><c>until</c></NS> <NS type="UC"><i>that</i></NS> the doors <NS type="UV"><i>would get</i></NS> opened 45 minutes <NS type="FY"><i>later</i><c>late</c></NS>.</p>
+          <p>Secondly as a student I was hoping to get a <NS type="RN"><i><NS type="DN"><i>reduce</i><c>reduction</c></NS></i><c>discount</c></NS>. Again, it wasn't true. When I enquired about the discounts, <NS type="RT"><i>at</i><c>with</c></NS> the cashier<NS type="MP"><c>,</c></NS> they told me that they didn't have any information about <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p><NS type="ID"><i>At least</i><c>Lastly</c></NS>, after all my disappointments when I wanted to visit your restaurant, it was closed because it was too late. I think that you are not a good manager.</p>
+          <p>Therefore, I should be grateful if you would send me back some money for all the <NS type="RN">disagreements</NS> I've had in your theatre.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Pat is my best friend. We spent all our childhood together<NS type="MP"><c>,</c></NS> usually driving our parents mad. As we <NS type="TV"><i>grown</i><c>grew</c></NS> up, we were getting closer and closer<NS type="MP"><c>,</c></NS> sharing all our love stories and even more. I'm certain<NS type="UP"><i>,</i></NS> that our friendship is stronger than other <NS type="MP"><i>people</i><c>people's</c></NS>. But I do have a problem with her. Pat isn't good at keeping secrets. Even <NS type="RJ"><i>worth</i><c>worse</c></NS>, she is not able to keep anything <NS type="M"><c>to herself</c></NS>. For instance, I was organizing a party for my sister's birthday<NS type="MP"><c>,</c></NS> asking all <NS type="MA"><c>her</c></NS>. friends <NS type="MV"><c>to keep</c></NS> <NS type="W"><i><NS type="TV"><i>to close</i><c>closed</c></NS> their mouths</i><c>their mouths closed</c></NS>. <NS type="MA"><i>All</i><c>They all</c></NS> did except one: Pat. Last year, Pat and I were driving back home and unfortunately<NS type="MP"><c>,</c></NS> driving too fast<NS type="MP"><c>,</c></NS> I drove through the front gate. I was wondering how to tell my parents and I asked Pat if she could keep it secret till I found the way to tell them. Of course, the following day all my family had heard <NS type="UT"><i>about</i></NS> my odd story. In conclusion to this, why do I still <NS type="RV"><i>go</i><c>get</c></NS> on with her<NS type="RP"><i>, it's</i><c>. It's</c></NS> the fact I love her as <NS type="R"><i>well</i><c>much</c></NS> as my sister and I know that she can change <NS type="UA"><i>it</i></NS> if she <NS type="RV"><i>would</i><c>must</c></NS> because<NS type="MP"><c>,</c></NS> last week, she organized a huge party for me, without telling me.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

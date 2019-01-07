@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR229*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Helen Ryan</p>
+          <p>Competition Organiser.</p>
+          <p>Dear <NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p>I have received <NS type="R"><i>your</i><c>the</c></NS> good news and I'm very happy because I have always <NS type="RV"><i>wished</i><c>wanted</c></NS> <NS type="FV"><i>go</i><c>to go</c></NS> to California and now it's <NS type="L"><i>real</i><c>really</c></NS> <NS type="MV"><c>happening</c></NS>, so, thank you very much <NS type="RT"><i>about</i><c>for</c></NS> that.</p>
+          <p>First <NS type="RT"><i>at</i><c>of</c></NS> all, I would like to give you some further information <NS type="RT"><i>from</i><c>about</c></NS> me and secondly, <NS type="TV"><i>I'll</i><c>I'd</c></NS> <NS type="MV"><c>like</c></NS> <NS type="FV"><i>ask</i><c>to ask</c></NS> you <NS type="RT"><i>for</i><c>about</c></NS> some <NS type="RN"><i>doubts</i><c>concerns</c></NS> that I have.</p>
+          <p>About<NS type="UP"><i>,</i></NS> when I would like to travel<NS type="MP"><c>,</c></NS> I think that my answer will be easy for you, because<NS type="UP"><i>,</i></NS> I have two months off<NS type="MP"><c>,</c></NS> those are July and August<NS type="MP"><c>,</c></NS> so<NS type="UP"><i>,</i></NS> my <NS type="RN"><i>travel</i><c>trip</c></NS> should be <NS type="R">in between</NS><NS type="RP"><i>,</i><c>.</c></NS> <NS type="MT"><c>Regarding</c></NS> my <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would like to stay in <NS type="MD"><c>a</c></NS> tent because I remember my holidays in the south of Peru, <NS type="MD"><c>a</c></NS> long time ago<NS type="RP"><i>,</i><c>;</c></NS> it was wonderful.</p>
+          <p>With regard to the activities at the Camp, I would like to choose basketball and photography, because I think that basketball is <NS type="MD"><c>a</c></NS> very <NS type="RJ"><i>complete</i><c>good</c></NS> sport for training your muscles and I used to play in a league in my country<NS type="RP"><i>, it's</i><c>. It's</c></NS> hard but at the same time lovely. The other <NS type="RN"><i>selection</i><c>choice</c></NS> has been <NS type="RV"><i>done</i><c>made</c></NS> because I like <NS type="R"><i>to</i><c>very</c></NS> much <NS type="FV"><i>discover</i><c>to discover</c></NS> different places and with a camera <NS type="MA"><c>it</c></NS> is possible to do <NS type="RA"><i>it</i><c>that</c></NS> easily.</p>
+          <p>If it <NS type="MV"><c>is</c></NS> possible for you to help me <NS type="R"><i>in</i><c>clear up</c></NS> some doubts I have, I'll be really <NS type="S"><i>greatful</i><c>grateful</c></NS>. One <NS type="MN"><c>doubt</c></NS> <NS type="R"><i>is with regard to</i><c>concerns</c></NS> how much additional money you believe will be enough to enjoy the holiday<NS type="RP"><i>?</i><c>.</c></NS> Another thing <NS type="M"></NS> is if the meals are <NS type="DJ"><i>include</i><c>included</c></NS> or <NS type="MC"><c>whether</c></NS> I have to <NS type="FV"><i>paid</i><c>pay</c></NS> for them<NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>Once again, thanks.</p>
+          <p>Waiting for your reply, best wishes.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="S"><i>faitfull</i><c>faithfully</c></NS>.</p>
+          <p>Daniel Ortiz</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I have heard from you recently and I'm really happy, I hope you and your family are well.</p>
+          <p>I know that my girlfriend told you that I was helping at a pop concert and enjoyed it very much. <NS type="R">Besides</NS>, she told me that you are very keen to know <NS type="R"><i>how was</i><c>about</c></NS> my experience, so I'll give you some information in this letter that I'm sure you will be glad <NS type="MV"><c>to have</c></NS>, even <NS type="MC"><c>though</c></NS> you have not been <NS type="RT"><i>in</i><c>to</c></NS> the concert.</p>
+          <p>First <NS type="RT"><i>at</i><c>of</c></NS> all, I'll tell you that <NS type="RT"><i>in</i><c>on</c></NS> the day <NS type="M"><c>of the</c></NS> concert I woke up at 6:30 <NS type="RP"><i>A.M</i><c>a.m.</c></NS>, very early for me<NS type="RP"><i>, you</i><c>. You</c></NS> know me<NS type="MP"><c>,</c></NS> I'm <NS type="S"><i>lazzy</i><c>lazy</c></NS><NS type="RP"><i>, the</i><c>. The</c></NS> work began around 8:30<NS type="RP"><i>,</i><c>.</c></NS> <NS type="MA"><c>It</c></NS> was very hard but <NS type="RC"><i>when</i><c>then</c></NS> the band <NS type="TV"><i>come</i><c>came</c></NS> <NS type="UT"><i>for</i></NS> <NS type="RV"><i><NS type="FV"><i>training</i><c>to train</c></NS></i><c>to rehearse</c></NS><NS type="R"><i><NS type="RP"><i>, since</i><c>. Since</c></NS></i><c>. From</c></NS> <NS type="RD"><i>this</i><c>that</c></NS> moment I <NS type="TV"><i>was <NS type="SX"><i>enjoining</i><c>enjoying</c></NS></i><c>enjoyed</c></NS> <NS type="FV"><i>to work</i><c>working</c></NS> until the concert had finished<NS type="RP"><i>, the</i><c>. The</c></NS> atmosphere was wonderful, the musicians were very kind <NS type="RT"><i>with</i><c>to</c></NS> <NS type="RP"><i>every one</i><c>everyone</c></NS> who was working because they understood that <NS type="MV"><c>putting on</c></NS> a concert is a job to be done by a team. During the concert I listened <NS type="MT"><c>to</c></NS> the band like everybody <NS type="MY"><c>else</c></NS>, besides I earned money<NS type="RP"><i> so,</i><c>, so</c></NS> <NS type="MA"><c>it</c></NS> was a wonderful experience.</p>
+          <p>Looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p><NS type="L"><NS type="RA"><i>You</i><c>Yours</c></NS> Sincerely</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

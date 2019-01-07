@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1123*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I can only travel <NS type="RT"><i>on</i><c>in</c></NS> July because <NS type="AGA"><i>these</i><c>this</c></NS> is the <NS type="S"><i>mounth</i><c>month</c></NS> when I have holidays. I've already talked to my manager, and she said that that's the only <NS type="S"><i>mounth</i><c>month</c></NS> I can have my holidays.</p>
+          <p>I would prefer to stay in <NS type="MD"><c>a</c></NS> log cabin because it must be cold <NS type="FV"><i>to stay</i><c>staying</c></NS> in a tent. I have some problems with my kidneys, so I can't stay in <NS type="SX"><i>on</i><c>one</c></NS> of the tents, and <NS type="W"><i>it also</i><c>also it</c></NS> must be very comfortable <NS type="FV"><i>to stay</i><c>staying</c></NS> <NS type="MT"><c>in</c></NS> a log cabin.</p>
+          <p>I'm really good at Golf and Tennis, so I would like to choose these two activities. I've been doing these activities for a very long time. I've been playing Golf for five years, and <NS type="RV"><i>I'm</i><c>I've</c></NS> a <NS type="S"><i>handidate cup</i><c>handicap</c></NS> of sixteen, but the problem is that I haven't been playing Golf for a long time because I work every day. I've been playing <NS type="S"><i>tannis</i><c>tennis</c></NS> since I was seven, and I've been studying how to play <NS type="S"><i>tannis</i><c>tennis</c></NS> for a very long time, nine years.</p>
+          <p>I would like to know what kind of <NS type="RN"><i>cloths</i><c>clothes</c></NS> <NS type="UV"><i>do</i></NS> I need to take with me, and can you write <NS type="MT"><c>to</c></NS> me <NS type="UY"><i>back</i></NS> <NS type="MT"><c>about</c></NS> what kind of weather <NS type="R">it's going to be</NS> there, for the time I will be staying there. Also I would like to know how much money <NS type="W"><i>should I</i><c>I should</c></NS> take with me, because I'm not sure how much I'll need to spend there. See you<NS type="MP"><c>,</c></NS> Mrs Helen Ryan, and please write <NS type="UA"><i>me</i></NS> back<NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>Ivan. S.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I wish you <NS type="TV"><i>were</i><c>had been</c></NS> there with me helping at a pop concert. I just loved it<NS type="RP"><i>,</i><c>.</c></NS> I was working with <NS type="AGD"><i>these</i><c>this</c></NS> music system. You know how good <NS type="RP"><i>I'm</i><c>I am</c></NS> at music<NS type="RP"><i>, anyway</i><c>Anyway</c></NS> I was helping <NS type="RT"><i>to</i><c>at</c></NS> <NS type="AGD"><i>these</i><c>this</c></NS> pop concert to get the <NS type="S"><i>corect</i><c>correct</c></NS> sounds<NS type="RP"><i>, at</i><c>. At</c></NS> the <NS type="S"><i>bigging</i><c>beginning</c></NS> I was <NS type="S"><i>conecting</i><c>connecting</c></NS> all these wires into <NS type="S"><i>spekers</i><c>speakers</c></NS>, music system, <NS type="FN"><i>guitar</i><c>guitars</c></NS> etc... The <NS type="W"><i>particularly bit that I</i><c>bit that I particularly</c></NS> liked about the experience was when I was standing next to the singers and playing a guitar<NS type="RP"><i>,</i><c> -</c></NS> you know how much I love playing guitar<NS type="RP"><i>,</i><c> -</c></NS> and all these video cameras were just filming us. I asked <NS type="SX"><i>on</i><c>one</c></NS> of the <NS type="AGN"><i><NS type="RP"><i>camera man</i><c>cameraman</c></NS></i><c>cameramen</c></NS> when they're going to show <NS type="AGD"><i>these</i><c>this</c></NS> show on tv, and he told me they're going to show it on <NS type="MD"><c>the</c></NS> 10 of June, so turn on your tv on <NS type="AGD"><i>these</i><c>this</c></NS> date<NS type="MP"><c>,</c></NS> <NS type="S"><i>chanel</i><c>channel</c></NS> three, and <NS type="MA"><c>you</c></NS> <NS type="RV"><i>must</i><c>will</c></NS> <NS type="RV"><i>seem</i><c>see</c></NS> me there playing <NS type="UT"><i>with</i></NS> <NS type="AGD"><i>these</i><c>this</c></NS> guitar<NS type="MP"><c>.</c></NS> AH<NS type="MP"><c>,</c></NS> it was lovely. These singers are going to come next year so I want to invite you to my house for one or two weeks to see <NS type="AGD"><i>these</i><c>this</c></NS> pop concert<NS type="RP"><i>, <NS type="S"><i>beleave</i><c>believe</c></NS></i><c>. Believe</c></NS> me<NS type="MP"><c>,</c></NS> you'll love it and you might <NS type="RV"><i>use</i><c>play</c></NS> the drums<NS type="RP"><i>,</i><c>.</c></NS> I told them that you're really good <NS type="RT"><i>at</i><c>on</c></NS> drums so they want to try you too.</p>
+          <p>I'll write <NS type="MT"><c>to</c></NS> you soon Kim.</p>
+          <p><NS type="RV"><i>Tell</i><c>Say</c></NS> hello to your parents!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

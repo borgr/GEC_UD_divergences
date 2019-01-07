@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR100*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Helen Ryan,</p>
+          <p>I'm writing about the competition you organised. I have just received a letter from you where you say I won the first prize in you competition. I'm very glad about that and I also want to ask you a few questions.</p>
+          <p>I can only travel to California this July because <NS type="MY"><c>then</c></NS> <NS type="RA"><i>it</i><c>I</c></NS> will be <NS type="MT"><c>on</c></NS> my winter holidays. Before and after this period is impossible for me: I have classes and I also have to work.</p>
+          <p>About the accommodation, I prefer to stay in tents. I have always dreamed about going camping and staying in a tent. Now my dream will finally come true. I think this way is better to keep in touch with <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>I would like to do <NS type="S"><i>photografy</i><c>photography</c></NS> and swimming. I love to take photos but I don't have <NS type="MQ"><c>any</c></NS> <NS type="S"><i>techinique</i><c>technique</c></NS>. I would like to learn more about it. I have always <NS type="TV"><i>swam</i><c>swum</c></NS> and I can say I'm good <NS type="RT"><i>on</i><c>at</c></NS> it.</p>
+          <p>I would like to know what kind of clothes I will need to take, if it's cold out there and about the money. How much money do you think I have to take to buy food and anything else I will need? Do you have any idea about how much we spend per day?</p>
+          <p>I'm looking forward <NS type="RT"><i>from</i><c>to</c></NS> hearing from you,</p>
+          <p>Yours sincerely,</p>
+          <p>Raquel Soares</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>We can hear many <NS type="UN"><i>items</i></NS> people saying that when they are upset or stressed they like to go shopping. <NS type="MA"><i>Is</i><c>It is</c></NS> a kind of relief for them.</p>
+          <p>Of course it is good to buy things for ourselves, like clothes, <NS type="S"><i>jewelery</i><c>jewellery</c></NS>, anything. <NS type="RY"><i>Specially</i><c>Especially</c></NS> if we don't have to worry about money. It's good to walk around looking <NS type="MT"><c>at</c></NS> all the <NS type="RN"><i>news</i><c>new things</c></NS> in the stores.</p>
+          <p>But, sometimes, <NS type="FV"><i>go</i><c>going</c></NS> shopping can have other effects on you. It can stress you. For example, when the place is crowded and noisy and you can't even move easily to look around. When you can't find what you are looking for anywhere. When you buy something you were looking for a long time and, when you arrive at home, you discover some <NS type="S"><i>deffect</i><c>defect</c></NS> on it and have to go back to the store to complain. It is just terrible when the <NS type="RN"><i>sellers</i><c>assistants</c></NS> don't treat us well<NS type="MP"><i> sometimes</i><c>.  Sometimes</c></NS> we just give up and never come back to that store. And, a really bad thing is, after buying everything you wanted and feeling very happy with all that, you realize that you spent more money than you should <NS type="MV"><c>have</c></NS>...</p>
+          <p>So, after all this, I suggest that before you decide to go shopping to feel better you should think of all the problems you may have while you are shopping or the big headache you can have after it. It would probably be better if you just <NS type="TV"><i>go</i><c>went</c></NS> shopping when you really <NS type="TV"><i>need</i><c>needed</c></NS> and, to relax, you can talk to a friend, read a book or listen to good music.</p>
+          <p>Remember: <NS type="FV"><i>go</i><c>going</c></NS> shopping is not always the <NS type="FJ"><i>better</i><c>best</c></NS> choice. It can be very unpleasant sometimes.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

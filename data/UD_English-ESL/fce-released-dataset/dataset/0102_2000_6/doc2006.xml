@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR801*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm writing to complain about the musical show 'Over the Rainbow<NS type="MP"><c>.</c></NS>' <NS type="RV"><i><NS type="TV"><i>I've visited</i><c>I visited</c></NS></i><c>I saw</c></NS> it <NS type="RJ"><i>last</i><c>yesterday</c></NS> evening in your 'Circle Theatre'. By the way<NS type="MP"><c>,</c></NS> I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>enquire</i><c>to enquire</c></NS> about <NS type="MV"><c>getting</c></NS> some money back.</p>
+          <p>I read your advertisement for the show and I decided to have a wonderful evening by <NS type="RV"><i>visiting</i><c>seeing</c></NS> it. I believed in the phrase <NS type="RT"><i>by</i><c>with</c></NS> which the advertisement ended: 'Your perfect evening out!' But nothing was perfect.</p>
+          <p>The show should <NS type="MV"><c>have</c></NS> started at half past 7 pm but nothing happened. I waited and it <NS type="TV"><i>becomes</i><c>became</c></NS> 8 o'clock pm - nothing happened. At quarter past 8 pm the show started and I was looking for Danny Brook and Tina Truelove. But I saw some foreign actors I didn't know. I was very <NS type="R">wrong and afraid about</NS> it and I <NS type="TV"><i>remember</i><c>remembered</c></NS> that this was the third problem <NS type="RD"><i>this</i><c>that</c></NS> evening. <NS type="R"><i>By</i><c>When</c></NS> arriving at the theatre there were no discounts available. Now I asked myself if there <NS type="TV"><i>will</i><c>would</c></NS> <NS type="RV"><i>come</i><c>be</c></NS> another problem. The problem came. The restaurant, which I decided to visit after the show <NS type="UT"><i>for</i></NS> <NS type="FV"><i>eating</i><c>to eat</c></NS> something, was closed without any <NS type="S"><i>explaination</i><c>explanation</c></NS> and the perfect evening was completely <NS type="DJ"><i>unperfect</i><c>imperfect</c></NS>.</p>
+          <p>I think <NS type="AGA"><i>this</i><c>these</c></NS> are reasons enough <NS type="UT"><i>for</i></NS> <NS type="FV"><i>enquiring</i><c>to enquire</c></NS> about <NS type="MV"><c>getting</c></NS> some money back.</p>
+          <p>I would be <NS type="DJ"><i>gladly</i><c>glad</c></NS> to get an answer from you.</p>
+          <p>Faithfully,</p>
+          <p>Bergut Hunrtner</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>What will we wear 100 years from now?</p>
+          <p>Fashion <NS type="TV"><i>changed</i><c>changes</c></NS> every year. Do you remember what people wore 100 years ago? And by the way<NS type="MP"><c>,</c></NS> do you believe that they also thought the fashion never changed? But <NS type="UD"><i>the</i></NS> fashion <NS type="TV"><i>changed</i><c>changes</c></NS>.</p>
+          <p>100 years ago <NS type="UD"><i>the</i></NS> people wore long <NS type="RN">clothes</NS> and <NS type="RJ"><i>large</i><c>big</c></NS> <NS type="RN"><i>robes</i><c>skirts</c></NS>. You can say they wore a lot of clothes at one time.</p>
+          <p><NS type="S"><i>Nowaday</i><c>Nowadays</c></NS> people wear <NS type="CQ"><i><NS type="IQ"><i>lesser</i><c>less</c></NS></i><c>fewer</c></NS> clothes. Often you <NS type="RV"><i><NS type="AGV"><i>causes</i><c>cause</c></NS></i><c>wear</c></NS> very <NS type="S"><i>litte</i><c>little</c></NS> <NS type="RC"><i>and</i><c>but</c></NS> short <NS type="RN"><i>robes</i><c>skirts</c></NS> and tops. Often you show your skin because <NS type="MP"><i>its</i><c>it's</c></NS> popular <NS type="M"><c>to do that</c></NS> and everyone <NS type="AGV"><i>do</i><c>does</c></NS> it. So <NS type="TV"><i>it's</i><c>it will be</c></NS> possible to wear nothing in the future. A lot of <NS type="SX"><i>thinks</i><c>things</c></NS> will be easier to do.</p>
+          <p>But in the winter there's still a problem <NS type="UA"><i>which</i></NS> <NS type="UV"><i>is</i></NS> to solve. In the winter you'll freeze. But this problem is solving <NS type="UT"><i>by</i></NS> <NS type="S"><i>itselfes</i><c>itself</c></NS>. The <NS type="S"><i>sommers</i><c>summers</c></NS> and winters get warmer. The <NS type="RN"><i>season</i><c>reason</c></NS> for this is <NS type="UD"><i>the</i></NS> global warming, which is the <NS type="RN"><i>salvation</i><c>solution</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> the problem and another reason why this idea is possible.</p>
+          <p>But <NS type="RT"><i>by</i><c>in</c></NS> some situations you have to wear something. The clothes you'll wear will be very extraordinary because of their special <NS type="RN"><i>kind</i><c>method</c></NS> of <NS type="DN"><i>producing</i><c>production</c></NS>.</p>
+          <p>So don't laugh <NS type="RT"><i>about</i><c>at</c></NS> this idea. Think about this idea and perhaps you'll understand it. It's possible.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

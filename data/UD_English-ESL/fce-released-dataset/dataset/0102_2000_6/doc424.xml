@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR167*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir</p>
+          <p>During my holidays in London I went to see your musical show.</p>
+          <p>It was a very <NS type="S"><i>unpleasent</i><c>unpleasant</c></NS> evening. First of all, it had <NS type="RV"><i>read</i><c>said</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the advertisement that Danny Brook was starring <NS type="RT"><i>at</i><c>in</c></NS> this show. But someone else <NS type="RV"><i>participated</i><c>performed</c></NS> instead of him. The other actor was very disappointing.</p>
+          <p>The second problem was the start of the show. It began at 20:15 and not at 19:30! That's almost an hour later. I had read that there would be <NS type="W"><i>available some discounts</i><c>some discounts available</c></NS>, but I <NS type="RV"><i>became</i><c>received</c></NS> none of them.</p>
+          <p>The restaurant should <NS type="FV"><i>had</i><c>have</c></NS> been <NS type="DJ"><i><NS type="S"><i>oppened</i><c>opened</c></NS></i><c>open</c></NS> when I came out, but it was closed because of the <NS type="RN"><i>hour</i><c>time</c></NS> the show finished.</p>
+          <p>It wasn't a perfect evening at all. I hope you can understand my disappointment and <NS type="MC"><c>why</c></NS> <NS type="MA"><c>I</c></NS> ask for my money back.</p>
+          <p>Faithfully yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="ID"><i>In our days</i><c>Nowadays</c></NS>, nobody can live without technology.</p>
+          <p>My day, for example, begins with a lot of noise. The <NS type="RN"><i>timer</i><c>alarm</c></NS> <NS type="RT"><i>of</i><c>on</c></NS> my radio wakes me up at half past six.</p>
+          <p>I <NS type="RV"><i>stand</i><c>get</c></NS> up, go <NS type="MT"><c>to</c></NS> the kitchen and prepare myself something to eat in the microwave.</p>
+          <p>After <NS type="S"><i>breakfeast</i><c>breakfast</c></NS> I have to use my car to get to school. Without my car I would always <NS type="RV"><i>reach</i><c>arrive</c></NS> late. At school the computer has become an important new tool. I use it to <NS type="R">make compositions</NS>, to print some pictures or to surf <NS type="UT"><i>on</i></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS>. After school I relax in front of the TV and talk a lot with my friends <NS type="RT"><i>per</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> telephone.</p>
+          <p>Without <NS type="UD"><i>these</i></NS> technology I would get <NS type="DY"><i>realy</i><c>really</c></NS> bored.</p>
+          <p>Now, I <NS type="RV"><i>loose</i><c>lose</c></NS> less <NS type="UT"><i>of</i></NS> time and can use <NS type="UD"><i>the</i></NS> technology to enjoy myself.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

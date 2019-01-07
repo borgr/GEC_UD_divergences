@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR295*0100*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>17.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>13/6/2000-11-07</p>
+          <p>Dear <NS type="UN"><i>Madam</i></NS> Helen Ryan</p>
+          <p>First of all, we <NS type="MV"><c>are</c></NS> happy to <NS type="MV"><c>have</c></NS> won the first prize <NS type="RT"><i>on</i><c>in</c></NS> your competition. Thank you for <NS type="IV"><i>choosen</i><c>choosing</c></NS> our ticket <NS type="R">at the final</NS>.</p>
+          <p>We <NS type="MV"><c>would</c></NS> like to go <NS type="RT"><i>on</i><c>in</c></NS> July, because my wife Catrin <NS type="R">just have holidays next month</NS>. We <NS type="MV"><c>would</c></NS> prefer the last two weeks <NS type="RT"><i>on</i><c>in</c></NS> July. Would that be fine for you too?</p>
+          <p>Is there a <NS type="RN"><i>possibility</i><c>chance</c></NS> to stay in a log cabin. I <NS type="W"><i>have sometimes</i><c>sometimes have</c></NS> <NS type="FN"><i>troubles</i><c>trouble</c></NS> with backache when I <NS type="TV"><i><NS type="S"><i>coud't</i><c>couldn't</c></NS></i><c>can't</c></NS> sleep on a flat <NS type="RN"><i>ground</i><c>surface</c></NS>.</p>
+          <p>It would be great if we <NS type="TV"><i>can</i><c>could</c></NS> <NS type="DV"><i>choosen</i><c>choose</c></NS> swimming and <NS type="RP"><i>Golf</i><c>golf</c></NS>. My wife Catrin is a local <NS type="RN"><i>master</i><c>champion</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> swimming <NS type="FN"><i>race</i><c>races</c></NS>. <NS type="RP"><i>Im</i><c>I'm</c></NS> not so good as her, but <NS type="TV"><i>I'm going</i><c>I go</c></NS> <NS type="W"><i>every week once</i><c>once every week</c></NS> to her training <NS type="MN"><c>session</c></NS>. <NS type="RT"><i>In</i><c>At</c></NS> <NS type="RP"><i>Golf</i><c>golf</c></NS>, we are both total beginners. We have no experience but we <NS type="MV"><c>would</c></NS> like to learn this game.</p>
+          <p>We are both a little <NS type="RJ"><i>afraid</i><c>worried</c></NS><NS type="RP"><i>, what</i><c>.  What</c></NS> kind of clothes and shoes <NS type="MV"><c>do</c></NS> we have to take <NS type="UY"><i>off</i></NS> with us? <NS type="R"><i>Which temperature will be</i><c>What will the temperature be</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the summer season in this area? <NS type="AGV"><i>Are</i><c>Is</c></NS> there <NS type="RQ"><i>some</i><c>any</c></NS> possibility <NS type="M"><c>we could</c></NS> <NS type="FV"><i>to rent</i><c>rent</c></NS> <NS type="UD"><i>the</i></NS> <NS type="RP"><i>golfshoes</i><c>golf shoes</c></NS>?</p>
+          <p>Finally, we <NS type="MV"><c>would</c></NS> like to know<NS type="UP"><i>,</i></NS> when you will send us the <NS type="RP"><i>airline-tickets</i><c>airline tickets</c></NS> and the <NS type="S"><i>tripbrochure</i><c>brochure</c></NS>. Moreover, <NS type="UA"><i>what</i></NS> <NS type="W"><i>do <NS type="MA"><c>you</c></NS> think how much <NS type="RP"><i>pocketmoney</i><c>pocket money</c></NS> we will <NS type="FV"><i>spent</i><c>spend</c></NS></i><c>how much money do you think we will spend</c></NS> on this trip<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>We <NS type="MV"><c>are</c></NS> looking forward to hearing from you soon.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+          <p>Leon Hofmann</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>13/6/2000</p>
+          <p>Dear Kim</p>
+          <p>Thank you very much for your last lovely letter. I'm fine. How are you?</p>
+          <p>You are <NS type="S"><i>interessted</i><c>interested</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> my last job! I really <NS type="RV"><i>like</i><c>want</c></NS> to tell you all <NS type="MT"><c>about</c></NS> my experience.</p>
+          <p>However, I'm happy that we <NS type="TV"><i>finished</i><c>have finished</c></NS> this hard work. I worked in a team <NS type="RT"><i>by</i><c>of</c></NS> seven people. We were mainly <NS type="UT"><i>on</i></NS> <NS type="FV"><i>work</i><c>working</c></NS> <NS type="RT"><i>for</i><c>on</c></NS> all the lights at this great concert. <NS type="DA"><i>Its</i><c>It</c></NS> sounds easy, just <NS type="R"><i>for</i><c>doing</c></NS> the <NS type="RN"><i>light</i><c>lighting</c></NS>.</p>
+          <p>In addition, it was <NS type="UD"><i>a</i></NS> nine days <NS type="MT"><c>of</c></NS> hard work to mount all the different spot and <NS type="S"><i>houndreds</i><c>hundreds</c></NS> of Coblights <NS type="RT"><i>on</i><c>in</c></NS> the right place.</p>
+          <p>Finally, we <NS type="TV"><i>had worked</i><c>worked</c></NS> the <NS type="S"><i>hohl</i><c>whole</c></NS> night <NS type="S"><i>befor</i><c>before</c></NS> the concert. We had to adjust the laser <NS type="DY"><i>extremly</i><c>extremely</c></NS> <NS type="MY"><c>carefully</c></NS>  <NS type="R"><i>on</i><c>to get it in</c></NS> the correct position. We spent hours <NS type="M"><c>on this</c></NS> till it was good enough for the <NS type="RP"><i><NS type="S"><i>Technical-manger</i><c>Technical-manager</c></NS></i><c>technical manager</c></NS>. Moreover, the band was exhausted <NS type="RT"><i>about</i><c>by</c></NS> this great laser show <NS type="RT"><i>at</i><c>in</c></NS> the end.</p>
+          <p>For me <NS type="W"><i>was this <NS type="S"><i>aventure</i><c>adventure</c></NS> one of the <NS type="RP"><i>Best</i><c>best</c></NS></i><c>this adventure was one of the best</c></NS>. It shows <NS type="MA"><c>that</c></NS>, when all <NS type="AGN"><i>member</i><c>members</c></NS> of a group work hard together, you can <NS type="RV"><i>reach</i><c>achieve</c></NS> a lot.</p>
+          <p><NS type="R">I think I can't forgotten this experience on my mind</NS></p>
+          <p>Lots of Love</p>
+          <p>Leon</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

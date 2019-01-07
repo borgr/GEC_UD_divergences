@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE80*0100*2001*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Smith,</p>
+          <p>I am writing in reply to your letter. I am sorry about Richard Brown. And I understand that you need help, so <NS type="UC"><i>that</i></NS> I will help you as far as I can.</p>
+          <p>Firstly, the hotel which <NS type="S"><i>ha</i><c>has</c></NS> been booked for you is Palace Hotel <NS type="RA"><i>that</i><c>which</c></NS> is located close to the conference. In order to get from the hotel to the conference, you just need to take the bus we will <NS type="RV"><i>offer</i><c>provide</c></NS>. Secondly, the end-of-conference party will take place in the same hall as the conference at 6 p.m., which includes dinner and an announcement by the president of the conference. The party is arranged as a casual party, therefore, you can wear comfortable clothes. You can expect to meet many students from other schools as well. Finally, if you want to have an exciting experience <NS type="UT"><i>in</i></NS> here, I strongly suggest that you go to the musicals. As you may <NS type="TV"><i>hear</i><c>have heard</c></NS>, our city is well known for the musicals. Or, <NS type="RP"><i>If</i><c>if</c></NS> you want to relax, you can take a walk in the park situated <NS type="RT"><i>in</i><c>at</c></NS> ten <NS type="MP"><i>minutes</i><c>minutes'</c></NS> distance on foot from the hotel. Whatever you choose, you will be satisfied with your choice.</p>
+          <p>If you have more questions about the conference <NS type="RC"><i>and</i><c>or</c></NS> <NS type="RA"><i>something</i><c>anything</c></NS> else, do not hesitate to ask me. I would be glad to be able to help you.</p>
+          <p>Yours sincerely, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Some inventions are not regarded as great things even though <NS type="UD"><i>the</i></NS> life without them cannot be imagined. People do not <NS type="R">have the impression on important inventions any more</NS>, because they have been getting more popular and common.</p>
+          <p>However, there is something <NS type="MT"><c>about</c></NS> which <NS type="MA"><c>it</c></NS> is still believed that it was an <NS type="S"><i>extreamly</i><c>extremely</c></NS> important invention. This is electricity<NS type="MP"><c>,</c></NS> invented by Edison. <NS type="ID"><i>From my point of view</i><c>In my opinion</c></NS>, the reason why electricity is such an important invention is that most <NS type="UT"><i>of</i></NS> machines, appliances and <NS type="CN"><i>equipments</i><c>equipment</c></NS> which are used in modern times can <NS type="W"><i>be operated with only</i><c>only be operated with</c></NS> electricity, which makes people not <NS type="SX"><i>to</i><c>do</c></NS> too much <NS type="S"><i>phisical</i><c>physical</c></NS> labour. What is more, many inventions have been accelerated by electricity.</p>
+          <p>In my life, I use electricity in many different ways. At night, I can study because of it. <NS type="W"><i>and also It</i><c>And it also</c></NS> saves my time which would be used up <NS type="UT"><i>for</i></NS> doing housework such as laundry, cleaning rooms and ironing. It makes my life more convenient than <NS type="R"><i>that without it</i><c>it would be without it</c></NS>.</p>
+          <p>To sum up, although people do not feel that electricity is a great invention any more, the fact that electricity is one of the most important inventions in the world will not be changed.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

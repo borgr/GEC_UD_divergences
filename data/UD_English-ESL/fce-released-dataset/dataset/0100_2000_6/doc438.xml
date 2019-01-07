@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR173*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>With regard to your letter, I would like to thank and congratulate you for making possible <NS type="AS"><i>such a wonderful event as your competition is</i><c>an event as wonderful as your competition</c></NS>.</p>
+          <p>If it <NS type="TV"><i>was</i><c>is</c></NS> possible <NS type="MP"><i>id</i><c>I'd</c></NS> prefer to <NS type="RV"><i>pass</i><c>spend</c></NS> the two weeks mentioned in your letter during July. In August I'll be working, so <NS type="UC"><i>that</i></NS> it will be impossible for me to enjoy my prize during <NS type="RD"><i>this</i><c>that</c></NS> month.</p>
+          <p>About the <NS type="S"><i>acommodation</i><c>accommodation</c></NS>, <NS type="RT"><i>out of</i><c>from</c></NS> the two <NS type="RN"><i>possibilities</i><c>options</c></NS>, I choose <NS type="FV"><i>sleeping</i><c>to sleep</c></NS> in a tent, because I think that a log cabin isn't as authentic as a tent, at the camp.</p>
+          <p>My two activities chosen from the list are climbing and surfing. My skills in these activities <NS type="R"><i>are very different</i><c>differ widely</c></NS>: while <NS type="RT"><i>in</i><c>regarding</c></NS> climbing, this will be the first time I <NS type="TV"><i>climb</i><c>have climbed</c></NS><NS type="RT"><i><NS type="RP"><i>. In</i><c>; in</c></NS></i><c>, regarding</c></NS> surfing<NS type="MP"><c>,</c></NS> learning won't be a problem because I have been doing it since I was ten years old.</p>
+          <p><NS type="RA"><i>It</i><c>I</c></NS> would be <NS type="S"><i>greatful</i><c>grateful</c></NS> if you could send me further information about details like how much money <NS type="SX"><i>on</i><c>or</c></NS> what kind of clothes I'll have to take with me.</p>
+          <p>Yours sincerely</p>
+          <p>Gil Sanchez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Sorry for not having written <NS type="MT"><c>to</c></NS> you in the last month. You know that I'm a little bit lazy, but the main reason for not <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you has been the <NS type="S"><i>accummulation</i><c>accumulation</c></NS> of exams during this month.</p>
+          <p>Do you remember that I had to help <NS type="RT"><i>in</i><c>at</c></NS> a pop concert? Well the concert was Friday night and I went there with the Red Cross volunteers<NS type="RP"><i>, did</i><c>. Did</c></NS> you know I'm one of them?</p>
+          <p>There I <NS type="RV"><i>got</i><c>was</c></NS> impressed <NS type="RT"><i>of</i><c>by</c></NS> how a singer can cause such <NS type="S"><i>histerism</i><c>hysteria</c></NS> in <NS type="UD"><i>the</i></NS> teenagers. During the <NS type="R"><i>two hours of</i><c>two-hour</c></NS> concert we had to attend <NS type="MT"><c>to</c></NS> thirty-six people<NS type="UP"><i>,</i></NS> who became <NS type="DJ"><i>inconscious</i><c>unconscious</c></NS> after being trapped in the first <NS type="RN"><i>line</i><c>row</c></NS> by the other people. Can you imagine? Thirty-six people in two hours! If you have to help <NS type="RT"><i>in</i><c>at</c></NS> a concert <NS type="R"><i>and you can avoid it. Do it!</i><c>avoid it if you can.</c></NS> It's the best thing you can do <NS type="ID">in this case</NS>.</p>
+          <p>Well, I hope you won't be as lazy as me and you'll write soon.</p>
+          <p>Lots of love.</p>
+          <p>Gil Sanchez</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR730*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I'm writing to you to thank you for the programme you have organised. All <NS type="MD"><c>the</c></NS> students are very pleased and we are looking forward to <NS type="FV"><i>go</i><c>going</c></NS> to London. We know we are going for <NS type="MY"><c>only</c></NS> three days, but we'll have enough time to <NS type="RV"><i>use</i><c>see</c></NS> one of the <NS type="FJ"><i>bigger</i><c>biggest</c></NS> <NS type="AGN"><i>city</i><c>cities</c></NS> in the world.</p>
+          <p>London is the place to be <NS type="RC"><i>when</i><c>because</c></NS> <NS type="M"><c>there is</c></NS> always something happening.</p>
+          <p>We <NS type="MV"><c>are</c></NS> all very happy with your programme, <NS type="W"><i>especially we</i><c>we especially</c></NS> like the idea of <NS type="MV"><c>going</c></NS> sightseeing by <NS type="DA"><i>our</i><c>ourselves</c></NS> and <NS type="M"><c>visiting the</c></NS> National Art Gallery.</p>
+          <p>The students in my class have seen an advertisement for the London Fashion and Leisure Show, <NS type="MC"><c>and</c></NS> we would like to ask you if <NS type="MA"><c>it</c></NS> is possible to make some changes <NS type="RT"><i>in</i><c>to</c></NS> the programme<NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>The show is on Tuesday <NS type="UD"><i>the</i></NS> 14th between 10.00<NS type="UP"><i>-</i></NS> <NS type="MC"><c>and</c></NS> 13.00. We think <NS type="MA"><c>it</c></NS> is <NS type="RD"><i>the</i><c>a</c></NS> great opportunity to see <NS type="MD"><c>the</c></NS> latest <NS type="FN"><i>fashion</i><c>fashions</c></NS>, <NS type="MC"><c>and</c></NS> find <NS type="MY"><c>out</c></NS> about <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. And all of it is free<NS type="RP"><i>,</i><c>.</c></NS> According to your programme<NS type="MP"><c>,</c></NS> we have the <NS type="RP"><i>science</i><c>Science</c></NS> Museum which is in the morning and then shopping. Would it be possible to go to the Museum and then <NS type="MV"><c>go</c></NS> <NS type="U"><i>for the</i></NS> shopping in our free time<NS type="MP"><c>,</c></NS> which is on Wednesday?</p>
+          <p>All <NS type="MD"><c>the</c></NS> students <NS type="TV"><i>will</i><c>would</c></NS> be very <NS type="S"><i>greatful</i><c>grateful</c></NS> <NS type="M"></NS>.</p>
+          <p><NS type="RP"><i><NS type="DA"><i>your</i><c>yours</c></NS></i><c>Yours</c></NS> <NS type="DY"><i>sincerly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I think for all of us home is something which is <NS type="UD"><i>a</i></NS> very important. Home sweet home. We call home the place where we live or the country where we come <NS type="S"><i>frome</i><c>from</c></NS>.</p>
+          <p>Anyway home is always the place to go because <NS type="MA"><c>it</c></NS> is ours<NS type="MP"><c>,</c></NS> we feel <NS type="DJ"><i>save</i><c>safe</c></NS> and comfortable <NS type="M"><c>there</c></NS>. Home sweet home.</p>
+          <p>After hard work<NS type="MP"><c>,</c></NS> we want to go home to have our corner where we are <NS type="UQ"><i>all</i></NS> able to rest and relax.</p>
+          <p>I think in the future home might be just the place to go to sleep.</p>
+          <p>We live in <NS type="RD"><i>the</i><c>a</c></NS> very busy world! Working long hours, doing plenty of <NS type="S"><i>activieties</i><c>activities</c></NS>, going out, going on holidays. We <NS type="W"><i>even don't</i><c>don't even</c></NS> spend time with <NS type="MD"><c>our</c></NS> families. <NS type="S"><i>Propably</i><c>Probably</c></NS> in the future we <NS type="TV"><i>might</i><c>may</c></NS> be <NS type="SX"><i>to</i><c>too</c></NS> busy to go to our own home and spend some time there.</p>
+          <p>But <NS type="RT"><i>in</i><c>at</c></NS> the end of the day it <NS type="W"><i><NS type="S"><i>alway</i><c>always</c></NS> will</i><c>will always</c></NS> be <NS type="MD"><c>the</c></NS> place to go! We find our family there and our life. Some of us have been living in <NS type="MD"><c>the</c></NS> <NS type="R"><i>one</i><c>same</c></NS> house since <NS type="RA"><i>they</i><c>we</c></NS> were born. We are sentimental and we have <NS type="FN"><i>memory</i><c>memories</c></NS> from the past. I think it's a part of our life.<NS type="U"><i>lf</i></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

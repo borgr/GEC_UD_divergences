@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR427*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>Thank you very much for your letter<NS type="MP"><c>,</c></NS> which informed me that I have won the first prize <NS type="RT"><i>for</i><c>of</c></NS> two weeks at Camp California in the U.S.A. Here <NS type="AGV"><i>are</i><c>is</c></NS> some information as requested.</p>
+          <p>Please <NS type="FV"><i>noted</i><c>note</c></NS> that I can only travel in July because of <NS type="MD"><c>the</c></NS> summer holiday <NS type="MP"><i>shut down</i><c>shut-down</c></NS>. It <NS type="RV"><i>would</i><c>could</c></NS> be any day but please let me know <NS type="S"><i>nearner</i><c>nearer</c></NS> the time.</p>
+          <p>I would prefer the log cabins <NS type="R"><i>than</i><c>to</c></NS> tents. I think the log cabin is more fun &amp; exciting. The activities that I would like to do are painting and playing <NS type="UD"><i>a</i></NS> Golf. I <NS type="TV"><i>have won</i><c>won</c></NS> <NS type="UD"><i>a</i></NS> first prize for painting when I was at High School, and won <NS type="UD"><i>a</i></NS> third prize <NS type="UT"><i>of</i></NS> playing Golf for a Charity.</p>
+          <p>Could you please tell me <NS type="UT"><i>for</i></NS> what sort of clothes <NS type="UV"><i>do</i></NS> I need and how much money to take.</p>
+          <p>I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you and if you need more information, please do not hesitate to contact me.</p>
+          <p>Yours sincerely</p>
+          <p>Sunee Boonliang-Hampson</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Shopping is an ordinary <NS type="RN">way of life</NS>. We always need fresh food such as vegetables, <NS type="FN"><i>fruits</i><c>fruit</c></NS>, milk <NS type="UC"><i>and</i></NS> etc. <NS type="RY">At least</NS> most people will do their shopping twice a week for <NS type="UD"><i>a</i></NS> fresh food. You might think shopping is enjoyable but I don't think it <NS type="MV"><c>is</c></NS> always enjoyable. You have to try to park your <NS type="S"><i>cark</i><c>car</c></NS> first<NS type="MP"><c>,</c></NS> <NS type="R"><i>which</i><c>and</c></NS> <NS type="RY"><i>sometime</i><c>sometimes</c></NS> the <NS type="RN"><i>space</i><c>car parks</c></NS> are <NS type="DJ"><i>fulled</i><c>full</c></NS> and after you have parked your car and <NS type="RV"><i><NS type="TV"><i>went</i><c>gone</c></NS></i><c>got</c></NS> <NS type="RT"><i>in</i><c>into</c></NS> the supermarket the product you wanted <NS type="AGV"><i>have</i><c>has</c></NS> run out so you have to <NS type="FV"><i>changes</i><c>change</c></NS> your plan for dinner or <NS type="FV"><i>going</i><c>go</c></NS> to another supermarket to <NS type="FV"><i>facing</i><c>face</c></NS> a long queue. <NS type="RP"><i>that</i><c>That</c></NS> <NS type="AGV"><i>make</i><c>makes</c></NS> <NS type="R">you whole day for shopping</NS> which was not fun at all.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

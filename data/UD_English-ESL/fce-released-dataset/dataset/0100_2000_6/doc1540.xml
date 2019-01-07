@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR593*0100*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I received your letter last week and I would like to thank you very much. I was really surprised and happy to hear that I <NS type="TV"><i>won</i><c>had won</c></NS> the first prize<NS type="MP"><c>. </c></NS> <NS type="RT"><i>On</i><c>In</c></NS> your letter you ask me some questions about my <NS type="RN"><i>wishes</i><c>preferences</c></NS>:</p>
+          <p>First of all, I would prefer <NS type="FV"><i>travelling</i><c>to travel</c></NS> during the month of July, because I have already booked a holiday with my cousins in August.</p>
+          <p>Secondly, I would prefer <NS type="FV"><i>sleeping</i><c>to sleep</c></NS> in a tent because I am <NS type="MD"><c>a</c></NS> very active person who loves the outdoor life. Thirdly, I am keen on sailing and I have been lucky enough to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> this sport<NS type="RP"><i>, moreover</i><c>.  Moreover</c></NS>, I <NS type="RV"><i>passed</i><c>got</c></NS> my licence last year in Port Camargue in France so <NS type="RA"><i>it</i><c>that</c></NS> means that I can teach this sport. I also choose <NS type="UD"><i>the</i></NS> <NS type="RP"><i>Golf</i><c>golf</c></NS><NS type="MP"><c>. </c></NS> I have never <NS type="RV"><i>played</i><c>tried</c></NS> this sport but I am sure I will enjoy it. Would you be kind enough to tell <NS type="MA"><c>me</c></NS> if I need <NS type="MQ"><c>any</c></NS> special clothes or equipment? Furthermore could you give me an idea about the pocket money I need?</p>
+          <p>Please do not hesitate to contact me if you need more information about me.</p>
+          <p>Looking forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+          <p>Brigitte Bourgeois</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>From: Brigitte Bourgeois</p>
+          <p>To: Mrs Darley - teacher</p>
+          <p>Subject: short video about daily life at our school.</p>
+          <p>The purpose of this report is to identify which lessons or other activities should be filmed. In order<NS type="UP"><i>,</i></NS> to prepare this report I visited <NS type="W"><i><NS type="RT"><i>in</i><c>on</c></NS> many occasions the classrooms</i><c>the classrooms on many occasions</c></NS> and talked to the students and teachers.</p>
+          <p>It seems to me that it <NS type="TV"><i>will</i><c>would</c></NS> be a nice idea to show our library because<NS type="MP"><c>,</c></NS> according to the librarians, the library has a welcoming atmosphere and is also <NS type="MP"><i>well-used</i><c>well used</c></NS><NS type="RP"><i>, moreover</i><c>Moreover,</c></NS> the range of books and newspapers is very <NS type="RJ"><i>large</i><c>broad</c></NS> and useful. The students <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> that it would be very <NS type="S"><i>interessting</i><c>interesting</c></NS> to show the English <NS type="RN"><i>course</i><c>lesson</c></NS> because some foreign students will probably join our college next year and it is the best way for them to <NS type="RV"><i>discover</i><c>find out</c></NS> <NS type="MT"><c>about</c></NS> our English course.</p>
+          <p>To sum up, I would suggest <NS type="FV"><i>to film</i><c>filming</c></NS> our library<NS type="MP"><c>,</c></NS> because it is a pleasant place that students really like<NS type="MP"><c>,</c></NS> and the English <NS type="RN"><i>course</i><c>lesson</c></NS><NS type="MP"><c>,</c></NS> which will help foreign students <NS type="RT"><i>for</i><c>in</c></NS> their future <NS type="RN"><i>choice</i><c>decisions</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR310*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I am writing in reply to your letter, which I <NS type="TV"><i>have received</i><c>received</c></NS> last week, and in fact I am very surprised and <NS type="DJ"><i>please</i><c>pleased</c></NS> <NS type="RT"><i>for</i><c>with</c></NS> the prize.</p>
+          <p>First of all I would like to travel in July because <NS type="MA"><c>it</c></NS> is my <NS type="MY"><c>only</c></NS> free month<NS type="MP"><c>,</c></NS> since I am student and I am very busy <NS type="UT"><i>during</i></NS> all year.</p>
+          <p>Secondly, <NS type="RT"><i>according to</i><c>regarding</c></NS> accommodation, I would prefer to stay in a <NS type="RJ"><i>long</i><c>log</c></NS> cabin, <NS type="R"><i>due to</i><c>because</c></NS> I used to use <NS type="RD"><i>the</i><c>a</c></NS> tent on holiday and I haven't <NS type="R">got very good experiences</NS>.</p>
+          <p>Thirdly I chose photography and swimming because I have previous experience in these activities and of course I have some diplomas which I will send you.</p>
+          <p>In addition, I work every summer as a <NS type="RN">Monitor</NS> <NS type="RT"><i>in</i><c>at</c></NS> the leisure centre in my town.</p>
+          <p>Apart from this<NS type="MP"><c>,</c></NS> photography is one of my <NS type="SA"><i>favorite</i><c>favourite</c></NS> hobbies and I usually <NS type="TV"><i>spent</i><c>spend</c></NS> nearly all my spare time <NS type="RV"><i>practising</i><c>doing</c></NS> it and of course I have some diplomas as well.</p>
+          <p>Lastly I would like to ask you <NS type="UT"><i>for</i></NS> some questions.</p>
+          <p><NS type="U"><i>On the one hand</i></NS> I would like to have further information about <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes I need for that area. I don't know if I have to bring only light clothes or both <NS type="M"><c>light and heavy clothes</c></NS>.</p>
+          <p><NS type="U"><i>On the other hand</i></NS> I would like to request <NS type="R"><i>all details of</i><c>some information about</c></NS> accommodation and if you could <NS type="S"><i>specifie</i><c>specify</c></NS> what this trip includes, since I need to know how much money I have to take.</p>
+          <p>I look forward to receiving a prompt reply.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Hello<NS type="MP"><c>,</c></NS> it's been ages since we were in touch<NS type="RP"><i>,</i><c>.</c></NS> I'm sorry I haven't written to you for such a long time but I <NS type="TV"><i>have been</i><c>was</c></NS> very busy last month, with this job.</p>
+          <p>I have to tell you that this experience was wonderful and in fact I enjoyed <NS type="MA"><c>it</c></NS> a lot and of course I <NS type="RV"><i>knew</i><c>got to know</c></NS> a lot of people there.</p>
+          <p>I found this opportunity through the Radio in an advertisement.</p>
+          <p><NS type="U"><i>On the one hand at</i><c>At</c></NS> first I was a little <NS type="DJ"><i>insure</i><c>unsure</c></NS> about <NS type="RC"><i>if</i><c>whether</c></NS> I was able to do this job, because they needed people with some skills and experience. But later I decided to call them and ask them for further information about this job.</p>
+          <p>After <NS type="FD"><i>a</i><c>an</c></NS> interview I was chosen for <NS type="R"><i>it</i><c>the job</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I couldn't believe it. I feel that this was a good <NS type="S"><i>oportunity</i><c>opportunity</c></NS> for me, not only for my professional but also for my personal life.</p>
+          <p>Moreover I <NS type="RV">practised</NS> a lot of <NS type="AGN"><i>aspect</i><c>aspects</c></NS> of my speciality, <NS type="MA"><c>which</c></NS> for me was the most important <NS type="R">real experience</NS>.</p>
+          <p><NS type="R">According to my job,</NS> I had to help the teams with the outlights and<NS type="MP"><c>,</c></NS> of course<NS type="MP"><c>,</c></NS> it <NS type="TV"><i>had been</i><c>was</c></NS> my first <NS type="S"><i>proffesional</i><c>professional</c></NS> experience: <NS type="ID"><i>at the end</i><c>in the end</c></NS> I felt <NS type="MT"><c>like</c></NS> <NS type="RN"><i>a member</i><c>one</c></NS> of them, because they were so kind to me, and I could <NS type="RV"><i><NS type="TV"><i><NS type="S"><i>colaborated</i><c>collaborated</c></NS></i><c>collaborate</c></NS></i><c>help</c></NS> a lot <NS type="UT"><i>of</i></NS> and I learnt a lot with this project.</p>
+          <p>Furthermore, I found <NS type="R"><i>it very short time</i><c>the time went quickly</c></NS> and they offered me <NS type="MD"><c>a</c></NS> new project for the summer.</p>
+          <p>I hope to hear from you soon.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

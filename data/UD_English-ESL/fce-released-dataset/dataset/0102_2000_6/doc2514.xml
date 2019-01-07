@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1021*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>I am writing this letter to remind you <NS type="MT"><c>of</c></NS> some faults of your theatre. I think this will help your organization to improve itself.</p>
+          <p>From my point of view, your organisation has to be careful <NS type="R">to <NS type="S"><i>orginize</i><c>organise</c></NS> an activity</NS>. Last week I was in London. I attended <NS type="UT"><i>to</i></NS> your <NS type="RN">activity</NS>. I'm sorry but I didn't have a good <NS type="RN">remark</NS> of your <NS type="RN">activity</NS> when I left. I know the quality of your organization. That's why I wanted to write <NS type="MT"><c>to</c></NS> you.</p>
+          <p><NS type="MD"><i>First</i><c>The first</c></NS> time, when I saw the advertisement <NS type="RT"><i>on</i><c>in</c></NS> the newspaper, I really <NS type="RV">appreciated</NS>. I wanted to see the play as quickly as possible. <NS type="R">Coming an hour earlier is the proof of my feeling</NS>.</p>
+          <p>Finally, time passed and it was supposed to begin. But it didn't. I waited 45 minutes more to see the play. Anyway, it wasn't important for me<NS type="UP"><i>. Because</i><c> because</c></NS><NS type="UP"><i>,</i></NS> I believe that if you want to get <NS type="UD"><i>a</i></NS> satisfaction you have to sacrifice a little bit. But <NS type="RA"><i>it</i><c>that</c></NS> wasn't all. <NS type="RY">On the other hand</NS>, I couldn't see the same actors whose <NS type="FN"><i>name</i><c>names</c></NS> were written on the advertisement. I was really shocked<NS type="UP"><i>. Because</i><c> because</c></NS> from my point of view the <NS type="RN">buildings</NS> of a play are the actors. It was <NS type="RJ"><NS type="S"><i>unpleasent</i><c>unpleasant</c></NS></NS> for me to see different actors on the stage. In addition, you didn't keep your promise which <NS type="M"></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. But Beatrice didn't think so. That's why she <NS type="RV">came across with</NS> so many problems. They were best friends. Beatrice <NS type="TV"><i>was thinking</i><c>thought</c></NS> so. When she came to school, <NS type="RY"><i>first</i><c>at first</c></NS>, we wanted to warn her. On the other hand Beatrice and her family were our <NS type="MP"><i>next door</i><c>next-door</c></NS> neighbours. I knew her family better than everyone else. Her father never let her <NS type="FV"><i>to have</i><c>have</c></NS> a boyfriend. Yes, it was <NS type="UD"><i>a</i></NS> strange behaviour. Beatrice was 18 and she could manage. But her father didn't have the same opinion. That's all I knew about her.</p>
+          <p>Days passed. Beatrice and Pat were going everywhere together. Pat had a boyfriend. That's why Beatrice's father never liked Pat. One day Beatrice came <NS type="MT"><c>to</c></NS> me with some tears on her face. She was crying. I couldn't believe <NS type="MA"><c>it</c></NS><NS type="UP"><i>. Because</i><c> because</c></NS> I <NS type="TV"><i>got</i><c>had got</c></NS> used to seeing her <NS type="RY"><i>every time</i><c>always</c></NS> cheerful and laughing. But this time the situation was <NS type="RJ">inversed</NS>. When she came, I was studying for my final exam. She asked if we <NS type="MV"><c>could</c></NS> <NS type="FV"><i>spoke</i><c>speak</c></NS> a little bit. We went out and she told me all her story. I was shocked. She had told Pat that her father <NS type="RV"><i>hadn't</i><c>wouldn't</c></NS> let them <NS type="FV"><i>to be</i><c>be</c></NS> friends anymore. After that, Pat had told everyone that Beatrice's father <NS type="M"></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

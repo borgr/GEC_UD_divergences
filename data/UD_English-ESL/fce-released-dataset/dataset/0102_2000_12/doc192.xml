@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR738*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> Ms Clark,</p>
+          <p>I am writing to you in order to give you some advice about the annual International Arts Festival.</p>
+          <p>Last <NS type="RN">season</NS> I spent two days at the Festival. I enjoyed myself very much, but I think that the organization of the next festival could be better.</p>
+          <p>First of all, as I see it the idea of an Arts Festival is great because in this way many people can <NS type="RV"><i>know</i><c>get to know</c></NS> artists who <NS type="AGV"><i><NS type="S"><i>cames</i><c>comes</c></NS></i><c>come</c></NS> from different countries. Unfortunately, in the last <NS type="RN">edition</NS> <NS type="R"><i>there were</i><c>the</c></NS> artists <NS type="UA"><i>who</i></NS> <NS type="S"><i>cames</i><c>came</c></NS> from only six countries, so I think you should invite artists from other countries, for example from Africa.</p>
+          <p>Secondly, I appreciated the fact that there were concerts <NS type="RT"><i>of</i><c>for</c></NS> different <NS type="FN"><i>kind</i><c>kinds</c></NS> of music, but in this case the main problem was that some <NS type="IN"><i>concerts hall</i><c>concert halls</c></NS> were too small, and because of <NS type="RA"><i>it</i><c>that</c></NS> I couldn't see one of the concerts <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> programme.</p>
+          <p>In my opinion, one of the best things <NS type="RT"><i>of</i><c>about</c></NS> the last Festival was that there were not only concerts <NS type="MY"><c>there</c></NS>. I saw films and I played ping-pong. <NS type="RT"><i>In</i><c>At</c></NS> the next <NS type="RN">edition</NS> will <NS type="MY"><c>there</c></NS> be more or less <NS type="M"><c>of that</c></NS>? <NS type="W"><i>I hope more</i><c>More I hope</c></NS>. The thing that I liked much more than <NS type="R"><i>others</i><c>anything else</c></NS><NS type="UP"><i>,</i></NS> was that I <NS type="W"><i>had to buy only</i><c>only had to buy</c></NS> one ticket for all <NS type="MD"><c>the</c></NS> events, and it was <NS type="RY"><i>no</i><c>not</c></NS> pricey.</p>
+          <p>It is clear that for me the last Festival was really great, so I have only one suggestion to give you<NS type="RP"><i>,</i><c>.</c></NS> I think you should <NS type="RV"><i>do</i><c>have</c></NS> a <NS type="DN"><i>baby-parking</i><c>kindergarten</c></NS><NS type="RP"><i>, in</i><c>. In</c></NS> fact a certain number of women couldn't see the Festival because of their <NS type="RN"><i>sons</i><c>children</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I like <NS type="FV"><i>read</i><c>reading</c></NS> very much, because every book that I read shows me a different world. What I <NS type="TV"><i>try</i><c>am trying</c></NS> to explain is that in every book there are characters or situations <NS type="M"><c>that are</c></NS> really different.</p>
+          <p>So we can read realistic stories or fantastic <NS type="MA"><c>ones</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> depends <NS type="RT"><i>from</i><c>on</c></NS> what we prefer.</p>
+          <p>I always prefer <NS type="FV"><i>read</i><c>to read</c></NS> books that are <NS type="DJ"><i>inusual</i><c>unusual</c></NS> in some way, because they give me the opportunity <NS type="UT"><i>of</i></NS> <NS type="FV"><i>escape</i><c>to escape</c></NS> from <NS type="UD"><i>the</i></NS> everyday reality. One of my favourite books is without <NS type="FN"><i>doubts</i><c>doubt</c></NS><NS type="UP"><i>,</i></NS> Wuthering Heights<NS type="MP"><c>,</c></NS> a famous book written by Emily Brontë. The attention of the <unknown/> is focused on the unfortunate love <NS type="RT"><i>of</i><c>between</c></NS> Heatcliff and Catherine.</p>
+          <p>They are the main characters of that book, and what <NS type="AGV"><i><NS type="S"><i>caracterize</i><c>characterize</c></NS></i><c>characterizes</c></NS> them is the violence of their passions. In this book you can find only good or bad characters<NS type="RP"><i>,</i><c>;</c></NS> everything is good or bad. If you look at this book like a painting you can't see <NS type="DN">afumature</NS> of colours, you see only primary colours.</p>
+          <p>In other words, when I read a book I want to go <NS type="RT"><i>in</i><c>into</c></NS> a world where I can find something different from my everyday life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

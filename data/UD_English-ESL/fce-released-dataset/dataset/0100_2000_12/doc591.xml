@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR33*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>My name is ... and I am a student representative. I am writing to you on behalf of my class concerning our trip to London.</p>
+          <p>First of all I would like to thank you for organizing the programme. I read it and found it very good, <NS type="RY"><i>specially</i><c>especially</c></NS><NS type="UP"><i>,</i></NS> <NS type="MD"><c>the</c></NS> Science Museum and National Art Gallery as I am interested in arts.</p>
+          <p>However, I have a great proposition for you. <NS type="MD"><i>Students</i><c>The students</c></NS> in my class have recently seen an advertisement for the London Fashion and Leisure Show. I <NS type="SX"><i>thing</i><c>think</c></NS> it is a great opportunity for us, as it is at the time of our being in London and is free of charge for students. <NS type="MD"><i>Girls</i><c>The girls</c></NS> <NS type="RV"><i>should</i><c>would</c></NS> like to see the latest <NS type="FN"><i>fashion</i><c>fashions</c></NS>, new make-up and interesting hairstyles. <NS type="MD"><i>Boys</i><c>The boys</c></NS> are interested in seeing leisure and sportswear.</p>
+          <p>I would like to suggest a change in the programme by giving up shopping and going to the London Fashion and Leisure Show.</p>
+          <p>I hope you will consider this proposition and I am looking forward to hearing <NS type="SX"><i>form</i><c>from</c></NS> you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>THE HOME OF THE FUTURE</p>
+          <p>Home is an important element in everybody's life. It gives you safety. I do not know people who would not want to have a home. We like our houses<NS type="MP"><c>,</c></NS> that is why <NS type="MA"><c>we</c></NS> are always trying to make <NS type="AGA"><i>it</i><c>them</c></NS> more comfortable and <NS type="RJ">useful</NS>.</p>
+          <p>I think <NS type="RP"><i>The Home of the Future</i><c>the home of the future</c></NS> will be bigger as we will need more room for <NS type="FA"><i>us</i><c>ourselves</c></NS>, our belongings and interests. The construction will be more simple<NS type="MP"><c>,</c></NS> <NS type="RA"><i>what</i><c>which</c></NS> will give us a feeling of balance. More houses will have gardens<NS type="MP"><c>,</c></NS> <NS type="RA"><i>what</i><c>which</c></NS> will make us feel closer to <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>Many people think that we will <NS type="RV">resign from</NS> a kitchen<NS type="MP"><c>,</c></NS> which is a useless place, as we will spend most of the time at work and will eat outside. I do not think so. Because of computers<NS type="MP"><c>,</c></NS> we will have the possibility of working at home, therefore, home will be <NS type="MD"><c>a</c></NS> very important place worth paying attention <NS type="MT"><c>to</c></NS>.</p>
+          <p>Take care of your home, do not hesitate <unknown/> in it and you will be very happy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

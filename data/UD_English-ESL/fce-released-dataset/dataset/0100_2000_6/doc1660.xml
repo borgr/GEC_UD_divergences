@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR655*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>&lt;16</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>13/6/00</p>
+          <p>To whom it may concern,</p>
+          <p>I have recently received a letter saying I am <NS type="RD"><i>a</i><c>the</c></NS> first-prize winner <NS type="RT"><i>for</i><c>in</c></NS> your competition. <NS type="RA"><i>I</i><c>It</c></NS> was wonderful news and as you have requested, here is some further information and details.</p>
+          <p>I would like to travel in July as it is my summer holiday and is the most convenient time for me.</p>
+          <p>At Camp California, I would <NS type="RY">preferably</NS> like to stay in a tent as I think it would be more enjoyable.</p>
+          <p>The two activities I would like to do are Photography and Sailing. I think they are a good contrast. I have not done sailing for quite a long time so I might find it difficult but I am looking forward to it. As well as <NS type="R"><i>a</i><c>getting some</c></NS> good exercise, I would also <NS type="MV"><c>like</c></NS> <NS type="FV"><i>be</i><c>to be</c></NS> able to learn something new. I have never done Photography before.</p>
+          <p>I also have some enquiries concerning the trip. I would like to know what the weather <NS type="TV"><i>would be</i><c>is</c></NS> like at that time of the year so I am able to pack the essential <NS type="CN"><i>clothings</i><c>clothing</c></NS>. I would appreciate it if you also <NS type="TV"><i>advise</i><c>advised</c></NS> me on how much money I should take. It is all new for me as I have never been to the USA before.</p>
+          <p>Please send me additional information soon.</p>
+          <p>Thank you for your time and your kind <NS type="FN"><i>effort</i><c>efforts</c></NS>.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>When you think of the word 'shopping' a smile always comes onto your face. Shopping is thought of as enjoyable. Teenagers go shopping for <NS type="RN"><i>leisure</i><c>fun</c></NS> and to socialize.</p>
+          <p>There <NS type="AGV"><i>are</i><c>is</c></NS> more than one kind of shopping though and one particular kind is <NS type="UP"><i>window-shopping</i><c>window shopping</c></NS>.</p>
+          <p>I would say window shopping is the reason why I have no money now. Sometime last month, I was just the same as I am now, with no money. My friend wanted to meet up with me so we made plans to meet up <NS type="RT"><i>at</i><c>on</c></NS> a high street to go shopping. For me, that <NS type="RV"><i>was</i><c>meant</c></NS> <NS type="UP"><i>window-shopping</i><c>window shopping</c></NS>. When we went into the first shop, I caught sight of a long black dress. As I had nothing better to do, I tried it on. I fell in love with it. I knew <NS type="SX"><i>thought</i><c>though</c></NS> that I couldn't get it - not yet anyway.</p>
+          <p>I went back <NS type="RP"><i>everyday</i><c>every day</c></NS> just to eye that dress because I just couldn't get over the fact that I had no money.</p>
+          <p>When I received my monthly pay, I rushed down to the shop and without thinking, bought that dress. I <NS type="RV"><i>went</i><c>was</c></NS> back to where I was before - with no money (and a black dress) all over again.</p>
+          <p>When I think about it now, shopping is not always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

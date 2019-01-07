@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR537*0102*2000*02">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>2 <NS type="S"><i>Desember</i><c>December</c></NS><NS type="MP"><c>,</c></NS> 2000</p>
+          <p>Dear Mrs Clark:</p>
+          <p>I am writing to suggest a few things that could be changed or added <NS type="RT"><i>in</i><c>to</c></NS> next year's International Arts Festival, <NS type="S"><i>wich</i><c>which</c></NS> in my opinion has been a great idea <NS type="UV"><i>to create</i></NS>.</p>
+          <p>Although I <NS type="TV"><i>have read</i><c>read</c></NS> that <NS type="RP"><i><NS type="RN"><i>Starts</i><c>Stars</c></NS></i><c>stars</c></NS> and <NS type="RP"><i>Artists</i><c>artists</c></NS> came <NS type="S"><i>frome</i><c>from</c></NS> around the world, I <NS type="TV"><i>have realised</i><c>realised</c></NS> that they only came from <NS type="UY"><i>only</i></NS> six countries.</p>
+          <p>I <NS type="RV"><i>spent</i><c>had</c></NS> a good time <NS type="RT"><i>in</i><c>at</c></NS> the jazz, rock and classical concerts in spite of the fact that some concert halls were too small. I think that if you want to enjoy music you must be comfortable. All my family liked the films and the plays that there were very much, but I <NS type="DY"><i>personaly</i><c>personally</c></NS> think that <NS type="RP"><i>It</i><c>it</c></NS> would be better to add more because there were only five plays and seven films.</p>
+          <p>The rest of the activities were very interesting for us, we learnt a lot of things and we met a lot of interesting people, and all of this without being expensive<NS type="RP"><i>,</i><c>.</c></NS> I think that <NS type="MD"><c>the</c></NS> ticket was <NS type="S"><i>exellent</i><c>excellent</c></NS> for us because of its price.</p>
+          <p>I look forward to hearing <NS type="MT"><c>from</c></NS> you as soon as possible.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>2 <NS type="S"><i>Desember</i><c>December</c></NS><NS type="MP"><c>,</c></NS> 2000</p>
+          <p>Dear Andy:</p>
+          <p>I'm sorry I haven't written for so long, but I have been very busy with my exams. It's good to hear that you have passed all of <NS type="RA"><i>them</i><c>yours</c></NS>.</p>
+          <p>In your letter you <NS type="RV"><i>told</i><c>asked</c></NS> me something about rules. I imagine that you want my opinion <NS type="RT"><i>for</i><c>on</c></NS> your homework <NS type="RP"><i>?Don't</i><c>, don't</c></NS> you?</p>
+          <p>You know that I'm <NS type="IV"><i>studing</i><c>studying</c></NS> in a <NS type="RJ"><i>hard</i><c>difficult</c></NS> school, and as you can imagine you have to work hard and you have to do homework <NS type="RP"><i>everyday</i><c>every day</c></NS>. The other day I arrived five minutes late and the teacher ordered me to go home. <NS type="UP"><i>?</i></NS>Do you understand this? She might be crazy<NS type="MP"><c>.</c></NS></p>
+          <p>I have friends that are <NS type="IV"><i>studing</i><c>studying</c></NS> in other schools and they are very happy with their freedom. At home it's very different<NS type="RP"><i>,</i><c>:</c></NS> as you know I have <NS type="UD"><i>a</i></NS> very good parents that let me do a lot of things. <NS type="RP"><i>they</i><c>They</c></NS> let me go out with my friends every day, but they make me do homework and I hate <NS type="RA"><i>this</i><c>that</c></NS>!!</p>
+          <p>I hope <NS type="RA"><i>that</i><c>this</c></NS> <NS type="UA"><i>it</i></NS> is what you wanted from me. I'm looking forward to seeing you soon.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

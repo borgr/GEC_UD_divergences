@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR715*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan,</p>
+          <p>I have received the letter you have sent me. I am writing to let you know my answers to the questions you asked me <NS type="RT"><i>on</i><c>in</c></NS> the letter.</p>
+          <p>First, I would like to travel in July, because I am a university student and I have only one month <NS type="MT"><c>of</c></NS> summer vacation<NS type="MP"><c>,</c></NS> that is in July. I <NS type="TV"><i><NS type="S"><i>appriciate</i><c>appreciate</c></NS></i><c>would appreciate</c></NS> it if it <NS type="TV"><i>will be</i><c>was</c></NS> the first two weeks of the month. Next, I would prefer to stay in a log cabin, because I need to have a time to relax when I travel. Therefore, I would prefer a log cabin.</p>
+          <p>For activities, my first <NS type="S"><i>choise</i><c>choice</c></NS> is basketball. I have been playing it since I was nine years old. In high school, I was in a school team and I enjoyed playing it with my team mate, even though we were not a strong team. My second <NS type="S"><i>choise</i><c>choice</c></NS> is golf. I had never played it until last month. However, I could enjoy it, even though I was a <NS type="S"><i>biginner</i><c>beginner</c></NS>, so I would like to <NS type="DV"><i>practice</i><c>practise</c></NS> and have fun at the camp.</p>
+          <p>Lastly, I would like to know whether I should bring some money and what kind of clothes I should bring.</p>
+          <p>Thank you for giving me this great opportunity. I will be expecting to hear from you.</p>
+          <p><NS type="L"><i>Yours sincerely</i><c>Yours faithfully</c></NS>,</p>
+          <p>Hideo Kojima</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p><NS type="UV"><i>I've</i><c>I</c></NS> got your letter yesterday. I enjoyed reading how you spent time with your family and had fun at the Park. Thank you.</p>
+          <p>As I have told you, I had a chance to help at a concert of Majesty, a local band in which one of my friends played <NS type="S"><i>guiter</i><c>guitar</c></NS>. He knew that I'd wanted to work at a concert hall, possibly as a lighting technician. So he suggested me to help <NS type="MT"><c>at</c></NS> their concert so that I could know behind the scenes.</p>
+          <p>When I arrived there, the staff were already busy. At first I just helped setting up the stage; setting microphones, and tuning <NS type="S"><i>guiters</i><c>guitars</c></NS>. When I was doing it, one of the staff called me and <NS type="RV"><i>brought</i><c>took</c></NS> me to a room. He explained <NS type="MT"><c>to</c></NS> me that it was to <NS type="S"><i>controll</i><c>control</c></NS> the light. It was fun <NS type="SA"><i>practicing</i><c>practising</c></NS> how to move the lights and change the lights. However, when it came to the real concert, it was very hard.</p>
+          <p>When the concert was finished, I was exhausted but happy.</p>
+          <p><NS type="R">I'll write you back.</NS></p>
+          <p>Friend,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR514*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I'm very pleased to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you, and I'm glad I've got this chance to go to the Camp California in the U.S.A. for two weeks.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> I must say that I'll be able to have two weeks free only in July, since I <NS type="TV"><i>started</i><c>have started</c></NS> work and <NS type="MV"><c>am</c></NS> <NS type="S"><i>intitled</i><c>entitled</c></NS> to have a holiday only in July.</p>
+          <p>Secondly, I'd prefer to <NS type="RV"><i>accommodate</i><c>stay</c></NS> <NS type="UA"><i>myself</i></NS> in one of the log cabins, as they are more comfortable, usually have central heating and other necessary facilities.</p>
+          <p>Despite my <NS type="S"><i>appriciation</i><c>appreciation</c></NS> of all kinds of sports and activities, <NS type="TV"><i>I'd choose</i><c>I've chosen</c></NS> my favourite ones, which are swimming and tennis. As I was a champion <NS type="RT"><i>of</i><c>in</c></NS> <NS type="MD"><c>a</c></NS> swimming competition in Russia in 1997, I'd like to continue to <NS type="DV"><i>practice</i><c>practise</c></NS> my skills. Also I like to play tennis, which is <NS type="MD"><c>a</c></NS> beautiful "game" itself and good for <NS type="MD"><c>the</c></NS> figure.</p>
+          <p><NS type="ID"><i>In <NS type="UD"><i>the</i></NS> conclusion</i><c>Finally</c></NS><NS type="MP"><c>,</c></NS> I would like to ask if I need to take some money with me and how much<NS type="RP"><i>?</i><c>.</c></NS> What kind of clothes will I need in the U.S.A. in July? Probably summer clothes mostly?</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+          <p>Hope to hear from you soon.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>"Is shopping always enjoyable for you or not" - my English teacher has asked me <NS type="RT"><i>on</i><c>in</c></NS> the class discussion about shopping.</p>
+          <p>Sincerely, I must admit<NS type="UP"><i>,</i></NS> that I don't like shopping in supermarkets and big stores. There are always too many people there. As I'm not keen <NS type="RT"><i>of</i><c>on</c></NS> being a part of the crowd, I prefer a calm atmosphere in more isolated small shops. Furthermore, it takes too long to find something you need in unfamiliar stores.</p>
+          <p>Despite <NS type="M"><c>the fact that</c></NS> I like to go to nice clothes shops I usually return home with nothing in my hands, as prices are usually <NS type="SX"><i>to</i><c>too</c></NS> high, unfortunately<NS type="MP"><c>,</c></NS> <NS type="R"><i>not affordable for me</i><c>and out of my price range</c></NS>.</p>
+          <p>Sometimes I go to the local market, but not on my own. I ask my husband or mother to come with me, as I had <NS type="MD"><c>a</c></NS> bad experience in the past, when my bag with all my money was stolen.</p>
+          <p>Another thing I dislike about shopping is some annoying shop <NS type="S"><i>assisstants</i><c>assistants</c></NS> <NS type="UA"><i>which</i></NS> try to <NS type="DV"><i>sale</i><c>sell</c></NS> any <NS type="FN"><i>products</i><c>product</c></NS> to the "victim" <NS type="RV"><i><NS type="S"><i>entring</i><c>entering</c></NS></i><c>coming through</c></NS> the door. Otherwise shopping is not so bad, as you get what you want in the end.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

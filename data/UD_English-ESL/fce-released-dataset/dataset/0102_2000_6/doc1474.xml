@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR572*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>31-40</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about the musical show I went <NS type="MT"><c>to</c></NS> last week. I spent a week's holiday in London and I had been looking forward to <NS type="RV"><i>watching</i><c>seeing</c></NS> a wonderful show in your theatre. However, I was completely disappointed with <NS type="RA"><i>that</i><c>it</c></NS>.</p>
+          <p>Firstly, although I bought a ticket for 19:30 the show started at 20:15. <NS type="RA"><i>It</i><c>That</c></NS> would never happen in my country I must say. Secondly, there <NS type="AGV"><i>was</i><c>were</c></NS> no discounts despite <NS type="DD"><i>you</i><c>your</c></NS> <NS type="RV"><i>showed</i><c>claiming</c></NS> <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> available in your advertisement.</p>
+          <p>Furthermore, your theatre restaurant was closed because the employees were on <NS type="UD"><i>the</i></NS> strike. On top of everything, the main <NS type="RN"><i>cast</i><c>actor</c></NS>, Danny Brook, did not appear <NS type="RT"><i>on</i><c>in</c></NS> the show. The actor who <NS type="RV"><i>played</i><c>appeared</c></NS> instead of him was terrible.</p>
+          <p>In fact, I expect a full refund plus compensation for the <NS type="R">dissatisfaction <NS type="S"><i>suffured</i><c>suffered</c></NS></NS>. I trust you will give <NS type="UD"><i>an</i></NS> immediate attention to this letter and I look forward to receiving a satisfactory <NS type="S"><i>responce</i><c>response</c></NS> <NS type="RT"><i>in</i><c>by</c></NS> return of post within a week.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>When we think about clothes in the future, we should think about the <NS type="S"><i>enviroment</i><c>environment</c></NS> first. What will it be like in 2100? It is not pleasant to say the earth is now facing some serious problems. But it is <NS type="RD"><i>the</i><c>a</c></NS> fact. Air-pollution might become more <NS type="RJ"><i>serious</i><c>problematic</c></NS> than now in the future and <NS type="MD"><c>the</c></NS> destruction of <NS type="MD"><c>the</c></NS> <NS type="DN"><i><NS type="S"><i>ozon-zone</i><c>ozone-zone</c></NS></i><c>ozone layer</c></NS> <NS type="R">could not be stopped in 100 years</NS>.</p>
+          <p>Considering these <NS type="RN"><i>elements</i><c>facts</c></NS>, we should wear clothes which can protect us from certain <NS type="AGN"><i>kind</i><c>kinds</c></NS> of <NS type="DN">sun rays</NS> and air pollution. I suppose they would be like <NS type="UD"><i>a</i></NS> <NS type="DN">arm-suits</NS>. Of course, <NS type="FN"><i>technologies</i><c>technology</c></NS> will have <NS type="IV"><i>developped</i><c>developed</c></NS> enough <NS type="M"><c>for us</c></NS> to invent new material for those <NS type="AGN"><i>kind</i><c>kinds</c></NS> of clothes. So we don't have to worry about how <NS type="S"><i>heavey</i><c>heavy</c></NS> they will be. We will feel as if we <NS type="RV"><i>put on</i><c>wore</c></NS> nothing.</p>
+          <p>In conclusion, <NS type="W"><i>clothes <NS type="RT"><i>after</i><c>in</c></NS> 100 years</i><c>in 100 years clothes</c></NS> will not <NS type="MV"><c>be</c></NS> as fashionable as they are now. We should consider <NS type="R">wearing as in more practical way</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE34*0100*2001*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>39.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing in reply to your letter, which I received yesterday. Below is <NS type="RQ"><i>a piece of</i><c>some</c></NS> information you will need for the next international student conference at Bournemouth College and some recommendations, which might be useful for the students.</p>
+          <p>First of all, the hotel booked for the group is the Palace Hotel, which is very impressive in terms of comfort and facilities. This is a very central hotel located not far away from the conference hall. You will be able to get there either by bus (no 150) or on foot.</p>
+          <p>Next you are welcome to attend the party organized at the end of the conference. It will begin at elevenish p.m. and may last the whole night. People are going to be <NS type="RJ"><i>disguised</i><c>in costume</c></NS> there and it would be a good idea to wear extravagant multi-coloured clothes.</p>
+          <p>Finally I think that you should jump at <NS type="MD"><c>the</c></NS> opportunity to go to the <NS type="RJ"><i>historical</i><c>historic</c></NS> Pergam's Museum before leaving. Some of the most amazing masterpieces are <NS type="RV"><i>exposed</i><c>exhibited</c></NS> there.</p>
+          <p>I wish you <NS type="UY"><i>in advance</i></NS> a wonderful trip and look forward to meeting you in Bournemouth.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>To: (group leader)</p>
+          <p>From:</p>
+          <p>Subject: Bournemouth National Museum</p>
+          <p>As requested I visited the Bournemouth National Museum, which is, to my mind, one of the most interesting buildings of the area. Below is a summary of the most important <NS type="UJ"><i>relevant</i></NS> points and some recommendations you may need.</p>
+          <p>1. Architecture</p>
+          <p>The architecture of the building in itself is really breathtaking in terms of luxury and ornamentation <NS type="UN"><i>choice</i></NS>. Even if the architectural style may seem a bit <NS type="UP"><i>'</i></NS>heavy, this building is really a masterpiece with no <NS type="RJ"><i>similar</i><c>real</c></NS> comparison <NS type="R"><i>all over</i><c>anywhere in</c></NS> the world.</p>
+          <p>2. Exposition</p>
+          <p>Although I have to admit that it is very tiring to visit the whole museum in one day, it is such a rewarding and enriching <NS type="RN"><i>time</i><c>experience</c></NS> that people <NS type="W"><i>get never</i><c>never get</c></NS> tired of looking at the paintings and sculptures <NS type="RT"><i>of</i><c>in</c></NS> each section of the museum.</p>
+          <p>3. Restaurant</p>
+          <p>The adjoining restaurant is very <NS type="RJ"><i>enjoyable</i><c>good</c></NS> as well. The waiters are friendly and always ready to give advice. In fact it is just what visitors need after their trip through the museum.</p>
+          <p>To sum up, I would say that this museum is more interesting than the other museums, because you can enjoy not only wonderful masterpieces but also <NS type="UD"><i>a</i></NS> very <NS type="RJ"><i>uncommon</i><c>unusual</c></NS> architecture and a quiet restaurant <NS type="M"><c>where you will be able</c></NS> to have a rest if you need to.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

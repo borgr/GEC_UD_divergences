@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR328*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Helen Ryan</p>
+          <p>Competitor Organiser</p>
+          <p>Dear Helen,</p>
+          <p>I am writing to you<NS type="MP"><c>,</c></NS> in <NS type="RN"><i>replay</i><c>reply</c></NS> to the letter I have recently <NS type="S"><i>recived</i><c>received</c></NS>, to inform you about some details that I am concerned about. First of all I want you to know that I would prefer to travel in July due to the exam I will be taking in June and, afterwards, I will start my university studies in September which means <NS type="M"><c>there are</c></NS> lots of things to be sorted out.</p>
+          <p>Secondly, I prefer staying in log cabins because it is <NS type="IJ"><i>easyer</i><c>easier</c></NS> for me to keep my personal belongings clean and tidy<NS type="MP"><c>,</c></NS> apart from the fact that I am terribly afraid of insects such as spiders and ants.</p>
+          <p>In your letter you <NS type="RV"><i>settled</i><c>presented</c></NS> the possibility <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to choose</i><c>choosing</c></NS> two activities and I would like to let you know that I would be pleased if I could join <NS type="RT"><i>to</i><c>in with</c></NS> basketball and climbing, as I am very good at both of them <NS type="RC"><i>due to</i><c>because</c></NS> <NS type="TV"><i>I've played</i><c>I played</c></NS> <NS type="MN"><c>basketball</c></NS> in my secondary <NS type="S"><i>scholl</i><c>school</c></NS> as <NS type="RN"><i>leader</i><c>captain</c></NS> of <NS type="R"><i>my</i><c>the</c></NS> team and due to my long training <NS type="RN"><i>periods</i><c>sessions</c></NS> <NS type="UT"><i>in</i></NS> lifting weights.</p>
+          <p>Lastly, do I need to take with me any special <NS type="RN"><i>staff</i><c>kind</c></NS> of clothes? Do I need some money? and if <NS type="U"><i>it is</i></NS> so, how much?</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Suppose you go shopping with your girlfriend, that means that you will have to spend hours walking behind her from one shop to another and during the time that she is trying the items on, you have to bear <NS type="UY"><i>with</i></NS> the odds faces of the other women looking at you as if you were an alien <NS type="RT"><i>into</i><c>on</c></NS> their territory.</p>
+          <p>There is<NS type="MP"><c>,</c></NS> as well<NS type="MP"><c>,</c></NS> the struggle you have to endure when you find yourself <NS type="RT"><i>into</i><c>in</c></NS> the crowds<NS type="MP"><c>,</c></NS> <NS type="S"><i>crambled</i><c>crammed</c></NS> in the small shops during the <NS type="RJ"><i>unique</i><c>only</c></NS> day-off you have to buy <NS type="S"><i>somthing</i><c>something</c></NS> you like. All this can easily <NS type="AGV"><i>leads</i><c>lead</c></NS> to a <NS type="DN"><i>nerve-collapse</i><c>nervous breakdown</c></NS>, particularly when you realise that your money has been stolen either during your difficult way <NS type="RT"><i>across</i><c>through</c></NS> the crowds or while you were <NS type="S"><i>qeuing</i><c>queuing</c></NS> to pay. If this wasn't enough <NS type="DD"><i>you</i><c>your</c></NS> strength and mental health can be completely destroyed when<NS type="MP"><c>,</c></NS> despite having been <NS type="RV"><i>stolen</i><c>robbed</c></NS>, having spent hours walking around and being tired and hungry<NS type="MP"><c>,</c></NS> you finally buy something you really <NS type="TV"><i>liked</i><c>like</c></NS> with your credit card and<NS type="MP"><c>,</c></NS> after having walked a few blocks<NS type="MP"><c>,</c></NS> you see the same item at half <NS type="MD"><c>the</c></NS> price in another shop.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

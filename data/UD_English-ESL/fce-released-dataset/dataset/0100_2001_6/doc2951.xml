@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE8*0100*2001*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> Mrs Smith,</p>
+          <p>I received your letter this morning and I would like to thank you for your interest in the <NS type="RP"><i>Conference</i><c>conference</c></NS>. I hope I can answer your questions.</p>
+          <p><NS type="RY"><i>At First</i><c>First</c></NS>, this international student conference has the <NS type="RN"><i>intension</i><c>aim</c></NS> of <NS type="FV"><i>explain</i><c>explaining</c></NS> to students how important <NS type="W"><i>is <NS type="UD"><i>the</i></NS> education</i><c>education is</c></NS>. In addition to this, we <NS type="TV"><i>choose</i><c>have chosen</c></NS> the <NS type="S"><i>luxuery</i><c>luxury</c></NS> Palace Hotel<NS type="MP"><c>,</c></NS> which is comfortable enough and in a good location. The Palace Hotel is located in the centre of the city, so you can <NS type="RV"><i>go</i><c>come</c></NS> by train, by bus or by car. I suggest you should go by train and <NS type="RV"><i>go out</i><c>get off</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> Museum Station. The <NS type="RP"><i>Conference</i><c>conference</c></NS> will <NS type="RV"><i>happen</i><c>be held</c></NS> in the <NS type="RP"><i>Hotel</i><c>hotel</c></NS>, which is <NS type="R">so much easier</NS>.</p>
+          <p>The <NS type="RP"><i>Conference</i><c>conference</c></NS>, <NS type="R">not being modest</NS>, <NS type="UA"><i>it</i></NS> is <NS type="UD"><i>a</i></NS> quite well organized. It will <NS type="FV"><i>starts</i><c>start</c></NS> at eight in the morning and will finish around five in the afternoon. I suggest you should wear something informal. Even though we want to make things as <NS type="FJ"><i>more comfortable</i><c>comfortable</c></NS> as possible <NS type="RT"><i>to</i><c>for</c></NS> our students.</p>
+          <p>I am very happy that you want to know <NS type="MT"><c>about</c></NS> my area, although I am afraid an afternoon is not enough. However, if you want, you can call me and I can show you some interesting places. I will be very glad. I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="R">Affecting Our <NS type="IN"><i>Lifes</i><c>Lives</c></NS></NS></p>
+          <p>Cars, boats, <NS type="S"><i>motobikes</i><c>motorbikes</c></NS>, airplanes: Who <NS type="TV"><i>did never use</i><c>has never used</c></NS> <NS type="AGA"><i>this</i><c>them</c></NS> once? This is a good question. <NS type="UD"><i>The <NS type="RN"><i>humans</i><c>people</c></NS></i><c>People</c></NS> <NS type="W"><i><NS type="AGV"><i>seems</i><c>seem</c></NS> always</i><c>always seem</c></NS> <NS type="U"><i>that they</i></NS> <NS type="FV"><i>are</i><c>to be</c></NS> running and the fastest of <NS type="AGD"><i>this</i><c>these</c></NS> inventions is certainly<NS type="UP"><i>,</i></NS> the airplane.</p>
+          <p>At First, when Santos Dummont invented the airplane, he probably didn't think how <NS type="UD"><i>the</i></NS> people could transform his creation. In this world, where the nations fight to be the <NS type="FJ"><i>better</i><c>best</c></NS> <NS type="R">one couldn't be <NS type="S"><i>diferent</i><c>different</c></NS></NS><NS type="RP"><i>:</i><c>,</c></NS> the airplane became the most important thing in the war. Unfortunately, it was used to kill a lot of people.</p>
+          <p>However, the invention of the airplane has brought us some <NS type="RN">facilities</NS>. How could a person <NS type="RV"><i>come</i><c>go</c></NS> from Brazil to Australia <NS type="M"><c>without it</c></NS>? Maybe by boat, but it could take too long! The best way is <NS type="S"><i>definetely</i><c>definitely</c></NS><NS type="UP"><i>,</i></NS> by air. <NS type="RT"><i>After</i><c>With</c></NS> this invention travel around the world is so much easier. Now, we have to say thanks and congratulate all the <NS type="RN"><i>creators</i><c>inventors</c></NS> who invented <NS type="R">facility things</NS> for us.</p>
+          <p>So, the airplane is definitely an important invention, because it <NS type="AGV"><i>have</i><c>has</c></NS> changed people's <NS type="FN"><i>life</i><c>lives</c></NS> in wars. <NS type="UT"><i>Until now</i><c>Now</c></NS>, it <NS type="TV"><i>is being</i><c>is</c></NS> important in the transport of thousands and thousands of people around the world. Let's congratulate Santos Dummont!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR288*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you to make a complaint about your musical show: " Over the Rainbow"... Last week, I, my husband and our two children went to your theatre <NS type="RV"><i><NS type="FV"><i>spend</i><c>to spend</c></NS></i><c>to have</c></NS> a good time, but we were so disappointed.</p>
+          <p>First of all, I <NS type="X"><i>think it's not</i><c>don't think it's</c></NS> professional to change the principal actor <NS type="RT"><i>in</i><c>at</c></NS> the last minute, the play should <NS type="TV"><i>be</i><c>have been</c></NS> with Danny Brook, but it wasn't.</p>
+          <p>In addition to this, the show started at 20:15 instead <NS type="MT"><c>of</c></NS> 19:30, more <NS type="MC"><c>than</c></NS> 45 minutes <NS type="UT"><i>in</i></NS> late...</p>
+          <p>Moreover, there weren't <NS type="MQ"><c>any</c></NS> discounts available <NS type="R">like <NS type="IV"><i>writting</i><c>writing</c></NS></NS> in your advertisement.</p>
+          <p>There was <NS type="UY"><i>well</i></NS> a restaurant, <NS type="UY"><i>even</i></NS> though<NS type="UP"><i>,</i></NS> it was closed for <NS type="RN"><i>reparations</i><c>renovation</c></NS>, <NS type="R"><i>also</i><c>and</c></NS> 2 hours 30 without drinking or eating something<NS type="UP"><i>,</i></NS> was quite difficult for the children.</p>
+          <p>It should <NS type="TV"><i>be</i><c>have been</c></NS> a perfect evening out, but it was the opposite. <NS type="RA"><i>It's</i><c>That's</c></NS> why, <NS type="RA"><i>it</i><c>I</c></NS> would be grateful<NS type="UP"><i>,</i></NS> if you could give me my money back. I look forward to hearing from you in the very near future.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Nowadays, I think it <NS type="RV"><i>could</i><c>would</c></NS> be impossible for us to live like our <NS type="UP"><i>grand-parents</i><c>grandparents</c></NS> or <NS type="MP"><i>great grand-parents</i><c>great-grandparents</c></NS> lived... we are too lazy, but it's not our <NS type="RN"><i>mistake</i><c>fault</c></NS>, this revolution is called "progress"!</p>
+          <p>Every day, like everybody, I watch the TV, see the International news, <NS type="RV"><i>hear</i><c>listen to</c></NS> the radio, play games on my computer or <NS type="RV"><i>get across</i><c>communicate</c></NS> with American or <NS type="DJ"><i>Asia</i><c>Asian</c></NS> people without <NS type="RV"><i>going out</i><c>leaving</c></NS> <NS type="UT"><i>to</i></NS> my house. It <NS type="AGV"><i>seem</i><c>seems</c></NS> <NS type="FV"><i>be</i><c>to be</c></NS> incredible, but it's <NS type="RJ"><i><NS type="S"><i>commun</i><c>common</c></NS> habits</i><c>normal</c></NS> for us.. we don't think that <NS type="UY"><i>there</i></NS> <NS type="UV"><i>is</i></NS> less <NS type="R"><i>of</i><c>than</c></NS> a hundred years <NS type="MY"><c>ago</c></NS>, <NS type="DQ"><i>nothing</i><c>none</c></NS> of that existed.</p>
+          <p>I will always <NS type="TV"><i>said</i><c>say</c></NS> thank you very much to the inventor who has invented the <NS type="S"><i>maschines</i><c>machines</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> <NS type="RV"><i>make</i><c>do</c></NS> the washing and the washing-up, before this, <NS type="UD"><i>the</i></NS> women spent a long time <NS type="FV"><i>had done</i><c>doing</c></NS> <NS type="AGD"><i>this</i><c>these</c></NS> tasks.</p>
+          <p>In addition to this, <NS type="R">thinking also, to the medicine, science or astronomy progress</NS>...</p>
+          <p>And <NS type="TV"><i>it's not ending</i><c>it has not ended</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I hope that <NS type="RT"><i>for</i><c>in</c></NS> my thirties I'll go to Mars on <NS type="FN"><i>holidays</i><c>holiday</c></NS>...</p>
+          <p>The scientists <NS type="RV"><i>are</i><c>have</c></NS> <NS type="UY"><i>again</i></NS> ten years to find the solution...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

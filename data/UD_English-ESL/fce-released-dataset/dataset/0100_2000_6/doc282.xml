@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1134*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Ryan</p>
+          <p>Thank you for your letter. I have just received the letter from you. I am really pleased that I have won first prize in your competition <NS type="R">at</NS> Camp California in <NS type="MD"><c>the</c></NS> U.S.A.</p>
+          <p>I would like to travel in July this year because I think the weather will be nice and I can take a holiday. I would like to use a tent for my accommodation. I think it is more interesting than <NS type="MD"><c>a</c></NS> log <NS type="AGN"><i>cabins</i><c>cabin</c></NS>. I can be <NS type="IJ"><i>more <NS type="RJ"><i>next</i><c>close</c></NS></i><c>closer</c></NS> <NS type="MT"><c>to</c></NS> <NS type="S"><i>nuture</i><c>nature</c></NS> and I have never used tents before. It seems to be exciting.</p>
+          <p>I choose swimming and painting for my activities while I am at the Camp. I really like swimming. When I was a child, I used to go swimming with my family at the weekend<NS type="MP"><c>,</c></NS> having a chat, making a barbecue, playing games. It was such a good time. I enjoy painting as well. My mother told me that I'm good at painting. When I was in high school, I won second prize in a painting competition. My parents were very <NS type="S"><i>pround</i><c>proud</c></NS> of me.</p>
+          <p>Could I ask you some questions? I would like to know <NS type="RA"><i>which</i><c>what</c></NS> kind of clothes I should bring to the camp. How much money should I bring <NS type="UY"><i>there</i></NS> and can I use my credit card at the camp?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thank you for your letter. I'm sorry that I've taken such a long time to reply <NS type="MT"><c>to</c></NS> your letter because I'm really busy and I have to study harder. I'm taking the final exam next month. Lucky me!</p>
+          <p>I've got some great news to tell you. Last month, I <NS type="RV"><i>worked as</i><c>got</c></NS> a part-time job. I really enjoyed helping at a pop concert. As you know, I'm crazy about pop music. Before the concert I was really <NS type="RJ"><i>exciting</i><c>excited</c></NS>. I couldn't sleep well and I didn't know what I had to do <NS type="RT"><i>in</i><c>at</c></NS> the concert.</p>
+          <p>It was such a big concert. There were lots of singers and <NS type="MD"><c>a</c></NS> band. Of course, there were lots of <NS type="RN">spectaculars</NS>. First, I was in front of the entrance door. I had to check tickets. I was really <NS type="RJ"><i>exciting</i><c>excited</c></NS>. My hands were <NS type="S"><i>sclumbling</i><c>trembling</c></NS> but I did it very well. After that, I went <NS type="U"><i>to the</i></NS> back stage. I could see lots of pop stars. I'm sorry that I didn't ask <NS type="R"><i>them to take any pictures</i><c>if I could take any pictures of them</c></NS> for you. I was really busy. I had to take care of them and did everything they <NS type="TV"><i>want</i><c>wanted</c></NS>. For instance, taking them to <NS type="MD"><c>the</c></NS> toilet, making coffee for them, helping them find their stuff. It was really busy but I really enjoyed it.</p>
+          <p>I learnt lots of thing <NS type="UT"><i>from</i></NS> <NS type="RY"><i>here</i><c>there</c></NS> that I couldn't learn from school. I had to be more patient. I <NS type="RV"><i>knew</i><c>met</c></NS> lots of people <NS type="RT"><i>from</i><c>with</c></NS> different <NS type="AGN"><i>job</i><c>jobs</c></NS>. <NS type="RA"><i>It</i><c>I</c></NS> <NS type="RV"><i>was</i><c>had</c></NS> a great time.</p>
+          <p>I'd better close now. I've got lots of homework to do. Take care of yourself and I look forward to hearing from you.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

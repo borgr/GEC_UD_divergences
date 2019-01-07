@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR579*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Manager of the theatre:</p>
+          <p>I am writing a letter to complain about the musical show I saw last week when I was in London.</p>
+          <p>I thought that I would have a great time there, but I was really disappointed <NS type="RT"><i>in</i><c>with</c></NS> that evening. You said there would be stars such as Danny Brook and Tina Truelove, whose music is my <NS type="S"><i>favourate</i><c>favourite</c></NS>, but the musicians were actually some other people whose names I had never heard of. In the advertisement <NS type="RT"><i>of</i><c>for</c></NS> the show, you said it would begin at 19.30<NS type="RP"><i>, actually</i><c>. Actually</c></NS> it <NS type="AS"><i>was 45 minutes delay</i><c>was delayed 45 minutes</c></NS>. The discounts <NS type="RT"><i>of</i><c>on</c></NS> tickets that you mentioned <NS type="RV"><i>were</i><c>did</c></NS> not exist. It <NS type="TV"><i>could make</i><c>made</c></NS> things worse that <NS type="RD"><i>the</i><c>our</c></NS> visit to your theatre restaurant, which had already been closed because of <NS type="MD"><c>a</c></NS> lack of customers, was <NS type="IV"><i>canceled</i><c>cancelled</c></NS>. <NS type="RY"><i>However</i><c>Really</c></NS>, what a <NS type="RP"><i>let down</i><c>letdown</c></NS>!</p>
+          <p>I would be grateful if you could give <NS type="MA"><c>us</c></NS> <NS type="RD"><i>the</i><c>our</c></NS> money back. If I cannot get <NS type="RD"><i>your</i><c>a</c></NS> <NS type="RJ"><i>satisfying</i><c>satisfactory</c></NS> reply within a month I shall go to the consumer protection organisation to sue you.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed our daily life<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Our life has been <NS type="RV"><i>influenced</i><c>affected</c></NS> by modern technology. Five years ago, you could be proud of your 486 computer, which <NS type="RV"><i>can</i><c>would</c></NS> only be put inside a museum as an antique now. Then how <NS type="RV"><i>does</i><c>has</c></NS> it changed our daily life?</p>
+          <p>I have been <NS type="W"><i>an enthusiast of music</i><c>a music enthusiast</c></NS> for a long time<NS type="RP"><i>,</i><c>.</c></NS> I used <NS type="MD"><c>a</c></NS> tape player and I felt it was excellent. Today, there are <NS type="DQ"><i>multi-choices</i><c>many choices</c></NS><NS type="MP"><c>,</c></NS> such as <NS type="MD"><c>a</c></NS> discman (CD player)<NS type="RP"><i>.</i><c>,</c></NS> MD walkman and MP3 player, which are considered to be more portable and have <NS type="MD"><c>a</c></NS> better <NS type="RN"><i>timbre</i><c>sound quality</c></NS>.</p>
+          <p><NS type="R">Communication has been more conventional,</NS> we can simply make a phone call, <NS type="MC"><c>and</c></NS> <NS type="FV"><i>sent</i><c>send</c></NS> e-mails or faxes instead of writing letters and waiting for a long time. <NS type="RY"><i>Especially</i><c>In particular</c></NS> the improvement <NS type="M"><c>in the sophistication</c></NS> of personal <NS type="FN"><i>computer</i><c>computers</c></NS> has greatly helped the spread of information<NS type="MP"><i> by</i><c>. By</c></NS> using <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, you can <NS type="RV">book</NS> <NS type="FN"><i>newspaper</i><c>newspapers</c></NS><NS type="R"><i>,</i><c> and</c></NS> magazines, <NS type="MC"><c>and</c></NS> even go shopping online.</p>
+          <p>Therefore, our life has been influenced and changed by <NS type="MD"><c>the</c></NS> <NS type="DN"><i>developing</i><c>development</c></NS> of technology. In conclusion, we should work hard to <NS type="RV"><i>learn</i><c>acquire</c></NS> <NS type="CN"><i>knowledges</i><c>knowledge</c></NS><NS type="UP"><i>,</i></NS> <NS type="FV"><i>making</i><c>to make</c></NS> the future better and better.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

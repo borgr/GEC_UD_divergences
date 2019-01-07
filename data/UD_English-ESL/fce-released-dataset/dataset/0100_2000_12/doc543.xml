@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR224*0100*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I'd like thank you <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to take</i><c>taking</c></NS> us on a trip to London and <NS type="TV"><i>have <NS type="RV"><i>made</i><c>prepared</c></NS></i><c>having prepared</c></NS> such a good programme, especially the river trip to Greenwich.</p>
+          <p><NS type="RA"><i>It</i><c>There</c></NS> <NS type="W"><i>also will</i><c>will also</c></NS> be "The London <NS type="RP"><i>fashion and leisure show</i><c>Fashion and Leisure Show</c></NS>" on the 14th of March, which <NS type="AGV"><i>consist</i><c>consists</c></NS> <NS type="RT"><i>on</i><c>of</c></NS> an exhibition of the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. <NS type="UY"><i>Indeed it</i><c>It</c></NS> will be free for us as we are students.</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> we are in England to learn your language and also <NS type="M"><c>to learn about</c></NS> your lifestyle, and we thought this show would be a good opportunity for us to <NS type="S"><i>discorve</i><c>discover</c></NS> this <NS type="RN"><i>way</i><c>aspect</c></NS> of your country!</p>
+          <p>May I suggest an alternative <NS type="MN"><c>plan</c></NS>? We could go to <NS type="MD"><c>the</c></NS> science museum on <NS type="RP"><i>wednesday</i><c>Wednesday</c></NS> morning and to the National Art Gallery <NS type="MY"><c>too</c></NS>. We only need wake up earlier and take part of the lunchtime to do both the same morning, but that would <NS type="RV"><i>leave</i><c>allow</c></NS> us <NS type="FV"><i>go</i><c>to go</c></NS> to <NS type="MD"><c>the</c></NS> show on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS>, because we can use <NS type="UD"><i>the</i></NS> <NS type="RP"><i>wednesday's</i><c>Wednesday's</c></NS> free time to do our shopping. I hope that my idea <NS type="R"><i><NS type="AGV"><i><NS type="SX"><i>sweet</i><c>suit</c></NS></i><c>suits</c></NS></i><c>is acceptable to</c></NS> you and you'll agree.</p>
+          <p>Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Tuesday, 12th December</p>
+          <p>Dear Annette,</p>
+          <p>Thank you for your letter, <NS type="R"><i>like</i><c>as</c></NS> usual, it's a <NS type="S"><i>pleisure</i><c>pleasure</c></NS> to receive <NS type="UD"><i>a</i></NS> <NS type="RN"><i>word</i><c>news</c></NS> from you.</p>
+          <p>I <NS type="TV"><i>understood</i><c>understand</c></NS> that you're looking for <NS type="W"><i>your cousin's birthday present</i><c>a birthday present for your cousin</c></NS>, and you'd like <NS type="FV"><i>give</i><c>to give</c></NS> <NS type="UT"><i>to</i></NS> <NS type="RA"><i>him</i><c>her</c></NS> a book, which, I think, <NS type="UA"><i>it's</i><c>is</c></NS> a good idea. The last book I read was Wuthering Heights by Emilie Brontë. It's a <NS type="S"><i>fantastique</i><c>fantastic</c></NS> book, which I recommend to everybody keen on <NS type="RP"><i>lovestories</i><c>love stories</c></NS>. It's a perfect <NS type="S"><i>combinaison</i><c>combination</c></NS> <NS type="RT"><i>between</i><c>of</c></NS> passion and <NS type="MP"><i>life</i><c>life's</c></NS> difficulties. I <NS type="S"><i>recone</i><c>reckon</c></NS> that it's <NS type="UY"><i>quite</i></NS> not an easy <NS type="RN"><i>reading</i><c>read</c></NS>, but as you described your cousin, I think she really will enjoy it, she's <NS type="R"><i>such</i><c>so</c></NS> good <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RN"><i><NS type="S"><i>litteracy</i><c>literacy</c></NS></i><c>literature</c></NS><NS type="UP"><i>,</i></NS> that it won't be a problem for her. I really think you should choose this one for her, it does go with her <NS type="S"><i>personnality</i><c>personality</c></NS>. It'll be a good point for her general <NS type="RN"><i>culture</i><c>education</c></NS><NS type="RP"><i>,</i><c>.</c></NS> Wuthering Heights <NS type="UA"><i>it's</i><c>is</c></NS> a classic, which everybody knows about <NS type="UA"><i>it</i></NS>, even if they <NS type="UV"><i>didn't have</i><c>haven't</c></NS> read it, they<NS type="UP"><i>,</i></NS> at <NS type="S"><i>liest</i><c>least</c></NS><NS type="UP"><i>,</i></NS> know the story.</p>
+          <p>Let me know what would be your choice.</p>
+          <p>Love from<NS type="UP"><i>,</i></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

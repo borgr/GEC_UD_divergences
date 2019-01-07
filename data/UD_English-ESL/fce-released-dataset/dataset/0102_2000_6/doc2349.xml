@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR766*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Manager of the Circle Theatre</p>
+          <p>I recently had a week's holiday in London. During my stay, I went to the Circle Theatre to see your musical show called 'Over the rainbow'. It was actually very disappointing and I have to say that I want my money back as you said 'your pefect evening' out in your advertisement and I <NS type="SX"><i>rally</i><c>really</c></NS> do think it was not the perfect evening out.</p>
+          <p>Here are the problems <NS type="RT"><i>of</i><c>with</c></NS> your show. In your advertisement, it says that Danny Brook will act but he did not. It was a different actor and I was very disappointed. It says that the show starts at 14:30 and 19:30 but the show started at 20:15 which was 45 minutes late.</p>
+          <p>The price of <NS type="MD"><c>the</c></NS> ticket was another problem. Your advertisement says 'discounts available' but it was not available. I did not get <NS type="MD"><c>a</c></NS> discount. I really liked your idea of visiting your theatre restaurant, but because of the late start of the show, the restaurant was closed by the end of the show.</p>
+          <p>I really do think you need to organise your show a bit more carefully so you do not make these mistakes in future and it will be kind of you if you give my money back.</p>
+          <p>Yours faithfully</p>
+          <p>Ring T Lun</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>I believe that modern technology has changed a lot of people's daily life. My daily life also <NS type="RV"><i>got</i><c>has been</c></NS> affected by modern technology a lot.</p>
+          <p>The modern technology which changed my daily life most is <NS type="RD"><i>a</i><c>the</c></NS> personal computer. I can do a lot of things using the computer. I can play games, listen to music, and I can do my course <NS type="FN"><i>works</i><c>work</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the computer.</p>
+          <p>The main advantage of modern technology is getting more <NS type="CN"><i>informations</i><c>information</c></NS> in <NS type="MD"><c>a</c></NS> shorter time. I can go on <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> in my house using computers or from outside using mobile phones. I don't have to go to <NS type="MD"><c>the</c></NS> library and read <NS type="UP"><i>hundred's</i><c>hundreds</c></NS> of books to find <NS type="CN"><i>informations</i><c>information</c></NS> anymore.</p>
+          <p>I have TV's and radios so I can watch or listen to various <NS type="IN"><i>newses</i><c>news</c></NS> and I don't have to go to football <NS type="RN"><i>pitches</i><c>stadiums</c></NS> to see how the players are playing.</p>
+          <p>There are, of course<NS type="MP"><c>,</c></NS> some disadvantages. Nowadays, it is too easy to get lazy because of modern technology. I do not have to walk or run a lot to go somewhere. There are plenty of trains and buses. I have to spend my time doing some exercises or I will get really lazy and unfit. I sometimes think that it might not be a good idea to use modern technology a lot.</p>
+          <p>I think modern techonology has changed my daily life a lot and I hope it will develop even more to change my life even more.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

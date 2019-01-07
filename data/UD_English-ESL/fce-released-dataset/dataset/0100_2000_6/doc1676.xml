@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR662*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I <NS type="TV"><i>had</i><c>have</c></NS> received your letter<NS type="RP"><i>,</i><c>.</c></NS> I am very happy to have won the first <NS type="RN"><i>price</i><c>prize</c></NS>.</p>
+          <p>I would like to go in July after taking my examination at <NS type="UD"><i>the</i></NS> college <NS type="RT"><i>in</i><c>at</c></NS> the end of June. So it is impossible for me to go <NS type="RY"><i>before</i><c>earlier</c></NS>.</p>
+          <p>I would prefer to stay in a tent to <NS type="MV"><c>staying in</c></NS> a cabin<NS type="MP"><c>.</c></NS> Because it is something I feel <NS type="IY"><i>mores</i><c>more</c></NS> <NS type="S"><i>familia</i><c>familiar</c></NS> <NS type="MT"><c>with</c></NS><NS type="MP"><c>.</c></NS> I used to go camping with my family every summer.</p>
+          <p>I am quite good at swimming. I won the first <NS type="RN"><i>price</i><c>prize</c></NS> at the Regional Championship six years ago. But I think I'd rather do other activities <NS type="RA"><i>what</i><c>which</c></NS> you <NS type="RV"><i>show me</i><c>list</c></NS> in your letter<NS type="MP"><c>,</c></NS> like tennis. I have been playing this game with my friends and I like it.</p>
+          <p>I would be <NS type="DJ"><i>please</i><c>pleased</c></NS> if you <NS type="MV"><c>could</c></NS> give me some more information about the accommodation, and some <NS type="CN"><i>advices</i><c>advice</c></NS> about the <NS type="RN"><i>cloth</i><c>clothing</c></NS> (<NS type="R">shal</NS>) I should wear and how much money I should take with me.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable<NS type="MP"><i>,</i><c>.</c></NS> <NS type="M"><c>It's</c></NS> <NS type="X"><i>even no</i><c>not even</c></NS> healthy for your pockets.</p>
+          <p>I just wonder how much time we spend shopping at the supermarket or how much time we spend buying <NS type="RN"><i>cloths</i><c>clothes</c></NS>.</p>
+          <p>Me<NS type="MP"><c>,</c></NS> for example, I don't particularly like shopping<NS type="RP"><i>, when</i><c>. When</c></NS> I go on my own, it can be <NS type="RJ"><i>bored</i><c>boring</c></NS>.</p>
+          <p>My sister loves shopping<NS type="RP"><i>, she</i><c>. She</c></NS> could stay <NS type="W"><i>trying clothes on all day in a shop</i><c>in a shop all day trying on clothes</c></NS>.</p>
+          <p>I <NS type="UV"><i>am</i></NS> agree that <NS type="UD"><i>the</i></NS> most <NS type="U"><i>of the</i></NS> people enjoy buying <NS type="RN"><i>cloths</i><c>clothes</c></NS>, food, something for the house<NS type="MP"><c>,</c></NS> presents <NS type="M"><c> etc</c></NS>. Because <NS type="MA"><c>it</c></NS> is something <NS type="RA"><i>it</i><c>that</c></NS> goes with their culture.</p>
+          <p><NS type="RY"><i>Sometime</i><c>Sometimes</c></NS> you can stay <NS type="W"><i>all day out</i><c>out all day</c></NS> just to buy a present for someone<NS type="RP"><i>, it</i><c>. It</c></NS> <NS type="AGV"><i><NS type="S"><i>stard</i><c>start</c></NS></i><c>starts</c></NS> in the morning, and of course you have <NS type="UD"><i>the</i></NS> breakfast somewhere, and it <NS type="AGV"><i>get</i><c>gets</c></NS> later and you <NS type="MV"><c>are</c></NS> still looking for it<NS type="MP"><c>,</c></NS> so you have <NS type="UD"><i>the</i></NS> lunch, <NS type="RC"><i>so</i><c>and</c></NS> <NS type="DY"><i>finaly</i><c>finally</c></NS> you <NS type="TV"><i>spent</i><c>spend</c></NS> more money than you thought <NS type="M"><c>you would.</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR592*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan:</p>
+          <p>Thank you very much for your letter. I am so glad to know I won the first prize.</p>
+          <p>Regarding your questions, the following are my answers.</p>
+          <p>The only time available for me to travel is July<NS type="RP"><i>, any time</i><c>. Any time</c></NS> during the month suits me. I need to insist <NS type="RT"><i>in</i><c>on</c></NS> it, because I am not able to take holidays during the rest of the year.</p>
+          <p>I <NS type="TV"><i>will</i><c>would</c></NS> love to <NS type="RV"><i>be</i><c>stay</c></NS> in a log cabin. They are more comfortable and <NS type="R">really match with</NS> the <NS type="S"><i>enveiroment</i><c>environment</c></NS>.</p>
+          <p>It is not easy to <NS type="FV"><i>chose</i><c>choose</c></NS> from the list of activities<NS type="RP"><i>, all</i><c>. All</c></NS> of them look interesting. Although this is a new experience, I would prefer climbing and <NS type="S"><i>Photographe</i><c>photography</c></NS>. The first one sounds like a great adventure, while the second will allow me to capture all the unforgettable views.</p>
+          <p>In addition, I would appreciate <NS type="MA"><c>it</c></NS> if you let me know what is the kind of clothing required for the Camp; <NS type="RC"><i>if</i><c>whether</c></NS> I need some money there and for what; and finally <NS type="RC"><i>if</i><c>whether</c></NS> the prize is just for me or if I can go with somebody else.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>Finally I'm writing to let you know about the most exciting experience in my life. Can you believe that I was helping <NS type="RT"><i>in</i><c>at</c></NS> the last Britney <NS type="UP"><i>Spears's</i><c>Spears</c></NS> Concert?</p>
+          <p>During the day I helped <NS type="FV"><i>preparing</i><c>prepare</c></NS> her room, then she arrived, and I was there to continue helping.</p>
+          <p>She was so kind <NS type="RT"><i>with</i><c>to</c></NS> all of us<NS type="RP"><i>, of course</i><c>. Of course</c></NS> I asked her for an autograph. I hope to see you soon<NS type="RP"><i>,</i><c>.</c></NS> I can't wait to show it <NS type="M"><c>to you</c></NS>.</p>
+          <p>The concert was a big success, <NS type="MD"><c>a</c></NS> lot of <NS type="S"><i>excitment</i><c>excitement</c></NS>. Everybody sang and danced, and I was there to see everything from the best position.</p>
+          <p>Each time<NS type="U"><i>, when</i></NS> she <NS type="TV"><i>comes</i><c>came</c></NS> back to the room, she asked for something to drink, just a diet coke, because she's always looking after her <NS type="RN"><i>weight</i><c>figure</c></NS>. Then she <NS type="TV"><i>eat</i><c>ate</c></NS> something small and she <NS type="TV"><i>looks</i><c>looked</c></NS> full of energy all night long.</p>
+          <p>At the end, she took the time to say <NS type="RP"><i>good <NS type="SX"><i>by</i><c>bye</c></NS></i><c>goodbye</c></NS> to all of the people helping her. I really think she's the best.</p>
+          <p>But now, tell me about you. Don't be lazy and write more often.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR428*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Manager:</p>
+          <p>I <NS type="S"><i>reciently</i><c>recently</c></NS> was in London, <NS type="MV"><c>staying</c></NS> in my sister's home, and I went to <NS type="S"><i>se</i><c>see</c></NS> "Over the Rainbow". I had a <NS type="AGN"><i>lots</i><c>lot</c></NS> of problems and I would like to tell you about them.</p>
+          <p>Early that day I went to buy the tickets and I decided to buy the expensive ones, <NS type="RT"><i>like</i><c>as</c></NS> the <NS type="DN">promotion paper</NS> said they <NS type="RV"><i>made</i><c>gave</c></NS> discounts to people <NS type="RA"><i>that</i><c>who</c></NS> worked at the British Institute. I mentioned it, but they told me that <NS type="MD"><c>the</c></NS> promotion had ended a long time ago. Why do you put <NS type="MA"><c>it</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the paper then? In the evening I got a flat tire, and because of this I got <NS type="W"><i>late to the show</i><c>to the show late</c></NS>, when I got to my <NS type="RN"><i>place</i><c>seat</c></NS>, it was <NS type="RV"><i>used</i><c>taken</c></NS> (it cost a lot) and they took me to the cheapest seats, where I couldn't see a thing. After waiting a while in this uncomfortable <NS type="RN"><i>place</i><c>seat</c></NS> the show started<NS type="RP"><i>,</i><c>.</c></NS> I waited 45 minutes and then the actors appeared, but I <NS type="RV"><i><NS type="TV"><i>find</i><c>found</c></NS></i><c>discovered</c></NS> <NS type="UA"><i>myself</i></NS> that the main one wasn't Danny Brook, it was an impostor.</p>
+          <p>And finally when the show ended I decided to go <NS type="MC"><c>and</c></NS> eat something, but the restaurant was closed because the chef was sick. Sorry, but <NS type="X"><i>all these stuff are not</i><c>none of this is</c></NS> <NS type="S"><i>proffesional</i><c>professional</c></NS>, and I am going to <NS type="R">make a demand exactly because you don't have that</NS>, if you don't give me my money back.</p>
+          <p>I hope you understand me</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>Yesterday I decided to go to the "blue disco" because the guy I liked was going to be there. But there was a little problem and it was that my <NS type="UP"><i>parent's</i><c>parents</c></NS> didn't let me go <NS type="W"><i>alone to <NS type="UP"><i>disco's</i><c>discos</c></NS></i><c>to discos alone</c></NS>, so I had to go <NS type="DY"><i>illegaly</i><c>illegally</c></NS>, and I decided I would do it.</p>
+          <p>That night I waited until my parents were asleep and I <NS type="RV"><i>went</i><c>climbed</c></NS> out <NS type="MT"><c>of</c></NS> my window. I had told Pat to pick me up<NS type="RP"><i>, she</i><c>. She</c></NS> was the only one <NS type="RA"><i>that</i><c>who</c></NS> <NS type="SX"><i>new</i><c>knew</c></NS> my plan. I made her promise she wouldn't tell anyone my secret. So when we arrived <NS type="RT"><i>to</i><c>at</c></NS> the disco there was my guy waiting for me. To <NS type="S"><i>sumarize</i><c>summarise</c></NS> the night<NS type="MP"><c>,</c></NS> I am going steady with him, and he took me home. The next morning Pat came to my house<NS type="RP"><i>,</i><c>.</c></NS> I was sleeping so she talked to my mom and she suddenly asked her: At what time did Catana arrive <NS type="MN"><c>home</c></NS> last night?...</p>
+          <p>All the truth was then told, and now I am <NS type="S"><i>grownded</i><c>grounded</c></NS> for life. She <NS type="S"><i>defintevely</i><c>definitely</c></NS> doesn't know how to keep secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

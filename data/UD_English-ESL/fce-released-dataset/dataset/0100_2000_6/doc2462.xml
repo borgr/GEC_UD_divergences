@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR992*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>31-40</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am writing to inform you about your question. <NS type="ID"><i>At first</i><c>Firstly</c></NS>, I would like to <NS type="UV"><i>go</i></NS> travel <NS type="RT"><i>on</i><c>in</c></NS> July, because before <NS type="SX"><i>them</i><c>then</c></NS> I don't have time to travel. I have to finish my <NS type="FN"><i>study</i><c>studies</c></NS>.</p>
+          <p>Secondly, I want to stay in <NS type="MD"><c>a</c></NS> log cabin. I think it is more convenient than in tents.</p>
+          <p>And I would like to have a chance <NS type="UT"><i>about</i></NS> <NS type="MV"><c>to do</c></NS> painting and photography. I am not so fit and <NS type="DJ"><i>well condition</i><c>healthy</c></NS>, so I don't like to do <NS type="RN"><i><NS type="S"><i>activitily</i><c>activity</c></NS></i><c>exercise</c></NS>. However, <NS type="FV"><i>to draw</i><c>drawing</c></NS> some beautiful <NS type="S"><i>sceanary</i><c>scenery</c></NS> and <NS type="FV"><i>to take</i><c>taking</c></NS> some <NS type="FN"><i>picture</i><c>pictures</c></NS> <NS type="TV"><i>are</i><c>would be</c></NS> <NS type="MD"><c>a</c></NS> very good experience for me. I hope so <NS type="MY"><c>very</c></NS> much.</p>
+          <p>Thank you for your invitation.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Do you like <NS type="UD"><i>the</i></NS> shopping? Generally many women <NS type="TV"><i>would like</i><c>like</c></NS> <NS type="UD"><i>the</i></NS> shopping<NS type="MP"><c>,</c></NS> <NS type="DT"><i>include</i><c>including</c></NS> me. Even the young girl wants to go shopping with mum. However, whenever you go shopping, are you usually satisfied with your choice and do you always enjoy <NS type="UD"><i>the</i></NS> shopping? Perhaps you have an <NS type="W"><i>experience <NS type="DJ"><i>unpleased</i><c>unpleasant</c></NS></i><c>unpleasant experience</c></NS>.</p>
+          <p>You could go shopping for some rest to the high street or a department store. Then you could find the cheapest <NS type="IN"><i>good</i><c>goods</c></NS> and in that case, you probably buy it needlessly. Moreover <NS type="MC"><c>if</c></NS> you bought something then you could find it is a little bit <NS type="MY"><c>more</c></NS> expensive than the other shop. Both cases <NS type="TV"><i>are often happened</i><c>often happen</c></NS> <NS type="RT"><i>in</i><c>with</c></NS> shopping.</p>
+          <p>If you don't want to regret <NS type="UT"><i>about</i></NS> shopping, you have to make a shopping list <NS type="RY"><i>firstly</i><c>first</c></NS> before going shopping. Then you should check the price and the quality of the <NS type="IN"><i>good</i><c>goods</c></NS>.</p>
+          <p>If you remember these two things at least, you could enjoy the shopping. One more thing I recommend you is to leave your credit card at home if you are <NS type="W"><i>going only</i><c>only going</c></NS> <NS type="UD"><i>a</i></NS> window shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

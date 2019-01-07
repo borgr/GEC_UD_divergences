@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1128*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I write this letter because I <NS type="RV"><i>find</i><c>think</c></NS> there were too many problems concerning your musical show: "Over the rainbow".</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, I expected to find Danny Brook as the main actor, but she must have been <NS type="RV"><i>changed</i><c>replaced</c></NS> since the actor was different. I was so disappointed that I was thinking of leaving your theatre. Nevertheless, I stayed since I had paid.</p>
+          <p>I also want to put the <NS type="RN"><i>stress</i><c>emphasis</c></NS> on the fact that the show started at 8.15 pm instead of beginning at 7.30 pm. It <NS type="TV"><i>is</i><c>was</c></NS> <NS type="UD"><i>a</i></NS> really a shame! In fact, if I had <NS type="IV"><i>knowned</i><c>known</c></NS>, I would have probably stayed at home.</p>
+          <p>We <NS type="UV"><i>can</i></NS> see on the advertisement that discounts are available. Nonetheless, there were no discounts available at all. And, we were not allowed to visit your theatre restaurant <NS type="ID"><i>in so far as</i><c>because</c></NS> it was closed. Indeed, there was a little <NS type="RN"><i>paper</i><c>note</c></NS> on the door which informed us that the restaurant was closed due to illness.</p>
+          <p>Consequently I ask you for some money back<NS type="MP"><c>,</c></NS> seeing that I think: <NS type="ID">it's not worth the bother</NS> to <NS type="RV"><i>loose</i><c>lose</c></NS> money for such a show.,</p>
+          <p>Thank you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I think that modern technology <NS type="AGV"><i>change</i><c>changes</c></NS> my daily life. Indeed, daily life is easier thanks to technology. For example, if I want to buy something, I <NS type="RV"><i>have</i><c>can</c></NS> <NS type="FV"><i>to go</i><c>go</c></NS> on my computer and buy it. But it will make me lazy.</p>
+          <p>On the one hand technology is a good thing seeing that we've got more and more <NS type="RN"><i>possibilities</i><c>opportunities</c></NS> to enjoy ourselves since <NS type="RA"><i>she</i><c>it</c></NS> invents a lot of products. But on the other hand, technology's products are sometimes <NS type="RJ"><i>cheap</i><c>expensive</c></NS> and I can't afford <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p>In fact, I like technology but sometimes I wish it <NS type="X"><i>hadn't</i><c>had never</c></NS> existed since there are too many things on <NS type="MD"><c>the</c></NS> market. Indeed, when you want to buy a television, for example, there are a lot of different <NS type="RN"><i>marks</i><c>makes</c></NS>. And it's all the more <NS type="S"><i>tyring</i><c>tiring</c></NS> since you often wait <NS type="RT"><i>during</i><c>for</c></NS> two weeks before <NS type="RV"><i>buying</i><c>getting</c></NS> it. I'm bound to feel <NS type="RJ"><i>nervous</i><c>tense</c></NS>.</p>
+          <p>To put it in a nutshell, I would like to say that technology can be a good thing, but it creates many problems too.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

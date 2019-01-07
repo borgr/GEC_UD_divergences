@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR457*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="R"><i>Mrs/Mis</i><c>Sir/Madam</c></NS></p>
+          <p>Last night I went to your theatre to see the musical show "Over the <NS type="RP"><i>rainbow</i><c>Rainbow</c></NS>" and I would like to tell you that it wasn't what I expected to see.</p>
+          <p>Actually this <NS type="RV"><i>happened</i><c>was</c></NS> because <NS type="UD"><i>the</i></NS> most things I <NS type="RV">saw</NS> were <NS type="S"><i>differend</i><c>different</c></NS> from what the advertisement <NS type="RV"><i><NS type="TV"><i>had been written</i><c>wrote</c></NS></i><c>said</c></NS>.</p>
+          <p>First of all it <NS type="RV"><i><NS type="TV"><i>had been written</i><c>wrote</c></NS></i><c>said</c></NS> that Danny Brook and Tina Truelove were starring, but Danny wasn't there and somebody else took his place. This was the most disappointing thing I <NS type="IV"><i>herd</i><c>heard</c></NS>.</p>
+          <p>Also you <NS type="RV"><i>wrote</i><c>said</c></NS> that the show <NS type="UA"><i>it</i></NS> was going to start at 19:30 but it started at 20:15. You ought to know that all the people hated <NS type="FV"><i>to wait</i><c>waiting</c></NS> and started <NS type="MV"><c>to make</c></NS> <NS type="UD"><i>the</i></NS> <NS type="DN"><i>complains</i><c>complaints</c></NS>.</p>
+          <p>The discounts weren't available and your theatre restaurant wasn't open<NS type="UP"><i>,</i></NS> because the owners were <NS type="RT"><i>for</i><c>on</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS>.</p>
+          <p><NS type="RY"><i>At last</i><c>Finally</c></NS> you <NS type="RV"><i>wrote</i><c>said</c></NS> that it <NS type="TV"><i>was</i><c>would be</c></NS> our perfect evening out, but like I said before<NS type="MP"><c>,</c></NS> it wasn't. Actually it was terrible and I would like to have my money back.</p>
+          <p>I am looking forward to <NS type="RV"><i>taking</i><c>receiving</c></NS> your <NS type="RN"><i>answer</i><c>reply</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>Yours <NS type="RY"><i><NS type="S"><i>senciarly</i><c>sincerely</c></NS></i><c>faithfully</c></NS> </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS>, Pat wasn't very good at keeping secrets. After we had had an argument she told all the school my secrets. She <NS type="TV"><i>had really let me down</i><c>really let me down</c></NS>.</p>
+          <p>I <NS type="TV"><i>met</i><c>had met</c></NS> her <NS type="W"><i>before a year</i><c>a year before</c></NS> and from the first time we <NS type="TV"><i>talk</i><c>talked</c></NS> to each other we <NS type="RV"><i>became</i><c>were</c></NS> friends. It took us a <NS type="R"><i>few</i><c>little</c></NS> time to <NS type="FV"><i>became</i><c>become</c></NS> best <NS type="FN"><i>friend</i><c>friends</c></NS> and after that we were always together. Every day after school she <NS type="RV"><i>went</i><c>came</c></NS> to my house or I went to hers.</p>
+          <p><NS type="W"><i>Always we were</i><c>We were always</c></NS> laughing and having <NS type="MD"><c>a</c></NS> great time. I loved her a lot and I thought she felt the same about me, but I <NS type="RV"><i>had</i><c>was</c></NS> wrong. Anyway, <NS type="W"><i>always I</i><c>I always</c></NS> <NS type="TV"><i>trust</i><c>trusted</c></NS> her <NS type="MT"><c>with</c></NS> my secrets, because I was sure she wouldn't tell them to other people, even if some <NS type="SX"><i>say</i><c>day</c></NS> we would be apart. But I was wrong again.</p>
+          <p>One day, we went to a party, where she met some of the most <NS type="S"><i>pobular</i><c>popular</c></NS> girls in the school. She started to act like them and speak like them. When I told her, she became very angry<NS type="UP"><i>.</i></NS> and she left <NS type="X"><i>without saying nothing</i><c>without saying anything</c></NS>. <NS type="RY"><i>After</i><c>Afterwards</c></NS><NS type="MP"><c>,</c></NS> when I saw her, she <NS type="IV"><i>laught</i><c>laughed</c></NS> at me and the next day all the school knew everything about me. I started to cry but later I got over it<NS type="MP"><c>.</c></NS></p>
+          <p>Now the only thing I care <NS type="MT"><c>about</c></NS> is that she couldn't keep secrets and all the school is looking down on me.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

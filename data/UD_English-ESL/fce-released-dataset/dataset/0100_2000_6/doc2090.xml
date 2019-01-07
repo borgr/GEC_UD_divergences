@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR840*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>31-40</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I received your letter<NS type="MP"><c>,</c></NS> which says I won the first prize in your competition - two weeks at Camp California in the U.S.A. I <NS type="S"><i>apreicate</i><c>appreciate</c></NS> <NS type="RA"><i>it</i><c>that</c></NS> and I thank you <NS type="RY"><i>a lot</i><c>sincerely</c></NS> <NS type="R"><i>that you</i><c>for</c></NS> <NS type="FV"><i>have</i><c>having</c></NS> chosen me as a winner. I <NS type="TV"><i><NS type="S"><i>acxepted</i><c>accepted</c></NS></i><c>accept</c></NS> <NS type="UA"><i>it</i></NS> and I want to inform you that I can travel only <NS type="RT"><i>on</i><c>in</c></NS> July because I have booked my <NS type="S"><i>anual</i><c>annual</c></NS> leave <NS type="MT"><c>for</c></NS> that period. Also, I prefer to stay in tents because I have memories from my childhood. Every <NS type="AGN"><i>years</i><c>year</c></NS> my parents used to <NS type="FV"><i>sent</i><c>send</c></NS> me <NS type="U"><i>for holidays</i></NS> <NS type="RT"><i>at</i><c>to</c></NS> Camps <NS type="RT"><i>on</i><c>in</c></NS> the mountains so I would like to stay for a while in the same <NS type="MN"><c>type of</c></NS> accommodation<NS type="UP"><i>,</i></NS> and environment. Also, I prefer swimming and painting. I started to learn how to swim when I was 7 years old. My parents <NS type="RV"><i>brought</i><c>took</c></NS> me to the <NS type="RP"><i>sea side</i><c>seaside</c></NS> every weekend so I <NS type="RV"><i>was</i><c>got</c></NS> used to <NS type="FV"><i>be</i><c>being</c></NS> <NS type="RT"><i>inside</i><c>in</c></NS> the water all <NS type="UD"><i>the</i></NS> seasons. I have taken part in races twice in my life, where I was successful. Also, I <NS type="TV"><i>like</i><c>have liked</c></NS> painting from <NS type="MD"><c>an</c></NS> <NS type="RJ"><i>young</i><c>early</c></NS> age, and I have taken part in a public exhibition, where I won <NS type="UD"><i>the</i></NS> first prize. I would like to ask how much money I should have with me<NS type="R"><i>,</i><c> and</c></NS> where can I keep <NS type="AGA"><i>them</i><c>it</c></NS>? What about the clothes<NS type="RP"><i>, you</i><c>? You</c></NS> don't mention anything <NS type="M"><c>about them</c></NS>. Do I need something special or <NS type="M"><c>can I wear</c></NS> ordinary clothes?</p>
+          <p>Yours sincerely </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I would like to write about <NS type="RD"><i>my</i><c>the</c></NS> experience that I had<NS type="UP"><i>,</i></NS> when I enjoyed helping at a pop concert in my neighbourhood.</p>
+          <p>I am a member <NS type="RT"><i>in</i><c>of</c></NS> the council team so I decided to help them at a pop concert that was organized <NS type="U"><i>in the</i></NS> last month. I helped them to prepare the room for the <NS type="S"><i>bads</i><c>bands</c></NS> and I decorated the place for the singers. Also, I <NS type="RV"><i>assisted</i><c>helped</c></NS> them to choose the right instruments and to test them. It took a long time to <NS type="DV"><i>testifite</i><c>test</c></NS> the speakers and the microphones. <NS type="RT"><i>Unless</i><c>Apart from</c></NS> this preparation, I also <NS type="RV"><i>took part</i><c>helped out</c></NS> <NS type="RT"><i>to</i><c>during</c></NS> the concert. I helped them to <NS type="MV"></NS> the music and <NS type="UT"><i>to</i></NS> the songs. It was <NS type="W"><i>a quite</i><c>quite a</c></NS> difficult <NS type="RN"><i><NS type="S"><i>assiment</i><c>assignment</c></NS></i><c>job</c></NS> but I got <NS type="MQ"><c>some</c></NS> very good experience. I <NS type="RV"><i>understood</i><c>realised</c></NS> it when the concert had finished. The <NS type="S"><i>audients</i><c>audience</c></NS> was excited and I cannot <NS type="S"><i>discribe</i><c>describe</c></NS> my <NS type="DN"><i>happyness</i><c>happiness</c></NS>. It was <NS type="RP"><i>some thing</i><c>something</c></NS> that I didn't expect. Also, it <NS type="RV"><i><NS type="TV"><i>happen</i><c>happened</c></NS></i><c>was</c></NS> <NS type="MD"><c>the</c></NS> first time in my life. I still have the sound of the music in my ears and the voices of the young people who were <NS type="S"><i>accompaning</i><c>accompanying</c></NS> our songs. I enjoyed <NS type="MA"><c>it</c></NS> very much and I want to <NS type="RV"><i><NS type="S"><i>tranfere</i><c>transfer</c></NS></i><c>convey</c></NS> my <NS type="RN"><i>enjoyment</i><c>pleasure</c></NS> to you <NS type="SX"><i>though</i><c>through</c></NS> this letter.</p>
+          <p>yours sincerely</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

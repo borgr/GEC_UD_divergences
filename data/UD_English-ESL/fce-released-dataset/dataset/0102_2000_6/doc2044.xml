@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR827*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="UD"><i>the</i></NS> Manager</p>
+          <p>I am writing this letter to <NS type="S"><i>complane</i><c>complain</c></NS> about the Circle Theatre. I went to the theatre last weekend to see "Over the rainbow'. I read your advertisement. However, it <NS type="R">was different from the fact</NS>. I had a very disappointing evening.</p>
+          <p>Firstly, Danny Brook did not <NS type="RV"><i>act</i><c>appear</c></NS> as you had <NS type="RV"><i>said</i><c>promised</c></NS>. A different actor <NS type="RV"><i>acted</i><c>appeared</c></NS> <NS type="RP"><i>in stead</i><c>instead</c></NS> of him. <NS type="RP"><i>it</i><c>It</c></NS> was disappointing.</p>
+          <p>Secondly <NS type="RP"><i>Discounts</i><c>discounts</c></NS> <NS type="RV"><i>did</i><c>were</c></NS> not <NS type="S"><i>availabe</i><c>available</c></NS>. Even though I brought <NS type="MD"><c>a</c></NS> discount <NS type="SX"><i>taken</i><c>token</c></NS> which I was given by <NS type="MD"><c>a</c></NS> travel agency.</p>
+          <p>What's more, the theatre <NS type="S"><i>reastaurant</i><c>restaurant</c></NS> <NS type="TV"><i>had been</i><c>was</c></NS> closed<NS type="UP"><i>,</i></NS> when the show finished<NS type="RP"><i>. Because</i><c>, because</c></NS> the show started <NS type="MT"><c>at</c></NS> 20:15. It should have started at 19:30 as you said <NS type="RT"><i>at</i><c>in</c></NS> <NS type="MD"><c>your</c></NS> advertisement, <NS type="RC"><i>or</i><c>and</c></NS> you should not have closed <NS type="MA"><c>it</c></NS> before the show finished.</p>
+          <p>It was not <NS type="MD"><c>a</c></NS> perfect evening <NS type="S"><i>whatoever</i><c>whatsoever</c></NS>. I would like to ask for <NS type="MD"><c>my</c></NS> money back.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future.</p>
+          <p>My grandchildren will wear <NS type="DN">fish-liked-suit</NS> 100 years from now. As you can imagine, people will be lazier than now. Everything will be <NS type="DJ"><i>usefull</i><c>useful</c></NS> and <NS type="RJ"><NS type="S"><i>combinient</i><c>convenient</c></NS></NS>, even fashion.</p>
+          <p>More or less</p>
+          <p>The clothes will be more comfortable but less <NS type="DJ"><i>decorations</i><c>decorative</c></NS>. People will put on <NS type="FN"><i><NS type="UP"><i>fitted-suit</i><c>fitted suit</c></NS></i><c>fitted suits</c></NS> such as diving <NS type="FN"><i>suit</i><c>suits</c></NS><NS type="UP"><i>.</i></NS> or perhaps <NS type="X"><i>nothing to wear</i><c>wear nothing</c></NS>. For instance, people <NS type="TV"><i>would</i><c>will</c></NS> not care about what other people see. Or maybe we will not need to <NS type="RV"><i>meet</i><c>see</c></NS> each other <NS type="RQ"><i>no</i><c>any</c></NS> <NS type="RY"><i>longer</i><c>more</c></NS>.</p>
+          <p>Male or Female</p>
+          <p><NS type="R">Between male and female</NS> will <NS type="W"><i>be not</i><c>not be</c></NS> important <NS type="RT"><i>for</i><c>with</c></NS> clothes in 100 <NS type="MP"><i>years</i><c>years'</c></NS> time. The most important <NS type="AGN"><i>things</i><c>thing</c></NS> <NS type="TV"><i>is</i><c>will be</c></NS> <NS type="RD"><i>the</i><c>your</c></NS> <NS type="S"><i>fugure</i><c>figure</c></NS>, <NS type="R">such as long legs or <NS type="S"><i>pear-sharped</i><c>pear-shaped</c></NS></NS>.</p>
+          <p>Traditional or <NS type="S"><i>Comtemporaly</i><c>Contemporary</c></NS></p>
+          <p>Even though the clothes <NS type="R">become so</NS>, the traditional clothes will <NS type="UV"><i>be</i></NS> continue <NS type="MV"><c>to exist</c></NS><NS type="RP"><i>. Because</i><c>, because</c></NS> <NS type="UD"><i>the</i></NS> fashion has <NS type="R">repeated many times in the circle</NS>.</p>
+          <p>In <NS type="S"><i>concrution</i><c>conclusion</c></NS>, the clothes will <NS type="MV"><c>be</c></NS> more interesting than now<NS type="UP"><i>.</i></NS> for everybody<NS type="MP"><c>.</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

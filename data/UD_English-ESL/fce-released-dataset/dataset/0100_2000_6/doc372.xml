@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR778*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam.</p>
+          <p>I have just <NS type="S"><i>recieved</i><c>received</c></NS> your letter saying that I have won the competition<NS type="RP"><i>,</i><c>.</c></NS> I must say I was really <NS type="DJ"><i>surprise</i><c>surprised</c></NS> and happy to <NS type="RV"><i>have</i><c>be given</c></NS> the <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to join the Camp for two weeks.</p>
+          <p>I would like to travel at the end of July, because at that time<NS type="UP"><i>,</i></NS> I will be finishing a degree in <NS type="FN"><i>Arts</i><c>Art</c></NS>. I am concerned that you offer me the chance to choose two activities, while I am there<NS type="RP"><i>, because</i><c>. Because</c></NS> of my studies, I will take painting<NS type="MP"><c>,</c></NS> as this is the subject which I am finishing at <NS type="UD"><i>the</i></NS> <NS type="RP"><i>College</i><c>college</c></NS>, <NS type="CE"><NS type="S"><i>allways</i><c>always</c></NS> with important <NS type="S"><i>cualificaitons</i><c>qualifications</c></NS></NS>, and photography <NS type="UN"><i>subject</i></NS> which has been my hobby since I <NS type="TV"><i>discover</i><c>discovered</c></NS> that I can mix<NS type="MP"><c>,</c></NS> in <NS type="DN"><i>practise</i><c>practice</c></NS><NS type="MP"><c>,</c></NS> paint and <NS type="RN"><i>photo</i><c>photography</c></NS>.</p>
+          <p><NS type="S"><i>Concernet</i><c>Concerning</c></NS> <NS type="UT"><i>to</i></NS> <NS type="S"><i>acomodation</i><c>accommodation</c></NS><NS type="RP"><i>.</i><c>,</c></NS> I would prefer a tent since for me if I go to a camp or <NS type="R"><i>and</i><c>on an</c></NS> <NS type="S"><i>excurcion</i><c>excursion</c></NS> it <NS type="TV"><i>won't</i><c>isn't</c></NS> <NS type="UV"><i>be</i></NS> the same if I <NS type="TV"><i>slept</i><c>sleep</c></NS> in a cabin.</p>
+          <p>Finally I would like to know if I will have any extra cash for expenses, I mean food, or will I have to bring it with me? Will I have to bring my own clothes or <NS type="W"><i>you will</i><c>will you</c></NS> give <NS type="AGA"><i>it</i><c>them</c></NS> to us?</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Some people <NS type="AGV"><i>seems</i><c>seem</c></NS> to enjoy going shopping and spending money<NS type="RP"><i>, it</i><c>. It</c></NS> makes them happy<NS type="MP"><i> but</i><c>. But</c></NS> what about the <NS type="S"><i>ques</i><c>queues</c></NS> you have to <NS type="RV"><i>make</i><c>join</c></NS> to pay for something just to <NS type="RV"><i>realise</i><c>find</c></NS>, when you get to the front, that they have to close <NS type="RD"><i>that</i><c>the</c></NS> till and they ask you to move to the next till<NS type="RP"><i>, what</i><c>. What</c></NS> a <NS type="RN"><i>waist</i><c>waste</c></NS> of time.</p>
+          <p>It happened to me once<NS type="MP"><c>.</c></NS> <NS type="UA"><i>that</i></NS> I wanted to go on <NS type="FN"><i>holidays</i><c>holiday</c></NS>, so I went to the travel agency. <NS type="RP"><i>in</i><c>In</c></NS> the <NS type="RN"><i>front</i><c>window</c></NS> there were some good <NS type="AGN"><i>advertisement</i><c>advertisements</c></NS> about holidays which were very cheap. I really liked one of them <NS type="S"><i>concernent</i><c>concerning</c></NS> <NS type="R"><i>to</i><c>a holiday in</c></NS> Spain for 3 days with hotel and breakfast included, <NS type="W"><i><NS type="R"><i>but</i><c>only</c></NS> for</i><c>for only</c></NS> £250. I went inside to <NS type="FV"><i>asked</i><c>ask</c></NS> <NS type="RT"><i>for</i><c>about</c></NS> that <NS type="RN"><i>packet</i><c>package</c></NS> but they told me that it was gone, <NS type="L"><i>therefore</i><c>so</c></NS>, I went to many <NS type="S"><i>shoops</i><c>shops</c></NS> just to <NS type="RV"><i>find</i><c>get</c></NS> the same answer. <NS type="R"><i><NS type="RP"><i>any</i><c>Any</c></NS></i><c>None</c></NS> of the <NS type="S"><i>adver.</i><c>adverts</c></NS> in the windows were available. However, the most important thing is when I asked them to take that <NS type="S"><i>adver.</i><c>advert</c></NS> <NS type="MY"><c>out</c></NS> of the <NS type="MN"><c>window</c></NS> <NS type="MA"><c>they</c></NS> didn't do it.</p>
+          <p><NS type="R">As and advise try to go shopping in the out pick hours</NS>, and don't <NS type="SX"><i>waist</i><c>waste</c></NS> your time asking for <NS type="FN"><i><NS type="S"><i>promosion</i><c>promotion</c></NS></i><c>promotions</c></NS> advertised in the windows of the shop.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

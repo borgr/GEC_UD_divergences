@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR599*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RN"><i>Mr</i><c>Ms</c></NS> <NS type="UN"><i>Jane</i></NS> Clark,</p>
+          <p>My name is Rosa Santor. I'm 24 and I'm <NS type="MD"><c>a</c></NS> student from Poland. I study architecture at the <NS type="FN"><i>Polytechnics</i><c>Polytechnic</c></NS> in Krakow. I'm very interested in art, <NS type="RY"><i>specially</i><c>especially</c></NS> in paintings and <NS type="IV"><i>goings</i><c>going</c></NS> to galleries.</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> you a letter, because you are the organiser of an International Arts Festival.</p>
+          <p>I recently spent two days at this festival. Most of the events I went to were good, but I feel that <NS type="MD"><c>the</c></NS> festival could be even better next year.</p>
+          <p>It's very good that you organised an International Arts Festival in our country, but in my opinion<NS type="MP"><c>,</c></NS> if this is an international festival, it <NS type="RV"><i>would</i><c>should</c></NS> <NS type="FV"><i>has</i><c>have</c></NS> more stars and artists from around the world, not from only six countries, like <NS type="U"><i>it was</i></NS> this year.</p>
+          <p>It was <NS type="MD"><c>a</c></NS> great idea <NS type="UT"><i>for</i></NS> <NS type="FV"><i>doing</i><c>to do</c></NS> something like that. There were jazz, rock and classical concerts, but some <NS type="IN"><i>concerts hall</i><c>concert halls</c></NS> were too small for all <NS type="MD"><c>the</c></NS> people<NS type="UP"><i>,</i></NS> who <NS type="RV"><i>took <NS type="UD"><i>a</i></NS> part <NS type="RT"><i>at</i><c>in</c></NS></i><c>attended</c></NS> that festival. There were also plays and films, dance shows, which I liked the most, art exhibitions and talks by writers, but it would be good to see more plays and films next year. Also <NS type="MA"><c>it</c></NS> <NS type="W"><i>a great idea was</i><c>was a great idea</c></NS><NS type="UP"><i>,</i></NS> <NS type="R"><i>that it was</i><c>to have</c></NS> one reasonably-priced weekend ticket for all events.</p>
+          <p>I think, as a person<NS type="UP"><i>,</i></NS> who <NS type="W"><i><NS type="UT"><i>in</i></NS> this festival <NS type="RV"><i>took <NS type="RN"><i>place</i><c>part</c></NS> in</i><c>attended</c></NS></i><c>attended this festival</c></NS>, that <NS type="RA"><i>this</i><c>it</c></NS> <NS type="TV"><i>is</i><c>was</c></NS> excellent, because we <NS type="TV"><i>can</i><c>could</c></NS> spend a lot of time with art. There is only one bad <NS type="S"><i>fhing</i><c>thing</c></NS>, that this festival was too short. In my opinion<NS type="MP"><c>,</c></NS> next year it should take place <NS type="MT"><c>over</c></NS> <NS type="RJ"><i>much longer</i><c>more</c></NS> than two days.</p>
+          <p>I'm not <NS type="RV"><i>looking <NS type="S"><i>foward</i><c>forward</c></NS></i><c>expecting</c></NS> to</p>
+          <p><NS type="FV"><i>received</i><c>receive</c></NS> <NS type="MD"><c>a</c></NS> letter from you, because I know<NS type="UP"><i>,</i></NS> that you are busy, but please look at my suggestion for next year's festival.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kathleen,</p>
+          <p>I've <NS type="TV"><i>been just receiving</i><c>just received</c></NS> this letter <NS type="RT"><i>for</i><c>from</c></NS> you, so I'm <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you. I hope that you feel good, because I haven't seen you for two years.</p>
+          <p>You wrote that in your class, you've been talking about rules, both at home and at school. So now, I would like <NS type="W"><i>you <NS type="FV"><i><NS type="RV"><i>write</i><c>tell</c></NS></i><c>to tell</c></NS></i><c>to tell you</c></NS> something about <NS type="MD"><c>the</c></NS> school rules in my country and also what I am allowed to do at home.</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> I'm not a secondary <NS type="UP"><i>school's</i><c>school</c></NS> student, I'm now a student of architecture in Krakow. I have lessons from Monday till Friday. On <NS type="S"><i>Sathurday</i><c>Saturday</c></NS> and Sunday we don't have lessons, but it doesn't seem that we don't have work. We are allowed to prepare for the next week's lessons. At my school there <NS type="AGV"><i>are</i><c>is</c></NS> a lot of <NS type="FN"><i>drawings</i><c>drawing</c></NS><NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> <NS type="FN"><i>paintings</i><c>painting</c></NS><NS type="MP"><c>,</c></NS> and some other subjects <NS type="DJ"><i>doing</i><c>done</c></NS> by <NS type="FN"><i>hands</i><c>hand</c></NS>. We also learn how to design <NS type="UD"><i>the</i></NS> interiors and buildings. It's very interesting. We usually have lessons <NS type="RT"><i>at</i><c>in</c></NS> the morning, till <NS type="MD"><c>the</c></NS> afternoon. We don't have tests during the whole student year, only at the end of the class. There are also some exams. After a few months we go somewhere with all <NS type="MD"><c>the</c></NS> class, for example <NS type="RT"><i>next to</i><c>near</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> lake, and there we <NS type="TV"><i><NS type="IV"><i>are paintings</i><c>are painting</c></NS></i><c>paint</c></NS> <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>I don't have <NS type="FN"><i><NS type="S"><i>troubbles</i><c>troubles</c></NS></i><c>trouble</c></NS> with my education<NS type="RP"><i>, my</i><c>. My</c></NS> friends and teachers are nice and friendly, but there is one thing I'd like to change in my school. I'd like to have more tests during the whole <NS type="RN"><i>study</i><c>course</c></NS>, not only at the end, because <NS type="AS"><i>it causes that I'm getting</i><c>it's making me</c></NS> very <NS type="S"><i>lasy</i><c>lazy</c></NS>.</p>
+          <p>I'm looking forward to <NS type="FV"><i>received</i><c>receiving</c></NS> <NS type="RQ"><i>a new</i><c>another</c></NS> letter from you. I think<NS type="UP"><i>,</i></NS> that you <NS type="RV"><i>don't</i><c>won't</c></NS> forget, &amp; will write <NS type="MT"><c>to</c></NS> me soon.</p>
+          <p>See you soon, your best friend</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

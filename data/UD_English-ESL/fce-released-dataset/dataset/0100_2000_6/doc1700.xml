@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR92*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Competition Organiser:</p>
+          <p>I'm so happy and <NS type="RJ"><i>exciting</i><c>excited</c></NS> to receive this letter about <NS type="M"><c>the fact that</c></NS> I've won the first prize in your competition.</p>
+          <p>I've been dreaming <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to travel</i><c>travelling</c></NS> to <NS type="MD"><c>the</c></NS> U.S.A for so many years. The dream <NS type="TV"><i>happens</i><c>is happening</c></NS> to me now. So I shall think about it carefully and make everything ready!</p>
+          <p>I would like to travel in July because I have to go back to my country in <NS type="S"><i>Auguest</i><c>August</c></NS>. And I'm sure <NS type="UT"><i>about</i></NS> that the weather in July will be lovely!</p>
+          <p>I prefer <NS type="RV"><i>living</i><c>staying</c></NS> in tents to <NS type="RV"><i>living</i><c>staying</c></NS> in log cabins. I think <NS type="RV"><i>living</i><c>staying</c></NS> in tents is more comfortable for sleeping. Also I am not very keen on sleeping with too many people in the same place.</p>
+          <p><NS type="RP"><i>Basket ball</i><c>Basketball</c></NS> is my favourite <NS type="DN"><i>sporting</i><c>sport</c></NS>. It's one of the most popular sports in <NS type="MD"><c>the</c></NS> U.S.A as well in my opinion. And I was school-team player when I was in High school. So I am good at it. The other thing I would like to do is sailing. But I <NS type="TV"><i>never try</i><c>have never tried</c></NS> it before. I just think it will be exciting and interesting for me. Maybe I can't manage it!</p>
+          <p>Also I <NS type="RV"><i>got</i><c>have</c></NS> two questions to ask you. The first one is <NS type="UC"><i>that</i></NS><NS type="MP"><c>,</c></NS> <NS type="RV"><i>shall</i><c>should</c></NS> I take a lot of money or just a little? And the last one is <NS type="UC"><i>that</i></NS><NS type="MP"><c>,</c></NS> do I need pillow or blanket or something else? I hope that I will enjoy my journey!</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p> More and more people like shopping now. You can see so many people walk along the business street every day and any time, especially in Oxford Street. Sometimes shopping can relax people and increase people's working <NS type="DN"><i>express</i><c>speed</c></NS>. But is it always enjoyable?</p>
+          <p>Of course not. The most obvious example is that when you're shopping in the shop you're not sure which one you are going to buy, you turn to the people who sell them, but they sometimes ignore you. So you like them but you don't want them any more. It makes you angry!</p>
+          <p>Also<NS type="MP"><c>,</c></NS> for example<NS type="RP"><i>.</i><c>,</c></NS> you really like some shoes or clothes, when you want to buy them, someone <NS type="AGV"><i>tell</i><c>tells</c></NS> you "I'm sorry, this one is sold out"! What a pity! You become unhappy immediately.</p>
+          <p>And sometimes<NS type="MP"><c>,</c></NS> for example, you just bought something last week, but when you go shopping this week, you see the same items but different prices, maybe from £50 down to £20, and then you'll regret wasting money, although you like it very much. If you <NS type="TV"><i>were</i><c>are</c></NS> <NS type="MD"><c>a</c></NS> rich man it doesn't mater, but if you <NS type="TV"><i>were</i><c>are</c></NS> <NS type="MD"><c>a</c></NS> poor man, you will be sad! How can shopping be enjoyable <NS type="RT"><i>at</i><c>in</c></NS> <NS type="S"><i>thoese</i><c>this</c></NS> situation!</p>
+          <p>So I think shopping is not always enjoyable!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR658*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>13, June, 2000</p>
+          <p>To Helen Ryan,</p>
+          <p>Hello, how are you? I'm fine. Thank you for the letter. I got it today and couldn't believe it! <NS type="UT"><i>As you</i><c>You</c></NS> asked me for some further information. I will write it down.</p>
+          <p>I'd like to travel in July and this is the only time I can travel, because I am busy with a school project until the end of June and I am <NS type="MV"><c>going</c></NS> to work in a hospital for the summer holidays in August and September.</p>
+          <p>For accommodation, I prefer log cabins, because I believe I can meet more people if I stay in log cabins and it's a lot of fun to talk with them.</p>
+          <p>I'd like to play tennis and basketball while I am there. I have never played basketball, but I have played tennis for 6 years and I am a good player.</p>
+          <p>I have never <NS type="IV"><i>traveled</i><c>travelled</c></NS> abroad and don't know if I should bring a credit card with me. If you have suggestions, can you write to me again?</p>
+          <p>Thank you again and <NS type="L">take care</NS>,</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>13 June, 2000.</p>
+          <p>Dear Kim,</p>
+          <p>Hi! How are you doing? I'm fine. As you asked me about the concert, I'll write about it today.</p>
+          <p>First of all, we cleared all the seats. There were so many seats that it took <NS type="MD"><c>a</c></NS> long <NS type="MN"><c>time</c></NS> to finish clearing. Before the concert started, we sold some snacks and drinks and after that, we stood in front of the audience to prevent them from moving forward. During the concert, all the fans try to get closer to the singers, jumping, shouting and so on and some of them faint when they get <NS type="SX"><i>to</i><c>too</c></NS> excited. We move them to a safe place so that they won't be kicked or stepped on by other mad fans.</p>
+          <p>By the time it finished, I was exhausted, but I certainly enjoyed this experience as you can meet many people at a time and what I liked most was that you can see famous stars very close and listen to their live music for free!</p>
+          <p>Have you had an interesting experience? Please write about it in the next letter.</p>
+          <p>I hope to hear from you soon.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

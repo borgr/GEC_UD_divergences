@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR418*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan:</p>
+          <p>My name is Julia Sanches and I have won first prize in your competition. I am now writing to tell you the information you have asked <NS type="MT"><c>for</c></NS> about me:</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I will be on my school vacation, so I would not miss my classes.</p>
+          <p>About the activities, I would like to do Basketball and Surfing. I play Basketball at school twice a week and I enjoy it. Although I do not play perfectly, I play quite well, but I would still like to <NS type="DV"><i>practice</i><c>practise</c></NS>. I go to the beach almost every weekend to improve my surfing - it is the sport I like best - and I think it would be a nice <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to <NS type="DV"><i>practice</i><c>practise</c></NS> surfing too.</p>
+          <p>There are some things I would like to ask <NS type="MT"><c>about</c></NS>: the <NS type="S"><i>tipe</i><c>type</c></NS> (and quantity) of Clothes I will have to take, <NS type="MC"><c>and</c></NS> if it is necessary to take some money <NS type="RC"><i>and</i><c>or</c></NS> any additional stuff (like <NS type="S"><i>raincoates</i><c>raincoats</c></NS>). Well, that <NS type="TV"><i>would be</i><c>is</c></NS> all. I look forward to receiving your letter.</p>
+          <p>Yours sincerely,</p>
+          <p>Julia Sanches</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>IS EVIL INTERESTING?</p>
+          <p>Since we <NS type="TV"><i>are</i><c>were</c></NS> kids people <NS type="TV"><i>tell</i><c>have told</c></NS> us stories <NS type="RT"><i>with</i><c>about</c></NS> two sides in <NS type="S"><i>conflit</i><c>conflict</c></NS>: the good and the bad side. The good always <NS type="AGV"><i>wins</i><c>win</c></NS>, and we are told that the other part is bad, and that is the end of the story. But isn't evil interesting?</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> the tale "It's a good life", the author gives much more emphasis to <NS type="UD"><i>the</i></NS> Witte Anthony than to anyone else in the story. He is the main character, although he is mean, cruel and <NS type="RJ">uningative</NS>. He controls the other people using the power of his mind.</p>
+          <p>Although the other people <NS type="RT"><i>on</i><c>in</c></NS> the story are the good ones and suffer <NS type="RT"><i>with</i><c>from</c></NS> his domination, they are quite poor and empty, not interesting and not well described, meanwhile Anthony is a very interesting and different person, and all his thoughts are told <NS type="MT"><c>to</c></NS> us by the author.</p>
+          <p>In conclusion, even though we know that this character is good and this one is bad, sometimes the good ones are quite boring, and we find the bad <NS type="FN"><i>one</i><c>ones</c></NS> much more interesting.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

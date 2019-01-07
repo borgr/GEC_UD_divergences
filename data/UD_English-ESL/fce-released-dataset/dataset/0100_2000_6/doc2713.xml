@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1103*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Thank you for your letter and for having <NS type="TV"><i>inform</i><c>informed</c></NS> me about the results of the competition. I also want to congratulate you <NS type="RT"><i>for</i><c>on</c></NS> your <NS type="S"><i>exellent</i><c>excellent</c></NS> competition, <NS type="IN"><i>thank</i><c>thanks</c></NS> to which I have the opportunity to go to California, a place that I always wanted to go <NS type="MT"><c>to</c></NS>.</p>
+          <p>About the <NS type="RN"><i>travel</i><c>trip</c></NS>, I think it would be preferable to do it <NS type="RT"><i>on</i><c>in</c></NS> July, which is a holiday <NS type="S"><i>periode</i><c>period</c></NS> and so I won't have any <NS type="RJ">special</NS> obligations. While in California I would prefer to sleep in a tent, so I can <NS type="RV"><i>live</i><c>be</c></NS> closer to <NS type="UD"><i>the</i></NS> nature. Anyway the accommodation is not a big problem for me, because I will be away most of the time. <NS type="RV"><i><NS type="FV"><i>Stay</i><c>Staying</c></NS></i><c>Spending</c></NS> a lot of time in the same place in my opinion is the <NS type="FJ"><i>worse</i><c>worst</c></NS> thing to do, <NS type="RY"><i><NS type="DY"><i>specialy</i><c>specially</c></NS></i><c>especially</c></NS> during a <NS type="RN"><i>trip</i><c>holiday</c></NS>! Moreover <NS type="MA"><c>I</c></NS> would like <NS type="MA"><c>it</c></NS> if it is possible to have an opportunity to play tennis and basketball. Any little <NS type="RN">tournaments</NS> of this kind would be <NS type="RJ"><i><NS type="S"><i>greateful</i><c>grateful</c></NS></i><c>great</c></NS>.</p>
+          <p>Before ending my letter I would like to know <NS type="U"><i>and be told</i></NS> <NS type="RY"><i><NS type="DY"><i>specialy</i><c>specially</c></NS></i><c>in particular</c></NS> <NS type="UT"><i>in</i></NS> what kind of clothes <NS type="UV"><i>should</i></NS> I have to take with me and also if you could change some money of mine <NS type="RT"><i>in</i><c>into</c></NS> <NS type="RP"><i>Dollars</i><c>dollars</c></NS>.</p>
+          <p>I look forward to hearing from you<NS type="MP"><c>.</c></NS></p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>As you know last month I went to help at a concert, the one that I told you <NS type="MT"><c>about</c></NS> in my last letter. I wanted to go <NS type="W"><i>very much there</i><c>there very much</c></NS> and so <NS type="FV"><i>go</i><c>going</c></NS> there <NS type="UT"><i>for</i></NS> <NS type="FV"><i>helping</i><c>to help</c></NS> was for me a unique <NS type="RN"><i>chance</i><c>opportunity</c></NS>. Moreover instead of <NS type="S"><i>bying</i><c>buying</c></NS> a ticket I <NS type="RV"><i>entered</i><c>went</c></NS> there for free, as a helper.</p>
+          <p>From the first <NS type="RN"><i>time</i><c>moment</c></NS> that <NS type="MA"><c>I</c></NS> <NS type="RV"><i>went</i><c>got</c></NS> there I understood that I was going to have a great night. OK<NS type="MP"><c>,</c></NS> in the beginning the other helpers and I had a lot of work to do, <NS type="R"><i>so</i><c>such</c></NS> as cleaning the stage and <NS type="UY"><i>so</i></NS> some decoration work. But <NS type="RC"><i>as</i><c>when</c></NS> the <NS type="SX"><i>correct</i><c>concert</c></NS> started and we finished what we had to do, we were free to do <NS type="RP"><i>what ever</i><c>whatever</c></NS> we wanted. So the party started... The pop concert was <NS type="S"><i>exellent</i><c>excellent</c></NS> and I had a lot of fun. Don't ask the time <NS type="R"><i>in which</i><c>when</c></NS> I <NS type="TV"><i>come</i><c>came</c></NS> home because I don't remember! Some of my friends who were also helping told me that we returned at six o'clock in the morning! It was really an unforgettable experience.</p>
+          <p>Best <NS type="S"><i>whishes</i><c>wishes</c></NS></p>
+          <p>Giannis</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

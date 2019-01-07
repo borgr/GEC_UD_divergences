@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR152*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I AM REALLY ENTHUSIASTIC ABOUT THE PRIZE I'VE WON<NS type="RP"><i>,</i><c>.</c></NS> I'M WRITING TO GIVE YOU THE INFORMATION YOU ASKED ME FOR AND, IF IT'S POSSIBLE, TO HAVE SOME FURTHER DETAILS ABOUT THE CAMP.</p>
+          <p>I WOULD PREFER TRAVELLING IN JULY, BECAUSE I HAVE MY EXAMS IN JUNE AND I'VE SIGNED <NS type="UT"><i>FOR</i></NS> A CONTRACT <NS type="MV"><c>TO WORK</c></NS> AS A SHOP ASSISTANT<NS type="MP"><c>,</c></NS> STARTING IN AUGUST.</p>
+          <p>SINCE I HAVE <NS type="RD"><i>THE</i><c>A</c></NS> CHOICE <NS type="R"><i>FOR MY</i><c>OF</c></NS> <NS type="S"><i>ACCOMODATION</i><c>ACCOMMODATION</c></NS>, I'LL <NS type="S"><i>DEFINETELLY</i><c>DEFINITELY</c></NS> GO FOR THE <NS type="FN"><i>LOG CABINS</i><c>LOG CABIN</c></NS>, BECAUSE I CAN'T <NS type="RV"><i>BARE</i><c>BEAR</c></NS> THE HEAT INSIDE <NS type="RD"><i>THE</i><c>A</c></NS> TENT.</p>
+          <p>OUT OF THE LIST OF ACTIVITIES GIVEN<NS type="MP"><c>,</c></NS> I'VE CHOSEN GOLF AND PHOTOGRAPHY; GOLF BECAUSE I LOVE THE SPORT ALTHOUGH I DON'T GET TO PLAY IT MUCH (I'M NOT BAD AT IT), AND PHOTOGRAPHY BECAUSE IT'S SOMETHING I'VE ALWAYS <NS type="RV"><i>LOVED</i><c>WANTED</c></NS> TO LEARN BUT I'VE NEVER HAD THE CHANCE.</p>
+          <p><NS type="UA"><i>WHAT</i></NS> I WOULD LIKE TO ASK YOU <NS type="UV"><i>IS</i></NS> ABOUT THE WEATHER CONDITIONS, SO I CAN DECIDE ON WHAT CLOTHES TO TAKE, AND ABOUT COSTS, SO I CAN MAKE A <NS type="S"><i>BUDJET</i><c>BUDGET</c></NS> FOR THE HOLIDAY.</p>
+          <p>YOURS SINCERELY</p>
+          <p>Angelo Costa</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>DEAR KIM,</p>
+          <p>I'M REALLY GLAD YOU WROTE TO ME TO ASK HOW EVERYTHING HAD GONE AT THE CONCERT; SO I'M GOING TO TELL YOU HOW THINGS WENT.</p>
+          <p>MY JOB MAINLY INVOLVED HELPING TO <NS type="RV"><i>SET</i><c>BUILD</c></NS> THE STAGE AND TO TAKE IT DOWN AFTER THE CONCERT, BUT I ALSO GAVE A HAND BACKSTAGE WHEN NEEDED.</p>
+          <p>I WAS PART OF THE STAFF<NS type="RP"><i>,</i><c>.</c></NS> WE ALL HAD A SPECIAL PASS <NS type="UN"><i>CARD</i></NS> AND THEY ALSO GAVE US A T-SHIRT AND A CAP (I'VE GOT AN EXTRA ONE FOR YOU); OUR WORK STARTED TWO DAYS BEFORE THE CONCERT, AND I MUST SAY IT WAS REALLY HARD, <NS type="RY"><i>SPECIALLY</i><c>ESPECIALLY</c></NS> BECAUSE WE WORKED <NS type="RT"><i>UNDER</i><c>IN</c></NS> THE SUN, FROM 8.00 A.M TO 8.00P.M. WITH AN <NS type="MP"><i>HOUR</i><c>HOUR'S</c></NS> <NS type="RN"><i>BRAKE</i><c>BREAK</c></NS> FOR LUNCH AND IT WAS THE SAME AFTER THE CONCERT.</p>
+          <p>AFTER THE STAGE WAS <NS type="RV"><i>SET</i><c>BUILT</c></NS>, THE REST OF THE THINGS I HAD TO DO WERE QUITE EASY AND ENJOYABLE; I COULD STAY EITHER <NS type="R"><i>BACK OR FRONT</i><c>BEHIND OR IN FRONT OF THE</c></NS> STAGE AND GIVE A HAND IF NEEDED<NS type="RP"><i>,</i><c>.</c></NS> I REALLY ENJOYED IT BECAUSE I LEARNT A LOT OF <NS type="S"><i>TECNICAL</i><c>TECHNICAL</c></NS> THINGS I DIDN'T KNOW; AND WHAT I ALSO ENJOYED WAS THE GOOD PAY!</p>
+          <p>Lots of love</p>
+          <p>Angelo.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

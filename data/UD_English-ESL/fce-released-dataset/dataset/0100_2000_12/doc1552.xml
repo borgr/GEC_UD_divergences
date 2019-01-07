@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR602*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson, one of the reasons that we <NS type="TV"><i>write</i><c>are writing</c></NS> this letter to you<NS type="UP"><i>,</i></NS> is because we would like to thank you for this short trip <NS type="RT"><i>in</i><c>to</c></NS> London. We believe that the programme is very <NS type="S"><i>cood</i><c>good</c></NS> and well organised and we would like to thank you one more time <NS type="RY">especially</NS> for that.</p>
+          <p>The other reason <NS type="UT"><i>as</i></NS> I <NS type="TV"><i>mention</i><c>mentioned</c></NS> earlier is <NS type="UT"><i>because of</i></NS> a request <NS type="RT"><i><NS type="SX"><i>off</i><c>of</c></NS></i><c>from</c></NS> <NS type="RQ"><i>all the</i><c>the whole</c></NS> class. We've seen an advertisement in the newspapers, about a Fashion exhibition in London on Tuesday the <NS type="MP"><i>14</i><c>14th</c></NS> of March. That is one of the 3 days that we will <NS type="FV"><i>spent</i><c>spend</c></NS> in London as a <NS type="RN">college</NS>. So we had this great idea<NS type="MP"><c>,</c></NS> if it is possible of course<NS type="M"><c>, we could</c></NS> <NS type="FV"><i>to include</i><c>include</c></NS> this exhibition in our programme.</p>
+          <p>The exhibition is <NS type="S"><i>caud</i><c>called</c></NS> the London Fashion and Leisure Show and it <NS type="TV"><i>taking</i><c>takes</c></NS> place at the Central Exhibition hall, in London<NS type="MP"><c>,</c></NS> From 10.00 till 19.00.</p>
+          <p>The class is very <NS type="RJ"><i><NS type="SX"><i>exiting</i><c>exciting</c></NS></i><c>excited</c></NS> about that because the Show <NS type="RV"><i><NS type="S"><i>conteins</i><c>contains</c></NS></i><c>covers</c></NS> the latest Fashions, leisure and Sports Wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="RP"><i>hair styles</i><c>hairstyles</c></NS>. We believe that <NS type="MA"><c>this</c></NS> is a great opportunity because <NS type="MA"><c>it</c></NS> is one of the best shows of the year<NS type="RP"><i>, also</i><c>. Also</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> majority of the class <NS type="TV"><i>never had</i><c>has never had</c></NS> the <NS type="RN"><i>change</i><c>chance</c></NS> to visit a show <NS type="RT"><i>as</i><c>like</c></NS> this and the most important and best part is that <NS type="UD"><i>the</i></NS> admission is Free for Students. And that we <NS type="RV"><i>found</i><c>thought</c></NS> <NS type="UA"><i>it</i></NS> very good as otherwise we could not afford it.</p>
+          <p>So please if it is possible <NS type="M"><c>could we</c></NS> <NS type="FV"><i>to make</i><c>make</c></NS> a small change to the programme and <NS type="FV"><i>to move</i><c>move</c></NS> the activities of <NS type="W"><i>the Tuesday</i><c>Tuesday the</c></NS> <NS type="MP"><i>14</i><c>14th</c></NS> of March to the <NS type="MP"><i>15</i><c>15th</c></NS> of March <NS type="MY"><c>so</c></NS> as to try to <NS type="RV"><i>make a combination of</i><c>combine</c></NS> the 2 days.</p>
+          <p>We hope we do not cause any problems <NS type="RT"><i>to</i><c>with</c></NS> your programme and hope that you will <NS type="SX"><i>except</i><c>accept</c></NS> our request. From all your class</p>
+          <p>Thank you</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>"FAME" What a word!! I'm sure that the people that <NS type="R">had decided to meet this word they</NS> did not <NS type="FV"><i>realised</i><c>realise</c></NS> that there is a price to pay. I believe that <NS type="RQ"><i>any</i><c>all</c></NS> famous people<NS type="MP"><c>,</c></NS> such as politicians and film stars, deserve to have a private life without journalists following them all the time for <NS type="UD"><i>a</i></NS> various reasons.</p>
+          <p>First of all they are humans like everyone else, so yes everyone <NS type="AGV"><i>want</i><c>wants</c></NS> privacy in their <NS type="IN"><i>lifes</i><c>lives</c></NS>. <NS type="MA"><i><NS type="RP"><i>is</i><c>Is</c></NS></i><c>It is</c></NS> the same right for all of us as <NS type="UD"><i>a</i></NS> human <NS type="DN"><i>be</i><c>beings</c></NS>.</p>
+          <p>Of course <NS type="R"><i>on</i><c>if</c></NS> you are <NS type="RT"><i>on</i><c>in</c></NS> the public eye, the reasons <NS type="AS"><i>are different when you want privacy</i><c>why you want privacy are different</c></NS><NS type="RP"><i>. <NS type="S"><i>Becaues</i><c>Because</c></NS></i><c>, because</c></NS> if you are a politician<NS type="MP"><c>,</c></NS> <NS type="RT"><i>as</i><c>for</c></NS> <NS type="UD"><i>an</i></NS> <NS type="S"><i>exmaple</i><c>example</c></NS>, you fear for your life. You need to protect your life <NS type="RT"><i>of</i><c>from</c></NS> any danger. <NS type="S"><i>Becaue</i><c>Because</c></NS> </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

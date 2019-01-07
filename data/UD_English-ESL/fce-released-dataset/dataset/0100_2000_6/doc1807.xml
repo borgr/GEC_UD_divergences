@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR67*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan,</p>
+          <p>I have just received a letter from you and I am really happy to hear the news that I have won first prize in the competition. I would like to tell you something about what you asked me in the letter.</p>
+          <p>Firstly, I can <NS type="W"><i>travel only</i><c>only travel</c></NS> in July because I have no time except <NS type="MT"><c>in</c></NS> July as I am a postgraduate student. I would very much like to stay in a log cabin. I think it is a wonderful idea to stay in a tent only for <NS type="MD"><c>a</c></NS> few days but not over 3 days. It will be more comfortable to stay in a log cabin.</p>
+          <p>Regarding <NS type="UT"><i>with</i></NS> two activities<NS type="MP"><c>,</c></NS> I will choose swimming and photography. I am not good at swimming but I would very much like to learn how to swim this year. On the other hand, I am very good at photography as I was a photographer in a club while I was in <NS type="UD"><i>the</i></NS> college.</p>
+          <p>Lastly I would particularly like to know about clothes and money. Isn't it cold at night in the Camp California? I like ice <NS type="SX"><i>cram</i><c>cream</c></NS>, sweets and <NS type="FN"><i>beverage</i><c>beverages</c></NS> very much<NS type="MP"><c>,</c></NS> especially in the summer. Are these expensive? Could you please tell me about these? I am looking forward to your reply.</p>
+          <p>Yours sincerely,</p>
+          <p>Shin Parade</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Do you think shopping is always enjoyable? Well, it might be true but I think it depends on the situation.</p>
+          <p>When you <NS type="RV"><i>do</i><c>go</c></NS> shopping, you can see various products <NS type="MC"><c>and</c></NS> even very extraordinary <NS type="FN"><i>thing</i><c>things</c></NS>. You can also see more graceful and fine <NS type="FN"><i>thing</i><c>things</c></NS>. You usually visit many shops and compare the quality and the price and select the best one which suits <NS type="UT"><i>to</i></NS> you.</p>
+          <p>On the other hand, it usually <NS type="AGV"><i>take</i><c>takes</c></NS> <NS type="L"><i>much</i><c>a lot of</c></NS> time to get <NS type="W"><i>what you exactly</i><c>exactly what you</c></NS> want<NS type="RP"><i>. Because</i><c>, because</c></NS> you have to visit many shops and see many <NS type="AGN"><i>thing</i><c>things</c></NS>. If <NS type="MD"><c>the</c></NS> shopping mall is not <NS type="RV">collected</NS>, it is physically hard to get what you want. It's not easy to shop with someone who <NS type="AGV"><i>are</i><c>is</c></NS> not interested in shopping.</p>
+          <p>In conclusion, shopping is not always enjoyable as many people think. It depends on the situation. It even <NS type="IV"><i>varys</i><c>varies</c></NS> <NS type="RT"><i>with</i><c>depending on</c></NS> <NS type="MD"><c>the</c></NS> people whom you shop with.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR325*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>Thank you for your lovely letter<NS type="RP"><i>?</i><c>.</c></NS> I was really <NS type="DJ"><i>surprise</i><c>surprised</c></NS> to <NS type="FV"><i><NS type="IV"><i>heared</i><c>heard</c></NS></i><c>hear</c></NS> I <NS type="TV"><i>have</i><c>had</c></NS> won <NS type="UT"><i>in</i></NS> your competition.</p>
+          <p><NS type="ID"><i>With pleasure I'll give</i><c>It will be a pleasure to give you</c></NS> all <NS type="MD"><c>the</c></NS> information <NS type="S"><i>wich</i><c>which</c></NS> you need.</p>
+          <p>I would like to book my tickets <NS type="RT"><i>from</i><c>for</c></NS> the beginning of July. The 3rd of July will suit <NS type="UT"><i>to</i></NS> me.</p>
+          <p>As far as I know <NS type="S"><i>accomodation</i><c>accommodation</c></NS> at Camp California is in tents or log cabins. I prefer log cabins. It's more <NS type="S"><i>convinient</i><c>convenient</c></NS> for me.</p>
+          <p>I am very glad I can <NS type="FV"><i>chose</i><c>choose</c></NS> two activities while I <NS type="TV"><i>will</i><c>am</c></NS> at the Camp. I am keen on basketball<NS type="RP"><i>,</i><c>.</c></NS> I played in my country for 7 years. I am <NS type="MD"><c>a</c></NS> good <NS type="S"><i>diffender</i><c>defender</c></NS>.</p>
+          <p>I would like to choose surfing <NS type="RT"><i>like</i><c>as</c></NS> my second <NS type="AGN"><i>activities</i><c>activity</c></NS>. I've never done it before. I'd like to get some lessons if it's possible. I've seen how people do it but I've never tried it <NS type="R"><i>my own</i><c>myself</c></NS>.</p>
+          <p>I'd like to know what temperature <NS type="M"><c>it will be</c></NS> in July in California and <NS type="SX"><i><NS type="MP"><i>youre</i><c>you're</c></NS></i><c>your</c></NS> advice about how much money I will need to have an <NS type="DJ"><i>unforgetable</i><c>unforgettable</c></NS> <NS type="AGN"><i><NS type="S"><i>hollydays</i><c>holidays</c></NS></i><c>holiday</c></NS>!</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p><NS type="W"><i>Is shopping</i><c>Shopping is</c></NS> not always enjoyable, is it?</p>
+          <p>We can't say that <NS type="MA"><c>it</c></NS> is always enjoyable or <NS type="MA"><c>it</c></NS> is not. Every new day is not the same. But...</p>
+          <p>I think that good shopping depends on <NS type="RA"><i><NS type="DA"><i>ourself</i><c>ourselves</c></NS></i><c>us</c></NS>. If we <NS type="TV"><i>decided</i><c>decide</c></NS> to <NS type="SX"><i>by</i><c>buy</c></NS> <NS type="S"><i>somthing</i><c>something</c></NS> special and we have enough money for it we have to go and buy it. Probably, maybe not.</p>
+          <p><NS type="RP"><i>Some times</i><c>Sometimes</c></NS> we have <NS type="UV"><i>to have</i></NS> <NS type="FV"><i>deal</i><c>to deal</c></NS> with <NS type="DJ"><i>not good</i><c>unsatisfactory</c></NS> service or<NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> <NS type="TV"><i>could</i><c>can</c></NS> you imagine <NS type="AS"><i>it on your way to <NS type="MD"><c>the</c></NS> shop you have met wrong people</i><c>meeting the wrong people on the way to the shop</c></NS> or someone <NS type="FV"><i>told</i><c>telling</c></NS> you bad news.</p>
+          <p>Or <NS type="M"><c>perhaps the</c></NS> quality of your new thing is not so good <NS type="R"><i>that</i><c>as</c></NS> you <NS type="UY"><i>really</i></NS> expected. <NS type="MD"><i>Situations</i><c>The situations</c></NS> are <NS type="DJ"><i>variously</i><c>various</c></NS>.</p>
+          <p>Maybe you will spend all your money <NS type="RT"><i>for</i><c>on</c></NS> a new thing and a few hours later your best friend will invite you to go to <NS type="MD"><c>a</c></NS> night-club but you <NS type="TV"><i>are</i><c>will be</c></NS> short of money. Some people will do crazy things in <NS type="MD"><c>a</c></NS> situation like this. They will hate this new thing because they will miss a party.</p>
+          <p>But I want to wish you <NS type="R"><i>have a good</i><c>some</c></NS> enjoyable shopping <NS type="R">all your way</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

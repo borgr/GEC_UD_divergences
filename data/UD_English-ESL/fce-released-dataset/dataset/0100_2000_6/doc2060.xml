@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR830*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I received your letter last week and was surprised to see that I <NS type="TV"><i>won</i><c>had won</c></NS> a competition. It is the first time it <NS type="TV"><i>happens</i><c>has happened</c></NS> to me.</p>
+          <p>Unfortunately I'm free only in July. <NS type="UY"><i>Actually</i></NS> I will be busy working abroad until the end of June and will be on <NS type="FN"><i>holidays</i><c>holiday</c></NS> with my family in August.</p>
+          <p>You asked me which <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would prefer. It's ages since I <NS type="TV"><i>have been sleeping</i><c>have slept</c></NS> in a tent and I would be happy to <NS type="RV"><i>experiment</i><c>experience</c></NS> it again. It will remind me <NS type="MT"><c>of</c></NS> some wonderful experiences.</p>
+          <p><NS type="RT"><i>According to</i><c>Regarding</c></NS> the activities, I would like to do some painting, which I am quite good at. The second activity I chose is sailing. I <NS type="TV"><i>went</i><c>have been</c></NS> <NS type="W"><i>two times on a sailing ship</i><c>on a sailing ship two times</c></NS> without doing anything, therefore <NS type="W"><i>have I</i><c>I have</c></NS> got no experience at all.</p>
+          <p>May I ask you<NS type="MP"><c>,</c></NS> how much money do I need and <NS type="RQ"><i>which</i><c>what</c></NS> sort of clothes do you advise me to take?</p>
+          <p>I look forward to your answer and to the camp, naturally.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thank you very much for your last letter. As you asked me in your letter, I will try to explain my wonderful experience at <NS type="RD"><i>this</i><c>the</c></NS> pop concert.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> you have to know that it wasn't <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RJ"><i>common</i><c>ordinary</c></NS> pop concert, but a real <NS type="MP"><i>open air</i><c>open-air</c></NS> festival. <NS type="RA"><i>It</i><c>This</c></NS> isn't the first year that I <NS type="TV"><i>work</i><c>have worked</c></NS> there. However<NS type="MP"><c>,</c></NS> this year wasn't like last year.</p>
+          <p>My job was <NS type="R"><i>as simple as</i><c>simply</c></NS> selling ice-creams. You might say that it <NS type="TV"><i>is</i><c>was</c></NS> quite boring, but it was <NS type="RQ"><i>so</i><c>such</c></NS> <NS type="RJ"><i>funny</i><c>fun</c></NS>. Everybody was so relaxed; we were singing and dancing while selling ice-creams in our little van. Byran Adams himself bought me an ice-cream.</p>
+          <p>It was <NS type="MD"><c>an</c></NS> amazing experience. What I particularly liked about it was that the staff was like a big family. Everybody was ready to help each other. I was really impressed by this solidarity and friendship which is quite rare in Switzerland.</p>
+          <p>I look forward to hearing from you and wish you all the best.</p>
+          <p>Love from</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

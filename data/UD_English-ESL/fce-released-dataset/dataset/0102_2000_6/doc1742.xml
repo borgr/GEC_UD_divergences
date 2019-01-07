@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR687*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir,</p>
+          <p>Having seen<NS type="MP"><c>,</c></NS> with two of my friends<NS type="MP"><c>,</c></NS> your musical show last <NS type="UP"><i>week-end</i><c>weekend</c></NS> at The Circle Theatre<NS type="MP"><c>,</c></NS> which <NS type="MV"><c>is</c></NS> called "OVER THE RAINBOW", I am writing to complain about our disappointing evening.</p>
+          <p>First of all, in your advertisement you refer to discounts that are available, but<NS type="MP"><c>,</c></NS> when we bought our tickets, one of the employees refused to give us '<NS type="W"><i>tickets student price</i><c>student price tickets</c></NS>'. Despite being forced to buy adult tickets, we <NS type="W"><i>still were</i><c>were still</c></NS> excited and took our <NS type="AGN"><i>seat</i><c>seats</c></NS>, and waited for the beginning of the show. Usually, the show starts at 19:30, but this time we had to wait until 20:15! In addition to this, it was not the famous actors that you <NS type="TV"><i>have</i><c>had</c></NS> <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> in the advertisement <NS type="MV"><c>performing</c></NS>, so we were disappointed.</p>
+          <p>Concerning the restaurant, it was closed <NS type="R"><i>due to</i><c>for</c></NS> <NS type="RN"><i>transformations</i><c>renovation</c></NS>. <NS type="ID"><i>In the result</i><c>As a result</c></NS>, I am sure you will understand our <NS type="DN"><i>annoyed</i><c>annoyance</c></NS> and <NS type="DN"><i>frustrated</i><c>frustration</c></NS>, so it was not <NS type="RD"><i>a</i><c>the</c></NS> perfect evening out that your advertisement stated <NS type="MA"><c>it</c></NS> <NS type="TV"><i>was</i><c>would be</c></NS>.</p>
+          <p>Finally, I am writing to request a <NS type="UP"><i>full-refund</i><c>full refund</c></NS> for my friends and <NS type="RA"><i>I</i><c>me</c></NS>, because I felt your advertisement was misleading.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>H. Boulard</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>What do you think <NS type="U"><i>about what</i></NS> <NS type="W"><i>will clothes</i><c>clothes will</c></NS> be like in the future? I'm sure that <NS type="RA"><i>anyone</i><c>someone</c></NS> has already thought about it, because fashionable clothes have always been really important for almost all of us.</p>
+          <p>Let's have a look at different points. From the past until now, we have <NS type="MV"><c>been</c></NS> wearing several different <NS type="MN"><c>types of</c></NS> fashionable <NS type="RN"><i>clothes</i><c>clothing</c></NS>, but why? From my point of view, almost all humans would like to be <NS type="U"><i>more and</i></NS> more attractive, so we always think about it. As a result, clothes are the easiest way to <NS type="RV"><i>be</i><c>become</c></NS> more attractive. In addition to this, anyone will agree with me that clothes are the best invention ever. Furthermore, it's one of the best <NS type="AGN"><i>way</i><c>ways</c></NS> to make money.</p>
+          <p>Anyway, don't you think that<NS type="MP"><c>,</c></NS> nowadays, fashionable clothes <NS type="AGV"><i>is</i><c>are</c></NS> quite similar <NS type="R"><i>than</i><c>to</c></NS> <NS type="M"><c>what they were</c></NS> 20 years ago? It's evident that whatever we wear <NS type="AGV"><i>look</i><c>looks</c></NS> like clothes, and I think we should stop being so stupid. We can't <NS type="FV"><i>wearing</i><c>wear</c></NS> peculiar clothes like in science fiction films. I bet you that in 100 years, humans will <NS type="MV"><c>be</c></NS> wearing exactly the same clothes as today, because we love the <NS type="R">actually fashion of clothes</NS><NS type="MP"><c>,</c></NS> which is wonderful. The last survey about fashion <NS type="TV"><i>shown</i><c>showed</c></NS> that people feel really comfortable with <NS type="R">those</NS> now!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

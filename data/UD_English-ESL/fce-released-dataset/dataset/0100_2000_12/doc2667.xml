@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1072*0100*2000*02">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to thank you for the <NS type="MP"><i>well organised</i><c>well-organised</c></NS> programme you have <NS type="RV"><i>done</i><c>organised</c></NS>. It will be a good opportunity <NS type="UT"><i>for</i></NS> <NS type="FV"><i>visiting</i><c>to visit</c></NS> London and <NS type="UD"><i>its</i></NS> interesting places like the Science Museum.</p>
+          <p>In addition it is <NS type="RJ"><NS type="DJ"><i>properly</i><c>proper</c></NS></NS> to mention <NS type="UA"><i>you</i></NS> that all the students <NS type="RT"><i>of</i><c>in</c></NS> my class are interested in going to The London Fashion and Leisure <NS type="RP"><i>show</i><c>Show</c></NS>, which is taking place on Tuesday 14th in the Central Exhibition Hall.</p>
+          <p>The London Fashion and Leisure <NS type="RP"><i>show</i><c>Show</c></NS> is an <NS type="S"><i>amaizing</i><c>amazing</c></NS> show because there are <NS type="RN">parades</NS> with the latest fashions<NS type="RP"><i>, we</i><c>. We</c></NS> could <NS type="RV"><i>know</i><c>see</c></NS> some famous top models<NS type="MP"><c>.</c></NS> <NS type="RY"><i>Besides</i><c>Also</c></NS> there <NS type="TV"><i>are</i><c>will be</c></NS> a variety of clothes <NS type="R">either <NS type="DJ"><i>sport</i><c>sports</c></NS> wear as elegant <NS type="S"><i>desings</i><c>designs</c></NS></NS>. <NS type="RY"><i>Not only</i><c>Also</c></NS> we could see the latest trend in make-up <NS type="RC"><i>but</i><c>and</c></NS> <NS type="R">hairstyles performed by important coiffeurs</NS>.</p>
+          <p>With your agreement we could change the programme. Maybe we could go <NS type="UY"><i>on</i></NS> shopping on Wednesday afternoon and on Tuesday we could go to <NS type="RP"><i>The Show</i><c>the show</c></NS>.</p>
+          <p>We would like to have <NS type="MD"><c>a</c></NS> reply <NS type="M"><c>so we are able</c></NS> to <NS type="RV"><i><NS type="FV"><i>became</i><c>become</c></NS></i><c>begin</c></NS> making the arrangements. Many thanks again.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. I <NS type="TV"><i>have never imagined</i><c>never imagined</c></NS> I <NS type="TV"><i>had</i><c>would have</c></NS> to face this situation.</p>
+          <p>I joined <NS type="UT"><i>with</i></NS> an expedition <NS type="UN"><i>team</i></NS> in order to explore the Rocky Mountains. We planned a <NS type="RN"><i>programme</i><c>route</c></NS>. We arrived <NS type="RT"><i>to</i><c>at</c></NS> the <NS type="RN">place</NS> in the morning and started to walk.</p>
+          <p><NS type="RP"><i>Every thing</i><c>Everything</c></NS> was marvellous<NS type="RP"><i>,</i><c>.</c></NS> I got on well with all the <NS type="RN">partners</NS>. The <NS type="FN"><i>landscapes</i><c>landscape</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> the most beautiful that I had ever seen <NS type="UY"><i>before</i></NS>.</p>
+          <p>The weather was delightful, except <NS type="MT"><c>for</c></NS> this afternoon when <NS type="MA"><c>it</c></NS> started to rain and we <NS type="TV"><i>decide</i><c>decided</c></NS> to stay <NS type="UT"><i>during</i></NS> the night inside a hole in the <NS type="RN"><i>wall</i><c>face</c></NS> of the mountain.</p>
+          <p>I realised that my bag was outside and I went out to look for it, when a <NS type="RN"><i>rain</i><c>shower</c></NS> of stones covered the <NS type="S"><i>entrace</i><c>entrance</c></NS> of the hole. I was terrified, I knew that the only solution was to ask for <NS type="RN"><i>helping</i><c>help</c></NS>. I walked alone a long <NS type="S"><i>distence</i><c>distance</c></NS> until I found a telephone<NS type="RP"><i>,</i><c>.</c></NS> I called the police and <NS type="R">they ask for a rescue</NS>.</p>
+          <p><NS type="ID"><i>Thanks to God</i><c>Thank God</c></NS><NS type="MP"><c>,</c></NS> everything finished in a good way. <NS type="RP"><i>and</i><c>And</c></NS> my <NS type="RN"><i>partners</i><c>companions</c></NS> were successfully rescued.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

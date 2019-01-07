@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR354*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>Recently I had a week's holiday in London. During my stay I went to The Circle Theatre to see "Over the rainbow", <NS type="UD"><i>the</i></NS> "London's newest and best musical show." I have to admit that <NS type="MA"><c>this</c></NS> was my great mistake. Never before had I <NS type="MV"><c>had</c></NS> such a disappointing evening.</p>
+          <p>First of all, there was an old, ugly, and unknown actor in the main part instead of <NS type="MD"><c>the</c></NS> brilliant Danny Brook!</p>
+          <p>To make matters worse, the show started at 20.15, although the advertisement <NS type="TV"><i>was saying</i><c>said</c></NS> it would begin at 19.30.</p>
+          <p>Moreover, there weren't any discounts, and I had to pay much more for my ticket than I had expected.</p>
+          <p>And <NS type="ID"><i>on the top of everything</i><c>on top of everything</c></NS> your theatre restaurant was closed because of the waiters' strike, so I had to look for another place to have a snack.</p>
+          <p>You can imagine how upset I am at having suffered such discomfort and disappointment. It wasn't a "perfect evening out" at all! That is why I expect at least half the ticket price back. I hope you will give this matter your immediate consideration. Otherwise I'll have to apply to <NS type="MD"><c>the</c></NS> <NS type="FN"><i>court</i><c>courts</c></NS> for aid.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future.</p>
+          <p>What will clothes be like 100 years from now? This question is not simple to answer. On the one hand, science and technology have been developing rapidly, and God knows what new materials will be invented in <NS type="MD"><c>the</c></NS> future. We probably will be wearing dresses made of synthetic <NS type="UJ"><i>artificial</i></NS> cloth in 2100. Of course, <NS type="RD"><i>those</i><c>these</c></NS> new <NS type="AGN"><i>material</i><c>materials</c></NS> won't be so harmful <NS type="RT"><i>for</i><c>to</c></NS> our health as today's nylon and other things like that.</p>
+          <p>On the other hand, people tend to wear natural clothes today, made of cotton, wool <NS type="MY"><c>etc</c></NS>. This tendency may result in <NS type="RV"><i>turning down</i><c>rejecting</c></NS> synthetics <NS type="RY"><i>at all</i><c>completely</c></NS>.</p>
+          <p>And it is even more <NS type="S"><i>difficul</i><c>difficult</c></NS> to predict <NS type="R"><i>how</i><c>what</c></NS> <NS type="UD"><i>the</i></NS> clothes <NS type="RT"><i>of</i><c>in</c></NS> the future will look like. People's  <NS type="RN"><i>fantasy</i><c>imaginations</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> enormous.</p>
+          <p>Anyway, we'll give up wearing fur coats as it is cruel and uncivilised.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

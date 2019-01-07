@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR142*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>18.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen,</p>
+          <p>I have just received your letter and I want to thank you for all this information that you <NS type="TV"><i>giving</i><c>are giving</c></NS> me.</p>
+          <p><NS type="SX"><i>Fist</i><c>First</c></NS> of all, it would be a good thing to say that July would be the best time to travel because it is <NS type="MD"><c>the</c></NS> <NS type="IJ"><i>hotest</i><c>hottest</c></NS> <NS type="S"><i>mounth</i><c>month</c></NS> in the year, and the weather <NS type="RV"><i>shall</i><c>will</c></NS> be really nice.</p>
+          <p>Secondly, I think it <NS type="UV"><i>is</i></NS> would be better to stay <NS type="MT"><c>in</c></NS> tents, so <NS type="RC"><i>than</i><c>that</c></NS> we can have a nice time at Camp California and find many interesting games to play <NS type="UT"><i>in</i></NS>.</p>
+          <p>However, as you asked me to choose two activities, I'm choosing swimming and climbing, because I'm very good at swimming and I would like to try <NS type="U"><i>myself at</i></NS> climbing. Despite <NS type="RD"><i>the</i><c>my</c></NS> <NS type="R"><i>small</i><c>lack of</c></NS> <NS type="S"><i>expereance</i><c>experience</c></NS> in climbing I do want to try this type of sport.</p>
+          <p>In addition, I would like to know how much money <NS type="UV"><i>do</i></NS> I have to bring with me.</p>
+          <p>I think that <NS type="UA"><i>it</i></NS> is all <NS type="R"><i>what</i><c>that</c></NS> I would like to know.</p>
+          <p>I'm looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Introduction</p>
+          <p>The aim of this report is to suggest <NS type="S"><i>wich</i><c>which</c></NS> lessons and other activities should be filmed. I have <NS type="S"><i>enterwed</i><c>interviewed</c></NS> each student from my English class.</p>
+          <p><NS type="S"><i>Fistly</i><c>Firstly</c></NS>, the English <NS type="FN"><i>lesson</i><c>lessons</c></NS> must be filmed as the most interesting <NS type="FN"><i>lesson</i><c>lessons</c></NS> at our school because it will give <NS type="UT"><i>to</i></NS> students an interest <NS type="MT"><c>in</c></NS> <NS type="FV"><i>to study</i><c>studying</c></NS> and <NS type="FV"><i>improve</i><c>improving</c></NS> their <NS type="S"><i>noleges</i><c>knowledge</c></NS>. Also you can <NS type="R">have a good practice with English with students, who</NS> <NS type="TV"><i>came</i><c>come</c></NS> from different countries.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

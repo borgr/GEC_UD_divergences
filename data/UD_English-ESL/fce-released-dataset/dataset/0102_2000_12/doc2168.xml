@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR874*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I had a wonderful time at the International Arts Festival. I think this festival is a great idea <NS type="M"><c>in that it allows people</c></NS> to enjoy arts from around the world, but I also have some complaints.</p>
+          <p>First of all, I <NS type="RV"><i>got</i><c>was</c></NS> disappointed when I found that there were no artists from Indonesia. There were stars and artists from only six countries.</p>
+          <p>Secondly, the concert halls. The performances were great, but some halls were too small to <NS type="S"><i>accomodate</i><c>accommodate</c></NS> <NS type="R"><i>so many</i><c>all the</c></NS> people <NS type="MA"><c>who</c></NS> <NS type="W"><i>there were</i><c>were there</c></NS> that day. A crowded hall is not good <NS type="M"><c>when it comes</c></NS> to <NS type="FV"><i>enjoy</i><c>enjoying</c></NS> <NS type="CN"><i>musics</i><c>music</c></NS>.</p>
+          <p>Overall, however, the festival was definitely a great success. I liked <NS type="MD"><c>the</c></NS> plays and films, and want to see more next year. The special tickets were excellent because we could enjoy <NS type="MD"><c>the</c></NS> arts without worrying about money. So all you need to improve <NS type="MN"><c>things</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="UV"><i>to have</i></NS> larger concert halls. I also suggest that you should make it easier to find out where and what is <NS type="RV"><i>being held</i><c>going on</c></NS> using more <NS type="RP"><i>notice boards</i><c>noticeboards</c></NS>.</p>
+          <p>I have no doubt that you will succeed <NS type="RT"><i>in</i><c>with</c></NS> next year's festival.</p>
+          <p>Sincerely Yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I would like to recommend the job<NS type="R"><i>,</i><c> of</c></NS> <NS type="UD"><i>a</i></NS> home <NS type="RN"><i>teacher</i><c>tutor</c></NS>. It is a job <NS type="RC"><i>that</i><c>where</c></NS> you become a teacher and visit your student at his or her house.</p>
+          <p>The best advantage of this job is the <NS type="RN"><i>payment</i><c>pay</c></NS>. It is very good considering how <NS type="RJ"><i>less</i><c>little</c></NS> time we spend on it. It's about 3,000 yen per hour in my district. It is also attractive that this job rarely affects our university studies. Students who want home <NS type="RN"><i>teachers</i><c>tutors</c></NS> are usually primary school, junior high school, or senior high school students, and <NS type="RA"><i>it</i><c>that</c></NS> means they take lessons after school, not in <NS type="RD"><i>a</i><c>the</c></NS> daytime. So, in <NS type="RD"><i>a</i><c>the</c></NS> daytime, we can focus <NS type="RT"><i>in</i><c>on</c></NS> our <NS type="DN"><i>studyings</i><c>studies</c></NS>.</p>
+          <p>It is not so easy for every student, though<NS type="RP"><i>. Because</i><c>, because</c></NS> teaching requires a lot of knowledge. You have to be much smarter than your student, and you also need to prepare for lessons, <NS type="L"><i>for</i><c>because</c></NS> it is your responsibility to provide your student <NS type="M"><c>with the</c></NS> right information.</p>
+          <p>As you see, teaching is <NS type="UD"><i>a</i></NS> hard work in some <NS type="FN"><i>respect</i><c>respects</c></NS>. But I am enjoying it and getting a lot out of it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

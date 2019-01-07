@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR603*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear manager I am writing <NS type="MT"><c>to</c></NS> you because of your new musical show "Over The Rainbow''. I <NS type="TV"><i>have spent</i><c>spent</c></NS> my holiday in London recently and<NS type="MP"><c>,</c></NS> it is like a tradition, we went to a musical. After reading your programme I was very impressed and I was looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> it. But firstly when we bought our tickets, we didn't get any discount, we had to pay the full price. And then the show started at 20:15 p.m., although it was supposed to start at 19:30 p.m., so <NS type="TV"><i>we've had</i><c>we had</c></NS> to wait quite long in <NS type="RD"><i>this</i><c>that</c></NS> crowded room. And when the show finally started, I realized that it was not Danny Brook acting, instead there was an unknown, not very talented actor. After the show we wanted to go to your theatre restaurant, because we were very hungry, but then we saw that it was closed, because of staff illness. I would like to ask you to give us our money back, because it <NS type="TV"><i>has been</i><c>was</c></NS> a very disappointing evening for us. Yours sincerely, Sara Schmidt</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. We sometimes tried to <NS type="RV"><i>make</i><c>throw</c></NS> surprise parties, but it never worked because of him.</p>
+          <p>Two weeks before his birthday he started asking us what we were <NS type="SX"><i>gong</i><c>going</c></NS> to do. That annoyed us so much<NS type="UP"><i>,</i></NS> that we started making something up. We told Pat we couldn't have a party on his birthday, because everyone except me had something to do. Of course, that wasn't <NS type="MJ"><c>true</c></NS>, we had actually organised a party for him with all his friends <NS type="UY"><i>since</i></NS> a long time <NS type="SX"><i>go</i><c>ago</c></NS>, but he wasn't supposed to know that.</p>
+          <p>On his birthday all our friends were at my place, waiting for Pat. I had invited him to <NS type="RV"><i>opened</i><c>spend</c></NS> the evening with me. But half an hour before he should have been there he phoned me and said he was too tired to come. I couldn't change his mind although <NS type="TV"><i>I've tried</i><c>I tried</c></NS> everything. In the end I just told him the truth. He was very sorry that he had not <NS type="TV"><i>want</i><c>wanted</c></NS> to come and arrived quite soon then.</p>
+          <p>But I know now<NS type="UP"><i>,</i></NS> that it is always better not to lie even if it <NS type="TV"><i>should be</i><c>is</c></NS> for <NS type="MD"><c>a</c></NS> good <NS type="MN"><c>reason</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR396*0102*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Clark,</p>
+          <p>I saw the advertisement for the International Arts Festival <NS type="S"><i>wich</i><c>which</c></NS> is a great idea.</p>
+          <p>I'm writing to you because I want to give you my opinion and some suggestions for next year's festival. <NS type="UC"><i>As</i></NS> I saw <NS type="RT"><i>on</i><c>in</c></NS> the advertisement<NS type="UP"><i>,</i></NS> there <NS type="TV"><i>were</i><c>would be</c></NS> stars and artists from around the world but this year there were only six countries <NS type="MV"><c>represented</c></NS>. It would be better if there were more than six countries.</p>
+          <p>I noticed that some concert halls were too small. I wonder if you could <NS type="RV"><i>offer</i><c>organise</c></NS> <NS type="RJ"><i>outside</i><c>outdoor</c></NS> concerts.</p>
+          <p>Furthermore, I think there were too few plays and films. Don't you think you could <NS type="RV"><i>create</i><c>provide</c></NS> <NS type="DN"><i>dramatic</i><c>drama</c></NS> courses? Visitors could <NS type="RV">learn</NS> plays with professionals.</p>
+          <p>Finally, the idea of a reasonably-priced weekend ticket for all events is excellent because we pay only once and we can see all the events.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear George,</p>
+          <p>Thank you for your letter which I've just received.</p>
+          <p>You ask me to tell you about school rules and what we are allowed to do at home in France. I don't think the rules are so different between England and France but I'm going to try to give you examples.</p>
+          <p>Firstly, at school, <NS type="MC"><c>if</c></NS> we missed a <NS type="RN"><i>course</i><c>class</c></NS>, we must bring a <NS type="DN"><i>medical attestation</i><c>doctor's note</c></NS>.</p>
+          <p>Furthermore, when we <NS type="TV"><i>failed</i><c>fail</c></NS> an exam in June, we can <NS type="RV"><i>have</i><c>take</c></NS> it in September. And if we are interested, we can spend six months abroad but we must pass the FCE.</p>
+          <p>At home, we must wash our hands before <NS type="UD"><i>the</i></NS> lunch. And we mustn't speak during <NS type="UD"><i>the</i></NS> lunch. I think it's not a good thing because we can't discuss <NS type="MN"></NS> with our family. There are so many rules but it would <NS type="RV"><i>be</i><c>take</c></NS> too long if I had to explain all of them.</p>
+          <p><NS type="R"><i>l</i><c>I</c></NS>'m looking forward to hearing from you.</p>
+          <p>Best regards,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

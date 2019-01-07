@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR675*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p><NS type="FV"><i>Thanks</i><c>Thank</c></NS> you very much for your recent letter. I <NS type="RP"><i>can not</i><c>cannot</c></NS> believe that I won the first prize (<NS type="RP"><i>It's</i><c>it's</c></NS> great!) and<NS type="MP"><c>,</c></NS> of course, I am very happy.</p>
+          <p>As <NS type="MT"><c>for</c></NS> your questions, I am free to travel only <NS type="RT"><i>on</i><c>in</c></NS> July because I will <NS type="FV"><i>having</i><c>have</c></NS> my holiday after <NS type="FV"><i>finished</i><c>finishing</c></NS> the exams. And, I have to <NS type="FV"><i>returned</i><c>return</c></NS> to my university by August.</p>
+          <p>I prefer to stay in <NS type="MD"><c>a</c></NS> log cabin rather than in <NS type="MD"><c>a</c></NS> tent because I am not used to <NS type="UT"><i>with</i></NS> narrow <NS type="FN"><i>space</i><c>spaces</c></NS> and feel more comfortable with a place like <NS type="MD"><c>a</c></NS> bedroom.</p>
+          <p>Furthermore, I prefer to do painting and photography as my hobbies and <NS type="R">my</NS> <NS type="DN"><i>fasinative</i><c>fascination</c></NS> <NS type="RT"><i>in</i><c>for</c></NS> art and <NS type="TV"><i>enjoyed</i><c>enjoy</c></NS> <NS type="FV"><i>to take</i><c>taking</c></NS> <NS type="UD"><i>a</i></NS> <NS type="FN"><i>photograph</i><c>photographs</c></NS> of wildlife.</p>
+          <p>Finally, please could you give me an idea what sort of clothes to bring? <NS type="RP"><i>and</i><c>And</c></NS> how much <NS type="TV"><i>would</i><c>will</c></NS> <NS type="UV"><i>be</i></NS> <NS type="MA"><c>I</c></NS> spend there<NS type="RP"><i>.</i><c>?</c></NS> Also, please <NS type="DV"><i>advice</i><c>advise</c></NS> <NS type="MA"><c>me</c></NS> <NS type="RT"><i>for</i><c>regarding</c></NS> any <NS type="R"><i>necessary things</i><c>things it is necessary</c></NS> to prepare and bring.</p>
+          <p>I <NS type="TV"><i>looking</i><c>look</c></NS> forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Sorry <NS type="UT"><i>for</i></NS> I haven't written to you for such a long time, but I've got a good <NS type="S"><i>excute</i><c>excuse</c></NS>!</p>
+          <p>Last month, I <NS type="CE">was partly in the concert teams</NS>. It was a big one <NS type="U"><i>that I never <NS type="S"><i>thougth</i><c>thought</c></NS></i></NS> and I couldn't <NS type="TV"><i>imagine</i><c>have imagined</c></NS> how amazing <NS type="W"><i>was it</i><c>it was</c></NS>.</p>
+          <p>I didn't know what <NS type="TV"><i>is</i><c>was</c></NS> my <NS type="DN"><i>responsible</i><c>responsibility</c></NS> until they called me to <NS type="MV"><c>be</c></NS> trained. What a <NS type="DN"><i>surprised</i><c>surprise</c></NS>! <NS type="RP"><i>and</i><c>And</c></NS> <NS type="DY"><i><NS type="DJ"><i>unbelieveable</i><c>unbelievable</c></NS></i><c>unbelievably</c></NS>, I was responsible for looking after the pop stars. You might understand how excited I was. But, <NS type="TV"><i>I've got</i><c>I got</c></NS> <NS type="SX"><i>though</i><c>through</c></NS> it. I <NS type="TV"><i>have</i><c>had</c></NS> to <NS type="FV"><i>taken</i><c>take</c></NS> care of them during <NS type="RD"><i>a</i><c>the</c></NS> break, <NS type="FV"><i>served</i><c>serving</c></NS> <NS type="UD"><i>a</i></NS> <NS type="FN"><i>drink</i><c>drinks</c></NS>, <NS type="M"></NS> clothes, <NS type="MA"><c>I</c></NS> even brought them some <NS type="AGN"><i><NS type="S"><i>cigaratte</i><c>cigarette</c></NS></i><c>cigarettes</c></NS> and anything they <NS type="TV"><i>wants</i><c>wanted</c></NS>. I think they are so <NS type="DJ"><i>hospitality</i><c>hospitable</c></NS> and warm with people around them. You know<NS type="RP"><i>!</i><c>,</c></NS> because of <NS type="RA"><i>these</i><c>this</c></NS> <NS type="UV"><i>are</i></NS> <NS type="W"><i><NS type="TV"><i>change</i><c>have changed</c></NS> all my opinions about <NS type="MD"><c>the</c></NS> self-important <NS type="SA"><i>behavior</i><c>behaviour</c></NS> of <NS type="FN"><i>superstar</i><c>superstars</c></NS></i><c>all my opinions about the self-important behaviour of superstars have changed</c></NS>.</p>
+          <p><NS type="R"><i>The</i><c>What I</c></NS> most appreciated was <NS type="MC"><c>that</c></NS> <NS type="TV"><i>they've given</i><c>they gave</c></NS> me their <NS type="S"><i>latate</i><c>latest</c></NS> CD with <NS type="MD"><c>their</c></NS> <NS type="AGN"><i>signature</i><c>signatures</c></NS>. Marvellous thing! <NS type="RP"><i>and</i><c>And</c></NS> of <NS type="S"><i>couse</i><c>course</c></NS><NS type="MP"><c>,</c></NS> as you have seen<NS type="MP"><c>,</c></NS> <NS type="UA"><i>it</i></NS> I've given one to you.</p>
+          <p>I hope you're well and enjoyed <NS type="R"><i>with</i><c>the</c></NS> CD and don't forget to write back all about your news <NS type="MT"><c>from</c></NS> during <NS type="RD"><i>my</i><c>your</c></NS> summer holiday job.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

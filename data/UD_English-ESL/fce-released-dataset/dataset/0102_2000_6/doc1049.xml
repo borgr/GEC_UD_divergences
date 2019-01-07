@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR429*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>&lt;16</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the terrible evening I spent in your theatre. Just to remind you of which show I am talking about, it is called "Over the Rainbow".</p>
+          <p>There were <NS type="MD"><c>a</c></NS> couple of things I noted down during the show. One of the reasons that I chose to see this show was to see Danny Brook live. But there was a different actor instead of him. I am very disappointed. Another problem that bothered me about the show was its late start. Instead of starting at 19:30 pm, it started at 20:15 pm. I had a meeting straight after the show but I was late and made <NS type="MD"><c>a</c></NS> fool of <NS type="RP"><i>my self</i><c>myself</c></NS> by arriving late and <NS type="MV"><c>had to suffer</c></NS> all those people <NS type="IV"><i>starring</i><c>staring</c></NS> at me and whispering. Then I found out that the discounts <NS type="TV"><i>are</i><c>were</c></NS> not available but on the notice board<NS type="UP"><i>,</i></NS> it said that they <NS type="TV"><i>are</i><c>were</c></NS> available. After the show, I noticed that the theatre restaurant was closed because it was closed that day.</p>
+          <p>The evening that I spent there was terrible so please may I have my money back.</p>
+          <p>Yours faithfully,</p>
+          <p>Raulet.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Well, for instance people in Roman times (Roman soldiers) didn't have any sort of transport to move them from one place to another. The only way they could move was <NS type="MV"><c>using</c></NS> their feet. They could walk over 4 km per day without any breaks.</p>
+          <p>But people <NS type="UT"><i>in</i></NS> nowadays like me can't even walk 1 km. And also what is the point of walking when you have cars and buses or even bikes.</p>
+          <p>Phones also affected my daily routine. If I wanted to find one of my friends, I had to run around our <NS type="L"><i>hood</i><c>neighbourhood</c></NS> <NS type="RV"><i>finding</i><c>looking for</c></NS> him but now<NS type="UP"><i>,</i></NS> I just have to phone <NS type="MA"><c>him</c></NS> on his mobile phone and just ask him where he is.</p>
+          <p>Computers changed my daily routine because<NS type="MP"><c>,</c></NS> when I was younger, I <NS type="TV"><i>was spending</i><c>spent</c></NS> most of my days outside playing basketball but now<NS type="UP"><i>,</i></NS> I just play on the computers all day.</p>
+          <p>E-mails are also one of my examples. When e-mails didn't exist, I <NS type="TV"><i>was writing</i><c>wrote</c></NS> letters and it took longer to get to the person I <NS type="TV"><i>am</i><c>was</c></NS> writing to but with e-mails<NS type="UP"><i>,</i></NS> the person could receive my message within <NS type="MD"><c>a</c></NS> few seconds and you don't have to count <NS type="UT"><i>in</i></NS> how many days <NS type="M"><c>it will take before</c></NS> he will receive it. So in my opinion, modern technology <NS type="TV"><i>changed</i><c>has changed</c></NS> my daily routine <NS type="SX"><i>quiet</i><c>quite</c></NS> a lot.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR422*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about a musical show I saw at the Circle Theatre on Wednesday, June, 14th which was titled "Over the Rainbow".</p>
+          <p>First of all, the advertisement I got <NS type="RV"><i><NS type="IV"><i>layed</i><c>laid</c></NS></i><c>placed</c></NS> emphasis on Danny Brook's starring <NS type="M"><c>in the show</c></NS>, but <NS type="RY"><i>eventually</i><c>actually</c></NS>, a <NS type="DJ"><i>disappoint</i><c>disappointing</c></NS><NS type="MP"><c>,</c></NS> unknown actor played his part, and I wonder whether he had real skills <NS type="UT"><i>to</i></NS>.</p>
+          <p>To make matters worse, not only was the restaurant closed, <NS type="R"><i>without any</i><c>for no</c></NS> <NS type="DJ"><i>appearant</i><c>apparent</c></NS> reason, but also the discounts that were said to be available were not.</p>
+          <p>On top of everything, the performance began forty-five minutes late.</p>
+          <p>I find it unbearable to witness such <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>lying</i><c>deceitful</c></NS> advertising and to <NS type="W"><i>pay even</i><c>even pay</c></NS> ten pounds to <NS type="RV"><i>spend</i><c>have</c></NS> such a disappointing evening. Consequently, I ask for <NS type="MD"><c>my</c></NS> money back, and I will <NS type="W"><i>not obviously</i><c>obviously not</c></NS> go back <NS type="RT"><i>in</i><c>to</c></NS> the Circle Theatre. I <NS type="RV"><i>join</i><c>attach</c></NS> my receipt, and I look forward to hearing from you soon.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Over the last five years, she <NS type="TV"><i>had</i><c>has</c></NS> caused many arguments because of unkept secrets, but she couldn't help speaking to everybody. This time, as Katie, her cousin, had told her<NS type="MP"><c>,</c></NS> their friend Bobby had stolen a great camera, but that this was confidential<NS type="RP"><i>,</i><c>.</c></NS> Pat reacted violently; why was she told secrets she was unable to keep? However, she was interested <NS type="U"><i>in it</i></NS>, and decided to lead her own enquiry <NS type="RT"><i>about</i><c>into</c></NS> this case. Bobby didn't use to commit such acts and the story <NS type="RV"><i>looked</i><c>seemed</c></NS> very strange. Despite Katie's warning, Pat <NS type="RV"><i>reached</i><c>achieved</c></NS> her purpose by <NS type="W"><i>questioning carefully</i><c>carefully questioning</c></NS> her friends, and realized Bobby had been forced to <NS type="RV"><i>rob</i><c>steal</c></NS> this camera <NS type="R"><i>unless</i><c>or else</c></NS> he <NS type="RV"><i>wanted</i><c>would</c></NS> <NS type="FV"><i>to be</i><c>be</c></NS> hurt. Pat knew there was no solving the problem without the <NS type="W"><i>adults' help</i><c>the help of adults</c></NS>. Katie and Bobby would be furious, but anyway... She <NS type="MV"><c>got</c></NS> <NS type="W"><i>convicted the two criminals</i><c>the two criminals convicted</c></NS>, and <NS type="RV"><i>had</i><c>recovered</c></NS> the calm <NS type="UV"><i>gone back</i></NS> within the school. It was the first time she had saved someone <NS type="MT"><c>by</c></NS> telling a secret, and she realized she had made <NS type="RD"><i>the</i><c>a</c></NS> good choice.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

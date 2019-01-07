@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR521*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I'm a student <NS type="RT"><i>of</i><c>at</c></NS> your college and I <NS type="TV"><i>write</i><c>am writing</c></NS> this letter for my class because I'm the class chief.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> the hall <NS type="RT"><i>of</i><c>outside</c></NS> our classroom we have seen an advertisement for the London Fashion and Leisure Show and we would like to go to the show <NS type="MC"><c>if</c></NS> <NS type="W"><i>is <NS type="RA"><i>it</i><c>that</c></NS></i><c>that is</c></NS> possible.</p>
+          <p>We know that we will spend three days in London in a <unknown/> with a <NS type="RJ">determinate</NS> programme. First of all we <NS type="R"><i>make thanks</i><c>thank you</c></NS> for the <NS type="RJ"><i>good</i><c>excellent</c></NS> programme <NS type="MC"><c>and</c></NS> especially for <NS type="M"><c>the visit to</c></NS> the Science Museum on Tuesday 14th<NS type="MP"><c>.</c></NS> <NS type="L"><i>About</i><c>Regarding</c></NS> the London Fashion and Leisure Show we <NS type="TV"><i>are</i><c>would be</c></NS> very <NS type="DJ"><i>excite</i><c>excited</c></NS> to go because it's <NS type="SX"><i>on</i><c>an</c></NS> <NS type="RJ">extravagant</NS> and unusual show with leisure, <NS type="RP"><i>sports wear</i><c>sportswear</c></NS> and hairstyles.</p>
+          <p>As I see <NS type="MT"><c>from</c></NS> your programme<NS type="MP"><c>,</c></NS> the shopping <NS type="MN"><c>trip</c></NS> is at the same time <NS type="RT"><i>of</i><c>as</c></NS> the London Fashion <NS type="MN"><c>Show</c></NS> so I'll make you a suggestion: we'll start in the morning with the Science Museum and immediately after we'll go to <NS type="MD"><c>the</c></NS> Central Exhibition Hall without doing <NS type="MQ"><c>any</c></NS> shopping.</p>
+          <p>It would be a great opportunity because <NS type="W"><i>for students it's free</i><c>it's free for students</c></NS>.</p>
+          <p><NS type="R">If you don't have problems we attend yours, we hope good answer</NS>.</p>
+          <p>Thank you</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>I <NS type="X"><i>think that my house isn't</i><c>don't think that my house is</c></NS> <NS type="M"><c>the house</c></NS> of the future.</p>
+          <p>It is comfortable, not too big with a lot of carpets and <NS type="IJ"><i>antiques</i><c>antique</c></NS> <NS type="RN"><i>components</i><c>objects</c></NS><NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> <NS type="CN"><i>potterys</i><c>pottery</c></NS>, my bed, and a wardrobe of my <NS type="MP"><i>grandmother</i><c>grandmother's</c></NS>.</p>
+          <p><NS type="MA"><i>Think</i><c>I think</c></NS> people's homes will be different in the future<NS type="MP"><i> <NS type="L"><i>about</i><c>regarding</c></NS></i><c>. Regarding</c></NS> <NS type="R">the new materials of structures</NS>, they will have a lot of computers for <NS type="R">doing recipes</NS> and <NS type="RV"><i>making</i><c>doing</c></NS> <NS type="MD"><c>the</c></NS> shopping while you are <NS type="UV"><i>staying</i></NS> at home.</p>
+          <p>We will have a relaxing room, with soft light, <NS type="W"><i>music New Age</i><c>New Age music</c></NS> and a lot of essences. I think that we can't stop <NS type="UC"><i>the</i></NS> progress but if we want we can conserve <unknown/> traditional things.</p>
+          <p>The home of the future will be very <NS type="DJ"><i>impersonally</i><c>impersonal</c></NS> and the <NS type="S"><i>atmosfear</i><c>atmosphere</c></NS> will be cold and very <NS type="RJ"><NS type="S"><i>essencial</i><c>essential</c></NS></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

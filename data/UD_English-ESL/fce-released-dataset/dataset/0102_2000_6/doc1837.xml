@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR703*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Jones,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to inform you about the disappointing evening I had when I visited the Circle <NS type="RP"><i>theatre</i><c>Theatre</c></NS>.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> <NS type="RP"><i>In</i><c>in</c></NS> the advertisement you said that the actor would be Danny Brook but there was a different actor in the show and I was really disappointed<NS type="UP"><i>,</i></NS> because I was really looking forward to seeing Danny Brook<NS type="MP"><c>,</c></NS> <NS type="RA"><i>which</i><c>whom</c></NS> I personally admire.</p>
+          <p>Secondly the play didn't start at 19:30 as we were <NS type="TV"><i>being told</i><c>told</c></NS> but it started <NS type="RT"><i>with</i><c>after</c></NS> a delay of 45 minutes. Also when I visited the theatre's restaurant I found it closed <NS type="RT"><i>because of</i><c>for</c></NS> renovation.</p>
+          <p>Finally there were no discounts available <NS type="RT"><i>in</i><c>on</c></NS> the tickets. All the above made my night terribly disappointing and I must say that the advertisement is nothing but a business fraud, so I'm in the unpleasant position <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to ask</i><c>asking</c></NS> <NS type="MT"><c>for</c></NS> my money back. I'm looking forward to your reply<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+          <p>Mrs Lemmings<NS type="UP"><i>.</i></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Technology is an essential part <NS type="RT"><i>in</i><c>of</c></NS> people's <NS type="FN"><i>life</i><c>lives</c></NS>. It's something <NS type="S"><i>absoletuly</i><c>absolutely</c></NS> necessary for every action people <NS type="RV"><i><NS type="AGV"><i>does</i><c>do</c></NS></i><c>perform</c></NS><NS type="MP"><c>.</c></NS> It <NS type="SX"><i>effects</i><c>affects</c></NS> us both <NS type="DY"><i>positive</i><c>positively</c></NS> and <NS type="DY"><i>negative</i><c>negatively</c></NS>. It's a part of our <NS type="IN"><i>lifes</i><c>lives</c></NS>. Firstly technology has created a bond between myself and my computer. <NS type="TV"><i>I got</i><c>I've got</c></NS> used to spending 2-3 hours in front of the computer. My relationship with my family and friends doesn't even exist. I've <NS type="TV"><i>end</i><c>ended</c></NS> up being a <NS type="UP"><i>T.V</i><c>TV</c></NS> addict<NS type="MP"><c>.</c></NS></p>
+          <p>Also the need <NS type="UT"><i>of</i></NS> <NS type="FV"><i>doing</i><c>to do</c></NS> simple things as a family is no longer <NS type="R"><i>the case</i><c>felt</c></NS>. Why <NS type="FV"><i>going</i><c>go</c></NS> to the countryside if you can sit there with a bowl of <NS type="CN"><i>popcorns</i><c>popcorn</c></NS> and watch <NS type="UP"><i>T.V</i><c>TV</c></NS><NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Despite the negative effects, technology can <NS type="SX"><i>effect</i><c>affect</c></NS> <NS type="W"><i><NS type="RT"><i>with</i><c>in</c></NS> a positive way a person's life</i><c>a person's life in a positive way</c></NS>. <NS type="DN"><i>Air conditions</i><c>Air conditioning</c></NS>, watches, computers, and many other things have made my life easier. There's no need <NS type="UT"><i>on</i></NS> <NS type="FV"><i>going</i><c>to go</c></NS> to the shops when I can order things <NS type="RT"><i>by</i><c>on</c></NS> the computer. <NS type="DN"><i>Air conditions</i><c>Air conditioning</c></NS> also makes my life easier<NS type="MP"><c>.</c></NS></p>
+          <p>In <NS type="RN"><i>addition</i><c>conclusion</c></NS><NS type="MP"><c>,</c></NS> technology has made my life easier but it's also an <NS type="DN"><i>intrude</i><c>intrusion</c></NS> in my life<NS type="MP"><c>,</c></NS> <NS type="RV"><i>crating</i><c>creating</c></NS> a distance between myself and my family. In my opinion technology is the <NS type="R">least</NS> thing I could use in my life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR711*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>The reason I am writing this letter is to congratulate you <NS type="RT"><i>for</i><c>on</c></NS> the International Arts Festival. I think the festival was fine but in my opinion there <NS type="RV"><i>must</i><c>should</c></NS> be some improvements to make this festival better.</p>
+          <p>Firstly, there were stars and artists <NS type="W"><i>only from</i><c>from only</c></NS> six countries. This number <NS type="RV"><i>may</i><c>should</c></NS> be increased to attract more and different people. Also some <NS type="FN"><i>concerts</i><c>concert</c></NS> <NS type="S"><i>holls</i><c>halls</c></NS> were too small for this <NS type="CQ"><i>much</i><c>many</c></NS> people. In contrast with the halls, the concerts were great and I saw everybody enjoyed then. I must admit that you <NS type="TV"><i>are</i><c>were</c></NS> very successful <NS type="RT"><i>about</i><c>at</c></NS> finding good stars.</p>
+          <p><NS type="AS"><i>The films and plays were not <NS type="RY"><i>so</i><c>very</c></NS> many</i><c>there were not very many films and plays</c></NS>. As a result of this <NS type="AS"><i>the kinds of films were not enough</i><c>there were not enough kinds of films</c></NS>. In order to attract more people with different interests, the films and plays should be increased. I have nothing to say <NS type="RT"><i>with</i><c>about</c></NS> the dance show, art exhibitions and talks by writers. They were excellent and they attracted <NS type="RQ"><i>any</i><c>all</c></NS> <NS type="AGN"><i>kind</i><c>kinds</c></NS> of people.</p>
+          <p>Another <NS type="S"><i>paht</i><c>point</c></NS> is the tickets. The weekend ticket is excellent because it is not <NS type="RY"><i>so</i><c>very</c></NS> expensive and it allows <NS type="MA"><c>you</c></NS> to see everything. But I was disappointed that there <NS type="AGV"><i>were</i><c>was</c></NS> no competition between the films <NS type="RV"><i>performed</i><c>shown</c></NS><NS type="MP"><c>.</c></NS> I think there should be an Oscar-like competition in order to make people more ambitious to make better films.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Elinor,</p>
+          <p><NS type="TV"><i>I'm</i><c>I was</c></NS> so glad to receive your <NS type="RJ"><i>lost</i><c>last</c></NS> letter because <NS type="TV"><i>I've started</i><c>I'd started</c></NS> to think that you were angry <NS type="RT"><i>about</i><c>with</c></NS> me for not writing for a long time. I promise I'll write more<NS type="MP"><c>.</c></NS></p>
+          <p>The school rules are horrible here. We are restricted <NS type="MT"><c>in</c></NS> <NS type="FV"><i>to do</i><c>doing</c></NS> nearly everything. The school is like a <NS type="S"><i>dungeen</i><c>dungeon</c></NS> here. I don't <NS type="RV"><i>went</i><c>want</c></NS> to be so <NS type="S"><i>evel</i><c>evil</c></NS> about school but <NS type="UD"><i>the</i></NS> rules are rules and they are limiting us <NS type="RT"><i>with</i><c>within</c></NS> the borders of our school.</p>
+          <p>We must wear <NS type="UD"><i>the</i></NS> uniform-like clothes all <NS type="UD"><i>the</i></NS> day and <NS type="MQ"><c>all</c></NS> week<NS type="MP"><c>.</c></NS> They don't even let us <NS type="FV"><i>to wear</i><c>wear</c></NS> different sweaters<NS type="RP"><i> -</i><c>,</c></NS> etc other than dark blue. It is boring. We are not allowed to compare our thoughts during the lessons <NS type="S"><i>becase</i><c>because</c></NS> the teachers think that we are chatting. How poor their <NS type="AGN"><i>imagination</i><c>imaginations</c></NS> are!!</p>
+          <p>However we are free at home. You <NS type="TV"><i>could</i><c>can</c></NS> do anything you like as long as you have good grades. If you don't, you hear the same word every day, "Study, Study, Study"! Nobody likes to study but we have to.</p>
+          <p>You can't imagine how happy I am and I'm looking forward to hearing from you soon<NS type="MP"><c>.</c></NS></p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

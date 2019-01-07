@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR529*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing with reference to the <NS type="MP"><i>three day</i><c>three-day</c></NS> trip <NS type="RT"><i>in</i><c>to</c></NS> London. Thank you very much for organising the programme, which seems extremely interesting. <NS type="RY"><i>Especially</i><c>In particular</c></NS>, <NS type="MD"><c>the</c></NS> sightseeing by bus <NS type="RV"><i>must</i><c>should</c></NS> be enjoyable.</p>
+          <p>However, my classmates and I also found another fascinating thing about the trip. <NS type="RA"><i>It</i><c>There</c></NS> is 'The London Fashion and Leisure Show' at <NS type="MD"><c>the</c></NS> Central Exhibition Hall in London on <NS type="MD"><c>the</c></NS> 14th of March, which shows the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. We all found it exciting and exhilarating. It <NS type="TV"><i>must be</i><c>is</c></NS> a great opportunity to see the show because we are keen on fashions and clothes. In addition, students can go without paying any fees.</p>
+          <p>Therefore, I wonder if we could possibly change the programme slightly on 14th March. We would like to see the show on Tuesday afternoon, instead of shopping. We can go shopping on Wednesday afternoon <NS type="RT"><i>at</i><c>during</c></NS> <NS type="RD"><i>the</i><c>our</c></NS> free time.</p>
+          <p>I would be grateful<NS type="UP"><i>,</i></NS> if you could <NS type="RV">understand</NS> our concern and change the programme on 14th of March.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Famous people, such as politicians and film stars, are always followed by journalists. Do they have to give up their private lives?</p>
+          <p>First of all, I think they should accept the fact that they are <NS type="UP"><i>well-known</i><c>well known</c></NS> and they should be observed all the time, as we are curious to know what they do and we love to gossip about others. Moreover, it might be a good thing that <NS type="S"><i>scandales</i><c>scandals</c></NS> usually increase their fame, even if they <NS type="TV"><i>did</i><c>do</c></NS> <NS type="RY"><i>anything</i><c>something</c></NS> wrong.</p>
+          <p>On the other hand, it is also said that their private lives must not be intruded <NS type="MT"><c>on</c></NS>, as they are the same as us, human beings. It does not seem possible that we can live without any private life.</p>
+          <p>To sum up, although I think they ought to <NS type="S"><i>abondone</i><c>abandon</c></NS> their lives partly when they <NS type="S"><i>entre</i><c>enter</c></NS> the world of fame, they should take some <NS type="FN"><i>actions</i><c>action</c></NS> against journalists in order to protect their human rights.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

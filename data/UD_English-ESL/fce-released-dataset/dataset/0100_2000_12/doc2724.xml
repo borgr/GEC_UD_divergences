@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1107*0100*2000*02">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson.</p>
+          <p>Thank you very much for <NS type="RV">taking</NS> us to London.</p>
+          <p>This is a big opportunity to discover the capital.</p>
+          <p><NS type="R"><i><NS type="S"><i>Thoug</i><c>Though</c></NS></i><c>However</c></NS>, a few of us would like to <NS type="RV">consider</NS> the "London fashion and leisure show".</p>
+          <p>This is going to take place on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> <NS type="RP"><i>march</i><c>March</c></NS> 14 <NS type="RT"><i>at</i><c>from</c></NS> 10.00 to 19.00.</p>
+          <p>Could you, if we may ask<NS type="UY"><i> so</i></NS>, <NS type="RP"><i>re-organise</i><c>reorganise</c></NS> our visit to the museum and also to the shopping <NS type="SA"><i>center</i><c>centre</c></NS>. However, none of us wishes to miss all the attractions planned in <NS type="MD"><c>the</c></NS> <NS type="RN"><i>forecast</i><c>schedule</c></NS>.</p>
+          <p>Perhaps<NS type="UP"><i>,</i></NS> we could spend our free time at the museum before going to the <NS type="RN"><i>shop</i><c>shopping</c></NS> <NS type="SA"><i>center</i><c>centre</c></NS>.</p>
+          <p>This is a very important stay over three days. Every one hopes to <NS type="FV"><i>enjoying</i><c>enjoy</c></NS> himself and <NS type="FV"><i>comes</i><c>come</c></NS> back with a lot of knowledge.</p>
+          <p>I thank you very much for hearing my request. I apologise for any inconvenience it <NS type="RV"><i>could</i><c>may</c></NS> <NS type="RV"><i>make</i><c>cause</c></NS>. <NS type="CE">I am certain you would think over about</NS> that particular visit to "the London fashion and leisure show". On behalf of all the students<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>Yours truly<NS type="RP"><i>.</i><c>,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>What do famous people <NS type="RV"><i>wish</i><c>want</c></NS>?</p>
+          <p>Do they want to be famous and ignored?</p>
+          <p>Or do they want to be persecuted <NS type="SX"><i>buy</i><c>by</c></NS> the media?</p>
+          <p>There are plenty of good things about being famous.</p>
+          <p>You do not have a precarious life.</p>
+          <p>You are rich and <NS type="RJ"><i><NS type="UP"><i>be-loved</i><c>beloved</c></NS></i><c>loved</c></NS>.</p>
+          <p>Of course, it does not mean you deserve to be persecuted all the time.</p>
+          <p>Perhaps we could call it the "<NS type="ID">rough of the smooth</NS>".</p>
+          <p>However, to have <NS type="RD"><i>his</i><c>your</c></NS> <NS type="FN"><i>photos</i><c>photo</c></NS> taken and <NS type="TV"><i>showed</i><c>shown</c></NS> on television and <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> newspapers increases your popularity.</p>
+          <p><NS type="CE">It is the way you may consider magnificent wages as it should fit your fame</NS>.</p>
+          <p>I might also <NS type="TV"><i>miss</i><c>be missing</c></NS> the point.</p>
+          <p>You might be a <NS type="RP"><i>Princess</i><c>princess</c></NS>, a politician or a footballer<NS type="UP"><i>;</i></NS> but are not doing it for any fame. You were born with the talent<NS type="UP"><i>,</i></NS> <NS type="R"><i><NS type="RY"><i>sometime</i><c>sometimes</c></NS></i><c>or</c></NS> with the title.</p>
+          <p>You never wished to be <NS type="W"><i>famous <NS type="RY"><i>that much</i><c>so</c></NS></i><c>so famous</c></NS>.</p>
+          <p><NS type="S"><i>Whateaver</i><c>Whatever</c></NS> you do, <NS type="UD"><i>the</i></NS> <NS type="FN"><i>journalist</i><c>journalists</c></NS> should not follow you every second.</p>
+          <p><NS type="RP"><i>Every one</i><c>Everyone</c></NS> deserves to be given the right <NS type="RT"><i>of</i><c>to</c></NS> a private life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

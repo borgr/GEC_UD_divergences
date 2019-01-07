@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE9*0100*2001*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith</p>
+          <p>Thank you for your <NS type="S"><i>lettre</i><c>letter</c></NS>. Of course I will give you some more <NS type="AGN"><i>detail</i><c>details</c></NS> about the student conference.</p>
+          <p>First of all the hotel Richard Brown <NS type="TV"><i>has been <NS type="DV"><i>loocked</i><c>looked</c></NS></i><c>has looked</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> is the Palace Hotel. <NS type="MP"><i>Its</i><c>It's</c></NS> located close to the main <NS type="RP"><i>trainstation</i><c>train station</c></NS> in our town. It is quite near the conference building. There will be <NS type="FN"><i><NS type="RP"><i>extrabus</i><c>extra bus</c></NS></i><c>extra buses</c></NS> to get there. The bus will pick you up right at your hotel <NS type="RN"><i><NS type="DN"><i>entery</i><c>entry</c></NS></i><c>entrance</c></NS>. The end-of-conference party will be a small dinner for all <NS type="MD"><c>the</c></NS> students. You do not have to wear <NS type="S"><i>spezial</i><c>special</c></NS> clothes, just wear what you always wear. If you take your uniform with you it would be pleasant to leave it at the hotel<NS type="UP"><i>.</i></NS> and wear something else.</p>
+          <p>There are many things you could do for this short time on the last day. You could visit our famous Museum of Art or go for a walk along the <NS type="RN"><i>lake</i><c>lakeside</c></NS>. If you want <NS type="MV"><c>to do</c></NS> something for fun or entertainment<NS type="MP"><c>,</c></NS> go bowling.</p>
+          <p> If you have any further questions, just let me know<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Our <NS type="RP"><i>Church</i><c>church</c></NS> is a very famous building <NS type="RT"><i>at</i><c>in</c></NS> our country. It is eighty <NS type="SA"><i>meters</i><c>metres</c></NS> long and its tower is <NS type="MP"><i><NS type="DN"><i>fourty</i><c>forty</c></NS> five</i><c>forty-five</c></NS> <NS type="SA"><i>meters</i><c>metres</c></NS> <NS type="RJ"><i>high</i><c>tall</c></NS>. On the top of the tower it has a huge clock on <NS type="S"><i>eatch</i><c>each</c></NS> side. The tower is red and the church itself is <NS type="W"><i>white painted</i><c>painted white</c></NS>. In the church are many expensive <NS type="RN"><i>draws</i><c>drawings</c></NS>. There is space for about five hundred people. The church was built in 1385. It <NS type="TV"><i>is</i><c>was</c></NS> rebuilt in 1948 because of the <NS type="S"><i>Secound</i><c>Second</c></NS> <NS type="RP"><i>world war</i><c>World War</c></NS><NS type="MP"><c>,</c></NS> <NS type="MY"><c>when</c></NS> it had been <NS type="S"><i>demaged</i><c>damaged</c></NS>. The church is located <NS type="RT"><i>on</i><c>in</c></NS> a place where you <NS type="MV"><c>can</c></NS> see the whole <NS type="W"><i>mountain chain of Rigi</i><c>Rigi mountain chain</c></NS>. Visit our church because it is one of the most famous <NS type="AGN"><i>church</i><c>churches</c></NS> in our country. It has <NS type="FD"><i>a</i><c>an</c></NS> interesting past. The tower is <NS type="DY"><i>absolutly</i><c>absolutely</c></NS> <NS type="SA"><i>marvelous</i><c>marvellous</c></NS>. You can walk to the top of the tower and it <NS type="RV"><i>shows</i><c>gives</c></NS> you a beautiful view. If you want to visit the church, there will be a special guide who <NS type="TV"><i>shows</i><c>will show</c></NS> you <NS type="S"><i>al</i><c>all</c></NS> the things and answer your questions. <NS type="UD"><i>The <NS type="DN"><i>entery</i><c>entry</c></NS></i><c>Entry</c></NS> <NS type="TV"><i>will be</i><c>is</c></NS> free.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

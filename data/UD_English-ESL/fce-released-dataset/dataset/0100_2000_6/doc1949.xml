@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR749*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>41-50</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am very pleased to hear that I have won first prize in your competition and <NS type="MV"><c>am</c></NS> writing to you to offer additional information, as requested.</p>
+          <p>First of all, I would like to travel in July because I am planning to visit my Mum in Korea in August. I also prefer staying in log cabins to tents. I have once experienced <NS type="FV"><i>to have</i><c>having</c></NS> been soaked while I was sleeping in a tent <NS type="S"><i>dut</i><c>due</c></NS> to heavy rain several years ago. <NS type="DQ"><i>Once</i><c>One</c></NS> more reason is that I do not want to miss the chance to stay in a log cabin, which I have been dreaming <NS type="MT"><c>of</c></NS> for a long time. How romantic it will be! As for my activities, as I took up playing golf <NS type="R"><i>since</i><c>when</c></NS> I was a child and now, I am a single-handicapped player, so I want to have <NS type="MD"><c>a</c></NS> chance to play golf at camp. Moreover, I am very good at singing as well as playing the piano. In fact I have been playing the piano for <NS type="MD"><c>a</c></NS> children's choir for 5 years.</p>
+          <p>Additionally<NS type="MP"><c>,</c></NS> I would like to know which kind of clothes I should <NS type="RV"><i>prepare</i><c>pack</c></NS>. What's the weather like in California? How much money should I bring with me for <NS type="MD"><c>the</c></NS> <NS type="MP"><i>two week</i><c>two-week</c></NS> stay?</p>
+          <p>I would be really <NS type="S"><i>greateful</i><c>grateful</c></NS> if you could send me some information or any relevant brochure.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are things these days? Sorry not to write <NS type="MT"><c>to</c></NS> you for a long time. I've been busy preparing <NS type="MT"><c>for</c></NS> English exams.</p>
+          <p>You remember I helped people at a pop concert as a nurse last month? You can't imagine how happy I am to have had such a wonderful <NS type="RN"><i>chance</i><c>opportunity</c></NS>.</p>
+          <p>As you know, I've not been keen on pop music - I've always thought it was not only noisy but also even rubbish. It was not until the concert that I became a pop <NS type="RN"><i>mania</i><c>maniac</c></NS>. It was really great to have talked with famous pop singers, bands, and TV stars. When a member of Venga boys came to the emergency center for the treatment of <NS type="MD"><c>an</c></NS> electric shock <NS type="RT"><i>on</i><c>to</c></NS> his finger, I felt I was short of breath. We usually are apt to think famous stars to be arrogant and nasty, but they weren't at all. It was absolutely our prejudice. They were very kind, soft, well-behaved, even modest. Their attitudes towards people, their costumes, their songs - everything was really fantastic. Fortunately there were few emergency <NS type="AGN"><i>accident</i><c>accidents</c></NS> so I could enjoy the concert without a <NS type="RN">hurry</NS>. I was definitely over the moon!</p>
+          <p>I hope you can go <NS type="MT"><c>to</c></NS> the next concert with me. Longing <NS type="UT"><i>for</i></NS> <NS type="FV"><i>hearing</i><c>to hear</c></NS> from you.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR345*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Sirs<NS type="RP"><i>!</i><c>,</c></NS></p>
+          <p>First I want to thank you for all the congratulations, and I'll try to answer all your questions about<NS type="MP"><c>,</c></NS> for instance<NS type="MP"><c>,</c></NS> travel and <NS type="S"><i>accomodation</i><c>accommodation</c></NS>. I have to tell you that <NS type="W"><i>for me it is only possible</i><c>it is only possible for me</c></NS> to go on holiday in July because my father is very ill and it is only possible for my sister to take care of him in July (because her small children are in summer school at <NS type="RD"><i>this</i><c>that</c></NS> time. Another question was about the accommodation. I have to tell you that I'd prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>. For me tents are a kind of <NS type="RP"><i>back to basic</i><c>back-to-basic</c></NS> living and I like this very much. In my opinion people should become more familiar with the rules of nature.</p>
+          <p>I was very glad to read that it is possible to do activities at Camp California. I've chosen singing and swimming. Singing is one of my favourite activities and I know that I do it very well. I'm also used to <NS type="FV"><i>sing</i><c>singing</c></NS> in front of a large number of people <NS type="L"><i><NS type="S"><i>'couse</i><c>'cause</c></NS></i><c>because</c></NS> I <NS type="TV"><i>did</i><c>have done</c></NS> it several times. I'm also good at swimming but I do not do it <NS type="DY"><i>professional</i><c>professionally</c></NS>.</p>
+          <p>There are two further questions which I have to ask you. First<NS type="RP"><i> How</i><c>, how</c></NS> much money do I have to take with me? <NS type="RP"><i>and</i><c>And</c></NS> what clothes should I <NS type="RV"><i>choose</i><c>take</c></NS>? I'd be very happy if you could give me a call and answer <NS type="AGD"><i>this</i><c>these</c></NS> questions.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim!</p>
+          <p>Today I have to tell you something really exciting and also very hard to believe. Last month I received a letter which told me that <NS type="RV"><i><NS type="TV"><i>I've entered</i><c>I'd entered</c></NS></i><c>I'd won</c></NS> a competition. I was so happy and <NS type="S"><i>suprised</i><c>surprised</c></NS> that <NS type="W"><i>I first</i><c>first I</c></NS> could not really believe it.  But it was true. My <NS type="RN"><i>price</i><c>prize</c></NS> was the chance to meet a pop group and to help at <NS type="RD"><i>the</i><c>their</c></NS> concert. The pop group which was going to <NS type="RV"><i>act</i><c>play</c></NS> is called "Metallica" and I like their music very much ('cause in my opinion the music is a bit different from all the songs you usually listen to<NS type="RP"><i>.)</i><c>).</c></NS> But now to the concert itself. It took place on the 10th of June in Salzburg. <NS type="RA"><i>I</i><c>It</c></NS> started at 8 pm but I had to be there at 11 am. First I had to help with the catering<NS type="MP"><c>,</c></NS> which lasted until 2 pm. After this I met the band members and got to know them while we were having a good meal. The front man felt a bit sick and so he skipped the meal. I was so excited that <NS type="X"><i>I also was not able to eat anything</i><c>I was not able to eat anything either</c></NS>. At 5 pm the band members disappeared again and I was responsible for some kind of <NS type="RJ"><i>guiding</i><c>guided</c></NS> tour for the journalists. I had to show them the way to the interviewing room. It was a bit boring but more or less okay. At 7 p.m. the first group started. They were unknown and not very good but when I met them afterwards I <NS type="RV"><i>recognised</i><c>realised</c></NS> that they <NS type="TV"><i>are</i><c>were</c></NS> very nice. At 8 pm Metallica started and<NS type="MP"><c>,</c></NS> I have to tell you, they <NS type="RV"><i>did</i><c>gave</c></NS> a great performance. When I met them after the concert they asked me questions like <NS type="MP"><c>"</c></NS>Did you like the performance<NS type="RP"><i>!</i><c>?"</c></NS> or <NS type="MP"><c>"</c></NS><NS type="R"><i>How</i><c>What</c></NS> do you think about the first group?<NS type="MP"><c>"</c></NS> Questions like you and I usually ask each other. You know what I mean<NS type="RP"><i>, they</i><c>.  They</c></NS> were not conceited or <NS type="RA"><i>something</i><c>anything</c></NS> like <NS type="RA"><i>this</i><c>that</c></NS>. They were like <NS type="UQ"><i>any</i></NS> other <NS type="L"><i><NS type="AGN"><i>person</i><c>persons</c></NS></i><c>people</c></NS> and I have to admit that I like them very much. This was one of the best and most exciting days <NS type="RT"><i>in</i><c>of</c></NS> my life.</p>
+          <p>Hope you answer this letter as soon as possible.</p>
+          <p>Lots of hugs and kisses</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1044*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir!</p>
+          <p>I am writing to you because of the musical show<NS type="MP"><c>,</c></NS> "Over The Rainbow"<NS type="MP"><c>,</c></NS> I saw in your theatre last week. I looked forward <NS type="MT"><c>to</c></NS> a perfect evening but it was the most disappointing one I have ever had.</p>
+          <p>Firstly, you did not tell the truth about <NS type="MD"><c>the</c></NS> <NS type="DN"><i>starring</i><c>lead</c></NS>. The advertisement <NS type="RT"><i>of</i><c>for</c></NS> the musical said that it was going to be Danny Brook<NS type="RP"><i>, unfortunately</i><c>. Unfortunately</c></NS> there was someone else - an actor <NS type="RA"><i>which</i><c>who</c></NS> I do not like and if I <NS type="TV"><i>have</i><c>had</c></NS> known that he was going to be <NS type="MY"><c>there</c></NS> I <NS type="S"><i>woud</i><c>would</c></NS> not have <NS type="RV"><i>come</i><c>gone</c></NS> to see him.</p>
+          <p>Secondly, it was supposed to start at 19.30 but <NS type="MA"><c>it</c></NS> actually started at 20.15. <NS type="MP"><i>Forty five</i><c>Forty-five</c></NS> minutes later! You also <NS type="TV"><i>have</i><c>had</c></NS> mentioned about the discounts and there were not any.</p>
+          <p>Lastly, the restaurant which was going to be <NS type="DJ"><i>opened</i><c>open</c></NS> was in fact closed without a reason <NS type="MV"><c>being given</c></NS>!</p>
+          <p>Keeping in mind all these <NS type="RN"><i>arguments</i><c>complaints</c></NS>, I want to ask you for some money back. I think it could be your nice <NS type="DN"><i>apologise</i><c>apology</c></NS> for all my problems and disappointments.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="DY"><i>faithfuly</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p><NS type="CL"><i>Contemporary modern</i><c>Modern</c></NS> technology is a very important aspect of our lives. It is always with us: in our homes, in the places we work and learn. It affects our <NS type="IN"><i>lifes</i><c>lives</c></NS><NS type="RP"><i>,</i><c> -</c></NS> <NS type="DA"><i>my</i><c>mine</c></NS> too.</p>
+          <p>In fact<NS type="MP"><c>,</c></NS> modern technology was already very popular and <NS type="S"><i>comonly</i><c>commonly</c></NS> used when I was born, so I cannot say that it changed my life <NS type="RY"><i>rapidly</i><c>suddenly</c></NS>. But I am also sure<NS type="UP"><i>,</i></NS> that my life would be different without it. All these products of science are with me <NS type="RT"><i>since</i><c>from</c></NS> the very <NS type="DN"><i>beging</i><c>beginning</c></NS> of my day. For example<NS type="MP"><c>,</c></NS> I am woken up by my electronic alarm-clock, then I go to the bathroom and there is hot and cold water<NS type="RP"><i>, next</i><c>. Next</c></NS> I eat my breakfast and listen to the radio. All these things are the <NS type="RN"><i>ideas</i><c>results</c></NS> of <NS type="UD"><i>the</i></NS> technology.</p>
+          <p>On the other hand, I am aware of all <NS type="RD"><i>these</i><c>the</c></NS> disadvantages of <NS type="UD"><i>the</i></NS> modern technology; pollution and <NS type="MD"><c>the</c></NS> <NS type="DN"><i><NS type="S"><i>dangarous</i><c>dangerous</c></NS></i><c>dangers</c></NS> it brings. But I think it has more advantages than disadvantages and it is O.K. I am really glad that I am a child of my <NS type="S"><i>centuary</i><c>century</c></NS> - the age of modern science.</p>
+          <p>Finally, I think that we cannot talk only about <NS type="MD"><c>the</c></NS> changes which <NS type="UD"><i>the</i></NS> modern technology has brought to our lives. That's because <NS type="UC"><i>that</i></NS> I think that we are the <NS type="AGA"><i>one</i><c>ones</c></NS> who change the technology as well. I think that our lives are lives with technology<NS type="RP"><i>, they</i><c>. They</c></NS> sometimes <NS type="CE">mean the same as science and affects not on at each other but together</NS>. So how has <NS type="UD"><i>the</i></NS> modern technology changed my daily life? I don't know <NS type="R"><i>how</i><c>what</c></NS> it would be like without the technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

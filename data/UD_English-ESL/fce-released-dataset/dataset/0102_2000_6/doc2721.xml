@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1105*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr. <NS type="S"><i>maneger</i><c>manager</c></NS> of The Circle Theatre:</p>
+          <p>I'm writing to you to <NS type="RV"><i>explain</i><c>describe</c></NS> some problems <NS type="RT"><i>about</i><c>with</c></NS> your theatre's show<NS type="RP"><i>, first</i><c>. First</c></NS> I have to say to you that there was a different actor <NS type="M"><c>to the one advertised</c></NS> starring <NS type="MT"><c>in</c></NS> the <NS type="RN"><i>act</i><c>play</c></NS>. I <NS type="TV"><i>expect</i><c>expected</c></NS> <NS type="RD"><i>that</i><c>the</c></NS> <NS type="DN"><i>starring</i><c>star</c></NS> <NS type="R"><i>the act</i><c>of the play</c></NS> <NS type="FV"><i>was</i><c>to be</c></NS> Danny Brook and there was another man. I'm very disappointed with the <NS type="RN"><i>hour</i><c>time</c></NS> that the <NS type="RN"><i>act</i><c>play</c></NS> started. I had been waiting for more than half an hour.</p>
+          <p>About the <NS type="RN"><i>prize</i><c>price</c></NS>, the <NS type="RN">paper</NS> that I have at home <NS type="RV"><i>tells</i><c>states</c></NS> that there were discounts <NS type="IJ"><i>availables</i><c>available</c></NS>, if these discounts are <NS type="RJ"><i>true</i><c>real</c></NS> I couldn't use them.</p>
+          <p>When the show had finished I couldn't visit the <NS type="W"><i>restaurant of the theatre</i><c>theatre restaurant</c></NS> because it was closed. The reason they gave us<NS type="UP"><i>,</i></NS> was that they hadn't got any waiters.</p>
+          <p>For all those reasons I <NS type="TV"><i>give</i><c>have given</c></NS> <NS type="UT"><i>to</i></NS> you, I ask for the money I <NS type="RV"><i><NS type="TV"><i>had <NS type="IV"><i>payed</i><c>paid</c></NS></i><c>paid</c></NS></i><c>spent</c></NS> <NS type="U"><i>to you</i></NS> back. In my opinion it wasn't my perfect evening out.</p>
+          <p>I'm sorry if I <NS type="AS"><i><NS type="RV"><i>make</i><c>cause</c></NS> any problem to you</i><c>cause you any problem</c></NS>, but I'm very angry and it was your fault.</p>
+          <p>Thank you for your attention,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I was <NS type="UP"><i><NS type="FJ"><i>fourteen-year-old</i><c>fourteen-years-old</c></NS></i><c>fourteen years old</c></NS> and I was with my <NS type="RP"><i>bestfriend</i><c>best friend</c></NS>, Pat. We were in a private school, <NS type="RA"><i>that</i><c>which</c></NS> <NS type="TV"><i>looks</i><c>looked</c></NS> like a castle, in London and we had been staying there for two months. Our parents took us there because they wanted <NS type="UC"><i>that</i></NS> <NS type="RA"><i>we</i><c>us</c></NS> <NS type="FV"><i>became</i><c>to become</c></NS> good <NS type="UC"><i>and</i></NS> polite girls. <NS type="UD"><i>The life</i><c>Life</c></NS> in the school was very boring and sometimes we organized games to <NS type="RV"><i>get</i><c>have</c></NS> <NS type="DN"><i>funny</i><c>fun</c></NS> <NS type="UT"><i>in</i></NS> there. One day I discovered a secret path in the school<NS type="RP"><i>, this</i><c>. This</c></NS> path went from our bedroom to the director's room. I thought <NS type="RA"><i>that</i><c>it</c></NS> was <NS type="MD"><c>a</c></NS> good idea <NS type="FV"><i>told</i><c>to tell</c></NS> <NS type="UT"><i>to</i></NS> Pat because we could use <NS type="MA"><c>it</c></NS> to look for exams, and then we could pass all of them. When I told <NS type="UT"><i>to</i></NS> her, she promised <NS type="UT"><i>to</i></NS> me that she <NS type="MV"><c>would</c></NS> <NS type="FV"><i>kept</i><c>keep</c></NS> the secret. But in a few days she told the secret to all the class. All our mates wanted to enjoy our fantastic <NS type="UC"><i>and</i></NS> secret path to look for exams. Then somebody told <NS type="UT"><i>to</i></NS> a teacher and the teachers went to talk to our parents. They were very angry and disappointed with us. Nowadays, I remember this story <NS type="RT"><i>like</i><c>as</c></NS> a bad experience. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

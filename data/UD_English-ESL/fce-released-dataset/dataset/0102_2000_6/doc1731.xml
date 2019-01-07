@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR684*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or madam,</p>
+          <p>I am writing to complain about the musical show called "Over the Rainbow" that was advertised in this week's newspaper.</p>
+          <p>According to the advertisement, Danny Brook would be starring <NS type="M"><c>in the show</c></NS> but it was a different actor. It was really disappointing! Furthermore, the show started at the wrong time. It was said that it would start at 19.30 but it <NS type="RV"><i>was</i><c>did</c></NS> not. It started <NS type="MP"><i><NS type="S"><i>fourty five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes later.</p>
+          <p>And if this were not enough, I <NS type="RV"><i>had</i><c>got</c></NS> no discount <NS type="RT"><i>in</i><c>on</c></NS> the ticket <NS type="MQ"><c>such</c></NS> as was <NS type="RV"><i>written</i><c>advertised</c></NS>. <NS type="DY"><i>Beside</i><c>Besides</c></NS> this, we <NS type="SX"><i>where</i><c>were</c></NS> invited to visit the theatre restaurant after the show, but it was closed because it was being redecorated. So why <NS type="MV"><c>did</c></NS> you make this invitation?</p>
+          <p>On top of everything, I am on <NS type="FN"><i>holidays</i><c>holiday</c></NS> and you can imagine how disappointed I am. It was not a perfect evening out. I suppose that you <NS type="TV"><i>are understanding</i><c>understand</c></NS> my situation, because you did not <NS type="RV"><i>say</i><c>tell</c></NS> the truth. I believe that you <NS type="TV"><i>will be</i><c>are</c></NS> <NS type="DY"><i>direct</i><c>directly</c></NS> to blame <NS type="RC"><i>and</i><c>so</c></NS> give me my money back.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully</p>
+          <p>Caesara Rodrigos Los Arnos</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Nowadays <NS type="UD"><i>the</i></NS> modern technology is <NS type="RV"><i>increasing</i><c>advancing</c></NS> and it <NS type="RV"><i>was</i><c>is</c></NS> really affecting our daily life. Sometimes there <NS type="MV"><c>are</c></NS> advantages but there <NS type="MV"><c>are</c></NS> some disadvantages too.</p>
+          <p>Firstly, one advantage of it is that you can do things faster. Beside this you can talk with a person <NS type="RT"><i>in</i><c>on</c></NS> the other side of the world <NS type="RT"><i>by</i><c>via</c></NS> a computer. It is interesting! Furthermore it helps <NS type="RT"><i>in</i><c>with</c></NS> <NS type="CN"><i><NS type="RP"><i>house works</i><c>houseworks</c></NS></i><c>housework</c></NS>, at school and you can travel to places very quickly. So the main advantage of <NS type="UD"><i>the</i></NS> modern technology is that things are becoming easier and easier.</p>
+          <p>On the other hand, there are certain drawbacks. First and foremost is the pollution and big cities are suffering with it. It can cause lots of problems <NS type="RT"><i>to</i><c>for</c></NS> our health. A further disadvantage is that children are growing up very lazy. They <NS type="RV"><i>have</i><c>get</c></NS> everything they want very easily and it is not good for their future.</p>
+          <p>To sum up, there are both <NS type="IJ"><i>positives</i><c>positive</c></NS> and <NS type="IJ"><i>negatives</i><c>negative</c></NS> aspects <NS type="RT"><i>of</i><c>to</c></NS> <NS type="UD"><i>the</i></NS> modern technology, because it can <NS type="AGV"><i>makes</i><c>make</c></NS> our lives easy but at the same time it is causing lots of problems for us.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

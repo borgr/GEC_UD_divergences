@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR40*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Manager of the Circle Theatre</p>
+          <p>17th June 2000</p>
+          <p>Dear Sir,</p>
+          <p>I am <NS type="RV"><i>waiting</i><c>writing</c></NS> this letter <NS type="DV"><i>re fearing</i><c>referring</c></NS> to the show "over the Rainbow" you <NS type="RV"><i>presented</i><c>put on</c></NS> <NS type="MT"><c>on</c></NS> the 10 of this month.</p>
+          <p>I read your <NS type="S"><i>advertissement</i><c>advertisement</c></NS> five days before, and I was <NS type="DY"><i>realy</i><c>really</c></NS> impressed by it. But, the quality of this show wasn't what you <NS type="R"><i>let understand</i><c>led me to believe it would be</c></NS>, <NS type="R"><i>an</i><c>and</c></NS> I feel <NS type="DY"><i>realy</i><c>really</c></NS> disappointed by it. I want to give you some details about my feelings.</p>
+          <p>First of all, you <NS type="RV"><i>presented</i><c>advertised</c></NS> a <NS type="R"><i>starring</i><c>cast</c></NS> <NS type="RJ"><i>composed with</i><c>including</c></NS> Danny Brook, but he wasn't there! Secondly, the show should start at 19.30, and in fact it started 45 minutes late. Then, I am a student, and when I bought my ticket, there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any discounts. Finally, I <NS type="TV"><i>hoped</i><c>had hoped</c></NS> that I could have <NS type="UD"><i>a</i></NS> <NS type="RN"><i>diner</i><c>dinner</c></NS> in the restaurant after the show, but, to make <NS type="DA"><i>my</i><c>me</c></NS> totally disappointed, it was closed, and I had to find another restaurant at 22.00.</p>
+          <p>So you can imagine how <NS type="W"><i>I am satisfied</i><c>satisfied I am</c></NS> by your <NS type="RV"><i>pretending</i><c>claiming</c></NS> <NS type="M"><c>it would be a</c></NS>"Perfect Evening".</p>
+          <p>For all these reasons, and if you want to keep me <NS type="MT"><c>as</c></NS> a <NS type="RN"><i>costumer</i><c>customer</c></NS>, I would be <NS type="S"><i>gratfull</i><c>grateful</c></NS> if you <NS type="TV"><i>give</i><c>gave</c></NS> me some or all <NS type="MT"><c>of</c></NS> my money back.</p>
+          <p>Looking forward to hearing from you,</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>My marks <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> good <NS type="S"><i>enought</i><c>enough</c></NS> to obtain my degree in Computer Science, and the exam session was finished. There was no <NS type="RN"><i><NS type="AGN"><i>solutions</i><c>solution</c></NS></i><c>way</c></NS> to <NS type="UY"><i>finally</i></NS> obtain the diploma.</p>
+          <p>You need more explanations <NS type="RT"><i>about</i><c>from</c></NS> me to understand my <NS type="FN"><i>motivations</i><c>motivation</c></NS> at the end of this story. In fact, I did this kind of <NS type="AGN"><i>studies</i><c>study</c></NS> because of my interests in programming. The problem is that I can't keep calm during an exam <NS type="UV"><i>to succeed</i></NS>.</p>
+          <p>That's why I decided to hack <NS type="MT"><c>into</c></NS> the teacher's computers to change all my marks.</p>
+          <p>I never talked about this project to anyone, <NS type="S"><i>exept</i><c>except</c></NS> my best friend Pat.</p>
+          <p>At the end of the exam session, all students and teachers meet together for a big party, to celebrate <NS type="UA"><i>it</i></NS>.</p>
+          <p>During this party, Pat drank too much. And when he was totally drunk, he started speaking. Then, the teachers made copies of their <NS type="FN"><i>file</i><c>files</c></NS>, and my project wasn't possible anymore.</p>
+          <p>So <NS type="FN"><i>congratulation</i><c>congratulations</c></NS> everybody. And I think I will still be <NS type="RY"><i>there</i><c>here</c></NS> next year.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

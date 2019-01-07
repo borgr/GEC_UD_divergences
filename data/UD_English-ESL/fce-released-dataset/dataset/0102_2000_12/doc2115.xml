@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR851*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Jane</i></NS> Clark</p>
+          <p>I'm writing to express my dissatisfaction with <NS type="MD"><c>the</c></NS> International Arts Festival, which was organised by you last year. However<NS type="MP"><c>,</c></NS> I think that International Arts Festival is a great idea <NS type="RC"><i>and</i><c>but</c></NS> I suggest you prepare it better.</p>
+          <p>Firstly, it was written <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> that there would be stars and <NS type="FN"><i>artist</i><c>artists</c></NS> from around the world<NS type="MP"><c>.</c></NS> I believe that it's difficult to arrange meetings with foreign stars but there were <NS type="AGN"><i>artist</i><c>artists</c></NS> from only six countries and in my opinion there</p>
+          <p>should be more. Secondly, the concerts took place in concert halls<NS type="UP"><i>,</i></NS> which in my opinion were too small. That was the reason why some people were complaining.</p>
+          <p>Thirdly, I suggest you <NS type="UV"><i>should</i></NS> put more plays and films <NS type="MY"><c>on</c></NS> next year, because watching them is a very nice way of spending our <NS type="RP"><i>freetime</i><c>free time</c></NS>.</p>
+          <p>Fourthly, I have to admit that a big advantage was your idea <NS type="RT"><i>about</i><c>of</c></NS> giving one reasonably-priced weekend ticket for all events. That was <NS type="S"><i>excelent</i><c>excellent</c></NS> because it attracted <NS type="RP"><i>peoples'</i><c>people's</c></NS> attention<NS type="MP"><c>.</c></NS></p>
+          <p>Lastly, I'd like to give you a piece of advice. I suggest you invite some film stars, because they are very famous and people like them<NS type="MP"><c>.</c></NS></p>
+          <p>I hope you'll look into these matters and improve the festival next year.</p>
+          <p>I look forward to hearing from you<NS type="MP"><c>,</c></NS></p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Nowadays everybody wants to earn money. Young people know that money <NS type="AGV"><i>make</i><c>makes</c></NS> the world go round, so they always look for a job with <NS type="MD"><c>a</c></NS> big salary. Some people say that the young shouldn't be independent and earn on their own, but I am sure that it's better to work in your <NS type="UP"><i>free-time</i><c>free time</c></NS> than waste it. In my opinion<NS type="MP"><c>,</c></NS> the young should work rather than wait for their pocket money. There are a lot of possibilities <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to earn</i><c>earning</c></NS> some money but of course the young are not able to get <NS type="MD"><c>a</c></NS> well-paid job, because they are not <NS type="W"><i>enough experienced and educated</i><c>experienced and educated enough</c></NS>. They have to think about <NS type="UQ"><i>some</i></NS> <NS type="RJ"><NS type="DJ"><i>season</i><c>seasonal</c></NS></NS> jobs. Firstly, <NS type="RD"><i>the</i><c>a</c></NS> good way to earn money is<NS type="UP"><i>,</i></NS> to help the old. They <NS type="W"><i>often are</i><c>are often</c></NS> not able to do <NS type="MD"><c>their</c></NS> shopping or walk the dog. If you help them, they may give you some money as a reward. Secondly, you can find an easy job in a shopping centre. It's better paid and <NS type="MD"><c>a</c></NS> permanent job. You can work in storage, look after the goods or catch shoplifters. If you are <NS type="MD"><c>a</c></NS> good <NS type="DN"><i>mathematic</i><c>mathematician</c></NS> you can be a seller.</p>
+          <p>Thirdly<NS type="MP"><c>,</c></NS> if you are <NS type="MP"><i>good looking</i><c>good-looking</c></NS> you can apply for a job in <NS type="MD"><c>a</c></NS> restaurant and become <NS type="MD"><c>a</c></NS> waiter. Maybe you'll not get a big salary but think about the tips, which in the posh restaurants are very high.</p>
+          <p>Lastly, if you like playing instruments and you don't like working you can go busking. If you are <NS type="MD"><c>a</c></NS> good musician you will get a lot of money.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

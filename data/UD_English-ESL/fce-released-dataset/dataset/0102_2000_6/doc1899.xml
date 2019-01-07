@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR729*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Circle theatre's Manager: I am <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you because I felt <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> after seeing the musical <NS type="UN"><i>show</i></NS> "Over the Rainbow". There were many things that were wrong in the advertisement I saw. First the actors who were <NS type="S"><i>suppoused</i><c>supposed</c></NS> to star in this show were not the ones put <NS type="R"><i>in there</i><c>on stage</c></NS>. So when I saw the show I felt horrible, because I was expecting to see Danny Brook. But the problems started <NS type="RY"><i>while</i><c>when</c></NS> I arrived <NS type="MT"><c>at</c></NS> the place. I had a discount <NS type="R"><i>for it</i><c>ticket</c></NS>, but they <NS type="S"><i>refussed</i><c>refused</c></NS> it and I had to pay the full price. <NS type="S"><i>Appart</i><c>Apart</c></NS> from this, the show started <NS type="MP"><i><NS type="S"><i>fourty five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes <NS type="FY"><i>later</i><c>late</c></NS>. I think <NS type="AGD"><i>this</i><c>these</c></NS> reasons are <NS type="DJ"><i><NS type="S"><i>suficiently</i><c>sufficiently</c></NS></i><c>sufficient</c></NS> <NS type="UY"><i>enough</i></NS> to ask for my money back. So I hope that you will understand my point. Please be <NS type="RJ"><i>comprehensive</i><c>understanding</c></NS> and realize that your show was not cheap. I'm a student, so I do not have a lot of money and I need it back. I also <NS type="TV"><i>had</i><c>have</c></NS> to tell you that the theatre restaurant was closed because there were <NS type="MY"><c>too</c></NS> few people there and they <NS type="R">take me out of</NS> the place, so I was very upset. I will <NS type="RV"><i>go</i><c>come</c></NS> to your office this week. I hope to see you there.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Pat's secret</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. He had talked to Caroline days before the secret was known. She had told him about <NS type="R"><i>the</i><c>her</c></NS> relationship with her boyfriend. Everybody knew that Caroline and her boyfriend John<NS type="RP">,</NS> loved each other so much that it wouldn't be <NS type="RJ"><i>rare</i><c>surprising</c></NS> to find that they had <NS type="TV"><i>have</i><c>had</c></NS> sex <NS type="UY"><i>together</i></NS>. The point here is<NS type="UP"><i>,</i></NS> that Caroline <NS type="IV"><i>choosed</i><c>chose</c></NS> the worst friend to <NS type="FV"><i>told</i><c>tell</c></NS> this <NS type="MT"><c>to</c></NS>. She was also concerned about being <NS type="S"><i>pregned</i><c>pregnant</c></NS>, but she was afraid to <NS type="FV"><i>told</i><c>tell</c></NS> John about it. So she decided to ask Pat what to do. When she finally told him, Pat <NS type="TV"><i>react</i><c>reacted</c></NS> in a very <NS type="RJ"><i>wrong</i><c>bad</c></NS> way and <NS type="AS"><i>told <NS type="RY"><i>rapidly</i><c>immediately</c></NS> to John</i><c>told John immediately</c></NS>. He couldn't <NS type="TV"><i><NS type="S"><i>belived</i><c>believed</c></NS></i><c>believe</c></NS> what Pat had told him, so he broke Pat's nose. Pat's father had to pay <NS type="MT"><c>for</c></NS> a very expensive operation. But <NS type="RT"><i>as</i><c>like</c></NS> every story this has a happy <NS type="RN"><i>final</i><c>ending</c></NS>. John and Caroline still love each other, and she wasn't pregnant at all, it was just her <NS type="RN"><i>fantasy</i><c>imagination</c></NS>. And Pat understood that <NS type="ID">secrets should die on your own</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

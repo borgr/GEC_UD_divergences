@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR471*0101*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Brown,</p>
+          <p>I am one of your husband's students. My fellow students and I know that your husband has his birthday on Tuesday the 16th of June and we would like to organise a party for him.</p>
+          <p>First of all I would like to <NS type="FV"><i>suggested</i><c>suggest</c></NS> <NS type="MC"><c>that</c></NS> you <NS type="TV"><i>to come</i><c>come</c></NS> to our party and we would like <NS type="MA"><c>you</c></NS> not to <NS type="AS"><i>tell anything to your husband</i><c>tell your husband anything</c></NS> because the party is a surprise.</p>
+          <p>The party will be organised on Tuesday the 16th of June at three to six pm <NS type="RT"><i>at</i><c>in</c></NS> <NS type="MD"><c>the</c></NS> college <NS type="RP"><i>Canteen</i><c>canteen</c></NS>. We will have food and drink and we will have music because we know that Mr Brown loves music. <NS type="W"><i><NS type="RT"><i>At</i><c>To</c></NS> the party will come his students, the teachers and the principal</i><c>His students, the teachers and the principal will come to the party</c></NS>. My last question is about <NS type="MD"><c>a</c></NS> present. My fellow students have suggested <NS type="FV"><i>to buy</i><c>buying</c></NS> a CD or a <NS type="RP"><i>Book</i><c>book</c></NS>. We would like <NS type="MA"><c>you</c></NS> to tell us which is the best present for him.</p>
+          <p>I am looking forward to hearing from you as soon as possible.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>John said he had some good news to tell me. I didn't <NS type="S"><i>beleive</i><c>believe</c></NS> him <NS type="DY"><i>at the first time</i><c>at first</c></NS>. But I could <NS type="S"><i>se</i><c>see</c></NS> that his face was happy and he <NS type="TV"><i>didn't tell</i><c>wasn't telling</c></NS> lies. I stopped talking to my friends and I followed him. We started walking and walking. When we arrived at the <NS type="UP"><i>bus-station</i><c>bus station</c></NS> I couldn't understand why he wanted to <NS type="RV"><i>come</i><c>go</c></NS> there. But I didn't ask him. We <NS type="TV"><i>wait</i><c>waited</c></NS> there for an hour, and I was really angry. I wanted <NS type="S"><i>t</i><c>to</c></NS> know why we were there.</p>
+          <p>At that moment we saw the bus <NS type="FV"><i>to come</i><c>come</c></NS>, it stopped and one man <NS type="TV"><i>come</i><c>came</c></NS> and <NS type="TV"><i>sit</i><c>sat</c></NS> near <NS type="UT"><i>of</i></NS> us. I <NS type="UV"><i>could</i></NS> <NS type="TV"><i>recognise</i><c>recognised</c></NS> him. He was my father. I couldn't <NS type="S"><i>beleive</i><c>believe</c></NS> <NS type="MA"><c>it</c></NS><NS type="MP"><c>.</c></NS> I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="MY"><c>not</c></NS> <NS type="TV"><i>to see</i><c>seen</c></NS> him for five years. I <NS type="SX"><i>though</i><c>thought</c></NS> that I was dreaming but I wasn't. It was true<NS type="MP"><c>;</c></NS> my father <NS type="TV"><i>has</i><c>had</c></NS> come <NS type="RT"><i>at</i><c>to</c></NS> his country after five years.</p>
+          <p>Now all the problems will finish and we will start a new life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

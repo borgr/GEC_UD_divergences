@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR389*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>31-40</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sirs,</p>
+          <p>The Circle Theatre was <NS type="RY"><i>so far</i><c>once</c></NS> the best theatre in my opinion, but now, I must change my opinion.</p>
+          <p>I visited your Theatre yesterday. I would <NS type="TV"><i>like</i><c>have liked</c></NS> to see the best musical show with the best artists.</p>
+          <p>Unfortunately<NS type="MP"><c>,</c></NS> instead of Danny Brook we have seen <NS type="MD"><c>an</c></NS> unknown actor. We <NS type="RV"><i>have</i><c>were</c></NS> disappointed. Moreover<NS type="MP"><c>,</c></NS> this show did not start at 19.30, but 45 minutes later.</p>
+          <p>Another problem - the tickets for students according to your advertisement should <NS type="R">be available with discounts</NS><NS type="RP"><i> - unfortunately</i><c>. Unfortunately</c></NS> I could not buy such <NS type="MD"><c>a</c></NS> ticket.</p>
+          <p>During the interval I would <NS type="MV"><c>have liked</c></NS> <NS type="FV"><i>drink</i><c>to drink</c></NS> coffee in <NS type="MD"><c>the</c></NS> theatre restaurant - it was closed. I don't know<NS type="UP"><i>,</i></NS> why<NS type="RP"><i>?</i><c>.</c></NS> I <NS type="X"><i>no thought</i><c>would not have thought</c></NS><NS type="UP"><i>,</i></NS> that so serious <NS type="MD"><c>a</c></NS> theatre <NS type="TV"><i>makes</i><c>would make</c></NS> such mistakes.</p>
+          <p><NS type="ID">In accordance with</NS>, I would like to ask you to return me my money.</p>
+          <p>I hope that your answer will be positive, and in the future in your theatre all will be O.K.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>What will clothes be like 100 years from now?</p>
+          <p>"Fashion of the Future" - it is <NS type="MD"><c>a</c></NS> good question. Fashion <NS type="AGV"><i>are</i><c>is</c></NS> changing every year. During the next fashion shows we <NS type="RV"><i>observe</i><c>see</c></NS> new clothes.</p>
+          <p>In my opinion<NS type="MP"><c>,</c></NS> in the future people will wear clothes made of <NS type="UD"><i>a</i></NS> natural fabrics; silk, cotton, leather, wool. All <NS type="S"><i>syntetic</i><c>synthetic</c></NS> material will be uncomfortable for these people.</p>
+          <p>Women will <NS type="S"><i>prefere</i><c>prefer</c></NS> <NS type="UD"><i>the</i></NS> long skirts and short blouses and jackets. Of course, <NS type="AS"><i>it will be smart clothes</i><c>the clothes will be smart</c></NS>.</p>
+          <p>Young people will wear jeans and <NS type="FN"><i>T-shirt</i><c>T-shirts</c></NS>. Such clothes <NS type="AGV"><i>is</i><c>are</c></NS> comfortable and easy <NS type="UT"><i>in</i></NS> <NS type="FV"><i><NS type="RV"><i>using</i><c>wearing</c></NS></i><c>to wear</c></NS>. Teenagers have <NS type="DQ"><i>not</i><c>no</c></NS> free time to go to <NS type="RD"><i>a</i><c>the</c></NS> <NS type="DN"><i>washing-cleaner</i><c>launderette</c></NS>.</p>
+          <p>Men will wear as <NS type="DJ"><i>usualy</i><c>usual</c></NS> - a suit.</p>
+          <p><NS type="DJ"><i>Fashion</i><c>Fashionable</c></NS> colours - <NS type="RA"><i>it</i><c>they</c></NS> will be earth colours: grey, blue, yellow, brown.</p>
+          <p>For special <NS type="S"><i>ocassions</i><c>occasions</c></NS>, for example<NS type="UP"><i> -</i></NS> <NS type="RD"><i>the</i><c>a</c></NS> party, <NS type="RD"><i>the</i><c>a</c></NS> concert, people will <NS type="RV"><i>wear</i><c>dress</c></NS> very <NS type="DY"><i>smart</i><c>smartly</c></NS>. I think that it will be<NS type="UP"><i>:</i></NS> dresses, <NS type="MC"><c>and</c></NS> suits <NS type="S"><i>swewed</i><c>sewed</c></NS> by the well-known tailors.</p>
+          <p> All materials should be thin, delicate and soft, because of the <NS type="DJ"><i>warmly</i><c>warm</c></NS> climate.</p>
+          <p>I think that<NS type="UP"><i>,</i></NS> we will observe a <NS type="CQ"><i>little</i><c>few</c></NS> <NS type="UC"><i>and</i></NS> slow changes in fashion, but I hope that new clothes will <NS type="W"><i>be always</i><c>always be</c></NS> <NS type="S"><i>pleasent</i><c>pleasant</c></NS> for people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

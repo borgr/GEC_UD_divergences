@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR866*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>26-30</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to tell you that my class is interested in going to the show which takes place <NS type="RT"><i>in</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>central exhibition</i><c>Central Exhibition</c></NS> Hall in London <NS type="RT"><i>in</i><c>on</c></NS> 14th March.</p>
+          <p>We have seen it in <NS type="RD"><i>the</i><c>an</c></NS> <NS type="S"><i>advertisment</i><c>advertisement</c></NS> and I would like to go to the show. I would also like to tell you that it is <NS type="MD"><c>a</c></NS> very interesting <NS type="RN"><i>programme</i><c>event</c></NS> because it includes all the latest <NS type="FN"><i>fashion</i><c>fashions</c></NS> <NS type="RT"><i>about</i><c>in</c></NS> leisure and sports wear <NS type="MC"><c>and</c></NS> <NS type="MP"><i>make up</i><c>make-up</c></NS> as well as hairstyles. It is <NS type="MD"><c>a</c></NS> great opportunity for us because the <NS type="RN">fashion</NS> is <NS type="S"><i>fashinating</i><c>fascinating</c></NS> and free.</p>
+          <p>I <NS type="RV"><i>should</i><c>would</c></NS> be <NS type="RY"><i>more</i><c>very</c></NS> grateful if you could change the programme so as <NS type="M"><c>to allow us</c></NS> to go to the show. For example<NS type="MP"><c>,</c></NS> we <NS type="RV"><i>shall</i><c>would</c></NS> be able to <NS type="RP"><i>putoff</i><c>put off</c></NS> our visit <NS type="RT"><i>at</i><c>to</c></NS> the science museums <NS type="RT"><i>in</i><c>on</c></NS> <NS type="S"><i>Thusday</i><c>Tuesday</c></NS> morning <NS type="RT"><i>for</i><c>till</c></NS> Wednesday afternoon. The fashion show starts at 10 <NS type="MP"><i>oclock</i><c>o'clock</c></NS> and finishes at <NS type="ID"><i>19 o'clock</i><c>7 o'clock</c></NS>.</p>
+          <p>I look forward to hearing from you as soon as possible.</p>
+          <p>Yours <NS type="RY"><i>Faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>All <NS type="UD"><i>the</i></NS> people have the right to have a private life without <NS type="IQ"><i>others</i><c>other</c></NS> people <NS type="FV"><i>to disturb</i><c>disturbing</c></NS> them <NS type="MC"><c>and</c></NS> following <NS type="MA"><c>them</c></NS> all the time.</p>
+          <p><NS type="UD"><i>The journalists</i><c>Journalists</c></NS> follow <NS type="UD"><i>the</i></NS> famous people, such as politicians and film stars, in order to take <NS type="S"><i>fotos</i><c>photos</c></NS> and <NS type="MV"><c>get</c></NS> <NS type="UQ"><i>other</i></NS> information about them. After that <NS type="MD"><c>the</c></NS> <NS type="AGN"><i>journalist</i><c>journalists</c></NS> sell their information <NS type="RT"><i>in</i><c>to</c></NS> the <NS type="FN"><i>newspaper</i><c>newspapers</c></NS> and magazines in order to earn money.</p>
+          <p>I <NS type="RV"><i>thin</i><c>think</c></NS> that it is very dangerous because the famous <NS type="S"><i>peple</i><c>people</c></NS> cannot have <NS type="R"><i>you</i><c>a</c></NS> private life and <NS type="ID"><i>on the other hand</i><c>consequently</c></NS> they may suffer from <NS type="S"><i>deppresion</i><c>depression</c></NS> and <NS type="RN">sadness</NS><NS type="MP"><c>,</c></NS> which may <NS type="UV"><i>be</i></NS> lead them to suicide.</p>
+          <p>I think that the <NS type="S"><i>goverment</i><c>government</c></NS> have to protect them and their private life from the <NS type="FN"><i>journalist</i><c>journalists</c></NS>, <NS type="MT"><c>by</c></NS> punishing <NS type="R"><i>them</i><c>journalists</c></NS>. I think that the government <NS type="R"><i>I</i><c>is</c></NS> responsible for the private life of the people.</p>
+          <p>All <NS type="UD"><i>the</i></NS> people have the right to live <NS type="DY"><i>free</i><c>freely</c></NS><NS type="MP"><c>,</c></NS> without <NS type="FV"><i>to be</i><c>being</c></NS> disturbed by other <NS type="MN"><c>people</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

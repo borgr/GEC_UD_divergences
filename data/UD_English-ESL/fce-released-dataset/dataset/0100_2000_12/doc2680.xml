@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1083*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>We would like to thank you for this London trip and your programme <NS type="R"><i>related to</i><c>for</c></NS> it. It is <NS type="MD"><c>a</c></NS> really good programme, <NS type="MC"><c>and</c></NS> <NS type="RY"><i>especially</i><c>in particular</c></NS> visiting <NS type="MD"><c>the</c></NS> Science Museum and <NS type="MD"><c>the</c></NS> National Art Gallery would be <NS type="MD"><c>a</c></NS> great opportunity to learn about art and <NS type="MD"><c>the</c></NS> <NS type="MD"><c>the</c></NS> latest <NS type="RN"><i>improvements</i><c>advances</c></NS> in science.</p>
+          <p>However, my classmates and I saw the advertisement <NS type="UT"><i>with</i></NS> regarding the London fashion and leisure show, which is enclosed, and want to take this opportunity to visit it, if you allow us.</p>
+          <p>It takes place in <NS type="MD"><c>the</c></NS> Central Exhibition Hall on Tuesday 14 March. It will be <NS type="MD"><c>a</c></NS> great opportunity because it is free for students and we will be able to see the latest fashions in leisure and sports wear, new hairstyles and <NS type="MP"><i>make up</i><c>make-up</c></NS> <NS type="UN"><i>industry</i></NS>.</p>
+          <p>Although according to your programme, we will be visiting <NS type="MD"><c>the</c></NS> Science Museum in the morning and shopping in the afternoon, we would like to make a suggestion which can <NS type="RV"><i>help</i><c>allow</c></NS> us to <NS type="R"><i>be able to stick to</i><c>do</c></NS> both. Would it be possible to visit <NS type="MD"><c>the</c></NS> Science Museum and go shopping in our free time on Wednesday in the afternoon, <NS type="MC"><c>and</c></NS> instead of <NS type="RA"><i>it</i><c>that</c></NS> to go to the London fashion and leisure show, because it is between 10.00 and 19.00 hours.</p>
+          <p>Thanking <NS type="MA"><c>you</c></NS> in advance, we very much hope that you will give your attention to our <NS type="RN"><i>requirement</i><c>request</c></NS>.</p>
+          <p>We look forward to hearing from you <NS type="RT"><i>relating to</i><c>regarding</c></NS> this matter.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>One of the most important <NS type="RN"><i><NS type="AGN"><i>subject</i><c>subjects</c></NS></i><c>aims</c></NS> of the media is to inform people <NS type="SX"><i>bout</i><c>about</c></NS> famous people such as politicians, films stars or successful musicians. In order to <NS type="S"><i>fullfill</i><c>fulfil</c></NS> their readers' requirements they <NS type="RY"><i>always</i><c>constantly</c></NS> follow them. This kind of people are known as paparazzi.</p>
+          <p><NS type="RP"><i>it</i><c>It</c></NS> is not important whether they are working for <NS type="DN">media foundation</NS> or not<NS type="RP"><i>, they</i><c>. They</c></NS> just try to find the best <NS type="RN">pose</NS>. After taking their pictures <NS type="R">in the way that these famous people would not allow them</NS>, they sell the pictures and make a fortune without asking their permission. This is the most <NS type="RJ"><i><NS type="DJ"><i><NS type="S"><i>argueing</i><c>arguing</c></NS></i><c>arguable</c></NS></i><c>contentious</c></NS> point. Do they have to ask for their permission or not<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>However, if they <NS type="TV"><i>would ask</i><c>asked</c></NS>, obviously they <NS type="TV"><i><NS type="RP"><i>can not</i><c>cannot</c></NS></i><c>could not</c></NS> take the kind of pictures<NS type="UP"><i>,</i></NS> which show them naked or when they are having <NS type="MD"><c>a</c></NS> shower. <NS type="RP"><i>May be</i><c>Maybe</c></NS> they <NS type="MV"><c>would</c></NS> have to pay for <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="AGN"><i>kind</i><c>kinds</c></NS> of pictures.</p>
+          <p>On the other hand, famous people have <NS type="MD"><c>a</c></NS> point<NS type="UP"><i>,</i></NS> if they do not allow <NS type="MD"><c>the</c></NS> <NS type="IN"><i>paparazzis</i><c>paparazzi</c></NS> to take their pictures<NS type="RP"><i>. Because</i><c>, because</c></NS><NS type="UP"><i>,</i></NS> <NS type="S"><i>althoug</i><c>although</c></NS> they are famous they <NS type="W"><i>have also</i><c>also have</c></NS> their private life. Unless they do not want to share it, <NS type="AS"><i><NS type="RA"><i>it</i><c>this</c></NS> must be <NS type="DV"><i>acceptable</i><c>accepted by</c></NS> for us</i><c>we must accept this</c></NS>. I think the best example would be Lady Diana. It was said that <NS type="W"><i>while they were trying <NS type="FV"><i>escape</i><c>to escape</c></NS> from <NS type="MD"><c>the</c></NS> <NS type="IN"><i>paparazzis</i><c>paparazzi</c></NS> they had that accident</i><c>they had that accident while they were trying to escape from the paparazzi</c></NS>, which <NS type="RV"><i>caused</i><c>ended</c></NS> <NS type="UT"><i>of</i></NS> their lives. This <NS type="RV"><i><NS type="RP"><i>can not</i><c>cannot</c></NS></i><c>should not</c></NS> be the way <NS type="R">in finding information for the readers</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

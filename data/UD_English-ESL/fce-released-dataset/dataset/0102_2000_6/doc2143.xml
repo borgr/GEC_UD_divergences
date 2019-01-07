@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR867*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>June 17th, 2000</p>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about the Musical <NS type="UN"><i>Show</i></NS> 'Over the Rainbow'<NS type="MP"><c>,</c></NS> <NS type="S"><i>permormed</i><c>performed</c></NS> <NS type="RT"><i>on</i><c>at</c></NS> the Circle theatre last week.</p>
+          <p>To begin with, there were no discounts available, and nobody seemed to be able to explain the reason <NS type="MC"><c>why</c></NS>. Second, the musical started forty-five minutes <NS type="FY"><i>later</i><c>late</c></NS>! and, to make matters worse, the actor was not Danny Brook as the advertisement said. The new actor was not as good as Danny Brook, and he did not perform <NS type="MT"><c>in</c></NS> the show as he should have done.</p>
+          <p>Finally, I found that the theatre restaurant was closed because there had been problems with one of the ovens.</p>
+          <p>What was <NS type="S"><i>suppoused</i><c>supposed</c></NS> to be a perfect evening out turned <NS type="MY"><c>out</c></NS> to be <NS type="MD"><c>a</c></NS> disappointing one instead. I am afraid something should be done about this, and I urge you to refund my ticket.</p>
+          <p>I am looking forward to receiving your response.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>It is often said that technology has changed our lives in many ways, and that we live better now. However, technology has also brought many problems to Society.</p>
+          <p>Technology <NS type="RV"><i>brings</i><c>creates</c></NS> <NS type="MT"><c>for</c></NS> me a lot of new possibilities every day, and it also makes everything easier. If I want to know how a friend is, I just have to phone him; I can see how the world is <NS type="RV"><i>going</i><c>getting</c></NS> on <NS type="RY"><i>only</i><c>just</c></NS> by switching on the television, and I can cook in <NS type="MD"><c>a</c></NS> <NS type="RQ"><i>some</i><c>few</c></NS> minutes using the <NS type="S"><i>Microvelle</i><c>Microwave</c></NS> oven.</p>
+          <p>However, there are a lot of negative aspects <NS type="RT"><i>in</i><c>to</c></NS> the way that technology affects my life. As technology develops so fast, there are always new things to buy, and it also reduces the amount of jobs available, so it is getting hard to find a job.</p>
+          <p>In <NS type="S"><i>conclussion</i><c>conclusion</c></NS>, I think that technology has two faces which <NS type="AGV"><i>affects</i><c>affect</c></NS> my life as well as everybody else's life. I believe that we should try to change <NS type="AGD"><i>this</i><c>these</c></NS> bad aspects, or learn to live with them.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

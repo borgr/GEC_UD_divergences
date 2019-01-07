@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR968*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>First of all, I would like to thank you for this prize and the fact that you wrote <NS type="MT"><c>to</c></NS> me asking for my preferences about the Camp.</p>
+          <p><NS type="RT"><i>About</i><c>Regarding</c></NS> the information you <NS type="TV"><i>needed</i><c>need</c></NS>, I have to tell you that I can only go in July, <NS type="RT"><i>because of</i><c>for</c></NS> work reasons. Once there, I would prefer staying in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because that is a way to remember my childhood as a <NS type="RP"><i>boyscout</i><c>Boy Scout</c></NS> and <NS type="R"><i>go against</i><c>get a break from</c></NS> the routine.</p>
+          <p>From the list of activities you sent me, I <NS type="R"><i>stay with</i><c>have chosen what are</c></NS> the, from my point of view, most relaxing activities available: painting and photography. One of my hobbies is <NS type="UD"><i>the</i></NS> photography, so I think I am rather good at it, but I will take painting <NS type="UY"><i>only</i></NS> to learn, because I am not very <NS type="DJ"><i>talentive</i><c>talented</c></NS> at it.</p>
+          <p>I also would like to know if I have to take <NS type="MQ"><c>any</c></NS> money and what kind of clothes are suitable for that location. Please reply <NS type="MA"><c>me</c></NS> soon.</p>
+          <p>Yours sincerely</p>
+          <p>David Brian</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>You are not going to believe what I am about to tell you! A couple of months ago, I was told that Britney Spears was coming to perform in our city. When I knew this, I managed to get a job as one of the kids that <NS type="AGV"><i>prepares</i><c>prepare</c></NS> the stage <NS type="R"><i>during</i><c>before</c></NS> the concert. I was really excited.</p>
+          <p>The day of the show I worked so hard that I couldn't see the <NS type="RN"><i>spectacle</i><c>show</c></NS>. And I didn't even <NS type="FV"><i>got</i><c>get</c></NS> paid. But it was <NS type="RJ"><i>worthy</i><c>worth it</c></NS>. I <NS type="RV"><i>found</i><c>got</c></NS> my reward when the concert finished. After <NS type="UV"><i>been</i></NS> carrying stuff like lights, microphones, wires and some other equipment for about three hours, I was <NS type="S"><i>eshausted</i><c>exhausted</c></NS>. But when Britney came <NS type="RY"><i>out of</i><c>off</c></NS> the stage, she passed by me, saw my tired face and invited me <NS type="RT"><i>to</i><c>into</c></NS> her personal <NS type="RN"><i>changing room</i><c>dressing room</c></NS>. We talked for about half an hour and when she said goodbye she gave me a kiss. I won't forget that moment ever. Write <NS type="MT"><c>to</c></NS> me soon to tell me your <NS type="RN"><i>impression</i><c>thoughts</c></NS> about what happened to me. Bye.</p>
+          <p>With love</p>
+          <p>David Brian</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

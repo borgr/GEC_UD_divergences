@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR826*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/madam,</p>
+          <p>Thank you for your letter and your congratulations. I never thought that I would win the competition. It is really wonderful. I can stay at Camp California in the U.S.A. for two weeks.</p>
+          <p>I am a student at Portsmouth College and the end of this term is 23 June, so I can only travel in July. I wonder if it is all right <NS type="R"><i>for</i><c>to come at</c></NS> that time. And <NS type="RT"><i>for</i><c>concerning</c></NS> my accommodation<NS type="RP"><i>.</i><c>,</c></NS> I <NS type="MV"><c>would</c></NS> prefer <NS type="FV"><i><NS type="RV"><i>live</i><c>stay</c></NS></i><c>to stay</c></NS> in a log cabin, because it is more comfortable. I <NS type="MV"><c>would</c></NS> like to relax there and enjoy the atmosphere <NS type="R"><i>when</i><c>in which</c></NS> I <NS type="TV"><i>live</i><c>will be living</c></NS> <NS type="UT"><i>in</i></NS>.</p>
+          <p>I like to do some activities in water and my favourite activity is swimming. Before I came <NS type="MT"><c>to</c></NS> England, I swam every weekend in my country<NS type="MP"><c>,</c></NS> even in winter, so I choose to do some swimming and sailing while I am at the camp.</p>
+          <p>Actually, my mind has already gone there<NS type="RP"><i>,</i><c>.</c></NS> I can't wait even for a minute. I want to go there now.</p>
+          <p>By the way, I would like to know <NS type="MT"><c>about</c></NS> the shopping<NS type="MP"><c>,</c></NS> especially for clothes<NS type="RP"><i>,</i><c>.</c></NS> I want to buy some for myself. And do you think I need to exchange money before I go there?</p>
+          <p>I look forward to your letter.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>To: Mr Ted</p>
+          <p>From: Meng</p>
+          <p>Subject: About daily life at our school</p>
+          <p>Introduction</p>
+          <p><NS type="CE">This report is aim to research the students about their daily life at school and give some suggestion about it</NS>.</p>
+          <p>What do students do now?</p>
+          <p>Lots of <NS type="AGN"><i>student</i><c>students</c></NS> normally have classes in the morning. And sometimes they do something in the library by themselves in the <NS type="S"><i>afteroon</i><c>afternoon</c></NS>. For instance, reading, looking for some information or using <NS type="MD"><c>the</c></NS> computer.</p>
+          <p>What do they think about it?</p>
+          <p>The arts students want to learn another foreign language. Moreover, some foreign students hope there will be some English classes that <NS type="RV"><i>aim to</i><c>focus on</c></NS> the examination.</p>
+          <p>Most of them want to do more activities in the afternoon.</p>
+          <p>Recommendations</p>
+          <p><NS type="RV"><i>Open</i><c>Start</c></NS> some <NS type="W"><i>foreign language classes at part-time</i><c>part-time foreign language classes</c></NS> for the students who <NS type="AGV"><i>is</i><c>are</c></NS> interested in <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p>Let foreign students do more <NS type="SX"><i>excises</i><c>exercises</c></NS> about English to help them pass the exam.</p>
+          <p><NS type="FV"><i>Using</i><c>Use</c></NS> the equipment and <NS type="RN"><i>area</i><c>space</c></NS> <NS type="RA"><i>what</i><c>that</c></NS> we have to organise some activities.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR624*0100*2000*02">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="R"><i>Mister</i><c>Mr</c></NS> Robertson</p>
+          <p>Thank you very much for organising the programme of our <NS type="DJ"><i>three days</i><c>three-day</c></NS> visit to London. The programme looks very good, especially the river trip to Greenwich.</p>
+          <p>Our English class has an additional wish concerning the programme <NS type="RT"><i>of</i><c>for</c></NS> our trip. We have seen an advertisement for the "London Fashion and Leisure Show" and we would all like to go to the show. We think it is a great opportunity because it only takes place once a year and it is free for students. We would suggest <NS type="FV"><i>to replace</i><c>replacing</c></NS> the shopping <NS type="RN"><i>part</i><c>trip</c></NS> on Tuesday afternoon <NS type="RT"><i>by</i><c>with</c></NS> the visit <NS type="RT"><i>of</i><c>to</c></NS> the show. We think we would all have another chance for shopping in London <NS type="RY"><i>sometimes</i><c>sometime</c></NS> later.</p>
+          <p>Please think about our suggestion and the proposed change <NS type="RT"><i>of</i><c>to</c></NS> the programme. We are sure this is suitable <NS type="RT"><i>to</i><c>for</c></NS> all of us. Thank you very much.</p>
+          <p>Best regards</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>The home of the future</p>
+          <p>The view from outside will mainly be the same. The houses will look like the houses <NS type="MT"><c>of</c></NS> today. A simple and <NS type="DJ"><i>well-proofen</i><c>well-proven</c></NS> architecture. The difference will be inside the buildings. The doors would be the entrance to another world....</p>
+          <p>The fridge, the television, the stove and the <NS type="RP"><i>Hi-Fi</i><c>hi-fi</c></NS> equipment will be attached to a computer network. Every electronic gadget in the <NS type="S"><i>futur</i><c>future</c></NS> home will be able to <NS type="S"><i>comunicate</i><c>communicate</c></NS> with other machines or computers. It will be possible to connect to the Internet from nearly everywhere in the house or flat. I'm sure all the things which are based on electronic parts will totally change. Also the aspects of security within people's homes.</p>
+          <p>But I think there will not be many changes concerning the furnishing of the future homes. All the big and small things which <NS type="TV"><i>are defining</i><c>define</c></NS> people's personal environment will be left nearly unchanged - the furniture, the pictures on the wall....</p>
+          <p>I suppose our future homes will be a mix of new technologies and good old tradition. It has always been like that.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

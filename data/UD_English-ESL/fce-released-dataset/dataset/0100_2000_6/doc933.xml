@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR383*0100*2000*01">
+  <candidate><personnel><language>German</language><age>51+</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>Thank you very much for your letter. I was really amazed to have actually won first prize after years of unsuccessfully entering competitions!</p>
+          <p>In connection with the questions you asked, please find my answers as follows:</p>
+          <p>- I <NS type="RV"><i>could</i><c>would</c></NS> prefer to travel in July as this is the only time I can take my annual leave.</p>
+          <p>- As far as accommodation is concerned, I would prefer the log cabin due to the fact that I am not a teenager any more and crawling in and out of a tent has become <NS type="RJ"><i>cumbersome</i><c>awkward</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> me.</p>
+          <p>- My choice of sports are swimming and tennis. Swimming has always been my favourite sport and I can say that I have become an excellent swimmer over the years. Tennis I only started four years ago, but have found that I am quite talented at it, having won several competitions during the last two years or so.</p>
+          <p>Please let me know if meals are included and if not <NS type="RQ"><i>which</i><c>what</c></NS> facilities are offered in the way of restaurants or self-catering.</p>
+          <p>Looking forward to hearing from you,</p>
+          <p>I remain,</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>The book Cry Freedom by John Briley is certainly one which will take its place in South African history. Therefore, I think it is a <NS type="R"><i>time</i><c>historical</c></NS> document which will remain of interest and which will be read again and again, <NS type="R"><i>also by non-South Africans</i><c>by non-South Africans as well as South Africans</c></NS>.</p>
+          <p>Generations of young South Africans<NS type="MP"><c>,</c></NS> black, white or brown<NS type="MP"><c>,</c></NS> will be reminded of one of the worst times their country went through. Steve Biko and Donald Woods will be remembered always. Steve Biko for becoming a martyr to the black freedom movement of <NS type="RD"><i>these</i><c>those</c></NS> dark years<NS type="RP"><i>. A</i><c> - a</c></NS> peaceful man who was caught up in the <NS type="RN"><i>wills</i><c>wiles</c></NS> of the apartheid regime, dying such a violent death. Donald Wood for literally <NS type="ID">jumping over his own shadow</NS> and risking his life and that of his family in the process of reporting the vile crimes of the SA. police force. In the end he had to leave the country of his birth to escape imprisonment.</p>
+          <p>It is my firm <NS type="DN"><i>believe</i><c>belief</c></NS> that this book will remain a <NS type="RN"><i>piece</i><c>work</c></NS> of literature which will not lose its <NS type="RN"><i>actuality</i><c>relevance</c></NS><NS type="UP"><i>,</i></NS> in a world where people are hounded for their colour or religion.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

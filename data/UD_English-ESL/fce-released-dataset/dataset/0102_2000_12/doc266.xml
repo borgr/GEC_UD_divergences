@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1066*0102*2000*02">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>20.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I'm writing to you to give my opinion of that great festival you <NS type="S"><i>organiced</i><c>organised</c></NS> <NS type="UD"><i>the</i></NS> last 21 and 22 of November.</p>
+          <p>I want you to know <NS type="RQ"><i>how</i><c>what</c></NS> <NS type="MD"><c>an</c></NS> extraordinary <NS type="RN"><i>moments</i><c>time</c></NS> I <NS type="RV"><i>passed</i><c>had</c></NS> with my friends <NS type="RT"><i>in</i><c>at</c></NS> the festival. Your work was brilliant because you brought stars and artists from around the world <NS type="RT"><i>with</i><c>for</c></NS> only that <NS type="UP"><i><NS type="DY"><i>reasonable</i><c>reasonably</c></NS>-priced</i><c>reasonably priced</c></NS> ticket we <NS type="RV"><i>paid</i><c>bought</c></NS> for <NS type="RQ"><i>all the</i><c>the whole</c></NS> weekend. The festival was very well <NS type="S"><i>organiced</i><c>organised</c></NS> with a lot of alternatives like concerts and dance shows. <NS type="ID"><i>On my point of view</i><c>In my opinion</c></NS> the hall <NS type="RT"><i>of</i><c>for</c></NS> the rock <NS type="S"><i>concets</i><c>concerts</c></NS> was too small<NS type="RP"><i>, <NS type="RP"><i>you've</i><c>you have</c></NS></i><c>. You have</c></NS> to consider <NS type="RV"><i><NS type="FV"><i>make</i><c>making</c></NS></i><c>booking</c></NS> a <NS type="FJ"><i>big</i><c>bigger</c></NS> one for <NS type="UD"><i>the</i></NS> next year because these <NS type="AGN"><i>kind</i><c>kinds</c></NS> of events are <NS type="RV"><i>concurred</i><c>attended</c></NS> by a lot of young people. In conclusion, I wanted to say thanks for such <NS type="FD"><i>an</i><c>a</c></NS> special weekend.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Miguel</p>
+          <p>Thanks for your letter. I got it a couple of days ago and I've been thinking about what you said. I'm going to tell you what I feel.</p>
+          <p>In my house rules practically don't exist because I <NS type="RV"><i>have</i><c>am</c></NS> 18 years old now so my <NS type="MP"><i>parents</i><c>parents'</c></NS> only wish is that I study <NS type="MT"><c>for</c></NS> a <NS type="RN"><i><NS type="S"><i>carrear</i><c>career</c></NS></i><c>university degree</c></NS> and be a good man. They only want to know where I am and when I go out <NS type="MC"><c>and</c></NS> at what time I came home. At school <NS type="MA"><c>it</c></NS> is <NS type="DY"><i>complete</i><c>completely</c></NS> different because the teachers don't <NS type="S"><i>foregive</i><c>forgive</c></NS> you <NS type="RA"><i>nothing</i><c>anything</c></NS>. You have to be quiet <NS type="SX"><i>an</i><c>and</c></NS> <NS type="DJ"><i>attention</i><c>attentive</c></NS> in class if you <NS type="RV"><i>wouldn't</i><c>don't</c></NS> <NS type="MV"><c>want</c></NS> to be punished. I'm happy because my parents allow me to do a lot of things. I wouldn't like to change anything because we all need some <NS type="S"><i>dicipline</i><c>discipline</c></NS> to <NS type="RV"><i>make</i><c>do</c></NS> the right things.</p>
+          <p>When <NS type="TV"><i>I'd</i><c>I've</c></NS> time I will write <NS type="MT"><c>to</c></NS> you again<NS type="MP"><c>,</c></NS></p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

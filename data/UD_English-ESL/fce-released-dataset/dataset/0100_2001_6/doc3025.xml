@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE28*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Maria</i></NS> Smith,</p>
+          <p>I have received your letter and I am glad I can help you.</p>
+          <p>You have been booked to stay in the Palace Hotel<NS type="MP"><c>,</c></NS> which is a very pleasant hotel not far away from here. The best way to get here is <NS type="M"></NS> <NS type="RP"><i>;</i><c>:</c></NS> once you <NS type="TV"><i>have gone out</i><c>go out</c></NS> of the hotel, turn right, then follow the signs to the hospital, because it is just <NS type="RT"><i>by</i><c>beside</c></NS> our college. When you are in the college<NS type="MP"><c>,</c></NS> ask for me.</p>
+          <p>The conference will <NS type="RV"><i>take</i><c>last</c></NS> one hour, and, at 8 o'clock the party will start<NS type="RP"><i>, it</i><c>. It</c></NS> is a formal party and you should wear formal <NS type="RN"><i>stuff</i><c>clothes</c></NS>. The dress code is<NS type="UP"><i>:</i></NS> no jeans. We will <NS type="RV"><i>prove</i><c>provide</c></NS> you with food and drinks.</p>
+          <p>For your free <NS type="RN"><i>hours</i><c>time</c></NS> I have quite a few ideas. There are lots of things to do here. We have <NS type="L">got</NS> a museum which is just <NS type="UT"><i>at</i></NS> two minutes from your hotel. You can also go to a nearby park and eat something in the café. If you go to the main street you will find a street full of shops and I am sure the students would like that.</p>
+          <p>I hope this information will be helpful. If you have any other questions, please, do contact me.</p>
+          <p><NS type="M"><i>Looking</i><c>I'm looking</c></NS> forward to seeing you soon.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>THE MOBILE PHONE</p>
+          <p>The mobile phone has completely changed our lives, it is an instrument which I cannot imagine myself living without.</p>
+          <p>Apart from being <NS type="UP"><i>in-fashion</i><c>in fashion</c></NS><NS type="MP"><c>,</c></NS> it is also a very helpful machine. Do you remember that day when you got stuck in the middle of the road with your car which wouldn't work? What would you have done <NS type="RT"><i>in</i><c>at</c></NS> that moment without a mobile phone? You were at home in less than ten minutes just because you had a mobile phone with you, amazing, isn't it?</p>
+          <p>Nowadays, everyone has a mobile phone. I am fifteen years old and everybody in my year has got a mobile phone. Five years ago you wouldn't have even thought about it. It has been a plus for me. For example, now my parents allow me to go to more places just because I have my mobile with me, and, sending text messages is an addiction which every teenager is obsessed with.</p>
+          <p><NS type="ID"><i>All over</i><c>All in all</c></NS>, the invention of this little device is a big plus for everyone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

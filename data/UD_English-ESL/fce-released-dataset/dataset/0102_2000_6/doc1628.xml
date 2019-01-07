@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR642*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to explain some aspects <NS type="RT"><i>about</i><c>of</c></NS> your show. It was a <NS type="S"><i>desaster</i><c>disaster</c></NS> and I am <NS type="MV"><c>going</c></NS> <NS type="FV"><i>telling</i><c>to tell</c></NS> you why.</p>
+          <p>I went to see my favourite actor, Danny Brook, but I had a bad surprise; he was not in the show! How could you change the actors without saying something to the <NS type="RN"><i>visitors</i><c>audience</c></NS>.</p>
+          <p>The show was supposed to start at half past seven and started <NS type="R"><i>a</i><c>at</c></NS> quarter past eight. Forty-five minutes <NS type="RY"><i>later</i><c>late</c></NS>! It was incredible.</p>
+          <p>Apart from that, the advertisement <NS type="TV"><i>mention</i><c>mentioned</c></NS> that there were discounts available, and there were not. It <NS type="TV"><i>mention</i><c>mentioned</c></NS> that visitors could visit the restaurant after the show, too, and we could not because it was closed, and the person who was there said that it was very late and he was not allowed to open the restaurant for us.</p>
+          <p>I am very disappointed, and if it is possible, I want you to return my money <NS type="UY"><i>back</i></NS>.</p>
+          <p>I hope that the next time you will <NS type="RV"><i>do</i><c>put on</c></NS> a better show than the last one.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="U"><i>For me technology</i><c>Technology</c></NS> affects me a lot<NS type="MP"><c>,</c></NS> <NS type="RP"><i>may be</i><c>maybe</c></NS> more than science, because my daily life is <NS type="RJ"><i>plenty</i><c>full</c></NS> of objects <NS type="R"><i>with</i><c>using high</c></NS> technology, such us television, radio, <NS type="CN"><i>transports</i><c>transport</c></NS>, etc.</p>
+          <p>But it has <NS type="S"><i>advantatges</i><c>advantages</c></NS> as <NS type="MY"><c>well</c></NS> <NS type="MC"><c>as</c></NS> <NS type="S"><i>disadvantatges</i><c>disadvantages</c></NS>.</p>
+          <p>On the positive side, if I am bored, the first thing that I want to do is <NS type="FV"><i>watching</i><c>watch</c></NS> television or <NS type="FV"><i>listening</i><c>listen</c></NS> to music. <NS type="RC"><i>Or</i><c>And</c></NS> if I want to go shopping or to another city, it is necessary to use the car or <NS type="UD"><i>the</i></NS> public transport.</p>
+          <p>On the other hand there are <NS type="S"><i>disadvatatges</i><c>disadvantages</c></NS>, too. Firstly, the <NS type="S"><i>enviroment</i><c>environment</c></NS> is polluted because of technology, although <NS type="MA"><c>this</c></NS> is our fault. Secondly for us <NS type="MY"><c>there</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="UD"><i>a</i></NS> <NS type="S"><i>disadvantatge</i><c>disadvantages</c></NS> because <NS type="UD"><i>the</i></NS> pollution affects us indirectly, and because I don't do anything but <NS type="FV"><i>watching</i><c>watch</c></NS> television, and it isn't very good at all.</p>
+          <p>And finally, because I spend a lot of money buying games for the computer, <NS type="RA"><i>that</i><c>which</c></NS> <NS type="R">it's a very good technology</NS>, too.</p>
+          <p>To sum up, technology <NS type="UA"><i>it's</i><c>is</c></NS> the best thing <NS type="RT"><i>around</i><c>in</c></NS> the world, apart from T.V.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

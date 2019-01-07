@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE53*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith<NS type="RP"><i>:</i><c>,</c></NS></p>
+          <p>I have received your letter which informs me you are now in charge of the group of students attending the international conference.</p>
+          <p>It is my pleasure to help you with the information you need.</p>
+          <p>Your group has been booked into The Palace Hotel, located on the <NS type="RP"><i>High</i><c>high</c></NS> street, opposite <NS type="UT"><i>to</i></NS> the <NS type="RP"><i>Post Office</i><c>post office</c></NS>.</p>
+          <p>The conference will be <NS type="TV"><i>hold</i><c>held</c></NS> in The Royal Hall, and the best way to get there from the hotel is by bus. Take the 67 route and it will take you just in front of The Royal Hall.</p>
+          <p>The end-of-conference party will be hold in Francescos Restaurant, just by The Royal Hall. You should wear casual clothes.</p>
+          <p>About what you can do in the area <NS type="RT"><i>for</i><c>in</c></NS> the free time you have, I would suggest you <NS type="TV"><i>to visit</i><c>visit</c></NS> <NS type="RP"><i>The</i><c>the</c></NS> Modern Art Museum which <NS type="W"><i>has now</i><c>now has</c></NS> a new exhibition. Another suggestion could be to visit the zoo, or just walk through <NS type="UD"><i>the</i></NS> Spring Gardens<NS type="MP"><c>,</c></NS> which are beautiful <NS type="RT"><i>in</i><c>at</c></NS> this time of the year.</p>
+          <p>I hope all this information is helpful for you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>The <NS type="RP"><i>Telephone</i><c>telephone</c></NS>: <NS type="RP"><i>A</i><c>a</c></NS> great invention.</p>
+          <p>Imagine your life without a telephone. Yes, I know, it is <NS type="RY"><i>just</i><c>very</c></NS> hard to imagine our lives without this invention.</p>
+          <p>Think about the people living <NS type="RT"><i>in</i><c>at</c></NS> the time it was invented. <NS type="MA"><i>Must</i><c>It must</c></NS> <NS type="TV"><i>had been</i><c>have been</c></NS> such <NS type="FD"><i>a</i><c>an</c></NS> exciting thing being able to talk to someone living thousands of miles <NS type="DY"><i>for</i><c>away</c></NS>........ and now for us <NS type="MA"><c>it</c></NS> is just as simple as <NS type="FV"><i>dial</i><c>dialling</c></NS> a number and <NS type="FV"><i>talk</i><c>talking</c></NS> to whoever we want to.</p>
+          <p>Of course <NS type="MA"><c>it</c></NS> is nice to have a phone conversation with friends or family, but the telephone is also very important for business and emergencies.</p>
+          <p>For example, I work for a bank, and we need to have weekly meetings with our Director living 800 <NS type="SA"><i>kilometers</i><c>kilometres</c></NS> <NS type="RY"><i>far</i><c>away</c></NS>, and he doesn't have to come here, we just have a phone conference where everybody can <NS type="FV"><i>talks</i><c>talk</c></NS>, and that is it!</p>
+          <p>What about emergencies? A phone call in time for an ambulance can save the <NS type="FN"><i>life</i><c>lives</c></NS> of many people having a heart attack.</p>
+          <p>We sometimes don't realize the importance of some inventions we use in our everyday life.</p>
+          <p>But think....<NS type="UP"><i>,</i></NS> what would we do without them!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

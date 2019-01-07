@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR541*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>41-50</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear manager</p>
+          <p>I went to the theatre to see a musical show<NS type="MP"><c>,</c></NS> "Over the rainbow"<NS type="MP"><c>,</c></NS> and had a very disappointing evening.</p>
+          <p>According to your advertisement, the actor should <NS type="TV"><i>be</i><c>have been</c></NS> Danny Brook, but <NS type="RP"><i>infact</i><c>in fact</c></NS> it was <NS type="MD"><c>a</c></NS> different person. My ticket was for 19.30, but it started very late<NS type="RP"><i>, it</i><c>. It</c></NS> started <NS type="MT"><c>at</c></NS> 20:15. When the show finished, it was too late to catch the train <NS type="UT"><i>to</i></NS> home. I had to take <NS type="MD"><c>a</c></NS> taxi. It <NS type="IV"><i>costed</i><c>cost</c></NS> me £30. "What a waste!,, By the way, I didn't see any discounts <NS type="R"><i>for buying</i><c>on</c></NS> tickets. One more thing, the theatre restaurant was closed when I <NS type="RV"><i><NS type="TV"><i>get</i><c>got</c></NS></i><c>went</c></NS> there for a <NS type="UN"><i>glass of</i></NS> drink<NS type="RP"><i>,</i><c>.</c></NS> I don't know why<NS type="RP"><i>, there</i><c>. There</c></NS> was no <NS type="UJ"><i>written</i></NS> <NS type="AGN"><i>notes</i><c>note</c></NS> or information about that. I am not sure that I did have a perfect evening out.</p>
+          <p>Would you consider <NS type="FV"><i>to give</i><c>giving</c></NS> <NS type="MA"><c>me</c></NS> my money back? If <NS type="RD"><i>the</i><c>a</c></NS> refund is available, <NS type="RA"><i>it</i><c>that</c></NS> would be <NS type="RJ"><i>grateful</i><c>great</c></NS>.</p>
+          <p>I <NS type="UV"><i>would</i></NS> look forward to hearing from you as soon as possible.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Pat is one of my <NS type="RN"><i>colleges</i><c>colleagues</c></NS> <NS type="RT"><i>in</i><c>from</c></NS> the office. She works with me. We get on very well. She is a single mum. She always talks about her private life to me, and I thought we understood each other, because when I talked about my private life to her, she seemed very <NS type="RJ"><i>understandable</i><c>understanding</c></NS>.</p>
+          <p>Last week, I missed work on Tuesday, so Pat had to work harder because she was all alone. I appreciated her and she <NS type="RV"><i>wouldn't</i><c>didn't</c></NS> mind. I told her the reason <NS type="R"><i>that</i><c>why</c></NS> I had to miss <NS type="UD"><i>the</i></NS> work. My son was in prison. I had to go and see him. I still don't know how it really <NS type="TV"><i>happens</i><c>happened</c></NS> to him. All I know is <NS type="M"><c>it is</c></NS> about drug smuggling, <NS type="MC"><c>and</c></NS> that he <NS type="MV"><c>is</c></NS> involved. I asked <NS type="UT"><i>to</i></NS> her not to tell anyone, because I didn't want others <NS type="FV"><i>know</i><c>to know</c></NS> about this. I am <NS type="MD"><c>a</c></NS> very private person.</p>
+          <p>Yesterday morning, I went to <NS type="MD"><c>the</c></NS> toilet<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="S"><i>overherd</i><c>overheard</c></NS> two people talking about my son<NS type="MP"><c>.</c></NS> I felt <NS type="DJ"><i>pity</i><c>sorry</c></NS> <NS type="RT"><i>on</i><c>for</c></NS> myself and I burst into tears. I quickly got out of <NS type="MD"><c>the</c></NS> toilet. I don't remember how I finished work that day.</p>
+          <p>Nowadays, it is hard to trust people. No one is perfect. Everybody <NS type="AGV"><i>make</i><c>makes</c></NS> mistakes. I decided to forgive my friend Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

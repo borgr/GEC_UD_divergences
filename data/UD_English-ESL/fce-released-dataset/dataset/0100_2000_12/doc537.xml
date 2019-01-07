@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR221*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to you first of all to thank you <NS type="RT"><i>about</i><c>for</c></NS> the <NS type="RJ"><i>good</i><c>excellent</c></NS> programme that you <NS type="TV"><i>give</i><c>have given</c></NS> us <NS type="RT"><i>about</i><c>for</c></NS> the trip <NS type="RT"><i>in</i><c>to</c></NS> London, especially for planning <NS type="R"><i>to visit</i><c>a visit to</c></NS> the science museum, which we believe is going to be very interesting.</p>
+          <p>However, we have seen an advertisement for the London Fashion and Leisure Show and we would like to suggest <NS type="FV"><i>to including</i><c>including</c></NS> this <NS type="RN"><i>point</i><c>event</c></NS> in the programme.</p>
+          <p>The show is going to be on Tuesday the 14 of March from 10.00 to 19.00 and we <NS type="S"><i>fained</i><c>find</c></NS> it very interesting, because we will have the opportunity to see <NS type="RN">mews</NS>, firstly about the latest fashions, secondly concerning leisure and sports wear and finally about <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles.</p>
+          <p>In addition <NS type="RT"><i>of</i><c>to</c></NS> this, it is going to be a great opportunity for all of us, because for <NS type="UD"><i>the</i></NS> students it is completely free.</p>
+          <p>We were thinking that <NS type="S"><i>meaby</i><c>maybe</c></NS> we can go early to visit the Science Museum and <NS type="SX"><i>than</i><c>then</c></NS> go to the Central Exhibition <NS type="MN"><c>Centre</c></NS>, where the event is going to <NS type="RV"><i>have</i><c>take</c></NS> place!</p>
+          <p>We really look forward to receiving your answer as soon as possible!</p>
+          <p>Thank you very <NS type="S"><i>mutch</i><c>much</c></NS>!</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>We have been talking for hours in our class about <NS type="AS"><i>the treatment of the media regarding famous people</i><c>the media's treatment of famous people</c></NS>.</p>
+          <p>Of course I must agree with the opinion of my <NS type="UP"><i>class - mates</i><c>classmates</c></NS>: famous people, such as actors, singers or politicians, deserve to have a private life, but of course it is not always <NS type="R">like this</NS>!</p>
+          <p><NS type="SX"><i>Almost</i><c>Most of</c></NS> the time they have journalists following them everywhere <NS type="U"><i>and all the time</i></NS>, looking for <NS type="MD"><c>a</c></NS> great <NS type="RN"><i>news</i><c>story</c></NS> or interesting pictures to put on the <NS type="RJ"><i>first</i><c>front</c></NS> page of the newspaper, and I don't think this is very nice, but <NS type="MA"><c>it</c></NS> is the price that famous people have to pay, just <NS type="S"><i>becouse</i><c>because</c></NS> they are popular.</p>
+          <p>Anyway, this is not always <NS type="DY"><i>necessary</i><c>necessarily</c></NS> a problem, but it can be a big thing for the famous person, <NS type="S"><i>becouse</i><c>because</c></NS> <NS type="MA"><c>it</c></NS> <NS type="RV"><i><NS type="AGV"><i>let</i><c>lets</c></NS></i><c>gets</c></NS> people talking about him and <NS type="AGV"><i>increase</i><c>increases</c></NS> his popularity.</p>
+          <p>In conclusion, I can say that this is not the <NS type="FJ"><i>bigger</i><c>biggest</c></NS> problem that the world has and -- it is not my problem <NS type="S"><i>becouse</i><c>because</c></NS> I am not famous!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

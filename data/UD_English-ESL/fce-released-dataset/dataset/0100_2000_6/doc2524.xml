@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1025*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Miss Helen Ryan</p>
+          <p>I am writing in reply to your letter. I am absolutely delighted with the news. It really took me by surprise<NS type="MP"><c>,</c></NS> this prize<NS type="RP"><i>,</i><c>.</c></NS> I didn't think I would be so lucky <NS type="MT"><c>as</c></NS> to win.</p>
+          <p>First of all, about your <NS type="IN"><i>enquires</i><c>enquiries</c></NS>, the only time suitable for me to travel is in July. The reason is that my academic year starts in August <NS type="S"><i>therefor</i><c>therefore</c></NS> I need to be here.</p>
+          <p>Secondly, I would rather stay in a tent<NS type="RP"><i>, there's</i><c>. There's</c></NS> no further reason <NS type="R"><i>is just</i><c>than</c></NS> that <NS type="MA"><c>it</c></NS> would be a new experience for me and I'm very excited about it.</p>
+          <p>I am very keen on photography so I <NS type="S"><i>definetely</i><c>definitely</c></NS> will choose this as one of my activities <NS type="RT"><i>during</i><c>at</c></NS> the camp. The other thing I'd love to do is sailing. I have got some experience already and I'm used to any weather conditions, furthermore I simply love <NS type="DN"><i>sea-sports</i><c>water sports</c></NS> and their <NS type="S"><i>chalenges</i><c>challenges</c></NS>.</p>
+          <p>Finally I'd like to ask you some questions, <NS type="RA"><i>there</i><c>which</c></NS> are mainly <NS type="MT"><c>about</c></NS> small details. I am not sure whether I will need some special clothes<NS type="RP"><i>, if</i><c>. If</c></NS> not what sort of clothes <NS type="W"><i>I should</i><c>should I</c></NS> bring, and also how much money roughly <NS type="W"><i>I will</i><c>will I</c></NS> need for my daily expenses. I would be very grateful for your help and advice in <NS type="AGD"><i>this</i><c>these</c></NS> matters.</p>
+          <p>Thanks for the wonderful news.</p>
+          <p>I'm looking forward to it.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>My dear friend<NS type="MP"><c>,</c></NS> I hope you are very well and just as happy as I am. You must remember me telling you about the pop concert<NS type="RP"><i>, well</i><c>. Well</c></NS> now that it's over I have time to tell you everything about it.</p>
+          <p>The concert was a huge success<NS type="RP"><i>, lots</i><c>. Lots</c></NS> of people came and enjoyed the music.</p>
+          <p>I am very proud of myself because of the way I managed the whole experience, although there were moments when I thought I wasn't going to be able to cope with all the pressure<NS type="RP"><i>. Especially</i><c>, especially</c></NS> when the musicians arrived<NS type="RP"><i>, they</i><c>. They</c></NS> can be very demanding people and sometimes they <NS type="TV"><i>came</i><c>come</c></NS> up with very odd requests. For example once they wanted mineral water of a certain French label<NS type="UP"><i>,</i></NS> which was impossible to get.</p>
+          <p>My tasks were very <NS type="IJ"><i><NS type="S"><i>especifics</i><c>specific</c></NS></i><c>specific</c></NS>. I had to help with the layout of the stage, which was very complicated, because there are so many cables, and <NS type="R">weir and</NS> things going on at the same time. After that part was <NS type="UP"><i>fully-functioning</i><c>fully functioning</c></NS> I moved on to work <NS type="U"><i>in the</i></NS> <NS type="RP"><i>back stage</i><c>backstage</c></NS>.</p>
+          <p>I really enjoyed working with those people<NS type="RP"><i>, they</i><c>. They</c></NS> are all very professional although they may look a bit eccentric sometimes. However, what I liked the most about it was seeing so many people dancing, jumping and enjoying frenetically <NS type="UT"><i>of</i></NS> something that I had been part of and helped to make <NS type="UA"><i>it</i></NS> <NS type="FV"><i>happened</i><c>happen</c></NS>.</p>
+          <p>Looking forward to hearing from you soon.</p>
+          <p>Best Wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

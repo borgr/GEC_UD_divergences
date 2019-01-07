@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR699*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>June. 13. 2000</p>
+          <p>Competition Organization.</p>
+          <p>Dear Sir or <NS type="S"><i>Madamme</i><c>Madam</c></NS>,</p>
+          <p><NS type="CE">I'd <NS type="S"><i>appriciate</i><c>appreciate</c></NS> for giving me</NS> the first prize in the competition. It's my pleasure to give you some information and I'd like to ask you about the Camp California.</p>
+          <p>First of all, I'd like to travel only in July because I'm supposed to be a volunteer <NS type="RT"><i>in</i><c>at</c></NS> the Music festival, held in August.</p>
+          <p>Additionally, I'd rather stay in tents as I've never slept in tents before. Therefore it'll be a great experience for me.</p>
+          <p>I'd like to choose swimming and photography as activities. I go swimming three times a week so I have no problem with swimming. I'm also <NS type="RD"><i>the</i><c>a</c></NS> member of <NS type="MD"><c>the</c></NS> photography club at my university and really keen on taking a picture of nature.</p>
+          <p>By the way, I'm wondering what kinds of clothes I should <NS type="RN"><i>prepare</i><c>pack</c></NS> and how much <NS type="R">much</NS> I should bring with <NS type="RA"><i>myself</i><c>me</c></NS>. I'll look forward to hearing answers from you.</p>
+          <p>Yours faithfully,</p>
+          <p>YEUN-Ja. HONG</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>The suggestion about making a short video.</p>
+          <p>Introduction</p>
+          <p>The aim of this report is to <NS type="S"><i>summerize</i><c>summarize</c></NS> the <NS type="FN"><i>result</i><c>results</c></NS> of the survey, which is about making a short video.</p>
+          <p>The survey was <NS type="RV"><i>done</i><c>carried out</c></NS> <NS type="RT">to</NS> 300 students, who are between 18-28, at our school.</p>
+          <p><NS type="DJ"><i>Prefered</i><c>Preferred</c></NS> lessons.</p>
+          <p><NS type="UD"><i>The</i></NS> 70% of students said that the acting lesson should be filmed as the students<NS type="UP"><i>,</i></NS> attending this lesson, are not only excited but also very active. Additionally, 15% of students answered <NS type="MC"><c>that</c></NS> they want the presentation lesson to be filmed. The reason why they choose this lesson is that every student in their turn <NS type="RT"><i>of</i><c>at</c></NS> presentation does his or her best.</p>
+          <p><NS type="DJ"><i>Prefered</i><c>Preferred</c></NS> activities.</p>
+          <p>The soccer game, played every Monday, was ranked <NS type="RT"><i>in</i><c>as</c></NS> the most <NS type="RJ"><i><NS type="SA"><i>favorite</i><c>favourite</c></NS></i><c>popular</c></NS> activity by 45% <NS type="MT"><c>of</c></NS> students. They said the soccer game <NS type="AGV"><i>enable</i><c>enables</c></NS> them to get together and have fun. However, the <NS type="L"><i>girls'd</i><c>girls would</c></NS> rather play table tennis or badminton. <NS type="DJ">Hicking</NS> activity was chosen by 20% <NS type="MT"><c>of</c></NS> students, followed by the soccer.</p>
+          <p>Conclusion.</p>
+          <p>To sum up, according to the survey, it's obvious that more than half of <NS type="MD"><c>the</c></NS> students want <NS type="MD"><c>the</c></NS> acting lesson to be filmed. Moreover, it seems that the students prefer the soccer <NS type="RN"><i>play</i><c>game</c></NS> to be filmed.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

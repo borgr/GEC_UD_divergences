@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1006*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you very much for your letter. I was really surprised and very happy when I read that I have won the first prize<NS type="RP"><i>. First</i><c>, first</c></NS> of all because I have never been to California and second because it's the first time I have ever won something.</p>
+          <p>The only time that <NS type="MA"><c>it</c></NS> is possible for me to travel is July, because I am working for a bank and this is the only month I can go on holiday.</p>
+          <p>For my stay in California I would prefer <NS type="R">the accommodation in tents</NS> because this gives me a feeling of freedom and adventure and it is quite different to my <NS type="DN"><i>live</i><c>life</c></NS> here in Greece.</p>
+          <p>The activities I would like <NS type="W"><i><NS type="SX"><i>mot</i><c>most</c></NS> to do</i><c>to do most</c></NS> are climbing and surfing. In my free time I have climbed a lot of mountains in the surrounding area so I can say<NS type="UP"><i>,</i></NS> that I am quite good <NS type="RT"><i>in</i><c>at</c></NS> climbing. But I have never 'surfed' in my <NS type="DN"><i>live</i><c>life</c></NS>, so that is an activity I have to <NS type="RV">learn</NS>.</p>
+          <p>Last but not least there are some things I would like to know: What kind of <NS type="S"><i>wheather</i><c>weather</c></NS> do you have in California? Is it very hot? What kind of clothes should I bring with me?</p>
+          <p>And what about money? How much money <NS type="RP"><i>Should</i><c>should</c></NS> I take with me? Are there any activities which are not included? And my last question: how many <NS type="L"><i>persons</i><c>people</c></NS> are going to stay in each tent.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Yours sincerely<NS type="MP"><c>,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Many people, especially women, love shopping. If you go to the centre of <NS type="RQ"><i>every</i><c>any</c></NS> big town you will see people walking from store to store searching for something to wear or to buy to eat. But shopping is not always enjoyable.</p>
+          <p>First of all because of the <NS type="RJ"><i>big</i><c>great</c></NS> variety in the store<NS type="RP"><i>. Very</i><c>, very</c></NS> often you don't know what to buy because we don't have only three or four different <NS type="DJ"><i>sport</i><c>sports</c></NS> shoes to choose from, <NS type="SX"><i>not</i><c>no</c></NS>, we have to choose out of twenty or thirty such as Nike, <NS type="RP"><i>adidas</i><c>Adidas</c></NS> or Fila.</p>
+          <p>And very often you have to pay a lot of money for the product you want.</p>
+          <p>Another <NS type="RN"><i>cause</i><c>problem</c></NS> is that shops and stores are often overcrowded. Very often you can hardly move because of the crowds of people.</p>
+          <p>And many people are in a hurry, so don't <NS type="RV"><i>wonder</i><c>be surprised</c></NS> if other people <NS type="X"><i>have not</i><c>do not have</c></NS> <NS type="MD"><c>the</c></NS> tolerance and patience to wait and hit you with their shopping <NS type="RN"><i>cars</i><c>trolleys</c></NS>.</p>
+          <p>Of course there are a lot of other <NS type="RN"><i>causes</i><c>reasons</c></NS> why shopping isn't always great fun, but the last <NS type="RN"><i>cause</i><c>reason</c></NS>, which is very important for me<NS type="MP"><c>,</c></NS> is that shopping is becoming more and more impersonal. That means that there are more and more big supermarkets and big stores, where <NS type="RP"><i>noone</i><c>no one</c></NS> has time for you to <NS type="RV"><i>show</i><c>help</c></NS> you or explain things to you such as what kind of bicycle is the best for <NS type="RA"><i>me</i><c>you</c></NS>, no one to talk to and <NS type="RP"><i>noone</i><c>no one</c></NS> to <NS type="S"><i>complaine</i><c>complain</c></NS> <NS type="MT"><c>to</c></NS>. That is the most important reason why I only like to go shopping in <NS type="RJ"><i>little</i><c>small</c></NS> stores, where I have peace and quiet and very often nothing to <NS type="S"><i>complaine</i><c>complain</c></NS> about.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

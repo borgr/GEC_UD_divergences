@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR531*0100*2000*02">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>21.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>12th December 2000</p>
+          <p>Dear <NS type="RP"><i>Mister</i><c>Mr</c></NS> Robertson,</p>
+          <p>The whole class and I would like to thank you for the good <NS type="S"><i>programm</i><c>programme</c></NS><NS type="UP"><i>,</i></NS> which you have organised for our trip to London.</p>
+          <p>The reason why I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you is the class and I have seen an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the London Fashion and Leisure Show on Tuesday<NS type="MP"><c>,</c></NS> March 14 from 10.00 am - <NS type="R"><i>19</i><c>7</c></NS>.00 p.m. It is a show about <NS type="MD"><c>the</c></NS> latest fashions, leisure and <NS type="RP"><i>sports wear</i><c>sportswear</c></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. We all are interested in <NS type="FN"><i>fashions</i><c>fashion</c></NS> and hairstyles and it is a great <NS type="S"><i>oppurtunity</i><c>opportunity</c></NS> for <NS type="SX"><i>as</i><c>us</c></NS> because students <NS type="TV"><i>have not</i><c>do not have</c></NS> to pay and we will know what we can buy on our shopping tour. I would like to suggest <NS type="MT"><c>to</c></NS> you how the <NS type="S"><i>programm</i><c>programme</c></NS> could be changed. Instead of a shopping tour on Tuesday afternoon<NS type="MP"><c>,</c></NS> we could go to the show and do the shopping on <NS type="S"><i>Wedensday</i><c>Wednesday</c></NS> afternoon in our free time. What <NS type="TV"><i>are you thinking</i><c>do you think</c></NS> about this <NS type="S"><i>suggesten</i><c>suggestion</c></NS>?</p>
+          <p>I hope you will <NS type="S"><i>unterstand</i><c>understand</c></NS> <NS type="R">this kind of matter</NS><NS type="MP"><i> <NS type="UC"><i>and</i></NS> the</i><c>. The</c></NS> class and I <NS type="MV"><c>are</c></NS> looking forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>In the next few years <NS type="UD"><i>the</i></NS> people's <NS type="FN"><i>home</i><c>homes</c></NS> will be <NS type="FV"><i>changes</i><c>changing</c></NS> a lot. <NS type="MD"><i>First</i><c>The first</c></NS> point <NS type="MV"><c>is</c></NS> we will use more often new technologies like <NS type="IN"><i>telecommunication</i><c>telecommunications</c></NS> or <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. In the future <NS type="CE">they both getting closer and closer</NS>. That means for <NS type="S"><i>exampel</i><c>example</c></NS><NS type="MP"><c>,</c></NS> while you are sitting in the office you are able to <NS type="S"><i>controll</i><c>control</c></NS> your home with the computer. You can open and close the windows and switch the light on and off. Your freezer tells you when you have to buy some milk, eggs or <NS type="S"><i>chees</i><c>cheese</c></NS>. Or<NS type="MP"><c>,</c></NS> <NS type="RY"><i>never</i><c>without</c></NS> <NS type="RV"><i>living</i><c>leaving</c></NS> the office<NS type="MP"><c>,</c></NS> you are able to heat the <NS type="S"><i>wather</i><c>water</c></NS> for a hot bath. So in fact people's <NS type="FN"><i>home</i><c>homes</c></NS> <NS type="TV"><i>became</i><c>will become</c></NS> more <NS type="S"><i>confienence</i><c>convenient</c></NS> and <NS type="IJ"><i>comfortabler</i><c>more comfortable</c></NS>. I think also <NS type="IN"><i>housewifes</i><c>housewives</c></NS> will receive more help with a <NS type="DN"><i>robotor</i><c>robot</c></NS> in the <NS type="RN"><i>household</i><c>home</c></NS>. But the form and the rooms of a building will still be the same. And of course the <NS type="CN"><i>furnitures</i><c>furniture</c></NS> of people's <NS type="FN"><i>home</i><c>homes</c></NS> will not change <NS type="RY"><i>as well</i><c>either</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

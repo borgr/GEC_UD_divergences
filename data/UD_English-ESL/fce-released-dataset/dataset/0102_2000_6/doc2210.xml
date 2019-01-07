@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR892*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing in connection with the musical show your theatre company has <NS type="RV"><i>presented</i><c>put on</c></NS> recently, and, I want you to know, it has really disappointed me.</p>
+          <p>To begin with, the actor the advertisement showed did not <NS type="RV"><i>come</i><c>appear</c></NS>, which I found <NS type="UA"><i>it</i></NS> <NS type="ID"><i>in very bad taste</i><c>very rude</c></NS>, <NS type="MC"><c>and</c></NS> disappointing. Moreover, the show started at a quarter past eight, forty-five minutes later than it <NS type="RV"><i>might</i><c>should</c></NS> have <NS type="UV"><i>been</i></NS>. I paid twenty pounds for my ticket because, as you may know, there were not <NS type="MQ"><c>any</c></NS> discounts available. It is for this reason<NS type="UP"><i>,</i></NS> I think you should <NS type="RV"><i>return</i><c>give</c></NS> me some money back.</p>
+          <p>To sum up, I would like to make my point about what happened in the restaurant after <NS type="R"><i>that</i><c>the show</c></NS>.</p>
+          <p>It was closed because its owner had decided to go on holiday. However, nobody told me. I think you <NS type="R"><i>would have to take it into consideration</i><c>have to do something about this</c></NS> to avoid it <NS type="FV"><i>happens</i><c>happening</c></NS> again.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. If I had know it before, I would <NS type="W"><i>have never</i><c>never have</c></NS> told her, because then<NS type="UP"><i>,</i></NS> <NS type="RA"><i>that</i><c>it</c></NS> was really important for me, but, anyway, <NS type="RY"><i>presently</i><c>now</c></NS>, it doesn't really matter <NS type="MT"><c>to</c></NS> me.</p>
+          <p><NS type="ID"><i>By the time</i><c>At the time</c></NS>, Pat and <NS type="RA"><i>me</i><c>I</c></NS> had a close relationship. I <NS type="RV"><i>explained</i><c>told</c></NS> her everything <NS type="RA"><i>it</i><c>that</c></NS> happened to me and vice versa. We had many <NS type="RN"><i>points</i><c>things</c></NS> in common and we knew each other as if we were sisters.</p>
+          <p>However, one day our friendship was broken <NS type="UY"><i>down</i></NS>. I told her I was falling in love with my best friend and she decided to <NS type="RV"><i>explain</i><c>tell</c></NS> <NS type="UA"><i>it</i></NS> everybody in our <NS type="RN">group</NS>, despite knowing that <NS type="MA"><c>it</c></NS> must <NS type="RV"><i>be</i><c>stay</c></NS> a secret. When I met Caballos, my best friend, I felt <NS type="S"><i>embarassd</i><c>embarrassed</c></NS> and disappointed and I couldn't say anything. I was at a loss. Now I wish all of this had never happened, while I try to forget it<NS type="MP"><c>,</c></NS> laughing with Caballos and Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

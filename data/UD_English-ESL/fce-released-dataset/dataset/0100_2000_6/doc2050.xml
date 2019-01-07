@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR760*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>Dear Madam,</p>
+          <p>I am writing in response to your letter, in which you told me I am the winner in your competition, and my intention is to try to give you all the information you may need <NS type="U"><i>according to your letter</i></NS>.</p>
+          <p>I would like to travel in July because I <NS type="TV"><i>had</i><c>have</c></NS> another trip<NS type="MP"><c>,</c></NS> to Spain<NS type="MP"><c>,</c></NS> in August, <NS type="RA"><i>that</i><c>which</c></NS> is the perfect month for me, otherwise I would not travel to Spain.</p>
+          <p>About accommodation, I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> instead of <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> and the reason is I have never used tents and this could be a very exciting experience for me.</p>
+          <p>The two activities which I <NS type="RV"><i>find</i><c>think</c></NS> <NS type="MV"><c>would be</c></NS> <NS type="FJ"><i>better</i><c>best</c></NS> for me are swimming and sailing. I love the sea, <NS type="RA"><i>that</i><c>which</c></NS> is why I became interested in those activities <NS type="R"><i>since</i><c>when</c></NS> I was ten<NS type="RP"><i>, therefore</i><c>. Therefore</c></NS> I have a lot of experience in both.</p>
+          <p>Could you give me some advice about the weather in California?</p>
+          <p>Thank you very much for everything.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>ION GAYARRE</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p>Thank you for asking about my latest good experience<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="MV"><c>will</c></NS> let you know what the important details <NS type="TV"><i>were</i><c>are</c></NS>.</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> I helped at a pop concert last month<NS type="RP"><i>,</i><c>.</c></NS> I did things as unusual <NS type="RT"><i>in</i><c>for</c></NS> me as cleaning instruments, <NS type="FV"><i>organise</i><c>organising</c></NS> people, and also <NS type="FV"><i>look</i><c>looking</c></NS> after the <NS type="W"><i>clothes of the artists</i><c>artists' clothes</c></NS>. In fact everything was very easy, the instruments were already clean, and with the clothes my job was only <NS type="FV"><i>wait</i><c>to wait</c></NS> there and give them what they asked for. <NS type="FV"><i>Organise</i><c>Organising</c></NS> people involved<NS type="UT"><i>,</i></NS> just a couple of things, <NS type="RV"><i><NS type="FV"><i>say to</i><c>saying to</c></NS></i><c>telling</c></NS> people how to do the same as me and when.</p>
+          <p>The most exciting <NS type="AGN"><i>thing</i><c>things</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> to be able to speak to the singers, the whole environment, and of course to <NS type="UD"><i>the</i></NS> listen to the Concert <NS type="RT"><i>in</i><c>from</c></NS> the very first <NS type="RN"><i>position</i><c>row</c></NS>.</p>
+          <p>All that I can say now is that I would do it again<NS type="RP"><i>,</i><c>.</c></NS> I will never forget that day.</p>
+          <p>Looking forward to seeing you,</p>
+          <p>Best Wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

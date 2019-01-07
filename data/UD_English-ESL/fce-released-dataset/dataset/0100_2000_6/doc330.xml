@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR137*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I am writing to you in reply to your letter about my <NS type="RN"><i>willing</i><c>winning</c></NS> the first prize in your competition.</p>
+          <p>First of all, I would like to thank the jury for <NS type="FV"><i>chosen</i><c>choosing</c></NS> my work from all the competitors.</p>
+          <p>Next, I would like to find out some details about the camp. I need to know if my travel will take place in August. If I had known that I <NS type="TV"><i>won</i><c>would win</c></NS>, I would not have arranged my <NS type="RP"><i>english</i><c>English</c></NS> course in Britain. <NS type="R">Before.</NS> The next point is the accommodation. You mentioned that it will be in tents or log cabins. I would prefer staying in tents. I am very close to <NS type="UD"><i>the</i></NS> nature, so it will be a pleasure for me.</p>
+          <p>What's more, your letter said about the chance to do <NS type="UT"><i>for</i></NS> two <NS type="S"><i>acctivities</i><c>activities</c></NS> during the camp. I am very interested in tennis, but I am also very good at photography. It has been my hobby since I was a child. I have even won <NS type="MD"><c>a</c></NS> <NS type="S"><i>competion</i><c>competition</c></NS> once. That is why I would like to continue doing this at the camp.</p>
+          <p>Finally, I would like to ask about other things like: clothes, money, guide. I would like to know if the ,,travel costs'' which you had paid <NS type="UT"><i>for</i></NS> include entrance tickets to the <NS type="UP"><i>museums'</i><c>museums</c></NS> or any other cultural places, because I would like to <NS type="MV"><c>do</c></NS> some sightseeing in the U.S.A. Furthermore, if there will be <NS type="R">cmy</NS> <NS type="S"><i>tumple</i><c>tumble</c></NS> dryer or washing <NS type="S"><i>maschine</i><c>machine</c></NS> to clean our clothes and if there will be a guide who will be responsible for us and the camp.</p>
+          <p>I am looking forward to hearing from you</p>
+          <p>Yours sincerely</p>
+          <p>A. Adamski.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Generally, most people like shopping, but there are some advantages and disadvantages.</p>
+          <p>When <NS type="S"><i>discribing</i><c>describing</c></NS> the advantages, we should remember that most people like doing shopping. It is very pleasant when you are looking for something special or for special occasions like wedding, birthday, <NS type="MC"><c>or</c></NS> Christmas presents. Next, it can be very good for your wallet to save some money, when you <NS type="UV"><i>will</i></NS> find a bargain or sales. As well as that, some <NS type="DN"><i>shop-assistance</i><c>shop assistants</c></NS> can give you a lower price, because you always do shopping at their shop. What is more, most people cannot live without shopping. It is their way to spend free time.</p>
+          <p>On the other hand, there are some minuses. <NS type="ID"><i>On top of that</i><c>Above all</c></NS>, shopping is very tiring and exhausting. Walking from shop to shop carrying heavy bags, takes much of your time. Instead of that you could do more interesting things<NS type="RP"><i>.</i><c>,</c></NS> such as playing sports or reading a book. Besides that, shopping <NS type="R">steal you from money</NS>. Very often people go to a shop - usually a big <NS type="S"><i>departament</i><c>department</c></NS> store and buy things which they do not need.</p>
+          <p>In my opinion shopping is very tiring and I usually try to avoid doing it. When I have to, I do it, but I think we waste too much time on it <NS type="U"><i>that we should</i></NS>. On balance some people still like shopping even if it is not always enjoyable and they have to stand in a long queue to buy something. From my point of view it <NS type="S"><i>depands</i><c>depends</c></NS> on us <NS type="RC"><i>if</i><c>whether</c></NS> shopping will be enjoyable or not.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

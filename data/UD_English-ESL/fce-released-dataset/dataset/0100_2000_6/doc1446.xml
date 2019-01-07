@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR560*0100*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Thank you very much for your nice letter which informed me <NS type="MC"><c>that</c></NS> <NS type="MA"><c>I</c></NS> <NS type="TV"><i>to have</i><c>have</c></NS> won first prize in <NS type="RD"><i>my</i><c>your</c></NS> competition.</p>
+          <p><NS type="S"><i>I'am</i><c>I'm</c></NS> really <NS type="RJ"><i>surprising</i><c>surprised</c></NS> and happy about it.</p>
+          <p>In your letter you <NS type="R"><i>needed</i><c>asked</c></NS> <NS type="MT"><c>for</c></NS> some <NS type="CN"><i>informations</i><c>information</c></NS> about me. Unfortunately, I <NS type="RV"><i>have</i><c>can</c></NS> only <NS type="U"><i>the possibility</i></NS> <NS type="FV"><i>to travel</i><c>travel</c></NS> in July because in August I will start a new job for six months. <NS type="CE">I won't be free, however all July I am at home</NS>.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> <NS type="CN"><i>accommodations</i><c>accommodation</c></NS> at this camp, I would prefer <NS type="RV"><i>being</i><c>staying</c></NS> in a tent to <NS type="RV"><i>being</i><c>staying</c></NS> in a log cabin. It is more <NS type="L"><i>amusing</i><c>fun</c></NS> and <NS type="RJ"><i><NS type="FJ"><i>friendly</i><c>friendlier</c></NS></i><c>more sociable</c></NS>. It will allow me to make friends more quickly.</p>
+          <p>Two of my <NS type="RJ"><i>best</i><c>favourite</c></NS> activities are swimming and photography. The first one <NS type="M"><c>of these</c></NS> <NS type="R">is a needless for me</NS>. I go <NS type="W"><i>every day swimming</i><c>swimming every day</c></NS> <NS type="M"><c>and swim</c></NS> one <NS type="RP"><i>Mile</i><c>mile</c></NS>. <NS type="UD"><i>The last</i><c>Last</c></NS> summer I won a prize in <NS type="W"><i>competition of swimming</i><c>a swimming competition</c></NS>. The second <NS type="R"><i>one</i><c>activity</c></NS> is more <NS type="MT"><c>of</c></NS> a hobby. I like <NS type="FV"><i>go</i><c>to go</c></NS> <NS type="R"><i>in nature</i><c>to the countryside</c></NS> and <NS type="RV"><i>make</i><c>take</c></NS> <NS type="RN"><i>photography</i><c>photographs</c></NS>. I started <NS type="UT"><i>it</i></NS> two months ago. I don't have any <NS type="RN"><i>material</i><c>equipment</c></NS>.</p>
+          <p>Could you tell me if you <NS type="RV"><i>would</i><c>could</c></NS> lend me some <NS type="W"><i><NS type="RN"><i>material</i><c>equipment</c></NS> for photography</i><c>photographic equipment</c></NS>?</p>
+          <p>What sort of clothes will I need for these two weeks?</p>
+          <p>How much money <NS type="TV"><i>will</i><c>should</c></NS> I take with me?</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+          <p>Henri Devereux</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm so happy <NS type="RT"><i>with</i><c>about</c></NS> the experience I <NS type="RV"><i>lived</i><c>had</c></NS> last month.</p>
+          <p>I told you that I <NS type="TV"><i>have helped</i><c>helped</c></NS> at a pop concert last month. <NS type="RA"><i>I</i><c>It</c></NS> was really great.</p>
+          <p><NS type="RY"><i>Firstly</i><c>First</c></NS> I was <NS type="RN"><i>designed</i><c>chosen</c></NS> to sell the tickets. I was <NS type="RY"><i>already</i><c>really</c></NS> happy to help <NS type="RT"><i>in</i><c>at</c></NS> <NS type="R"><i>such a big concert than the Mylene Farmer's concert</i><c>a concert as big as Mylene Farmer's</c></NS>.</p>
+          <p>I was starting to sell the tickets when <NS type="R"><i>a person who organised</i><c>an organiser</c></NS> told me to go into the <NS type="RN"><i>lodge</i><c>dressing room</c></NS>. They needed one person <NS type="UT"><i>for</i></NS> <NS type="FV"><i>putting</i><c>to put</c></NS> the clothes into a wardrobe. It was the <NS type="RN"><i>lodge</i><c>dressing room</c></NS> of Mylene Farmer. <NS type="ID"><i>Are you thinking</i><c>What do you think of that</c></NS>? I was so <NS type="RJ"><i>exciting</i><c>excited</c></NS>! Unfortunately, I didn't see her but it allowed me to talk with her manager<NS type="MP"><c>,</c></NS> John<NS type="MP"><c>,</c></NS> and her musicians. <NS type="MA"><c>They</c></NS> <NS type="W"><i><NS type="RP"><i>All</i><c>all</c></NS> were</i><c>were all</c></NS> very <NS type="L"><i>kindly</i><c>kind</c></NS> and pleasant. It was a big moment for me. <NS type="UY"><i>Finally these</i><c>These</c></NS> people are like us, they <NS type="W"><i>have just</i><c>just have</c></NS> a special job with <NS type="R">special times</NS>. <NS type="UD"><i>The next</i><c>Next</c></NS> year, if it <NS type="TV"><i>will be</i><c>is</c></NS> possible, I would like go back with you. They will organise <NS type="RD"><i>a</i><c>the</c></NS> same <NS type="W"><i>concert pop</i><c>pop concert</c></NS> but with <NS type="RP"><i>an other</i><c>another</c></NS> singer. I look forward to hearing from you soon.</p>
+          <p>Love,</p>
+          <p>Henri</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

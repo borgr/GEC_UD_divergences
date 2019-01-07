@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR629*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Santigo, June 17th, 2000</p>
+          <p>Mr. Manager of the Circle Theatre,</p>
+          <p>While I was staying in London, I went to see one of your musical shows, "Over The Rainbow", because I had read the <NS type="SX"><i>add</i><c>ad</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the newspaper, and I thought it would be an interesting experience. Let me tell you now how everything really was.</p>
+          <p>One of the <NS type="AGN"><i>reason</i><c>reasons</c></NS> I went to see that particular show<NS type="UP"><i>,</i></NS> was the starring actor<NS type="MP"><c>,</c></NS> announced in the <NS type="SX"><i>add</i><c>ad</c></NS><NS type="UP"><i>,</i></NS> <NS type="MV"><c>to be</c></NS> Danny Brook, but when the show actually started, <NS type="RT"><i>with</i><c>after</c></NS> <NS type="MP"><i>forty five</i><c>forty-five</c></NS> <NS type="MP"><i>minutes</i><c>minutes'</c></NS> delay, I realized that Danny Brook was not in the play. The <NS type="SX"><i>add</i><c>ad</c></NS> also mentioned discounts, but that wasn't true either. After the play, which turned out to be just as bad as I thought, I wanted to relax in the Theatre Restaurant, but it was closed, and for no reason!</p>
+          <p>It is for these reasons that I expect a full refund of the ticket <NS type="RN"><i>prize</i><c>price</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> is my right as a paying customer to get what I have paid for. Looking forward to hearing from you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>We can hardly imagine life without <NS type="S"><i>compures</i><c>computers</c></NS>, <NS type="UP"><i>T.V.</i><c>TV</c></NS> sets, microwaves, and so many other things, and yet<NS type="UP"><i>,</i></NS> none of these things existed seventy years ago. I think that the life we live is easier than <NS type="M"><c>the life</c></NS> our parents <NS type="MV"><c>lived</c></NS>, thanks to technology. We can do things our grandparents could only dream of. <NS type="MD"><c>The</c></NS> Internet, I think, is one of the most important inventions in the history of humanity. My life has not been affected or changed by technology, because when I was born, most of the things that I use in my daily life already existed. But technology is becoming more and more complicated, and new things are invented every day, so I think that our <NS type="AGN"><i>life</i><c>lives</c></NS> will be completely different in forty years. And, since all these new things only make our <NS type="AGN"><i>life</i><c>lives</c></NS> easier, technology is welcome.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

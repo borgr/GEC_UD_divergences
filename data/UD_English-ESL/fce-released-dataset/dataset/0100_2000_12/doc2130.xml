@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR860*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you about our <NS type="RN"><i>journey</i><c>trip</c></NS> which you have <NS type="UY"><i>already</i></NS> <NS type="S"><i>orginesed</i><c>organised</c></NS>.</p>
+          <p>First of all, thank you for <NS type="RD"><i>your</i><c>the</c></NS> <NS type="RJ">good</NS> programme. We saw <NS type="RD"><i>your</i><c>the</c></NS> details and <NS type="RV"><i>enjoyed</i><c>were</c></NS> <NS type="M"><c>pleased with</c></NS> them<NS type="RP"><i>. Especially</i><c>, especially</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>River</i><c>river</c></NS> trip to Greenwich and visiting <NS type="MD"><c>the</c></NS> National Art Gallery.</p>
+          <p>All the students in my class are excited about one more thing. We saw an advertisement <NS type="RT"><i>about</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> Fashion And Leisure Show. It will be at <NS type="MD"><c>the</c></NS> Central Exhibition Hall, London. The date is Tuesday March 14. The show <NS type="R"><i>can be seen between</i><c>is open</c></NS> 10.00 - 19.00. This show is about <NS type="MD"><c>the</c></NS> latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="RP"><i>Hairstyles</i><c>hairstyles</c></NS>. One more thing about <NS type="MD"><c>the</c></NS> show is<NS type="UP"><i>,</i></NS> <NS type="MC"><c>that</c></NS> it's free for students. Isn't it a <NS type="RJ"><i>big</i><c>great</c></NS> opportunity for us?</p>
+          <p>As you know, there is <NS type="R"><i>a</i><c>some</c></NS> free time in your programme<NS type="MP"><i> if</i><c>. If</c></NS> you don't mind, we can go <NS type="UT"><i>for</i></NS> shopping in this free time. This <NS type="DN"><i>changing</i><c>change</c></NS><NS type="UP"><i>,</i></NS> <NS type="TV"><i>give</i><c>would give</c></NS> us <NS type="RD"><i>an</i><c>the</c></NS> opportunity to go to <NS type="MD"><c>the</c></NS> show on Tuesday afternoon.</p>
+          <p>We hope you <NS type="UD"><i>an</i></NS> accept our suggestion. It <NS type="TV"><i>will</i><c>would</c></NS> make us so happy.</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DY"><i>Sincerally</i><c>Sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>A PRIVATE LIFE</p>
+          <p>All people have some difficulties <NS type="RT"><i>about</i><c>with</c></NS> their <NS type="FN"><i>job</i><c>jobs</c></NS> but some <NS type="U"><i>of them</i></NS> have more than <NS type="UD"><i>the</i></NS> others. <NS type="MD"><i>Reason</i><c>The reason</c></NS> for this<NS type="UP"><i>;</i></NS> <NS type="M"><c>is that</c></NS> they are famous and everybody wants to <NS type="RV"><i>learn</i><c>know</c></NS> about them.</p>
+          <p>Having a private life is important for everybody. I think<NS type="UP"><i>,</i></NS> people want this. <NS type="RP"><i>if</i><c>If</c></NS> you are a famous person, for example <NS type="MD"><c>a</c></NS> singer, film star, politician or <NS type="DJ"><i>well-know</i><c>well-known</c></NS> footballer, you haven't <NS type="FV"><i>get</i><c>got</c></NS> any choice. Because people want to learn <NS type="W"><i>about you everything</i><c>everything about you</c></NS><NS type="RP"><i>.</i><c>,</c></NS> <NS type="UC"><i>so</i></NS> journalists <NS type="TV"><i>are following</i><c>follow</c></NS> you all the time.</p>
+          <p>I know<NS type="UP"><i>,</i></NS> they are not like us. They are famous, but I think they need to be alone sometimes. They <NS type="S"><i>nead</i><c>need</c></NS> to be with their family in <NS type="RN"><i>silence</i><c>peace</c></NS>. This is important for everybody and I think this is important for them, too.</p>
+          <p>I think <NS type="MD"><c>the</c></NS> media must be more understanding. We don't have to <NS type="RV"><i>learn</i><c>know</c></NS> <NS type="MT"><c>about</c></NS> their every second. We have to remember that<NS type="UP"><i>,</i></NS> they need a private life like us. We can love them without disturbing <NS type="MA"><c>them</c></NS> too.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

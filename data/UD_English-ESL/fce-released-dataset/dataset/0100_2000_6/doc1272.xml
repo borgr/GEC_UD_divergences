@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR527*0100*2000*01">
+  <candidate><personnel><language>Dutch</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I am writing to you to give you some further information about the competition I won. I am very pleased that I won your competition.</p>
+          <p>First of all I would like to travel in July because I <NS type="TV"><i>already made</i><c>have already made</c></NS> an arrangement with my boss about my free days.</p>
+          <p>I would prefer to sleep in <NS type="FD"><i>an</i><c>a</c></NS> log cabin. I am not <NS type="SX"><i>just</i><c>used</c></NS> to sleeping in <NS type="FD"><i>an</i><c>a</c></NS> tent and I think it <NS type="RV"><i><NS type="SX"><i><NS type="S"><i>mabey</i><c>maybe</c></NS></i><c>may</c></NS></i><c>might</c></NS> <NS type="S"><i>ruen</i><c>ruin</c></NS> my holiday. I hope it's possible to sleep in a log cabin but if it's not, you can also put me in <NS type="FD"><i>an</i><c>a</c></NS> tent.</p>
+          <p>The two activities I would like to choose are<NS type="UP"><i>:</i></NS> <NS type="RP"><i>Photography</i><c>photography</c></NS> and <NS type="RP"><i>Surfing</i><c>surfing</c></NS>. <NS type="W"><i>Photography I never <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="RV"><i>took</i><c>got</c></NS> <NS type="MQ"><c>any</c></NS> <NS type="S"><i>pratice</i><c>practice</c></NS> in</i><c>I never really got any practice in photography</c></NS><NS type="RP"><i>, yes</i><c>. Yes</c></NS> I have <NS type="RV"><i>made</i><c>taken</c></NS> some holiday pictures but I would like to learn more about this. So I am not very good <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RP"><i>Photography</i><c>photography</c></NS>.</p>
+          <p>Surfing is my passion. I live <NS type="RJ"><i>nearby</i><c>near</c></NS> a beach and whenever I have the time I <NS type="SX"><i>grape</i><c>grab</c></NS> my <NS type="S"><i>bord</i><c>board</c></NS> and go surfing. I would like to have a surfing contest with other surfing nerds, if it's possible. I would like to know if I have to bring my own wetsuit for surfing and how much money do you think I need?</p>
+          <p>I am <NS type="DY"><i>realy</i><c>really</c></NS> looking forward to this holiday. I hope I have <NS type="RV"><i>informed</i><c>told</c></NS> you enough.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? I'm doing great <NS type="UY"><i><NS type="S"><i>esspecially</i><c>especially</c></NS></i></NS> after my experience <NS type="UT"><i>with</i></NS> helping at <NS type="MD"><c>a</c></NS> pop concert. It was fantastic. You also would have liked <NS type="MA"><c>it</c></NS> very much.</p>
+          <p>I had to help <NS type="CN"><i><NS type="RP"><i>back stages</i><c>backstages</c></NS></i><c>backstage</c></NS>. I had to <NS type="RV"><i>take care of</i><c>make sure</c></NS> that every artist went in the right dressing room and not in someone <NS type="MP"><i>elses</i><c>else's</c></NS>.</p>
+          <p>Every artist could scream at me whenever they wanted. The <NS type="RJ"><NS type="DJ"><i>realy</i><c>real</c></NS></NS> thing was that I had to look after them because without me they would have been lost. That was a good feeling for me. I had to tell them when they had to go on <NS type="FN"><i>stages</i><c>stage</c></NS><NS type="R"><i>. What</i><c> and what</c></NS> kind of clothes they <NS type="RV"><i>shoot</i><c>should</c></NS> wear. I also had to give them drinks and food and help them to relax whenever they were nervous.</p>
+          <p>The thing I <NS type="DY"><i>realy</i><c>really</c></NS> liked<NS type="UP"><i>,</i></NS> was helping the artists and talking to them. <NS type="RY"><NS type="S"><i>Oke</i><c>Okay</c></NS></NS>, they screamed at me all the time because they were nervous and excited about their concert.</p>
+          <p>Afterwards they <NS type="TV"><i>talk</i><c>talked</c></NS> to me and <NS type="TV"><i>thanking</i><c>thanked</c></NS> me for helping them in those exciting moments. I <NS type="DY"><i>realy</i><c>really</c></NS> got to know them after the concert. They also took me to <NS type="FD"><i>a</i><c>an</c></NS> <NS type="DJ"><i>after hour</i><c>after-hours</c></NS> party and they asked me if <NS type="MA"><c>I</c></NS> would like to do this again. And of course I immediately said <NS type="RP"><i>Yes</i><c>yes</c></NS>!!</p>
+          <p><NS type="S"><i>Mabey</i><c>Maybe</c></NS> next time you can come with me<NS type="MP"><i> that</i><c>. That</c></NS> would be a lot of fun.</p>
+          <p><NS type="R"><i>The</i><c>They</c></NS> will call me next week, so I <NS type="TV"><i>write</i><c>will write</c></NS> when I <NS type="TV"><i>talk</i><c>have talked</c></NS> to them.</p>
+          <p>Talk to you soon.</p>
+          <p>love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

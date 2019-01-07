@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR900*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>31-40</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>To Competition Organiser</p>
+          <p>Helen Ryan</p>
+          <p>Thank you for choosing me in your competition for first prize. I feel very happy <NS type="R"><i>a</i><c>and</c></NS> I <NS type="MV"><c>must</c></NS> <NS type="AS"><i>answer <NS type="S"><i>immidiatly</i><c>immediately</c></NS> to your letter</i><c>answer your letter immediately</c></NS>.</p>
+          <p>I would like to travel only in July, because I will have <NS type="MD"><c>a</c></NS> holiday <NS type="MT"><c>at</c></NS> that time. I'm always having holidays in July<NS type="MP"><i> it</i><c>. It</c></NS> is my <NS type="SA"><i>favorite</i><c>favourite</c></NS> time for holidays.</p>
+          <p>For accommodation at Camp California I prefer tents, because I <NS type="TV"><i>use</i><c>used</c></NS> to <NS type="RV"><i>go</i><c>stay</c></NS> <NS type="MT"><c>in</c></NS> tents <NS type="M"><c>when on</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I like it.</p>
+          <p>From <NS type="MD"><c>the</c></NS> activities which you offer <NS type="UT"><i>to</i></NS> me I choose swimming and tennis. I am very good <NS type="RT"><i>in</i><c>at</c></NS> swimming. I <NS type="TV"><i>do</i><c>have done</c></NS> this sport since I was <NS type="MD"><c>a</c></NS> child and I really enjoy it. I'm not so good <NS type="RT"><i>in</i><c>at</c></NS> tennis but I would like to play it <NS type="R"><i>for</i><c>to get some</c></NS> <NS type="DN"><i>practise</i><c>practice</c></NS>. Also I find that <NS type="R"><i>it</i><c>this</c></NS> sport is very <NS type="RJ"><i><NS type="DJ"><i>usefull</i><c>useful</c></NS></i><c>good</c></NS> for my health and <NS type="RV"><i>does</i><c>makes</c></NS> me feel better. <NS type="R">It is all about me</NS>.</p>
+          <p>I would like to ask you something.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, <NS type="RA"><i>which</i><c>what</c></NS> kind of clothes <NS type="MV"><c>do</c></NS> I need <NS type="FV"><i>take</i><c>to take</c></NS> with me, because I don't know anything about the weather in California, and <NS type="R">at tend</NS> how much money <NS type="W"><i>I will</i><c>will I</c></NS> need<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Some people <NS type="AGV"><i>likes</i><c>like</c></NS> to <NS type="RV"><i>do</i><c>go</c></NS> shopping. I hate it. I <NS type="TV"><i>never liked</i><c>have never liked</c></NS> shopping. It <NS type="TV"><i>always was</i><c>has always been</c></NS> <NS type="MD"><c>a</c></NS> <NS type="RN"><i>trouble</i><c>problem</c></NS> for me.</p>
+          <p>I don't like to have many things in my house<NS type="RP"><i>,</i><c>.</c></NS> I don't like to have many clothes and shoes, and I don't know what else. Just <NS type="MD"><c>the</c></NS> <NS type="S"><i>nesseccary</i><c>necessary</c></NS>.</p>
+          <p>I think the people who <NS type="TV"><i>are enjoying</i><c>enjoy</c></NS> shopping <NS type="UA"><i>they</i></NS> are <NS type="S"><i>greede</i><c>greedy</c></NS> for materialistic things and they <NS type="S"><i>havn't</i><c>haven't</c></NS> <NS type="MQ"><c>any</c></NS> interests <NS type="RT"><i>for</i><c>in</c></NS> <NS type="MD"><c>the</c></NS> spirit (?), <NS type="M"><c>in the</c></NS> <NS type="DJ"><i><NS type="S"><i>intelect</i><c>intellect</c></NS></i><c>intellectual</c></NS> life. They are <NS type="RV"><i><NS type="RV"><i>loosing</i><c>losing</c></NS></i><c>wasting</c></NS> time <NS type="RT"><i>of</i><c>in</c></NS> their life for nothing. In my opinion we must spend more time <NS type="RT"><i>for</i><c>on</c></NS> more interesting <NS type="W"><i>than shopping things</i><c>things than shopping</c></NS><NS type="MP"><c>,</c></NS> like sport, reading, <NS type="IV"><i>chating</i><c>chatting</c></NS> about ideas which make our lives better. We must do something <NS type="UT"><i>for</i></NS> <NS type="FV"><i>help</i><c>to help</c></NS> other people to feel better and <NS type="MV"><c>be</c></NS> <NS type="DJ"><i>usefull</i><c>useful</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR148*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you for your letter of 13 June. I am very happy to have won the first prize in your competition.</p>
+          <p>I would like to travel only in July, because I have only one <NS type="MP"><i>month</i><c>month's</c></NS> <NS type="S"><i>holliday</i><c>holiday</c></NS> this year. I would prefer to sleep in a tent, because I think <NS type="MA"><c>it</c></NS> is <NS type="UD"><i>a</i></NS> great fun and a bit more adventurous. It is not too <NS type="UY"><i>much</i></NS> <NS type="S"><i>confortable</i><c>comfortable</c></NS>, but <NS type="RA"><i>it</i><c>that</c></NS> is not a problem for me<NS type="RP"><i>,</i><c>.  </c></NS> I like this kind of <NS type="S"><i>holliday</i><c>holiday</c></NS>.</p>
+          <p>I am keen on photography so I would love to <NS type="TV"><i>participated</i><c>participate</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> this activity<NS type="RP"><i>,</i><c>.</c></NS> I am very good at <NS type="RA"><i>that</i><c>it</c></NS> and it would be a pleasure for me to help the others. I <NS type="W"><i>also will</i><c>will also</c></NS> take painting, because I always dream about painting, but I never try to, so I think it is a good <NS type="RN"><i>occasion</i><c>opportunity</c></NS>.</p>
+          <p>I would be grateful if you could tell me what kind of clothes I have to take with <NS type="MA"><c>me</c></NS> and how <NS type="CQ"><i>many</i><c>much</c></NS> money, more or less, <NS type="UV"><i>do</i></NS> you think I should take.</p>
+          <p>Thank you <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to ask</i><c>asking</c></NS> me <NS type="MT"><c>about</c></NS> my <NS type="RN"><i><NS type="FN"><i>taste</i><c>tastes</c></NS></i><c>preferences</c></NS> and <NS type="R"><i>to be <NS type="DJ"><i>preoccupated</i><c>preoccupied</c></NS> about it</i><c>for your concern</c></NS>.</p>
+          <p>I look forward to hearing from you as soon as possible.</p>
+          <p>Yours sincerely,</p>
+          <p>Audrey Gillett</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p><NS type="RT"><i>Like</i><c>As</c></NS> you know<NS type="MP"><c>,</c></NS> last month<NS type="UP"><i>,</i></NS> I <NS type="RV"><i><NS type="TV"><i>had helped</i><c>helped</c></NS></i><c>worked</c></NS> at a pop concert and I enjoyed it a lot.</p>
+          <p><NS type="RY"><i>Firstly</i><c>First</c></NS> I had to make the <NS type="RN"><i>decor</i><c>backdrop</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> the <NS type="RN"><i>scene</i><c>stage</c></NS>, so I made <NS type="UT"><i>in</i></NS> the background a sky with a lot of bright stars. Then I put <NS type="MT"><c>in</c></NS> some blue lights. <NS type="RP"><i>furthermore</i><c>Furthermore</c></NS> I made some stars <NS type="RT"><i>in</i><c>out of</c></NS> <NS type="R"><i>paper in <NS type="DN"><i>argent</i><c>silver</c></NS> <NS type="SA"><i>color</i><c>colour</c></NS></i><c>silver-coloured paper</c></NS>. But that was only the <NS type="S"><i>begining</i><c>beginning</c></NS> of my adventure.</p>
+          <p>The most <NS type="SX"><i>exiting</i><c>exciting</c></NS> part was when I had <NS type="RV"><i>to make up</i><c>to do</c></NS> the <NS type="MP"><i>pop stars</i><c>pop stars'</c></NS> <NS type="MN"><c>make-up</c></NS>! I never had met pop stars before and I was very <NS type="S"><i>impresed</i><c>impressed</c></NS>, but I was too happy to show my shyness. Do you believe that I spoke with Micheal Jackson, my favourite singer?</p>
+          <p>I can't believe it yet! It was a wonderful experience. I will remember that day for the rest of my life. It was <NS type="ID"><i>like a dream who becomes <NS type="S"><i>tru</i><c>true</c></NS></i><c>like a dream come true</c></NS>. I wish you had been there with me. I can't explain how <NS type="L"><i><NS type="SX"><i>supper</i><c>super</c></NS></i><c>great</c></NS> it was.</p>
+          <p>I stayed with him until the concert <NS type="TV"><i>begun</i><c>began</c></NS> and after the show I had the opportunity to stay in his private room with him and the other <NS type="S"><i>dansers</i><c>dancers</c></NS>. Well, I have to leave you now, but I will <NS type="RV"><i>tell</i><c>give</c></NS> you more details when we next meet each other.</p>
+          <p>See you soon.</p>
+          <p>Love,</p>
+          <p>Audrey</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

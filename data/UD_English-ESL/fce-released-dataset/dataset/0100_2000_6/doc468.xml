@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR191*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RN"><i>misses</i><c>Mrs</c></NS> Helen Ryan,</p>
+          <p>I'm surprised to read that I've won the first prize. So I <NS type="TV"><i>would</i><c>will</c></NS> travel <NS type="RT"><i>on</i><c>in</c></NS> July because I've <NS type="W"><i>got only</i><c>only got</c></NS> <NS type="MQ"><c>some</c></NS> <NS type="W"><i><NS type="RY"><i>there</i><c>then</c></NS> free time</i><c>free time then</c></NS>. I've got a lot of work and my boss <NS type="TV"><i>didn't allowed</i><c>won't allow</c></NS> me to leave my <NS type="RN"><i>job</i><c>work</c></NS> <NS type="MT"><c>at</c></NS> any other time.</p>
+          <p>I <NS type="MV"><c>would</c></NS> prefer to stay in a tent because it's more like a camp. And so I can <NS type="UA"><i>I</i></NS> be <NS type="R"><i>better in touch with the</i><c>closer to</c></NS> nature. I'm happy to read that I will have the chance to do two activities there. I <NS type="TV"><i>chose</i><c>choose</c></NS> painting and photography. I like painting and I have talent<NS type="RP"><i>,</i><c>.</c></NS> I could paint all <NS type="UD"><i>the</i></NS> day. Photography is a relaxing activity. You can photograph all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of <NS type="R">arts you want</NS>. I take very good photos!</p>
+          <p>I <NS type="RV"><i>would</i><c>must</c></NS> ask you about clothes and money. What kind of clothes should I bring with me? And what about money? Do you pay for <NS type="RA"><i>all</i><c>everything</c></NS>? And for food, drinks etc?</p>
+          <p>I'm looking forward <NS type="MT"><c>to</c></NS> hearing news from you.</p>
+          <p>Yours </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>We people are often depressed or <NS type="RV"><i>have</i><c>suffer</c></NS> <NS type="MT"><c>from</c></NS> stress. What <NS type="TV"><i>are we doing</i><c>do we do</c></NS> then? We go shopping. That <NS type="W"><i>makes often</i><c>often makes</c></NS> women feel better. They go out with friends or alone. But shopping is not always enjoyable.</p>
+          <p>A friend of mine was depressed because her <NS type="RN"><i>friend</i><c>boyfriend</c></NS> <NS type="TV"><i><NS type="AGV"><i>leave</i><c>leaves</c></NS></i><c>left</c></NS> her. She <NS type="TV"><i><NS type="AGV"><i>phone</i><c>phones</c></NS></i><c>phoned</c></NS> me and asked me <NS type="UA"><i>what</i></NS> about going shopping. I <NS type="TV"><i><NS type="RV"><i>suggest</i><c>agree</c></NS></i><c>agreed</c></NS> and we went shopping. <NS type="R"><i>In the time</i><c>Just as</c></NS> we <NS type="TV"><i>want</i><c>wanted</c></NS> to go out of a shop a man stopped us and <NS type="TV"><i><NS type="AGV"><i>hold</i><c>holds</c></NS></i><c>held</c></NS> a pistol in his hand. We were scared and so we did <NS type="RA"><i>all</i><c>everything</c></NS> <NS type="RA"><i>what</i><c>that</c></NS> he told us <NS type="MV"><c>to do</c></NS>. We <NS type="TV"><i>were</i><c>are</c></NS> lucky that we are <NS type="DJ"><i>in life</i><c>alive</c></NS> now. The police came and took <NS type="SX"><i>hi</i><c>him</c></NS> to the jail (police station).</p>
+          <p><NS type="R">You can't be <NS type="DJ"><i>carefull</i><c>careful</c></NS> because you don't know what time it will <NS type="FV"><i>happens</i><c>happen</c></NS></NS>. But you can be <NS type="DJ"><i>carefull</i><c>careful</c></NS> when you speak with <NS type="RA"><i>him</i><c>he</c></NS> or <NS type="RA"><i>her</i><c>she</c></NS> <NS type="AGA"><i>that</i><c>who</c></NS> <NS type="UV"><i>will</i></NS> <NS type="TV"><i>stolen</i><c>is stealing</c></NS> your <NS type="SX"><i>thinks</i><c>things</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

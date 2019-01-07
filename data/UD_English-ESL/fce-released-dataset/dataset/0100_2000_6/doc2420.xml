@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR977*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan: Thank you for letting me know about my prize <NS type="MN"><c>trip</c></NS> to Camp California in the USA. Here I will <NS type="S"><i>answear</i><c>answer</c></NS> all the questions that you <NS type="TV"><i>ask</i><c>asked</c></NS> me, and I will ask you <NS type="MT"><c>about</c></NS> other things that you <NS type="S"><i>dind't</i><c>didn't</c></NS> mention. <NS type="TV"><i>I'll</i><c>I'd</c></NS> like to organize my trip <NS type="RT"><i>in</i><c>for</c></NS> July because <NS type="MA"><c>that</c></NS> is when I have vacations, also because <NS type="MA"><c>it</c></NS> is <NS type="RP"><i>summer time</i><c>summertime</c></NS> in <NS type="MD"><c>the</c></NS> U.S.A<NS type="RP"><i>, about</i><c>. About</c></NS> <NS type="S"><i>acomodation</i><c>accommodation</c></NS> at Camp <NS type="TV"><i>I'll</i><c>I'd</c></NS> prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because it's a new <NS type="S"><i>expirence</i><c>experience</c></NS> for me and <NS type="TV"><i>I'll</i><c>I'd</c></NS> like to sleep in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> to have a great time <NS type="R"><i>at my</i><c>while having a</c></NS> new adventure. In my free time I like to play golf and swim, so I think that I'm good <NS type="MT"><c>at</c></NS> playing golf. I play every <NS type="RP"><i>saturday</i><c>Saturday</c></NS> and Sunday <NS type="MC"><c>and</c></NS><NS type="MP"><c>,</c></NS> after that, I usually go to the pool because I love swimming<NS type="RP"><i>,</i><c>.</c></NS> I think that those <NS type="M"><c>are the</c></NS> sports I <NS type="TV"><i>will</i><c>would</c></NS> like to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> at the Camp. Helen<NS type="MP"><c>,</c></NS> I <NS type="TV"><i>will</i><c>would</c></NS> like to ask you how <NS type="CQ"><i>many</i><c>much</c></NS> money we have to take to the Camp? What kind of <NS type="RN"><i>cloth</i><c>clothing</c></NS> <NS type="MV"><c>do</c></NS> we have take? Thank you very much for your <NS type="RN"><i><NS type="S"><i>colaboration</i><c>collaboration</c></NS></i><c>cooperation</c></NS>. <NS type="MA"><c>Yours</c></NS> sincerely Teresa Reina</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Most of the time when we go to the shopping <NS type="SA"><i>Center</i><c>centre</c></NS> we have a lot of fun<NS type="RP"><i>, we</i><c>. We</c></NS> go to stores to <NS type="RV"><i>see</i><c>look</c></NS> <NS type="MT"><c>at</c></NS> <NS type="RN"><i>cloth</i><c>clothing</c></NS>, we also eat something like ice cream or French Fries, but <NS type="W"><i>not all the time shopping is enjoyable</i><c>is not enjoyable all the time</c></NS>.</p>
+          <p>Sometimes when we go shopping with someone who is not <NS type="UD"><i>a</i></NS> good company, we <NS type="UY"><i>usually</i></NS> don't have a great time, or when we know what we want to buy, but when we get to the store they don't have what we want, <NS type="R">in that <NS type="RN"><i>moment</i><c>instance</c></NS> we <NS type="SX"><i>neat</i><c>need</c></NS> to shop also when is an important day like Father's day or <NS type="RP"><i>christmas</i><c>Christmas</c></NS> <NS type="RP"><i>every where</i><c>everywhere</c></NS> we want to go and buy something</NS> <NS type="MA"><c>it</c></NS> is very <NS type="DJ"><i>crowd</i><c>crowded</c></NS> so we can't find what we are looking for <NS type="UT"><i>with</i></NS> <NS type="DY"><i>calm</i><c>calmly</c></NS> because everybody is pushing you <NS type="R"><i>to the other place that you want to go</i><c>in the other direction to the one you want</c></NS></p>
+          <p><NS type="ID"><i>In that <NS type="AGN"><i>cases</i><c>case</c></NS></i><c>In that instance</c></NS> <NS type="U"><i>is when</i></NS> we don't enjoy shopping because we can't find what we are looking for and we have a bad time in the shopping <NS type="SA"><i>center</i><c>centre</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

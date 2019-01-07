@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR155*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>Thank you for the <NS type="RN"><i>information</i><c>news</c></NS><NS type="UP"><i>,</i></NS> that I won the competition. I'll try to answer your questions.</p>
+          <p>I would <NS type="S"><i>preffer</i><c>prefer</c></NS> <NS type="FV"><i>travelling</i><c>to travel</c></NS> in July<NS type="RP"><i>,</i><c>.</c></NS> I have only <NS type="AGD"><i>these</i><c>this</c></NS> time, because my summer holidays <NS type="MV"><c>are</c></NS> during these days.</p>
+          <p>To <NS type="UD"><i>your</i></NS> answer <NS type="M"><c>your question</c></NS> about living in tents or cabins, I would like to sleep in a tent. A cabin <NS type="AGV"><i><NS type="RV"><i>remember</i><c>remind</c></NS></i><c>reminds</c></NS> me too much <NS type="RT"><i>to</i><c>of</c></NS> my home and is too <NS type="S"><i>confortable</i><c>comfortable</c></NS><NS type="RP"><i>, that</i><c>. That</c></NS> isn't what I want to have if I <NS type="RV"><i>live</i><c>stay</c></NS> in a wild area.</p>
+          <p>My favourite sports are climbing and surfing<NS type="RP"><i>,</i><c>.</c></NS> I'm very good at climbing but for surfing I need some <NS type="DN"><i>practise</i><c>practice</c></NS>.</p>
+          <p>Yes, I have some questions <NS type="RT"><i>on</i><c>about</c></NS> clothes<NS type="RP"><i>, what</i><c>. What</c></NS> should I take with me and how much money will I need?</p>
+          <p>I hope<NS type="UP"><i>,</i></NS> I was able to answer your questions and you will perhaps soon give me a reply <NS type="RT"><i>on</i><c>to</c></NS> my ones.</p>
+          <p>Yours, Vadim Titov</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>You <NS type="RV"><i>can't</i><c>won't</c></NS> believe what I did last month. I was given the opportunity to <NS type="RV">build up</NS> the concert and of course I <NS type="ID"><i>took my <NS type="FN"><i>chance</i><c>chances</c></NS></i><c>jumped at it</c></NS>.</p>
+          <p>First I arrived really early in the morning <NS type="RT"><i>on</i><c>at</c></NS> the place, but the people were just working and I joined them. My duty was to <NS type="DV">montage</NS> the spot lights on the right places, but it wasn't <NS type="RY"><i>just</i><c>very</c></NS> easy. You <NS type="W"><i>had always</i><c>always had</c></NS> some problems <NS type="UC"><i>because</i></NS> like not having enough wire or the lamps <NS type="FV"><i>were</i><c>being</c></NS> broken by the transport. The experience that I <NS type="RV"><i>made</i><c>had</c></NS> was<NS type="UP"><i>,</i></NS> that I had never worked in <NS type="W"><i>a such</i><c>such a</c></NS> perfect team. I was able to ask anybody, and he answered <NS type="DY"><i>detailly</i><c>in detail</c></NS>, <NS type="S"><i>althoug</i><c>although</c></NS> he <NS type="R"><i>was full</i><c>had a lot</c></NS> of work.</p>
+          <p>After the hard work we <NS type="RV"><i>took</i><c>had</c></NS> cool drinks, sat down on the ground and enjoyed the pop concert. And as the pop stars thanked us for our hard <NS type="RN"><i>job</i><c>work</c></NS> we all were a little proud to be here.</p>
+          <p>Love, Vadim</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

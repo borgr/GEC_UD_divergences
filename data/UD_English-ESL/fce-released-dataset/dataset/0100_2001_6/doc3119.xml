@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE60*0100*2001*01">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Marie,</p>
+          <p>I am sorry to hear that our friend Mr Brown is ill. As our conference is due to start next week I <NS type="TV"><i>respond</i><c>will respond</c></NS> straight away. There <NS type="AGV"><i>are</i><c>is</c></NS> some <NS type="CN"><i>informations</i><c>information</c></NS> you have asked me about. We booked rooms for your group at the Palace Hotel. That is the best option because it is <NS type="DJ"><i>placed</i><c>situated</c></NS> less than 5 <NS type="MP"><i>minutes</i><c>minutes'</c></NS> walk from the <NS type="RP"><i>Conference <NS type="SA"><i>Center</i><c>Centre</c></NS></i><c>conference centre</c></NS>.</p>
+          <p>When you <NS type="RV"><i>live</i><c>leave</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> hotel you have to turn right and you <NS type="DV">bloun</NS> the street. At the first traffic lights turn right again and you should see a big blue building. That's our <NS type="RP"><i>Conference <NS type="SA"><i>Center</i><c>Centre</c></NS></i><c>conference centre</c></NS>. At the hotel reception you will find printed information <NS type="MT"><c>about</c></NS> how to get <NS type="UT"><i>over</i></NS> there.</p>
+          <p>As you know at the <NS type="MD"><i><NS type="UP"><i>end-of-conference</i><c>end of conference</c></NS></i><c>end of the conference</c></NS> there is a party. <NS type="MD"><i>Party</i><c>The party</c></NS> is due to start at 8 p.m<NS type="MP"><c>.</c></NS> <NS type="M"><c>and will last</c></NS> until 3 a.m. There is <NS type="MD"><c>a</c></NS> 2hr break between <NS type="MD"><c>the</c></NS> <NS type="MD"><i><NS type="UP"><i>end-of-conference</i><c>end of conference</c></NS></i><c>end of the conference</c></NS> and <NS type="MD"><c>the</c></NS> party. At this time you and your group can refresh <NS type="FA"><i>yourself</i><c>yourselves</c></NS>. I would like to mention that because <unknown/> our conference <NS type="R">that is dress-code party</NS>.</p>
+          <p><NS type="MA"><i>Hope</i><c>I hope</c></NS> you will enjoy it. We prepared some special <NS type="FN"><i>attraction</i><c>attractions</c></NS><NS type="MP"><c>,</c></NS> like live dance music and <NS type="MD"><c>a</c></NS> hot <NS type="RC"><i>or</i><c>and</c></NS> cold buffet.</p>
+          <p><NS type="L"><i>About</i><c>Regarding</c></NS> <NS type="SX"><i>you're</i><c>your</c></NS> <NS type="UD"><i>the</i></NS> last question I can <NS type="S"><i>sugest</i><c>suggest</c></NS> <NS type="FV"><i>to visit</i><c>visiting</c></NS> the Royal Castle. That will give you and your guests an <NS type="RN">impression</NS> about our country and history.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>In our town there <NS type="AGV"><i>is</i><c>are</c></NS> so many interesting places to see that <NS type="RA"><i>there</i><c>it</c></NS> is hard to choose one. In my opinion the most interesting is the <NS type="RP"><i>Castle</i><c>castle</c></NS>. It is <NS type="DJ"><i>placed</i><c>situated</c></NS> on a hill so it is very easy to <NS type="RV"><i>recognize</i><c>see</c></NS> <NS type="RC"><i>when</i><c>where</c></NS> <NS type="W"><i>is it</i><c>it is</c></NS>.</p>
+          <p>Just look up and you will see that huge building.</p>
+          <p>Actually it is a whole complex, the Old and the New Castle, <NS type="MD"><c>the</c></NS> <NS type="RP"><i><NS type="S"><i>Cathedrall</i><c>Cathedral</c></NS></i><c>cathedral</c></NS> and the <NS type="RY"><i>most</i><c>very</c></NS> interesting <NS type="S"><i>undergroud</i><c>underground</c></NS> part with <NS type="UP"><i>it's</i><c>its</c></NS> amazing crypts.</p>
+          <p>And if you climb <NS type="RT"><i>on</i><c>to</c></NS> the top of the main tower - the keep <NS type="MP"><c>-</c></NS> you will see <NS type="DJ"><i>unforgetable</i><c>unforgettable</c></NS> <NS type="FN"><i>view</i><c>views</c></NS> <NS type="RT"><i>on</i><c>of</c></NS> a white <NS type="S"><i>toun</i><c>town</c></NS>. After that you can explore our great museum at the Old Castle. You will find there an amazing collection of old <NS type="AGN"><i>weapon</i><c>weapons</c></NS>, <NS type="CN"><i><NS type="S"><i>armores</i><c>armours</c></NS></i><c>armour</c></NS> and, we are especially <NS type="S"><i>pround</i><c>proud</c></NS> of it, the great collection of swords.</p>
+          <p>After that I am sure you will be happy to find a few <NS type="S"><i>restaurands</i><c>restaurants</c></NS> located at the New Castle <unknown/>. I am sure that should be <NS type="S"><i>enought</i><c>enough</c></NS> for <NS type="MD"><c>a</c></NS> <NS type="MP"><i>one day</i><c>one-day</c></NS> trip. For <NS type="DD"><i>you</i><c>your</c></NS> information I can say that at this time we have <NS type="MD"><c>a</c></NS> <NS type="DJ"><i>five weeks</i><c>five-week</c></NS> festival and <NS type="RD"><i>this</i><c>that</c></NS> night there will be a great display. That should complete <NS type="RD"><i>that</i><c>an</c></NS> amazing day.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

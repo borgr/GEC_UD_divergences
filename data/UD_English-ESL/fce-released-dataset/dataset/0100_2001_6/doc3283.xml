@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE89*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>41-50</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing to you to give you more <NS type="CN"><i>informations</i><c>information</c></NS> about <NS type="RD"><i>an</i><c>the</c></NS> international student conference.</p>
+          <p>The group has been booked into <NS type="MD"><c>the</c></NS> King Hotel <NS type="RT"><i>at</i><c>on</c></NS> High Street<NS type="MP"><c>,</c></NS> which is very easy to find. And the best way to get from there to the conference is <NS type="MT"><c>by</c></NS> following the <NS type="RN"><i>rod</i><c>road</c></NS> in front of the hotel to the right, then cross the zebra crossing to the opposite side. After that walk to the right about 15 metres and you will find the conference <NS type="RN"><i>place</i><c>venue</c></NS><NS type="MP"><c>,</c></NS> which is called <NS type="MD"><c>the</c></NS> White House.</p>
+          <p>At the end of <NS type="MD"><c>the</c></NS> conference, we are going to have an International Dinner as well as some shows from the students in my college. As this is a special conference <NS type="UY"><i>so</i></NS> you could wear your own national dress to <NS type="RV"><i>present</i><c>represent</c></NS> your country.</p>
+          <p>Finally, on the last day you could spend your free time <NS type="FV"><i>to visit</i><c>visiting</c></NS> our town hall <NS type="R"><i>which</i><c>where</c></NS> you will be able to learn more about my area - or <NS type="M"><c>you could</c></NS> do some shopping <NS type="RT"><i>at</i><c>on</c></NS> High Street.</p>
+          <p>If you want more information, please contact me and I am looking forward to seeing you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Bill,</p>
+          <p>I am writing to give <NS type="UD"><i>an</i></NS> information on a very interesting building <NS type="UV"><i>to visit</i></NS>. It is called Penrhyh Castle, <NS type="RC"><i>as</i><c>and</c></NS> <NS type="RD"><i>the</i><c>this</c></NS> building will tell you all about Wales.</p>
+          <p>On the positive side, you and the group will be <NS type="S"><i>abe</i><c>able</c></NS> to learn more about Welsh <NS type="RP"><i>art works</i><c>artworks</c></NS> <NS type="R">which are presented on the wall, on the door and some <NS type="CN"><i>furnitures</i><c>furniture</c></NS></NS>. The building itself looks splendid and beautiful.</p>
+          <p>On the other hand, <NS type="R">you might find something which is very boring such as walking along the old wooden floor which causes some noise</NS>. And some old toilets might look <NS type="S"><i>awlful</i><c>awful</c></NS>.</p>
+          <p>But <NS type="ID"><i>in my <NS type="RN"><i>recommendation</i><c>opinion</c></NS>, I think</i><c>in my opinion</c></NS> it would be nice for the students to come and see this building<NS type="RP"><i>. Because</i><c>, because</c></NS> they will be able to learn and <NS type="AS"><i>compare with the place in their country</i><c>compare the place with their country</c></NS>. As Wales is not modern like America, <NS type="UY"><i>so</i></NS> the students will probably get <NS type="RD"><i>the</i><c>an</c></NS> <NS type="RN"><i>idea</i><c>interest</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> looking <NS type="UY"><i>back</i></NS> <NS type="RT"><i>to</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> old things.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR211*0102*2000*02">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Jane C</p>
+          <p>I <NS type="W"><i><NS type="TV"><i>have spent</i><c>spent</c></NS> two days at the International Arts Festival recently</i><c>recently spent two days at the International Arts Festival</c></NS> and I am writing in order to give my opinions about it.</p>
+          <p>When I <NS type="RV"><i>knew</i><c>found out</c></NS> <NS type="RA"><i>it</i><c>there</c></NS> was going to be an international festival, I got really excited because I would finally have the opportunity to meet stars and artists from around the world, but I felt rather disappointed when I found out that was not at all true. Besides this, I think that some of the concert halls were too small <NS type="MC"><c>so</c></NS> that I felt very uncomfortable. However, the <NS type="UP"><i>one-reasonably-priced</i><c>one reasonably priced</c></NS> weekend ticket for all <NS type="MD"><c>the</c></NS> events was marvellous because I was able to attend as many concerts as I wished without spending much money.</p>
+          <p>Although that Festival was not <NS type="UP"><i>well-organized</i><c>well organized</c></NS>, I would like you to repeat it next year. I wish you could <NS type="RV"><i>perform</i><c>show</c></NS> more plays and films, and there should be more varied art exhibitions. But I <NS type="TV"><i>really appreciate</i><c>would really appreciate</c></NS> it if you <NS type="TV"><i>would take</i><c>took</c></NS> into consideration the problem with the lack of space in the concert halls.</p>
+          <p>I hope you consider these <NS type="UQ"><i>pieces of</i></NS> suggestions.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>It is really nice to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you and I think we will learn so many interesting facts from each other.</p>
+          <p>Personally, I <NS type="RP"><i>can not</i><c>cannot</c></NS> imagine human life without rules, especially those that have to do with respecting other people. Moreover, I am in favour of rules at school because it is very important for children to learn how to cooperate with others.</p>
+          <p>As far as I can remember, I had to respect a lot of rules but the most important <NS type="M"><c>ones were</c></NS> concerning wearing <NS type="UD"><i>the</i></NS> suitable clothes, <NS type="FV"><i>to arrive</i><c>arriving</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> time and <NS type="FV"><i>get</i><c>getting</c></NS> on with every teacher and authority <NS type="MN"><c>figure</c></NS>. As a consequence, most <NS type="RN"><i>mates</i><c>schoolmates</c></NS> used to complain about those rules but all of us tried to put up with them.</p>
+          <p>At home it is the other way <NS type="RY"><i>about</i><c>round</c></NS>. Fortunately, rules are made by every member of the family so that no one complains about them. I must admit that I am able to do whatever I want, such as <NS type="FV"><i>inviting</i><c>invite</c></NS> friends <NS type="MY"><c>over</c></NS>, <NS type="FV"><i>watching</i><c>watch</c></NS> TV until midnight and so on. In fact, the only strong rule is to <NS type="RV"><i>cooperate</i><c>help out</c></NS> with <NS type="MD"><c>the</c></NS> <NS type="RN"><i><NS type="UP"><i>house-keeping</i><c>housekeeping</c></NS></i><c>household chores</c></NS> and <NS type="AGN"><i>meal</i><c>meals</c></NS>. That is all!</p>
+          <p><NS type="MA"><i>Hope</i><c>I hope</c></NS> you enjoy my experiences<NS type="MP"><c>.</c></NS></p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

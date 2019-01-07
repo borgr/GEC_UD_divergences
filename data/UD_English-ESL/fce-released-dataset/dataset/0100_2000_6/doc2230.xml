@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR95*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helene Ryan,</p>
+          <p>I have just received your letter and I am glad to know that I have won first prize in your competition. Now, I am writing to you to ask <NS type="MT"><c>for</c></NS> some details about these two weeks at Camp California and <NS type="FV"><i>giving</i><c>to give</c></NS> <NS type="MA"><c>you</c></NS> some answers to your questions.</p>
+          <p>First of all, I would like to know if you have some vacancies in July because it is the only month where I am <NS type="RT"><i>in</i><c>on</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS>. <NS type="RT"><i>About</i><c>Regarding</c></NS> the accommodation, I would prefer staying in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> as I used to during summer holidays when I was a child. Furthermore, you asked me to <NS type="S"><i>choise</i><c>choose</c></NS> two activities I would like to do. Firstly, I will be happy to play tennis because I used to <NS type="RV"><i>play</i><c>do</c></NS> this sport with my village club <NS type="R">for five years</NS> and <NS type="RV"><i>earned</i><c>won</c></NS> a few competitions. Secondly, I am very <NS type="RJ"><i>interesting</i><c>interested</c></NS> in photography because my father is a photographer and we are used to spending time <NS type="R"><i>each other</i><c>together</c></NS>. We had a lot of fun during our last <NS type="FN"><i>holidays</i><c>holiday</c></NS> and we took a lot of pictures. As <NS type="UD"><i>the</i></NS> instructions about clothes and money were not <NS type="RJ"><i>enclosed</i><c>included</c></NS> in your letter, <NS type="R">I request about it and ask you to include in it</NS>.</p>
+          <p>Thank you very much<NS type="RP"><i>,</i><c>.  </c></NS> I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>A lot of people like <NS type="UV"><i>doing</i></NS> shopping but most of them might tell you that sometimes <NS type="MA"><c>it</c></NS> is not <NS type="UY"><i>always</i></NS> enjoyable. And nowadays people must <NS type="RV"><i>do</i><c>go</c></NS> shopping <NS type="RC"><i>either</i><c>whether</c></NS> they like it or not.</p>
+          <p>For people who <NS type="RV"><i>used to</i><c>are used to</c></NS> <NS type="UV"><i>do</i></NS> shopping, going in big stores, I think they like it and <NS type="MC"><c>it</c></NS> they are always looking for <NS type="RJ"><i>fashioned-clothes</i><c>fashionable clothes</c></NS>. But when these stores are full of people, crowded, like <NS type="MT"><c>during</c></NS> the sales <NS type="UN"><i>period</i></NS>, I am sure that the same people who like <NS type="UV"><i>doing</i></NS> shopping may think it <NS type="UV"><i>can be</i></NS> boring.</p>
+          <p>In my opinion, <NS type="U"><i>I think</i></NS> people have to <NS type="RV"><i>do</i><c>go</c></NS> shopping even though they don't <NS type="RV"><i>appreciate</i><c>like</c></NS> it very much. If these people have <NS type="U"><i>a family with</i></NS> children, they must buy some food to feed them even if <NS type="RD"><i>a</i><c>the</c></NS> supermarket is full of people. And now for them shopping can be <NS type="DV"><i>considerated</i><c>considered</c></NS> <NS type="R">like a contrariety</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

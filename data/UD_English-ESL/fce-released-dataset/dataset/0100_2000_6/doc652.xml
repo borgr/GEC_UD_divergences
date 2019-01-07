@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR256*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am writing in reply to your letter asking for further information from me.</p>
+          <p>First of all, I would like to travel in July because this is the <NS type="S"><i>beggining</i><c>beginning</c></NS> of my holidays, and I would not like to miss some of my school classes. Besides, I would <NS type="S"><i>preffer</i><c>prefer</c></NS> to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because I got used to being in tents since <NS type="W"><i><NS type="RQ"><i>each</i><c>every</c></NS> summer I <NS type="TV"><i>spent</i><c>spend</c></NS> my holidays</i><c>I spend my holidays every summer</c></NS> with my friends <NS type="RT"><i>at</i><c>in</c></NS> the hills.</p>
+          <p>In <NS type="S"><i>adittion</i><c>addition</c></NS>, I would <NS type="DV"><i>rather</i><c>prefer</c></NS> playing tennis. When I was younger I won the National Tennis Championship. I also like surfing<NS type="RP"><i>,</i><c>.</c></NS> I think it is a dangerous sport, but I know how to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> it, because of the fact that last year a <NS type="S"><i>proffessional</i><c>professional</c></NS> surfer <NS type="S"><i>tought</i><c>taught</c></NS> me.</p>
+          <p>However, I would like to know what kind of clothes I should take and if it is possible for you to tell me how much money I will need.</p>
+          <p>I would appreciate it if you could send me a reply at your earliest convenience.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>From my point of view, shopping is not always enjoyable, because sometimes when you are looking for a special <NS type="R"><i>good</i><c>item</c></NS> you never find it. Besides, I do not like to waste my time just <NS type="RV"><i>seeing</i><c>looking</c></NS> at a wide variety of products, that <NS type="AGV"><i>make</i><c>makes</c></NS> you feel confused<NS type="MP"><c>,</c></NS> and you don't know which <NS type="R"><i>one</i><c>item</c></NS> fits you, instead of being with my friends or doing something else.</p>
+          <p>I think that when you want to buy something you have to be sure of what you really need, if not the shop assistant has the ability to persuade you to buy something you do not want. <NS type="RY"><i>Moreover</i><c>Especially</c></NS> in the shops that <NS type="DV"><i>sales</i><c>sell</c></NS> fashionable clothes. Although it is wonderful to buy new things, there are times <NS type="RC"><i>that</i><c>when</c></NS> it really <NS type="AGV"><i>become</i><c>becomes</c></NS> tiring.</p>
+          <p>To summarize, I <NS type="RV"><i>could</i><c>would</c></NS> say that if you want to buy something, first make sure what sort of product you need and then<NS type="UP"><i>,</i></NS> go shopping. If <NS type="R"><i>not</i><c>you don't</c></NS> shopping <NS type="MV"><c>will</c></NS> never be enjoyable, but <NS type="RY"><i>also</i><c>only</c></NS> tiring and boring.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

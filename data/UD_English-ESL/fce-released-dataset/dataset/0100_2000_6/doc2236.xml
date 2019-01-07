@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR99*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing this letter to tell you the <NS type="CN"><i>informations</i><c>information</c></NS> you need and to ask you one or two questions.</p>
+          <p>I would like to come in <NS type="RP"><i>july</i><c>July</c></NS> because I work <NS type="RT"><i>in</i><c>for</c></NS> a big company where you have to take your holiday in <NS type="RD"><i>this</i><c>that</c></NS> month.</p>
+          <p>For the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> at Camp California, I <NS type="TV"><i>will</i><c>would</c></NS> prefer to have a log cabin because I think it is more comfortable than a tent, and in case <NS type="RA"><i>it</i><c>there</c></NS> <NS type="RV"><i>has</i><c>is</c></NS> a big storm with <NS type="UD"><i>a</i></NS> heavy rain <NS type="R"><i><NS type="RP"><i>it's</i><c>.  It's</c></NS></i><c>.  A log cabin's</c></NS> more resistant than a tent.</p>
+          <p>For the activities, I chose climbing because I took <NS type="MD"><c>a</c></NS> <NS type="S"><i>cours</i><c>course</c></NS> <NS type="RT"><i>during</i><c>for</c></NS> 2 weeks last year and now I have a good level <NS type="M"><c>of proficiency</c></NS><NS type="RP"><i>, for</i><c>.  For</c></NS> the other one I chose photography but I am not a <NS type="S"><i>proffesional</i><c>professional</c></NS>, I just take some pictures <NS type="RT"><i>in</i><c>on</c></NS> my holiday!</p>
+          <p>I have a little question<NS type="RP"><i>, could</i><c>.  Could</c></NS> you tell me <NS type="U"><i>if and</i></NS> how <NS type="MQ"><c>much</c></NS> money I need to take with me, and <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm writing this letter to tell you <NS type="MT"><c>about</c></NS> my good experience at a pop concert, last month.</p>
+          <p>When I <NS type="RV"><i>came</i><c>arrived</c></NS>, I was a bit afraid because I did not know what I had to do, but a very nice girl told me that my first job was <NS type="FV"><i>looking</i><c>to look</c></NS> for people <NS type="RA"><i>whose</i><c>who</c></NS> felt bad and to guide them to the <NS type="RN"><i>nursery</i><c>nurse</c></NS>. I did that <NS type="MT"><c>for</c></NS> two hours <NS type="RP"><i>, this</i><c>.  This</c></NS> first job was sometimes a bit boring but I felt like someone who <NS type="AGV"><i>save</i><c>saves</c></NS> people, so I was really happy!</p>
+          <p>My second <NS type="MN"><c>job</c></NS> was to take the money <NS type="RT"><i>at</i><c>from</c></NS> the bars and to <NS type="RV"><i>bring</i><c>take</c></NS> <NS type="AGA"><i>them</i><c>it</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> a little room where I could see the <NS type="FN"><i>pop star</i><c>pop stars</c></NS> <NS type="TV"><i>walked</i><c>walking</c></NS> in the corridor. I was very excited when I could see a star! <NS type="UD"><i>The next</i><c>Next</c></NS> weekend I have <NS type="RN"><i>an appointment</i><c>a date</c></NS> with one <NS type="MT"><c>of</c></NS> them, but I <NS type="RV"><i>don't</i><c>won't</c></NS> tell you the name because you'll <NS type="SX"><i>fell</i><c>feel</c></NS> <NS type="S"><i>jalous</i><c>jealous</c></NS>! Maybe I will tell you <NS type="RT"><i>on</i><c>in</c></NS> the next letter!</p>
+          <p>See you soon</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

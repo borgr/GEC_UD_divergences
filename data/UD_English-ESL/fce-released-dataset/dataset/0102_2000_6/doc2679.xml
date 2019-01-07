@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1081*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to complain about your <NS type="RJ">fake</NS> advertisement.</p>
+          <p>You are the theatre's manager so I suppose you are the right person to complain <NS type="MT"><c>to</c></NS>.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> in your show advertisement <NS type="MA"><c>it</c></NS> <NS type="IV"><i>sais</i><c>says</c></NS> that Danny Brooks <NS type="RV"><i>starts</i><c>stars</c></NS> in the play. But a different actor <NS type="TV"><i>has <NS type="RV"><i>started</i><c>starred</c></NS></i><c>was starring</c></NS> and that was very disappointing<NS type="MP"><c>,</c></NS> not only for me but for all <NS type="MD"><c>the</c></NS> people there.</p>
+          <p>The show <NS type="TV"><i>has begun</i><c>began</c></NS> <NS type="FY"><i>later</i><c>late</c></NS>, much <NS type="IY"><i>more later</i><c>later</c></NS> than your advertisement <NS type="RV"><i>writes</i><c>says</c></NS>, at about 20:15. The show started 45 minutes <NS type="FY"><i>later</i><c>late</c></NS>. This made me <NS type="RV"><i>get</i><c>feel</c></NS> bored.</p>
+          <p>You also <NS type="RV"><i>refer</i><c>say</c></NS> <NS type="RT"><i>to</i><c>in</c></NS> your advertisement that there are some discounts available but there weren't any.</p>
+          <p>At the end you <NS type="TV"><i>have <NS type="RV"><i>written</i><c>said</c></NS></i><c>said</c></NS> that <NS type="U"><i>there is</i></NS> the theatre restaurant <NS type="M"></NS> after the show but <NS type="RA"><i>there</i><c>it</c></NS> wasn't. It <NS type="RV"><i>had</i><c>was</c></NS> closed because of the late start of the show.</p>
+          <p><NS type="RY"><i>At the end</i><c>Finally</c></NS><NS type="MP"><c>,</c></NS> because I<NS type="UP"><i>;</i></NS> <NS type="RV"><i>hadn't</i><c>didn't</c></NS> have a perfect evening but a very disappointing one, I have the right to ask <NS type="MT"><c>for</c></NS> my money back. </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Modern technology <NS type="TV"><i>changed</i><c>has changed</c></NS> not only my daily life but also the <NS type="FN"><i>life</i><c>lives</c></NS> of many people.</p>
+          <p>Now let's talk about me. First of all<NS type="MP"><c>,</c></NS> I don't have to worry <NS type="S"><i>n</i><c>in</c></NS> the morning <NS type="MT"><c>about</c></NS> <NS type="U"><i>if I</i></NS> <NS type="FV"><i>miss</i><c>missing</c></NS> the bus because I have my alarm clock to wake me in time. Usually<NS type="MP"><c>,</c></NS> <NS type="RP"><i>When</i><c>when</c></NS> I return from school the food is a <NS type="SX"><i>lit</i><c>little</c></NS> <NS type="UT"><i>of</i></NS> bit cold so I put it in the microwave to <NS type="RV"><i>become</i><c>make</c></NS> <NS type="MA"><c>it</c></NS> hotter.</p>
+          <p>When I go to sleep after I eat my lunch <NS type="MP"><c>(</c></NS>in my country<NS type="MP"><c>,</c></NS> especially in summer<NS type="MP"><c>,</c></NS> <NS type="MA"><c>it</c></NS> is too hot<NS type="RP"><i>.</i><c>)</c></NS> <NS type="UC"><i>So</i></NS> I turn on the <NS type="DN"><i>aircondition</i><c>air conditioning</c></NS> with <NS type="MD"><c>a</c></NS> timer so when I <NS type="RV"><i>get</i><c>go</c></NS> <NS type="MT"><c>to</c></NS> sleep <NS type="MA"><c>it</c></NS> <NS type="TV"><i>to turn</i><c>turns</c></NS> off by itself.</p>
+          <p>When I wake up<NS type="MP"><c>,</c></NS> if I don't have homework I sit <NS type="RT"><i>on</i><c>at</c></NS> my computer and play different games to <NS type="RV"><i>spend</i><c>occupy</c></NS> my time.</p>
+          <p><NS type="RT"><i>At</i><c>In</c></NS> the evenings before I <NS type="RV"><i><NS type="TV"><i>got</i><c>get</c></NS></i><c>go</c></NS> to bed I sit in the living room and watch TV <NS type="RT"><i>through</i><c>via</c></NS> <NS type="UD"><i>the</i></NS> <NS type="S"><i>sattelite</i><c>satellite</c></NS>. When I go to bed<NS type="MP"><c>,</c></NS> because there are many <NS type="S"><i>mosquitoss</i><c>mosquitoes</c></NS><NS type="MP"><c>,</c></NS> I turn on a special machine with <NS type="MD"><c>a</c></NS> <NS type="MP"><i><NS type="RN"><i>pile</i><c>battery</c></NS> like</i><c>battery-like</c></NS> thing in it which kills them.</p>
+          <p>I <NS type="S"><i>belive</i><c>believe</c></NS> that modern technology has <NS type="W"><i><NS type="RV"><i>effected</i><c>affected</c></NS> <NS type="DY"><i><NS type="S"><i>possitive</i><c>positive</c></NS></i><c>positively</c></NS></i><c>positively affected</c></NS> our lives.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR119*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you to give you the information you need, but first of all I <NS type="RV"><i>would</i><c>want to</c></NS> say that I am really delighted and I would <NS type="M"><c>like to</c></NS> thank you.</p>
+          <p>If it <NS type="TV"><i>would be</i><c>is</c></NS> possible I wish <NS type="UA"><i>I</i></NS> <NS type="FV"><i>travel</i><c>to travel</c></NS> in July because I have planned my holidays this month at work and I would not be able to <NS type="RV"><i>remove</i><c>move</c></NS> them<NS type="RT"><i><NS type="MP"><i> for</i><c>.  For</c></NS></i><c>.  Regarding</c></NS> accommodation, I would <NS type="DV"><i>choice</i><c>choose</c></NS> the log cabin<NS type="RP"><i>,</i><c>.</c></NS> I am not very fond of "adventure", <NS type="RA"><i>that</i><c>which</c></NS> is why tents are not for me. I expect that these two weeks will be <NS type="UT"><i>as</i></NS> a big rest.</p>
+          <p>Third, you need to know which sport I want to <NS type="RV"><i>to practise</i><c>to do</c></NS>. I would <NS type="DV"><i>choice</i><c>choose</c></NS> photography and tennis. In photography, I am just a novice, nevertheless I have got a suitable camera... (I guess that you shouldn't borrow <NS type="R"><i>some</i><c>one</c></NS>!<NS type="MP"><c>)</c></NS> <NS type="RT"><i>About</i><c>Regarding</c></NS> tennis, I <NS type="TV"><i>play</i><c>have played</c></NS> for eight years and I <NS type="R"><i>am used to</i><c>used</c></NS> <NS type="RV"><i><NS type="FV"><i>sit</i><c>to sit</c></NS></i><c>to enter</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FN"><i>competition</i><c>competitions</c></NS>.</p>
+          <p>To finish, I wonder if I need to bring some money or if <NS type="RA"><i>all</i><c>everything</c></NS> has been already <NS type="IV"><i>payed</i><c>paid</c></NS> <NS type="MT"><c>for</c></NS> and what kind of clothes should I bring?</p>
+          <p>Yours sincerely</p>
+          <p>Joachim Delerm</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Our <NS type="RN"><i>engineer</i><c>engineering</c></NS> school is <NS type="S"><i>specealized</i><c>specialised</c></NS> in <NS type="S"><i>mecanics</i><c>mechanics</c></NS> and thermodynamics. <NS type="ID"><i>Needless to said</i><c>Needless to say</c></NS><NS type="MP"><c>,</c></NS> <NS type="UA"><i>that</i></NS> we must <NS type="RV"><i>faces</i><c>turn</c></NS> our attention to these fields.</p>
+          <p>First, we could film <NS type="MD"><c>the</c></NS> fluid <NS type="S"><i>mecanics</i><c>mechanics</c></NS> lessons and <NS type="MD"><c>the</c></NS> general <NS type="S"><i>mecanics</i><c>mechanics</c></NS> lessons. I wonder if we could not <NS type="R">feet between some short view</NS> of the laboratories, in which we could show <NS type="MD"><c>a</c></NS> student <NS type="RV"><i>making</i><c>doing</c></NS> <NS type="RN"><i><NS type="CN"><i>experimentations</i><c>experimentation</c></NS></i><c>experiments</c></NS>. In order to <NS type="RV"><i>strike</i><c>impress</c></NS> people who will watch the film, we could <NS type="RV"><i>record</i><c>film</c></NS> <NS type="MD"><c>a</c></NS> student drawing on the big drawing tables. I would do the same for thermodynamics.</p>
+          <p>Nevertheless, we should not forget the <NS type="R"><i>extra-life</i><c>extra-curricular life at</c></NS> school. We have to show sports at school and all <NS type="MD"><c>the</c></NS> activities that we are offered. <NS type="RA"><i>There</i><c>It</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> not only the brain which should be trained. <NS type="S"><i>Futur</i><c>Future</c></NS> students could appreciate <NS type="FV"><i>to come</i><c>coming</c></NS> if they could still <NS type="RV"><i>practise</i><c>do</c></NS> their sport.</p>
+          <p>Another <NS type="R">point to record</NS> <NS type="S"><i>woubl</i><c>would</c></NS> be the time we have got between lessons or at lunch time<NS type="RP"><i>, it</i><c>.  It</c></NS> will show a part of the way of life in the school.</p>
+          <p>If you want further information or if you disagree, tell me <NS type="MT"><c>about</c></NS> it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

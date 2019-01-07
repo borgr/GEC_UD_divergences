@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR950*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan</p>
+          <p>Thank you for your letter <NS type="M"><c>of the</c></NS> 2nd of March. I am writing to give you some information about myself. I am very keen on <NS type="RV"><i><NS type="IV"><i>joinning</i><c>joining</c></NS></i><c>attending</c></NS> Camp California in the U.S.A.</p>
+          <p>I will have graduated from university by the end of June and I will be available for this <NS type="RN"><i>travel</i><c>trip</c></NS> only in July because I will have to start working with my parents in August. <NS type="RV"><i><NS type="MP"><i>I m</i><c>I'm</c></NS></i><c>I've</c></NS> always <NS type="RV"><i>been</i><c>stayed</c></NS> <NS type="RP"><i>intents</i><c>in tents</c></NS> when I <NS type="TV"><i>went</i><c>have been</c></NS> <NS type="RT"><i>with</i><c>on</c></NS> the university camps so I <NS type="MV"><c>would</c></NS> prefer log cabins at Camp California because it would be a new experience for me and I would also learn how to live in <NS type="RA"><i>there</i><c>one</c></NS>.</p>
+          <p><NS type="RT"><i>According to</i><c>Considering</c></NS> your activities at the Camp, I would choose singing and painting because I am <NS type="RD"><i>a</i><c>the</c></NS> lead singer in the university band and I think I will be good at this activity. Also painting is my hobby because I have always <NS type="TV"><i>been painting</i><c>painted</c></NS> when I have <NS type="CQ"><i>a</i><c>some</c></NS> spare time. I would be grateful if you could tell me some details about what type of clothes and <NS type="RP"><i>How</i><c>how</c></NS> much money I should bring.</p>
+          <p>Once again, thank you for giving me a good opportunity. I look forward to going <NS type="RT"><i>with</i><c>to</c></NS> your camp in the near future.</p>
+          <p>Yours sincerely</p>
+          <p>(THONGCHAI ENPHENO)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Most people enjoy going shopping every weekend but some think that shopping is not always enjoyable <NS type="RT"><i>because of</i><c>for</c></NS> different reasons and <NS type="R">places</NS>.</p>
+          <p>In the first place, some <NS type="IN"><i>housewifes</i><c>housewives</c></NS> don't like to go to the supermarket because it is not fun to go shopping with a long list and decide which one is the first and the second. To make matters worse, you <NS type="MV"><c>realise</c></NS> <NS type="MA"><c>you</c></NS> <NS type="TV"><i>forget</i><c>have forgotten</c></NS> to buy something when you get back home. It is very frustrating. Moreover, if you go with your children, you will have to control them and remember things on your list at the same time and sometimes they cry when they want something in the supermarket. It is a tough chore!</p>
+          <p>Another <NS type="RN"><i>point of view</i><c>argument</c></NS> against shopping is <NS type="RD"><i>a</i><c>the</c></NS> lack of <NS type="UD"><i>the</i></NS> items that you really want. Sometimes <NS type="UC"><i>when</i></NS> you <NS type="RV"><i>meet</i><c>see</c></NS> a nice dress and you think you are going to buy it tomorrow but when you come back it is sold <NS type="UY"><i>out</i></NS> or there <NS type="X"><i>is no <NS type="MT"><c>in</c></NS> your size left</i><c>isn't one left in your size</c></NS>. I cannot imagine anything worse.</p>
+          <p>The other disadvantage is that you enjoy going shopping too much and pay <NS type="MT"><c>for</c></NS> everything <NS type="MA"><c>you</c></NS> buy <NS type="M"><c>on your</c></NS> credit card. When <NS type="RD"><i>a</i><c>the</c></NS> bill comes to £1000, you <NS type="TV"><i>would</i><c>will</c></NS> be shocked and regret what you <NS type="TV"><i>had</i><c>have</c></NS> done.</p>
+          <p>In conclusion, I believe that shopping is not always enjoyable if you <NS type="DY"><i>accidently</i><c>accidentally</c></NS> <NS type="RV"><i>meet</i><c>get into</c></NS> a bad situation or you <NS type="RP"><i>can not</i><c>cannot</c></NS> control your expenditure carefully.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

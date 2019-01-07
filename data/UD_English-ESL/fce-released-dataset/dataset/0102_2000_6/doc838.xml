@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR337*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p><NS type="UN"><i>Sir</i></NS> manager of the theatre,</p>
+          <p>I recently had a week's holiday in London and went to see a musical show <NS type="RT"><i>in</i><c>at</c></NS> your theatre<NS type="UP"><i>. With</i><c> with</c></NS> a friend<NS type="MP"><i> we</i><c>. We</c></NS> had seen your advertisement for the show, <NS type="SX"><i>witch</i><c>which</c></NS> <NS type="R"><i>was</i><c>made it seem</c></NS> very attractive.</p>
+          <p><NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS>, the musical show <NS type="R"><i>didn't go like the advertisement explained</i><c>wasn't much like that the one the advert had described</c></NS>, and that <NS type="R"><i>wise</i><c>is why</c></NS> I <NS type="SX"><i>wont</i><c>want</c></NS> <NS type="FV"><i>ask</i><c>to ask</c></NS> you <NS type="MT"><c>for</c></NS> some money back.</p>
+          <p>The <NS type="DN"><i>starring</i><c>star</c></NS> had been changed, the show had started <NS type="UY"><i>only</i></NS> at 20:15, and there were no discounts available. Also the Theatre Restaurant was closed for <NS type="R"><i>some working inside</i><c>renovation</c></NS>. And your last <NS type="DN"><i>phrasal</i><c>phrase</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> the advertisement <NS type="MV"><c>was</c></NS> "Your perfect evening out"! <NS type="RP"><i>it</i><c>It</c></NS> wasn't <NS type="MA"><c>that</c></NS> at all, <NS type="RT"><i>like</i><c>as</c></NS> I have <NS type="TV"><i>explain</i><c>explained</c></NS> <NS type="MT"><c>to</c></NS> you above in this letter.</p>
+          <p>I thank you in advance <NS type="R"><i>an</i><c>and</c></NS> hope for a positive <NS type="R"><i><NS type="S"><i>requiere</i><c>require</c></NS></i><c>resonse</c></NS>.</p>
+          <p>Bests regards,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p><NS type="R"><i>At the</i><c>When I</c></NS> began <NS type="U"><i>of my</i></NS> <NS type="FV"><i>work</i><c>working</c></NS> in <NS type="FD"><i>a</i><c>an</c></NS> Insurance Company, I had only <NS type="FD"><i>a</i><c>an</c></NS> old <NS type="RN"><i><NS type="IV"><i>writting</i><c>writing</c></NS> machine</i><c>typewriter</c></NS>, <NS type="SX"><i>witch</i><c>which</c></NS> <NS type="TV"><i>makes</i><c>made</c></NS> a lot of noise and was very difficult to write with <NS type="UA"><i>it</i></NS> because the <NS type="RN"><i><NS type="AGN"><i>switch</i><c>switches</c></NS></i><c>buttons</c></NS> were hard <NS type="RT"><i>for</i><c>on</c></NS> my small fingers. Now I have a new computer, <NS type="SX"><i>witch</i><c>which</c></NS> is very easy to use, and <NS type="S"><i>confortable</i><c>comfortable</c></NS> for my fingers <NS type="MC"><c>and</c></NS> also <NS type="IJ"><i><NS type="S"><i>more farrster</i><c>more faster</c></NS></i><c>faster</c></NS>. But <NS type="S"><i>wen</i><c>when</c></NS> the computer <NS type="AGV"><i>don't</i><c>doesn't</c></NS> work, I <NS type="RV"><i>got</i><c>have</c></NS> a big problem <NS type="FV"><i>to do</i><c>doing</c></NS> my work.</p>
+          <p>Also now <NS type="UT"><i>for</i></NS> <NS type="W"><i><NS type="FV"><i>write</i><c>to write</c></NS> a letter to a friend <NS type="RJ"><i>overland</i><c>overseas</c></NS> it is better <NS type="R"><i>with</i><c>to use</c></NS> <NS type="MD"><c>the</c></NS> Internet</i><c>it is better to use the Internet to write a letter to a friend overseas</c></NS>. It is so practical, in five <NS type="S"><i>minuts</i><c>minutes</c></NS> my friend can read my letter. And he can <NS type="S"><i>ansewer</i><c>answer</c></NS> me very quickly. I think<NS type="UP"><i>,</i></NS> it is now the <NS type="S"><i>futur</i><c>future</c></NS> <NS type="RT"><i>for</i><c>of</c></NS> <NS type="UD"><i>the</i></NS> big <NS type="AGN"><i>company</i><c>companies</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>work</i><c>to work</c></NS> with the Internet.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

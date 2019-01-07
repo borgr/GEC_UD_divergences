@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR566*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Mr. Jones:</p>
+          <p>I write this letter to <NS type="FV"><i>informed</i><c>inform</c></NS> you about the bad experience I had last week <NS type="RT"><i>in</i><c>at</c></NS> one of the shows your are <NS type="RV"><i>presenting</i><c>putting on</c></NS>.</p>
+          <p>I <NS type="TV"><i><NS type="S"><i>recive</i><c>receive</c></NS></i><c>received</c></NS> a <NS type="RN">paper</NS> <NS type="R"><i>where</i><c>in which</c></NS> I was told about a play you are <NS type="RV"><i>presenting</i><c>putting on</c></NS> and of the advantages I would <NS type="RV"><i><NS type="S"><i>recive</i><c>receive</c></NS></i><c>get</c></NS> if I <NS type="TV"><i>go</i><c>went</c></NS> to see it<NS type="RP"><i>,</i><c>.</c></NS> <NS type="MA"><c>I</c></NS> <NS type="RV"><i>think</i><c>wish</c></NS> that <NS type="TV"><i>never <NS type="IV"><i>happend</i><c>happened</c></NS></i><c>had never happened</c></NS>. I am <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="S"><i>desappointed</i><c>disappointed</c></NS>, and I want to have my money back.</p>
+          <p>First of all, <NS type="RT"><i>in</i><c>on</c></NS> the sheet I <NS type="S"><i>recived</i><c>received</c></NS>, it says that DANNY BROOK was one of the <NS type="AGN"><i>actor</i><c>actors</c></NS><NS type="RP"><i>, <NS type="UN"><i>thing</i></NS> that</i><c>. That</c></NS> is not true, because <NS type="S"><i>insted</i><c>instead</c></NS> of him, there was another actor, <NS type="RC"><i>that</i><c>and</c></NS> I don't know <NS type="UV"><i>what's</i><c>what</c></NS> his name is.</p>
+          <p>Second, it says that the play would start at 19:30, and it <NS type="RY"><i><NS type="DY"><i>realy</i><c>really</c></NS></i><c>actually</c></NS> started at 20:15.</p>
+          <p>Third, I was told that I <NS type="TV"><i>can</i><c>could</c></NS> <NS type="RV"><i>have</i><c>get</c></NS> <NS type="R"><i>some</i><c>a</c></NS> discount, and when I was buying my ticket<NS type="UP"><i>,</i></NS> the lady in the <NS type="RN"><i>cabin</i><c>kiosk</c></NS> told me that that discount <NS type="TV"><i>doesn't</i><c>didn't</c></NS> exist. After that, when the show was finished, I was going to the theatre restaurant, and a man that works there told me that it was closed, and he <NS type="TV"><i>don't</i><c>didn't</c></NS> want to give me <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>reasons</i><c>reason</c></NS>.</p>
+          <p>You <NS type="RV"><i>can see</i><c>must understand</c></NS> that you <NS type="TV"><i>promise</i><c>promised</c></NS> me <NS type="TV"><i>I'll</i><c>I'd</c></NS> have a good evening and I <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="TV"><i>don't</i><c>didn't</c></NS> <NS type="U"><i>have it</i></NS>.</p>
+          <p>So I suggest<NS type="UP"><i>,</i></NS> you give me my money back, or I <NS type="TV"><i>would</i><c>will</c></NS> go to the police, because you <NS type="TV"><i>lie</i><c>lied</c></NS> to me and you know what <NS type="RA"><i>it</i><c>that</c></NS> means.</p>
+          <p>thank you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Cry Freedom - John Briley</p>
+          <p>Dear Anna:</p>
+          <p>I write this letter to tell you about the <NS type="SA"><i>program</i><c>programme</c></NS> that <NS type="W"><i>tomorrow starts</i><c>starts tomorrow</c></NS>, about that <NS type="S"><i>exelent</i><c>excellent</c></NS> book I have told you to read.</p>
+          <p>This <NS type="S"><i>exelent</i><c>excellent</c></NS> book tells the story of a man of 25 years that <NS type="AGV"><i>have</i><c>has</c></NS> a little boy, his son, that lives in <NS type="MD"><c>a</c></NS> very bad <NS type="RN"><NS type="S"><i>condicion</i><c>condition</c></NS></NS>. The story shows you the life that many people have to deal <NS type="MT"><c>with</c></NS> every day. <NS type="MA"><i>Shows</i><c>It shows</c></NS> you how they <NS type="DV"><i>affront</i><c>face</c></NS> it and what <NS type="W"><i>is life</i><c>life is</c></NS>, real life.</p>
+          <p>The book is very easy to read, but if you don't have time I <NS type="TV"><i><NS type="S"><i>recomended</i><c>recommended</c></NS></i><c>recommend</c></NS> <NS type="FV"><i>to listen</i><c>listening</c></NS> <NS type="MT"><c>to</c></NS> the <NS type="SA"><i>program</i><c>programme</c></NS>. I have been told that they will interview a lot of people <NS type="R">of different part</NS> that have read the book, and <NS type="M"><c>who will</c></NS> <NS type="RV"><i>tell</i><c>talk</c></NS> <NS type="MT"><c>about</c></NS> their experience. Also, that they <NS type="TV"><i>would</i><c>will</c></NS> invite <NS type="MD"><c>a</c></NS> <NS type="S"><i>psicologist</i><c>psychologist</c></NS>, the <NS type="S"><i>Autor</i><c>author</c></NS> of the book and <NS type="RP"><i>may be</i><c>maybe</c></NS> the president <NS type="TV"><i>would</i><c>will</c></NS> talk so I recommend you <NS type="RV"><i><NS type="FV"><i>to hear</i><c>hear</c></NS></i><c>listen to</c></NS> it.</p>
+          <p>I hope you listen to it, because I <NS type="SX"><i>thing</i><c>think</c></NS> that if you want to become <NS type="FD"><i>a</i><c>an</c></NS> M.P., it will teach you a lot of <NS type="AGN"><i>thing</i><c>things</c></NS>, and you <NS type="TV"><i>would</i><c>will</c></NS> learn more about <NS type="DJ"><i>England</i><c>English</c></NS> reality.</p>
+          <p>your friend for ever.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

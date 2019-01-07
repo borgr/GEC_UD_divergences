@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR292*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>40.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan,</p>
+          <p>I'm writing to you as regards the letter you've sent me about the competition I've won.</p>
+          <p>I've never been to the U.S.A. before so I think it'll be an exciting trip. With regard to the date of the trip, July would be best because in June I'm going to visit my family in Mexico and in August school begins.</p>
+          <p>I've never been camping before, I guess I'm not an outdoor girl, but I'd like to give it a try, so I'd rather tents than cabins.</p>
+          <p>I'm really keen on sports, especially sailing. I've <NS type="RV"><i>practised</i><c>been</c></NS> sailing since an early age and I <NS type="W"><i>perfectly manage the rigging and sail</i><c>manage the rigging and sail perfectly</c></NS>. I'm also fond of tennis, I've just started my lessons and would like to continue <NS type="RV"><i>practising</i><c>playing</c></NS> during the summer. So, I think I'll do sailing and tennis.</p>
+          <p>I'm not really sure <NS type="RT"><i>of</i><c>about</c></NS> what kind of clothes to take<NS type="RP"><i>, could</i><c>. Could</c></NS> you please write to me specifying what would be suitable? I'd appreciate it a lot.</p>
+          <p>Sincerely,</p>
+          <p>Diana Delgado</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>I'm a shopaholic, but I have to admit shopping is not always enjoyable. For instance, I spent my Spring Break with my friends in Italy<NS type="RP"><i>, we</i><c>. We</c></NS> went there to buy our dresses for our boyfriends' graduation (besides other reasons). They had invited us and we wanted them to see us <NS type="MV"><c>looking</c></NS> stunningly beautiful.</p>
+          <p>While we were in Florence my wallet was stolen, probably by a <NS type="S"><i>gypsie</i><c>gypsy</c></NS>. I was so annoyed! I was in the Plaza Espagna in Florence without a penny! My friends lent me some money, but it wasn't more than 120 pounds. I had to buy my dress, <NS type="RP"><i>it's</i><c>its</c></NS> <NS type="S"><i>accesories</i><c>accessories</c></NS> and <NS type="R"><i>besides</i><c>also</c></NS> clothes and souvenirs! I couldn't really do much, so I used the money I had and bought an incredible pair of shoes and some souvenirs. I felt really bad seeing my friends buy the latest fashion while the only thing I could do was tell them how great their clothes were and of course window-shop.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

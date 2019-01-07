@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR128*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to make some complaints about the musical show "Over the Rainbow", <NS type="MT"><c>of</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> you are the manager. I would like to say that there were many problems with the <NS type="UJ"><i>musical</i></NS> show.</p>
+          <p>The first problem concerned the main actor <NS type="RT"><i>of</i><c>in</c></NS> the show. Although it was written in the show's <NS type="S"><i>addvertisement</i><c>advertisement</c></NS> that the main actor was Danny Brook, it, unfortunately, was not him.</p>
+          <p>The show was supposed to have started at 19:30, but it only started at 20:15, so the <NS type="RN"><i>public</i><c>audience</c></NS>, including me, was forced to wait for <NS type="MP"><i><NS type="S"><i>fourty five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes.</p>
+          <p>It was also written in the show's <NS type="S"><i>addvertisement</i><c>advertisement</c></NS> that there would be discounts available <NS type="RT"><i>for</i><c>on</c></NS> the tickets. However, there <NS type="AGV"><i>was</i><c>were</c></NS> not any.</p>
+          <p>The fourth problem concerned the Theatre Restaurant. Even though the <NS type="S"><i>addvertisement</i><c>advertisement</c></NS> said we should visit it after the show, it was closed and no explanations were given.</p>
+          <p>In conclusion, the <NS type="S"><i>addvertisement</i><c>advertisement</c></NS> promised this would be a perfect evening out, but it was not, so I would like to ask for my money back.</p>
+          <p>I would like to hear from you in the near future.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Pat wasn't good at keeping secrets</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. <NS type="RA"><i>I</i><c>It</c></NS> all happened a year ago, when Pat and I were still best friends and used to tell each other everything.</p>
+          <p>One day, I <NS type="S"><i>inocently</i><c>innocently</c></NS> told Pat that I was dating Philip Smythe, the school's hunk and most popular boy. I asked Pat not to tell anyone, and she promised me she wouldn't. I believed in her and trusted her blindly.</p>
+          <p>I went home that day after having told Pat my deepest secret with a weird feeling in my heart. Something was telling me that I was going to lose a friend and a <NS type="RN"><i>love</i><c>lover</c></NS>.</p>
+          <p>The next day, I went to school and found out that Pat had told everybody that I was dating Philip. Suddenly, an <NS type="S"><i>enourmous</i><c>enormous</c></NS> <NS type="S"><i>saddness</i><c>sadness</c></NS> caught me, because Philip had begged me not to tell anyone, so he would <NS type="S"><i>definately</i><c>definitely</c></NS> <NS type="RV"><i>brake</i><c>break</c></NS> up with me, and I knew I was going to stop talking to Pat, because she had just ruined my happiness and I couldn't trust her anymore.</p>
+          <p>Now, unfortunately, I don't have a boyfriend or a best friend, all because Pat wasn't very good at keeping secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

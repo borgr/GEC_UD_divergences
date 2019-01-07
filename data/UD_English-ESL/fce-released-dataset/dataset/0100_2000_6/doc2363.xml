@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR952*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>51+</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>13.6.00</p>
+          <p>Dear Hellen,</p>
+          <p>Thank you very much for your letter<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> I received yesterday. I am very happy that I won the first prize in your competition - two weeks at <NS type="RP"><i>camp</i><c>Camp</c></NS> California in <NS type="MD"><c>the</c></NS> USA. Also I am pleased<NS type="UP"><i>,</i></NS> that I don't have to pay any expenses.</p>
+          <p>I would like to travel <NS type="M"><c>at the</c></NS> end of July. In June I have other arrangements, such as my school exams and my birthday. <NS type="AS"><i>It is convenient for me the last two weeks of July</i><c>The last two weeks of July are convenient for me</c></NS>. After my school exams I will have time to prepare myself for the trip.</p>
+          <p>In your letter you <NS type="TV"><i>are asking</i><c>ask</c></NS> me to <NS type="FV"><i>chose</i><c>choose</c></NS> which <NS type="MN"><c>type of</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I prefer. I would like very much to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>. Last year I <NS type="TV"><i>stay</i><c>stayed</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> with some friends in England and I really enjoyed it. <NS type="MT"><i><NS type="RP"><i>Summer time</i><c>Summertime</c></NS></i><c>In summertime</c></NS> the weather is good and I don't see <NS type="M"><c>there being</c></NS> any problem <NS type="MT"><c>with</c></NS> anywhere I <NS type="TV"><i>will stay</i><c>stay</c></NS>.</p>
+          <p>During my time in California, I would love to have the chance <NS type="R"><i>of</i><c>to do</c></NS> some leisure activities such as swimming. It is my favourite sport. I am good <NS type="W"><i>and fast at swimming</i><c>at swimming and fast</c></NS>. Another sport I love is <NS type="RP"><i>basket ball</i><c>basketball</c></NS>. <NS type="DY"><i>Hopefull</i><c>Hopefully</c></NS> I will meet some other girls <NS type="MJ"><c>interested</c></NS> in the same sport. So we <NS type="TV"><i>all play</i><c>will all play</c></NS> as a team.</p>
+          <p>My final question is this. Can you let me know if there <NS type="AGV"><i>is</i><c>are</c></NS> any facilities for washing my clothes<NS type="MP"><c>?</c></NS> If not I will bring with me enough to last for two weeks. Please give me a rough idea how much spending money I will need.</p>
+          <p>Please write soon</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Shoping</i><c>Shopping</c></NS> is not always enjoyable.</p>
+          <p>As a housewife I have a good <NS type="R">idea about it</NS>. Once a week I go shopping. Sometimes I go <NS type="R"><i>two days</i><c>twice</c></NS><NS type="MP"><c>.</c></NS> We all have to do our shopping. It is unavoidable<NS type="MP"><c>.</c></NS> Sometimes it is pleasant, and sometimes it's not.</p>
+          <p>I often shop with no problems, but on Saturday <NS type="MA"><c>it</c></NS> is not the same. <NS type="MD"><i>Shops</i><c>The shops</c></NS> are so crowded and it takes <NS type="MD"><c>a</c></NS> long time to find what we want and what we need. Also we <NS type="RV"><i>got</i><c>have</c></NS> to face a long queue in order to pay. <NS type="AS"><i>Spending long hours shopping it is tiring for some people</i><c>It is tiring for some people to spend long hours shopping</c></NS>. I find it very tiring sometimes.</p>
+          <p>Shopping is not always enjoyable because we spend money. Usually <NS type="W"><i>much more money we spend</i><c>we spend much more money</c></NS> than we expect. We can't do anything about <NS type="R"><i>is</i><c>it</c></NS>. We have to face it - it <NS type="R">has both sides</NS>. Sometimes shopping is very enjoyable but not <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

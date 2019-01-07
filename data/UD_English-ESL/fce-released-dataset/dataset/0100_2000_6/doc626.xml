@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR249*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you for your letter. I am very pleased to see that I <NS type="TV"><i>win</i><c>have won</c></NS> the first prize in your competition. I am going to answer your questions.</p>
+          <p>Firstly, I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I have some holidays during <NS type="RD"><i>this</i><c>that</c></NS> month. I am working the rest of this summer.</p>
+          <p>For the accommodation, I would prefer to stay in a log cabin because I think it is probably more comfortable. I think we are going to be tired so I prefer to sleep comfortably.</p>
+          <p>You also asked me about two activities. I choose singing because I love singing and I <NS type="TV"><i>am</i><c>have been</c></NS> in a choir for 7 years now. I also choose climbing. Unfortunately I am not so good <NS type="RT"><i>in</i><c>at</c></NS> it. But I would take the opportunity to improve <NS type="UA"><i>myself</i></NS>.</p>
+          <p>In addition, I have some questions. I would like to know <NS type="RQ"><i>which</i><c>what</c></NS> sort of clothes we have to take with us and also how much money is necessary.</p>
+          <p>I look forward to hearing from you in the near future.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Our life <NS type="UT"><i>of</i></NS> today is <NS type="R"><i>getting even more about <NS type="DN"><i>consommation</i><c>consumption</c></NS></i><c>increasingly about consumption</c></NS>. You always find more shops and they are open even <NS type="IJ"><i>more late</i><c>later</c></NS>. You can't live without shopping but shopping is not always enjoyable.</p>
+          <p>Firstly, if you try to do your shopping during the rush hour, it could be very difficult. Everybody is stressed<NS type="RP"><i>, you</i><c>.  You</c></NS> have to <NS type="RV"><i>make</i><c>join</c></NS> the queue. It is not <NS type="RJ"><i>comfortable</i><c>pleasant</c></NS> at all.</p>
+          <p>In addition, everything is now so expensive that you have to compare the prices. You have to find which shop offers you good quality products for a good price. <NS type="UC"><i>But sometimes</i><c>Sometimes</c></NS> some goods are expensive but of a very bad quality. And it is not an easy task if you have to complain about the quality. Most of the time the shop assistant doesn't believe you.</p>
+          <p>In conclusion, I can say that shopping is not the most enjoyable task you could find. Of course you also have some good aspects but most of the time it is very unpleasant. You could try to do your shopping via <NS type="MD"><c>the</c></NS> Internet. Perhaps you will find <NS type="MA"><c>it</c></NS> less <NS type="DJ"><i>inconvenience</i><c>inconvenient</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

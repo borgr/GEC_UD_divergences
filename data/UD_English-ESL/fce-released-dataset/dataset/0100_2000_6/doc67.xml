@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR261*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir &amp; Madam</p>
+          <p>Thank you for your letter. I'm writing this letter to tell you some further information that you need.</p>
+          <p>First of all, I'd like to travel in July because I have to work <NS type="M"><c>every month</c></NS> except that month. July is the only month that I can be free.</p>
+          <p>I prefer staying in tents because it is <NS type="MD"><c>an</c></NS> unusual experience for me. Also I'd like to have the chance to play tennis and <NS type="MV"><c>try</c></NS> sailing at the camp. Talking about tennis, I used to play it for about five years when I was a child. I think I'm much better than a beginner. But I never had a chance to enjoy sailing. I'd like to try this time.</p>
+          <p>Now, I have two questions about camping. First, what clothes should I bring? Is it hot enough? I've never been to California, therefore please let me know about the weather there. Second, how much money <NS type="SX"><i>to</i><c>do</c></NS> I need? I haven't a clue about it. I'd like to know some examples.</p>
+          <p>I'm waiting for your reply.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>It was so nice to hear from you last time. Thank you very much.</p>
+          <p>As I mentioned before, I really enjoyed helping at a pop concert last month<NS type="RP"><i>, the</i><c>. The</c></NS> artist's name was "Bonny Pink"<NS type="MP"><c>,</c></NS> who is famous in my country. I could enjoy her music very much.</p>
+          <p>My job was looking after her when she had a break time. I guided her to a rest room and served her a cup of tea, and so on. I thought it was <NS type="MD"><c>a</c></NS> most exciting job. Actually, I could have a chance to ask her about music, her <NS type="SA"><i>favorite</i><c>favourite</c></NS> artist and her hobby. I was impressed when I heard that she liked <NS type="RV"><i>playing</i><c>doing</c></NS> <NS type="FN"><i>puzzle</i><c>puzzles</c></NS> alone. She seemed to be <NS type="MD"><c>a</c></NS> very active woman when she was singing but at the same time she had <NS type="MD"><c>a</c></NS> very gentle attitude when she spoke to me. I became a fan of her.</p>
+          <p>It was <NS type="MD"><c>a</c></NS> very interesting experience for me. I wish you <NS type="TV"><i>were</i><c>had been</c></NS> there. But don't worry Kim, I'll send you a copy of her CD for you. I hope you can enjoy <NS type="MA"><c>it</c></NS>.</p>
+          <p>Anyway it's <NS type="UD"><i>the</i></NS> time to go to bed. Take care of yourself, Kim. I'm waiting for your letter.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

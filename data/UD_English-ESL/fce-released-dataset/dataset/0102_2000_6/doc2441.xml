@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR985*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Madam and <NS type="L"><i>Mister</i><c>Sir</c></NS></p>
+          <p>I am writing to you about your <NS type="RN"><i>theatre</i><c>production</c></NS>: 'over the rainbow'. I went to a performance and I am very disappointed. Firstly, your advertisement said the actor would be Danny Brook, but it was not. It <NS type="RV"><i>played</i><c>was</c></NS> <NS type="RP"><i>an other</i><c>another</c></NS> <NS type="R"><i>one</i><c>actor</c></NS> who played very <NS type="DY"><i>bad</i><c>badly</c></NS>. Secondly, the musical should start <NS type="RT"><i>on</i><c>at</c></NS> 19.30, but we had to wait until 20.15! It was boring that nothing <NS type="IV"><i>happend</i><c>happened</c></NS> <NS type="MT"><c>for</c></NS> such a long time on the stage. Did you know that you have no discounts on your tickets? I could not believe that. Why do you write things on your advertisement <NS type="R"><i>when nothing is</i><c>that are not</c></NS> true? And finally, I would <NS type="MV"><c>have</c></NS> had my dinner after this <NS type="DJ"><i>disappointment</i><c>disappointing</c></NS> musical and <NS type="S"><i>thougt</i><c>thought</c></NS> I <NS type="MV"><c>would</c></NS> go to 'Theatre restaurant'. But how <NS type="TV"><i>can</i><c>could</c></NS> <NS type="RA"><i>it</i><c>I</c></NS> <NS type="UV"><i>be</i></NS>, it was closed!</p>
+          <p><NS type="R"><i>This</i><c>There</c></NS> are too many <NS type="IJ"><i>negatives</i><c>negative</c></NS> points for one evening. I am afraid<NS type="UP"><i>,</i></NS> <NS type="RC"><i>but</i><c>that</c></NS> I want my money back. I hope you do not disappoint <NS type="DA"><i>my</i><c>me</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> this point.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+          <p>Pica Landen</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>'Fashion of the Future'! This is not a <NS type="S"><i>tabu</i><c>taboo</c></NS> <NS type="MN"><c>subject</c></NS> <NS type="RT"><i>by</i><c>with</c></NS> me and my friends. We have discussed <NS type="UT"><i>about</i></NS> it a lot of times. I think it is important and necessary to think about it, because our children will live in the future.</p>
+          <p>I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="FN"><i><NS type="S"><i>dout</i><c>doubt</c></NS></i><c>doubts</c></NS> when somebody said<NS type="UP"><i>,</i></NS> that the fashion of the future would be different. I think it is very difficult to change <NS type="UD"><i>the</i></NS> clothes and <NS type="UD"><i>the</i></NS> fashion so much again. We have so many <NS type="AGN"><i>kind</i><c>kinds</c></NS> of clothes and <NS type="AGN"><i>fashion</i><c>fashions</c></NS> <NS type="RT"><i>behind</i><c>from</c></NS> our old generations. Maybe, the skirts will be shorter and the colours brighter, the shoes <NS type="IJ"><i>moderner</i><c>more modern</c></NS> so that you <NS type="RP"><i>can not</i><c>cannot</c></NS> walk in them anymore.</p>
+          <p>Maybe in 500 years, some people will live on <NS type="UD"><i>the</i></NS> Mars and then<NS type="UP"><i>,</i></NS> they <NS type="MV"><c>will</c></NS> have to wear other <NS type="AGN"><i>kind</i><c>kinds</c></NS> of clothes. But I don't think <NS type="AGD"><i>this</i><c>these</c></NS> clothes are going to be a fashion on the earth. They just look funny!</p>
+          <p>See you in your next life!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

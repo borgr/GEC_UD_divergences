@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1007*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir Brown, I'm writing this letter to complain about the musical show that I saw. I <NS type="X"><i>hadn't</i><c>didn't have</c></NS> a good time! Firstly, Danny Brook didn't act. There was <NS type="RP"><i>an other</i><c>another</c></NS> actor, James Kee, but I didn't like him! I had gone to the theatre to see Danny Brook but he wasn't there. In addition to <NS type="MA"><c>that</c></NS>, the show didn't start at 20.15; so it ended at 23.45 and I couldn't go to a meeting. I'm very disappointed <NS type="RT"><i>for</i><c>by</c></NS> all these problems! Your theatre is very disorganized! The ticket's price was £20 and there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any <NS type="AGN"><i>discount</i><c>discounts</c></NS>! After the show, I wanted to eat something, but the theatre restaurant was closed because the chef was in Italy for a special course. I <NS type="X"><i>hadn't</i><c>didn't have</c></NS> <NS type="UD"><i>a</i></NS> great fun, so I ask for <NS type="MD"><c>that</c></NS> money back. <NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>In fact, some days before Karin, a friend of hers, had told Pat that she had fallen in love with John, her <NS type="UP"><i>science's</i><c>science</c></NS> teacher. Pat was astonished, and didn't know what (she) <NS type="RV"><i>had</i><c>should</c></NS> <NS type="FV"><i>to tell</i><c>tell</c></NS> Karla.</p>
+          <p>The teacher was 40 years old, and Karla was only 16 (years old). This <NS type="UP"><i>age's</i><c>age</c></NS> difference was too big!</p>
+          <p>Besides, Karla was a shy, polite girl that Pat wanted to help.</p>
+          <p>So she decided to tell Hill <NS type="ID"><i>all the story</i><c>the whole story</c></NS>. Hill <NS type="TV"><i>like</i><c>liked</c></NS> Pat very much, but only as a friend. He was 19 (years old), so Pat thought<NS type="UP"><i>,</i></NS> that he <NS type="RV"><i>had</i><c>would</c></NS> <NS type="FV"><i>to know</i><c>know</c></NS> what was the best thing to do.</p>
+          <p>But the situation wasn't simple, so Hill decided to discuss it with Mary, the teacher's <NS type="S"><i>cousine</i><c>cousin</c></NS>. They agreed that Karla's love was only a dream. So they went to talk with her about the situation, but when she knew that they <NS type="TV"><i>had know</i><c>knew</c></NS> her feelings <NS type="RT"><i>to</i><c>for</c></NS> Mr. Beek, she decided not to tell Pat anything <NS type="RY"><i>forever</i><c>ever</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

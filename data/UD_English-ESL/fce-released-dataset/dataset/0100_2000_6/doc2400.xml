@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR969*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I <NS type="TV"><i>have received</i><c>received</c></NS> your letter this morning and I'm very happy <NS type="RT"><i>for</i><c>about</c></NS> <NS type="R"><i>this</i><c>winning</c></NS> first prize.</p>
+          <p>It's a great opportunity for me <NS type="FV"><i>participate</i><c>to participate</c></NS> in your Camp California because <NS type="DY"><i>normaly</i><c>normally</c></NS> I work a lot and I can't spend money <NS type="RT"><i>to</i><c>on</c></NS> travel<NS type="RP"><i>, moreover</i><c>. Moreover</c></NS>, I have to <NS type="RV"><i>maintain</i><c>support</c></NS> <NS type="RD"><i>my</i><c>a</c></NS> big family because I'm married and I have three children.</p>
+          <p>I would like to travel in July because before <NS type="MY"><c>then</c></NS> I have to work with my father because he's ill.</p>
+          <p>For <NS type="S"><i>de</i><c>the</c></NS> accommodation I <NS type="MV"><c>would</c></NS> prefer a <NS type="SX"><i>long</i><c>log</c></NS> cabin because <NS type="TV"><i>it's</i><c>it'll be</c></NS> more comfortable. I <NS type="RV"><i>recognise</i><c>know</c></NS> that I would like to sleep in a tent but <NS type="RT"><i>in</i><c>at</c></NS> this moment I have a little problem with my right leg and it's better for me to sleep in a bed.</p>
+          <p>I know that I have the chance to do two activities during this <NS type="RN">time</NS>. I have to choose painting and <NS type="UD"><i>the</i></NS> photography therefore. I would prefer surfing or climbing but I have to think <NS type="RT"><i>in</i><c>of</c></NS> my <NS type="S"><i>helth</i><c>health</c></NS>.</p>
+          <p>In your letter you explain <NS type="UA"><i>me</i></NS> that all accommodation and travel costs are paid for but I need to know if the life <NS type="RT"><i>in</i><c>on</c></NS> Camp California is expensive or not because I have to bring money. <NS type="W"><i>The weather I hope</i><c>I hope the weather</c></NS> will be good so I suppose I have to bring <NS type="RJ">short</NS> clothes.</p>
+          <p>I'm very <NS type="S"><i>enthousiastic</i><c>enthusiastic</c></NS> and I <NS type="R"><NS type="RV"><i>attend</i><c>wait for</c></NS> your answer as soon is possible</NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>In our society <NS type="UD"><i>the</i></NS> money is one of the most important <NS type="R">aspect to have power</NS>.</p>
+          <p>If we <NS type="SX"><i>thing</i><c>think</c></NS> about <NS type="MA"><c>it</c></NS>, we will realise that we need money all <NS type="UD"><i>the</i></NS> day. Not only for the basic needs but also for the rest of <NS type="RD"><i>the</i><c>our</c></NS> activities.</p>
+          <p>There are a lot of people who spend a lot of money because they like shopping. Sometimes, they have to buy something that they need but<NS type="MP"><c>,</c></NS> frequently, they buy <NS type="MN"><c>things</c></NS> only to spend money. This is a big problem because a lot of families <NS type="X"><i>haven't</i><c>don't have</c></NS> money<NS type="UP"><i>,</i></NS> <NS type="UY"><i>however</i></NS> <NS type="FV"><i>spend</i><c>to spend</c></NS> going shopping.</p>
+          <p>We have to teach <NS type="UT"><i>to</i></NS> our children the value of <NS type="UD"><i>the</i></NS> money, to explain the difficulties <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to earn</i><c>earning</c></NS> money in a job, because we have to work eight, nine or ten hours a day, for example. <NS type="AS"><i>It's a first step to educate the youngest</i><c>Educating the youngest is a first step</c></NS> and <NS type="TV"><i>to help</i><c>helps</c></NS> our society.</p>
+          <p><NS type="UD"><i>The money</i><c>Money</c></NS> is important but we have to know how to spend it: shopping is not always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

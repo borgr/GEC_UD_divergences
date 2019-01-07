@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR908*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Manager of The Circle Theatre.</p>
+          <p>I'M WRITING TO YOU TO <NS type="RV"><i>EXPLAIN</i><c>DESCRIBE</c></NS> MY <NS type="S"><i>DESAGREABLE</i><c>DISAGREEABLE</c></NS> EXPERIENCE IN YOUR THEATRE <NS type="UD"><i>THE</i></NS> LAST SATURDAY, <NS type="RT"><i>IN</i><c>AT</c></NS> YOUR SHOW "OVER THE RAINBOW".</p>
+          <p>FIRST OF ALL, I WANT YOU <NS type="FV"><i>KNOW</i><c>TO KNOW</c></NS> THAT THIS SATURDAY WAS MY HUSBAND'S BIRTHDAY AND I WAS PLANNING THIS DAY <NS type="RT"><i>DURING</i><c>FOR</c></NS> ONE MONTH. MY INTENTION WAS TO <NS type="RV"><i>SPEND</i><c>HAVE</c></NS> <NS type="FD"><i>AN</i><c>A</c></NS> SPECIAL NIGHT WITH HIM. AND IT WAS REALLY SPECIAL!!!</p>
+          <p>YOUR SHOW STARTED ALMOST ONE HOUR <NS type="FY"><i>LATER</i><c>LATE</c></NS> AND <NS type="RT"><i>WITH</i><c>WITHOUT</c></NS> ANY DISCOUNT FOR US ON THE <NS type="RN"><i>ENTRY</i><c>PRICE OF THE TICKETS</c></NS>. BUT <NS type="RA"><i>IT</i><c>THAT</c></NS> WASN'T THE <NS type="FJ"><i>WORSE</i><c>WORST</c></NS>, BECAUSE I CAN UNDERSTAND THE TROUBLES <NS type="MT"><c>OF</c></NS> <NS type="R"><i>TO PLAY</i><c>PUTTING ON A PLAY</c></NS> <NS type="RT"><i>ON</i><c>IN</c></NS> THE THEATRE. BUT WHAT <NS type="W"><i>CANNOT I</i><c>I CANNOT</c></NS> FORGIVE <NS type="UT"><i>TO</i></NS> YOUR COMPANY IS <NS type="FV"><i>TO CHANGE</i><c>CHANGING</c></NS> THE <NS type="RN"><i>START</i><c>TIME IT STARTS</c></NS> <NS type="ID"><i>AT THE LAST MOMENT</i><c>AT THE LAST MINUTE</c></NS>, MY HUSBAND IS A DANNY BROOK'S FAN AND HE FELT REALLY <NS type="S"><i>DISSAPOINTED</i><c>DISAPPOINTED</c></NS>.</p>
+          <p><NS type="RA"><i>IT</i><c>THAT</c></NS> ISN'T ALL. WHEN THE SHOW WAS FINISHED, WE WANTED TO GO TO DINNER, AS YOU <NS type="RV"><i>PUBLISHED</i><c>SUGGESTED</c></NS> <NS type="RT"><i>ON</i><c>IN</c></NS> THE <NS type="S"><i>PROGRAMM</i><c>PROGRAMME</c></NS>, BUT THE RESTAURANT WAS CLOSED BECAUSE IT WAS <NS type="R">ON PUBLIC WORKS</NS>!!!</p>
+          <p>YOUR ORGANISATION WAS A GREAT DISASTER. NOBODY <NS type="TV"><i>TELL</i><c>TOLD</c></NS> US ANYTHING ABOUT THE CHANGES, AND WE WANT <NS type="UC"><i>THAT</i></NS> YOU <NS type="FV"><i>GIVE</i><c>TO GIVE</c></NS> US BACK THE MONEY <NS type="M"><c>WE SPENT</c></NS>. I FEEL YOU <NS type="TV"><i>LIE</i><c>LIED</c></NS> <NS type="MT"><c>TO</c></NS> ME AND YOUR COMPANY IS NOT <NS type="RJ"><i>SERIOUS</i><c>PROFESSIONAL</c></NS>.</p>
+          <p>I WAIT <NS type="MT"><c>FOR</c></NS> YOUR ANSWER, AND <NS type="MT"><c>FOR</c></NS> OUR MONEY BACK AS SOON AS POSSIBLE.</p>
+          <p><NS type="UP"><i>Your's</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>Pat wasn't the most popular boy in the school. He was shy, reserved and a very closed person. He enjoyed himself reading, <NS type="MC"><c>and</c></NS> playing piano at home.</p>
+          <p>Despite his way of <NS type="DN"><i>live</i><c>life</c></NS>, his best friend was Anna, the most popular girl in the school. She <NS type="AS"><i><NS type="RV"><i>explained</i><c>told</c></NS> everything <NS type="R"><i>what</i><c>that</c></NS> happened in her <NS type="DN"><i>live</i><c>life</c></NS> to Pat</i><c>told Pat everything that happened in her life</c></NS>.</p>
+          <p>When Pat was 16, he decided to change his way of <NS type="DN"><i>live</i><c>life</c></NS>, <NS type="FV"><i>spending</i><c>to spend</c></NS> more time with friends, but what <NS type="W"><i>he could</i><c>could he</c></NS> do to <NS type="RV"><i>have</i><c>get</c></NS> some friends?</p>
+          <p><NS type="R"><NS type="S"><i>Definately</i><c>Definitely</c></NS> the worse</NS>. He started to "sell" <NS type="W"><i>the secrets of Anna</i><c>Anna's secrets</c></NS> to all the boys <NS type="RT"><i>of</i><c>in</c></NS> the school who were interested in her. All the boys <NS type="RT"><i>of</i><c>in</c></NS> the class went to Pat to <NS type="RV"><i>know</i><c>find out</c></NS> what Anna was doing <NS type="RT"><i>in</i><c>at</c></NS> every moment, and Pat was becoming '<NS type="FN"><i>friend</i><c>friends</c></NS>' <NS type="RT"><i>of</i><c>with</c></NS> all the boys.</p>
+          <p>He was very happy, because he felt that everybody loved him. Everyone<NS type="UP"><i>,</i></NS> <NS type="R"><i>less</i><c>apart from</c></NS> Anna. She didn't tell him anything <NS type="RY"><i>more</i><c>anymore</c></NS>, and Pat didn't have any <NS type="AGN"><i>secret</i><c>secrets</c></NS> to sell to his "new friends".</p>
+          <p><NS type="R"><i>At least</i><c>Finally</c></NS>, Pat didn't have any <NS type="AGN"><i>friend</i><c>friends</c></NS>, because he didn't have anything <NS type="W"><i>to sell about Anna</i><c>about Anna to sell</c></NS>.</p>
+          <p>Is it moral<NS type="UP"><i>,</i></NS> to get some friends <NS type="MT"><c>by</c></NS> destroying and hurting <NS type="AGQ"><i>another</i><c>other</c></NS> people? I think <NS type="RY"><i>NO</i><c>NOT</c></NS>! And you?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

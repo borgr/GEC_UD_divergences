@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR448*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the musical <NS type="UN"><i>show</i></NS>, OVER THE RAINBOW, and also about the <NS type="S"><i>servic</i><c>service</c></NS>.</p>
+          <p>When I went to London, during my holiday, I decided to go to the theatre to see a musical <NS type="UN"><i>show</i></NS>, OVER THE RAINBOW.</p>
+          <p>During and also after the show lots of disappointing <NS type="AGN"><i>thing</i><c>things</c></NS> <NS type="RV"><i>turned up</i><c>happened</c></NS>.</p>
+          <p>Firstly, it was not Danny Brook and Tina Truelove who acted, it was someone else.</p>
+          <p><NS type="S"><i>Sacondly</i><c>Secondly</c></NS>, in your advertisement I <NS type="TV"><i>read</i><c>had read</c></NS> "Times 14.30 and 19.30". In fact the show started <NS type="MT"><c>at</c></NS> 20:15</p>
+          <p>Thirdly, I also read "Visit our theatre restaurant after the show", but the restaurant was closed because <NS type="R"><i>of</i><c>it was being</c></NS> <NS type="TV"><i>painting</i><c>painted</c></NS>.</p>
+          <p>Last but not least, it also <NS type="TV"><i>says</i><c>said</c></NS> "discounts available", but there <NS type="AGV"><i>was</i><c>were</c></NS> not any staff there who could <NS type="RV"><i>do</i><c>provide</c></NS> <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p>So I am sure that you will understand why I feel so frustrated and disappointed about the whole thing.</p>
+          <p>I look <NS type="S"><i>farward</i><c>forward</c></NS> to hearing from you in the very near future, to offer me <NS type="R"><i>the</i><c>my</c></NS> money back.</p>
+          <p>Yours faithfully</p>
+          <p>Maris Svensson</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>"Unfortunately, Pat wasn't very good at keeping secrets." I was reading when I suddenly <NS type="SX"><i>hard</i><c>heard</c></NS> a big bang. I looked out through the window and saw a big strange "thing". It looked like a floating potato, a brown potato. After that a being <NS type="S"><i>climed</i><c>climbed</c></NS> out <NS type="RT"><i>from</i><c>of</c></NS> the potato. It looked at me and said.</p>
+          <p>"I am <NS type="SX"><i>hear</i><c>here</c></NS> to help you. I only need to touch your teacher and you never need to do any homework again."</p>
+          <p>I could not <NS type="S"><i>belive</i><c>believe</c></NS> my ears. It was the happiest moment of my life.</p>
+          <p>I went back to my chair and when I looked up I saw my <NS type="RN"><i>main-teacher</i><c>head teacher</c></NS> walking through the door with the being <NS type="RT"><i>after</i><c>behind</c></NS> him. The being moved its hand <NS type="S"><i>farward</i><c>forward</c></NS> and.....</p>
+          <p>Then I felt a big pain in my head and heard<NS type="MP"><c>,</c></NS> "You can't sleep in the lesson". I looked up and saw my friend with the <NS type="RP"><i>coursebook</i><c>course book</c></NS> in her hand. <NS type="S"><i>Immediantely</i><c>Immediately</c></NS> after I heard<NS type="MP"><c>,</c></NS> "And don't forget your homework". I looked at the book and read:</p>
+          <p>"Unfortunately, Pat wasn't very good at keeping secrets"</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

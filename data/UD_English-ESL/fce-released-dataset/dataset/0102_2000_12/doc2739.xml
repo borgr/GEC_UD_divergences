@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1111*0102*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I would like to congratulate you on your wonderful "Arts Festival". You <NS type="TV"><i>have</i><c>had</c></NS> a really great idea to create this sort of <NS type="RP"><i>Festival</i><c>festival</c></NS>. I had a lot of fun <NS type="UV"><i>to go</i></NS> there. I <NS type="UV"><i>would like</i></NS> <NS type="TV"><i>to come</i><c>would come</c></NS> next year with <NS type="UD"><i>a</i></NS> great pleasure.</p>
+          <p>I hope you will not <NS type="MV"><c>be</c></NS> angry if I give you some advice<NS type="RP"><i>?</i><c>.</c></NS> <NS type="RY"><i>At first</i><c>First</c></NS>, I would like to talk about your section "Stars and Artists". This section is really great and <NS type="AGV"><i>attract</i><c>attracts</c></NS> a lot of people. From my point of view, it will better if you have some "Stars and Artists" from only six countries<NS type="UP"><i>. Because</i><c> because</c></NS> the spectators will probably <NS type="MV"><c>be</c></NS> more interested in your festival if they know the celebrities.</p>
+          <p>I also would like to talk about your concerts. The concerts are fabulous but the <NS type="FN"><i>problems</i><c>problem</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> the halls. They are too small for all the people. Could you do something <NS type="RT"><i>for</i><c>about</c></NS> these problems?</p>
+          <p>All the sections of your festival were great but I think there were not a lot of "Plays and <NS type="RP"><i>films</i><c>Films</c></NS>". I love films and <NS type="RP"><i>Plays</i><c>plays</c></NS> also, and <NS type="TV"><i>I'll hope</i><c>I hope</c></NS> to have more films or <NS type="RP"><i>Plays</i><c>plays</c></NS> next year.</p>
+          <p>Concerning the tickets, I think your price is reasonable for this festival. It is a good idea to have reasonably-priced <NS type="MN"><c>tickets</c></NS> for weekends.</p>
+          <p>I'm looking forward <NS type="SX"><i>do</i><c>to</c></NS> hearing from you<NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Phil,</p>
+          <p>I'm really happy to receive your letter and I hope you are fine. I'm fine but I have a lot of work to do for my school. My exams start <NS type="UD"><i>the</i></NS> next month<NS type="MP"><c>,</c></NS> that's why I have a lot of work.</p>
+          <p>In your letter, you <NS type="TV"><i>want</i><c>wanted</c></NS> to know about my school rules in France and you also <NS type="TV"><i>want</i><c>wanted</c></NS> to know what I am or I am not allowed to do at home.</p>
+          <p>Alright, I'm going to answer your questions. <NS type="RY"><i>At first</i><c>First</c></NS><NS type="RP"><i>; . You</i><c>, you</c></NS> are not allowed to smoke, drink or to take <NS type="UQ"><i>some</i></NS> drugs in my school. You must <NS type="FV"><i>to be</i><c>be</c></NS> outside during the break. You must <NS type="RV">sign</NS> your notebook to your parents every week. You are not allowed to argue with your teacher after you <NS type="RV">receive</NS> an exam. You must <NS type="FV"><i>to be</i><c>be</c></NS> on time at school or you <NS type="RV"><i>have</i><c>get</c></NS> a punishment. I have so many other rules but these are the most important.</p>
+          <p>At home, I'm not allowed to watch television after 8 p.m. I must do my <NS type="RP"><i>home work</i><c>homework</c></NS> when I come back <NS type="UT"><i>at</i></NS> home. I <NS type="W"><i>also must</i><c>must also</c></NS> <NS type="FV"><i>to help</i><c>help</c></NS> my parents <NS type="RT"><i>in</i><c>with</c></NS> home activities<NS type="RP"><i>. For</i><c>, for</c></NS> example<NS type="RP"><i>; <NS type="FV"><i>to clean</i><c>clean</c></NS></i><c>, clean</c></NS> my room and the other rooms, or <NS type="FV"><i>to cook</i><c>cook</c></NS>, etc.... I <NS type="RP"><i>Hope</i><c>hope</c></NS> <NS type="AGD"><i>these</i><c>this</c></NS> information will help you,</p>
+          <p>Keep in touch<NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>Love<NS type="RP"><i>.</i><c>,</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

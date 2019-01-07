@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR110*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Madrid, 17 - June - 2000 Dear SIR/MADAM, My name is ....I <NS type="TV"><i>am working</i><c>work</c></NS> as an actor for The Spanish Royal Theatre. I <NS type="TV"><i>had spent</i><c>spent</c></NS> the <NS type="SX"><i>hole</i><c>whole</c></NS> <NS type="MT"><c>of</c></NS> last week in London with one of my colleagues. Sunday night we went to your theatre. We thought that going to the musical show "Over The Rainbow" <NS type="TV"><i>was</i><c>would be</c></NS> (as you say in your advertisement) the perfect evening out and the perfect end <NS type="RT"><i>of</i><c>to</c></NS> our stay in your city. But from the beginning we <NS type="RV"><i>found</i><c>had</c></NS> a lot of problems. Despite <NS type="UA"><i>we</i></NS> <NS type="FV"><i>are</i><c>being</c></NS> actors we had to pay <NS type="MT"><c>for</c></NS> a <NS type="RJ"><i>full</i><c>full-price</c></NS> ticket because the discounts you promise are not available on Sundays. We tried to complain but the girl at the <NS type="FN"><i>tickets</i><c>ticket</c></NS> desk was very <NS type="DJ"><i>unpolite</i><c>impolite</c></NS>. However, we decided to <NS type="RV"><i>get</i><c>go</c></NS> <NS type="RT"><i>into</i><c>to</c></NS> the show. Danny Brook is a good friend of mine and our <NS type="RN"><i>purpose</i><c>intention</c></NS> was to give him a surprise. You can imagine <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>were our faces like</i><c>our faces were like</c></NS> when we saw that it was not Danny, but Peter Fox, who was on the stage. Nevertheless we decided to stay <NS type="UY"><i>there</i></NS> till the end of the show and to <NS type="RV"><i>take</i><c>have</c></NS> dinner in your restaurant, where we were supposed to meet some friends; friends that we never met because your restaurant was closed when we got out. I am sure that the restaurant closed at its <NS type="DN"><i>closing-hour</i><c>closing time</c></NS> but you have to remember that the show began 45 minutes late. <NS type="ID"><i>As you can read</i><c>As you can see</c></NS> it was not our "perfect evening out" at all. I was really disappointed. I realize that managing a theatre is <NS type="UD"><i>a</i></NS> hard work but I have to ask you <NS type="MT"><c>for</c></NS> the money <NS type="RT"><i>of</i><c>for</c></NS> the tickets back. Next time it would be a good idea to put the possible changes <NS type="RT"><i>on</i><c>in</c></NS> the advertisement, before the <NS type="RN"><i>starting time</i><c>start</c></NS> of the show. I am waiting <NS type="MT"><c>for</c></NS> your answer,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>HOW HAS MODERN TECHNOLOGY CHANGED YOUR DAILY LIFE?</p>
+          <p>My composition is going to focus <NS type="RY"><i>in</i><c>on</c></NS> two main ideas: how <NS type="UD"><i>the</i></NS> modern technology has changed my home life and how it affects my personal and professional life.</p>
+          <p>Technology makes <NS type="W"><i>easier <NS type="RN"><i>the work at home</i><c>housework</c></NS></i><c>housework easier</c></NS>. I can't imagine how my life would be without a washing machine, a drier or a fridge. During the winter, when it is raining, you can have your clothes dry in less <NS type="SX"><i>that</i><c>than</c></NS> thirty minutes. That's fantastic.</p>
+          <p>Technology has also been a great help in my everyday work. I am thinking mostly <NS type="RT"><i>on</i><c>of</c></NS> computers. Being a journalist I have to write lots of pages every day. The computer allows me to change my ideas without any effort and to store a <NS type="RJ"><i>big</i><c>large</c></NS> amount of information in the minimum space.</p>
+          <p>Also, the e-mail system is really <NS type="S"><i>hepful</i><c>helpful</c></NS>. Thanks to the <NS type="RN"><i>advance</i><c>invention</c></NS> of <NS type="MD"><c>the</c></NS> Internet I can contact lots of colleagues all around the world <NS type="RP"><i>everyday</i><c>every day</c></NS> (and with the minimum cost). But, <NS type="ID"><i>on my opinion</i><c>in my opinion</c></NS>, the best thing is that I can stay at home or <NS type="FV"><i>going</i><c>go</c></NS> on <NS type="FN"><i>holidays</i><c>holiday</c></NS>, and send my work to the office <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

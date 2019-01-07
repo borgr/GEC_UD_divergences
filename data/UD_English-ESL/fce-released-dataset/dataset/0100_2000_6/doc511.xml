@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR209*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you <NS type="R"><i>a lot</i><c>very much</c></NS> for your letter<NS type="RP"><i>,</i><c>.</c></NS> I am very happy <NS type="RT"><i>of</i><c>about</c></NS> having won the competition. I have several <NS type="RN"><i>precisions</i><c>things</c></NS> to tell you and some questions about the camp.</p>
+          <p>First, I would like to travel in July because it is the only free month I have in the summer. I have exams in June and a <NS type="RN"><i>work</i><c>job</c></NS> in August. Then, about accommodation, I would prefer a tent because I am used to <NS type="MA"><c>it</c></NS>. I have already been <NS type="RT"><i>in</i><c>to</c></NS> <NS type="RJ"><i>different</i><c>other</c></NS> summer camps and I always choose this accommodation<NS type="RP"><i>,</i><c>.</c></NS> I find it more <NS type="RJ"><i>friendly</i><c>sociable</c></NS> than a log cabin.</p>
+          <p>I have chosen <NS type="RT"><i>between</i><c>from</c></NS> the activities <NS type="RJ"><i>proposed</i><c>offered</c></NS> to do photography<NS type="RP"><i>,</i><c>.</c></NS> I have already been <NS type="RN"><i>part</i><c>a member</c></NS> of a photography club so I am experienced. I also would like to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> climbing but I have never done it before.</p>
+          <p>Finally, I would like to know what sort of clothes do <NS type="MA"><c>you</c></NS> advise me to bring to be <NS type="RJ"><i>at ease</i><c>comfortable</c></NS> during my activities and<NS type="MP"><c>,</c></NS> as nearly everything is already paid <NS type="MT"><c>for</c></NS>, do I need to take a lot of money with me?</p>
+          <p>Thank you <NS type="R"><i>a lot</i><c>very much</c></NS> for all these details.</p>
+          <p>Yours sincerely</p>
+          <p>Jasmine Martin</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I have a lot of different things to tell you about what happened at the concert. It was really an amazing experience.</p>
+          <p>First, I had to spend all <NS type="MT"><c>of</c></NS> the day before the concert in the field where it <NS type="TV"><i>took</i><c>was to take</c></NS> place<NS type="RP"><i>,</i><c>.</c></NS> I had to prepare <NS type="W"><i>a little the stage</i><c>the stage a little</c></NS> but<NS type="MP"><c>,</c></NS> as I was not a profesional, I did not do much with the instruments. I tried to play the drums but I was <NS type="RV"><i>expelled</i><c>thrown off</c></NS> <NS type="UT"><i>from</i></NS> the stage by a member of the group who was in a bad mood.</p>
+          <p>I <NS type="RV"><i>prepared</i><c>made</c></NS> sandwiches for all the staff <NS type="RT"><i>during</i><c>for</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> major part of the afternoon and then I sold tickets to the <NS type="RN"><i>viewers</i><c>audience</c></NS> all <NS type="UD"><i>the</i></NS> evening. I was very tired but when the concert began I felt excited because there were so many people dancing and singing in front of the stage.</p>
+          <p>As I was a volunteer I did not have to pay to <NS type="RV"><i>look</i><c>watch</c></NS> <NS type="UT"><i>at</i></NS> the concert and after it I spent the rest of the night with the members of the group. That was the best.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Yours,</p>
+          <p>Brenda</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

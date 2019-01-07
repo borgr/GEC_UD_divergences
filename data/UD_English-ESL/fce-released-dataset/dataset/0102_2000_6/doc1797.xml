@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR64*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>&lt;16</age></personnel><score>9</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you about the show. I was very disappointed after <NS type="RD"><i>this</i><c>the</c></NS> show. I would like to have my money back. <NS type="RY"><i>At first</i><c>First</c></NS> the show started at 10.15, and it should <NS type="TV"><i>be</i><c>have started</c></NS> at 19.30.</p>
+          <p>After your show I wanted to visit my friends, and because of it, I <NS type="RV"><i>didn't</i><c>couldn't</c></NS> do <NS type="RA"><i>it</i><c>that</c></NS>.</p>
+          <p>Also, you wrote about discounts, but <NS type="TV"><i>it's</i><c>it was</c></NS> not true! The woman<NS type="UP"><i>,</i></NS> who sold <NS type="MA"><c>me</c></NS> a ticket was very <NS type="S"><i>roud</i><c>rude</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> me, actually she started swearing at me.</p>
+          <p>During the show, I was very hungry but I hoped to visit <NS type="MD"><c>the</c></NS> restaurant, <NS type="TV"><i><NS type="RA"><i>it's</i><c>which's</c></NS></i><c>which was</c></NS> a pity, <NS type="RC"><i>but</i><c>because</c></NS> <NS type="MD"><c>the</c></NS> restaurant was closed because it was too late.</p>
+          <p>And, I forget to say <NS type="MA"><c>something</c></NS> about <NS type="MD"><c>the</c></NS> <NS type="AGN"><i>actor</i><c>actors</c></NS>, I didn't enjoy them.</p>
+          <p>So, I hope I will get my money back<NS type="RP"><i>, it</i><c>. It</c></NS> was <NS type="MD"><c>a</c></NS> very disappointing evening <NS type="UT"><i>out</i></NS> in my life! I hope you understand me!</p>
+          <p><NS type="DA"><i>your</i><c>Yours</c></NS> sincerely</p>
+          <p>Ongelina</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, but <NS type="W"><i><NS type="RP"><i>any way</i><c>anyway</c></NS> I trusted him</i><c>I trusted him anyway</c></NS>. <NS type="UV"><i>It's</i><c>It</c></NS> happened 3 months ago, and during <NS type="RD"><i>this</i><c>the</c></NS> <NS type="M"><c>last few</c></NS> months I <NS type="TV"><i>am</i><c>have been</c></NS> very upset.</p>
+          <p>I have a friend, his name <NS type="MV"><c>is</c></NS> Peter, he is my best friend.</p>
+          <p>One day Peter killed <NS type="RD"><i>one</i><c>a</c></NS> boy. They were just playing and<NS type="MP"><c>,</c></NS> <NS type="R"><i>be</i><c>by</c></NS> <NS type="S"><i>acsident</i><c>accident</c></NS>, Peter <NS type="TV"><i>shoot</i><c>shot</c></NS> him. I was there, I saw it. I <NS type="RV"><i>hoped</i><c>thought</c></NS> that it<NS type="UP"><i>,</i></NS> <NS type="W"><i><NS type="RY"><i>just</i><c>only</c></NS> could</i><c>could only</c></NS> <NS type="TV"><i>see</i><c>be seen</c></NS> <NS type="MT"><c>by</c></NS> 3 people, but <NS type="RA"><i>it</i><c>that</c></NS> was <NS type="MD"><c>a</c></NS> mistake... Pat saw it! We <NS type="RV"><i>spoke with</i><c>asked</c></NS> Pat many times to keep this secret, not to tell anyone. We trusted him. <NS type="R"><i>At</i><c>For the</c></NS> first <NS type="RQ"><i>several</i><c>few</c></NS> days, Pat <NS type="W"><i>all the time was with us</i><c>was with us all the time</c></NS>. He promised to keep <NS type="MA"><c>it</c></NS> secret<NS type="UT"><i><NS type="RP"><i>, in the</i><c>. In the</c></NS></i><c>. The</c></NS> next morning we had <NS type="MD"><c>an</c></NS> <NS type="S"><i>arguiment</i><c>argument</c></NS> with Pat<NS type="RP"><i>,</i><c>.</c></NS> <NS type="MD"><c>The</c></NS> 3 of us were shouting at each other<NS type="RP"><i>, in</i><c>. In</c></NS> <NS type="FJ"><i>shorter</i><c>short</c></NS><NS type="MP"><c>,</c></NS> Pat <NS type="RV"><i>went away from</i><c>left</c></NS> us.</p>
+          <p>Two days later<NS type="MP"><c>,</c></NS> in the morning, <NS type="RD"><i>the</i><c>a</c></NS> policeman came to <NS type="MV"><c>see</c></NS> Peter... So, now my best friend is <NS type="MD"><c>a</c></NS> prisoner. All the time<NS type="MP"><c>,</c></NS> I am thinking about Peter. I don't forget him. He will be in <NS type="UD"><i>the</i></NS> prison <NS type="MT"><c>for</c></NS> 5 years. By the way<NS type="MP"><c>,</c></NS> I <NS type="RV"><i>don't</i><c>haven't</c></NS> <NS type="TV"><i>see</i><c>seen</c></NS> Pat <NS type="MT"><c>for</c></NS> about one year. Perhaps, he moved <NS type="RT"><i>into</i><c>to</c></NS> another town. It's good that he <NS type="MV"><c>is</c></NS> far away... I miss Peter very much, it's unfair to put him in a prison. But it's life, destiny, very cruel destiny...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

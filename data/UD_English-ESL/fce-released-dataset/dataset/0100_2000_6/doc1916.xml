@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR737*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>13rd of June</p>
+          <p>Dear Helen Ryan,</p>
+          <p>I was really happy when your letter arrived and I <NS type="RV"><i><NS type="IV"><i>node</i><c>knew</c></NS></i><c>learned</c></NS> that I won the first prize in your competition.</p>
+          <p>I have never been <NS type="RT"><i>in</i><c>to</c></NS> the U.S.A.</p>
+          <p>Now I will give you the <NS type="CN"><i>informations</i><c>information</c></NS> which you asked for. <NS type="W"><i>For me it is only possible</i><c>It is only possible for me</c></NS> to travel in July. That is the only month <NS type="R"><i>where</i><c>when</c></NS> I have time because after July I have to start <NS type="R"><i>with the</i><c>at</c></NS> <NS type="RP"><i>University</i><c>university</c></NS>.</p>
+          <p>I would prefer to sleep in a tent because I am used to it. When I was a child my parents and I spent a lot of time at camps.</p>
+          <p>You wrote that I should choose two activities. I have chosen golf because I <NS type="TV"><i>playing</i><c>have been playing</c></NS> golf <NS type="S"><i>sine</i><c>since</c></NS> 1998 and I want to improve <NS type="UA"><i>it</i></NS> and then I decided to start a new kind of sport and I would like to start <NS type="UT"><i>with</i></NS> climbing. I could play <NS type="W"><i>in the first week golf</i><c>golf in the first week</c></NS> and in the second I could start <NS type="UT"><i>with</i></NS> climbing.</p>
+          <p>What about money and clothes? You know what kind of clothes I need and could you give some <NS type="CN"><i>advices</i><c>advice</c></NS> <NS type="MT"><c>on</c></NS> how much money I will need?</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>I think it <NS type="S"><i>depents</i><c>depends</c></NS> if you are a man or a woman and now I have to say I am a woman and I enjoy it.</p>
+          <p>Honestly I <NS type="W"><i>had never</i><c>never had</c></NS> a shopping <NS type="RN"><i>tour</i><c>trip</c></NS> <NS type="W"><i>which I didn't enjoy <NS type="U"><i>when I was</i></NS> alone</i><c>alone which I didn't enjoy</c></NS>.</p>
+          <p>I can remember one shopping <NS type="RN"><i>tour</i><c>trip</c></NS> which I <NS type="RV"><i>had</i><c>went</c></NS> <NS type="MT"><c>on</c></NS> with a man and it was <NS type="MD"><c>a</c></NS> nightmare.</p>
+          <p>It was a fantastic sunny day and we went to Frankfurt and I really needed <NS type="RN"><i>shows</i><c>shoes</c></NS> and it is not easy to buy shoes <NS type="MP"><i>you</i><c>. You</c></NS> have to choose carefully.</p>
+          <p>I tried ten pairs of shoes and with every shoe his mood got worse and worse and <NS type="RY"><i>at the end</i><c>in the end</c></NS> we had a big fight about everything.</p>
+          <p>We left the shop without <NS type="MQ"><c>any</c></NS> shoes, in <NS type="MD"><c>a</c></NS> horrible mood and we went home. Now he is my <NS type="RP"><i>ex.boyfriend</i><c>ex-boyfriend</c></NS>! Two days later I went back to the shop and I bought the shoes<NS type="MP"><c>,</c></NS> which I still wear. This was for me the only shopping <NS type="RN"><i>tour</i><c>trip</c></NS> which was not enjoyable.</p>
+          <p>To sum up, my <NS type="DN"><i>advise</i><c>advice</c></NS> is that <NS type="UD"><i>the</i></NS> women should go alone or with a female friend.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

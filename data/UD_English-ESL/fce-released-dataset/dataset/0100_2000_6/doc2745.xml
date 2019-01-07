@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1113*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Helen</p>
+          <p>I have just <NS type="S"><i>recived</i><c>received</c></NS> your letter and I'm very happy <NS type="RT"><i>for</i><c>because of</c></NS> it, especially <NS type="S"><i>becouse</i><c>because</c></NS> the competition was so hard.</p>
+          <p>Being at Camp California was one of <NS type="MD"><c>the</c></NS> dreams of my life and now I can <NS type="FV"><i><NS type="S"><i>relaized</i><c>realised</c></NS></i><c>realise</c></NS> it.</p>
+          <p>Firstly, I could <NS type="FV"><i><NS type="RV"><i>to pass</i><c>to spend</c></NS></i><c>spend</c></NS> <NS type="AGQ"><i>this</i><c>these</c></NS> two weeks during next July only, because, before and after it, I have to <NS type="FV"><i>working</i><c>work</c></NS> as a waiter here in my town.</p>
+          <p>However, about accommodation, I'd prefer a log cabin, <NS type="S"><i>becouse</i><c>because</c></NS> it is more <NS type="S"><i>confortable</i><c>comfortable</c></NS> than <NS type="RD"><i>the</i><c>a</c></NS> tent. All the activities indicated in your letter are great for me but I prefer tennis and surfing, because I'm used to playing tennis <NS type="UT"><i>during</i></NS> every <NS type="AGN"><i>weekends</i><c>weekend</c></NS> and I'm very keen <NS type="RT"><i>to</i><c>on</c></NS> surfing. I'm a good tennis player and a big surfer too.</p>
+          <p>Lastly, I'm interested <NS type="RT"><i>about</i><c>in</c></NS> the <NS type="RP"><i>law's</i><c>law</c></NS> schools in California<NS type="RP"><i>, they</i><c>. They</c></NS> are very famous here.</p>
+          <p>I would like to know if I will visit at least one of them.</p>
+          <p>I look forward to seeing you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>This is a <NS type="RJ">precise</NS> letter that I write <NS type="MT"><c>to</c></NS> you now. I'm very happy and lazy at the same time.</p>
+          <p>Last month I visited Tom, another old friend, and he told me <NS type="R"><i>if I had</i><c>I could</c></NS> <NS type="FV"><i>worked</i><c>work</c></NS> with him <NS type="RT"><i>like</i><c>as</c></NS> <NS type="MD"><c>a</c></NS> musician at the XZY pop concert. "This is extraordinary", I said.</p>
+          <p>Firstly, I was very <NS type="RJ"><i><NS type="S"><i>embaracing</i><c>embarrassing</c></NS></i><c>embarrassed</c></NS> during the concert, but all the staff were very <NS type="L"><i>kindly</i><c>kind</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> me and Tom too. This <NS type="TV"><i>is</i><c>was</c></NS> the most important experience in my life, I knew all the people, in <NS type="UD"><i>a</i></NS> particular the famous singer "Kos". He is funny and <NS type="RP"><i>easy-going</i><c>easy going</c></NS>. During the concert, I was near the <unknown/> and opposite there was "Pipe" the biggest <unknown/> <NS type="RT"><i>of</i><c>in</c></NS> the world. It's very difficult describing all <NS type="MD"><c>the</c></NS> <NS type="AGN"><i>emotion</i><c>emotions</c></NS> I felt. I can only tell <NS type="MA"><c>you</c></NS> that <NS type="MA"><c>it</c></NS> had been an important experience for me and for my new songs. Excuse me Kim, but I'm so nervous that I <NS type="S"><i>obn't</i><c>won't</c></NS> be able to write <NS type="S"><i>oben</i><c>even</c></NS> this letter <NS type="UY"><i>yet</i></NS>.</p>
+          <p>I hope to <NS type="FV"><i>hearing</i><c>hear</c></NS> <NS type="MT"><c>from</c></NS> you soon</p>
+          <p>Your best friend</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

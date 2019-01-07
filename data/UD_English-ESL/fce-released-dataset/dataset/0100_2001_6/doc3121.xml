@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE61*0100*2001*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing this letter in reply to your letter which arrived yesterday. I do welcome you and your group, and I am willing to help you by giving the <NS type="CN"><i>informations</i><c>information</c></NS> that you have asked me <NS type="MT"><c>for</c></NS>.</p>
+          <p>Firstly, let me explain the <NS type="RN"><i>way</i><c>route</c></NS> from the PALACE HOTEL, where your group will be staying, to the conference. The hotel is located in the centre of Seoul, therefore there <NS type="MV"><c>are</c></NS> many ways to get to the conference. The easiest way to get there is to take the underground, which takes about 20 minutes. The map will be given to you on the day of your arrival.</p>
+          <p>Secondly, the end-of-conference party will be held in the Palace Hotel's Percel Room and starts at 6 o'clock in the evening. Professor Kim from my college is going to give a speech, and after that dinner will be served. The party is not very formal, so you can wear any kind of dress, as long as it is suitable for dinner.</p>
+          <p>Finally, I would like <NS type="UA"><i>you</i></NS> to recommend the visit to a traditional Korean palace Kyong Bok for the last day's free time. It must be a very interesting visit for the students who <NS type="AGV"><i>has</i><c>have</c></NS> never experienced an oriental atmosphere. It is just 5 minutes walk from the hotel, and in front of the hotel gate, an airport bus will be waiting for you to take you to the airport after finishing the outing.</p>
+          <p>I hope you will enjoy your stay in Korea, and do not hesitate to contact me for any further information.</p>
+          <p>I look forward to seeing you soon,</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>. Report on Kyoung Bok Palace - the Glory of Chosun Kingdom.</p>
+          <p>. Introduction .</p>
+          <p>This report provides the information about Kyong Bok Palace, which is highly recommended <NS type="W"><i>to visit for visitors from foreign countries</i><c>for visitors from foreign countries to visit</c></NS>. It highlights the background history and considers the interest of young <NS type="IN"><i>peoples</i><c>people</c></NS>, and makes a final recommendation.</p>
+          <p>. History .</p>
+          <p>The kingdom Chosun has a history <NS type="RT"><i>for</i><c>of</c></NS> 500 years and lasted until the beginning of <NS type="MD"><c>the</c></NS> 20th century. Kyong Bok Palace was the main residence of the royal family, so you will be able to imagine its size.</p>
+          <p>As the kings of Chosun loved to be a part of <NS type="UD"><i>the</i></NS> nature, the palace had a huge garden, however it was destroyed by the <NS type="W"><i>army of Japan</i><c>Japanese army</c></NS>, and now there remains only a part of the original palace. There is a special monument <NS type="RT"><i>for</i><c>to</c></NS> the last queen of Chosun who was killed by the Japanese army.</p>
+          <p>. Activity .</p>
+          <p>The reason that this palace is also popular for the youngsters, who <NS type="AGV"><i>tends</i><c>tend</c></NS> to dislike <NS type="UD"><i>the</i></NS> historical <NS type="FN"><i>visit</i><c>visits</c></NS>, would be the various <NS type="AGN"><i>activity</i><c>activities</c></NS>. You can try the traditional games of Korea and there is a chance to wear the traditional clothes of the Royals. Also there are performances which <NS type="IV"><i>helds</i><c>are held</c></NS> daily <NS type="RT"><i>in</i><c>at</c></NS> the front gate of the palace.</p>
+          <p>. Final Recommendation .</p>
+          <p><NS type="ID"><i>It is out of question</i><c>It is out of the question</c></NS> not to visit Kyong Bok Palace unless you do not want to know about Korean history. You will find many interesting points there, therefore, I urge you to visit the place, if you want to experience the tradition of Korea.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

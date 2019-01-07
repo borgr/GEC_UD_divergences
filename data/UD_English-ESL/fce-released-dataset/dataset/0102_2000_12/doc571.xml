@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR21*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I am writing to thank you for <NS type="RV"><i>providing</i><c>arranging</c></NS> <NS type="MD"><c>the</c></NS> International Arts Festival. It was <NS type="MD"><c>an</c></NS> absolutely great idea.</p>
+          <p>However, I would like to give some suggestions for next year as I have read the advertisement.</p>
+          <p>Firstly, could you invite stars and artists from more than only six <NS type="S"><i>contries</i><c>countries</c></NS>? In my opinion, it might be better to have time with <NS type="MD"><c>a</c></NS> variety <NS type="MT"><c>of</c></NS> <NS type="S"><i>nationallites</i><c>nationalities</c></NS>. Secondly, the music concerts were very exciting and <NS type="MA"><c>I</c></NS> had a lot of fun, but some concert halls were too small to enjoy them comfortably.</p>
+          <p>Thirdly, I am expecting to watch more films and plays<NS type="MP"><c>,</c></NS> which were impressive.</p>
+          <p>Lastly, it could be nice <NS type="RT"><i>to</i><c>for</c></NS> students who are interested in <NS type="MD"><c>the</c></NS> arts, if you <NS type="RV"><i>help</i><c>offer</c></NS> special events, for instance, <NS type="MD"><c>a</c></NS> song contest, writing competition or dance lessons.</p>
+          <p>To sum up, I hope the festival is <NS type="RV"><i>developed</i><c>organised</c></NS> next year with excellent reasonably-priced <NS type="FN"><i>ticket</i><c>tickets</c></NS> like this year's.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>PART TIME JOBS : Find <NS type="UT"><i>in</i></NS> your place</p>
+          <p>Do you need money? If you do, <NS type="RV">make sure</NS> why you want to earn money. That is very important to find a way <NS type="RT"><i>for</i><c>of</c></NS> earning and saving money.</p>
+          <p>Probably the best way you can get money is to have a <NS type="MP"><i>part time</i><c>part-time</c></NS> job in your spare time. I am recommending you <NS type="FV"><i>to check</i><c>check</c></NS> your possible time to work - weekdays or weekend? - before you <NS type="RV"><i>request</i><c>apply for</c></NS> a job.</p>
+          <p>If you just decide to work, you'd better <NS type="FV"><i>to find</i><c>find</c></NS> a job <NS type="RT"><i>in</i><c>near</c></NS> your place. Firstly, go to your school or local council. They will be able to help to find safe and suitable jobs for students like you. Secondly, <NS type="SX"><i>as</i><c>ask</c></NS> your family or friends. As they know about your <NS type="DN"><i>interestings</i><c>interests</c></NS> and personality, it is easy to help you. In my case, <NS type="CE">I could get a telephone researcher part by my friend's reference.</NS></p>
+          <p>In conclusion, don't forget that a job is just <NS type="RV"><i>spent</i><c>done</c></NS> in your "spare" time. That's it!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

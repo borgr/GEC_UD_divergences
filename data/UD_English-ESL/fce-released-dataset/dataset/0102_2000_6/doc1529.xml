@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR590*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I have seen the advertisement for the musical show and I realised that there were some mistakes.</p>
+          <p>First of all, it <NS type="RV"><i>is written</i><c>is said</c></NS> that the stars <NS type="TV"><i>were</i><c>are</c></NS> Danny Brook and Tina Truelove but the actor was not Danny Brook.</p>
+          <p>The show should have started <NS type="S"><i>t</i><c>at</c></NS> 19.30. However it started at 20.15. We <NS type="MV"><c>were</c></NS> kept waiting for 45 minutes.</p>
+          <p>The tickets were sold for £10, £15 and £20. We were told that <NS type="UD"><i>the</i></NS> discounts were available but they were not.</p>
+          <p>We were planning to go to the theatre restaurant after the show but when we got there we saw that it was closed <NS type="RT"><i>because of</i><c>for</c></NS> <NS type="UD"><i>the</i></NS> cleaning.</p>
+          <p>We had expected a brilliant show but we were very disappointed. I think the people who came there should be <NS type="RV"><i>paid back</i><c>reimbursed</c></NS>.</p>
+          <p><NS type="MA"><i>Faithfully</i><c>Yours faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>If we compare a person who lived a very long time ago with another one who lives now, we will see a very big difference between their clothes.</p>
+          <p>People used to wear very <NS type="S"><i>diffrent</i><c>different</c></NS> things from the clothes we wear now, we wouldn't even say that they are 'clothes'. We would probably think that these things they wore were just to cover and protect themselves.</p>
+          <p>Nowadays the aim <NS type="RT"><i>in</i><c>of</c></NS> clothing is not just for covering and protecting ourselves. People try to look nice and clean by wearing good clothes.</p>
+          <p>The things that people wear are changing <NS type="RY"><i>every time</i><c>all the time</c></NS>, everyone tries to be <NS type="S"><i>diffrent</i><c>different</c></NS> in <NS type="UD"><i>the</i></NS> public and very different sorts of clothes are being created.</p>
+          <p>The things we wear may not seem <NS type="RT"><i>as</i><c>like</c></NS> <NS type="UC"><i>if</i></NS> 'clothes' to the ones who will live 100 years from now. I <NS type="S"><i>belive</i><c>believe</c></NS> they will wear very <NS type="S"><i>diffrent</i><c>different</c></NS> things.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

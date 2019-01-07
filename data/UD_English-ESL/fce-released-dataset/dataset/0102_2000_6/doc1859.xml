@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR712*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>To the manager of the Circle Theatre.</p>
+          <p>I went to see Over the rainbow <NS type="UN"><i>Show</i></NS>, Friday evening the 16/6. The musical had been advertised <NS type="R"><i>to be</i><c>as</c></NS> London's newest and best musical, but <NS type="R">all to my disappointment</NS>.</p>
+          <p>I had been looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> my <NS type="SA"><i>favorite</i><c>favourite</c></NS> <NS type="MN"><c>actor</c></NS> Danny Brook, but he had been replaced by some other actor. I was not too happy about that and why didn't the <NS type="RN"><i>theatre</i><c>show</c></NS> start when it was <NS type="S"><i>suposed</i><c>supposed</c></NS> to start? (45 min late), and where were the discounts which were <NS type="M"><c>supposed to be</c></NS> available? Your advertisement was <NS type="S"><i>ful</i><c>full</c></NS> of false advertising. <NS type="ID"><i>In the end</i><c>At the end</c></NS> of the show I was looking forward to <NS type="FV"><i>have</i><c>having</c></NS> a nice dinner in the restaurant together with my boyfriend, but it was closed, because you were short of staff. This was not my perfect evening out. I want to have at least half of my money back. I hope you <NS type="S"><i>preciate</i><c>appreciate</c></NS> my letter and that you'll try to <NS type="R"><i>improve the disadvantages</i><c>amend these problems</c></NS>./ Sally Svenssen</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology Changed my daily life?</p>
+          <p><NS type="UD"><i>The modern</i><c>Modern</c></NS> technology like <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS><NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> has changed my life a lot both in good and bad ways. The <NS type="AGN"><i>advantages</i><c>advantage</c></NS> <NS type="RT"><i>with</i><c>of</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> that I can do all my shopping <NS type="RT"><i>from</i><c>over</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. I don't have to <NS type="RV"><i>stress</i><c>mess</c></NS> around in the supermarket <NS type="MT"><c>on</c></NS> a <NS type="RP"><i>friday</i><c>Friday</c></NS> evening, when I'm tired from school, I just get all the <NS type="S"><i>groseries</i><c>groceries</c></NS> I need delivered to my door<NS type="UP"><i>. Instead</i><c> instead</c></NS>. I buy all my clothes on <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> as well and it works <NS type="DY"><i>brilliant</i><c>brilliantly</c></NS>, but I have to admit that there are some disadvantages with <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> too. I don't get as much exercise as I used to get. <NS type="S"><i>Nowdays</i><c>Nowadays</c></NS> I spend 2 hours <NS type="R"><i>intent</i><c>in front</c></NS> of the computer every day, shopping or chatting to people. I have got friends over the whole world now. I'll go to Japan next month to visit one of my <NS type="RP"><i>internetfriends</i><c>Internet friends</c></NS>. <NS type="UD"><i>The modern</i><c>Modern</c></NS> technology <NS type="AGV"><i>open</i><c>opens</c></NS> new and exciting ways for us. I don't think that I <NS type="RV"><i>had been</i><c>would be</c></NS> going to Japan if it wasn't <NS type="R"><i>because of</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. <NS type="MD"><i>Internet</i><c>The Internet</c></NS> has opened <NS type="MY"><c>up</c></NS> a whole new world <NS type="RT"><i>to</i><c>for</c></NS> me.</p>
+          <p>Sally Svenssen</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

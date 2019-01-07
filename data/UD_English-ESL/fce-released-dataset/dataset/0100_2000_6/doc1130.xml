@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR459*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan:</p>
+          <p>I received your letter about the two weeks at Camp California. I am writing back in response to your requests and because I have some questions also about those two weeks.</p>
+          <p>First of all, I would rather travel in July, and if it's possible, during the first two weeks because I will be starting college at the end of the summer and therefore I have a lot of paperwork to get done.</p>
+          <p>About the <NS type="S"><i>accomodations</i><c>accommodation</c></NS><NS type="MP"><c>,</c></NS> I would rather stay in a log cabin. I am not that much of a "nature" person and besides I have been feeling a little sore for the last few days and it would be better for my back than a sleeping bag.</p>
+          <p>I would like to play tennis and <NS type="MV"><c>go</c></NS> surfing. I must say I am quite good at tennis. I started playing very young, and I've never stopped playing it since then. I couldn't say the same about surfing though<NS type="MP"><c>.</c></NS> I've done it only twice in my entire life but I really enjoyed doing it.</p>
+          <p>And one last thing<NS type="MP"><c>,</c></NS> I would like to know about <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes <NS type="W"><i>should I</i><c>I should</c></NS> take, if I have to take some money with me and if there are any expenses I have to <NS type="RV"><i>pay</i><c>cover</c></NS> at the camp.</p>
+          <p>If you have any questions, please do not hesitate <NS type="UT"><i>about</i></NS> <NS type="FV"><i>writing</i><c>to write</c></NS> or <NS type="FV"><i>calling</i><c>call</c></NS> me. I will be waiting to hear from you</p>
+          <p>Sincerely,</p>
+          <p>Lolita A.S.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim: Hi! How are you? How has your family been? I hope you are doing <NS type="RY"><i>fine</i><c>well</c></NS>, I am and so is my family and everything around here. You are not going to believe <NS type="M"><c>what happened</c></NS> last month!!! I helped Korn <NS type="RT"><i>in</i><c>at</c></NS> a concert they had at the Auditorium. I met this guy <NS type="RT"><i>in</i><c>at</c></NS> a party. His name is Jimme, he is a really nice guy. Maybe<NS type="UP"><i>,</i></NS> you will meet him one day. So, it turned out that Jimme was organizing the concert and he asked me and three of my friends if we wanted to help at the concert. Our job was to make the band feel comfortable and to give them anything they <NS type="RV"><i>pleased</i><c>wanted</c></NS>. The guys from Korn were really nice to us and we had a great time with them. We even <NS type="AS"><i>took pictures</i><c>had our pictures taken</c></NS> with them and they gave us their autographs. It was so much fun, we had a great time that night. Well, I have to go, I have an exam tomorrow and I haven't studied at all. Please write back. Love, Lolita.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

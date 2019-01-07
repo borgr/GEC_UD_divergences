@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1068*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you because I am really <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> <NS type="SX"><i>bout</i><c>about</c></NS> "Over the Rainbow" which I saw the other day <NS type="RT"><i>in</i><c>during</c></NS> my stay in London which your company organized. I put off everything to watch this performance but everything that was written in your advertisement wasn't true at all. In your advertisement <NS type="MA"><c>it</c></NS> said the show <NS type="TV"><i>will</i><c>would</c></NS> start at 19:30 <NS type="RC"><i>however</i><c>but</c></NS> it began at 20:15. I can understand that a musical show has to be prepared and it takes time. Even <NS type="R"><i>though</i><c>so</c></NS>, I can't understand <NS type="MY"><c>why</c></NS> the <NS type="FN"><i>actor</i><c>actors</c></NS> of this play Danny Brook and Tina Truelove <NS type="TV"><i>doesn't</i><c>didn't</c></NS> <NS type="TV"><i>appeared</i><c>appear</c></NS> in the play and there was another actor instead of Danny Brook. After all this<NS type="MP"><c>,</c></NS> I wanted to make my evening pleasant <NS type="RC"><i>however</i><c>but</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> my surprise the theatre restaurant was closed because <NS type="MT"><c>of</c></NS> some <NS type="W"><i>problems of sanitary</i><c>sanitary problems</c></NS>. I explained to you every detail about what happened <NS type="RT"><i>in</i><c>at</c></NS> the musical show and I want you <NS type="FV"><i>refund</i><c>to refund</c></NS> my money and send <NS type="UT"><i>to</i></NS> me an apology for what <NS type="IV"><i>happenned</i><c>happened</c></NS> there.</p>
+          <p>I hope <NS type="FV"><i>hear</i><c>to hear</c></NS> from you <NS type="MT"><c>as</c></NS> <NS type="FY"><i>sooner</i><c>soon</c></NS> as possible and thanks for <NS type="FV"><i>understand</i><c>understanding</c></NS> my situation.</p>
+          <p>Yours <NS type="S"><i>fainthfully</i><c>faithfully</c></NS></p>
+          <p>Phat Cheung</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Many years ago human beings or whatever we <NS type="MV"><c>were</c></NS> called <NS type="AGV"><i>was</i><c>were</c></NS> another animal species but when <NS type="RA"><i>they</i><c>we</c></NS> tried to use rocks to make a fire we changed everything.</p>
+          <p>Modern technology changed our <NS type="IN"><i>lifes</i><c>lives</c></NS> in many ways<NS type="RP"><i>,</i><c>:</c></NS> when I have to wake up earlier I use my alarm clock, if I have to wash my teeth I use my toothbrush with a little <NS type="UT"><i>of</i></NS> toothpaste. I use my desk to study which was made with trees cut down and <NS type="DV">emsamblish</NS> by machines more powerful than <NS type="DN">handwork</NS>. Even <NS type="R"><i>though</i><c>so</c></NS>, this is not enough <NS type="MC"><c>and</c></NS> <NS type="UD"><i>the</i></NS> technology created a better <NS type="RN"><i><NS type="FN"><i>way</i><c>ways</c></NS></i><c>means</c></NS> of communication, first there were letters, <NS type="RY"><i>after</i><c>then</c></NS> telephones and now we can write letters and receive them through <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. It is not necessary to imagine things, you can travel all around <NS type="MT"><c>by</c></NS> just making a click with your mouse and you are there. If I am hungry I open the refrigerator and take <NS type="FN"><i>foods</i><c>food</c></NS> and cook it with a microwave.</p>
+          <p>When I have a headache I <NS type="RV"><i><NS type="TV"><i>ate</i><c>eat</c></NS></i><c>swallow</c></NS> pills, made by technology. I think everything <NS type="RT"><i>round</i><c>around</c></NS> us is thanks <NS type="RT"><i>for</i><c>to</c></NS> technology but we can't forget that <NS type="AGD"><i>this</i><c>these</c></NS> things <NS type="AGV"><i>was</i><c>were</c></NS> made by us. The human being.</p>
+          <p>Everything has advantages and disadvantages but the most important thing is how we use it. If we <NS type="AGV"><i>creates</i><c>create</c></NS> guns to protect our homes, others will use <NS type="AGA"><i>it</i><c>them</c></NS> to <NS type="RV"><i>steal</i><c>burgle</c></NS> our homes, <NS type="MC"><c>and</c></NS> take advantage <NS type="RT"><i>from</i><c>of</c></NS> the <NS type="DJ"><i>indefense</i><c>defenceless</c></NS> people. However, the technology never stops, we always search <NS type="MT"><c>for</c></NS> new things because we are made to compete, discover, think <NS type="MT"><c>of</c></NS> things which we don't know.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

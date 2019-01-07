@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1062*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>13/06/00</p>
+          <p>Dear Helen Ryan</p>
+          <p>I am really pleased to hear from you <NS type="MC"><c>that</c></NS> I won first prize in the competition. It is the thing I really want.</p>
+          <p><NS type="RY"><i>How</i><c>Now</c></NS> I am going to answer the questions you asked me in the letter. First, I am afraid <NS type="UC"><i>but</i></NS> I can <NS type="W"><i>travel only</i><c>only travel</c></NS> in July. I've got <NS type="MD"><c>a</c></NS> three-month holiday from June to August but I've already promised my aunt, who runs a small nursing home in Andover, to help her during June and in August. I have to work to get my next-term tuition fee. So July is the only month I can take part in your activities. Second, regarding <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I'd like to stay in a log cabin. I am very sensitive to noise especially at night and tend to catch a cold even in summer.</p>
+          <p>And I <NS type="TV"><i>love</i><c>would love</c></NS> to learn surfing and painting. I am quite good at swimming but I never tried <NS type="UV"><i>to do</i></NS> surfing. So this time I am really keen on learning that. I also love painting. I expect you have lovely <NS type="RN"><i>nature</i><c>countryside</c></NS> in California for me to draw on my canvas.</p>
+          <p>Let me ask a question about clothes and money. What kind of clothes do I need and how much money do I have to take<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I am really looking forward to going there and <NS type="MT"><c>to</c></NS> your reply.</p>
+          <p>Yours faithfully</p>
+          <p>Yun Sandra</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>I love shopping. But I can't help accepting it is true that shopping is not always enjoyable.</p>
+          <p>For example, <NS type="RQ"><i>any</i><c>all</c></NS> shops are too busy to enjoy shopping in at weekends. Sometimes customers' trolleys run into each other and they have to wait ages to go through check-ins. What's worse, there is usually <NS type="MD"><c>a</c></NS> traffic jam around or along roads to a big supermarket and a shopping mall. And if an accident takes place on the roads, it can be a nightmare. So I prefer shopping <NS type="RT"><i>at</i><c>on</c></NS> weekdays unless I am busy or have an appointment.</p>
+          <p>However, people can't have a good time even <NS type="RT"><i>at</i><c>on</c></NS> weekdays while shopping. Shopping gets them tired as they have to walk for a long time to find the things they want to get. In addition, they can get angry with a shop assistant because of bad service.</p>
+          <p>For the handicapped, going shopping is not easy and it can be very <NS type="DJ"><i>bothering</i><c>annoying</c></NS> unless shops have facilities for them.</p>
+          <p>Despite all these things which show that shopping is not always enjoyable, people have to go shopping. Otherwise they can have lots of <NS type="AGN"><i>problem</i><c>problems</c></NS> and <NS type="M"><c>it is</c></NS> difficult to live.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

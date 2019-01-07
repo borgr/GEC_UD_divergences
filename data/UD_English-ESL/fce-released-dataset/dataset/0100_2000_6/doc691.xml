@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR269*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>41-50</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan,</p>
+          <p>Thanks a lot for your <NS type="DJ"><i>briefly</i><c>brief</c></NS> and nice letter. I am very pleased to give you the information required:</p>
+          <p>Firstly, the most suitable month would be <NS type="UT"><i>in</i></NS> July because I am very busy <NS type="RT"><i>in</i><c>with</c></NS> my work now, and my children are <NS type="RT"><i>in</i><c>on</c></NS> holiday then.</p>
+          <p>Secondly, I prefer to stay in log cabins, because they are more comfortable. I confess <NS type="UA"><i>you</i></NS> that I have never been in a tent and <NS type="U"><i>till now</i></NS> I have never had <NS type="R"><i>the</i><c>any</c></NS> intention <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to do</i><c>doing</c></NS> it.</p>
+          <p>The activities are really interesting and I would take part <NS type="RT"><i>on</i><c>in</c></NS> Painting and Climbing. I am not very good <NS type="MT"><c>at</c></NS> painting, but I <NS type="RV"><i>like</i><c>choose</c></NS> it because <NS type="MA"><c>it</c></NS> is a good <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> it. Personally, Climbing is an interesting activity, where you need concentration and you are working with your whole body. I don't want to <NS type="S"><i>dissapoint</i><c>disappoint</c></NS> you, but I am beginner! I choose these activities because I love challenges.</p>
+          <p>I would appreciate <NS type="MA"><c>it</c></NS> if you <NS type="TV"><i>can</i><c>could</c></NS> <NS type="RV"><i>tell</i><c>give</c></NS> me a couple of ideas about <NS type="MD"><c>the</c></NS> clothes I <NS type="MV"><c>will</c></NS> need there. Thanks in advance.</p>
+          <p><NS type="MA"><i>Sincerely</i><c>Yours sincerely</c></NS>,</p>
+          <p>G. Ramos</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Wuthering Heights - Emily Brontë</p>
+          <p>Not only <NS type="W"><i>bad characters in a story are</i><c>are bad characters in a story</c></NS> more interesting than <NS type="UD"><i>the</i></NS> good ones, but also <NS type="RA"><i>this</i><c>they</c></NS> <NS type="RV"><i>take</i><c>hold</c></NS> your attention.</p>
+          <p>In this book, Heathcliff as a child <NS type="RV"><i>hadn't</i><c>wasn't</c></NS> a bad character<NS type="MP"><c>,</c></NS> but the situations <NS type="MA"><c>he</c></NS> lived <NS type="MY"><c>through</c></NS> with the <NS type="W"><i>family Earnshaw</i><c>Earnshaw family</c></NS>, where <NS type="R"><i>the</i><c>he</c></NS> <NS type="TV"><i>grown</i><c>grew</c></NS> up, made him rude, <NS type="S"><i>agresive</i><c>aggressive</c></NS> and noisy.</p>
+          <p>Heathcliff used to play with Catherine. They were good friends but Heanly, <NS type="W"><i>brother of Catherine</i><c>Catherine's brother</c></NS>, <NS type="IV"><i>hatted</i><c>hated</c></NS> Heathcliff. Heanley couldn't accept the good relationship and love between Catherine and Heathcliff and, for that reason<NS type="MP"><c>,</c></NS> he sent Heathcliff to work <NS type="RT"><i>in</i><c>on</c></NS> the farm. In the <NS type="RP"><i>mean time</i><c>meantime</c></NS> Catherine <NS type="RV"><i>knew</i><c>met</c></NS> Edgar Linton and <NS type="RY"><i>at the end</i><c>in the end</c></NS> she married Edgar because of <NS type="MD"><c>he</c></NS> money and good education.</p>
+          <p>Heathcliff promised <NS type="MV"><c>to avenge</c></NS> himself and <NS type="RV"><i>worked</i><c>dedicated</c></NS> his whole life <NS type="MT"><c>to</c></NS> taking <NS type="R"><i>a</i><c>his</c></NS> revenge. Before Heathcliff died he <NS type="RV"><i><NS type="S"><i>riched</i><c>reached</c></NS></i><c>achieved</c></NS> what he wanted. The houses and money of the <NS type="W"><i>families Earnshaw and Linton</i><c>Earnshaw and Linton families</c></NS><NS type="UP"><i>,</i></NS> all belonged to him<NS type="RP"><i>.</i><c>,</c></NS> and he was buried near to Catherine<NS type="UP"><i>!,</i><c>,</c></NS> his great and only love!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR948*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p> Dear Mr Robertson,</p>
+          <p>First of all I would like to thank you <NS type="MT"><c>for</c></NS> the chance to <NS type="RV"><i>do</i><c>make</c></NS> such a gorgeous trip. We are really looking forward to visiting the city and going to the <NS type="RP"><i>Museum</i><c>museum</c></NS> and <NS type="MD"><c>the</c></NS> <NS type="RP"><i>Gallery</i><c>gallery</c></NS>. However, there is one point that we would like to change in the programme.</p>
+          <p>We are interested in visiting "The London Fashion and Leisure Show" during our <NS type="RN"><i>travel</i><c>trip</c></NS>. The show is very interesting because we could see the latest fashion, hairstyles and <NS type="MP"><i>make up</i><c>make-up</c></NS>, and also <NS type="MD"><c>the</c></NS> leisure and sports wear. Furthermore <NS type="MA"><c>it</c></NS> is totally free for students.</p>
+          <p>All <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="S"><i>exhibiots</i><c>exhibits</c></NS> are really important and exciting for us because, nowadays, fashion has a huge influence <NS type="RT"><i>in</i><c>on</c></NS> our lifestyle and we would like to know more about it.</p>
+          <p>We think that we could go there <NS type="MT"><c>on</c></NS> <NS type="MD"><c>the</c></NS> <NS type="UJ"><i>next</i></NS> 14th of March, in the <NS type="S"><i>eveninng</i><c>evening</c></NS>, instead of going shopping. This one could be <NS type="TV"><i><NS type="RV"><i>translate</i><c>move</c></NS></i><c>moved</c></NS> to <NS type="MD"><c>the</c></NS> 15th <NS type="M"><c>in the</c></NS> evening. It is also possible to go to the show in the morning but we <NS type="UV"><i>are</i></NS> totally agree that we don't want to lose our visit to the Science Museum.</p>
+          <p>We truly <NS type="RV"><i>believe</i><c>hope</c></NS> you will consider our change. Please contact us if you have any question.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS><NS type="MP"><c>,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p> Almost everyone <NS type="AGV"><i><NS type="DV"><i>relation</i><c>relate</c></NS></i><c>relates</c></NS> famous people with photographers, articles, money, fans<NS type="UP"><i>,</i></NS> ... Normally, one <NS type="AGN"><i>people's</i><c>person's</c></NS> dream is to be <NS type="CL"><i>famous and rich</i><c>rich and famous</c></NS> but without that stuff <NS type="RT"><i>of</i><c>about</c></NS> being without privacy</p>
+          <p>Nowadays, there <NS type="AGV"><i>is</i><c>are</c></NS> a lot of people <NS type="AGA"><i>that</i><c>who</c></NS> <NS type="DV"><i>life</i><c>live</c></NS> only <NS type="RT"><i>with</i><c>on</c></NS> the money they get <NS type="RT"><i>in</i><c>from</c></NS> <NS type="S"><i>advertisments</i><c>advertisements</c></NS>, reports about their last romance<NS type="UP"><i>,</i></NS> ... but not everyone does the same <NS type="MN"><c>thing</c></NS>. On the one hand you find the ones that are <NS type="UP"><i>well-known</i><c>well known</c></NS> and never talk about their <NS type="RN"><i>privacy</i><c>private life</c></NS>. They use the publicity <NS type="DY"><i>exclusive</i><c>exclusively</c></NS> for their work.</p>
+          <p>On the other hand, <NS type="MA"><c>there</c></NS> are the ones that are also <NS type="DJ"><i>respectabled</i><c>respectable</c></NS> but, <NS type="S"><i>appart</i><c>apart</c></NS> from their <NS type="FN"><i>relation</i><c>relations</c></NS> with journalists because of their work, they really need to be constantly <NS type="TV"><i>seek</i><c>sought</c></NS> by photographers. I mean, they <NS type="RV"><i>enjoin</i><c>enjoy</c></NS> being the <NS type="RN"><i>point of view</i><c>focus</c></NS> or the <NS type="RN"><i><NS type="SA"><i>center</i><c>centre</c></NS></i><c>centre of attention</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> everyone, even though it means <NS type="RV"><NS type="FV"><i>to see</i><c>seeing</c></NS></NS> their <NS type="IN"><i>lifes</i><c>lives</c></NS>.</p>
+          <p><NS type="RN"><i>Communications</i><c>The media</c></NS> <NS type="AGV"><i>move</i><c>moves</c></NS> the world and famous people use <NS type="AGA"><i>them</i><c>it</c></NS> to improve their work, politicians for their <NS type="FN"><i><NS type="S"><i>campain</i><c>campaign</c></NS></i><c>campaigns</c></NS> and film stars to make <NS type="W"><i>famous their <NS type="RJ"><i>last</i><c>latest</c></NS> movie</i><c>their latest movie famous</c></NS>. Nevertheless, sometimes <NS type="RN"><i>communications</i><c>the media</c></NS> <NS type="AGV"><i>disturb</i><c>disturbs</c></NS> their <NS type="IN"><i>lifes</i><c>lives</c></NS> in a wrong way.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

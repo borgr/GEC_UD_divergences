@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR614*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>18.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>I <NS type="S"><i>wright</i><c>write</c></NS> to <NS type="S"><i>complein</i><c>complain</c></NS> about the musical show "Over the Rainbow". I had a very <NS type="S"><i>disapointing</i><c>disappointing</c></NS> evening because of many things.</p>
+          <p>First the actor was a <NS type="S"><i>wery</i><c>very</c></NS> <NS type="RJ"><i>common</i><c>average</c></NS> actor. <NS type="RP"><i>then</i><c>Then</c></NS> it <NS type="UP"><i>start's</i><c>starts</c></NS> 45 minutes <NS type="SX"><i>lent</i><c>late</c></NS>. Also in the <NS type="DN"><i>advicement</i><c>advertisement</c></NS> they talk about discount <NS type="S"><i>tikets</i><c>tickets</c></NS>. Well they didn't <NS type="TV"><i>accepted</i><c>accept</c></NS> <NS type="U"><i>when I pay with</i></NS> my £20 discount <NS type="S"><i>tiket</i><c>ticket</c></NS><NS type="MP"><i> why</i><c>. Why</c></NS>? And <NS type="RY"><i>at last</i><c>finally</c></NS> I couldn't visit the <NS type="SA"><i>theater</i><c>theatre</c></NS> restaurant after the show, it was closed<NS type="RP"><i>, why</i><c>. Why</c></NS>? I don't know.</p>
+          <p><NS type="S"><i>Alslo</i><c>Also</c></NS> I wanted to tell you that the show was very <NS type="S"><i>borring</i><c>boring</c></NS>. It was <NS type="S"><i>alwais</i><c>always</c></NS> the <NS type="S"><i>saim</i><c>same</c></NS>. And it was <NS type="SX"><i>to</i><c>too</c></NS> slow.</p>
+          <p>Because <NS type="MT"><c>of</c></NS> all these things it <NS type="S"><i>obiously</i><c>obviously</c></NS> wasn't the perfect evening as <NS type="UA"><i><NS type="TV"><i>it's</i><c>it was</c></NS></i><c>was</c></NS> <NS type="S"><i>seid</i><c>said</c></NS> in the <NS type="DN"><i>advicement</i><c>advertisement</c></NS>. So I <NS type="IV"><i>wrought</i><c>wrote</c></NS> this letter to ask for my money back.</p>
+          <p><NS type="UP"><i>Your's</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, because after I told her that I <NS type="TV"><i>have</i><c>had</c></NS> a new girlfriend, all the school <NS type="TV"><i>knows</i><c>knew</c></NS> it in <NS type="SX"><i>lees</i><c>less</c></NS> than 2 hours.</p>
+          <p>I <NS type="TV"><i>have</i><c>had</c></NS> to explain to <NS type="RP"><i>every body</i><c>everybody</c></NS> that<NS type="UP"><i>,</i></NS> I <NS type="RY"><i><NS type="DY"><i>formaly</i><c>formally</c></NS></i><c>actually</c></NS> <NS type="TV"><i><NS type="S"><i>dond't</i><c>don't</c></NS></i><c>didn't</c></NS> have a girlfriend<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i><NS type="S"><i>explein</i><c>explain</c></NS></i><c>explained</c></NS> <NS type="MT"><c>to</c></NS> them that <NS type="UV"><i>it's</i><c>it</c></NS> was a good <NS type="S"><i>posibility</i><c>possibility</c></NS>, nothing <NS type="S"><i>els</i><c>else</c></NS>, but <NS type="RP"><i>noone</i><c>no one</c></NS> <NS type="TV"><i><NS type="S"><i>belive</i><c>believe</c></NS></i><c>believed</c></NS> me, because Pat <NS type="TV"><i>has</i><c>had</c></NS> told them that I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RJ"><i>formal</i><c>actual</c></NS> girlfriend. This problem with Pat had a lot of <NS type="S"><i>consecuences</i><c>consequences</c></NS>, because I had a very <NS type="S"><i>hevy</i><c>heavy</c></NS> <NS type="S"><i>discucion</i><c>discussion</c></NS> with her about <NS type="RA"><i>that</i><c>it</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> was so <NS type="S"><i>heay</i><c>heavy</c></NS> that one of <NS type="S"><i>ower</i><c>our</c></NS> teachers had to calm me <NS type="MY"><c>down</c></NS>, because I was very <NS type="S"><i>angree</i><c>angry</c></NS> with her. The teacher <NS type="TV"><i>send</i><c>sent</c></NS> me to talk with the principal, who suspended me for <NS type="RV"><i><NS type="FV"><i><NS type="SX"><i>discus</i><c>discuss</c></NS></i><c>discussing</c></NS></i><c>using</c></NS> <NS type="UT"><i>in</i></NS> bad <NS type="RN"><i><NS type="S"><i>maners</i><c>manners</c></NS></i><c>language</c></NS> with a girl.</p>
+          <p>So I was suspended, I had a fight with one of my best <NS type="AGN"><i>friend</i><c>friends</c></NS>, all because she wasn't very good at keeping secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

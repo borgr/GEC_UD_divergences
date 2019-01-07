@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR206*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p> Dear Mr Robertson,</p>
+          <p>I am writing you this letter to <NS type="RV">complain</NS> about <NS type="MA"><c>what</c></NS> you have organized <NS type="MT"><c>for</c></NS> us for our trip to London.</p>
+          <p>First of all, I would like to thank you for your activity programme. I find it really good, <NS type="RY"><i>specially</i><c>especially</c></NS> because of the visit to the Science Museum and the National Art Gallery.</p>
+          <p>But I would like you to know that on Tuesday March 14th in London, there is a show, which is free for students, about the latest fashions, leisure and <NS type="RP"><i>sports wear</i><c>sportswear</c></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles called The London Fashion and Leisure Show.</p>
+          <p>All the <NS type="RN"><i>clan</i><c>group</c></NS> would enjoy going <NS type="MT"><c>to</c></NS> the show, because it is a great <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to see an exhibition <NS type="RT"><i>as</i><c>of</c></NS> the latest fashions. We know that you have planned a very complete programme<NS type="UP"><i>. But</i><c> but</c></NS> we would like to suggest you <NS type="TV"><i>to move</i><c>move</c></NS> our visit to the Science Museum to Wednesday afternoon<NS type="UP"><i>,</i></NS> so that<NS type="UP"><i>,</i></NS> we can go to the show<NS type="W"><i> on Tuesday, which lasts from 10 am to 7 pm</i><c>, which lasts from 10am to 7pm, on Tuesday</c></NS>.</p>
+          <p>Thank you very much for considering our <NS type="RN"><i>petition</i><c>request</c></NS>.</p>
+          <p>I look forward receiving your reply.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p> Nowadays, in our society, there are some people who, because of their work or because of their success in life, <NS type="AGV"><i>has</i><c>have</c></NS> become popular, and by now <NS type="AGV"><i>is</i><c>are</c></NS> known by everybody. But, how does fame affect <NS type="UT"><i>to</i></NS> their lifestyle?</p>
+          <p>Politicians, musicians or film <NS type="RN"><i>starts</i><c>stars</c></NS> are <NS type="RV"><i>controlled</i><c>watched</c></NS> all the time, <NS type="RT"><i>since</i><c>from</c></NS> <NS type="MY"><c>when</c></NS> they wake up in the morning until they go to bed in the evening, by journalists and photographers who follow them and observe all that they do.</p>
+          <p>It is certain that these people have fame, fortune and success, and that many of them are rich, very rich. They usually appear on TV, <NS type="MC"><c>and</c></NS> go to shows<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> sports competitions... But I'm sure that all these things <NS type="RP"><i>can not</i><c>cannot</c></NS> give them back one of the most needed things: a private life. And believe me, there is no money in the world <NS type="MA"><c>that</c></NS> <NS type="TV"><i>to <NS type="RV"><i>pay</i><c>buy</c></NS></i><c>will buy</c></NS> that.</p>
+          <p>But obviously, if these people are all the time in the newspaper, on TV and so on, <NS type="MA"><c>it</c></NS> is because, although we don't want to accept it, we love following their <NS type="IN"><i>lifes</i><c>lives</c></NS>.</p>
+          <p>So now, all we should have to ask ourselves is if their <NS type="RJ">damaged</NS> <NS type="FN"><i>lifestyles</i><c>lifestyle</c></NS> is in part our fault.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

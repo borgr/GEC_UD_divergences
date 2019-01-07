@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR228*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms Clark,</p>
+          <p>I am very glad to write to you. I spent two days at the International Arts festival you organised. I enjoyed most of the events I went to, but I feel that the festival could be even better next year. Here are some opinions and suggestions:</p>
+          <p>Although your advertisement said there would be stars and artists from around the world, I was able to see artists from only six countries. Additionally, some concert halls were too small to relax <NS type="MT"><c>in</c></NS>, <NS type="RC"><i>while</i><c>though</c></NS> most of them were very comfortable.</p>
+          <p>It was a pity for me that there were fewer plays and films than I had expected. I suggest <NS type="U"><i>to you</i></NS> that you should organise more next year.</p>
+          <p>On the other hand, there <NS type="AGV"><i>were</i><c>was</c></NS> a lot that impressed me very much. For example, there was one <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> weekend ticket for all events. It is a very good way to increase the number of music-lovers.</p>
+          <p><NS type="ID"><i>Last but not last</i><c>Last but not least</c></NS>, I would like to thank you for devoting yourself to making this festival wonderful every year. I enjoyed it very much.</p>
+          <p>Sincerely yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Long long ago, there lived in <NS type="RD"><i>a</i><c>the</c></NS> province of Bizen in Japan an old woman and an old man. They were <NS type="S"><i>eagar</i><c>eager</c></NS> to have a child, but they had never been able to.</p>
+          <p>One day, the woman went to the riverside, and found a peach floating in the river. She <NS type="RV"><i>brought</i><c>took</c></NS> it to her house, cutting it <NS type="MY"><c>in two</c></NS><NS type="MP"><c>,</c></NS> with her husband. To their surprise, there was a boy in the peach! They named him Momotaro, and looked after him.</p>
+          <p>The boy had grown and had become very strong when he heard that there were lots of devils on Onigashima Island who robbed many people in Bizen of <NS type="RQ"><i>much</i><c>a lot of</c></NS> money and <NS type="RQ"><i>many</i><c>a lot of</c></NS> <NS type="CN"><i>treasures</i><c>treasure</c></NS>. He made up his mind to defeat them, and asked his stepmother for some kibidango, one of traditional snacks in Japan. Having eaten the kibidango, he departed for Onigashima with three friends of <NS type="DD"><i>him</i><c>his</c></NS>: a dog, a monkey and a bird.</p>
+          <p>Reaching the island, he and his friends fought bravely against the devils. They finally succeeded <NS type="S"><i>n</i><c>in</c></NS> defeating the devils, and took back all the money and <NS type="CN"><i>treasures</i><c>treasure</c></NS>. After that, they went home.</p>
+          <p>All the people in Bizen including his stepparents <NS type="RV"><i>met</i><c>received</c></NS> Momotaro and his friends with <NS type="UD"><i>a</i></NS> great joy.</p>
+          <p>This story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR299*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>With this letter I want to <NS type="RV"><i>show</i><c>explain</c></NS> <NS type="MT"><c>to</c></NS> you some problems I had last week <NS type="RT"><i>in</i><c>at</c></NS> your theatre with your show. First of all, I want to introduce myself. I'm Francesco Schein, I'm 18 years old and I went last week to see your musical show "Over the Rainbow". I was very upset because the show had many problems.</p>
+          <p>First the actor was changed and his <NS type="MN"><c>replacement's</c></NS> performance was very poor and disappointing. Then, the show began 45 minutes <NS type="FY"><i>later</i><c>late</c></NS>, so we had to wait <NS type="MD"><c>a</c></NS> very long <NS type="MN"><c>time</c></NS>. The advertisement said there were discounts available, which were not <NS type="MJ"><c>available</c></NS>. <NS type="RY"><i>At the end</i><c>Finally</c></NS> you said <NS type="RA"><i>it</i><c>there</c></NS> <NS type="TV"><i>will be</i><c>was</c></NS> a Restaurant, but it was closed, so we couldn't eat anything <NS type="S"><i>untill</i><c>until</c></NS> we got home.</p>
+          <p>I hope you understand your <NS type="RN"><i>faults</i><c>mistakes</c></NS> and I'm asking you for <NS type="R"><i>the</i><c>our</c></NS> money back.</p>
+          <p>Faithfully Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I don't know if technology has totally changed my life, because I was born with it and I have learned <NS type="MT"><c>about</c></NS> it since I was a little boy. For example, I was born knowing <NS type="SX"><i>the</i><c>that</c></NS> man has <NS type="RV"><i>stepped</i><c>walked</c></NS> on the moon.</p>
+          <p>There are some machines which have helped in my development, and others which help me to make my life easier. The computer for example makes communication much easier and faster <NS type="SX"><i>then</i><c>than</c></NS> in <NS type="ID"><i>past time</i><c>times past</c></NS>, when everything was <NS type="TV"><i>send</i><c>sent</c></NS> by <NS type="RJ"><i>common</i><c>normal</c></NS> mail, and it <NS type="RV"><i>took</i><c>was</c></NS> weeks till it got <NS type="MT"><c>to</c></NS> the right place.</p>
+          <p>There are other machines which are bad for the environment. Many industries throw their contaminated air away, without cleaning it <NS type="RY"><i>before</i><c>first</c></NS>. Technology has to move further so it can solve problems <NS type="MQ"><c>such</c></NS> as pollution, so we can live better and longer.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

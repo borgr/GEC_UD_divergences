@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR260*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan</p>
+          <p>Thank you for your letter. I was so happy to hear that I have won a <NS type="DJ"><i>two weeks</i><c>two-week</c></NS> holiday in the U.S.A.</p>
+          <p>I would like to travel in July. I am going to finish my exams in June, and I am planning to go back to China in early August. So if I could travel in July, and <NS type="FV"><i>coming</i><c>come</c></NS> back before <NS type="MD"><c>the</c></NS> 6th of August, that would be great.</p>
+          <p>I would prefer <NS type="RV"><i>living</i><c>staying</c></NS> in tents to log cabins. I have never had any experience <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to <NS type="RV"><i>live</i><c>stay</c></NS></i><c>staying</c></NS> in a tent, so I would like to give it a go. I think I will enjoy myself in a tent.</p>
+          <p>I love swimming, but I am not any good at swimming. I really <NS type="TV"><i>wanted</i><c>want</c></NS> to learn how to swim. I was wondering if there is a coach <NS type="MA"><c>who</c></NS> could give <NS type="RA"><i>us</i><c>me</c></NS> a lesson <NS type="RT"><i>during</i><c>at</c></NS> the Camp. Also, I would like to join <NS type="MD"><c>the</c></NS> basketball team<NS type="RP"><i>,</i><c>.</c></NS> I used to play basketball when I was in high school, and our high school basketball team <NS type="AGV"><i>have</i><c>has</c></NS> won many competitions during <NS type="MD"><c>the</c></NS> last ten years in our city. I am glad I <NS type="TV"><i>had</i><c>have</c></NS> taken <NS type="UD"><i>a</i></NS> part in a few competitions, and I was so proud of our basketball team.</p>
+          <p>Would you tell me <NS type="UC"><i>that</i></NS> how much money you <NS type="TV"><i>would</i><c>will</c></NS> give <NS type="UA"><i>it</i></NS> to me and <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>is the weather</i><c>the weather is</c></NS> like in <NS type="MD"><c>the</c></NS> U.S.A. Thank you for <NS type="RP"><i>every thing</i><c>everything</c></NS>!</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>It was great to hear from you, haven't seen you since last summer holiday, hope everything is fine <NS type="RT"><i>in</i><c>at</c></NS> your place.</p>
+          <p>You wanted to hear about my experience at the pop concert which I enjoyed helping <NS type="MT"><c>at</c></NS> last month? I must say that was <NS type="UD"><i>a</i></NS> great fun<NS type="RP"><i>,</i><c>.</c></NS> <NS type="TV"><i>I've</i><c>I'd</c></NS> never had this kind of experience before. Before the concert actually started I had to give out lots of leaflets<NS type="RP"><i>, they</i><c>. They</c></NS> <NS type="TV"><i>are</i><c>were</c></NS> <NS type="FN"><i>list</i><c>lists</c></NS> of pop <NS type="AGN"><i>band</i><c>bands</c></NS> and <NS type="AGN"><i>group</i><c>groups</c></NS> which <NS type="TV"><i>will</i><c>would</c></NS> appear in the concert in order, and some information about their performance and backgrounds. After that, I had to help people who had a ticket but <NS type="TV"><i>can't</i><c>couldn't</c></NS> find their seat. During the concert, I didn't have a lot to do, so I had <NS type="MD"><c>a</c></NS> chance to see most of the performance<NS type="RP"><i>, that</i><c>. That</c></NS> was excellent. I was excited that I had a closer look at so many famous pop stars. During <NS type="MD"><c>the</c></NS> break time I did give a <NS type="AGN"><i>lots</i><c>lot</c></NS> of <NS type="AGN"><i>direction</i><c>directions</c></NS> to people who <NS type="TV"><i>can't</i><c>couldn't</c></NS> find <NS type="MD"><c>the</c></NS> toilet, and <NS type="M"><c>gave people</c></NS> information such as where they could have a cup of coffee. That was <NS type="MD"><c>a</c></NS> bit boring, but it was part of my job.</p>
+          <p>I <NS type="RV"><i>got</i><c>have got</c></NS> to go. <NS type="R">Write to you next time</NS>.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

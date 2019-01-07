@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR931*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>JUN 17th, 2000</p>
+          <p>Dear MR SMITH,</p>
+          <p>My name is Volencia Vardez. I am writing to complain about the services that you are offering <NS type="RT"><i>during</i><c>at</c></NS> the shows at your theatre.</p>
+          <p>Last May, I had a <NS type="MP"><i>week</i><c>week's</c></NS> holiday in London, and during my trip I decided to buy tickets for OVER THE RAINBOW, the MUSICAL <NS type="UN"><i>SHOW</i></NS>. I was really excited <NS type="RT"><i>with</i><c>about</c></NS> the idea of seeing that show.</p>
+          <p>First of all, when I arrived, I <NS type="RV"><i>met</i><c>found</c></NS> a note stuck on the front door that informed <NS type="MA"><c>me</c></NS> about changes <NS type="RT"><i>at</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> <NS type="DN"><i>actor's staff</i><c>list of performers</c></NS>. Danny Brook was ill. He was replaced by another actor whose abilities were <NS type="RJ"><i>bad</i><c>poor</c></NS>.</p>
+          <p>Secondly, I want to tell you that the show started <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes <NS type="FJ"><i>later</i><c>late</c></NS>.</p>
+          <p><NS type="R"><i>In order</i><c>As</c></NS> to the tickets, I want to say that they are very expensive. I had put some money aside for <NS type="RD"><i>a</i><c>that</c></NS> month, thinking about the discount, but when I <NS type="RV"><i>want</i><c>went</c></NS> to buy them they said that discounts were not <NS type="S"><i>avaible</i><c>available</c></NS>.</p>
+          <p>To <NS type="RV"><i>sum up</i><c>conclude</c></NS>, the restaurant was closed.</p>
+          <p>I <NS type="TV"><i>will</i><c>would</c></NS> appreciate <NS type="MA"><c>it</c></NS> if you could send me my money back. <NS type="RV"><i>Looking</i><c>Waiting</c></NS> for your <NS type="S"><i>repley</i><c>reply</c></NS>.</p>
+          <p>Yours Faithfully.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat was not very good at keeping secrets. That is why she could <NS type="RY"><i>no</i><c>not</c></NS> be a spy.</p>
+          <p>When she was a girl, Pat used to play <NS type="AGN"><i>spies</i><c>spy</c></NS> and <NS type="AGN"><i>detectives</i><c>detective</c></NS> games. Her mother gave <NS type="MA"><c>her</c></NS> a book <NS type="W"><i>about how to become a spy for her birthday</i><c>for her birthday about how to become a spy</c></NS>. She had watched all <NS type="MT"><c>of</c></NS> Mission Impossible and gadget, the inspector series.</p>
+          <p>When she finished <NS type="UD"><i>the</i></NS> school, she went to study <NS type="RT"><i>to</i><c>at</c></NS> the Agent <NS type="DN"><i>Trainning</i><c>Training</c></NS> Agency where she learnt about guns, clues, agencies, etc. She was the best student they <NS type="TV"><i>have</i><c>had</c></NS> ever had.</p>
+          <p>But things changed during her first mission. She was <NS type="IV"><i>sended</i><c>sent</c></NS> to New York to discover how some people from <NS type="MD"><c>the</c></NS> government gave money to the merchants because they <NS type="TV"><i>want</i><c>wanted</c></NS> to build a Trade <NS type="SA"><i>Center</i><c>Centre</c></NS> there.</p>
+          <p>At first she walked around the <NS type="MP"><i>bayside</i><c>bay-side</c></NS> market<NS type="MP"><c>,</c></NS> looking <NS type="RT"><i>for</i><c>at</c></NS> all the people who were there. When she saw a man, different <NS type="RT"><i>for</i><c>from</c></NS> the rest, talking with one of the <NS type="RN"><i>sellers</i><c>salesmen</c></NS><NS type="W"><i><NS type="RP"><i>. Immediately</i><c>, immediately</c></NS> she interrupted</i><c>, she interrupted immediately</c></NS> and told <NS type="UT"><i>to</i></NS> the man that she was a secret agent. Obviously the man realised that she was looking for him and said that she was really crazy!</p>
+          <p>You can imagine what <NS type="TV"><i>had happened</i><c>happened</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> her cover <NS type="U"><i>as a spy</i></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

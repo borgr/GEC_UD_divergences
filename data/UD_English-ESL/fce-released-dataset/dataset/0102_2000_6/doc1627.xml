@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR641*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing this letter to you to complain about your Circle theatre.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I must say that "over the rainbow" is not <NS type="UD"><i>the</i></NS> <NS type="MP"><i>London</i><c>London's</c></NS> newest and best musical show, for many reasons:</p>
+          <p>In your advertisement I read the times <NS type="M"><c>of the performances</c></NS>, <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> 14.30 and 10.30, however<NS type="MP"><c>,</c></NS> it started <NS type="MT"><c>at</c></NS> 20.15! So <NS type="TV"><i>I've been</i><c>I was</c></NS> doing <NS type="UD"><i>the</i></NS> nothing for a long time and I don't like to <NS type="RV"><i>lose</i><c>waste</c></NS> my time, and what about Danny Brook and Tina Truelove?<NS type="RP"><i>, where</i><c> Where</c></NS> were they <NS type="UD"><i>the</i></NS> last weekend? <NS type="UD"><i><NS type="RP"><i>the</i><c>The</c></NS> last</i><c>Last</c></NS> weekend <NS type="RT"><i>in</i><c>at</c></NS> the theatre <NS type="MY"><c>there</c></NS> was a different actor who was disappointing. To make the evening worse <NS type="AS"><i>the tickets were <NS type="RD"><i>not</i><c>no</c></NS> discounts available</i><c>there were no discounts available on the tickets</c></NS>, and the theatre restaurant was closed after the show because it was so late when the show was over.</p>
+          <p>I want <NS type="R"><i>the</i><c>my</c></NS> money back<NS type="RP"><i>, if</i><c>. If</c></NS> you don't give it <NS type="W"><i>to me back</i><c>back to me</c></NS>, I <NS type="UV"><i>will</i></NS> intend to write to the press and <NS type="RV"><i>explain</i><c>tell</c></NS> everything, and of course I won't be the only one. I am so furious because when I asked for <NS type="MD"><c>my</c></NS> money back that day, the <NS type="RN">sir</NS> wasn't able to give it back because he would be <NS type="TV"><i>sack</i><c>sacked</c></NS>.</p>
+          <p>yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>the secret lover</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets and he usually <NS type="TV"><i>makes</i><c>made</c></NS> up some extra information.</p>
+          <p><NS type="R"><i>On</i><c>One</c></NS> day we decided to write a special letter to Pat; in the letter we told him that we <NS type="TV"><i><NS type="RV"><i>felt</i><c>fell</c></NS></i><c>had fallen</c></NS> in love, we were a beautiful girl with long hair and green eyes (<NS type="R"><i>as</i><c>like the</c></NS> <NS type="W"><i>Pat likes women</i><c>women Pat likes</c></NS>). The only problem was that the girl was <NS type="SX"><i>to</i><c>too</c></NS> shy to speak to him, she wanted to keep her name <NS type="R"><i>in</i><c>a</c></NS> secret, and if Pat <NS type="TV"><i>tells</i><c>told</c></NS> someone something about the letter, she <NS type="TV"><i>won't</i><c>wouldn't</c></NS> say who <NS type="MA"><c>she</c></NS> <NS type="TV"><i>is</i><c>was</c></NS>.</p>
+          <p>Poor Pat, he was so happy because a girl <NS type="TV"><i>loves</i><c>loved</c></NS> him and so nervous at the same time, even <NS type="RV"><i>eating</i><c>biting</c></NS> his nails. As I said at the beginning Pat wasn't very good at keeping secrets so he told us that he had a love letter but we couldn't read it. Three days <NS type="R"><i>after</i><c>later</c></NS> we sent him another letter, and Pat told us again but we said, "<NS type="RP"><i>oh</i><c>Oh</c></NS> Pat<NS type="MP"><c>,</c></NS> don't tell <NS type="MA"><c>us</c></NS> that lie again", so Pat got furious and showed us the letter. We laughed and explained <NS type="MT"><c>to</c></NS> him that we were <NS type="MD"><c>the</c></NS> <NS type="MA"><c>ones</c></NS> who wrote <NS type="RD"><i>that</i><c>the</c></NS> letters, and made him <NS type="FV"><i>promises</i><c>promise</c></NS> that when he gets a secret lover, a real one, <NS type="MA"><c>he</c></NS> <NS type="RV"><i>don't</i><c>won't</c></NS> tell anyone because <NS type="M"><c>if he does</c></NS> he won't meet her.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

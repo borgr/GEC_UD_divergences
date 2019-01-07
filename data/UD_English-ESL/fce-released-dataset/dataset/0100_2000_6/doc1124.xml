@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR456*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am very happy to answer your letter, which I received this morning. I am very <NS type="RJ"><i><NS type="SX"><i>exiting</i><c>exciting</c></NS></i><c>excited</c></NS> <NS type="RT"><i>with</i><c>by</c></NS> the wonderful news.</p>
+          <p>Well, I <NS type="TV"><i>start</i><c>am starting</c></NS> to make a plan for my <NS type="RN"><i>travel</i><c>trip</c></NS>, and the only time I have is <NS type="RT"><i>on</i><c>in</c></NS> July because I will <NS type="TV"><i>be finish</i><c>have finished</c></NS> my <NS type="W"><i>course of language</i><c>language course</c></NS> at St Jame's School.</p>
+          <p>About <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>cabins</i><c>cabin</c></NS>, because I suffer <NS type="MT"><c>from</c></NS> <NS type="DN"><i><NS type="S"><i>alergic</i><c>allergic</c></NS></i><c>allergies</c></NS>, and I think <NS type="MD"><c>a</c></NS> <NS type="SX"><i>tend</i><c>tent</c></NS><NS type="UP"><i>,</i></NS> would <NS type="X"><i>be not</i><c>not be</c></NS> very suitable for my health.</p>
+          <p>I am very happy to have the opportunity to do some sports. I'm very good <NS type="RT"><i>in</i><c>at</c></NS> swimming and surfing. <NS type="W"><i><NS type="S"><i>Swiming</i><c>Swimming</c></NS> I won last <NS type="RP"><i>summer</i><c>summer's</c></NS></i><c>I won last summer's swimming</c></NS> competition in the school<NS type="RP"><i>, although</i><c>. Although</c></NS> I'm not very good at surfing I like <NS type="MA"><c>it</c></NS>, and I always <NS type="S"><i>practis</i><c>practise</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> my holidays every year.</p>
+          <p>I would like to know if <NS type="MA"><c>it</c></NS> is <NS type="S"><i>necesary</i><c>necessary</c></NS> for me to bring some money, <NS type="RC"><i>or</i><c>and</c></NS> if we will have time to visit the City<NS type="RP"><i>, about</i><c>. About</c></NS> the clothes<NS type="MP"><c>,</c></NS> <NS type="MV"><c>do</c></NS> I have to bring some winter clothes?</p>
+          <p><NS type="MP"><i>Im</i><c>I'm</c></NS> very <NS type="S"><i>greatful</i><c>grateful</c></NS> to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I was very happy to receive your letter.</p>
+          <p>It's wonderful that you are going to <NS type="RV"><i>listen</i><c>attend</c></NS> a pop concert. I'm sure you will <NS type="UV"><i>be</i></NS> enjoy <NS type="MA"><c>it</c></NS>. You asked me to tell you about my experience <NS type="FV"><i>to help</i><c>helping</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="S"><i>concencert</i><c>concert</c></NS> last week.</p>
+          <p>Well, let me tell you, first of all I was very nervous<NS type="MP"><i> you</i><c>. You</c></NS> know <NS type="MA"><c>it</c></NS> was my first time <NS type="RT"><i>in</i><c>at</c></NS> such <NS type="MD"><c>an</c></NS> event. I was asked to put <NS type="W"><i>in order all the <NS type="FN"><i>chair</i><c>chairs</c></NS></i><c>all the chairs in order</c></NS> for the singer<NS type="RP"><i>, this</i><c>. This</c></NS> was only in the <NS type="S"><i>begining</i><c>beginning</c></NS><NS type="RP"><i>, after</i><c>. After</c></NS> that I <NS type="TV"><i>need</i><c>needed</c></NS> to <NS type="RV"><i>control</i><c>check</c></NS> all the <NS type="S"><i>microfons</i><c>microphones</c></NS>. However<NS type="MP"><c>,</c></NS> I was not very sure <NS type="UT"><i>in</i></NS> <NS type="W"><i>this I <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS></i><c>I enjoyed this</c></NS>. After that all the <NS type="FN"><i>singer</i><c>singers</c></NS> arrived and I was in <NS type="S"><i>charche</i><c>charge</c></NS> <NS type="RT"><i>to</i><c>of</c></NS> greeting them and <NS type="FV"><i>give</i><c>giving</c></NS> them something to drink. You <NS type="MV"><c>can</c></NS> <NS type="S"><i>immagine</i><c>imagine</c></NS> how <NS type="RJ"><i>existing</i><c>excited</c></NS> I was<NS type="MP"><c>,</c></NS> <NS type="RY"><i>specially</i><c>especially</c></NS> because I always wanted some <NS type="AGN"><i>photograph</i><c>photographs</c></NS> <NS type="RT"><i>with</i><c>of</c></NS> them and this was <NS type="MD"><c>a</c></NS> special moment and I <NS type="TV"><i><NS type="S"><i>realice</i><c>realise</c></NS></i><c>realised</c></NS> I <NS type="TV"><i>didn't bring</i><c>hadn't brought</c></NS> my camera<NS type="MP"><c>.</c></NS> I was very sad.</p>
+          <p>Well<NS type="MP"><c>,</c></NS> Kim, remember if they <NS type="TV"><i>asked</i><c>ask</c></NS> you to help go<NS type="MP"><i> you</i><c>. You</c></NS> will see how wonderful <NS type="MD"><c>an</c></NS> experience <NS type="M"><c>it is</c></NS>.</p>
+          <p>Write to me and tell me about your concert.</p>
+          <p>Give my regards to your boyfriend.</p>
+          <p>With Love.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

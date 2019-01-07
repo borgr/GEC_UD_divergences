@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR59*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Helen Ryan<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>It was so great to hear that I had won first prize. It would be meaningful in my life to take part in your camp. I am writing to reply <NS type="RT"><i>about</i><c>to</c></NS> your questions.</p>
+          <p><NS type="R">I am wondering that</NS> I will <NS type="W"><i>be only</i><c>only be</c></NS> able to travel in July, because I have to finish my first year at the university. It finishes 29th of June. In addition to this, I have already resistered <NS type="MT"><c>on</c></NS> another course which starts from 2nd of August.</p>
+          <p>Secondly, I would prefer <NS type="RV"><i><NS type="FV"><i>living</i><c>to live</c></NS></i><c>to stay</c></NS> in tents, I <NS type="TV"><i>always admire</i><c>have always admired</c></NS> <NS type="DJ"><i>outdoors</i><c>outdoor</c></NS> life. Finally, I would like to <NS type="MV"><c>do</c></NS> <NS type="SX"><i>surging</i><c>surfing</c></NS> and golf. In <NS type="MD"><c>the</c></NS> case of surfing, I have never had <NS type="RQ"><i>an</i><c>any</c></NS> experience, I am <NS type="MD"><c>an</c></NS> <NS type="DJ"><i>absolutely</i><c>absolute</c></NS> beginner. On the other hand, I used to play golf with my father. When I was 14, I won <NS type="RD"><i>the</i><c>a</c></NS> competition.</p>
+          <p>I would like to ask about Camp California. Let me know <NS type="UC"><i>if</i></NS> <NS type="W"><i>I have to take which kind of clothes</i><c>which kind of clothes I have to take</c></NS> and how much money I need. It would be very helpful.</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Hi. How are you? I am fine. Thanks for your letter. I want to let you know about my experience as you wanted.</p>
+          <p>Well, last month, I worked at a pop concert. It was fantastic because I could see Madonna. My main job was to <NS type="SX"><i>tide</i><c>tidy</c></NS> up her dressing room. Can you imagine? You are working with your <NS type="SX"><i>idea</i><c>ideal</c></NS> woman, I <NS type="W"><i>can't still</i><c>still can't</c></NS> <NS type="S"><i>belive</i><c>believe</c></NS> that I spoke with her.</p>
+          <p>Anyway, the most important thing was that I had <NS type="MD"><c>a</c></NS> good experience. If we had worked together we would have had a good time. It's  <NS type="MD"><c>a</c></NS> pity, isn't it? Now, I know how difficult <NS type="M"><c>it is</c></NS> to sing in front of <NS type="RD"><i>the</i><c>an</c></NS> audience and behind the <NS type="RN"><i>start</i><c>stage</c></NS> there are a lot of <NS type="UD"><i>the</i></NS> people who help the performance.</p>
+          <p>Next time, I hope that we'll work together. Let's find some information to get a job. Shall we?</p>
+          <p>I have to go now. I am fed up with studying, but I have to. I hope that you'll be alright.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>With lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR864*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dec. 16th, 2000</p>
+          <p>Dear Ms Clark,</p>
+          <p>I am writing to mention my opinions on the International Arts Festival that you have organised this year. It was a great idea, but I think I need to make some points about the things that I found unsatisfactory.</p>
+          <p>First of all, I was disappointed that the artists invited were from only six countries. Next year's festival will be much better if artists from places other than Europe and the USA take part in it.</p>
+          <p>Secondly, despite the high quality of the concerts, some of the halls they were given in were too small for the <NS type="DN"><i>crowd of audition</i><c>audience</c></NS>. They were cold and <NS type="RJ"><i>moist</i><c>damp</c></NS>, too, because the air-conditioning system was <NS type="RJ"><i>insufficient</i><c>inadequate</c></NS>.</p>
+          <p>Thirdly, I think more plays and films should be shown next year. However, I found the idea of a single ticket for all <NS type="MD"><c>the</c></NS> events of the weekend excellent, as the price was reasonable and access to a wide range of events was provided.</p>
+          <p>Finally, I should say that I had a very good time in spite of the flaws and I would like to thank you for it. I wish to enjoy an even better festival next year.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dec 16th, 2000</p>
+          <p>Dear Mary,</p>
+          <p>I'm glad to have received your letter and I'd really like to talk about the school and family rules here.</p>
+          <p>Firstly, the weirdest rule in our schools is that we must wear uniforms all the time. This is especially bad for us girls, as we are obliged to wear skirts and we cannot climb the stairs or run like the boys. But apart from this, I think most rules of the school are quite reasonable, like addressing <NS type="UT"><i>to</i></NS> the teacher using the second <NS type="W"><i>plural person</i><c>person plural</c></NS> (it is different in Turkish) or standing up when s/he enters the class. As we are a developing country, teachers are quite respected.</p>
+          <p>Another thing <NS type="M"><c>that is</c></NS> different from your schools is that we don't change classrooms between periods. We stay in the class in which we have been registered for the whole year, and a different teacher comes in every period.</p>
+          <p>Let me talk about the rules at home. We like chatting on the phone so much that most of <NS type="DD"><i>us'</i><c>our</c></NS> parents have limited the talking time <NS type="UY"><i>down</i></NS> to five minutes, threatening to cut off the <NS type="RN">wires</NS> otherwise. Also, as most of us live in flats, we're not allowed to listen to loud music or run or play ball games in the house! But we are legally allowed to play instruments like the piano until 10 p.m.</p>
+          <p>I'd love to write more, Mary, but I'm in a real rush nowadays. This month has been full of exams and there are still <NS type="RA"><i>ones</i><c>some</c></NS> coming up next week, so I must be a swot as you see. Anyway, I'm looking forward to hearing your comments about our rules.</p>
+          <p>Take care!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

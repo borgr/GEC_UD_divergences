@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE32*0100*2001*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith</p>
+          <p>Thank you for your letter. It's a shame that I won't see Richard because of his illness, but I'm willing to help you as much as I can. <NS type="RY"><i>Then</i><c>So</c></NS> I will give you some information which you asked for in your letter.</p>
+          <p>Firstly, about your <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, <NS type="RD"><i>our</i><c>the</c></NS> college which I belong to offers <NS type="FN"><i>visitor</i><c>visitors</c></NS> free <NS type="FN"><i><NS type="S"><i>accomodations</i><c>accommodations</c></NS></i><c>accommodation</c></NS> with <NS type="R">full of</NS> facilities<NS type="UP"><i>.</i></NS> (for example<NS type="MP"><c>,</c></NS> bath, car park, free internet access, etc.)<NS type="MP"><c>.</c></NS> <NS type="R">They also are</NS> located <NS type="RT"><i>in</i><c>on</c></NS> our campus so you can get to the conference by <NS type="FV"><i>walk</i><c>walking</c></NS>.</p>
+          <p>Secondly, as you know<NS type="MP"><c>,</c></NS> we'll have a party after the conference, which will <NS type="FV"><i>be taken</i><c>take</c></NS> place at our student council hall <NS type="R">with some meals</NS>. This party is unlikely to be that formal, but I recommend you <NS type="X"><i>not to wear</i><c>don't wear</c></NS> jeans and <NS type="S"><i>trainners</i><c>trainers</c></NS>.</p>
+          <p><NS type="RY"><i>At last</i><c>Last</c></NS>, if you have <NS type="MQ"><c>some</c></NS> free time <NS type="U"><i>for <NS type="MD"><c>a</c></NS> couple of <NS type="SX"><i>ours</i><c>hours</c></NS></i></NS>, <NS type="R"><i>you'd better</i><c>you should</c></NS> visit Kamakura City, which is 30 minutes from our campus by train. That is <NS type="MD"><c>a</c></NS> very traditional Japanese city where <NS type="UY"><i>so</i></NS> <NS type="AS"><i>many <NS type="AGN"><i>temple</i><c>temples</c></NS> and <NS type="RN"><i><NS type="CN"><i>heritages</i><c>heritage</c></NS></i><c>monuments</c></NS> are there</i><c>there are many temples and monuments</c></NS>. I'm sure you'll enjoy it and maybe <NS type="RV"><i>get</i><c>become</c></NS> <NS type="S"><i>familier</i><c>familiar</c></NS> with our culture.</p>
+          <p>By the way, if you have any other questions, please send me a letter again.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Oh Baby, I can't live without you!</p>
+          <p>These days, <NS type="TV"><i>we've been</i><c>we're</c></NS> <NS type="S"><i>sorrounded</i><c>surrounded</c></NS> with so <NS type="RQ"><i>any</i><c>many</c></NS> different kinds of products which our ancestors invented. In our daily life, however, we seldom notice how <NS type="UQ"><i>much</i></NS> <NS type="RJ"><i><NS type="S"><i>convinient</i><c>convenient</c></NS></i><c>easy</c></NS> <NS type="MD"><c>a</c></NS> life we've got <NS type="MC"><c>or</c></NS>, what is more, how <NS type="UQ"><i>much</i></NS> <NS type="RJ"><i><NS type="S"><i>inconvinient</i><c>inconvenient</c></NS></i><c>difficult</c></NS> our grandparents <NS type="R"><i>had got</i><c>found it</c></NS>. How nasty we are! Let us try to appreciate <NS type="S"><i>thier</i><c>their</c></NS> importance again.</p>
+          <p>As for me, the invention which is most important to me is <NS type="RD"><i>a</i><c>the</c></NS> personal computer. I have been a <NS type="MP"><i>full time</i><c>full-time</c></NS> student in the university at home, and their classes all <NS type="AGV"><i>requires</i><c>require</c></NS> us to have personal <NS type="AGN"><i>computer</i><c>computers</c></NS> and use them at <NS type="AGQ"><i>any</i><c>all</c></NS> times. When you take the class on computer programming, you will <NS type="S"><i>definetly</i><c>definitely</c></NS> need one and <NS type="RA"><i>it</i><c>that</c></NS> holds true for the class on politics, because you have to study <NS type="FN"><i>statistic</i><c>statistics</c></NS> on your computer <NS type="UT"><i>for</i></NS> <NS type="FV"><i>doing</i><c>to do</c></NS> social research and some <NS type="RN"><NS type="S"><i>analysys</i><c>analyses</c></NS></NS>. My professor said<NS type="MP"><c>,</c></NS> '<NS type="RP"><i>go</i><c>Go</c></NS> and get <NS type="RJ"><NS type="S"><i>familier</i><c>familiar</c></NS></NS> with your computer, otherwise you'll fail'.</p>
+          <p>I find it amazingly easy to forget the importance of inventions which we <NS type="S"><i>useually</i><c>usually</c></NS> use without <NS type="UQ"><i>any</i></NS> <NS type="RN"><i><NS type="S"><i>questione</i><c>question</c></NS></i><c>thinking</c></NS>. That's the nature of human <NS type="FN"><i>being</i><c>beings</c></NS>. But<NS type="UP"><i>,</i></NS> I think it's not only our fault but <NS type="UD"><i>the</i></NS> evidence of how much they <NS type="TV"><i>integrate</i><c>have integrated</c></NS> <NS type="MA"><c>themselves</c></NS> <NS type="RT"><i>in</i><c>into</c></NS> our life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

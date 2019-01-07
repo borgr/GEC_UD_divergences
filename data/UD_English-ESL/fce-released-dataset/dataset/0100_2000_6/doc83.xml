@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR334*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>13-06-00</p>
+          <p>Dear Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>I <NS type="S"><i>recived</i><c>received</c></NS> your letter about <NS type="MD"><c>the</c></NS> <NS type="W"><i>I won two weeks</i><c>two weeks I won</c></NS> at camp California in the U.S.A.</p>
+          <p>I would like <NS type="FV"><i>travel</i><c>to travel</c></NS> <NS type="MT"><c>in</c></NS> July because I will have holidays in <NS type="RD"><i>this</i><c>that</c></NS> <NS type="S"><i>mounth</i><c>month</c></NS>.</p>
+          <p>About the accommodation at camp, I prefer <NS type="R"><i>in</i><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I love <NS type="FV"><i>sleep</i><c>to sleep</c></NS> in tents<NS type="RP"><i>,</i><c>.</c></NS> <NS type="MA"><c>It</c></NS> is more interesting than <NS type="FV"><i>sleep</i><c>sleeping</c></NS> in log cabins.</p>
+          <p>I would like <NS type="FV"><i>do</i><c>to do</c></NS> climbing and sailing while I'm at the camp<NS type="RP"><i>,</i><c>.</c></NS> I can <NS type="FV"><i>climbing</i><c>climb</c></NS> very well<NS type="MP"><c>.</c></NS> I used to <NS type="FV"><i>climbing</i><c>climb</c></NS> ten years ago in my country.</p>
+          <p>I'm worried about what kind of clothes I will need in the camp? <NS type="RP"><i>and</i><c>And</c></NS> how much money I have to <NS type="RV"><i>carry</i><c>bring</c></NS> for the trip? Could you answer my questions please as soon as you can, because I'm nervous, and I need your <NS type="W"><i>soon answer</i><c>answer soon</c></NS>, and I will have <NS type="MD"><c>a</c></NS> talk with my parents about <NS type="MD"><c>the</c></NS> camp.</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>I agree <NS type="R"><i>with</i><c>that</c></NS> shopping is not always enjoyable. Nowadays, <NS type="UD"><i>the</i></NS> people are always buying <NS type="R"><i><NS type="S"><i>anythings</i><c>anything</c></NS></i><c>things</c></NS> <NS type="MC"><c>when</c></NS> maybe they don't need <NS type="AGQ"><i>this</i><c>these</c></NS> things, <NS type="MC"><c>but</c></NS> only buy <NS type="MA"><c>them</c></NS> because <NS type="MA"><c>they</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> in fashion.</p>
+          <p>In the first place, when <NS type="UD"><i>the</i></NS> people think only <NS type="RT"><i>in</i><c>about</c></NS> <NS type="FV"><i>go</i><c>going</c></NS> <NS type="U"><i>to the</i></NS> shopping <NS type="MA"><c>they</c></NS> <NS type="TV"><i>forgot</i><c>forget</c></NS> <NS type="IQ"><i>others</i><c>other</c></NS> things: <NS type="FV"><i>play</i><c>playing</c></NS> with their children, <NS type="FV"><i>talk</i><c>talking</c></NS> with <NS type="SX"><i>than</i><c>their</c></NS> parents, friends.</p>
+          <p><NS type="ID"><i>In the other hands</i><c>On the other hand</c></NS>, when <NS type="UD"><i>the</i></NS> people go <NS type="UT"><i>to</i></NS> shopping <NS type="MA"><c>they</c></NS> spend a lot of money.</p>
+          <p>I my view, <NS type="MA"><c>it</c></NS> is more enjoyable <NS type="FV"><i>do</i><c>to do</c></NS> <NS type="IQ"><i>others</i><c>other</c></NS> things than <NS type="W"><i>go to</i><c>to go</c></NS> shopping because, maybe<NS type="MP"><c>,</c></NS> "you <NS type="RV"><i>lose</i><c>waste</c></NS> your money".</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

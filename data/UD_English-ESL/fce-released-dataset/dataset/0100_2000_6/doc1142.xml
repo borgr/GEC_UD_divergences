@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR465*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I received your letter, so I <NS type="TV"><i>write</i><c>am writing</c></NS> <NS type="MT"><c>to</c></NS> you to give you some <NS type="CN"><i>informations</i><c>information</c></NS> <NS type="RT"><i>from</i><c>about</c></NS> me.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I finish school <NS type="RT"><i>on</i><c>in</c></NS> June and I go to Great Britain <NS type="RT"><i>on</i><c>in</c></NS> August for one month.</p>
+          <p>If I can choose my <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I prefer <NS type="RV"><i>living</i><c>staying</c></NS> in <NS type="MD"><c>a</c></NS> tent. I prefer this <NS type="S"><i>accomodation</i><c>accommodation</c></NS> because I think it's <NS type="IJ"><i>more easy</i><c>easier</c></NS> to <NS type="TV"><i>met</i><c>meet</c></NS> people when you <NS type="RV"><i>live</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> tent, near them, than when you <NS type="RV"><i>live</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> log cabin.</p>
+          <p>I want <NS type="FV"><i>playing</i><c>to play</c></NS> tennis and <NS type="MV"><c>to go</c></NS> swimming. I <NS type="TV"><i>didn't play</i><c>haven't played</c></NS> tennis before, so I am not good. I go to <NS type="MD"><c>the</c></NS> <NS type="RP"><i>swimming-pool</i><c>swimming pool</c></NS> two <NS type="AGN"><i>time</i><c>times</c></NS> <NS type="R"><i>by</i><c>a</c></NS> week, so I am good at this sport.</p>
+          <p>Could you tell me what sort of clothes I will have to wear to play tennis?</p>
+          <p>Could you tell me if I will need money for <NS type="UV"><i>paid</i></NS> my dinners?</p>
+          <p>Yours sincerely.</p>
+          <p>Eric Durand</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>There <NS type="AGV"><i>is</i><c>are</c></NS> a lot of activities and lessons at our school, so I think it's difficult to <NS type="TV"><i>chose</i><c>choose</c></NS> some of them. I think the best choice is to show many types of activities.</p>
+          <p>We could show <NS type="MD"><c>the</c></NS> team spirit of our school <NS type="R"><i>with</i><c>through</c></NS> <NS type="DJ"><i>sport</i><c>sports</c></NS> activities like soccer, basketball or handball. We could also show cultural activities: there <NS type="AGV"><i>is</i><c>are</c></NS> a lot of <NS type="W"><i>clubs of music</i><c>music clubs</c></NS> <NS type="RC"><i>or</i><c>and</c></NS> painting <NS type="MN"><c>clubs</c></NS> in our school. I think it could be <NS type="RJ"><i>interested</i><c>interesting</c></NS> to show how students work to write the <NS type="W"><i><NS type="S"><i>new paper</i><c>newspaper</c></NS> of school</i><c>school newspaper</c></NS>.</p>
+          <p>At the end, we can also show where we can be relaxed. We should <NS type="TV"><i>filmed</i><c>film</c></NS> our pub and <NS type="MD"><c>a</c></NS> <NS type="RN"><i>room</i><c>roomful</c></NS> of students. All <NS type="AGD"><i>this</i><c>these</c></NS> activities which should be filmed<NS type="UP"><i>,</i></NS> are <NS type="M"><c>part of</c></NS> our daily life at our school.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

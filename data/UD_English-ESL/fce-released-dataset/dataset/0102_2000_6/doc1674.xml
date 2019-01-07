@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR661*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the musical show "OVER THE RAINBOW"<NS type="MP"><c>,</c></NS> which I saw in your theatre <NS type="MT"><c>on</c></NS> the 5th of June. I have been very disappointed by the quality of the show and the lies in your advertisement.</p>
+          <p>Firstly, I was looking forward to seeing Danny Brook, as written in the advertisement, but his part was played by another actor, without <NS type="MQ"><c>any</c></NS> information or <NS type="RN"><i>excuse</i><c>explanation</c></NS> <NS type="MV"><c>being given</c></NS> <NS type="RT"><i>from</i><c>by</c></NS> the <NS type="RN"><i>direction</i><c>management</c></NS>. Secondly, I <NS type="S"><i>coudn't</i><c>couldn't</c></NS> get a discount with my student card and the show started 45 minutes <NS type="FY"><i>later</i><c>late</c></NS>. In addition, the theatre restaurant, where we had planned to eat, was closed because the cook was ill.</p>
+          <p>I am therefore asking for a complete refund of my ticket and I hope you will improve the quality of your services in the future.</p>
+          <p>Yours faithfully</p>
+          <p>H. Coulez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p><NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS>, Pat wasn't very good at keeping secrets. The poor boy was only 5 <NS type="AGN"><i>year</i><c>years</c></NS> old and at this age<NS type="UP"><i>,</i></NS> it's very difficult to keep your mouth shut knowing an important secret. So when he heard <NS type="ID"><i>at random</i><c>by chance</c></NS> that my parents were planning to <NS type="RV"><i>offer</i><c>give</c></NS> me a trip to San Fansisco as <NS type="MD"><c>a</c></NS> present for my birthday, my little brother ran <NS type="RT"><i>in</i><c>into</c></NS> my bedroom <NS type="RY"><i>wherever</i><c>where</c></NS> I was studying and whispered <NS type="W"><i>in my ear the wonderful news</i><c>the wonderful news in my ear</c></NS>. I knew they wanted to send me to America because they didn't want me to spend the summer with my boyfriend Fred, whom they didn't appreciate. But Fred booked a <NS type="RN"><i>place</i><c>seat</c></NS> on a plane to San Fransisco and that's why, even if I didn't look delighted when my mum gave me my ticket for America, I had been looking forward to going with Fred for <NS type="W"><i>already one month</i><c>one month already</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

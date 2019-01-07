@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR995*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan</p>
+          <p>Before answering your letter (which I have just <NS type="S"><i>recieved</i><c>received</c></NS>) about the prize <NS type="RT"><i>of</i><c>for</c></NS> the competition I recently won, I'd like to <NS type="RV"><i>tell</i><c>say</c></NS> <NS type="UA"><i>you</i></NS> thank you very much for giving me the chance of <NS type="SX"><i>gong</i><c>going</c></NS> to the USA. It is just a dream come true!</p>
+          <p>I have been asked to say when I would like <NS type="FV"><i>travel</i><c>to travel</c></NS>. There's only one month for that: July (as I am working all the year round and I am not available to leave my job).</p>
+          <p>About the <NS type="S"><i>accomodation</i><c>accommodation</c></NS><NS type="RP"><i>;</i><c>,</c></NS> I <NS type="L"><i><NS type="S"><i>rekon</i><c>reckon</c></NS></i><c>think</c></NS> I would prefer to be in a log cabin instead of a tent, since it is more comfortable.</p>
+          <p>During my two <NS type="RP"><i>week sat</i><c>weeks at</c></NS> Camp California, I'd like to <NS type="DV"><i>practice</i><c>practise</c></NS> climbing and surfing, <NS type="W"><i><NS type="RA"><i>whose</i><c>of which</c></NS> <NS type="MD"><c>the</c></NS> basics</i><c>the basics of which</c></NS> I know perfectly well.</p>
+          <p>I am quite good at both because I do usually <NS type="DV"><i>practice</i><c>practise</c></NS> them. Furthermore, I love to <NS type="RV"><i>go through</i><c>do</c></NS> such sports!</p>
+          <p>In addition to this, I would like to know the <NS type="S"><i>ammount</i><c>amount</c></NS> of money I should bring, as well as the kind of clothes that <NS type="RP"><i>i</i><c>I</c></NS> could need and the sort of people that I will find there.</p>
+          <p>Don't hesitate to contact me if there's any problem, and thank you very much again.</p>
+          <p>Yours sincerely,</p>
+          <p>Bola</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Hi Kim!</p>
+          <p>How are you?</p>
+          <p>It has been so long since I wrote to you <NS type="UT"><i>for</i></NS> last time...</p>
+          <p>Hey, guess what: I <NS type="R"><i>gave a hand to</i><c>helped</c></NS> a friend at a pop concert!</p>
+          <p>It was great, and I got my <NS type="RN"><i>entrance</i><c>ticket</c></NS> for free!</p>
+          <p>It happened by chance: I was walking down the street when I bumped into Jane, my old friend, who asked me if I wanted to join her and a couple of mates to help at the concert.</p>
+          <p>I agreed unwillingly, as I couldn't imagine <NS type="DA"><i>how</i><c>what</c></NS> a pop concert <NS type="TV"><i><NS type="RV"><i>looked</i><c>was</c></NS></i><c>would be</c></NS> like... but when I <NS type="RV"><i>came</i><c>went</c></NS> in I changed my mind!</p>
+          <p>None of the groups <NS type="TV"><i>were</i><c>are</c></NS> known <NS type="RY"><i>nowadays</i><c>at the moment</c></NS>, but I <NS type="S"><i>belive</i><c>believe</c></NS> they are well on their way to becoming famous bands.</p>
+          <p>My tasks were serving drinks and some other stuff, and <NS type="FV"><i>stay</i><c>staying</c></NS> there after the concert to clean everything. This was the best part because when everyone was gone, Billy Joel arrived to give his support to the <NS type="S"><i>beginers</i><c>beginners</c></NS>!!! What was a <NS type="RN"><i>fella</i><c>guy</c></NS> like that doing in such a place? I couldn't <NS type="S"><i>belive</i><c>believe</c></NS> my <NS type="UY"><i>very</i></NS> eyes... Jane took a photograph of us <NS type="S"><i>toghether</i><c>together</c></NS>. I'll send you a copy as soon as I can.</p>
+          <p>Lots of <NS type="RP"><i>Kisses</i><c>kisses</c></NS> from</p>
+          <p>Bola</p>
+          <p>xxx</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

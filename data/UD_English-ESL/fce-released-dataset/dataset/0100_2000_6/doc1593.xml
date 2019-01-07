@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR623*0100*2000*01">
+  <candidate><personnel><language>French</language><age>41-50</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Edouard,</p>
+          <p>Firstly, let me thank you for your nice letter of June 10th. I was so surprised but so glad to read that I <NS type="TV"><i>won</i><c>had won</c></NS> the first prize in your competition.</p>
+          <p>In response to your question and if you don't mind, I would prefer to travel in July because I've already <NS type="RV"><i>chosen</i><c>booked</c></NS> my holiday and my boss won't give me another one.</p>
+          <p>I would be grateful if I could <NS type="RV"><i>accommodate</i><c>stay</c></NS> in a log cabin. I'm <NS type="X"><i>no more a young girl</i><c>not a young girl anymore</c></NS><NS type="UP"><i>!</i></NS> and do appreciate a little bit of comfort.</p>
+          <p>As you asked me, my favourite activities would be painting and climbing. I like <NS type="W"><i>very much the <NS type="S"><i>moutains</i><c>mountains</c></NS></i><c>the mountains very much</c></NS> and would particularly enjoy painting them after a walk. Would you be so kind as to write <NS type="MT"><c>to</c></NS> me as soon as possible because I need the <NS type="RJ"><i>accurate</i><c>precise</c></NS> date of the journey. I've got four children and have to organise their time without <NS type="MD"><c>their</c></NS> mother.</p>
+          <p>Furthermore, I would like to know exactly <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes I have to take with <NS type="MA"><c>me</c></NS> and how much money <NS type="R"><i>I'll be supposed</i><c>I should expect</c></NS> to spend there. I'm really looking forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+          <p>Edith-Marilyn Piaf</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is <NS type="M"><c>a part of</c></NS> my everyday life. I'm a mother of four <NS type="UN"><i>children</i></NS> and you can easily imagine how many things I have to buy in a week. It starts with food (<NS type="S"><i>monstruous</i><c>monstrous</c></NS>) and goes on <NS type="RT"><i>with</i><c>to</c></NS> clothes, pills, games and so on. It never ends! But <NS type="RJ"><i>unlikely</i><c>contrary</c></NS> to what you <NS type="RV"><i>could</i><c>might</c></NS> <NS type="RV"><i>think</i><c>expect</c></NS>, I love shopping. I find it <NS type="UD"><i>a</i></NS> very relaxing <NS type="UN"><i>moment</i></NS>. At home, you have to work hard and you're often <NS type="RJ"><i>stressful</i><c>stressed</c></NS> because <NS type="UT"><i>of</i></NS> your children <NS type="MV"><c>are</c></NS> always asking you for something. When you're shopping, you can finally relax, just admiring what <NS type="TV"><i>you're seeing</i><c>you see</c></NS>. Your only <NS type="RN"><i>work</i><c>task</c></NS> <NS type="AGV"><i>consist</i><c>consists</c></NS> in choosing what suits you or buying what you prefer for dinner<NS type="MP"><c>,</c></NS> for instance; furthermore you're not disturbed: it's a dream!</p>
+          <p>To be fair, I must say that I've noticed one <NS type="RN"><i>disadvantage</i><c>drawback</c></NS> <NS type="RT"><i>on</i><c>to</c></NS> shopping: you need money!</p>
+          <p>You'll understand, I'm sure, <NS type="RC"><i>that</i><c>why</c></NS> I prefer shopping at the beginning of every month. In order to change this situation I <NS type="RV"><i>could</i><c>would have</c></NS> <NS type="FV"><i>win</i><c>to win</c></NS> the lottery: <NS type="R"><i>a</i><c>another</c></NS> dream <NS type="UT"><i>too</i></NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR366*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I've just seen your letter and I'm really delighted to have won the first prize in your competition.</p>
+          <p>I would like to travel in July because it's the only month I have two <NS type="MP"><i>weeks</i><c>weeks'</c></NS> holiday during the summer. I would prefer to be in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I feel <NS type="RJ"><i>insecure</i><c>unsafe</c></NS> staying in <NS type="MD"><c>a</c></NS> tent. While <NS type="TV"><i>I'll be</i><c>I'm</c></NS> at the <NS type="RP"><i>Camp</i><c>camp</c></NS>, I would like to play tennis and <NS type="MV"><c>go</c></NS> swimming. I've done <NS type="AGA"><i>it</i><c>them</c></NS> for many years and I want to do both once a day. I'm very good at swimming and my level <NS type="M"><c>of proficiency</c></NS> is <NS type="RJ"><i>medium</i><c>average</c></NS> at tennis. If possible, could you let me know what I'll need<NS type="MP"><c>,</c></NS> for example <NS type="RQ"><i>which</i><c>what</c></NS> clothes I must take and how much I can expect to spend<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I'm excited to <NS type="MV"><c>be</c></NS> <NS type="FV"><i>go</i><c>going</c></NS> on <NS type="S"><i>holliday</i><c>holiday</c></NS> there and<NS type="MP"><c>,</c></NS> thanks to you, I will realize a dream <NS type="R">that I always wanted to do</NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim, I want to tell you about <NS type="R"><i>my</i><c>a</c></NS> good experience I had last month. <NS type="TV"><i>I'd enjoyed</i><c>I enjoyed</c></NS> helping at a pop concert and it <NS type="TV"><i>has been</i><c>was</c></NS> fabulous. At first, <NS type="TV"><i>I'd helped</i><c>I helped</c></NS> them to carry the <NS type="RN"><i>material</i><c>equipment</c></NS> and we <NS type="TV"><i>had fixed</i><c>fixed</c></NS> everything in the <NS type="RJ"><i>good</i><c>correct</c></NS> order. <NS type="RA"><i>They</i><c>There</c></NS> were so many pieces that we <NS type="TV"><i>had spent</i><c>spent</c></NS> a whole day <NS type="FV"><i>to prepare</i><c>preparing</c></NS> the <NS type="RN"><i>scene</i><c>stage</c></NS>. At the end, we <NS type="TV"><i>have had</i><c>had</c></NS> a beer and we talked together. I was astonished to see <NS type="R"><i>so</i><c>how</c></NS> friendly and funny they were and we <NS type="RV"><i>got</i><c>became</c></NS> good friends. During the show, I was behind them and I could see the spectators shouting and jumping <NS type="CE">with their and up</NS>. It was unbelievable to <NS type="RV"><i>realize</i><c>think</c></NS> that I'd worked with stars and that they were my friends. It is difficult to explain what <NS type="TV"><i>I'd particularly liked</i><c>I particularly liked</c></NS> about my experience because <NS type="R">the most memories are in my heart</NS> and I'd never thought that I could get on so well with a group of people <NS type="RA"><i>which</i><c>whom</c></NS> I'd known only for <NS type="MD"><c>a</c></NS> few days.</p>
+          <p>If possible, I would like <NS type="FV"><i>introduce</i><c>to introduce</c></NS> you to them<NS type="RP"><i>, they</i><c>.  They</c></NS> are very nice guys.</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

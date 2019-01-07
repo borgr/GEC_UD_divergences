@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE27*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to answer your letter where you asked for information about the <NS type="S"><i>conferents</i><c>conference</c></NS> and other points in relation <NS type="RT"><i>with</i><c>to</c></NS> <NS type="MA"><c>it</c></NS>.</p>
+          <p>The hotel where your group has been booked is the Palace Hotel. It is a very nice hotel in the centre of the city, and that is very near <NS type="RT"><i>of</i><c>to</c></NS> the college <NS type="SX"><i>which</i><c>where</c></NS> the conference is <NS type="R"><i>into,</i><c>being held -</c></NS> five <NS type="MP"><i>minutes</i><c>minutes'</c></NS> <NS type="RN"><i>walking</i><c>walk</c></NS>. <NS type="UV"><i>Going walking</i><c>Walking</c></NS> is quicker than waiting for a taxi or a bus. When you arrive <NS type="RT"><i>to</i><c>at</c></NS> the <NS type="RP"><i>Colleges</i><c>colleges</c></NS> there will be people indicating the way to the conference room.</p>
+          <p>At the end of the conference we are <NS type="RV"><i>doing</i><c>throwing</c></NS> a party with some cold <NS type="SX"><i>good</i><c>food</c></NS> and some drinks. There will be music as well for dancing. The director of the <NS type="RP"><i>College</i><c>college</c></NS> has suggested <NS type="FV"><i>to wear</i><c>wearing</c></NS> smart clothes for that occasion and I give you the same advice.</p>
+          <p><NS type="W"><i><NS type="L"><i>About</i><c>Regarding</c></NS> the afternoon before <NS type="MA"><c>you</c></NS> <NS type="TV"><i>leaving</i><c>leave</c></NS> I have some suggestions</i><c>I have some suggestions regarding the afternoon before you leave</c></NS>. In the <NS type="RN"><i>area</i><c>vicinity</c></NS> of the <NS type="RP"><i>Hotel</i><c>hotel</c></NS> there are two interesting places to visit. One is the Picasso museum and the other is an important Gallery where you can enjoy seeing <NS type="IJ"><i>differents</i><c>different</c></NS> kinds of paintings.</p>
+          <p>I hope my information <NS type="RV"><i>can</i><c>will</c></NS> help you and it has been useful for you.</p>
+          <p>I am looking forwards to <NS type="FV"><i>see</i><c>seeing</c></NS> you at the <NS type="RP"><i>Conference</i><c>conference</c></NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>There is an invention that I think <NS type="UC"><i>that</i></NS> has been very important: the computer.</p>
+          <p>The computer is very useful and <NS type="RP"><i>It</i><c>it</c></NS> has <NS type="TV"><i>affect</i><c>affected</c></NS> our own <NS type="IN"><i>lifes</i><c>lives</c></NS><NS type="UP"><i>,</i></NS> in <NS type="IJ"><i>differents</i><c>different</c></NS> <NS type="RN"><i>meanings</i><c>ways</c></NS>. The computer has <NS type="RV"><i>done</i><c>made</c></NS> <NS type="W"><i><NS type="FJ"><i>easy</i><c>easier</c></NS> a lot of <NS type="RN"><i>works</i><c>jobs</c></NS></i><c>a lot of jobs easier</c></NS>. <NS type="W"><i>For <NS type="RN"><i>works</i><c>jobs</c></NS> that you needed, for example three hours</i><c>Jobs that you needed, for example, three hours for</c></NS> you can do <NS type="UA"><i>them</i></NS> in ten minutes; <NS type="R">the same</NS>! But computers <NS type="X"><i>don't have affected only</i><c>haven't only affected</c></NS> <NS type="MA"><c>us</c></NS> in a good way because <NS type="IN"><i>thank</i><c>thanks</c></NS> <NS type="UA"><i>you</i></NS> to computers the number the <NS type="RN"><i>places of work</i><c>jobs</c></NS> <NS type="MJ"><c>available</c></NS> for <NS type="UD"><i>the</i></NS> <NS type="L"><i>persons</i><c>people</c></NS> is <NS type="RJ"><i>minor</i><c>smaller</c></NS>. But<NS type="UP"><i>,</i></NS> <NS type="W"><i><NS type="S"><i>definetely</i><c>definitely</c></NS> they <NS type="AGV"><i>has</i><c>have</c></NS></i><c>they have definitely</c></NS> been a very important invention.</p>
+          <p>The last <NS type="DN">relationed</NS> with computers is <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. <NS type="RT"><i>By</i><c>With</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> you can <NS type="S"><i>comunicate</i><c>communicate</c></NS> with people <NS type="RT"><i>of</i><c>in</c></NS> <NS type="IJ"><i>differents</i><c>different</c></NS> places of the world at the same moment. And you can <NS type="RV"><i>take</i><c>get</c></NS> lots of <NS type="CN"><i>informations</i><c>information</c></NS> about a lot of things. <NS type="AS"><i><NS type="RP"><i>Every thing</i><c>Everything</c></NS> that you need you can find it</i><c>You can find everything that you need</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>.</p>
+          <p>Nowadays <NS type="AGN"><i>computer</i><c>computers</c></NS> are very <NS type="DJ"><i>developmented</i><c>advanced</c></NS> and <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="RV">increasing</NS>. What will be <NS type="UD"><i>the</i></NS> next?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

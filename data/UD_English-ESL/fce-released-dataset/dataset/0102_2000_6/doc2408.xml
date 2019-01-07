@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR973*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to let you know <NS type="MT"><c>about</c></NS> <NS type="RD"><i>our</i><c>the</c></NS> unbelievable experiences which we had when we went to the theatre to see the musical show 'OVER THE RAINBOW.'</p>
+          <p>First of all, I am a fan of Danny Brook but he was absent because <NS type="R"><i>of</i><c>he was</c></NS> sick. It <NS type="AS"><i>made me disappointed</i><c>disappointed me</c></NS> very much. Moreover, he made many mistakes.</p>
+          <p>Secondly, although we had booked the tickets 3 days before we went to the theatre, we could not be given any discounts only because we had <NS type="RV"><i>done</i><c>booked</c></NS> at a travel agency.</p>
+          <p>Finally, I am going to write about the <NS type="SA"><i>theater</i><c>theatre</c></NS>, the Circle Theatre. The show <NS type="TV"><i>supposed</i><c>was supposed</c></NS> to start at 19:30, but it started at 20:15. Because of that, we missed the train and we had to stay one more night in London. It was your <NS type="RN"><i>responsibility</i><c>fault</c></NS>. We would like you to <NS type="RV"><i>pay back</i><c>return</c></NS> the <NS type="RN"><i>fee</i><c>price</c></NS> of the <NS type="RN"><i>show</i><c>ticket</c></NS> and pay us <NS type="MT"><c>for</c></NS> that <NS type="UN"><i>hotel's fee</i><c>hotel</c></NS> as well. I would recommend you <NS type="RV"><NS type="FV"><i>to show</i><c>show</c></NS></NS> that the restaurant is closed on Monday. I could not have dinner.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future</p>
+          <p>If you asked the young people what they <NS type="AS"><i>spend their money the most in</i><c>spend their money on most</c></NS>, most of them would answer 'clothes'. <NS type="ID"><i>In these days</i><c>These days</c></NS>, new fashions <NS type="RV"><NS type="TV"><i>have been passing</i><c>pass</c></NS> by</NS> very quickly.</p>
+          <p><NS type="ID"><i>From my point of view</i><c>In my opinion</c></NS>, young people tend to wear <NS type="UD"><i>the</i></NS> clothes which <NS type="UA"><i>they</i></NS> can show their skin. For example, short skirts and tops like <NS type="UD"><i>an</i></NS> <NS type="UP"><i>under-wear</i><c>underwear</c></NS>. I think young people <NS type="R">would wear smaller clothes</NS> which <NS type="MV"><c>make</c></NS> <NS type="RA"><i>they</i><c>them</c></NS> look like <NS type="M"><c>they are</c></NS> almost naked even in winter. I suppose that a scientist could invent new kinds of materials which are warm and thick. It could be <NS type="UV"><i>happened</i></NS> that people <NS type="TV"><i>wear</i><c>will wear</c></NS> the clothes which ancient people used to wear, like skirts made of leaves.</p>
+          <p>Next, I predict <NS type="R">about patterns of clothes</NS>. The <NS type="DN">animal-pattern</NS> is catching <NS type="RY"><i>up</i><c>on</c></NS> now. It might be possible that the <NS type="DN">fish-pattern</NS> <NS type="TV"><i><NS type="RV"><i>come up</i><c>catch on</c></NS></i><c>will catch on</c></NS> in 100 years.</p>
+          <p>However, fashion changes too fast to predict. I think fashion changes very quickly so that people are interested in those changes.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

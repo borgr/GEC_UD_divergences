@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR885*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RP"><i>sir</i><c>Sir</c></NS>,</p>
+          <p>I'm writing to you<NS type="UP"><i>,</i></NS> to complain about the musical show "OVER THE RAINBOW"<NS type="UP"><i>,</i></NS> that I came to see <NS type="W"><i>during my holiday in London, at your theatre</i><c>at your theatre during my holiday in London</c></NS>. Unfortunately that evening wasn't as good as I expected.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the show you wrote that Danny Brook and Tina Truelove were taking part <NS type="RT"><i>at</i><c>in</c></NS> the show<NS type="UP"><i>. And</i><c> and</c></NS> I was so excited about it! But I was very disappointed when I realised that another actor was taking <NS type="MN"></NS> part. And the worst <NS type="MN"><c>thing</c></NS> was that he wasn't so good in <NS type="RD"><i>his</i><c>this</c></NS> role!</p>
+          <p>Another thing was that the show I went to was <NS type="MV"><c>supposed</c></NS> <NS type="FV"><i>starting</i><c>to start</c></NS> at 19:30 but it started at 20:15! The people who were there to watch the show were very <NS type="S"><i>ungry</i><c>angry</c></NS> and they were shouting because they <NS type="MV"><c>had</c></NS> <NS type="FV"><i>were waiting</i><c>to wait</c></NS> <NS type="UT"><i>for</i></NS> too long<NS type="RP"><i>,</i><c>.</c></NS> And I absolutely <NS type="TV"><i>agree</i><c>agreed</c></NS> with them. Also in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> you wrote that discounts were available, but they weren't, <NS type="RP"><i>And</i><c>and</c></NS> also that people could visit the theatre restaurant after the show<NS type="UP"><i>,</i></NS> to eat some thing or to have a drink. But when I went there, it was closed. I don't know why and I'd like you to tell me<NS type="UP"><i>,</i></NS> the reason.</p>
+          <p>Finally, you said that it would be our perfect evening out. Well it wasn't and I <NS type="TV"><i>ask</i><c>am asking</c></NS> for my money back. I'd like you to return <NS type="AGA"><i>them</i><c>it</c></NS> to me.</p>
+          <p><NS type="TV"><i>I'll wait</i><c>I'm waiting</c></NS> to hear from you soon.<NS type="UP"><i>..</i></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. So, the next day Pat went and told <NS type="UT"><i>to</i></NS> his sister Sally that her friends were organising a <NS type="S"><i>suprise</i><c>surprise</c></NS> party for her birthday. When Sally <NS type="IV"><i>heared</i><c>heard</c></NS> that, <NS type="MA"><c>she</c></NS> was very <NS type="S"><i>suprised</i><c>surprised</c></NS> and very excited. But because she didn't want to disappoint her friends, she was acting as <NS type="MC"><c>if</c></NS> she didn't know anything. She let them <NS type="FV"><i>to organise</i><c>organise</c></NS> it! But although she was acting like this she was very <NS type="S"><i>ungry</i><c>angry</c></NS> with her brother Pat, because he didn't keep the secret.</p>
+          <p>The party was on Saturday at Sally's house. All her friends were going to meet there<NS type="UP"><i>,</i></NS> while she was at her swimming lesson. When that day arrived they all went there as they <NS type="TV"><i>planned</i><c>had planned</c></NS>. When the clock showed 8:00 they <NS type="TV"><i>hide</i><c>hid</c></NS> themselves under the tables and the <NS type="MQ"><c>other</c></NS> <NS type="CN"><i>furnitures</i><c>furniture</c></NS>. After a while<NS type="MP"><c>,</c></NS> the bell rang. It was Sally! Suddenly they all shouted "<NS type="RP"><i><NS type="S"><i>suprise</i><c>surprise</c></NS></i><c>Surprise</c></NS>!". Sally<NS type="MP"><c>,</c></NS> although she knew <NS type="MT"><c>about</c></NS> it, <NS type="UA"><i>she</i></NS> seemed very <NS type="S"><i>suprised</i><c>surprised</c></NS>! So her friends didn't <NS type="RV"><i>understand</i><c>realise</c></NS> that she knew about the party and they were very happy because they believed that the <NS type="S"><i>suprise</i><c>surprise</c></NS> party had <NS type="MV"><c>been</c></NS> <NS type="MD"><c>a</c></NS> <NS type="DN"><i>succeed</i><c>success</c></NS>!</p>
+          <p>But although Sally knew about it, they had a really great time. They danced a lot and they had pizza for dinner. It was an <NS type="DJ"><i>unforgetable</i><c>unforgettable</c></NS> night!!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

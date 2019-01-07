@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR882*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I saw your advertisement yesterday. I have visited the <NS type="RP"><i>circle theatre</i><c>Circle Theatre</c></NS>. I would like to say that I am not satisfied <NS type="RT"><i>of</i><c>with</c></NS> it.</p>
+          <p>First of all, there were <NS type="UQ"><i>any</i></NS> different <NS type="AGN"><i>actor</i><c>actors</c></NS>. I was disappointed. The other point is that the organization was very bad. For example, it <NS type="TV"><i>is</i><c>was</c></NS> said the show <NS type="TV"><i>starts</i><c>started</c></NS> at 19.30 but it started at 20:15. I <NS type="TV"><i>have waited</i><c>waited</c></NS> around one hour. Now I have a cold because it was so cold <NS type="MD"><c>that</c></NS> evening. Thirdly, I would like to enquire <NS type="UV"><i>is</i></NS> about the tickets. Firstly, twenty pounds <NS type="AGV"><i>are</i><c>is</c></NS> a lot of money for such a <NS type="RN">organization</NS><NS type="RP"><i>,</i><c>;</c></NS> <NS type="ID"><i>on the other hand</i><c>also</c></NS> it <NS type="TV"><i>is</i><c>was</c></NS> said that <NS type="MD"><c>a</c></NS> discount <NS type="TV"><i>is</i><c>was</c></NS> available. It <NS type="TV"><i>is</i><c>was</c></NS> <NS type="RJ"><i>false</i><c>untrue</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i>have paid</i><c>paid</c></NS> twenty pounds.</p>
+          <p><NS type="R"><i>What other</i><c>The other thing</c></NS> I would like <NS type="FV"><i>ask</i><c>to ask</c></NS> is <NS type="UC"><i>that</i></NS> why it is said this is <NS type="UD"><i>the</i></NS> London's newest and best musical show. I can <NS type="RV"><i>mention</i><c>say</c></NS> it is the worst musical show. And I was invited to visit the theatre restaurant after the show. But it was closed because there <NS type="AGV"><i>were</i><c>was</c></NS> not anything to drink or to eat. Finally it was not the perfect evening out.</p>
+          <p>In conclusion, I really did not like it. I want to ask if it is possible to give me <NS type="MD"><c>my</c></NS> money back.</p>
+          <p>I look forward to your letter.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Modern technology has changed my daily life very much. At <NS type="UD"><i>the</i></NS> present, <NS type="UD"><i>the</i></NS> technology develops rapidly. In my opinion, <NS type="MD"><c>the</c></NS> <NS type="RP"><i>World</i><c>world</c></NS> <NS type="RP"><i>can not</i><c>cannot</c></NS> do without it.</p>
+          <p>Firstly, I would like to mention <NS type="UV"><i>is</i></NS> that in our daily life we always use some technological <NS type="RN"><i>machines</i><c>appliances</c></NS>. For instance, <NS type="MD"><c>a</c></NS> TV-set, stereo, microwave oven and others. Another point is that with the help of <NS type="UD"><i>the</i></NS> technology we can communicate with the whole world. Without doubt, <NS type="MD"><c>the</c></NS> <NS type="RN"><i>discovering</i><c>invention</c></NS> of the computer is the most important technological event. It is very useful. Almost everything is <NS type="RJ"><i>connected to</i><c>dependent on</c></NS> <NS type="UD"><i>the</i></NS> computers<NS type="RP"><i>. For</i><c>, for</c></NS> example, education, <NS type="RN"><i>researching</i><c>research</c></NS> <NS type="RT"><i>of</i><c>into</c></NS> the <NS type="RP"><i>Universe</i><c>universe</c></NS> and <NS type="R"><i>others</i><c>other things</c></NS>.</p>
+          <p>Another thing I would like to say is that modern technology <NS type="AGV"><i>help</i><c>helps</c></NS> us to <NS type="RV"><i>go</i><c>get</c></NS> anywhere <NS type="M"><c>we want to go</c></NS> rapidly. The most <NS type="R">suitable examples</NS> are <NS type="UD"><i>the</i></NS> planes. <NS type="R"><i>What</i><c>The</c></NS> other <NS type="MN"><c>thing</c></NS> I would like to mention <NS type="MT"><c>about</c></NS> how important <NS type="UD"><i>the</i></NS> modern technology is <NS type="M"><c>concerns the fact</c></NS><NS type="UP"><i>. We</i><c> we</c></NS> <NS type="RV"><i>research</i><c>study</c></NS> our <NS type="RN"><i>plant</i><c>planet</c></NS>, other planets and many other things with <NS type="UD"><i>the</i></NS> <NS type="W"><i>help of it</i><c>its help</c></NS>. Finally I think that at <NS type="UD"><i>the</i></NS> present <NS type="UD"><i>the</i></NS> life is more comfortable <NS type="M"><c>than it was in the past</c></NS>.</p>
+          <p>In my opinion, no one can do without modern technology. It <NS type="RV"><i><NS type="AGV"><i>go</i><c>goes</c></NS> on</i><c>continues</c></NS> to develop and always will be the most <NS type="S"><i>importand</i><c>important</c></NS> <NS type="SX"><i>think</i><c>thing</c></NS> in our life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

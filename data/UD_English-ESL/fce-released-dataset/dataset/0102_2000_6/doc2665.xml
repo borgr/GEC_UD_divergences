@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1070*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam.</p>
+          <p>I went to the Circle Theatre, three weeks ago, to see "Over the Rainbow", the musical show that was <NS type="RV"><i>played</i><c>playing</c></NS> at <NS type="RD"><i>this</i><c>the</c></NS> <NS type="RN"><i>moment</i><c>time</c></NS>.</p>
+          <p>First of all, the actors <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> in the advertisement were not those who <NS type="RV"><i>played</i><c>performed</c></NS> <NS type="MT"><c>in</c></NS> the show. Not that I was very disappointed not to see the good actors!</p>
+          <p><NS type="SX"><i>The</i><c>Then</c></NS>, if the show had started on time, it could have been much better, but it started <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes late, <NS type="RA"><i>it</i><c>which</c></NS> is too much for me!</p>
+          <p>Plus, it is <NS type="IV"><i>mentionned</i><c>mentioned</c></NS><NS type="UP"><i>,</i></NS> <NS type="RT"><i>on</i><c>in</c></NS> your advertisement<NS type="UP"><i>,</i></NS> that discounts <NS type="TV"><i>were</i><c>are</c></NS> available<NS type="RP"><i>, in</i><c>. In</c></NS> fact, no discount <NS type="AGV"><i>were</i><c>was</c></NS> <NS type="RV"><i>done</i><c>given</c></NS> to me, <NS type="RC"><i>whereas</i><c>though</c></NS> I am a student and as a student I was <NS type="RV"><i>allowed</i><c>entitled</c></NS> to <NS type="RV"><i>have</i><c>get</c></NS> a discount but I paid £20 because the cashier had never heard about any <NS type="AGN"><i>discount</i><c>discounts</c></NS> for this show.</p>
+          <p>Finally, I think that this evening was very far <NS type="MT"><c>from</c></NS> <NS type="FV"><i>to be</i><c>being</c></NS> perfect, and I ask you for my money, <NS type="MA"><c>which</c></NS> I spent <NS type="RT"><i>for</i><c>on</c></NS> this horrible evening in your theatre, back.</p>
+          <p>I hope you will understand my disappointment and the reasons why I ask for my money back.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Modern technologies are part of our daily life, everything we do is simplified by these new technologies.</p>
+          <p><NS type="RA"><i>It</i><c>We</c></NS> <NS type="RV"><i>is</i><c>can</c></NS> <NS type="W"><i>faster with new technologies <NS type="FV"><i>to go</i><c>go</c></NS> from one place to another</i><c>go faster with new technologies, from one place to another</c></NS>, for example, we can <NS type="SX"><i>us</i><c>use</c></NS> a car or public <NS type="CN"><i>transports</i><c>transport</c></NS> such as <NS type="MD"><c>the</c></NS> trains or buses instead of walking or riding as <NS type="M"><c>we did</c></NS> in the past.</p>
+          <p>Our everyday activities or family activities are simplified too<NS type="RP"><i>, washing</i><c>. Washing</c></NS> the dishes or clothes by hand is rarely done, some <NS type="RJ"><i>specific</i><c>special</c></NS> machines are made to do this stuff, it helps us to spend much more time in extra activities like sport, relaxing...</p>
+          <p>New technologies allow us to work more efficiently<NS type="RP"><i>,</i><c>;</c></NS> with computers<NS type="UP"><i>,</i></NS> complex operations can be achieved in a <NS type="RJ"><i>close</i><c>short</c></NS> time and with the <NS type="RN"><i>insurance</i><c>assurance</c></NS> that the result is correct.</p>
+          <p><NS type="MD"><c>The</c></NS> Internet is a good way of meeting people that are far from us, we can also inform ourselves <NS type="RT"><i>on</i><c>about</c></NS> what <NS type="TV"><i>happens</i><c>is happening</c></NS> in <NS type="DN"><i><NS type="DN"><i>live</i><c>life</c></NS></i><c>the world</c></NS>, or search for <NS type="MD"><c>a</c></NS> special <NS type="RN"><i>leisure</i><c>hobby</c></NS> <NS type="R"><i>with</i><c>to get</c></NS> a quick result.</p>
+          <p>Finally, new technologies help us to save our free time and to work more quickly and more efficiently.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

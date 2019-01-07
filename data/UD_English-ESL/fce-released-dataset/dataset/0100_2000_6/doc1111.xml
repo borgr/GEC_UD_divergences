@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR451*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>&lt;16</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>Thank you very much for the kind letter you have sent me. I am very pleased and very excited that I have won - I can't wait to go to the Camp!</p>
+          <p>At present, I am taking my exams and am fully occupied with studying. However<NS type="MP"><c>,</c></NS> I will be free in July - but please <NS type="SX"><i>not</i><c>note</c></NS> that this is the only time I'll be free to travel to California.</p>
+          <p>For the accommodation, I would like to stay in tents as I have never slept in one before. It would also be a chance to try it out for the first time in my life.</p>
+          <p>I would also like to take tennis and painting activities while staying at the camp. I've played tennis for eight years now and have competed in many matches. I take painting as my hobby as well, even though I have never <NS type="TV"><i>took</i><c>taken</c></NS> proper lessons.</p>
+          <p>Also, can you please be kind enough to tell me what sort of clothes I should take? Would the weather be quite hot? Would you recommend me to take an extra bottle of sun block?</p>
+          <p>Lastly, can you please tell me how much money would be <NS type="S"><i>appropiet</i><c>appropriate</c></NS> to take? Would there be a bank near the camp?</p>
+          <p>Thank you for taking the time to answer my questions.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>MIDORI FUYU</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi! How are you? Thanks for your letter.</p>
+          <p>You want to know everything about the concert? Okay - here it goes!</p>
+          <p>Two hours before the concert began, I arrived at the hall. God, I was so excited! Already everything was set up, the <NS type="MP"><i>groups</i><c>group's</c></NS> instruments, lights, microphones... I quickly helped others to decorate and to 'polish' off the hall - we blew up as <NS type="SX"><i>my</i><c>many</c></NS> balloons as we <NS type="TV"><i>can</i><c>could</c></NS> and sprayed them <NS type="UT"><i>with</i></NS> gold and silver.</p>
+          <p>The concert went <NS type="DY"><i>terrific</i><c>terrifically</c></NS>, too! There must have been hundreds out there - dancing, laughing, shouting.. and I was having <NS type="RD"><i>a</i><c>the</c></NS> time of my life! I handed out refreshment to the pop group's members during breaks - my friends were so jealous of me!</p>
+          <p>At the end of the concert, when it was after midnight and everyone had <NS type="S"><i>alread</i><c>already</c></NS> left, the group came up to each of us (who helped out) and thanked us personally! I mean, isn't that really nice of them? We shook hands and they even wrote (scribbled?) their signatures on my T-shirt! I guess this was the best part of the night!</p>
+          <p>Really, Kim, you should try this out some time. Even though I was exhausted, it was really worth it!</p>
+          <p>Anyway, now I'm back to the real world - I have exams next week, wish me luck!</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

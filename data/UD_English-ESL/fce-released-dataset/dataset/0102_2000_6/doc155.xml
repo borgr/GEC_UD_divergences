@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR600*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I recently spent a week in London and during my stay I went to the theatre in order to see "Over the Rainbow"<NS type="UP"><i>,</i></NS> - the musical <NS type="UN"><i>show</i></NS> <NS type="UP"><i>-</i></NS>. At first, I thought I would have a wonderful night out since I had read the advertisement <NS type="RT"><i>of</i><c>for</c></NS> the show, <NS type="RY"><i>nevertheless</i><c>however</c></NS><NS type="MP"><c>,</c></NS> it <NS type="RV"><i>has</i><c>was</c></NS> <NS type="R"><i>wrong information</i><c>misleading</c></NS>.</p>
+          <p>First of all, the advertisement <NS type="RT"><i>of</i><c>for</c></NS> the show said that Danny Brook was going to be on stage. However, he did not appear during the show; that disappointed me a lot.</p>
+          <p><NS type="S"><i>Appart</i><c>Apart</c></NS> from that, the show was delayed <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes, consequently, everybody there lost control and became angry.</p>
+          <p>Another thing I would like you to know is that there were no special rates on the price of the ticket, which cost me £20. <NS type="RY"><i>Besides</i><c>Also</c></NS>, the theatre restaurant had closed down before I <NS type="RV"><i>went out of</i><c>left</c></NS> the show.</p>
+          <p>Finally I would like to inform you that I <NS type="TV"><i>had</i><c>have</c></NS> never <NS type="RV"><i>spent</i><c>had</c></NS> such an <NS type="S"><i>umpleasant</i><c>unpleasant</c></NS> evening in my whole life. Therefore, I would be very grateful if you - the manager of the theatre - could send me the money back, at least the money I spent on the ticket.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+          <p>LUCCA CALZARI</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately Pat wasn't very good at keeping secrets. He was one of my best friends, but all secrets told to him <NS type="IV"><i>spreaded</i><c>spread</c></NS> throughout the school in a matter of minutes. The worst was that he did it <NS type="S"><i>unconciously</i><c>unconsciously</c></NS>.</p>
+          <p>When we were <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> primary school, my teacher wanted to surprise Tom (a school mate) <NS type="RT"><i>for</i><c>on</c></NS> his 10th birthday by <NS type="RV"><i>preparing</i><c>arranging</c></NS> a fancy dress party <NS type="RT"><i>in</i><c>at</c></NS> the school.</p>
+          <p>We had been preparing it for three days, we hired fancy <NS type="FN"><i>dresses</i><c>dress</c></NS>, had a cake made by a cook and decorated the gymnasium. Unfortunately, it was me who had to tell Pat about the surprise.</p>
+          <p>Later, I <NS type="S"><i>realiced</i><c>realised</c></NS> it was the worst thing <NS type="RA"><i>it</i><c>that</c></NS> could happen to me.</p>
+          <p>On the day of the party, half an hour before it started, Pat came across with a gang of boys from another <NS type="RN">course</NS>. Since they were going to beat him <NS type="MY"><c>up</c></NS>, he desperately told them everything he knew about the party.</p>
+          <p>Afterwards, all of them were around Tim telling him what Pat had confessed.</p>
+          <p>Both Pat and Tim were very disappointed that day.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

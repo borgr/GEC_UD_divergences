@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR434*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>15.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to complain <NS type="R"><i>about</i><c>because</c></NS> I <NS type="TV"><i>am</i><c>was</c></NS> really disappointed <NS type="MT"><c>by</c></NS> your musical show<NS type="MP"><c>,</c></NS> which is "<NS type="RP"><i>over the rainbow</i><c>Over the Rainbow</c></NS>"<NS type="RP"><i>.</i><c>,</c></NS> <NS type="UT"><i>on</i></NS> last week. I <NS type="R">could compare between</NS> the advertising of <NS type="MD"><c>the</c></NS> musical and <NS type="MD"><c>the</c></NS> actual musical show last week.</p>
+          <p>First of all, the advertising <NS type="R">shown us starring, which is</NS> Danny Brook and Tina Truelove<NS type="RP"><i>, however</i><c>. However</c></NS>, when I <NS type="TV"><i>had <NS type="RV"><i>seem</i><c>seen</c></NS></i><c>saw</c></NS> it, <NS type="AS"><i>starring of <NS type="MD"><c>the</c></NS> musical</i><c>the musical starred</c></NS> completely <NS type="S"><i>diffarent</i><c>different</c></NS> actors<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="MV"><c>was</c></NS> really disappointed about it.</p>
+          <p><NS type="DY"><i>Secondary</i><c>Secondly</c></NS>, the advertising <NS type="RV"><i>shows</i><c>states</c></NS> <NS type="UT"><i>as</i></NS> the musical <NS type="AGV"><i>start</i><c>starts</c></NS> <NS type="MT"><c>at</c></NS> 14.30 and 19:30, but the musical started <NS type="MT"><c>at</c></NS> 20:15<NS type="RP"><i>, <NS type="RA"><i>it's</i><c>that's</c></NS></i><c>. That's</c></NS> 45 <NS type="S"><i>minuts</i><c>minutes</c></NS> late, and also<NS type="UP"><i>,</i></NS> <NS type="TV"><i>I'd asked</i><c>I asked</c></NS> <NS type="M"><c>for a</c></NS> discount ticket <NS type="RT"><i>in</i><c>at</c></NS> the ticket counter, but <NS type="AS"><i>there <NS type="TV"><i>are</i><c>were</c></NS> not available any discount tickets</i><c>no discount tickets were available</c></NS>.</p>
+          <p>Finally, your theatre restaurant was closed after <NS type="MD"><c>the</c></NS> show, <NS type="CE">it is because I saw it was opened at break time for musical, but afterwards, the people of staff for restaurant were closing</NS>.</p>
+          <p>Now then, <NS type="R">how was this advertising, it was completely <NS type="S"><i>diffarent</i><c>different</c></NS></NS><NS type="RP"><i>,</i><c>.</c></NS> I am really disappointed <NS type="MT"><c>with</c></NS> your musical<NS type="RP"><i>,</i><c>.</c></NS> I am <NS type="TV"><i>ask</i><c>asking</c></NS> you for <NS type="MD"><c>my</c></NS> money back, because I <NS type="RV"><i>wasn't</i><c>didn't</c></NS> <NS type="FV"><i>enjoyed</i><c>enjoy</c></NS> your musical.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> Faithfully,</p>
+          <p><NS type="UT"><i>from</i></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MD"><c>a</c></NS> composition about "How <NS type="W"><i>has modern technology</i><c>modern technology has</c></NS> changed your daily life"<NS type="RP"><i>, this</i><c>. This</c></NS> is our <NS type="RN"><i>question</i><c>subject</c></NS>. <NS type="R">All at the technology developed about every day</NS>, not all of <NS type="AGA"><i>them</i><c>it</c></NS>, but still a lot of modern technology <NS type="TV"><i>changed</i><c>has changed</c></NS> our daily life.</p>
+          <p>First of all, I <NS type="TV"><i>thought</i><c>think</c></NS> more than half <NS type="MD"><c>the</c></NS> population of <NS type="DN"><i>British</i><c>Britain</c></NS> has <NS type="MD"><c>a</c></NS> "mobile phone"<NS type="RP"><i>, <NS type="RA"><i>it</i><c>they</c></NS></i><c>. They</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> small and compact, much lighter than <NS type="MD"><c>a</c></NS> home telephone, and one of the biggest <NS type="AGN"><i>advantage</i><c>advantages</c></NS> is you can carry it, so that <NS type="MA"><c>it</c></NS> <NS type="MV"><c>is</c></NS> easy to contact your friend or someone <NS type="R">who other, even</NS> they can <NS type="DY"><i>easy</i><c>easily</c></NS> <NS type="FV"><i>to contact</i><c>contact</c></NS> you as well, so you can phone anytime you <NS type="AGV"><i>wants</i><c>want</c></NS>, whenever you <NS type="AGV"><i>wants</i><c>want</c></NS>.</p>
+          <p><NS type="DY"><i>Secondary</i><c>Secondly</c></NS>, <NS type="R">Personal Computer (PC), these "Desk Top" and "Lap Top" computers developed each year</NS><NS type="RP"><i>, however</i><c>. However</c></NS>, <NS type="MD"><c>the</c></NS> most important thing is <NS type="MD"><c>the</c></NS> "Internet"<NS type="RP"><i>,</i><c>.</c></NS> <NS type="R">Mobile phone could easy to contact anyone in your country,</NS> <NS type="MD"><c>the</c></NS> "Internet" <NS type="M"><c>it is</c></NS> easy to contact <NS type="MN"><c>people</c></NS> <NS type="RP"><i>world wide</i><c>worldwide</c></NS><NS type="RP"><i>, you</i><c>. You</c></NS> can send E-mail anytime, anywhere you <NS type="AGV"><i>wants</i><c>want</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> is <NS type="MD"><c>the</c></NS> most popular thing <NS type="MT"><c>in</c></NS> <NS type="RQ"><i>all of the</i><c>the whole</c></NS> world.</p>
+          <p><NS type="CE"><NS type="AGD"><i>These</i><c>This</c></NS> modern <NS type="S"><i>techonology</i><c>technology</c></NS> <NS type="AGV"><i>get</i><c>gets</c></NS> closer between person to another person, get close between worldwide, so that, <NS type="AGD"><i>these</i><c>this</c></NS> modern technology changed our daily life so <NS type="S"><i>diffarent</i><c>different</c></NS></NS>.</p>
+          <p><NS type="UT"><i>from</i></NS>. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

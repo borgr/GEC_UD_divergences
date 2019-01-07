@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR753*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>My name is ***. Recently I spent a week's holiday in London. <NS type="MA"><i>read</i><c>I read</c></NS> the advertisement and I found it interesting so I <NS type="SX"><i>though</i><c>thought</c></NS> that it would be nice to <NS type="FV"><i>spent</i><c>spend</c></NS> one of the nights I had in London at your musical show.</p>
+          <p>But I was completely wrong. It was an awful experience. I <NS type="TV"><i>had <NS type="RV"><i>come</i><c>gone</c></NS></i><c>went</c></NS> with two friends on the 21st <NS type="MT"><c>of</c></NS> August, and one of the reasons was that we <NS type="TV"><i>were</i><c>are</c></NS> big fans of Danny Brook and we were looking forward to <NS type="RV"><i><NS type="FV"><i>watch</i><c>watching</c></NS></i><c>seeing</c></NS> his show. You can imagine <NS type="MY"><c>how</c></NS> disappointing <NS type="MA"><c>it</c></NS> was to find out that he was replaced by another actor <NS type="MA"><c>who</c></NS> <NS type="MV"><c>is</c></NS> not so popular.</p>
+          <p>We were there at 19:15<NS type="MP"><c>,</c></NS> as the show was starting at 19:30<NS type="MP"><c>,</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>getting</i><c>to get</c></NS> our tickets. We asked for the discounts you <NS type="TV"><i>were <NS type="RV"><i><NS type="IV"><i>refering</i><c>referring</c></NS></i><c>mentioning</c></NS></i><c>mentioned</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> your advertisement but <NS type="MT"><c>at</c></NS> the counter <NS type="MA"><c>they</c></NS> told us that they were not available because it was Sunday.</p>
+          <p>That was terrible but we didn't want to <NS type="L"><i>make a big deal of it</i><c>make a fuss</c></NS> so we went inside and <NS type="TV"><i>waiting</i><c>waited</c></NS>. The show started forty-five minutes later. We got really bored waiting.</p>
+          <p>After the show <NS type="TV"><i>had finished</i><c>finished</c></NS> we went for dinner at the theatre restaurant but it was closed because the owner was ill.</p>
+          <p><NS type="RT"><i>From</i><c>For</c></NS> all these reasons you can understand how unpleasant our evening<NS type="UP"><i>.</i></NS> was<NS type="MP"><c>.</c></NS> We are asking you to return our money. <NS type="MA"><i>Hope</i><c>I hope</c></NS> you'll understand<NS type="MP"><c>.</c></NS></p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. From the time she was a child she couldn't keep anything <NS type="RT"><i>for</i><c>to</c></NS> herself, she always shared her thoughts with other people<NS type="MP"><c>.</c></NS></p>
+          <p>She was about sixteen years old when she moved to another city with her family. She went to a new school and she had no friends. She was not very sociable and she could not <NS type="RV"><i>create</i><c>establish</c></NS> relationships very easily. <NS type="RT"><i>By</i><c>In</c></NS> <NS type="UD"><i>the</i></NS> time she became close <NS type="FN"><i>friend</i><c>friends</c></NS> with Kim, who was really strange to <NS type="MD"><c>the</c></NS> other students<NS type="MP"><i> <NS type="UC"><i>and</i></NS> everybody</i><c>. Everybody</c></NS> disliked her.</p>
+          <p>Pat was wondering why and one day she found out. Kim explained <NS type="MT"><c>to</c></NS> her that she kept <NS type="RD"><i>the</i><c>her</c></NS> distance from the other students because her father was in prison and <NS type="MA"><c>she</c></NS> <NS type="X"><i>didn't want no one</i><c>didn't want anyone</c></NS> to find out.</p>
+          <p>Pat <NS type="RP"><i>Kept</i><c>kept</c></NS> this a secret for two months but one day <NS type="RV"><i>told</i><c>revealed</c></NS> it by accident to a boy <NS type="RT"><i>from</i><c>in</c></NS> her class. In a few days all <NS type="MD"><c>the</c></NS> school <NS type="RV"><i>was familiar with</i><c>knew</c></NS> Kim's story. Kim was <NS type="RJ">terrified</NS> because everyone was making fun <NS type="RT"><i>on</i><c>of</c></NS> her and <NS type="MA"><c>she</c></NS> <NS type="MV"><c>was</c></NS> very angry with Pat.</p>
+          <p>Pat had to make <NS type="MA"><c>it</c></NS> up <NS type="M"><c>to Kim</c></NS>. She had to find a way to make Kim forgive her.</p>
+          <p>She <NS type="TV"><i>had found</i><c>found</c></NS> the perfect way. She <NS type="TV"><i>stand</i><c>stood</c></NS> up <NS type="RP"><i>infront</i><c>in front</c></NS> of the whole <NS type="RN"><i>classroom</i><c>class</c></NS> and explained that Kim's <NS type="MP"><i>father</i><c>father's</c></NS> actions didn't <NS type="RV">influence</NS> Kim<NS type="RP"><i>. That</i><c>, that</c></NS> she was a great friend to her and if someone <NS type="RV"><i>owed</i><c>deserved</c></NS> to be punished<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>it</c></NS> was her. Kim forgave her and all the students <NS type="TV"><i>understand</i><c>understood</c></NS> how wrong they <NS type="TV"><i>were</i><c>had been</c></NS> and were very sorry. They <NS type="MV"><c>could</c></NS> all <NS type="FV"><i>got</i><c>get</c></NS> to know the real Kim <NS type="SX"><i>know</i><c>now</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

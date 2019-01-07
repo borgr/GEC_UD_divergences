@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR272*0100*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Thank you for the <NS type="S"><i>exellent</i><c>excellent</c></NS> programme you <NS type="TV"><i>organised</i><c>have organised</c></NS> for our class. We especially look <NS type="RY"><i>for</i><c>forward</c></NS> <NS type="R"><i>make</i><c>to</c></NS> the <NS type="RP"><i>River</i><c>river</c></NS> trip to Greenwich.</p>
+          <p>However<NS type="MP"><c>,</c></NS> we have <NS type="RV"><i>send</i><c>seen</c></NS> an advertisement for the "London Fashion and Leisure Show", which will take place on <NS type="UD"><i>the</i></NS> Tuesday 14th March from 10.00 am to 19.00 pm during our trip <NS type="RT"><i>in</i><c>to</c></NS> London and in which the <NS type="DJ"><i>follow</i><c>following</c></NS> topics will be <NS type="RV"><NS type="TV"><i>showed</i><c>shown</c></NS></NS>:</p>
+          <p>. Latest <NS type="FN"><i>fashion</i><c>fashions</c></NS></p>
+          <p>. Leisure and sports wear</p>
+          <p>. <NS type="MP"><i>Make up</i><c>Make-up</c></NS></p>
+          <p>. Hairstyles</p>
+          <p>We would like to inform you that we <NS type="MV"><c>are</c></NS> all <NS type="DY"><i>extremly</i><c>extremely</c></NS> interested in this show and that it could be a great opportunity for us because <NS type="UD"><i>the</i></NS> entrance is free for <NS type="UD"><i>the</i></NS> <NS type="S"><i>studends</i><c>students</c></NS>.</p>
+          <p>We would like to <NS type="RV"><i>request</i><c>ask</c></NS> if we could go to this show on the 15th March <NS type="S"><i>instide</i><c>instead</c></NS> <NS type="SX"><i>off</i><c>of</c></NS> <NS type="MV"><c>doing</c></NS> the visit <NS type="RT"><i>in</i><c>to</c></NS> the Science Museum. We could <NS type="RV"><i>make</i><c>do</c></NS> <NS type="R"><i>this one</i><c>that</c></NS> on the Wednesday<NS type="MP"><c>,</c></NS> 15th March<NS type="M"><c>, in the</c></NS> afternoon.</p>
+          <p>Thank you <NS type="DY"><i>in advanced</i><c>in advance</c></NS> for your <NS type="RN"><i><NS type="DN"><i>comprehention</i><c>comprehension</c></NS></i><c>understanding</c></NS> and we look forward to hearing <NS type="RT"><i>for</i><c>from</c></NS> you.</p>
+          <p>Yours Sincerely, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>The private life of famous people!</p>
+          <p>Who <NS type="AGV"><i>have</i><c>has</c></NS> never dreamed <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to be</i><c>being</c></NS> a famous singer, <NS type="DN"><i>sportman</i><c>sportsman</c></NS>, actor or a politician? The success of these people is so <NS type="RJ"><i>big</i><c>great</c></NS> that they are known all over the <NS type="RP"><i>World</i><c>world</c></NS>.</p>
+          <p>I think that <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="AGN"><i>kind</i><c>kinds</c></NS> of people have a poor life because they <NS type="W"><i>never can</i><c>can never</c></NS> be <NS type="RJ">quiet</NS> because <NS type="R"><i>all the <NS type="S"><i>poeple</i><c>people</c></NS></i><c>everybody</c></NS> <NS type="AGV"><i>know</i><c>knows</c></NS> them and <NS type="AGV"><i>want</i><c>wants</c></NS> to know a lot of things about them. They <NS type="W"><i>have always</i><c>always have</c></NS> to be careful about what they say and what they do.</p>
+          <p><NS type="ID"><i>In my opinion I think</i><c>I think</c></NS> that if famous people <NS type="AGV"><i>is</i><c>are</c></NS> always followed by journalists it is not the <NS type="RN"><i><NS type="S"><i>responsability</i><c>responsibility</c></NS></i><c>fault</c></NS> of the media but of the huge <NS type="RN"><i>quantity</i><c>number</c></NS> of people who are interested in famous <NS type="MP"><i>people</i><c>people's</c></NS> <NS type="FN"><i>life</i><c>lives</c></NS>. Firstly, <NS type="AS"><i>because it is</i><c>this is because there are</c></NS> a lot of <NS type="UP"><i>"</i></NS><NS type="S"><i>scandale</i><c>scandal</c></NS> magazine readers<NS type="UP"><i>"</i></NS>. Secondly, <NS type="M"><c>it is</c></NS> because they have <NS type="MQ"><c>a lot of</c></NS> admiration for them and lastly because they want <NS type="FV"><i>dreams</i><c>to dream</c></NS> and see what a "<NS type="MP"><i>star</i><c>star's</c></NS> life" <NS type="AGV"><i>look</i><c>looks</c></NS> like.</p>
+          <p>In conclusion I think that people who are <NS type="SX"><i>to</i><c>too</c></NS> <NS type="RY">much</NS> interested in other <NS type="MP"><i>people</i><c>people's</c></NS> <NS type="FN"><i>life</i><c>lives</c></NS> <NS type="X"><i>have not</i><c>do not have</c></NS> an interesting life and are unhappy! </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

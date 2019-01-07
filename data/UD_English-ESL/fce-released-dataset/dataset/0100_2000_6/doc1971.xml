@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR756*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan</p>
+          <p> I am writing in reply to your letter <NS type="RT"><i>on</i><c>of</c></NS> the 15th <NS type="MT"><c>of</c></NS> May. I would like to provide some further information you are asking me for.</p>
+          <p>First, I am <NS type="W"><i>able to come only</i><c>only able to come</c></NS> in July, because my examination session is due from the 24 June till 26 June.</p>
+          <p>I would prefer to be <NS type="S"><i>accomodated</i><c>accommodated</c></NS> in a log cabin as <NS type="MA"><c>I</c></NS> do not like sleeping on <NS type="RD"><i>the</i><c>a</c></NS> <NS type="S"><i>mattres</i><c>mattress</c></NS> and I get <NS type="MD"><c>an</c></NS> allergy to rubber.</p>
+          <p>From the listed activities I would like to choose singing, because it is my hobby and I also sing in <NS type="MD"><c>a</c></NS> local <NS type="RN"><i>chorus</i><c>choir</c></NS>. Photography is my second favourite subject. I won third prize in <NS type="MD"><c>a</c></NS> competition organized by our college.</p>
+          <p>Could you, <NS type="SX"><i>pleas</i><c>please</c></NS> send me some extra information regarding the <NS type="S"><i>ammount</i><c>amount</c></NS> of money I should take to cover any other expenses, and also, what kind of clothes I should take.</p>
+          <p>I am looking forward to hearing from you</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Is shopping not always enjoyable? There are different opinions and points of view.</p>
+          <p>I like shopping very much. Firstly, you have a wide variety of shops you can buy food <NS type="MT"><c>from</c></NS>. For example, large supermarkets with dishes ready to eat. Even if you do not have any cooking skills you can enjoy exotic meals. On the other hand, some people complain that there are a lot of artificial products, which are quite unhealthy, but very expensive.</p>
+          <p>The second thing I like about shopping is the possibility to find your own style <NS type="MT"><c>by</c></NS> buying clothes in the small boutiques. You can always ask for good advice from the experienced shop <NS type="RN"><i>attendants</i><c>assistants</c></NS>, which does not necessarily cost you extra money. However, someone else may say, it takes too much time.</p>
+          <p>The third reason I enjoy shopping is that I never go alone just to buy a thing I need. I always take my friend with me so we can chat or have coffee in the shop's cafe. Although my brother thinks the better way to have fun is to watch TV than to be pushed in crowded shops, I do not agree.</p>
+          <p>To sum up<NS type="MP"><c>,</c></NS> I agree that shopping is not always enjoyable, but for me it is and I like it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

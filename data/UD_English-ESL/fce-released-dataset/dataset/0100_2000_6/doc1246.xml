@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR515*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>31-40</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p><NS type="ID"><i>Dear Miss and Mister</i><c>Dear Sir/Madam</c></NS></p>
+          <p>Thank you for the letter that <NS type="RV"><i>conformed</i><c>confirmed</c></NS> first prize.</p>
+          <p>I am happy to receive it. Of course I will able to go to Camp California in the U.S.A. However, I <NS type="W"><i>only will able</i><c>will only be able</c></NS> to go to there <NS type="RT"><i>on</i><c>in</c></NS> July 2001 because I have a job which is <NS type="DY"><i>extreme</i><c>extremely</c></NS> busy work. Our department, which is <NS type="MD"><c>the</c></NS> sales department, have to make good sales <NS type="FN"><i>result</i><c>results</c></NS> <NS type="S"><i>befor</i><c>before</c></NS> <NS type="MD"><c>the</c></NS> end of June because of <NS type="MD"><c>the</c></NS> financial month. So, if I can choose days, I would like to go to the U.S.A <NS type="RT"><i>on</i><c>in</c></NS> July 2001. About <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I prefer <NS type="FV"><i>stay</i><c>to stay</c></NS> <NS type="MT"><c>in</c></NS> log cabins because I don't like to stay in tents which are <NS type="S"><i>unconfortable</i><c>uncomfortable</c></NS> for me. I am <NS type="W"><i>not also</i><c>also not</c></NS> keen on preparing it.</p>
+          <p><NS type="R">This prize, I can choose two activities, can't you.</NS> So, I am going to choose Golf and Tennis. In Japan, I often play Golf but as you know Japanese weather <NS type="FN"><i>condition</i><c>conditions</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> not <NS type="MJ"><c>good</c></NS> enough <NS type="MT"><c>for</c></NS> enjoying <NS type="FV"><i>play</i><c>playing</c></NS> Golf<NS type="MP"><c>,</c></NS> but California has good weather<NS type="MP"><c>,</c></NS> which <NS type="RV"><i>are</i><c>means</c></NS> <NS type="W"><i>every day <NS type="S"><i>sunshuin</i><c>sunshine</c></NS></i><c>sunshine every day</c></NS>, <NS type="DY"><i>hopefuly</i><c>hopefully</c></NS>. I used to play tennis when I was <NS type="MD"><c>a</c></NS> university student. I am <NS type="DJ"><i>interst</i><c>interested</c></NS> <NS type="MT"><c>in</c></NS> playing tennis very much.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS>, I have some <NS type="AGN"><i>question</i><c>questions</c></NS>. When I join this camp, what kind of clothes should I carry? <NS type="RC"><i>Moreover</i><c>Also</c></NS>, how much money do I <NS type="UV"><i>have to</i></NS> need? Please reply <NS type="RT"><i>for</i><c>to</c></NS> me as soon as possible</p>
+          <p>Best <NS type="S"><i>riger</i><c>regards</c></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim.</p>
+          <p>Hello Kim. How are you? I am well. I have <NS type="UD"><i>a</i></NS> big news. I could enjoy helping at a pop concert <NS type="UT"><i>in</i></NS> last week which is "The Max". As you know, I am <NS type="MD"><c>a</c></NS> big <NS type="SX"><i>fun</i><c>fan</c></NS> <NS type="RT"><i>with</i><c>of</c></NS> "The Max". Can you believe it?</p>
+          <p>I have got good experience and fantastic <NS type="FN"><i>memory</i><c>memories</c></NS>. At the same time<NS type="MP"><c>,</c></NS> I have got a small <NS type="MQ"><c>amount of</c></NS> money<NS type="MP"><c>,</c></NS> but it was not important <NS type="RT"><i>for</i><c>to</c></NS> me. I was so happy.</p>
+          <p>So, my <NS type="S"><i>templary</i><c>temporary</c></NS> job was sound engineer but I was not main engineer. I've just helped <NS type="UT"><i>for</i></NS> <NS type="MD"><c>the</c></NS> staff. When I was <NS type="MD"><c>a</c></NS> university student, I studied sound <NS type="FN"><i>effect</i><c>effects</c></NS><NS type="MP"><c>,</c></NS> but I <NS type="S"><i>haen't</i><c>hadn't</c></NS> used effect <NS type="S"><i>equepument</i><c>equipment</c></NS> <NS type="W"><i>whole my</i><c>my whole</c></NS> life because our school <NS type="S"><i>dosen't</i><c>doesn't</c></NS> have it. I used this <NS type="S"><i>equepument</i><c>equipment</c></NS> during <NS type="MD"><c>the</c></NS> concert<NS type="MP"><c>,</c></NS> but <NS type="R">I was so <NS type="S"><i>compricate</i><c>complicated</c></NS> system</NS>. At first<NS type="MP"><c>,</c></NS> I couldn't understand this system but our staff <NS type="AGV"><i>was</i><c>were</c></NS> very kind people. They <NS type="IV"><i>teached</i><c>taught</c></NS> me <NS type="RY"><i><NS type="S"><i>paticulaly</i><c>particularly</c></NS></i><c>specially</c></NS>. After that<NS type="MP"><c>,</c></NS> I was able to understand this system, time after time. Now, I <NS type="MV"><c>am</c></NS> able to use <NS type="MD"><c>a</c></NS> sound effect system.</p>
+          <p>Of course, I could enjoy this concert, as well</p>
+          <p>If I got a chance, I would like to work for creative companies, I hope.</p>
+          <p><NS type="RP"><i>Any way</i><c>Anyway</c></NS>,</p>
+          <p>Take care of <NS type="DA"><i>youself</i><c>yourself</c></NS>. I am waiting <NS type="MT"><c>for</c></NS> your letter</p>
+          <p><NS type="L"><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

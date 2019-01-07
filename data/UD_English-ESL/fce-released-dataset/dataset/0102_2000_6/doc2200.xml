@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR887*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>A few weeks ago, I went to London, and I decided to go to the theatre and see a musical <NS type="UN"><i>show</i></NS>, called "Over the Rainbow."</p>
+          <p>I'm very <NS type="S"><i>sory</i><c>sorry</c></NS> to tell you that I had a very disappointing evening.</p>
+          <p>First, I got there at 7:00 pm, because the show was about to start at 7:30 pm, and I <NS type="TV"><i>need</i><c>needed</c></NS> some time to <NS type="SX"><i>by</i><c>buy</c></NS> the tickets<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i><NS type="SX"><i>by</i><c>buy</c></NS></i><c>bought</c></NS> two tickets <NS type="RT"><i>of</i><c>for</c></NS> £20 and when I <NS type="TV"><i>ask</i><c>asked</c></NS> for a discount, they didn't <NS type="AS"><i>give it to me</i><c>give me one</c></NS>, then I <NS type="TV"><i>keep</i><c>was kept</c></NS> waiting for the show to start <NS type="S"><i>untill</i><c>until</c></NS> 8:15 pm.</p>
+          <p>Then when the show finally started I <NS type="RV"><i>got</i><c>was</c></NS> very disappointed because<NS type="UP"><i>,</i></NS> I really wanted to see Danny Brook, but instead of him there was <NS type="R"><i>any other</i><c>another</c></NS> actor.</p>
+          <p><NS type="RY"><i>Lately</i><c>Later</c></NS> when the show finished, I <NS type="IV"><i>planed</i><c>planned</c></NS> to go to the <NS type="S"><i>restorant</i><c>restaurant</c></NS> and get some food, but <NS type="RA"><i>I</i><c>it</c></NS> was <NS type="RJ"><i>close</i><c>closed</c></NS>, because it was being repaired.</p>
+          <p>I <NS type="TV"><i>will</i><c>would</c></NS> be very <NS type="RJ"><i><NS type="DJ"><i>thankfull</i><c>thankful</c></NS></i><c>grateful</c></NS> if your could return <NS type="MT"><c>to</c></NS> me half or some of my money, or even <NS type="FV"><i>to make</i><c>make</c></NS> the <NS type="R">corresponding discount</NS>.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, every time I <NS type="AS"><i>tell something to her</i><c>tell her something</c></NS>, <NS type="RY"><i>finally</i><c>eventually</c></NS> everyone <NS type="TV"><i>knew</i><c>knows</c></NS> about it. But this time it was something more important <NS type="SX"><i>that</i><c>than</c></NS> any other time. I was in love with a friend's boyfriend and we were about to have an affair, but when I made the big mistake of telling <NS type="DD"><i>me</i><c>my</c></NS> little and terrible secret to Pat, <NS type="S"><i>everithing</i><c>everything</c></NS> started going wrong<NS type="RP"><i>,</i><c>.</c></NS> Katrin<NS type="MP"><c>,</c></NS> my friend, and the one I was being bad <NS type="RT"><i>with</i><c>to</c></NS>, was very upset with me, and she was right, but I really <NS type="TV"><i>don't</i><c>didn't</c></NS> know what to do<NS type="RP"><i>,</i><c>.</c></NS> I was in love with Brett, but I <NS type="TV"><i>love</i><c>loved</c></NS> my friend too. So I <NS type="TV"><i>decide</i><c>decided</c></NS> to talk to Brett. We both decided to finish with <NS type="UQ"><i>all</i></NS> this stupid affair. It was difficult, but <NS type="RA"><i>I</i><c>it</c></NS> was the best for everyone. Then I decide to talk to Katrin<NS type="RP"><i>,</i><c>.</c></NS> I was very <NS type="S"><i>sory</i><c>sorry</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> all I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="TV"><i>do</i><c>done</c></NS>, so I <NS type="TV"><i>apologize</i><c>apologised</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> her and <NS type="TV"><i>promise</i><c>promised</c></NS> her that this <NS type="UV"><i>will</i></NS> <NS type="W"><i>never would</i><c>would never</c></NS> happen again. Now I'm very happy because I learned that friends are the most important thing in the <NS type="SX"><i>hole</i><c>whole</c></NS> world.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

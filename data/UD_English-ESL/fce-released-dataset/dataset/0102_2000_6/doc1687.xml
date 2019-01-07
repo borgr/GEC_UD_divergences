@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR667*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir</p>
+          <p>Last week I <NS type="RV"><i>attempted</i><c>attended</c></NS> the musical "Over the rainbow", and I am <NS type="IV"><i>writting</i><c>writing</c></NS> in order to <NS type="DV"><i>complaint</i><c>complain</c></NS> about things that really disappointed me.</p>
+          <p>First of all, I want to say that in the play <NS type="MA"><c>there</c></NS> appeared a different actor <NS type="M"><c>to the one advertised,</c></NS> despite <NS type="M"><c>the fact</c></NS> that <NS type="W"><i>in the advertisement appeared the name <NS type="UT"><i>of</i></NS> Danny Brook</i><c>the name Danny Brook appeared in the advertisement</c></NS><NS type="RP"><i>,</i><c>;</c></NS> that actor was very bad.</p>
+          <p>Another thing I want to add is that the musical started 45 minutes late<NS type="RP"><i>, it</i><c>. It</c></NS> was <NS type="RV"><i>planned</i><c>meant</c></NS> to start at 19.30 and it really <NS type="RV"><i>did</i><c>started</c></NS> <NS type="UA"><i>it</i></NS> at 20:15. During this time we had to keep <NS type="DJ"><i>seating</i><c>seated</c></NS> in the theatre and it was boring and tiring.</p>
+          <p>Thirdly, when I bought the tickets, I asked for discounts and nobody <NS type="TV"><i>know</i><c>knew</c></NS> anything about them, so it is false <NS type="MV"><c>to say</c></NS> there are discounts available.</p>
+          <p>However, we enjoyed the musical, but while going <NS type="UY"><i>out</i></NS> to have dinner, we saw the restaurant <NS type="MV"><c>was</c></NS> closed and we had to <NS type="RV"><i>take</i><c>get</c></NS> the car and come back home very hungry.</p>
+          <p>It was a very disappointing evening and I hope you will give us some money back.</p>
+          <p>I am waiting for your answer.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Hello. I'm Robert and I'm <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="UT"><i>for</i></NS> <NS type="RD"><i>the</i><c>an</c></NS> article about clothes in the future. In my <NS type="S"><i>oppinion</i><c>opinion</c></NS>, in a hundred <NS type="UT"><i>of</i></NS> years<NS type="UP"><i>,</i></NS> we'll wear the same kind of clothes that we wear nowadays. What will change <NS type="RT"><i>in</i><c>with</c></NS> clothes<NS type="UP"><i>,</i></NS> will be <NS type="R"><i>the <NS type="DN"><i>comfortability</i><c>comfort</c></NS> of them</i><c>how comfortable they are</c></NS> and the way they protect us and our <NS type="AGN"><i>body</i><c>bodies</c></NS> from temperature and physical <NS type="RN"><i><NS type="S"><i>agressions</i><c>aggressions</c></NS></i><c>attacks</c></NS>. I think they will <NS type="DV"><i>cold</i><c>cool</c></NS> us in the summer and <NS type="AGV"><i>makes</i><c>make</c></NS> us <NS type="RJ"><i>hot</i><c>warmer</c></NS> in the winter. Clothes will be more personalized and they'll make us feel better and more free. Wearing them we'll be able to dive underwater <NS type="R"><i>with a</i><c>at</c></NS> high pressure, and we'll have freedom of movement. Technology will <NS type="RV"><i>take</i><c>play</c></NS> <NS type="MD"><c>a</c></NS> part in <NS type="MP"><i>clothes</i><c>clothes'</c></NS> development, scientists will <NS type="RV"><i>search</i><c>find</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> way to reduce the weight of clothes and they will become very light and comfortable, so I want to be in the future to enjoy the clothes. I <NS type="RV"><i>wish</i><c>hope</c></NS> I win the trip!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR86*0102*2000*02">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Clark,</p>
+          <p>I am writing to you because I would like to give my personal opinion about the 'international arts festival.'</p>
+          <p>First of all I have to say that the whole festival was a <NS type="DJ"><i>greatful</i><c>great</c></NS> success and I also think you chose an appropriate title for the leaflet. However, there are some points which can be improved for the next year.</p>
+          <p>To begin with, you wrote <NS type="UY"><i>down</i></NS> in the leaflet that stars and artists from around the world could be seen in the performance<NS type="MP"><i> in</i><c>. In</c></NS> fact<NS type="MP"><c>,</c></NS> <NS type="SX"><i>their</i><c>there</c></NS> were only six countries involved. My suggestion for this point is to invite more people from different countries.</p>
+          <p>Furthermore <NS type="U"><i>is that</i></NS> some concert halls were definitely <NS type="SX"><i>to</i><c>too</c></NS> small or in other words <NS type="SX"><i>to</i><c>too</c></NS> many people attended those concerts. <NS type="W"><i>This kind of problem you could avoid</i><c>You could avoid this kind of problem</c></NS> <NS type="RC"><i>when</i><c>if</c></NS> you look for big halls at the <NS type="RN"><i><NS type="S"><i>begining</i><c>beginning</c></NS></i><c>outset</c></NS>.</p>
+          <p>Another point where you could improve is <NS type="RC"><i>when</i><c>if</c></NS> you show more plays and films next year.</p>
+          <p>Nearly at the end of this letter I have to say that the idea <NS type="RT"><i>with</i><c>of</c></NS> the weekend ticket was really good because it gave <NS type="UT"><i>to</i></NS> the people the opportunity to <NS type="S"><i>attemp</i><c>attend</c></NS> <NS type="MT"><c>for</c></NS> a whole weekend for a cheap price.</p>
+          <p>To finish this letter <NS type="UT"><i>with</i></NS><NS type="MP"><c>,</c></NS> I would like to give you a good idea for next year. In my opinion it would be nice if you <NS type="TV"><i>create</i><c>created</c></NS> an exhibition <NS type="RN"><i>place</i><c>space</c></NS> where the guests can try to play different instruments.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>How can you earn money in your spare time?</p>
+          <p>I think everybody will ask himself this question one day or has already asked it. Anyway the people <NS type="R"><i>where</i><c>who</c></NS> asked this question probably found out that it isn't so easy to earn money or that it is sometimes <NS type="SX"><i>to</i><c>too</c></NS> much work.</p>
+          <p>A traditional way to earn money, in <NS type="RD"><i>the</i><c>your</c></NS> spare time, is to <NS type="RV"><i>bring</i><c>deliver</c></NS> newspapers or magazines to the families in your town or village. The <NS type="FN"><i>problems</i><c>problem</c></NS> that you have here is the weather. For example when it is rainy, because then everything <NS type="AGV"><i>get</i><c>gets</c></NS> wet.</p>
+          <p>Another suggestion is that you go to your cinema and ask if they need your help <NS type="RT"><i>for</i><c>with</c></NS> changing the film rolls, <NS type="UT"><i>for</i></NS> cleaning the toilets or <NS type="FV"><i>to do</i><c>doing</c></NS> some other small jobs.</p>
+          <p>But in the case that you really want to do some interesting work in your spare time you should try to sell something <NS type="R"><i>where</i><c>that</c></NS> you're good at, I mean if you're interested in computers you should try to provide your service for other people. Of course in the <NS type="S"><i>begining</i><c>beginning</c></NS> it is hard but you can learn a lot and if you're good at <NS type="MA"><c>it</c></NS> you'll also earn some money.</p>
+          <p>Okay don't wait, <NS type="R">there where you're good at and begin</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

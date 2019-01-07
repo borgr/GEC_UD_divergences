@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR58*0102*2000*02">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>17th December, 2000</p>
+          <p>Jane Clark, organizer</p>
+          <p>Dear Madam,</p>
+          <p>I'm writing this letter to congratulate you <NS type="RT"><i>for</i><c>on</c></NS> the excellent international arts festival we <NS type="UV"><i>could</i></NS> <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> last November. I <NS type="RV"><i>found</i><c>think</c></NS> it was a very good idea. However, there are a few things that I personally think <NS type="TV"><i>can</i><c>could</c></NS> be improved in <NS type="UD"><i>the</i></NS> <NS type="RJ"><i>following</i><c>future</c></NS> <NS type="RN"><i>editions</i><c>years</c></NS>.</p>
+          <p>First of all, because of the advertisement I expected <NS type="RN"><i>starts</i><c>stars</c></NS> and artists from all over the world but they came from only six countries. Artists from different cultures <NS type="RV"><i>may</i><c>could</c></NS> make the festival even more interesting.</p>
+          <p>Secondly, although the music concerts were good, I think that some concert halls were too small. It was a shame to <NS type="FV"><i>found</i><c>find</c></NS> that some of them were sold out because <NS type="MT"><c>of</c></NS> the <NS type="RJ"><i>short</i><c>reduced</c></NS> number of seats available. However, I really enjoyed the dance shows and the plays and films. I suggest it <NS type="RV"><i>can</i><c>might</c></NS> be a good idea to <NS type="RV"><i>set</i><c>arrange</c></NS> more projections next year. Moreover, in my opinion two days is a short time for this kind of event, and I strongly encourage you to organise a full <NS type="MP"><i>week</i><c>week's</c></NS> festival.</p>
+          <p>Finally, the <NS type="RN"><i>prize</i><c>price</c></NS> was <NS type="DJ"><i>reasonably</i><c>reasonable</c></NS> and it was helpful to have one ticket for all the weekend.</p>
+          <p>I hope you'll <NS type="RV"><i>attend</i><c>act on</c></NS> my suggestions.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Once upon a time, in a small Catalan village, there was a little boy who loved <NS type="RV"><i>cheating</i><c>fooling around</c></NS> and making jokes. His father was a <NS type="RN"><i>shelter</i><c>shepherd</c></NS>, <NS type="MC"><c>and</c></NS> <NS type="RP"><i>He</i><c>he</c></NS> had one hundred <NS type="IN"><i>sheeps</i><c>sheep</c></NS> and one dog, and he used to take the animals to the mountain to feed them. One day, he became ill and was worried about the animals. His little son, called Joan, <NS type="RV"><i>decided</i><c>said</c></NS> quickly: "I will help you. I will take care of the <NS type="IN"><i>sheeps</i><c>sheep</c></NS> for you, father".</p>
+          <p><NS type="RP"><i>the</i><c>The</c></NS> next day he went to the mountain with the animals. At the beginning he was excited but soon he got bored. "Let's have a bit of fun", he thought. And then he started shouting: "<NS type="RD"><i><NS type="RP"><i>the</i><c>The</c></NS></i><c>A</c></NS> fox! Help me! <NS type="RD"><i><NS type="RP"><i>the</i><c>The</c></NS></i><c>A</c></NS> fox!"</p>
+          <p>Some people <NS type="RV"><i>went</i><c>came</c></NS> to help him, and then realised that it was not true. They were angry. He did it <NS type="MQ"><c>some</c></NS> more times, and <NS type="RY"><i>at last</i><c>in the end</c></NS> nobody <NS type="RV"><i>cared</i><c>took any notice</c></NS> of the <NS type="DN"><i>shoutings</i><c>shouts</c></NS>.</p>
+          <p>One day, the fox attacked his animals and he shouted as much as he could. Nobody came. Then he learned <NS type="W"><i>to <NS type="RV"><i>say</i><c>tell</c></NS> always</i><c>always to tell</c></NS> the truth.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

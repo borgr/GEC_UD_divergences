@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR681*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>My name is Alida Fanetti, and I'm writing <NS type="MT"><c>to</c></NS> you about the musical show which I saw during my stay in London recently.</p>
+          <p>One evening, while I was walking around the city<NS type="MP"><c>,</c></NS> I saw a very interesting advertisement, which was about a musical show.</p>
+          <p>I'm a <NS type="RN"><i>fun</i><c>fan</c></NS> of Danny Brook so when I read <NS type="W"><i>in the advertisement his name</i><c>his name in the advertisement</c></NS> I immediately decided to go to the show. The tickets were a little expensive but I was with <NS type="AGQ"><i>other</i><c>another</c></NS> TEN people, so when we read "Discounts Available" we expected that the theatre had organised a special discount for <NS type="AGN"><i>group</i><c>groups</c></NS> of <NS type="UJ"><i>numerous</i></NS> people.</p>
+          <p>It wasn't true; there weren't any discounts. The show started at 20.15 and not at 19.30 so we <NS type="TV"><i>waiting</i><c>were waiting</c></NS> for <NS type="MD"><c>a</c></NS> long time. Before the show started, a man said that <NS type="W"><i>there wasn't Danny Brook</i><c>Danny Brook wasn't there</c></NS> because he was ill. It was a disaster.</p>
+          <p>After the show, which wasn't as good as we expected, we decided to go to the theatre restaurant. It was closed because people in the kitchen weren't ready with the food. It wasn't a "perfect evening out" like you said in the advertisement, so my friends and I<NS type="UP"><i>,</i></NS> would be <NS type="DJ"><i>gratefull</i><c>grateful</c></NS> if you <NS type="TV"><i>will</i><c>would</c></NS> give us some money back, if <NS type="RA"><i>it</i><c>that</c></NS> is possible.</p>
+          <p>I hope to receive an answer.</p>
+          <p>Your <NS type="S"><i>faightfully</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>"the old man and the sea" BY ERNEST HEMINGWAY</p>
+          <p>Dear Sandro,</p>
+          <p><NS type="R"><i>I'm</i><c>It's</c></NS> Alida, how are you?</p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you because I have an important thing to tell you.</p>
+          <p>I read in the newspaper that in the next <NS type="MQ"><c>few</c></NS> days some <NS type="AGN"><i>book</i><c>books</c></NS> of short stories are going to be read on the radio. A few days ago you told me that you have to read "the old man and the sea" by Hemingway for school; well, on <NS type="RP"><i>friday</i><c>Friday</c></NS> <NS type="MA"><c>it</c></NS> is going to be read, on <NS type="UD"><i>the</i></NS> frequency 96.7, <NS type="UN"><i>this book</i></NS>.</p>
+          <p>I suggest you <NS type="FV"><i>to listen</i><c>listen</c></NS> to it because it's a very interesting book and you can relax while someone else is reading <NS type="RT"><i>for</i><c>to</c></NS> you.</p>
+          <p>I think it's a very good thing that people read books on the radio because it's <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RN"><i>possibility</i><c>opportunity</c></NS> for "busy people" to <NS type="RV"><i>know</i><c>hear</c></NS> important and beautiful short stories and books.</p>
+          <p>Well, I think you will be happy if I tell you something about this book. I read it two months ago and I liked it very much. It's a sad story but it <NS type="RV"><i>makes</i><c>lets</c></NS> you know <NS type="MT"><c>about</c></NS> a <NS type="S"><i>tipe</i><c>type</c></NS> of life that you can't imagine <NS type="UA"><i>that</i></NS> really exists. The old man is a sad person but he loves his <NS type="DN"><i>live</i><c>life</c></NS> and lives on the beach because he can't <NS type="RV"><i>stay</i><c>go</c></NS> without <NS type="FV"><i>see</i><c>seeing</c></NS> the sea for a day.</p>
+          <p>I think you will enjoy it.</p>
+          <p>Now I have to stop writing but I'll write you more letters.</p>
+          <p>I hope you will listen to this book on the radio.</p>
+          <p><NS type="AS"><i>Write me back</i><c>Write back to me</c></NS> soon and tell me about your impression <NS type="MT"><c>of</c></NS> <NS type="MN"><c>the story</c></NS> (I mean if you enjoyed the story or not!)</p>
+          <p>Love</p>
+          <p>P.S. Remember 96.7 on <NS type="RP"><i>friday</i><c>Friday</c></NS> at 15.30 p.m.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

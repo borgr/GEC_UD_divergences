@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR14*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>I am writing to complain about the musical show "Over the rainbow"<NS type="MP"><c>,</c></NS> which was performed in your theatre two weeks ago.</p>
+          <p>I went to see it on 5th June 2000. First of all<NS type="MP"><c>,</c></NS> <NS type="W"><i>that evening there was not Danny Brook</i><c>Danny Brook was not there that evening</c></NS> but an unknown and not very good actor. Secondly the show started 45 minutes late. Then at the <NS type="UP"><i><NS type="DN"><i>tickets-office</i><c>ticket-office</c></NS></i><c>ticket office</c></NS> I was <NS type="RV"><i>said</i><c>told</c></NS> that no discounts were available so I had to pay the full <NS type="RN"><i>prize</i><c>price</c></NS> despite <NS type="M"><c>the fact that</c></NS> I am a student.</p>
+          <p>Finally I would have had dinner at the theatre restaurant if it had not <NS type="W"><i>been already</i><c>already been</c></NS> closed because the show finished, obviously, late.</p>
+          <p>I am really not satisfied with the <NS type="W"><i>show-organization</i><c>organisation of the show</c></NS> particularly because in the advertisement you wrote something <NS type="RJ"><i>different</i><c>false</c></NS>. For this reason I expect to receive my money back.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't good at keeping <NS type="AGN"><i>secret</i><c>secrets</c></NS>.</p>
+          <p>Last week we had another <NS type="S"><i>demostration</i><c>demonstration</c></NS> of this.</p>
+          <p>On Monday we decided to organize a <NS type="UP"><i>surprise-party</i><c>surprise party</c></NS> for Ted's birthday on Tuesday evening.</p>
+          <p>Each of us had a different task. Anna <NS type="RV"><i>prepared</i><c>made</c></NS> the cake, Peter organized the music, Heather and I went to buy the present; Pat said: "OK<NS type="MP"><c>,</c></NS> I'll phone <NS type="UT"><i>to</i></NS> some of Ted's friends to invite them". Obviously Ted should <NS type="MY"><c>not</c></NS> have known <NS type="RA"><i>nothing</i><c>anything</c></NS> about it and we <NS type="AS"><i><NS type="RV"><i>remembered</i><c>reminded</c></NS> it to Pat</i><c>reminded Pat of that</c></NS> twice: "<NS type="RP"><i>the</i><c>The</c></NS> party is a secret!!" and she said: "Yes, it must be a surprise!"</p>
+          <p>On Tuesday afternoon we met to <NS type="RV"><i>prepare</i><c>arrange</c></NS> the last details; Pat said: "I've just phoned <NS type="UT"><i>to</i></NS> Tommy, Billy and Alison and I met Ted yesterday evening: they all have said <NS type="RP"><i>ok</i><c>OK</c></NS> for the party.."</p>
+          <p><NS type="RT"><i>In</i><c>At</c></NS> that moment she understood that something was wrong!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

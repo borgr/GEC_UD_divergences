@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR47*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Sir manager,</p>
+          <p>I am writing in order to complain about what you have written in the advertisement <NS type="RT"><i>on</i><c>in</c></NS> the newspaper.</p>
+          <p>I am disappointed because of the horrible evening I have had<NS type="RP"><i>,</i><c>.</c></NS> I was on holiday in London and I did not have <NS type="W"><i>time enough</i><c>enough time</c></NS> to spend there, but when you said that <NS type="MD"><c>your</c></NS> show was the best I decided to go. When I bought my ticket I asked for a discount and they said <NS type="X"><i>it was not</i><c>none was</c></NS> available. At first it was not a problem because if the show was going to be the best <NS type="RA"><i>it</i><c>I</c></NS> would <NS type="R"><i>cost</i><c>pay</c></NS> what they <NS type="RV"><i>said</i><c>asked</c></NS>.</p>
+          <p>I arrived at the theatre in time and the musical <NS type="UN"><i>show</i></NS> started later than I expected so I was getting <NS type="RJ"><i>nervous</i><c>irritable</c></NS> because I <NS type="W"><i>dislike very much</i><c>very much dislike</c></NS> <NS type="UD"><i>the</i></NS> <NS type="DN"><i>impuntuality</i><c>lateness</c></NS>, but that was not all.</p>
+          <p>When the show started the person who was acting <NS type="MT"><c>in</c></NS> it was not Danny Brook and <NS type="R"><i>he</i><c>the replacement</c></NS> <NS type="X"><i>seemed not</i><c>didn't seem</c></NS> to be an actor. Really he was bad. Afterwards I decided to go for a meal in the theatre restaurant but It was closed. So you can imagine how I felt because of the irritating evening out I had.</p>
+          <p>I am <NS type="DJ"><i>letting down</i><c>let down</c></NS> <NS type="R"><i>because of</i><c>by</c></NS> your behaviour. You wanted to cheat me, so I will be very <NS type="DJ"><i>pleasure</i><c>pleased</c></NS> if you could give my money back.</p>
+          <p>I am looking forward <NS type="MT"><c>to</c></NS> your answer.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I think technology has changed my life and the <NS type="ID"><i>way of living</i><c>way of life</c></NS> of almost <NS type="R"><i>all people</i><c>everyone</c></NS> around the world.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> technology is very useful nowadays but really I dislike it because in some ways we are becoming machines too.</p>
+          <p>Since the creation of PCs, people - and me too, of course - <NS type="TV"><i>are</i><c>have been</c></NS> <NS type="RV"><i>making</i><c>doing</c></NS> different things.</p>
+          <p>For example we can buy food, clothes and whatever we need by <NS type="RP"><i>internet</i><c>Internet</c></NS> or by telephone.</p>
+          <p>I can <NS type="RV"><i>know</i><c>find out</c></NS> what is happening in <NS type="IJ"><i>differents</i><c>different</c></NS> parts of the world in a few minutes.</p>
+          <p>A very good <NS type="RN"><i>point</i><c>aspect</c></NS> of this change is that women have more freedom to <NS type="RV"><i>have a job</i><c>work</c></NS> because before <NS type="MA"><c>we</c></NS> <NS type="RV"><i><NS type="TV"><i>reaching</i><c>reached</c></NS></i><c>had</c></NS> the technology they <NS type="TV"><i>have</i><c>had</c></NS> to stay at home doing housework but now we have laundries and a lot of machines like microwave <NS type="FN"><i>oven</i><c>ovens</c></NS>.</p>
+          <p><NS type="ID"><i>In my case</i><c>Personally</c></NS> I dislike computers. I don't know how to use them but I know I have to change because they help <NS type="UA"><i>us</i></NS> to make our lives easier.</p>
+          <p>On the other hand what will happen <NS type="RT"><i>with</i><c>to</c></NS> us in the future? Our <NS type="AGN"><i>life</i><c>lives</c></NS> will be managed by robots and they will replace us <NS type="R"><i>in our jobs</i><c>at work</c></NS>.</p>
+          <p>So, what are we going to do?</p>
+          <p>Something that I note about technology is that we are <NS type="RV"><i>loosing</i><c>losing</c></NS> green places and there <NS type="AGV"><i>are</i><c>is</c></NS> a lot of pollution, so we have to be careful.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR296*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing in reply to your letter in <NS type="S"><i>wich</i><c>which</c></NS> you told me I won the first prize. It is the first time I won a prize!</p>
+          <p>As you asked me some questions, here are the answers. It would be very convenient if I could travel in July, because by that time I'll be on my school holidays. If you agree I would like to have a tent <NS type="R"><i>as</i><c>for my</c></NS> accommodation, because I have never stayed in one and I wonder <NS type="R"><i>this</i><c>if it</c></NS> might be a great feeling and <NS type="R"><i>that</i><c>if in</c></NS> this way I will be in <NS type="RJ"><i>a deeper</i><c>closer</c></NS> contact with the animals that live in the area.</p>
+          <p>It would be very pleasant if I could join your basketball team, since I used to play <NS type="UA"><i>it</i></NS> in my school's team and I think I'm pretty good at it. Surfing would be another good option because I have never stepped on a surfboard and I think this is a beautiful sport.</p>
+          <p>I'd like to know about the kind of clothes I should take, if it's cold or hot <NS type="R"><i>by this</i><c>at that</c></NS> time of the year and if I should bring any money.</p>
+          <p>I have <NS type="ID"><i>butterflies of excitement</i><c>butterflies in my stomach</c></NS> and <NS type="UP"><i>I'am</i><c>I am</c></NS> looking forward to hearing from you as soon as possible.</p>
+          <p>Yours faithfully,</p>
+          <p>Carlitos Andrade</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable. Some people usually spend more money than they have and end up <NS type="RJ"><i>broken</i><c>broke</c></NS>, with a lot of bills to pay. However, if you don't have those spending sprees very often, shopping can be a pleasant experience and a chance to spend some quality time with your family.</p>
+          <p>Have you ever spent more money than you <NS type="RV"><i>could</i><c>should</c></NS> <NS type="RT"><i>in</i><c>during</c></NS> a visit to the shopping center? If you answered no, congratulations. But if you took a deep breath after reading the question, don't worry. <NS type="MP"><i>Its</i><c>It's</c></NS> normal to have spending sprees. Everyone <NS type="MV"><c>has</c></NS> had or will have one while shopping. But don't be afraid.</p>
+          <p>Going to the shopping centre with <NS type="DD"><i>you</i><c>your</c></NS> family can be a good experience. It's a moment in <NS type="RA"><i>that</i><c>which</c></NS> you can talk to your relatives and use this conversation to <NS type="RV"><i>know</i><c>get to know</c></NS> more about yourselves. If you are a good observer, it's a great chance to <NS type="RV"><i>know</i><c>get to know</c></NS> what your son or daughter would like to have for <NS type="AGA"><i>her</i><c>their</c></NS> birthday or for any other special <NS type="RN"><i>date</i><c>occasion</c></NS>.</p>
+          <p>In conclusion, if you go shopping reasonably, have a good time. On the other hand, if you think that you'll <NS type="RV"><i>be</i><c>get</c></NS> <NS type="ID"><i>on the red</i><c>in the red</c></NS>, <NS type="RA"><i>I'd</i><c>you'd</c></NS> better stay at home.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

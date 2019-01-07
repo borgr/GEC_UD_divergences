@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR73*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>Thank you for your letter. I was pleasantly surprised that I have won the first prize in your competition.</p>
+          <p>Firstly, I would like to answer your questions. As I am doing my <NS type="DJ"><i>A-levels</i><c>A-level</c></NS> exams at the moment and they continue until the 30th of June and my further studies start in August, I can only travel in July. I would prefer to stay in a tent. It will give me <NS type="W"><i>an adventure feeling</i><c>a feeling of adventure</c></NS> and I have always <NS type="IV"><i>prefered</i><c>preferred</c></NS> tents to log cabins. I enjoy basketball very much and I am quite good at it. I would like to play this game at your camp. I have never tried <NS type="UY"><i>out</i></NS> climbing, but I have always <NS type="RV"><i>wished</i><c>wanted</c></NS> to do it one day. Would it be possible to do this activity at your camp as a beginner?</p>
+          <p>Secondly, I would like to ask you for some information. Would you be kind enough to tell me <NS type="RA"><i>which</i><c>what</c></NS> kind of clothes I should bring with me? Could you possibly tell me how much money I might spend at California Camp? Would you recommend me <NS type="FV"><i>to bring</i><c>bringing</c></NS> some equipment, like a rope, sticks, with me?</p>
+          <p>Thank you in advance for your help. I look forward to receiving your prompt reply.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi, how are you? I'm actually fine at the moment, but have to study a lot because of my exams in English.</p>
+          <p>You asked me to <NS type="S"><i>wite</i><c>write</c></NS> about <NS type="RD"><i>my</i><c>the</c></NS> experience which I <NS type="RV"><i>made</i><c>had</c></NS> <NS type="UT"><i>by</i></NS> helping at the pop-concert. And I can say it was terrific! My job was actually to listen to Tim and do whatever he said. This included <NS type="FV"><i>to clean</i><c>cleaning</c></NS> up the rooms which were used by the singers and <NS type="FV"><i>put</i><c>putting</c></NS> some equipment on the stage. Tim was in charge of organising this concert. I had never been behind the stage before and you know the rooms, in which singers dress and <NS type="MV"><c>apply</c></NS> make-up, are actually small. Can you imagine, I could <NS type="RV"><i>stay</i><c>be</c></NS> at this concert without paying anything! And I managed to speak to Ricky Martin <NS type="R"><i>out of stage</i><c>backstage</c></NS>. O.K., I actually asked him only: 'How are you?' and he gave me his <NS type="RN"><i>signature</i><c>autograph</c></NS>. He was fantastic<NS type="RP"><i>, you</i><c>. You</c></NS> know that he is my favourite singer. I think this was my best job as a student in Cambridge. Probably it wasn't so nice to do jobs which you were told to do, but you <NS type="TV"><i>see</i><c>saw</c></NS> many stars <NS type="R"><i>out of stage</i><c>backstage</c></NS>. And you <NS type="R"><i>might manage</i><c>had a chance</c></NS> to speak to some pop-stars. Beside this, I earned some money<NS type="RP"><i>,</i><c> -</c></NS> not a lot but enough for me.</p>
+          <p>Well I'll have to close now. Give my regards to your parents. Looking forward to hearing from you soon.</p>
+          <p>With love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

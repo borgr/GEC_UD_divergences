@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR452*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>I am writing with regards to the musical show 'Over the Rainbow' and I am going to <NS type="FV"><i>complaining</i><c>complain</c></NS> about it.</p>
+          <p>I saw it last Friday and it <NS type="TV"><i>was disappointing</i><c>disappointed</c></NS> me because the actor was not the same man as <NS type="M"><c>shown in</c></NS> the <NS type="CL"><i>advertisement ad</i><c>advertisement</c></NS><NS type="MP"><c>.</c></NS> I had expected to see him so I couldn't enjoy myself at all. Secondly, it didn't start at seven thirty. I don't know if there <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="RQ"><i>some</i><c>any</c></NS> problems but I had to wait for forty-five minutes. I could not believe it!</p>
+          <p>In addition to this, I could not get a cheaper ticket so I wonder why the advertisement mentioned <NS type="UT"><i>about</i></NS> the <NS type="RN"><i>reduction</i><c>discount</c></NS> <NS type="MT"><c>on</c></NS> tickets.</p>
+          <p>Moreover, despite there <NS type="FV"><i>were</i><c>being</c></NS> some restaurants in the theatre, <NS type="R">they had already closed because it was too late</NS><NS type="RP"><i>,</i><c>.</c></NS> I wanted to have a coffee but I could not.</p>
+          <p>I should not have gone to see the musical. I do not want to think you told a lie but I felt <NS type="M"><c>it was</c></NS> <NS type="FV"><i>to waste</i><c>wasting</c></NS> my time and money. I would like <NS type="MA"><c>you</c></NS> to refund all the money and I recommend <NS type="UT"><i>to</i></NS> thinking about the advertisement. I hope you understand me and the show is going to be <NS type="DJ"><i>succeeded</i><c>successful</c></NS>.</p>
+          <p>Thank you for your time and I am looking forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets and because of her nasty habit, I lost my best friend and boyfriend at the same time.</p>
+          <p>She was one of my friends and I couldn't trust her at all because she was a <NS type="RP"><i><NS type="S"><i>truble</i><c>trouble</c></NS> maker</i><c>troublemaker</c></NS>. One year ago, I had a boyfriend and he was <NS type="RD"><i>a</i><c>the</c></NS> perfect man for me. I was happy at that time and I met <NS type="MY"><c>up</c></NS> with him almost every day. I believed that I <NS type="MV"><c>would</c></NS> get married to him <NS type="RC"><i>although</i><c>but</c></NS> my happiness didn't last.</p>
+          <p>One day, Pat gave me a ring and she told me that my best friend was going out with my boyfriend in secret.</p>
+          <p>I couldn't believe her because my best friend was a boy! I was too shocked to eat anything. I tried to avoid thinking about it but I couldn't. I dared to ask him and he told me <NS type="RD"><i>his</i><c>the</c></NS> truth. It was true! I shouldn't have asked him!</p>
+          <p>And then I asked him to split up with my best friend but to make matters worse, he chose my best friend! If I <NS type="TV"><i>didn't hear</i><c>hadn't heard</c></NS> <NS type="W"><i>from Pat anything</i><c>anything from Pat</c></NS>, I could have got married <NS type="MT"><c>to</c></NS> him. I couldn't do anything and two <NS type="AGN"><i>month</i><c>months</c></NS> later, my boyfriend got married to my best friend. I felt sad and miserable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

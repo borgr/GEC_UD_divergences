@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE29*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>&lt;16</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing to inform you that I have <NS type="S"><i>recieved</i><c>received</c></NS> a letter from you about helping you to organise an international student conference in my college.</p>
+          <p>Your group has been booked into the Palace Hotel<NS type="MP"><c>,</c></NS> which is not very far from my college. However, due to the <NS type="CN"><i>congestions</i><c>congestion</c></NS> and <NS type="RN"><NS type="FN"><i>delay</i><c>delays</c></NS></NS> near the hotel, the best way to get from there to the conference is <NS type="RT"><i>by</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> underground, <NS type="MT"><c>from</c></NS> Victoria Street <NS type="RP"><i>station</i><c>Station</c></NS>. You <NS type="TV"><i>would</i><c>will</c></NS> arrive at the other station opposite my college in approximately 15 minutes.</p>
+          <p>At the end-of-conference party, you may either leave the party or stay in the college for more activities. <NS type="UQ"><i>All different</i><c>Different</c></NS> types of clothing <NS type="TV"><i>could</i><c>can</c></NS> be worn<NS type="MP"><i> however</i><c>. However,</c></NS> <NS type="DN">jean wears</NS> and T-shirts <NS type="TV"><i>would</i><c>will</c></NS> be <NS type="RJ">common</NS> on that day.</p>
+          <p>Instead <NS type="MT"><c>of</c></NS> staying in the hotel for the last three hours, I suggest that you <NS type="UV"><i>could</i></NS> perhaps visit our town centre. The popular attractions in our town, including the art gallery, museum, aquarium, <NS type="MC"><c>and</c></NS> market square, <NS type="TV"><i>could</i><c>can</c></NS> be found near <NS type="RD"><i>our</i><c>the</c></NS> monument of our town, the Saltisy Bridge.</p>
+          <p>I am looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>The Little Woods shopping mall</p>
+          <p>Location</p>
+          <p>The Little Woods shopping mall is an <NS type="SX"><i>idea</i><c>ideal</c></NS> place for you and your group to visit. It is located very close to the town centre next to the town museum. It can be <NS type="R">accessed by the nearby train station</NS>.</p>
+          <p>Facilities</p>
+          <p>For those students who are very interested in shopping, clothes shops, jewellery, <NS type="SX"><i>stationary</i><c>stationery</c></NS>, <NS type="RP"><i>book shops</i><c>bookshops</c></NS>, fashion and beauty departments and many more are <NS type="S"><i>availiable</i><c>available</c></NS>. For those who want something more exciting and <NS type="S"><i>advanturous</i><c>adventurous</c></NS>, you are <NS type="RV"><NS type="S"><i>recommanded</i><c>recommended</c></NS></NS> to visit the Fun Fair and amusement <NS type="MN"><c>arcade</c></NS> on the top floor of the building. Other facilities such as cinemas, theatres, <NS type="MC"><c>and</c></NS> large department stores <NS type="TV"><i>could</i><c>can</c></NS> also be found <NS type="MY"><c>there</c></NS>. There is a little souvenir shop for tourists and a special discount for tourists from <NS type="SX"><i>aboard</i><c>abroad</c></NS> <NS type="M"><c>who want</c></NS> to <NS type="RV"><i>enter</i><c>use</c></NS> the car park.</p>
+          <p>Conclusion</p>
+          <p>Not only <NS type="W"><i>the tourist information centre <NS type="TV"><i>would</i><c>will</c></NS></i><c>will the tourist information centre</c></NS> provide <NS type="RQ"><i>the</i><c>any</c></NS> information you might need, you <NS type="TV"><i>could</i><c>can</c></NS> also visit the ICT block<NS type="MP"><c>,</c></NS> which allows you to <NS type="R">access onto anything you want to know from the computers</NS>. A special trip could also be organized.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

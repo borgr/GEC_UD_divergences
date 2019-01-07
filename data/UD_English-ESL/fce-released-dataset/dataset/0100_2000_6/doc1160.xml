@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR81*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan</p>
+          <p>I'm very much surprised to receive your letter announcing the <NS type="M"><c>winner of the</c></NS> first prize in your competition and I'm looking forward to <NS type="FV"><i>spend</i><c>spending</c></NS> <NS type="UD"><i>the</i></NS> two weeks at Camp California.</p>
+          <p><NS type="UY"><i>Just because</i><c>Because</c></NS> I'm studying at the moment and I won't have my holidays till July<NS type="RA"><i><NS type="RP"><i>. This</i><c>, this</c></NS></i><c>, that</c></NS> is the month that best suits me. The second week of July would be perfect to start my trip.</p>
+          <p>I would rather sleep in a log cabin. I <NS type="RV"><i>find</i><c>think</c></NS> it will be much more comfortable than a tent.</p>
+          <p>The leisure activities sound fantastic<NS type="MP"><c>,</c></NS> especially climbing and photography. I'm very keen on climbing. <NS type="TV"><i>I've joined</i><c>I joined</c></NS> a climbing <NS type="RN"><i>group</i><c>club</c></NS> in my town <NS type="MT"><c>for</c></NS> 2 years <NS type="MY"><c>ago</c></NS> and <NS type="MV"><c>have</c></NS> reached the top of several middle-high mountains. The other activity I would like to try is photography. I have no previous experience <NS type="RT"><i>on</i><c>of</c></NS> it but I <NS type="RV"><i>wish</i><c>want</c></NS> <NS type="U"><i>I'd</i></NS> <NS type="FV"><i>learn</i><c>to learn</c></NS> a lot.</p>
+          <p>However, there are some questions that I want to ask you <NS type="UT"><i>about</i></NS>. Do I need <NS type="MD"><c>a</c></NS> passport to travel? What kind of clothes would be appropriate, winter or summer? Are there any <NS type="RN">food service</NS> at the camp?</p>
+          <p>I hope to hear from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>This is a report to plan and suggest ideas for the <NS type="RP"><i>daily life</i><c>daily-life</c></NS> video at school. The activities suggested are <NS type="TV"><i>write</i><c>written</c></NS> below.</p>
+          <p>The opening <NS type="R"><i>time</i><c>of the school</c></NS><NS type="MP"><c>,</c></NS> recording the students while they meet outside the school and come in<NS type="MP"><c>,</c></NS> could be a good <NS type="S"><i>begining</i><c>beginning</c></NS>. It would reflect the atmosphere when they meet early in the morning.</p>
+          <p>Filming lessons such as grammar lessons and <NS type="CE">speaking either theory lessons or practice</NS> would give a general idea about a day at school and how students work on their lessons.</p>
+          <p>Why don't <NS type="MA"><c>we</c></NS> include some sports, for example, <NS type="S"><i>voleyball</i><c>volleyball</c></NS>? The team has been training very hard during <NS type="MD"><c>the</c></NS> last weeks. And they'll certainly feel very proud of being <NS type="RT"><i>at</i><c>in</c></NS> the video.</p>
+          <p>The <NS type="RN"><i>musical</i><c>music</c></NS> lessons and the singing club in the afternoon are very popular among <NS type="UD"><i>the</i></NS> students <NS type="RT"><i>of</i><c>from</c></NS> all courses. Practically the whole school would appear on the video.</p>
+          <p>I think that if we mix lessons with <NS type="DJ"><i>sport</i><c>sports</c></NS> activities the combination will give us complete success.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

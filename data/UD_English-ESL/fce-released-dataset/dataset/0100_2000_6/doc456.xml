@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR186*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan</p>
+          <p>I am writing in response to the letter, which I <NS type="RV"><i>had</i><c>received</c></NS> yesterday. I am really pleased to win first prize in your competition, and, I am also pleased to give <NS type="MA"><c>you</c></NS> <NS type="MD"><c>the</c></NS> details<NS type="UP"><i>,</i></NS> which you would like to know.</p>
+          <p>First of all, you asked about when I would like to travel. I am afraid that I am available to travel only <NS type="RT"><i>on</i><c>in</c></NS> July<NS type="RP"><i>. Because</i><c>, because</c></NS> I have to work all year except one <NS type="MP"><i>month</i><c>month's</c></NS> holiday <NS type="RT"><i>on</i><c>in</c></NS> July.</p>
+          <p>Secondly, I would <NS type="UV"><i>be</i></NS> appreciate <NS type="MA"><c>it</c></NS> if I could stay in log cabins at Camp. I feel that <NS type="AGA"><i>it</i><c>they</c></NS> would be <NS type="S"><i>fabulos</i><c>fabulous</c></NS> places with <NS type="MD"><c>a</c></NS> western design.</p>
+          <p>Most of all, I am really interested in doing two activities. I am very good at Tennis. However, I haven't <NS type="UV"><i>had</i></NS> any idea about sailing. So, I would like to try both of them.</p>
+          <p>Lastly, I would be grateful if I could have <NS type="MD"><c>the</c></NS> following <NS type="CN"><i>informations</i><c>information</c></NS>.</p>
+          <p>I would like to know about <NS type="MD"><c>the</c></NS> clothes<NS type="UP"><i>,</i></NS> which are suitable for activities. As well as that, I wonder if I have to take some money for extra activities and <NS type="MD"><c>a</c></NS> few more things<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Thank you for <NS type="MD"><c>your</c></NS> time and attention.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>yours sincerely</p>
+          <p>Jae Hwa. Kim.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>There was a meeting to talk about a video about daily life at our school.</p>
+          <p>It was thought that a normal, regular lesson, 3 optional lessons and a great deal of activities should be filmed.</p>
+          <p><NS type="IV"><i>Refering</i><c>Referring</c></NS> to optional lessons, it was recommended that Speaking and listening, Computer and Business English are suitable for filming. I feel that these are what students really prefer to learn.</p>
+          <p>There seems to be a general opinion that sports, art and music activities such as tennis, football, orchestra, painting, <NS type="MC"><c>and</c></NS> photography should be included. It can show how much students <NS type="TV"><i>are enjoying</i><c>enjoy</c></NS> their life in our school.</p>
+          <p>As well as that, if we filmed famous students and teachers in our school, it would be a fantastic video.</p>
+          <p>In my opinion, students can learn English from wide activities as well as lessons. That's why they prefer to film a lot of activities.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

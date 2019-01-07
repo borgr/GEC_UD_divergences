@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR243*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>I was <NS type="S"><i>enthusiatic</i><c>enthusiastic</c></NS> about receiving your letter. I will give you all the necessary information.</p>
+          <p>I would like to travel in July because during that period I will be free from work<NS type="RP"><i>, my</i><c>.  My</c></NS> current post finishes at the end of June but I will start another job at the beginning of August.</p>
+          <p>I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> rather than in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>, because it would be a new experience for me and I would like to try something different.</p>
+          <p>As far as the activities are concerned, I have chosen to do <NS type="RP"><i>Tennis and Swimming</i><c>tennis and swimming</c></NS>. I am good at playing <NS type="RP"><i>Tennis</i><c>tennis</c></NS> and I have been learning to swim for three months so it could be <NS type="UD"><i>a</i></NS> useful training for me.</p>
+          <p>Moreover I would like to know what kind of clothes are the best for living in the camp and if I need to bring with me a large amount of money.</p>
+          <p>I want to thank you for this prize<NS type="RP"><i>, let</i><c>.  Let</c></NS> me know if you need further information.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>Bianca Botticelli</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>In your last letter you asked me about the concert... oh it was fantastic! I've always loved music so working <NS type="RT"><i>in</i><c>at</c></NS> a concert was great.</p>
+          <p>You can't imagine how many people are involved in the organization of a concert<NS type="RP"><i>, apart</i><c>.  Apart</c></NS> from the <NS type="DN"><i>musicists</i><c>musicians</c></NS> and the singers, there are people who work with lights, who organize the <NS type="RN"><i>security service</i><c>security</c></NS>... it was so exciting! My work consisted in checking the tickets, <NS type="M"></NS> the number on them and taking <NS type="UD"><i>the</i></NS> people to their seats.</p>
+          <p>It was also very tiring because all the people arrived at the same time and they didn't want to wait for my help; so they went around the theatre, looking for their seats and making so much noise.</p>
+          <p>Sometimes I think that people never grow up<NS type="RP"><i>, if</i><c>.  If</c></NS> they had been a class of children, they would have made less noise!!</p>
+          <p>Anyway, it was a great experience in spite of these little problems.</p>
+          <p>Now I have to go<NS type="RP"><i>, write</i><c>.  Write</c></NS> soon and let me know what you have been doing.</p>
+          <p>Lots of love</p>
+          <p>Bianca</p>
+          <p>xxx</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

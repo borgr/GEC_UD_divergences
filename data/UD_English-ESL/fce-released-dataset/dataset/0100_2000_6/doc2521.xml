@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1024*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan</p>
+          <p>Thank you very much for your letter. I <NS type="S"><i>appriciated</i><c>appreciated</c></NS> <NS type="UT"><i>to</i></NS> this big news. Please, let me tell you my answer now.</p>
+          <p>First, I would like to travel during July. <NS type="M"><i>Because</i><c>This is because</c></NS> my college will finish <NS type="RT"><i>in</i><c>at</c></NS> the end of June and I am going to go back to Japan in August. Second, I prefer to stay <NS type="MT"><c>in</c></NS> a log cabin. I usually stay <NS type="MT"><c>in</c></NS> a tent during camping. Actually, I don't like <NS type="FN"><i>tent</i><c>tents</c></NS> so much. Therefore, I am interested in staying <NS type="MT"><c>in</c></NS> a log cabin. Third, I chose painting and golf as activities. I learned painting when I was <NS type="MD"><c>a</c></NS> school student. <NS type="RY"><i>Specially</i><c>In particular</c></NS>, I like water painting. Also, I belonged to <NS type="MD"><c>a</c></NS> golf club when I went to university in Japan.</p>
+          <p>Finally, I would like you to advise <NS type="MA"><c>me</c></NS> about clothes and pocket money, which I will take. Thanking you for your time.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is always enjoyable for me. I love shopping. I never feel tired during shopping.</p>
+          <p><NS type="RY"><i>Especially</i><c>In particular</c></NS>, I prefer to go <NS type="MT"><c>to</c></NS> department stores. They are heaven! I can spend <NS type="W"><i>in there all day</i><c>all day in there</c></NS>. In fact, they have many <NS type="AGN"><i>kind</i><c>kinds</c></NS> of products which make me happy. To be honest, I don't always buy these products<NS type="MP"><c>,</c></NS> but I can be satisfied with just looking <NS type="MT"><c>at</c></NS> them. Some people <NS type="AGV"><i>doesn't</i><c>don't</c></NS> like to go shopping with a friend who takes <NS type="MD"><c>a</c></NS> long time to decide. Even in this case, shopping is fun for me. I believe there are <NS type="MD"><c>a</c></NS> lot of <NS type="SX"><i>why</i><c>ways</c></NS> to enjoy shopping.</p>
+          <p>By the way, shopping is a sort of therapy. I sometimes go shopping when I have stress. Shopping helps me to cheer up every time. I think many people, <NS type="RY"><i>specially</i><c>especially</c></NS> women, <NS type="TV"><i>had</i><c>have</c></NS> <NS type="MD"><c>the</c></NS> same experience. But the most important <NS type="AGN"><i>things</i><c>thing</c></NS> to enjoy shopping is not to <NS type="RV"><i>use</i><c>spend</c></NS> <NS type="RQ"><i>every</i><c>all</c></NS> <NS type="MD"><c>the</c></NS> money which you have.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

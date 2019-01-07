@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR453*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>First of all I would like to <NS type="RV"><i><NS type="S"><i>apreciate</i><c>appreciate</c></NS></i><c>thank</c></NS> <NS type="MA"><c>you</c></NS> for your generous award. I <NS type="TV"><i>was dreaming</i><c>have been dreaming</c></NS> of a holiday for such a long time. Now I have the <NS type="S"><i>opurtuanity</i><c>opportunity</c></NS> so I shall inform you fully.</p>
+          <p>I would like to travel in July because<NS type="UP"><i>,</i></NS> I will be working for the rest of the summer. I would like to stay in a log cabin, since I can't sleep in tiny, narrow areas. I have been sailing in the Mediterennean for eight years and I have been playing tennis for four years so I would like to choose sailing and tennis <NS type="MT"><c>as</c></NS> activities.</p>
+          <p>I would like to ask you <NS type="MT"><c>about</c></NS> the sort of <NS type="UD"><i>the</i></NS> clothes I am supposed bring. I know that I will need sports equipment such as<NS type="UP"><i>;</i></NS> tennis shoes, a few <NS type="DJ"><i>sport</i><c>sports</c></NS> shirts and shorts. Also deck shoes and a waterproof jacket for sailing<NS type="UP"><i>;</i></NS> but besides that<NS type="MP"><c>,</c></NS> will I need <NS type="RP"><i>any thing</i><c>anything</c></NS> else?</p>
+          <p>What's my <NS type="DN">fund limit</NS>? I would really appreciate <NS type="MA"><c>it</c></NS> if you could write <NS type="UA"><i>me</i></NS> back.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I received your letter. I do not want to keep you curious any longer. The <NS type="S"><i>oppurnity</i><c>opportunity</c></NS> of being able to help in the concert knocked on my door by chance. I heard they were looking for volunteers to help at the pop concert. I, <NS type="RP"><i>ofcourse</i><c>of course</c></NS><NS type="MP"><c>,</c></NS> jumped <NS type="RT"><i>into</i><c>at</c></NS> it. The idea of meeting a <NS type="W"><i>worldwide known pop singer</i><c>pop singer known worldwide</c></NS><NS type="UP"><i>;</i></NS> just made my heart punch my ribcage. The concert <NS type="MN"></NS> was <NS type="DY"><i>all ready</i><c>already</c></NS> filled up with thousands <NS type="MT"><c>of</c></NS> <NS type="MN"></NS>, although it was really early. We, the volunteers<NS type="MP"><c>,</c></NS> first unravelled the cables, <NS type="MC"><c>and</c></NS> set <NS type="MY"><c>up</c></NS> the microphones and some instruments. Then we<NS type="UP"><i>,</i></NS> were told go <NS type="UT"><i>to</i></NS> <NS type="UD"><i>the</i></NS> <NS type="RP"><i>back stage</i><c>backstage</c></NS> and make sure everything was perfect. After a fantastic concert<NS type="MP"><c>,</c></NS> I actually had the chance to meet Britney Spears. She is a very nice person<NS type="MP"><c>.</c></NS> I managed to <NS type="S"><i>scavange</i><c>scavenge</c></NS> an <NS type="S"><i>authograph</i><c>autograph</c></NS> for you as well<NS type="MP"><c>,</c></NS> I will put it in the envelope.</p>
+          <p>Waiting to hear from you<NS type="MP"><c>,</c></NS></p>
+          <p>Take <NS type="DN"><i>here</i><c>care</c></NS>!</p>
+          <p>Melina</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

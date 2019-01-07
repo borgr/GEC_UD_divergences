@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR976*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Clark,</p>
+          <p>I write you this letter because I want to tell you <NS type="MT"><c>about</c></NS> my experiences <NS type="RT"><i>of</i><c>at</c></NS> the festival. I <NS type="TV"><i>have spent</i><c>spent</c></NS> two days at the "International Arts Festival" and I have to say that it was a good event but I think some <NS type="RN">details</NS> could be better the next time. For example, on the leaflet it was written that there <NS type="TV"><i>will</i><c>would</c></NS> be stars and artists from around the world but they were only from six different countries. That was disappointing! Some concert halls were really small so that there was <NS type="R">bad air</NS> and not enough <NS type="RN"><i>place</i><c>room</c></NS> for everyone and you could not enjoy anything! What about plays and films? It was a small <NS type="RN">offer</NS>; I hope it will be larger the next time.</p>
+          <p>But do not worry! There <NS type="RV"><i>have also taken place</i><c>were also</c></NS> very good <NS type="RN"><i>attractions</i><c>events</c></NS> like <NS type="MD"><c>the</c></NS> dance shows, the art exhibition and <NS type="UN"><i>listening to</i></NS> <NS type="MD"><c>the</c></NS> talks <NS type="MV"><c>given</c></NS> by writers<NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>The reasonably-priced weekend ticket was a very good idea. This was a clever way to attract <NS type="UN"><i>people's attention</i><c>people</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p><NS type="RY"><i>At last</i><c>Last</c></NS>, I would like <NS type="FV"><i>suggest</i><c>to suggest</c></NS> a "pony-ride" for children, to attract families. Please tell <NS type="DA"><i>my</i><c>me</c></NS> your opinion about this.</p>
+          <p>Best regards</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I think there are some <NS type="RN"><i>possibilities</i><c>opportunities</c></NS> for earning money. I would say the simplest way is to give lessons to pupils, for example, <NS type="MT"><c>in</c></NS> maths or <NS type="RP"><i>english</i><c>English</c></NS>. There are also some schools which offer such a job. <NS type="FV"><i>To teach</i><c>Teaching</c></NS> pupils is not easy, of course. But I think that after <NS type="RQ"><i>some</i><c>a few</c></NS> lessons the pupils will see that it is better if they sit down and learn their stuff. So it <NS type="TV"><i>would</i><c>will</c></NS> be easier for the teacher <NS type="MY"><c>then</c></NS>! <NS type="W"><i>It is also</i><c>Also it is</c></NS> not <NS type="UD"><i>a</i></NS> dirty work<NS type="RP"><i>,</i><c>.</c></NS> I mean you do not have to clean rooms or <NS type="W"><i>toilets of other people</i><c>other people's toilets</c></NS>! And you do not need to carry heavy things or <NS type="R">have stress with</NS> customers<NS type="M"><c>, as you would</c></NS> if you <NS type="TV"><i>are</i><c>were</c></NS> working in a shop. To be a good teacher you <NS type="RY">especially</NS> need <NS type="RN"><i>patient</i><c>patience</c></NS> and good nerves! Not everybody has the ability to understand everything at once. And the money you get is not <NS type="DJ">less</NS><NS type="MP"><c>.</c></NS></p>
+          <p>So, if you like to <NS type="S"><i>b</i><c>be</c></NS> with people and help them and if you have <NS type="MD"><c>the</c></NS> talent to explain <NS type="MN"><c>things</c></NS> <NS type="DY"><i>good</i><c>well</c></NS> then it would be <NS type="UD"><i>the</i></NS> best<NS type="UP"><i>,</i></NS> if you <NS type="TV"><i>offer</i><c>offered</c></NS> your help to the people!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR151*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>I am writing to complain about the musical show "over the rainbow". I recently booked a week's holiday in London<NS type="MP"><c>,</c></NS> to see the musical "over the rainbow"<NS type="MP"><c>,</c></NS> the date was the 9th of June 2000<NS type="RP"><i>.</i><c>,</c></NS> <NS type="RT"><i>from</i><c>with</c></NS> your firm.</p>
+          <p>It was said that Danny Brook <NS type="RV"><i>should</i><c>would</c></NS> play the leading part, but there was a different actor instead. This <NS type="AS"><i>made me really disappointed</i><c>really disappointed me</c></NS>.</p>
+          <p>We arrived at the theatre at 19,00 since the play <NS type="RV"><i>should</i><c>was supposed to</c></NS> start at 19:30 but we had to wait until 20:15 <NS type="RT"><i>then</i><c>before</c></NS> it started. It was also said that discounts <NS type="AGV"><i>was</i><c>were</c></NS> available but this was wrong, because we couldn't get any discounts.</p>
+          <p>The theatre Restaurant that should be open after the show was closed because the <NS type="RN"><i>chief</i><c>chef</c></NS> was ill and there was no food in the fridge.</p>
+          <p>This should have been our perfect evening out but it wasn't.</p>
+          <p>I am not satisfied with this musical show at all.</p>
+          <p>I am <NS type="S"><i>therefor</i><c>therefore</c></NS> writing to ask for a full refund</p>
+          <p>I am expecting to receive a cheque for £20.</p>
+          <p>Yours faithfully</p>
+          <p>Anne Svensson</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. How <NS type="RV"><i>should</i><c>could</c></NS> she manage to keep quiet about this<NS type="RP"><i>.</i><c>?</c></NS> This was the best thing that <NS type="W"><i>ever had</i><c>had ever</c></NS> <NS type="IV"><i>happend</i><c>happened</c></NS> <NS type="W"><i><NS type="RT"><i>in</i><c>for</c></NS> years <NS type="RT"><i>for</i><c>to</c></NS> the Fennall family</i><c>to  the Fennall family for yeats</c></NS>.</p>
+          <p>Pat's sister-in-law was having a baby but she wanted to wait and tell the rest of the family.</p>
+          <p>She realised that telling Pat was a very bad idea but now it was done. Pat was so happy the whole day and wanted to tell her mother but Maria told her not to.</p>
+          <p>Maria was still a little bit <NS type="S"><i>chocked</i><c>shocked</c></NS> <NS type="RT"><i>over</i><c>by</c></NS> the <NS type="S"><i>naus</i><c>news</c></NS> <NS type="R"><i>of</i><c>that she would be</c></NS> having a baby. She and her husband Peter had been trying for so long and now they had succeeded.</p>
+          <p>Many weeks went by and Maria and Pat didn't say a word about it.</p>
+          <p>The rest of the family understood that something was wrong because Pat started to buy baby clothes. Which was very <NS type="S"><i>chooking</i><c>shocking</c></NS> for her mother.</p>
+          <p>One day when they all sat down at the kitchen table <NS type="UT"><i>for</i></NS> <NS type="FV"><i>having</i><c>to have</c></NS> their lunch Pat said,</p>
+          <p>- "Maria and Peter are going to have a baby"!</p>
+          <p>The End.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

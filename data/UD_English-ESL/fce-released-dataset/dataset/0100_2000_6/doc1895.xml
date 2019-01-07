@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR727*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>41-50</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>I was so surprised and delighted as well <NS type="FV"><i>receiving</i><c>to receive</c></NS> from you such wonderful news! <NS type="ID"><i>Thanks the God</i><c>Thank God</c></NS>, you <NS type="RV"><i>did</i><c>made</c></NS> me really happy.</p>
+          <p>From your letter I was pleased to <NS type="RV"><i>know</i><c>learn</c></NS> that all accommodation and travel costs are paid for. But could you, please, let me have more details about my <NS type="RN"><i>award</i><c>prize</c></NS>. What kind of people will be invited <NS type="RT"><i>at</i><c>to</c></NS> your Camp <NS type="UT"><i>in</i></NS> this summer? I would like to know with <NS type="S"><i>whome</i><c>whom</c></NS> I'll share <NS type="S"><i>sach</i><c>such</c></NS> <NS type="UD"><i>a</i></NS> wonderful days <NS type="R">with the</NS> <NS type="DJ"><i>sport</i><c>sports</c></NS> activities.</p>
+          <p>About sport... I must be honest: I'm not very keen on sport. But I will be glad to <NS type="MV"><c>go</c></NS> swimming and sailing for <NS type="RQ"><i>some</i><c>a few</c></NS> weeks. I have been <NS type="FV"><i>learnt</i><c>learning</c></NS> to paint. And I would prefer to have a nice audience for my poetry as well<NS type="RP"><i>,</i><c>.</c></NS> I'm a poet, <NS type="S">yeas</NS>.</p>
+          <p>I would <NS type="UV"><i>be</i></NS> choose <NS type="RD"><i>a</i><c>the</c></NS> month <NS type="MT"><c>of</c></NS> July, because I'm free <NS type="RT"><i>in</i><c>at</c></NS> this time from <NS type="UP"><i>family's</i><c>family</c></NS> duties.</p>
+          <p><NS type="UA"><i>What about</i><c>About</c></NS> <NS type="RQ"><i>another</i><c>the other</c></NS> camp conditions - it does not matter for me. I can stay in tents or log cabins, <NS type="R"><i>how</i><c>whatever</c></NS> you wish.</p>
+          <p><NS type="FV"><i>Sent</i><c>Send</c></NS> me, please, news about July.</p>
+          <p>Yours sincerely</p>
+          <p>Fu-Su Harp</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I hope that you <NS type="MV"><c>are</c></NS> still OK and now are preparing for me a <NS type="W"><i>new nice</i><c>nice new</c></NS> letter! I hope so!</p>
+          <p>I have been <NS type="FV"><i>written</i><c>writing</c></NS> to you that my life in London <NS type="TV"><i>was</i><c>has been</c></NS> a little bit boring for me. It was true. But now <NS type="R"><i>all things</i><c>everything</c></NS> <NS type="UV"><i>became</i></NS> <NS type="TV"><i><NS type="RY"><i><NS type="DY"><i>absolutly</i><c>absolutely</c></NS></i><c>completely</c></NS> changed</i><c>has completely changed</c></NS>!</p>
+          <p>I found the kind of activity <NS type="RA"><i>what</i><c>that</c></NS> I <NS type="TV"><i>looking</i><c>have been looking</c></NS> for <NS type="SX"><i>four</i><c>for</c></NS> ages. My Russian friend <NS type="S"><i>ivited</i><c>invited</c></NS> me to set up <NS type="W"><i>a new exiting</i><c>an exiting new</c></NS> business. We established a firm which has a deal with musicians and contemporary pop stars. Can you imagine!</p>
+          <p>First of all, in order <NS type="RT"><i>of</i><c>to</c></NS> <NS type="R">our firm purpose</NS> I wrote an <NS type="S"><i>inventation</i><c>invitation</c></NS> to my <NS type="SA"><i>favorite</i><c>favourite</c></NS> idol - <NS type="RD"><i>a</i><c>the</c></NS> poet and <NS type="UD"><i>a</i></NS> singer Boris Grebenchekoff. We <NS type="TV"><i>were renting</i><c>rented</c></NS> for him a special hall near Piccadilly Circus. The hall was crowded. His one-week concert programme was so <NS type="S"><i>succsessful</i><c>successful</c></NS> that we decided to invite him <NS type="RY">else</NS>, as soon as <NS type="MD"><c>the</c></NS> tickets <NS type="TV"><i>would be</i><c>were</c></NS> <NS type="MQ"><c>all</c></NS> sold. I had a nice <NS type="S"><i>expirience</i><c>experience</c></NS> as manager too. I would like to be a professional in this <NS type="RN"><i>stage</i><c>area</c></NS>, <NS type="S">yeas</NS>. Do you share my <NS type="RN"><i>idea</i><c>ambition</c></NS>, Kim? <NS type="RP"><i>Is not</i><c>Isn't</c></NS> it a brilliant idea?</p>
+          <p>You know, Kim, I'm always looking for <NS type="R"><i>purpose of human being</i><c>an aim in life</c></NS>. Not only - to LIVE, but to have something to LIVE FOR. Now I <NS type="TV"><i><NS type="RV"><i>did</i><c>made</c></NS></i><c>have made</c></NS> my choice.</p>
+          <p>Good luck to you as well!</p>
+          <p>P.S. Your present, a small toy, a white <NS type="RN">hose</NS> - I always keep with me, it helps me to pass my exams.</p>
+          <p>With Love -</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

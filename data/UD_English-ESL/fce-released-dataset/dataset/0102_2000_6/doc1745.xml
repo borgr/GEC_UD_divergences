@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR689*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>26-30</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>I am writing to you about the musical Show 'Over the Rainbow' I saw in London last weekend.</p>
+          <p>To begin with , it was not Danny Book who <NS type="TV"><i>acting</i><c>acted</c></NS> in the show, as you <NS type="S"><i>wrotte</i><c>wrote</c></NS>.</p>
+          <p>Secondly, the time <NS type="MV"><c>stated</c></NS> in your advertisement <NS type="RV"><i>told</i><c>said</c></NS> that it should start <NS type="MT"><c>at</c></NS> 19:30, but it did not start before 20.15</p>
+          <p>And then about the tickets, you <NS type="S"><i>wrotte</i><c>wrote</c></NS> that <NS type="RA"><i>they</i><c>there</c></NS> were discounts available but <NS type="RA"><i>they</i><c>there</c></NS> were not.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> when we had seen the Musical, we went to the restaurant and it was closed because they <NS type="TV"><i>done</i><c>were doing</c></NS> some <NS type="S"><i>dekoreting</i><c>decorating</c></NS>, and you <NS type="S"><i>wrott</i><c>wrote</c></NS> in your advertisement<NS type="MP"><c>,</c></NS> "Visit our theatre restaurant after the show"</p>
+          <p>We are very disappointed, it was not a perfect evening out for us, therefore we would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>have</i><c>to have</c></NS> <NS type="RD"><i>your</i><c>our</c></NS> money back.</p>
+          <p>I <NS type="MV"><c>am</c></NS> looking <NS type="S"><i>forwart</i><c>forward</c></NS> to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours faithfully,</p>
+          <p>HELGAR Svessen,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Clothes in the future</p>
+          <p>Clothes <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="MD"><c>a</c></NS> very interesting <NS type="S"><i>subjekt</i><c>subject</c></NS> to study. If you <NS type="FV"><i><NS type="S"><i>travlling</i><c>travelling</c></NS></i><c>travel</c></NS> around you can see <NS type="MD"><c>a</c></NS> lot of <NS type="DN"><i>different</i><c>difference</c></NS> still <NS type="RT"><i>from</i><c>between</c></NS> different <NS type="AGN"><i>culture</i><c>cultures</c></NS>.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS> I think that in the future we are going to wear <NS type="CQ"><i>less</i><c>fewer</c></NS> clothes because the <NS type="S"><i>climet</i><c>climate</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="RV"><i>being</i><c>going to get</c></NS> warmer and warmer.</p>
+          <p>Secondly I think we <NS type="RV"><i>have more</i><c>will be</c></NS> mixing clothes from all over the world, because we are <NS type="IV"><i>traveling</i><c>travelling</c></NS> <NS type="W"><i>more and more around</i><c>around more and more</c></NS>. And that is nice if you can pick up the best <NS type="AGN"><i>thing</i><c>things</c></NS> from all over the world, but on the other hand it is not so nice if every <NS type="RN"><i>country</i><c>nationality</c></NS> <NS type="AGV"><i>wear</i><c>wears</c></NS> <NS type="MD"><c>the</c></NS> <NS type="R"><i>some</i><c>same</c></NS> type of clothes.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> <NS type="ID"><i>about my <NS type="S"><i>oppinion</i><c>opinion</c></NS></i><c>in my opinion</c></NS> I wish we <NS type="RV"><i>are going</i><c>would</c></NS> <NS type="FV"><i>to dress</i><c>dress</c></NS> <NS type="UA"><i>us</i></NS> more as <NS type="M"><c>we did</c></NS> in the past<NS type="MP"><c>,</c></NS> <NS type="R"><i>with</i><c>using</c></NS> <NS type="DJ"><i>nature</i><c>natural</c></NS> <NS type="S"><i>matrial</i><c>material</c></NS><NS type="RP"><i>, we</i><c>. We</c></NS> <NS type="R"><i>most</i><c>must</c></NS> think more about the <NS type="S"><i>eviorment</i><c>environment</c></NS> and <NS type="RV"><i>leave</i><c>live</c></NS> closer to <NS type="RN"><i>the earth</i><c>nature</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

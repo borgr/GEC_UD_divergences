@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR533*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>41-50</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>My name is Gabriel and I <NS type="TV"><i>represented</i><c>represent</c></NS> our class. We have seen an advertisement for the London Fashion and Leisure Show and we would particularly like to go to the show. As <NS type="DN"><i>representant</i><c>representative</c></NS> of my class may I kindly ask you to <NS type="W"><i>change partially</i><c>partially change</c></NS> your plan <NS type="RT"><i>during</i><c>for</c></NS> our visit <NS type="RT"><i>in</i><c>to</c></NS> London<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p><NS type="UD"><i>The</i></NS> Monday 13 March <NS type="TV"><i>would be</i><c>will be</c></NS> <NS type="RJ">fine</NS>. The morning <NS type="M"></NS> visiting interesting places in the City and <NS type="RT"><i>on</i><c>in</c></NS> the afternoon <NS type="M"></NS> make a trip to Greenwich, which is excellent.</p>
+          <p>Because the London Fashion <NS type="RP"><i><NS type="RN"><i>programme</i><c>show</c></NS></i><c>Show</c></NS> takes place on Tuesday, I would suggest <NS type="FV"><i>to change</i><c>changing</c></NS> your plan.</p>
+          <p>There is a very interesting programme for young people like <NS type="FA"><i>we</i><c>us</c></NS>. <NS type="RA"><i>There</i><c>They</c></NS> will <NS type="FV"><i>shown</i><c>show</c></NS> the latest fashions, leisure and sports wear, <NS type="M"></NS> several additional attractions. It <NS type="TV"><i>will be</i><c>would be</c></NS> <NS type="RJ"><NS type="S"><i>beutiful</i><c>beautiful</c></NS></NS> if you would agree to change your plan.</p>
+          <p>The last day, <NS type="UD"><i>the</i></NS> Wednesday 15 March<NS type="MP"><c>,</c></NS> will surely <NS type="MV"><c>be</c></NS> very interesting because the National Art Gallery is <NS type="MD"><c>a</c></NS> very famous place in London.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it.<NS type="UP"><i>,</i></NS></p>
+          <p>It happened on a very <NS type="S"><i>lovly</i><c>lovely</c></NS> day in summer.</p>
+          <p>The sun was shining, the <NS type="S"><i>Chanel</i><c>Channel</c></NS> was clear blue and I was walking by the <NS type="RP"><i>Sea</i><c>sea</c></NS>. Suddenly I <NS type="IV"><i>heart</i><c>heard</c></NS> somebody crying for <NS type="UD"><i>the</i></NS> help. Not <NS type="CE">studying for too much</NS> I ran as fast as I could <NS type="DY"><i>direct</i><c>directly</c></NS> <NS type="MT"><c>to</c></NS> <NS type="RY"><i>there</i><c>where</c></NS> I <NS type="IV"><i>heart</i><c>heard</c></NS> the voice <NS type="M"></NS>.</p>
+          <p>I knew<NS type="UP"><i>,</i></NS> I <NS type="TV"><i>can't</i><c>couldn't</c></NS> <NS type="S"><i>swimm</i><c>swim</c></NS> <NS type="RC"><i>then</i><c>so</c></NS> I realized it might be dangerous for me as well. But <NS type="RT"><i>in</i><c>at</c></NS> this particular moment it wasn't important <NS type="RT"><i>for</i><c>to</c></NS> me. The most important <NS type="FN"><i>things</i><c>thing</c></NS> was a little boy <NS type="MT"><c>of</c></NS> about ten years old, who was in the <NS type="S"><i>watter</i><c>water</c></NS> without <NS type="MD"><c>his</c></NS> parents and couldn't <NS type="S"><i>swimm</i><c>swim</c></NS>. It was <NS type="S"><i>diffucult</i><c>difficult</c></NS> for me because I am afraid of <NS type="S"><i>watter</i><c>water</c></NS>. <NS type="DY"><i>Although</i><c>However</c></NS> I went quickly to him and took him <NS type="RT"><i>on</i><c>in</c></NS> my <NS type="RN"><i>hands</i><c>arms</c></NS>. He was <NS type="S"><i>exhaused</i><c>exhausted</c></NS> and couldn't <NS type="DV"><i>breath</i><c>breathe</c></NS>. In the meantime a man told me he <NS type="AGV"><i>were</i><c>was</c></NS> a doctor and could help the boy. I was very happy that I managed to save the <NS type="DN"><i>live</i><c>life</c></NS> of the boy. Now, when I consider <NS type="UT"><i>about</i></NS> the events<NS type="MP"><c>,</c></NS> it's clear <NS type="RT"><i>for</i><c>to</c></NS> me that if I got <NS type="MY"><c>there</c></NS> a few minutes later <NS type="MA"><c>it</c></NS> probably <NS type="TV"><i>would be</i><c>would have been</c></NS> <NS type="SX"><i>to</i><c>too</c></NS> late.</p>
+          <p>You should ignore the <NS type="DN"><i>dangerous</i><c>danger</c></NS> if you <NS type="MV"><c>are</c></NS> <NS type="DJ"><i>convince</i><c>convinced</c></NS> you can save <NS type="MP"><i>somebody</i><c>somebody's</c></NS> <NS type="UD"><i>his</i></NS> <NS type="DN"><i>live</i><c>life</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

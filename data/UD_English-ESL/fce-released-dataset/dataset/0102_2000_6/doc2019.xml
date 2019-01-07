@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR810*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> <NS type="RN"><i>Mr/Mrs</i><c>Sir/Madam</c></NS><NS type="U"><i>... manager</i></NS></p>
+          <p>I am writing to you about your musical show "OVER THE RAINBOW". I <NS type="RV"><i><NS type="TV"><i>have come</i><c>came</c></NS></i><c>went</c></NS> and <NS type="TV"><i>see</i><c>saw</c></NS> <NS type="M"><c>it at</c></NS> the theatre but I <NS type="TV"><i>am</i><c>was</c></NS> very disappointed. I <NS type="RV"><i><NS type="TV"><i>have come</i><c>came</c></NS></i><c>went</c></NS> to see a good <NS type="RN"><i>theatre</i><c>show</c></NS> but I did not. Danny Brook was <NS type="RV"><i>going</i><c>meant</c></NS> to be the starring actor but he <NS type="S"><i>wasn</i><c>was</c></NS> not, <NS type="MQ"><c>another</c></NS> actor took his place. That was very disappointing. The play was <NS type="RV"><i>going</i><c>meant</c></NS> to start at 19.30 but <NS type="R"><i>is</i><c>it</c></NS> was very <NS type="TV"><i>delay</i><c>delayed</c></NS><NS type="MP"><c>.</c></NS> It <NS type="TV"><i>start</i><c>started</c></NS> at 20.15.</p>
+          <p>And this is not all<NS type="MP"><c>,</c></NS> there is more. In the advertisement you <NS type="RV"><i>write</i><c>say</c></NS> that there is <NS type="MD"><c>a</c></NS> <NS type="S"><i>biscount</i><c>discount</c></NS> available but <NS type="RA"><i><NS type="RP"><i>It</i><c>it</c></NS></i><c>there</c></NS> was not. Also the restaurant was closed because there was not <NS type="W"><i>left any food</i><c>any food left</c></NS>.</p>
+          <p>I think the next time you <NS type="RV">write</NS> an <NS type="S"><i>advertiment</i><c>advertisement</c></NS> you <NS type="MV"><c>should</c></NS> <NS type="RV"><i>write</i><c>put in</c></NS> <NS type="U"><i>it with</i></NS> the right information.</p>
+          <p>I did not have a perfect evening with so many <NS type="S"><i>proplems</i><c>problems</c></NS><NS type="RP"><i>. So</i><c>, so</c></NS> I am asking <NS type="MA"><c>you</c></NS> to <NS type="RV"><i><NS type="S"><i>retern</i><c>return</c></NS></i><c>give</c></NS> me some money back.</p>
+          <p>I hope to hear from you soon<NS type="MP"><c>.</c></NS></p>
+          <p>Yours <NS type="S"><i>fouthfouly</i><c>faithfully</c></NS> </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MV"><i><NS type="S"><i>Techology</i><c>Technology</c></NS></i><c>Does technology</c></NS> <NS type="RV"><i>is</i><c>have</c></NS> a bad or a good <NS type="DN"><i>efection</i><c>effect</c></NS>? What does it offer to us? How <NS type="MV"><c>do</c></NS> people use modern technology? <NS type="MP"><i>Let</i><c>Let's</c></NS> see if we use <NS type="UD"><i>the</i></NS> modern technology<NS type="MP"><c>,</c></NS> <NS type="MC"><c>whether</c></NS> we <NS type="UV"><i>may</i></NS> have good <NS type="RC"><i>and</i><c>or</c></NS> bad results.</p>
+          <p>In <NS type="MD"><c>the</c></NS> <NS type="MP"><i>18</i><c>18th</c></NS> <NS type="S"><i>cetury</i><c>century</c></NS><NS type="MP"><c>,</c></NS> technology started to grow more and more <NS type="MC"><c>and</c></NS> <NS type="MD"><c>the</c></NS> <NS type="MP"><i>20</i><c>20th</c></NS> century <NS type="RV"><i><NS type="TV"><i>named</i><c>was named</c></NS></i><c>was called</c></NS> the century of technology. During that time technology made a great step <NS type="MY"><c>forward</c></NS>.</p>
+          <p><NS type="S"><i>Thechnology</i><c>Technology</c></NS> helps people. It informs people, <NS type="FN"><i>hospital</i><c>hospitals</c></NS> use modern <NS type="S"><i>technogoly</i><c>technology</c></NS><NS type="MP"><c>,</c></NS> <NS type="MC"><c>and</c></NS> <NS type="MD"><c>the</c></NS> computer helps <NS type="R">staders</NS> <NS type="MC"><c>and</c></NS> <NS type="AGV"><i>help</i><c>helps</c></NS> people do their job.</p>
+          <p>But modern technology <NS type="AGV"><i>do</i><c>does</c></NS> a lot of bad <NS type="SX"><i>thinks</i><c>things</c></NS>. A lot of <NS type="AGN"><i><NS type="RN"><i>county</i><c>country</c></NS></i><c>countries</c></NS> buy <NS type="S"><i>gans</i><c>guns</c></NS><NS type="MP"><c>,</c></NS> for their <NS type="RN"><i><NS type="S"><i>safty</i><c>safety</c></NS></i><c>defence</c></NS> <NS type="UC"><i>as</i></NS> they say<NS type="MP"><c>,</c></NS> but they buy them <NS type="SX"><i>do</i><c>to</c></NS> kill people.</p>
+          <p>Modern technology is <NS type="RV"><i>effecting</i><c>affecting</c></NS> people <NS type="M"><c>in a</c></NS> good and bad way. We have to be very careful with technology. <NS type="S"><i>Technogoly</i><c>Technology</c></NS> <NS type="X"><i>can't never</i><c>can't ever</c></NS> stop going forward<NS type="MP"><c>,</c></NS> <NS type="MC"><c>and</c></NS> so people always go <NS type="S"><i>farward</i><c>forward</c></NS> but with <NS type="MD"><c>the</c></NS> same <NS type="R">effection of</NS> modern <NS type="S"><i>techology</i><c>technology</c></NS>. Technology is in our <NS type="FN"><i>life</i><c>lives</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

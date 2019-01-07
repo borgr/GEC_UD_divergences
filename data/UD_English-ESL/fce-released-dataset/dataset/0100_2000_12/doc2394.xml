@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR964*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>11.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MJ"><c>Dear</c></NS> Mr. Robertson:</p>
+          <p>First of all our class would like to give you our special thanks <NS type="RT"><i>about</i><c>for</c></NS> the programme you gave us yesterday afternoon.</p>
+          <p>After reading the <NS type="SX"><i>hole</i><c>whole</c></NS> <NS type="RJ">organized</NS> programme, we all agreed about the sightseeing <NS type="MN"><c>tour</c></NS> by bus around London<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> will give us the knowledge <NS type="RT"><i>about</i><c>of</c></NS> this fantastic city we <NS type="TV"><i>all want</i><c>have all wanted</c></NS> to <NS type="RV"><i>meet</i><c>have</c></NS> since <NS type="M"><c>a long</c></NS> time ago.</p>
+          <p>The main purpose of our letter <NS type="UA"><i>it's</i><c>is</c></NS> to explain about the London Fashion and Leisure Show. We found the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> in a local newspaper <NS type="UN"><i>article</i></NS> and have been thinking it could be such a good opportunity, because the show consists <NS type="RT"><i>on</i><c>of</c></NS> these topics:</p>
+          <p>. Latest Fashions</p>
+          <p>. Leisure and sports wear</p>
+          <p>. <NS type="MP"><i>Make up</i><c>Make-up</c></NS> . Hairstyles.</p>
+          <p>On the other hand, and the most important, it is free for students.</p>
+          <p>After <NS type="UV"><i>being</i></NS> discussing <NS type="MA"><c>this</c></NS>, we want to suggest how we think the programme should be re-arranged. Instead of going to the science museum, we could go to the London Fashion and Leisure Show<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> is <NS type="DJ"><i>opened</i><c>open</c></NS> on Tuesday, <NS type="RP"><i>march</i><c>March</c></NS> 14<NS type="MP"><c>,</c></NS> from 10 am to <NS type="ID"><i>19 pm</i><c>7 pm</c></NS>. After that we could continue our trip as it <NS type="TV"><i>had</i><c>has</c></NS> been arranged <NS type="RY"><i>previously</i><c>already</c></NS>.</p>
+          <p>Yours <NS type="DY"><i>sincirely</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>0</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><c>The</c></NS> Best Detective Stories of Agatha Christie - Agatha Christie.</p>
+          <p>A good book should interest, amuse or teach the reader something.</p>
+          <p>Agatha Christie <NS type="TV"><i>always was</i><c>has always been</c></NS> my favourite writer. Not only because she's famous <NS type="RC"><i>or</i><c>and</c></NS> wrote lots of books, but she knows how to introduce <NS type="S"><i>caracthers</i><c>characters</c></NS> <NS type="RC"><i>or</i><c>and</c></NS> how to tell a good story <NS type="R">us though <NS type="S"><i>decieving</i><c>deceiving</c></NS></NS> the readers.</p>
+          <p>One of her most interesting and famous <NS type="AGN"><i>work</i><c>works</c></NS> is a novel called "The Orient Express". It's a detective story, like all the stories written by her. <NS type="ID"><i>In our words</i><c>In other words</c></NS> the story is <NS type="RV"><i>settled</i><c>set</c></NS> on a train <NS type="S"><i>wich</i><c>which</c></NS> <NS type="R"><NS type="S"><i>tooks</i><c>takes</c></NS> a trip along</NS> the orient. On the train, all the <NS type="S"><i>passangers</i><c>passengers</c></NS> seem to be involved in a crime.</p>
+          <p>This is such a <NS type="S"><i>fasinating</i><c>fascinating</c></NS> story <NS type="RC"><i>or</i><c>and</c></NS> it's the way Agatha Christie tells it. The <NS type="S"><i>mistery</i><c>mystery</c></NS> is <NS type="RV"><i>kept</i><c>drawn out</c></NS> until the last page of the book. I read it and I have really enjoyed it. It has been <NS type="MD"><c>a</c></NS> fabulous experience so if anybody would like to read a good detective story, try <NS type="FV"><i>to read</i><c>reading</c></NS> Agatha Christie's detective story and you <NS type="TV"><i>wouldn't</i><c>won't</c></NS> regret it at all.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

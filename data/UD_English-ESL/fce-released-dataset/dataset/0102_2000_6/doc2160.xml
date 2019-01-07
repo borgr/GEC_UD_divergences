@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR873*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to give my opinion about the musical show called "Over the Rainbow".</p>
+          <p>I recently had a week's holiday in London and during my stay, I went to the Circle Theatre to see "Over the Rainbow". To tell the truth, it was a very disappointing evening. When I <NS type="W"><i>read the advertisement first</i><c>first read the advertisement</c></NS>, I thought that it would be fun.</p>
+          <p>In the advertisement, it <NS type="RV"><i><NS type="TV"><i>was written</i><c>wrote</c></NS></i><c>said</c></NS> that the show was London's newest and best musical show. Well, it might be the newest one but certainly, it was not the best one. I thought that the actor of the show was Danny Brook, but he was not playing in the show. The actor was somebody else and this was <NS type="UA"><i>something</i></NS> disappointing.</p>
+          <p>The show should have started at 19:30 but<NS type="UP"><i>,</i></NS> it started at 20:15<NS type="UP"><i>. Which</i><c> which</c></NS> <NS type="TV"><i>means</i><c>meant</c></NS><NS type="UP"><i>,</i></NS> I had to wait there for 45 minutes. And also, it <NS type="RV"><i><NS type="TV"><i>was written</i><c>wrote</c></NS></i><c>said</c></NS> that <NS type="UD"><i>the</i></NS> discounts were available but they were not.</p>
+          <p>After the show, I decided to visit the theatre restaurant but it was closed. On the door, there was a note saying that the restaurant was closed because of the illness of the cook.</p>
+          <p>I <NS type="TV"><i>had <NS type="RV"><i>given</i><c>paid</c></NS></i><c>paid</c></NS> £20 and now<NS type="UP"><i>,</i></NS> I would be pleased if you <NS type="TV"><i>give</i><c>would give</c></NS> some of my money back. It was a terrible evening out for me. I hope the next musical show <NS type="TV"><i>would be</i><c>will be</c></NS> a better one.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>MODERN TECHNOLOGY</p>
+          <p>In the past, everything was very different. People had completely different <NS type="UP"><i>life-styles</i><c>lifestyles</c></NS>.</p>
+          <p>People <NS type="TV"><i>were using</i><c>used</c></NS> candles to see around them. In winter, they used to <NS type="RV"><i>fire</i><c>burn</c></NS> some <NS type="CN"><i>woods</i><c>wood</c></NS> to keep warm<NS type="RP"><i>,</i><c>.</c></NS> "Computer" was a word that nobody <NS type="TV"><i>had known</i><c>knew</c></NS> the meaning of <NS type="UA"><i>it</i></NS>. As my mum told me, when she was young, only a few people had televisions in their houses. And of course, they were <NS type="UP"><i>black-and</i><c>black and</c></NS> white. Their <NS type="S"><i>hobies</i><c>hobbies</c></NS> were listening to the radio, reading books or sitting on a chair without doing anything.</p>
+          <p>Modern technology has changed our daily life a lot. We <NS type="TV"><i>are using</i><c>use</c></NS> mobile phones so it doesn't matter if we are in a crowded city or <NS type="RT"><i>on</i><c>in</c></NS> a desert. You can communicate with other people any time you want. Nearly 90 per cent of people know how to use a computer and computers are used in every <NS type="RN"><i>section</i><c>area</c></NS> of our lives. We also have <NS type="MD"><c>the</c></NS> <NS type="UP"><i>"</i></NS><NS type="RP"><i>internet</i><c>Internet</c></NS><NS type="UP"><i>"</i></NS>, <NS type="RT"><i>by</i><c>with</c></NS> which you can learn something about the world in less than a minute.</p>
+          <p>Modern technology is very important for all the countries. It has a very big role in developing a country. When you look around, you can easily understand that modern technology is used <NS type="RT"><i>in</i><c>for</c></NS> everything.</p>
+          <p>I think<NS type="UP"><i>,</i></NS> we are all very lucky people that we aren't using candles or black and white televisions anymore<NS type="RP"><i>?</i><c>.</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

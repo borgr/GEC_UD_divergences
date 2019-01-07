@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR301*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam, I am writing to you to complain about the musical show I went to see last Wednesday. I was told I would have the most perfect evening in London, but it was not. When I bought my ticket I expected to be able to take advantage of those discounts you announced in the newspaper advertisement but <NS type="RC"><i>when</i><c>then</c></NS> I had to pay the most expensive price. I went to see the <NS type="W"><i>performance at 19:30</i><c>19:30 performance</c></NS> but it did not start until 20:15! I was really angry but I wanted to see Danny Brook. My surprise was when, instead of Mr. Brook, a different actor appeared on stage. At the end of the show I decided to go to the theatre restaurant but when I arrived I realized it was closed because the <NS type="UJ"><i>musical</i></NS> show had finished too late! All I am asking for is a full refund of the money I spent <NS type="RT"><i>in</i><c>on</c></NS> the musical. I look forward to hearing from you. Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Now Marion was really angry with her.</p>
+          <p>Some days ago Pat met her friend Paul, the editor of the school's newspaper. Paul asked her some questions about her childhood and her toys because he was going to write an article about children. While Pat was talking she remembered playing with her dolls and <NS type="RV"><i>spending</i><c>having</c></NS> a good time with them. Then Paul asked her if she knew something about Marion's childhood. Pat told him some unimportant things such as she learnt to swim at the age of five or that she loved ants. But, suddenly, she started to talk about Marion's toys. She told Paul she had a special toy called Max and that she slept with him. A terrible mistake!</p>
+          <p>In the following edition the headline was: "Why <NS type="MV"><c>does</c></NS> a teenager <NS type="AGV"><i>sleeps</i><c>sleep</c></NS> with a toy called Max?" Everybody <NS type="IV"><i>laughted</i><c>laughed</c></NS> at her. Marion felt really embarrassed. Two weeks later everybody <NS type="RV"><i>forbade</i><c>forgot</c></NS> about Marion's secret and she <NS type="RV"><i>took into account</i><c>reconsidered</c></NS> her relationship with Pat. They became friends again. But Marion would never tell Pat a secret again!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

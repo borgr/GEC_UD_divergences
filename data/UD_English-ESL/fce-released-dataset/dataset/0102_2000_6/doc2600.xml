@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR129*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you about an incident <NS type="RA"><i>I</i><c>that</c></NS> <NS type="RV"><i>had</i><c>occurred</c></NS> <NS type="RT"><i>with</i><c>at</c></NS> the musical <NS type="UN"><i>show</i></NS> which was <NS type="RV"><i>presented</i><c>put on</c></NS> <NS type="RT"><i>by</i><c>at</c></NS> your theatre during my week's holiday in London.</p>
+          <p>First of all, I would like to tell you that it was very disappointing for me that the <NS type="DN"><i>starring</i><c>star</c></NS> was not Danny Brook as your company had <NS type="RV"><i>published</i><c>advertised</c></NS>.</p>
+          <p>Moreover, the <NS type="UN"><i>musical</i></NS> show was said to start at 19:30 but it really started at 20:15.</p>
+          <p>As the show finished <NS type="FY"><i>later</i><c>late</c></NS>, we decided to eat something at your theatre restaurant but<NS type="MP"><c>,</c></NS> to our surprise, it was closed.</p>
+          <p>As a result, we came back home in order to eat some fast food.</p>
+          <p><NS type="RP"><i>An other</i><c>Another</c></NS> thing is that there was <NS type="MY"><c>not</c></NS> any discount available so we <NS type="TV"><i>spend</i><c>spent</c></NS> a lot of money <NS type="RT"><i>in</i><c>on</c></NS> <NS type="UD"><i>such</i></NS> a bad show.</p>
+          <p>Before this week ends, I want your company to give me the money back.</p>
+          <p>Otherwise, I will sue your company.</p>
+          <p>I hope this kind of <NS type="RN"><i>behaviour</i><c>thing</c></NS> does not happen again.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+          <p>Manuela T. Miracola</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>One day, while I was studying maths, one of my friends, called Pat, asked me to have a <NS type="S"><i>coffe</i><c>coffee</c></NS> with her.</p>
+          <p>We went to a place called 'Deli' where we talked a lot about our school, the exams and, as we usually did, about our friends and <NS type="RP"><i>boy friends</i><c>boyfriends</c></NS>.</p>
+          <p>We asked each other a lot of questions but then we started talking about things that had never been talked about with anybody<NS type="RP"><i>. Such</i><c>, such</c></NS> as the most important thing that had happened to us in our <NS type="AGN"><i>life</i><c>lives</c></NS> and <NS type="AGD"><i>that</i><c>those</c></NS> <NS type="AGN"><i>kind</i><c>kinds</c></NS> of secrets...</p>
+          <p>The problem started when I <NS type="S"><i>confesed</i><c>confessed</c></NS> <NS type="MT"><c>to</c></NS> her that I had <NS type="TV"><i>fall</i><c>fallen</c></NS> in love with Larry, who was my cousin's boyfriend. In spite of the fact that I told her to keep it <NS type="UT"><i>as</i></NS> a secret, she went to my cousin's house and <NS type="UV"><i>made</i></NS> <NS type="UD"><i>the</i></NS> <NS type="TV"><i>retelling</i><c>retold</c></NS> <NS type="UT"><i>of</i></NS> <NS type="W"><i>what I had exactly</i><c>exactly what I had</c></NS> told her.  As a result, my cousin went to my house in order to <NS type="RV"><i>gave</i><c>get</c></NS> <NS type="RA"><i>her</i><c>herself</c></NS> a detailed <NS type="RN"><i>description</i><c>account</c></NS> <NS type="U"><i>of it</i></NS>.</p>
+          <p>As I <NS type="RV"><i>solved</i><c>resolved</c></NS> the <NS type="RN"><i>trouble</i><c>problem</c></NS> with my cousin, I understood why my mother had told me that 'friends' sometimes weren't <NS type="R"><i>as</i><c>what</c></NS> you expected them to be.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

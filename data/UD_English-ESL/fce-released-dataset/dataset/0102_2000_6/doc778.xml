@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR308*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Manager of the Circle Theatre.</p>
+          <p>I am writing regarding <NS type="UT"><i>to</i></NS> our visit to the Circle Theatre <NS type="MT"><c>on</c></NS> the 17th June.</p>
+          <p>When we saw your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the musical show, over the rainbow, we <NS type="DY"><i>immediatly</i><c>immediately</c></NS> decided that this <NS type="RV"><i>must</i><c>would</c></NS> be a perfect evening out. There <NS type="AGV"><i>was</i><c>were</c></NS> in our opinion two reasons for that, our favourite actor Danny Brook and the opportunity to visit your theatre restaurant <NS type="S"><i>afterwords</i><c>afterwards</c></NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> the evening <NS type="RV"><i><NS type="TV"><i>become</i><c>became</c></NS></i><c>was</c></NS> very disappointing. Firstly, Danny Brook was not acting, there was another<NS type="MP"><c>,</c></NS> unknown actor and he was not good. Secondly, the show was supposed to start <NS type="MT"><c>at</c></NS> 19.30, but did not start until 20.15.</p>
+          <p>Thirdly, in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> it <NS type="TV"><i>says</i><c>said</c></NS> that discounts <NS type="RV"><i>should</i><c>would</c></NS> be available, but <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> not.</p>
+          <p><NS type="ID"><i>Above these</i><c>Furthermore</c></NS> the restaurant was closed because of <NS type="MD"><c>a</c></NS> water <NS type="RN"><i>leakage</i><c>leak</c></NS>.</p>
+          <p>I am therefore asking for <NS type="UD"><i>a</i></NS> compensation for our disappointing evening and hope we can reach a <NS type="S"><i>sollution</i><c>solution</c></NS> as soon as possible.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+          <p>Adra Johansson</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. It didn't take more than one day before everyone knew about my decision. I had thought about it for many years but never been able to <NS type="RV"><i><NS type="SA"><i>fulfill</i><c>fulfil</c></NS></i><c>realise</c></NS> my dreams. This year I had the opportunity to <NS type="ID"><i>make my dreams come through</i><c>make my dreams come true</c></NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> I wasn't sure if my decision was right and therefore I decided to discuss it with Pat.</p>
+          <p>Pat <NS type="TV"><i>is</i><c>has been</c></NS> my best friend<NS type="UP"><i>,</i></NS> since we first met in primary school. <NS type="RA"><i>It</i><c>That</c></NS> is now twenty years ago.</p>
+          <p>I really like Pat, she's funny, has a good <NS type="S"><i>sence</i><c>sense</c></NS> of <NS type="SA"><i>humor</i><c>humour</c></NS> and like me she loves to discuss everything.</p>
+          <p>So therefore, my <NS type="RN"><i><NS type="S"><i>choise</i><c>choice</c></NS></i><c>decision</c></NS> to ask her about my decision was the best <NS type="MN"><c>thing</c></NS> I could do.</p>
+          <p>She really <NS type="TV"><i>listen</i><c>listened</c></NS> to me and told me that I <NS type="TV"><i>did</i><c>was doing</c></NS> the right thing and persuaded me to send in my application <NS type="RT"><i>for</i><c>to</c></NS> <NS type="FD"><i>an</i><c>a</c></NS> language course in England.</p>
+          <p>I wanted to keep this <NS type="UT"><i>as</i></NS> a secret until I received the answer from the School. But it is <NS type="RP"><i>ok</i><c>OK</c></NS>, I still like Pat, even though she can't keep a secret.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

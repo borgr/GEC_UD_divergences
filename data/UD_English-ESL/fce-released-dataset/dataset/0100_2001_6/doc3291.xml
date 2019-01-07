@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE92*0100*2001*01">
+  <candidate><personnel><language>German</language><age>41-50</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Maria</i></NS> Smith</p>
+          <p>Thank you for your letter which arrived <NS type="UA"><i>me</i></NS> this morning.</p>
+          <p>Of course it is a pity that Mr. Brown has been ill, but we are happy that you are <NS type="IV"><i>comeing</i><c>coming</c></NS> now. You asked me which hotel the group had been booked <NS type="MT"><c>into</c></NS>. It is the Palace <NS type="RP"><i>hotel</i><c>Hotel</c></NS>, about a mile away <NS type="MT"><c>from</c></NS> where the conference will take place.</p>
+          <p>The best way to get there<NS type="UP"><i>,</i></NS> is to take the <NS type="W"><i>bus number 7</i><c>number 7 bus</c></NS>. The bus stop is opposite the entrance of the hotel. You will <NS type="RV"><i>leave</i><c>get off</c></NS> the bus at <NS type="RP"><i>,,</i><c>"</c></NS>Royal <NS type="RP"><i>gardens</i><c>Gardens</c></NS>". Turn left and go straight <NS type="RT"><i>to</i><c>along</c></NS> <NS type="RP"><i>,,</i><c>"</c></NS>Baker <NS type="RP"><i>street</i><c>Street</c></NS>"<NS type="MP"><c>.</c></NS> At the <NS type="RN"><i>need</i><c>end</c></NS> of this street there is <NS type="RD"><i>the</i><c>a</c></NS> house<NS type="MP"><c>,</c></NS> number 18. This is our college.</p>
+          <p>You wish to know all about <NS type="UP"><i>,,</i></NS>the end-of-conference party. As far as I can see<NS type="MP"><c>,</c></NS> there will be only a little dinner and a group of young singers will <NS type="RV">surprise</NS> us <NS type="RT"><i>by</i><c>with</c></NS> their songs.</p>
+          <p>Moreover you asked what to wear. Do not <NS type="RV"><i>bother</i><c>worry</c></NS>. I would recommend you <NS type="TV"><i>wearing</i><c>wear</c></NS> some casual clothes, like <NS type="UD"><i>a</i></NS> jeans, a blouse or a skirt and a jacket. <NS type="S"><i>Donnot</i><c>Do not</c></NS> forget to wear a pair of comfortable shoes, because you will not have <NS type="MD"><c>the</c></NS> chance to change <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p>Finally I <NS type="TV"><i>give</i><c>will give</c></NS> you some <NS type="DN"><i>advise</i><c>advice</c></NS> <NS type="RT"><i>for</i><c>about</c></NS> what you could do for about three hours.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> we have a nice <NS type="UC"><i>and</i></NS> interesting museum, it is located near the hotel.</p>
+          <p><NS type="RY"><i><NS type="S"><i>Furthemore</i><c>Furthermore</c></NS></i><c>Also</c></NS><NS type="MP"><c>,</c></NS> there is the zoo with a lot of different animals, located <NS type="UT"><i>to</i></NS> <NS type="W"><i>walk within five <NS type="MP"><i>minutes</i><c>minutes'</c></NS></i><c>within five minutes' walk</c></NS>.</p>
+          <p>Lastly<NS type="MP"><c>,</c></NS> there is also a very old and famous church, with many coloured windows.</p>
+          <p>For further information<NS type="MP"><c>,</c></NS> please call me <NS type="UY"><i>up</i></NS>. I hope you will have an interesting conference here.</p>
+          <p>I am looking forward <NS type="MT"><c>to</c></NS> seeing you<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>The telephone<NS type="MP"><c>:</c></NS> a very important invention<NS type="MP"><c>.</c></NS></p>
+          <p>In my early childhood my mother said to me that when she <NS type="TV"><i>has been</i><c>was</c></NS> a <NS type="S"><i>litte</i><c>little</c></NS> girl there <NS type="TV"><i>has been</i><c>was</c></NS> only one telephone in the <NS type="RN"><i>house</i><c>building</c></NS> where she <NS type="TV"><i>had lived</i><c>lived</c></NS>. It <NS type="TV"><i>has been</i><c>was</c></NS> in her parents' <NS type="S"><i>appartement</i><c>apartment</c></NS>. The neighbours <NS type="TV"><i>had come</i><c>came</c></NS> <NS type="UT"><i>into</i></NS> to make their calls and to get their calls.</p>
+          <p><NS type="IA"><i>Todays</i><c>Today</c></NS> nobody could imagine such a situation.</p>
+          <p>In every household there is <NS type="DQ"><i>a</i><c>one</c></NS> telephone at least.</p>
+          <p>There are a lot of advantages <NS type="RT"><i>for</i><c>to</c></NS> it.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> people are able to talk to <NS type="MD"><c>a</c></NS> person <NS type="RT"><i>on</i><c>at</c></NS> <NS type="RQ"><i>every</i><c>any</c></NS> time<NS type="RP"><i>. Be</i><c>, be</c></NS> it<NS type="UP"><i>:</i></NS> just for fun or <NS type="UY"><i>also</i></NS> to discuss some important and relevant <NS type="SX"><i>thins</i><c>things</c></NS>. Moreover we <NS type="W"><i>always can</i><c>can always</c></NS> <NS type="AS"><i>call for help to the police, to the hospital or to a doctor</i><c>call the police, the hospital or a doctor for help</c></NS>. This could save <NS type="MD"><c>your</c></NS> life!</p>
+          <p><NS type="RP"><i>An other</i><c>Another</c></NS> advantage is that all offices, firms and industries could not <NS type="UY"><i>further</i></NS> exist without it.</p>
+          <p>Of course there is also a big disadvantage.</p>
+          <p>All people know this situation<NS type="RP"><i>;</i><c>:</c></NS> people want not to be interrupted, maybe they are reading a book, having a good talk or are having a little sleep... then the telephone rings...! It is not an easy <NS type="S"><i>desicion</i><c>decision</c></NS> how to react now. Being sincere, most of us would go to the telephone.</p>
+          <p>Another point of disadvantage is that <NS type="UD"><i>the</i></NS> mobile phones are ringing<NS type="UP"><i>.</i></NS> everywhere and <NS type="UT"><i>on</i></NS> <NS type="RY"><i>every time</i><c>all the time</c></NS>. Especially youngsters misuse this kind of invention.</p>
+          <p>To sum up<NS type="MP"><c>,</c></NS> this invention is one of the most useful things. It is always the same <NS type="M"></NS> how <NS type="UT"><i>to</i></NS> people use it or not and how people handle it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

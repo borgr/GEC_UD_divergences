@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR957*0102*2000*01">
+  <candidate><personnel><language>German</language><age>41-50</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm writing to complain about your musical show "OVER THE RAINBOW", which I recently saw at the Circle Theatre. It was the only disappointment during my holiday in London, since several <NS type="RN"><i>points</i><c>things</c></NS> didn't <NS type="TV"><i>worked</i><c>work</c></NS> out as promised in your advertisement.</p>
+          <p>First of all, there were no discounts available, and having <NS type="IV"><i>payed</i><c>paid</c></NS> £20 I had to wait 45 minutes longer than expected since the show began at 20:15 and not at 19:30.</p>
+          <p>As a second point, the actor was not Danny Brook, as <NS type="RV"><i>displayed</i><c>advertised</c></NS>, but someone else I've never <NS type="UV"><i>had</i></NS> heard of before. His acting and singing <NS type="AGV"><i>was</i><c>were</c></NS> horrible.</p>
+          <p><NS type="RY"><i>At last</i><c>Finally</c></NS>, after all these <NS type="RN"><i>disadvantages</i><c>disappointments</c></NS>, I was not able to have <NS type="RN"><i>diner</i><c>dinner</c></NS> in your theatre restaurant. It was closed <NS type="RT"><i>of</i><c>for</c></NS> some reason I still don't know.</p>
+          <p>You see, it was not the "perfect evening out", as you had promised in the advertisement. <NS type="S"><i>Therefor</i><c>Therefore</c></NS>, I would like to ask for at least half of my money back.</p>
+          <p>I'm looking forward to hearing from you soon,</p>
+          <p>Yours faithfully, Ewe P Meier</p>
+
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>The pressure of secrets</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. And if he had been able to keep one, the following story wouldn't have happened.</p>
+          <p>Pat was a teacher <NS type="RT"><i>for</i><c>of</c></NS> <NS type="RP"><i>english</i><c>English</c></NS> as a foreign language. Sometimes he had liked to surprise his class with a test to see how good they would be when they could not have <NS type="RV"><i>learned</i><c>revised</c></NS> for it in advance. And always, <NS type="RP"><i>every body</i><c>everybody</c></NS> <NS type="RV"><i>made</i><c>did</c></NS> it surprisingly well.</p>
+          <p>What was the reason? Pat used to show the test to his friend Nick, when he had finished it<NS type="MP"><c>,</c></NS> to get his opinion. Nick <NS type="RY"><i>now</i><c>then</c></NS> <NS type="TV"><i>had taken</i><c>took</c></NS> a copy of the test to <NS type="RV"><i>archive</i><c>file</c></NS> it. And <NS type="UD"><i>the</i></NS> <NS type="W"><i>girlfriend of Nick</i><c>Nick's girlfriend</c></NS> happened to be in Pat's class. She was quite clever and had known everything about this, so she had <NS type="RV"><i>taken</i><c>made</c></NS> copies for her classmates and everybody was prepared.</p>
+          <p>You see, each little secret is a kind of pressure to Pat, and he only feels free if he can tell someone about it. And this is the same for everybody, isn't it?</p>
+          <p>Or can you keep a secret?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

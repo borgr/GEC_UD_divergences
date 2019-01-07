@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR735*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am writing to enquire about the competition that I won and give some details to you about myself and my interests.</p>
+          <p>In the first place, I prefer to travel <NS type="RT"><i>on</i><c>in</c></NS> July because my school will not be closed before this date. Secondly, a <NS type="RN"><i>tent</i><c>camping</c></NS> holiday <NS type="RV"><i>is</i><c>has</c></NS> always attracted me so I would like to stay in a tent rather than in a log cabin.</p>
+          <p>In my spare time, I enjoy playing basketball with my friends and I also like swimming. When I was in primary school, I was one of the members <NS type="RT"><i>in</i><c>of</c></NS> <NS type="MD"><c>the</c></NS> <NS type="W"><i><NS type="UP"><i>swimming-school</i><c>swimming school</c></NS></i><c>school swimming</c></NS> team. I am not really good at basketball but I think it is <NS type="UD"><i>a</i></NS> good fun. <NS type="RT"><i>Because of</i><c>For</c></NS> these reasons, I choose basketball and swimming from the list which <NS type="MA"><c>I</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> given.</p>
+          <p>I would like to know what types of clothes I need and beside this, how much money I need during my vacation.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>It's ages since I've heard from you. I hope you and your family are well.</p>
+          <p>Last month, I had a great time at the concert of "Dragon"<NS type="MP"><c>,</c></NS> which is the most popular <NS type="UP"><i>hard-rock</i><c>hard rock</c></NS> group <NS type="RT"><i>all over</i><c>in</c></NS> the world. They had a concert in my <NS type="RP"><i>hometown</i><c>home town</c></NS><NS type="MP"><c>,</c></NS> that's why the <NS type="DN"><i>organizators</i><c>organisers</c></NS> were looking for young people who <NS type="TV"><i>can</i><c>could</c></NS> speak English. I applied and <NS type="RP"><i>They</i><c>they</c></NS> took me on. I <NS type="RV"><i>took part</i><c>worked</c></NS> in the security department. The staff in that <NS type="S"><i>departnent</i><c>department</c></NS> <NS type="TV"><i>are</i><c>were</c></NS> really friendly and helpful and they <NS type="TV"><i>are</i><c>were</c></NS> also huge<NS type="MP"><c>,</c></NS> like giants. <NS type="S"><i>Basicly</i><c>Basically</c></NS>, I helped them <NS type="RV"><i><NS type="FV"><i>connecting</i><c>connect</c></NS></i><c>liaise</c></NS> with the local police and <NS type="FV"><i>getting</i><c>get</c></NS> some <NS type="DJ"><i>electronical</i><c>electronic</c></NS> <NS type="CN"><i>equipments</i><c>equipment</c></NS> that they needed. They treated me as if I was the private secretary of the department, because of this sometimes I felt that the power was in my hands. By the way, I have already been invited <NS type="MT"><c>to</c></NS> their next <NS type="S"><i>concernt</i><c>concert</c></NS>. They gave me two free tickets. Would you like to come with me?</p>
+          <p>Looking forward to hearing from you soon.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

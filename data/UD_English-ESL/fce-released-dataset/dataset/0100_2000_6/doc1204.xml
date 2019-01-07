@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR495*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen</p>
+          <p>I'm very happy <NS type="UT"><i>for</i></NS> <NS type="TV"><i>winning</i><c>to have won</c></NS> the first prize in the competition. I think it <NS type="TV"><i>would</i><c>will</c></NS> be a very good experience for me. I'm <NS type="DY"><i>realy</i><c>really</c></NS> excited about it.</p>
+          <p><NS type="SX"><i>Fist</i><c>First</c></NS> of all I'm going to give <NS type="MA"><c>you</c></NS> some <NS type="CN"><i>informations</i><c>information</c></NS> about <NS type="RA"><i>me</i><c>myself</c></NS>.</p>
+          <p>Actually, I'd prefer to travel in July, because I'm working at the moment<NS type="UP"><i>,</i></NS> <NS type="RT"><i>in</i><c>for</c></NS> a company, and I'll only have two weeks off<NS type="MP"><c>,</c></NS> <NS type="UT"><i>in</i></NS> the period between the fifteenth and the thirtieth of July. I'd love to come earlier, but I <NS type="DY"><i>realy</i><c>really</c></NS> can't because this job is very important <NS type="RT"><i>for</i><c>to</c></NS> me, and I'll need it as <NS type="UD"><i>a</i></NS> work experience<NS type="UP"><i>,</i></NS> for my further studies <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> University.</p>
+          <p>I <NS type="TV"><i>will</i><c>would</c></NS> also appreciate <NS type="MA"><c>it</c></NS><NS type="UP"><i>,</i></NS> if you would offer me <NS type="S"><i>accomodation</i><c>accommodation</c></NS> in a log cabin, because of some health problems that I have, which <NS type="RV"><i>are</i><c>do</c></NS> not allow me to <NS type="RV"><i>leave</i><c>sleep</c></NS> <NS type="S"><i>outsid</i><c>outside</c></NS> on the ground, and to be honest with you, I never liked camping. I'd also like to choose photography and painting from the list of activities, because I've studied <NS type="FN"><i>Arts</i><c>Art</c></NS> for three years, and these two are my favourite hobbies.</p>
+          <p>I'd also like to ask you how much money I'll need for these two weeks, and what kind of clothes <NS type="W"><i>should I</i><c>I should</c></NS> take with me, because I've never been to the States, and I don't know <NS type="R"><i>how</i><c>what</c></NS> the weather is <NS type="MT"><c>like</c></NS> in California during the summer.</p>
+          <p>I'm looking forward <NS type="MT"><c>to</c></NS> hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is an obsession for all of us. We all like going out to the shops, and <NS type="FV"><i>spend</i><c>spending</c></NS> hours<NS type="UP"><i>,</i></NS> looking <NS type="MT"><c>at</c></NS> all sorts of products and comparing the prices, until we decide which one is the most suitable for us.</p>
+          <p>But shopping is not always enjoyable. Especially if you <NS type="TV"><i>are going</i><c>go</c></NS> with women or children to the shops. That is my worst nightmare. I never go shopping with women<NS type="MP"><c>,</c></NS> <NS type="UC"><i>and</i></NS> especially with my mother or my sisters. And that's because they spend hours trying on <NS type="RQ"><i>any</i><c>all</c></NS> <NS type="AGN"><i>kind</i><c>kinds</c></NS> of clothes, everything you can imagine, and at the end they <NS type="RV"><i>are</i><c>do</c></NS> not <NS type="FV"><i>buying</i><c>buy</c></NS> anything. They also like going to loads of shops, in different parts of the city. At the end I feel very tired and angry, because I <NS type="TV"><i>spent</i><c>have spent</c></NS> the whole morning doing nothing, except <NS type="RT"><i>from</i><c>for</c></NS> looking at them trying <NS type="MY"><c>on</c></NS> <NS type="S"><i>diferent</i><c>different</c></NS> clothes, and that's not enjoyable at all, in fact it's <NS type="DY"><i>realy</i><c>really</c></NS> annoying.</p>
+          <p>Also, you have to be careful when you go <NS type="UT"><i>for</i></NS> shopping with children. Children always ask for something and they want to have all <NS type="R"><i>they</i><c>the</c></NS> toys which they see and that's not very enjoyable for the parents, because sometimes they spend more money<NS type="UP"><i>,</i></NS> <NS type="R"><i>from the amount of money that</i><c>than</c></NS> they <NS type="TV"><i>have planned</i><c>had planned</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

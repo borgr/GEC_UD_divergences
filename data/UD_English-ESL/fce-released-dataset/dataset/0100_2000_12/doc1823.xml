@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR94*0100*2000*02">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I have been asked by my classmates to write to you to suggest a new activity which you could include in the London programme if you <NS type="TV"><i>liked</i><c>like</c></NS> it.</p>
+          <p>We are very grateful to you for these three days that we are going to spend in the English capital, especially because you <NS type="TV"><i>planned</i><c>have planned</c></NS> very interesting and different kinds of things <NS type="W"><i>to do for all <NS type="MT"><c>of</c></NS> us</i><c>for all of us to do</c></NS>.</p>
+          <p>However, <NS type="W"><i>all we</i><c>we all</c></NS> agree that we would like to <NS type="RV"><i>introduce</i><c>include</c></NS> a visit to the London Fashion and Leisure Show <NS type="RT"><i>in</i><c>at</c></NS> the Central Exhibition Hall of London in the trip <NS type="RN"><i>organisation</i><c>itinerary</c></NS>. I am sure that<NS type="UP"><i>,</i></NS> if you allow us to go, we are going to enjoy it a lot, <NS type="FV"><i>to learn</i><c>learn</c></NS> new <NS type="RN"><i>topics</i><c>facts</c></NS> about <NS type="UD"><i>the</i></NS> English culture and have an opportunity to <NS type="RV"><i>communicate</i><c>talk</c></NS> <NS type="UA"><i>ourselves</i></NS> with <NS type="R">all those <NS type="AGN"><i>professional</i><c>professionals</c></NS> of the fashion</NS>.</p>
+          <p>It is a very good chance to <NS type="RV"><i>join</i><c>attend</c></NS> this exhibition to see all the new <NS type="FN"><i>fashion</i><c>fashions</c></NS> <NS type="UN"><i><NS type="IN"><i>tendences</i><c>tendencies</c></NS></i></NS>, the latest hairstyles and <NS type="MP"><i>make up</i><c>make-up</c></NS> as all <NS type="MT"><c>of</c></NS> <NS type="RA"><i>we</i><c>us</c></NS> <NS type="TV"><i>came</i><c>come</c></NS> from many different countries and <NS type="X"><i>have not</i><c>do not have</c></NS> the same customs <NS type="RY">either</NS>.</p>
+          <p>And another important thing to consider is that for the students the tickets are free.</p>
+          <p>As the show is held on Tuesday from 10:00 to 19:00 we could go there instead of <NS type="RV"><i>doing</i><c>going</c></NS> shopping in the afternoon. <NS type="UT"><i>By this</i><c>This</c></NS> way, we would visit the museum as you had planned and <NS type="S"><i>n</i><c>on</c></NS> Wednesday afternoon we could use the free time to do some shopping if we wished <NS type="UA"><i>it</i></NS>.</p>
+          <p>Well, that is all I wanted to tell you. We do hope you like our suggestion and we can <NS type="R">have an agreement</NS> to <NS type="RV"><i>join</i><c>attend</c></NS> the fashion exhibition.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Do famous people, such as politicians and film stars, deserve to have a private life without journalists following them all the time?</p>
+          <p>Some people think that they should. They are human beings <NS type="UY"><i>actually</i></NS> and they need to keep a little bit of <NS type="S"><i>pirvacity</i><c>privacy</c></NS> and freedom in their <NS type="IN"><i>lifes</i><c>lives</c></NS> to continue like normal people, to feel that they are unknown and <NS type="S"><i>anonymus</i><c>anonymous</c></NS> and they do not have to wear sunglasses, hats or caps every time they want to <NS type="RV"><i>go out</i><c>leave</c></NS> home <NS type="MT"><c>in order</c></NS> not to be recognised.<NS type="UP"><i>.</i></NS></p>
+          <p>This is supposed to make them happier...</p>
+          <p>Nevertheless, if the famous are known everywhere in the world it is because of <NS type="R">the people</NS><NS type="RP"><i>, if</i><c>. If</c></NS> they appear often on TV or in films it is because of their popularity, a popularity which <NS type="TV"><i>has given</i><c>was given</c></NS> to them by all us.</p>
+          <p>So they need to become famous to be what they want and if the people don't know them, they are forgotten, they die...</p>
+          <p>To sum up I would like to say that for me <NS type="MA"><c>it</c></NS> is very difficult <NS type="MV"><c>to decide</c></NS> which group <NS type="RV"><i>has the reason</i><c>is right</c></NS> but, <NS type="RT"><i>by</i><c>for</c></NS> the moment, we should try to respect each other and <NS type="R">go in the other's soul to feel like them in those moments we cannot understand them</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

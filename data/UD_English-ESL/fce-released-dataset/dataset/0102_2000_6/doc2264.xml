@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR906*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam:</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you to <NS type="RV"><i>show</i><c>express</c></NS> my <NS type="R"><i>disagree</i><c>disappointment</c></NS> <NS type="RT"><i>about</i><c>with</c></NS> the musical show 'Over the rainbow.</p>
+          <p>First, I am very <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> <NS type="RT"><i>with</i><c>about</c></NS> the <NS type="DN"><i>starring</i><c>star</c></NS>. I went to the musical to see Danny Brook acting and singing, but he didn't appear. Instead of him, there was an unknown actor, who I dislike.</p>
+          <p>Also, the musical did not start at 19.30, it started forty-five minutes later. That is why, <NS type="MC"><c>because</c></NS> it finished later<NS type="MP"><c>,</c></NS> <NS type="UC"><i>and</i></NS> I arrived late to a basketball <NS type="RN"><i>match</i><c>game</c></NS>.</p>
+          <p>Another thing is that there were not any discounts <NS type="RT"><i>in</i><c>on</c></NS> the entrance fee.</p>
+          <p>Finally, the theatre restaurant was closed because it was <NS type="RP"><i>sunday</i><c>Sunday</c></NS>. It is closed <NS type="R"><i>all</i><c>every</c></NS> <NS type="AGN"><i><NS type="RP"><i>sundays</i><c>Sundays</c></NS></i><c>Sunday</c></NS><NS type="RP"><i>,</i><c>;</c></NS> you have to say <NS type="RA"><i>it</i><c>that</c></NS>.</p>
+          <p>That is why I will be pleased if you give <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. That's why I didn't want to tell him that I had failed my natural science final exam. I was worried because if my parents knew that I had failed, before we were on <NS type="FN"><i>holidays</i><c>holiday</c></NS>, they <NS type="TV"><i>will</i><c>would</c></NS> <NS type="TV"><i>cancelled</i><c>cancel</c></NS> the trip to Africa.</p>
+          <p>But, I <NS type="TV"><i>need</i><c>needed</c></NS> to <NS type="AS"><i><NS type="RV"><i>say</i><c>tell</c></NS> it to someone</i><c>tell someone about it</c></NS>, so I <NS type="AS"><i>told it to Pat</i><c>told Pat about it</c></NS>. The next day, all the class knew <NS type="MT"><c>about</c></NS> it. I wasn't too worried because if <NS type="S"><i>someones</i><c>someone</c></NS> <NS type="TV"><i>is</i><c>was</c></NS> going to see my parents, I would tell them before not <NS type="FV"><i>talk</i><c>to talk</c></NS> about the exams.</p>
+          <p>But, <NS type="R"><i>when</i><c>then</c></NS> my mother <NS type="TV"><i>was talking</i><c>talked</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> Pat's mother and she mentioned it, <NS type="MC"><c>and</c></NS> my mother cancelled the trip to Africa.</p>
+          <p>It wasn't <NS type="MP"><i>Pat</i><c>Pat's</c></NS> fault, it was my fault because I was the one who failed the exam and<NS type="MP"><c>,</c></NS> also, I knew that Pat wasn't very good at keeping secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

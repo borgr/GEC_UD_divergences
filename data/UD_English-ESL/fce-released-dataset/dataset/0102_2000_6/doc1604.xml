@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR631*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>&lt;16</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir</p>
+          <p>As I thought your advertisement was interesting, I went there but it was not <NS type="MT"><c>as</c></NS> good as it should be. First of all, the actor was not Danny Brook as you wrote. Secondly, it ought to start at 19:30 but it really started at 20:30. According to the advertisement, <NS type="UD"><i>the</i></NS> discounts <NS type="TV"><i>were</i><c>would be</c></NS> available. In fact, I had to pay the full price<NS type="MP"><c>,</c></NS> which <NS type="IV"><i>costed</i><c>cost</c></NS> me £15. After the show I intended to visit the theatre restaurant but it was closed because<NS type="MP"><c>,</c></NS> <NS type="R"><i>as</i><c>though</c></NS> you <NS type="TV"><i>have known</i><c>knew</c></NS> that the show started late, <NS type="UY"><i>therefore</i></NS> the restaurant had closed before the show finished.</p>
+          <p><NS type="R">As I have informed you <NS type="MT"><c>of</c></NS> all the <NS type="AGN"><i>fact</i><c>facts</c></NS></NS>, I think the show was not worth the money I paid, so I want <NS type="RD"><i>the</i><c>a</c></NS> refund <NS type="RT"><i>for</i><c>of</c></NS> £15.</p>
+          <p>I look forward to hearing from you as soon as possible.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. The story begins when Jan, who was Pat's best friend, told Pat that she saw Tim when he was cheating <NS type="MT"><c>in</c></NS> the exam. The next day, Pat told everybody what she had heard from Jan, so when the news came to <NS type="MD"><c>the</c></NS> teachers' ears, the teachers decided to give Tim <NS type="MD"><c>a</c></NS> grade F in that subject and tell his parents!!</p>
+          <p>Tim, who was the most powerful bully, was punished by his parents and of course by the teachers. He was furious with Jan, so what happened was Jan was bullied but not because of her <NS type="RN">fault</NS><NS type="RP"><i>, it</i><c>. It</c></NS> was Pat's.</p>
+          <p>Actually, I think it was right to tell the teachers but not in Pat's way. It would have been better for both Pat and Jan if they had told the teachers privately and secretly because Tim <NS type="X"><i>would haven't</i><c>wouldn't have</c></NS> known who had told the teachers.</p>
+          <p>Now, Jan <NS type="TV"><i>has still been</i><c>is still being</c></NS> bullied nearly <NS type="RP"><i>everyday</i><c>every day</c></NS>. Her parents have been so upset that they have asked the school to help <NS type="S"><i>thier</i><c>their</c></NS> child and that is the reason why I'm writing this story. If all of us try to help her, I'm sure that we can <NS type="AS"><i>make her a better school life</i><c>make her school life better</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

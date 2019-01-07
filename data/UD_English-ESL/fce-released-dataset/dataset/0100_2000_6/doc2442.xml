@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR986*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am very happy and excited because I have won first prize in <NS type="RD"><i>our</i><c>your</c></NS> competition. It is a pleasure for me. I am writing to enquire <NS type="UA"><i>you</i></NS> about some <NS type="RN">doubts</NS> and to give <NS type="MD"><c>the</c></NS> information that you need about me.</p>
+          <p>I have been working hard here in Portugal and I will be on holiday just <NS type="UT"><i>in</i></NS> next <NS type="RP"><i>july</i><c>July</c></NS>. Because of <NS type="RA"><i>it</i><c>this</c></NS> I believe <NS type="RA"><i>it</i><c>this</c></NS> is the best <NS type="RN"><i>date</i><c>time</c></NS> for <NS type="MA"><c>me</c></NS> <NS type="FV"><i>travel</i><c>to travel</c></NS> You asked me about <NS type="CN"><i>accommodations</i><c>accommodation</c></NS> <NS type="R"><i>or</i><c>at</c></NS> Camp California. I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I suppose I will have more contact with natural things than in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>.</p>
+          <p>Another question that you asked me was about two activities I will have the chance to do there. I would love <NS type="FV"><i>play</i><c>to play</c></NS> tennis and basketball<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> I've been playing for six years. About tennis, I just started to play last year and I need to <NS type="RV"><i>increase</i><c>improve</c></NS> my technique <NS type="RY"><i>too much</i><c>a lot</c></NS>.</p>
+          <p>I would like to know something about money and clothes. Are they <NS type="S"><i>inclued</i><c>included</c></NS> in the prize? How much money <NS type="W"><i>I can</i><c>can I</c></NS> <NS type="FV"><i>spent</i><c>spend</c></NS> during this time? I'd <NS type="S"><i>prefere</i><c>prefer</c></NS> <NS type="MA"><c>it</c></NS> if you <NS type="TV"><i>give</i><c>gave</c></NS> me this information as soon as you can.</p>
+          <p>I am <NS type="FV"><i>look</i><c>looking</c></NS> forward to hearing from you</p>
+          <p>Yours sincerely</p>
+          <p>Rui Veloso</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I am very happy with your letter that I received last week. I'm <NS type="RY"><i>too</i><c>really</c></NS> excited and I have to tell you about a fantastic experience that I had last month.</p>
+          <p>I suppose you know about <NS type="MD"><c>the</c></NS> "Portugal Pop Concert" that happened here in Rio de Mouro last month, <NS type="RV"><i>aren't</i><c>don't</c></NS> you?</p>
+          <p>It was a marvellous concert and there were about 100,000 people there. I worked as a receptionist in the <NS type="RP"><i>Vip</i><c>VIP</c></NS> room and I needed to look very happy <NS type="UY"><i>during</i></NS> all <NS type="MD"><c>the</c></NS> time, <NS type="RA"><i>what</i><c>which</c></NS> wasn't very difficult. You <NS type="X"><i>will can't</i><c>won't</c></NS> believe how many famous people I <NS type="RV"><i><NS type="TV"><i>known</i><c>knew</c></NS></i><c>met</c></NS>. I met Madonna and could talk with her for ten minutes. It was a dream and she was amazing <NS type="R">with me</NS>.</p>
+          <p>I didn't tell you, but I helped <NS type="RT"><i>in</i><c>at</c></NS> this concert just <NS type="ID"><i>by a chance</i><c>by chance</c></NS>. A friend of <NS type="RA"><i>me</i><c>mine</c></NS> gave up one week before and asked me if I would like to go in his place. I said "yes" and I am sure it was the best decision of my life.</p>
+          <p>Of course I was very tired at the end of five days because of some <NS type="RJ"><i>stressed</i><c>stressful</c></NS> situations. However, <NS type="RD"><i>these</i><c>those</c></NS> days were <NS type="S"><i>unforgatable</i><c>unforgettable</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> me.</p>
+          <p>Hope to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you soon</p>
+          <p>With best wishes,</p>
+          <p>Rui</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

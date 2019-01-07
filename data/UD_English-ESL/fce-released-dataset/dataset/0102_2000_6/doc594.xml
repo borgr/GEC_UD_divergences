@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR35*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I went to the Circle Theatre to see the musical show "Over The Rainbow<NS type="RP"><i>."</i><c>".</c></NS> Unfortunately, I had a very disappointing evening, because very little of what was <NS type="RV">offered</NS> in the advertisements was provided.</p>
+          <p>Firstly, we were informed that Danny Brook was starring but a different actor was starring in the show and he was really disappointing. Secondly, in the advertisement it <NS type="TV"><i>was <NS type="RV"><i>written</i><c>said</c></NS></i><c>said</c></NS> that the show was to start at 19:30. However, it started at 20:15, almost an hour late. Thirdly, it <NS type="TV"><i>was <NS type="RV"><i>written</i><c>said</c></NS></i><c>said</c></NS> that discounts were available but we were again frustrated, <NS type="IV"><i>seing</i><c>seeing</c></NS> they were not available. Finally, although we were informed that the theatre restaurant would be open after the show, it was closed because the show had started late.</p>
+          <p>As you can see, most of the <NS type="R">offered activities</NS> in the advertisements were not provided. We did not have "a perfect evening" as it <NS type="TV"><i>was <NS type="RV"><i>written</i><c>said</c></NS></i><c>said</c></NS>, actually we had an evening full of the theatre's mistakes and were extremely disappointed. I <NS type="RV"><i>suppose</i><c>think</c></NS> it will be better for your theatre's reputation to give at least some of my money back.</p>
+          <p>Yours <NS type="RY"><i><NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>MY LIFE AND MODERN TECHNOLOGY</p>
+          <p>Here we are, in the 21st century... We live in a technologically well-developed world, having every opportunity for communication, education and entertainment. Almost everyone has televisions, computers and electronic devices. But how has modern technology changed our lives?</p>
+          <p>If I were to talk about my own life, my speech would be simple: "My electronic <NS type="UP"><i>alarm-clock</i><c>alarm clock</c></NS> wakes me up in the morning. I go to school by underground. When I come home, I cook my meal in the microwave. In my spare time, I watch television, play with my computer, or chat <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS>..." There is no sentence without electronic devices. I wonder what I could do without them... I don't go out with my friends or read books. I have friends <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS> and can learn anything while surfing <NS type="UT"><i>in</i></NS> it. I sometimes get bored or feel isolated, because I know I am living in a virtual world.</p>
+          <p>When I look at my life, I can understand I am dependent on the machines. My daily life is programmed <NS type="UY"><i>up</i></NS> to the virtual world I created. Modern technology has changed my life completely.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR411*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>31-40</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>To the manager of the</p>
+          <p>Circle Theatre in London</p>
+          <p>I'm a tourist and I had a week's holiday in London <NS type="RQ"><i>a few</i><c>some</c></NS> time ago. I had <NS type="RV"><i><NS type="IV"><i>enjoied</i><c>enjoyed</c></NS></i><c>wanted</c></NS> to see the musical show that the Circle Theatre presented some <NS type="AGN"><i>night</i><c>nights</c></NS> ago; and the <NS type="UP"><i>actor's</i><c>actor</c></NS> Danny <NS type="MP"><i>Brook</i><c>Brook's</c></NS> performance. I went to the theatre at 19.30 <NS type="UN"><i>o'clock</i></NS> but, <NS type="ID"><i>with my surprise</i><c>to my surprise</c></NS>, the show started at 20:15 and so I couldn't remain <NS type="RY"><i>here</i><c>there</c></NS> until the end because I <NS type="MV"><c>had</c></NS> <NS type="FV"><i>left</i><c>to leave</c></NS> London, with my group before the end of the show. The star, the actor Danny Brook, <NS type="UY"><i>there</i></NS> wasn't in the musical show but there was <NS type="RP"><i>an other</i><c>another</c></NS> actor, <NS type="ID"><i>with my great disappoint</i><c>to my great disappointment</c></NS>.</p>
+          <p>Then, in the <NS type="SA"><i>program</i><c>programme</c></NS> I could read <NS type="MT"><c>about</c></NS> a discount available <NS type="RT"><i>for</i><c>on</c></NS> the tickets, for <NS type="UD"><i>the</i></NS> groups, but I couldn't <NS type="RV"><i>have</i><c>get</c></NS> that. I couldn't have all the things I expected.</p>
+          <p>That evening was terrible for me and for my friends, so I'm not satisfied <NS type="RT"><i>about</i><c>with</c></NS> your <NS type="CN"><i>informations</i><c>information</c></NS> and I ask <NS type="MT"><c>for</c></NS> some money back.</p>
+          <p>I hope <NS type="R">in your answer and in your explanation</NS> about this.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>Some days ago, when <NS type="UD"><i>the</i></NS> school was <NS type="RV"><i>ending</i><c>coming to an end</c></NS>, Pat and her friends decided to <NS type="RV"><i>make</i><c>throw</c></NS> a party for their friend, Frances, because the end of the school <NS type="MN"><c>term</c></NS> and <NS type="UD"><i>the</i></NS> Francis's birthday were <NS type="MT"><c>on</c></NS> the same day. That <NS type="RV"><i>might</i><c>should</c></NS> <NS type="TV"><i>be</i><c>have been</c></NS> a secret for Francis - and they decided <NS type="MT"><c>on</c></NS> the <NS type="RN">program</NS> and the present, a new gold watch.</p>
+          <p>Peter and Sue asked <NS type="UT"><i>to</i></NS> Francis <NS type="MT"><c>for</c></NS> some help <NS type="RT"><i>for</i><c>with</c></NS> their <NS type="UP"><i>exam's</i><c>exam</c></NS> <NS type="S"><i>subjets</i><c>subjects</c></NS> and Francis, <NS type="AS"><i>for to help them, was very busy all the week</i><c>all week, was too busy to help them</c></NS>. The last day all the friends went to Pat's home with food, musical instruments, <NS type="MC"><c>and</c></NS> <NS type="MD"><c>a</c></NS> tape recorder. Pat was very excited about this. In the afternoon she had phoned <NS type="UT"><i>at</i></NS> <NS type="UD"><i>a</i></NS> Francis's mother and she <NS type="RV"><i>explained</i><c>told</c></NS> her the secret, then she phoned <NS type="UT"><i>at</i></NS> her best friend and she <NS type="TV"><i>speak</i><c>spoke</c></NS> about that <NS type="RY"><i>too</i><c>again</c></NS>; she phoned <NS type="UT"><i>at</i></NS> many people all <NS type="UD"><i>the</i></NS> day. Now <NS type="RQ"><i>many</i><c>a lot of</c></NS> people knew the secret but Pat <NS type="RV"><i>said</i><c>told</c></NS> everyone: "I <NS type="MV"><c>will</c></NS> tell you a small secret, but <NS type="W"><i>you don't</i><c>don't you</c></NS> speak <NS type="M"><c>about it</c></NS>, please!"</p>
+          <p>In the night Francis was invited to the party, at Pat's home. When he was out he needed to buy some cigarettes so he went to the shop where the owner, <NS type="UD"><i>a</i></NS> his friend, <NS type="TV"><i>ask</i><c>asked</c></NS> him if he was very happy about his present, the new gold watch, he was very lucky to have best friends like Pat and her friends. <NS type="W"><i>The <NS type="UP"><i>Francis's</i><c>Francis</c></NS> secret <NS type="TV"><i>was discovered</i><c>discovered</c></NS></i><c>Francis discovered the secret</c></NS>!</p>
+          <p>Now <NS type="X"><i>all the Pat's friend don't</i><c>none of Pat's friends</c></NS> tell her about their secrets because Pat isn't very good at keeping secrets. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

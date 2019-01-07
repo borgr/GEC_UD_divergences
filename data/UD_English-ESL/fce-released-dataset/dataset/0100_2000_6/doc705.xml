@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR276*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Thank you very much for this <NS type="RN"><i>occasion</i><c>opportunity</c></NS><NS type="MP"><c>.</c></NS> I'd like to travel only in July, because, <NS type="RT"><i>in</i><c>for</c></NS> the rest of the year, I'm working in a bank. The second reason is the weather. I love travelling when the weather is warm. <NS type="RT"><i>About</i><c>Regarding</c></NS> the accommodation, I'd prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>, because <NS type="W"><i>for me and my <NS type="MA"><i>family's</i><c>family it is</c></NS> more comfortable</i><c>it is more comfortable for me and my family</c></NS>. I have a baby and three dogs, so it should be better in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>.</p>
+          <p>I'd like spend all of <NS type="MD"><c>my</c></NS> time in a <NS type="RP"><i>swimming-pool</i><c>swimming pool</c></NS> because I love swimming. I <NS type="W"><i>like also</i><c>also like</c></NS> surfing, because I love the wind in <NS type="R"><i>the</i><c>my</c></NS> hair and <NS type="R">the fresh on my body</NS>.</p>
+          <p><NS type="M"><i>Only</i><c>I have only</c></NS> one question about <NS type="RD"><i>a</i><c>the</c></NS> baby's <NS type="S"><i>accomodation</i><c>accommodation</c></NS>. May I have a babysitter? I'd like to have more free time for myself and my health.</p>
+          <p>I've never been there, so it will be a pleasure for me.</p>
+          <p>Let me say <NS type="W"><i><NS type="RY"><i>still</i><c>again</c></NS> thank you</i><c>thank you again</c></NS>.</p>
+          <p>I'm looking forward to <NS type="SX"><i>meting</i><c>meeting</c></NS> you</p>
+          <p>Best regards</p>
+          <p>Irene Venerio</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? I'm fine. I'm sorry I didn't write <NS type="MT"><c>to</c></NS> you before, but I was so busy with my exams.</p>
+          <p>First of all, I want to tell you what happened last month. Do you remember which is my favourite group? So, <NS type="RP"><i>You</i><c>you</c></NS> <NS type="RV"><i>don't</i><c>won't</c></NS> believe me, but I <NS type="S"><i>enjoed</i><c>enjoyed</c></NS> helping at <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RP"><i>Oasis's</i><c>Oasis</c></NS> <NS type="UJ"><i>pop</i></NS> concert. <NS type="RA"><i>I</i><c>It</c></NS> was a great and wonderful experience. The group <NS type="TV"><i>needs</i><c>needed</c></NS> to <NS type="TV"><i>found</i><c>find</c></NS> a good microphone for the concert, because the singer lost his microphone last concert. Me and my friend were there to hear the sound-check, and when I understood <NS type="MA"><c>what</c></NS> was <NS type="S"><i>happing</i><c>happening</c></NS> on the stage, I decided to help them. Of course you know<NS type="UP"><i>,</i></NS> I'm a singer, so I came back <NS type="S"><i>quigky</i><c>quickly</c></NS> to my home, I picked <NS type="MY"><c>up</c></NS> my microphone, and I handed it to the singer.</p>
+          <p>The concert was absolutely fantastic. I was so glad, because <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="RN"><i>ending</i><c>end</c></NS> of <NS type="MD"><c>the</c></NS> show the singer kissed me and dedicated <NS type="W"><i>to me a lovely song</i><c>a lovely song to me</c></NS>. Can you <NS type="S"><i>immagine</i><c>imagine</c></NS>? <NS type="RP"><i>Ok</i><c>OK</c></NS>, write <NS type="MT"><c>to</c></NS> me soon, huge hug and kisses</p>
+          <p>Yours Irene</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR248*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>During my stay in London I decided to see a musical show called "OVER THE RAINBOW" but, unfortunately<NS type="MP"><c>,</c></NS> I was very disappointed.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, as I have read in your advertisement, Danny Brook should have <NS type="RV"><i>stared</i><c>starred</c></NS> in this show. A different actor <NS type="TV"><i>has appeared</i><c>appeared</c></NS>, <NS type="RC"><i>but</i><c>and</c></NS> I must say that he was very disappointing.</p>
+          <p>Secondly, you have written that the musical starts at 19:30. I had to wait for the show for over <NS type="MP"><i><NS type="S"><i>fourty</i><c>forty</c></NS> five</i><c>forty-five</c></NS> minutes, because it started at about 20:15!</p>
+          <p>What is more, it <NS type="TV"><i>has been</i><c>was</c></NS> <NS type="RV"><i>written</i><c>stated</c></NS> that I <NS type="TV"><i>can</i><c>could</c></NS> get some discounts, but when I wanted to buy a cheaper ticket, it was impossible.</p>
+          <p>You <NS type="RV"><NS type="TV"><i>have also placed</i><c>also placed</c></NS></NS> a note about your theatre restaurant <NS type="FV"><i>opened</i><c>opening</c></NS> after the show. I wanted to <NS type="RV"><i>drink</i><c>have</c></NS> a coffee but<NS type="UP"><i>,</i></NS> unfortunately it was closed, because the waiter <NS type="TV"><i>went</i><c>had gone</c></NS> out!</p>
+          <p>To sum up, I must say that this evening out was supposed to be perfect. It was not<NS type="MP"><c>,</c></NS> of course, so I would like to ask you <NS type="RY">kindly</NS> for my money back, because some information placed in your advertisement about the musical was not true.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>In my opinion modern technology has changed my daily life very much.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, there are now a lot of things that most people use at home. For example: a fridge, a cooker or just <NS type="UD"><i>an</i></NS> electricity. We couldn't imagine our life without them.</p>
+          <p>Secondly, <NS type="DN"><i>thanked</i><c>thanks</c></NS> to <NS type="UD"><i>the</i></NS> technology, there are many ways of travelling today. We produce cars, trains and <NS type="SX"><i>plains</i><c>planes</c></NS> which are better and better.</p>
+          <p>What is more, there are many new ways to produce medicines and modern hospital <NS type="S"><i>equipement</i><c>equipment</c></NS>. It can really help a lot to cure people. Maybe <NS type="RA"><i>it</i><c>there</c></NS> will be a <NS type="RN"><i><NS type="S"><i>remedium</i><c>remedy</c></NS></i><c>cure</c></NS> <NS type="RT"><i>against</i><c>for</c></NS> AIDs or cancer soon.</p>
+          <p>On the other hand, <NS type="UD"><i>the</i></NS> modern technology has some disadvantages.</p>
+          <p>The main <NS type="MA"><c>one</c></NS> is the ozone hole that affects all the people in the world.</p>
+          <p>The second is <NS type="UD"><i>the</i></NS> nuclear <NS type="FN"><i>weapon</i><c>weapons</c></NS> and <NS type="MD"><c>the</c></NS> many wars<NS type="UP"><i>,</i></NS> in which modern <NS type="S"><i>equipement</i><c>equipment</c></NS> is used.</p>
+          <p>To sum up, as far as I am <NS type="S"><i>concidered</i><c>concerned</c></NS>, modern technology has changed my life completely. On the one hand<NS type="MP"><c>,</c></NS> it helps me a lot in daily life, but on the other<NS type="MP"><c>,</c></NS> I'm afraid of the future <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

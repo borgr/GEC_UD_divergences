@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE96*0100*2001*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith.</p>
+          <p>I am writing in response to your letter in order to give you some further information about the international student conference <NS type="RT"><i>in</i><c>at</c></NS> our college.</p>
+          <p>I would like to inform you that your group has been booked into <NS type="MD"><c>the</c></NS> Palace Hotel. It is situated in the <NS type="SA"><i>center</i><c>centre</c></NS> of our town and it takes five minutes to get to the college, where the conference is going to be held. I think that the best <NS type="S"><i>choise</i><c>choice</c></NS> for you is to take the 234 bus. The bus stop <NS type="MY"><c>where</c></NS> you should get off is called "The Green Man".</p>
+          <p>With reference to the end-of-conference party, which is going to take place on Tuesday from 8:00 until midnight, I would like to mention the necessary dress code. It is <NS type="UD"><i>an</i></NS> evening dress for women and black trousers, a white shirt and a black bow tie for men.</p>
+          <p>Lastly, I would like to give you some suggestions about <NS type="FN"><i>way</i><c>ways</c></NS> in which you can spend your free time in our town. I am strongly convinced<NS type="UP"><i>,</i></NS> that you should visit <NS type="MD"><c>the</c></NS> local Science Museum. Also there is a very good shopping <NS type="SA"><i>center</i><c>centre</c></NS> next to the museum.</p>
+          <p>I look forward to seeing <NS type="DA"><i>your</i><c>you</c></NS> at the conference and hope that you will have a good time in our town.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>As <NS type="UA"><i>it</i></NS> is widely known, lots of different and important things were invented during the 20th century, nevertheless I believe that the most important one is the computer.</p>
+          <p>It is a fact<NS type="UP"><i>,</i></NS> that <NS type="UD"><i>the</i></NS> modern society <NS type="AGV"><i>have</i><c>has</c></NS> created the demand for <NS type="RD"><i>the</i><c>an</c></NS> <NS type="RN">ability</NS> to cope with <NS type="UD"><i>the</i></NS> vast amounts of information. Taking <NS type="RA"><i>it</i><c>that</c></NS> into consideration I would like to say that the computer is <NS type="RD"><i>the</i><c>a</c></NS> priceless invention for <NS type="UD"><i>an</i></NS> accountants, designers, engineers and so on <NS type="U"><i>and on</i></NS>. Another <NS type="ID"><i>point in <NS type="MD"><c>their</c></NS> favour</i><c>advantage</c></NS> is <NS type="RD"><i>the</i><c>their</c></NS> <NS type="RN"><i>possibility</i><c>ability</c></NS> to connect to the Internet. It allows you to have all the necessary information "<NS type="ID"><i>on your fingertips</i><c>at your fingertips</c></NS>". Also <NS type="R">not least importantly</NS> is the role of computers in the process of production in factories around the world.</p>
+          <p>On the other hand there are some disadvantages. For instance a lot of children nowadays replace their real life with <NS type="RD"><i>the</i><c>a</c></NS> virtual world<NS type="UP"><i>,</i></NS> which computers create. Another drawback is that in industry computers replace people's labour, which leads to <NS type="UD"><i>the</i></NS> increasing <NS type="UT"><i>of</i></NS> unemployment.</p>
+          <p>To conclude I would like to say that the <NS type="S"><i>goverments</i><c>governments</c></NS> of all developed countries wouldn't have been so concerned about <NS type="MD"><c>the</c></NS> so-called "problem 2000" if the computer had not been so important for <NS type="UD"><i>the</i></NS> modern society.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

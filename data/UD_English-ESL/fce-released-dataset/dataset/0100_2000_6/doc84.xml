@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR338*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>It is so nice to hear the news from you that I have won the first prize. I'm looking forward to getting sun-tanned under the sun in California.</p>
+          <p>Here <NS type="AGV"><i>are</i><c>is</c></NS> the information which you asked me for. I would like to travel in July, because it is the only month that I will be able to take <NS type="W"><i>off days</i><c>days off</c></NS>.</p>
+          <p>Also my kids have school holidays during this month therefore I hope to travel in mid <NS type="UT"><i>of</i></NS> July.</p>
+          <p>I'd prefer to say in log cabins<NS type="RP"><i>. Because</i><c>, because</c></NS> our family had some bad experiences with using tents. Whenever we used a tent, we had bugs or the rain dropped inside the tent.</p>
+          <p>It was very difficult to choose only two of those fascinating activities, but I made a decision, which is Golf and Photography. Since my hobby is taking photos I am very interested in this field and have studied by myself about it. But Golf is an <NS type="DY"><i>absolute</i><c>absolutely</c></NS> new trial. I can imagine myself playing Golf <NS type="RT"><i>in</i><c>on</c></NS> those beautiful Californian golf-courses. Even though I'm poorly skilled.</p>
+          <p><NS type="UY"><i>Especially</i></NS> I wonder what else I have to pack to go there. Inform me if I have to bring special dresses or only outdoor clothes, and also if it is necessary to bring some money <NS type="RT"><i>for</i><c>with</c></NS> me.</p>
+          <p>Thanks</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dearest Kim</p>
+          <p>How are you? I <NS type="RV"><i>wish</i><c>hope</c></NS> you are fine. I'm fine <NS type="RY"><i>either</i><c>too</c></NS> but I'm quite busy <NS type="FV"><i>to find</i><c>finding</c></NS> another part time job after the one, which was <NS type="W"><i>the concert supporting <NS type="MD"><c>the</c></NS> one</i><c>the one supporting the concert</c></NS>.</p>
+          <p>I remember that you asked me to tell you about that job. It was fantastic but a bit hard!</p>
+          <p>First when I got there I realised that I was the only woman and I had to work in the box-office. It was quite terrible when I had to <NS type="RV"><i>let</i><c>make</c></NS> people leave, because all tickets were sold out.</p>
+          <p>Then the concert started, I was called <NS type="RT"><i>from</i><c>by</c></NS> one of the <NS type="IN"><i>staffs</i><c>staff</c></NS> for help, finally I could get into the stadium. The next <NS type="RN"><i>work</i><c>task</c></NS> I was <NS type="TV"><i>gives</i><c>given</c></NS> was ironing costumes. Can you imagine that I touched all of the costumes the singer wore?</p>
+          <p>It was a pity that I had no chance to learn how the sound system works, which I was mostly interested <NS type="MT"><c>in</c></NS>. But it was terrific enough to hear the band performing and to see the audience's reactions, meanwhile the backstage couldn't even <NS type="RV"><i>join</i><c>enjoy</c></NS> that fantastic atmosphere.</p>
+          <p>What I really liked was that every single person had to be responsible for his role, till we left the stadium. And that <NS type="IV"><i>mad</i><c>made</c></NS> the concert absolutely perfect.</p>
+          <p>I <NS type="RV"><i>wish</i><c>hope</c></NS> this is enough to express my feeling and I hope someday we can share such things together.</p>
+          <p>Stay pretty and lovely!</p>
+          <p>Kisses from </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR748*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>18.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>June 5, 2000</p>
+          <p>Dear Ms. Helen Ryan:</p>
+          <p>I am writing this letter because I would like to express my happiness. This is the first time I won a prize in <NS type="AGD"><i>these</i><c>this</c></NS> kind of <NS type="AGN"><i>competitions</i><c>competition</c></NS> so I would like to <NS type="RV"><i>clear</i><c>answer</c></NS> <NS type="R"><i>some</i><c>your</c></NS> <NS type="RN"><i>doubts</i><c>questions</c></NS>.</p>
+          <p>First of all, I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I have a lot of work <NS type="MV"><c>to do</c></NS> and my parents wish to see me <NS type="UT"><i>in</i></NS> this month, so if it is possible to arrange the <NS type="FN"><i>date</i><c>dates</c></NS> <NS type="RA"><i>it</i><c>that</c></NS> would be very nice.</p>
+          <p>Second, I <NS type="RV"><i>use</i><c>used</c></NS> to go to Camps where they only used log cabins so I prefer<NS type="MP"><c>,</c></NS> if it is possible<NS type="MP"><c>,</c></NS> to be in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because it would be a <NS type="RJ"><i>original</i><c>new</c></NS> experience <NS type="M"><c>for me</c></NS>.</p>
+          <p>Third, I love playing basketball<NS type="RP"><i>,</i><c>.</c></NS> I am a great player and I play <NS type="RT"><i>with</i><c>for</c></NS> my University and I like to be playing all the time so <NS type="W"><i>this activity I will not <NS type="TV"><i>missed</i><c>miss</c></NS></i><c>I will not miss this activity</c></NS>. The other activity would be <NS type="RN"><i>surf</i><c>surfing</c></NS>. I think <NS type="MA"><c>it</c></NS> is very cool and I want to learn.</p>
+          <p>Finally, I want to know what kind of <NS type="DN"><i>clothe</i><c>clothing</c></NS> I will need and if have to take <NS type="MQ"><c>any</c></NS> money <NS type="R"><i>for</i><c>to spend at the</c></NS> shops or markets.</p>
+          <p>Looking forward to hearing from you soon.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>,</p>
+          <p>Jason Andre.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable. You have to be <NS type="W"><i>all the time walking</i><c>walking all the time</c></NS>, so your legs will feel <NS type="DJ"><i>pain</i><c>painful</c></NS><NS type="U"><i><NS type="DJ"><i>, hurted</i><c>, hurt</c></NS></i></NS> at the <NS type="ID"><i>final of the day</i><c>end of the day</c></NS><NS type="RP"><i>, you</i><c>. You</c></NS> will be very tired and you <NS type="TV"><i>would</i><c>will</c></NS> want to <NS type="RV"><i>hang around</i><c>rest</c></NS> for two months.</p>
+          <p>If I go alone <NS type="MA"><c>it</c></NS> is very fast and I enjoy it but if I <NS type="TV"><i>go</i><c>went</c></NS> with my mother it would be horrible, I <NS type="TV"><i>will</i><c>would</c></NS> have to <NS type="RV"><i>do</i><c>make</c></NS> a sacrifice. I <NS type="TV"><i>will</i><c>would</c></NS> have to <NS type="FV"><i>be waiting</i><c>wait</c></NS> until my mother <NS type="TV"><i>decides</i><c>decided</c></NS> which is the best place to buy her dress.</p>
+          <p>She <NS type="TV"><i>will</i><c>would</c></NS> see if it is pretty or not, if it is <NS type="RT"><i>in</i><c>on</c></NS> <NS type="RN"><i>discount</i><c>sale</c></NS> at <NS type="AGQ"><i>other</i><c>another</c></NS> store<NS type="MP"><c>,</c></NS> we <NS type="TV"><i>will</i><c>would</c></NS> not buy the dress and we <NS type="TV"><i>will</i><c>would</c></NS> have to go to the other store to see the other dress, but <NS type="R"><i>at the final of</i><c>after</c></NS> seeing all the stores and looking <NS type="MT"><c>at</c></NS> all the dresses she <NS type="TV"><i>will</i><c>would</c></NS> <NS type="FV"><i>decided</i><c>decide</c></NS> <NS type="RT"><i>for</i><c>on</c></NS> the first <NS type="MA"><c>one</c></NS> we saw. It <NS type="RV"><i>is</i><c>would be</c></NS> horrible.</p>
+          <p><NS type="MA"><i>Is</i><c>It is</c></NS> like a nightmare.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

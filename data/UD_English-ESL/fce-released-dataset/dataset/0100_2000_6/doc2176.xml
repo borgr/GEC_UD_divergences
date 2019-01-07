@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR878*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan</p>
+          <p>I am writing in connection with the competition I entered a month ago. I received your letter, and I was delighted to know that I won it. As requested, below <NS type="AGV"><i>are</i><c>is</c></NS> some further information and some <NS type="RN"><i>enquiries</i><c>questions</c></NS>.</p>
+          <p>I would be able to travel only after the end of my exams which are taking place in June. So, I think that July would suit me best.</p>
+          <p>As far as <NS type="S"><i>accomodation</i><c>accommodation</c></NS> is concerned, I would prefer <NS type="FV"><i>sleeping</i><c>to sleep</c></NS> in a <NS type="AGN"><i>tents</i><c>tent</c></NS>. I have been travelling every summer since I was eighteen years of age and this type of <NS type="S"><i>accomodation</i><c>accommodation</c></NS> is part of the ritual.</p>
+          <p>I would <NS type="W"><i>enjoy <NS type="RY"><i>a lot</i><c>very much</c></NS></i><c>very much enjoy</c></NS> playing tennis because it is a sport I love and I am really good <NS type="RT"><i>in</i><c>at</c></NS> it. In addition I would love to <NS type="RV"><i>follow</i><c>attend</c></NS> the photography classes <NS type="RP"><i>eventhough</i><c>even though</c></NS> I have never tried to take a picture before.</p>
+          <p>I hope I <NS type="TV"><i>gave</i><c>have given</c></NS> you all the information you needed. From my <NS type="RN"><i>part</i><c>point of view</c></NS>, I would just like to know what sort of clothes <NS type="W"><i>should I</i><c>I should</c></NS> bring with me and also how much money.</p>
+          <p>Thanking you in advance, I am looking forward to your prompt <NS type="S"><i>respons</i><c>response</c></NS> to my <NS type="RN"><i>enquiries</i><c>questions</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>I got your letter yesterday and I was really glad to hear from you... it's been ages since you last wrote to me! I've done so many <NS type="SX"><i>thinks</i><c>things</c></NS> <NS type="R"><i>and between them</i><c>including</c></NS> I went to Glastonbery (as you know)!</p>
+          <p><NS type="R"><i>It</i><c>The festival</c></NS> lasted three days and <NS type="TV"><i>I've had</i><c>I had</c></NS> the best fun of my life. I went as a <NS type="S"><i>voluntier</i><c>volunteer</c></NS> <NS type="UN"><i>staff</i></NS> in order to go for free. I had to help the Green Peace <NS type="SX"><i>teems</i><c>teams</c></NS> to recycle everything we could.</p>
+          <p><NS type="RA"><i>We</i><c>There</c></NS> were more or less two hundred students doing the same job. Our duty was to work eight <NS type="SX"><i>ours</i><c>hours</c></NS> each day and then we were free to enjoy the rest of the day as we liked.</p>
+          <p>The <NS type="S"><i>accomodation</i><c>accommodation</c></NS> and the food were part of the contract... everything free. They provided us <NS type="MT"><c>with</c></NS> tents and also a VIP pass in order to get food.</p>
+          <p>Oh my God!!! It <NS type="TV"><i>has been</i><c>was</c></NS> the best experience you can <NS type="RP"><i>Imagine</i><c>imagine</c></NS>. I met lots of nice <NS type="UC"><i>and</i></NS> cool people, and what I most enjoyed was the crazy <NS type="S"><i>atmospher</i><c>atmosphere</c></NS> of the <NS type="SX"><i>hole</i><c>whole</c></NS> thing. No matter how hard we had to work, everyone <NS type="RV"><i>had</i><c>was</c></NS> always <NS type="RJ"><i><NS type="DJ"><i><NS type="SA"><i>humor</i><c>humour</c></NS></i><c>humorous</c></NS></i><c>funny</c></NS> and <NS type="MT"><c>in</c></NS> a positive mood.</p>
+          <p>So, I'll sign off now and I hope you'll write soon.</p>
+          <p>Lots of love</p>
+          <p>Irene</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

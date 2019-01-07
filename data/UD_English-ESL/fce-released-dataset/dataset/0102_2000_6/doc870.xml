@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR352*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sirs</p>
+          <p>We are <NS type="IV"><i>writting</i><c>writing</c></NS> to you to complain about the musical show "Over the Rainbow", <NS type="MA"><c>which</c></NS> we saw last week in your Theatre.</p>
+          <p>We have spent a week's holiday in London and wanted to see a musical <NS type="UN"><i>show</i></NS>. We read an advertisement about your <NS type="UJ"><i>musical</i></NS> show, <NS type="FV"><i>starred</i><c>starring</c></NS> <NS type="UT"><i>by</i></NS> the well-known Danny Brook and Tina Truelove<NS type="MP"><c>,</c></NS> in a local newspaper</p>
+          <p>We were very disappointed to hear that the actor was replaced by <NS type="AGQ"><i>other</i><c>another</c></NS> <NS type="MA"><c>one</c></NS> at the last minute. The advertisement said that it starts at 19.30, but it <NS type="W"><i>started actually</i><c>actually started</c></NS> at 20:15 due to <NS type="RD"><i>the</i><c>a</c></NS> <NS type="S"><i>probleme</i><c>problem</c></NS> <NS type="RT"><i>of</i><c>with</c></NS> the sound. We were also surprised to discover that the student discounts <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> available for us, because they didn't accept our student <NS type="S"><i>indentity</i><c>identity</c></NS> <NS type="FN"><i>card</i><c>cards</c></NS> from Switzerland.</p>
+          <p>We were very frustrated to read on the door of the theatre restaurant "<NS type="RJ"><i>Close</i><c>Closed</c></NS> due to holidays"<NS type="MP"><c>,</c></NS> specially when we were <NS type="RY"><i>very</i><c>really</c></NS> starving.</p>
+          <p>This evening was a waste of time. So we <NS type="TV"><i>asked</i><c>ask</c></NS> you for our money back.</p>
+          <p>I <NS type="MV"><c>am</c></NS> looking forward to hearing from you soon.</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Could you figure out how your life <NS type="TV"><i>will</i><c>would</c></NS> be without <NS type="U"><i>all the</i></NS> modern technology? What is the effect <NS type="UT"><i>of</i></NS> it <NS type="MV"><c>has</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> your <NS type="S"><i>environement</i><c>environment</c></NS>? Were <NS type="UD"><i>the</i></NS> people happier in <NS type="RD"><i>a</i><c>the</c></NS> past than <NS type="RP"><i>to day</i><c>today</c></NS>? If you are interested in the question, you will be interested <NS type="RT"><i>by</i><c>in</c></NS> this article.</p>
+          <p>Nowadays, <NS type="UD"><i>the</i></NS> technology takes <NS type="MY"><c>up</c></NS> a large <NS type="RN"><i>place</i><c>part</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> your daily life and improves the speed of <NS type="R">the achievement</NS>. For example at work, we look <NS type="RT"><i>on</i><c>at</c></NS> the computer screen all day, sending e-mail <NS type="RT"><i>at</i><c>to</c></NS> the other side of the world, doing some <NS type="RN"><i>searches</i><c>research</c></NS> etc. We gain a lot of time with <NS type="MD"><c>the</c></NS> computer, but if your computer <NS type="IV"><i>brooks</i><c>broke</c></NS> down, you couldn't do anything because everything is on it.</p>
+          <p><NS type="UD"><i>The technology</i><c>Technology</c></NS> moves very fast<NS type="MP"><c>,</c></NS> specially in the <NS type="RN"><i><NS type="S"><i>domaine</i><c>domain</c></NS></i><c>area</c></NS> of transportation. <NS type="UD"><i>The cars</i><c>Cars</c></NS> are able to reach <NS type="W"><i>300 km per <NS type="AGN"><i>hours</i><c>hour</c></NS> speed</i><c>speeds of 300 km per hour</c></NS> and are more reliable than in the past.</p>
+          <p>The major <NS type="S"><i>probleme</i><c>problem</c></NS> for the <NS type="DJ"><i>industry</i><c>industrial</c></NS> cities is to deal with the bad <NS type="FN"><i>effect</i><c>effects</c></NS> of <NS type="S"><i>polution</i><c>pollution</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="S"><i>environement</i><c>environment</c></NS>. A lot of money <NS type="AGV"><i>are</i><c>is</c></NS> involved in research to stop the <NS type="DN"><i>increasing</i><c>increase</c></NS> <NS type="MT"><c>in</c></NS> <NS type="MN"><c>levels</c></NS> of <NS type="S"><i>polution</i><c>pollution</c></NS>.</p>
+          <p>To sum up, all the improvements <NS type="ID"><i>have a price to pay</i><c>come at a price</c></NS><NS type="RP"><i>; The</i><c>: the</c></NS> condition of the <NS type="S"><i>environement</i><c>environment</c></NS>. We are too <NS type="RJ"><i>reliable</i><c>dependent</c></NS> <NS type="RT"><i>at</i><c>on</c></NS> technology today. But we can ask <NS type="RA"><i>us</i><c>ourselves</c></NS><NS type="MP"><c>,</c></NS> "What will <NS type="UV"><i>be</i></NS> happen in 50 years?<NS type="MP"><c>"</c></NS> Our children will be able to travel <NS type="RT"><i>in</i><c>to</c></NS> the moon as we travel to Japan?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

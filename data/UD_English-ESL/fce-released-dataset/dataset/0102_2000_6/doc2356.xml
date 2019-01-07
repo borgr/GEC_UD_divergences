@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR945*0102*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Madam or Sir,</p>
+          <p>During my recent holiday in London I visited one of your shows <NS type="RT"><i>in</i><c>at</c></NS> the "Circle Theatre". The show was called "Over the rainbow" and should be, <NS type="R"><i>in <NS type="DN"><i>refer</i><c>reference</c></NS> to</i><c>to quote</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS>, London's newest and best musical show. But I was very disappointed. I was very pleased that the main actors listed on the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> were Danny Brook and Tina Truelove. When I saw that you had changed Danny Brook <NS type="RT"><i>to</i><c>for</c></NS> someone else I was very disappointed.</p>
+          <p>Moreover I would like to tell you that the show should <NS type="MV"><c>have</c></NS> begun at 19:30 but it started <NS type="RT"><i>with</i><c>after</c></NS> a delay of 45 minutes. I do not think that this delay is acceptable. Furthermore you <NS type="TV"><i>have</i><c>had</c></NS> mentioned some discounts in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS>, but I had to pay the full price although I am a student.</p>
+          <p>Even your theatre restaurant was closed for repairs. The perfect evening you promised in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> was the complete opposite and that is <NS type="R"><i>what</i><c>why</c></NS> I want to get some money back from you.</p>
+          <p>I am looking forward to <NS type="FD"><i>an</i><c>a</c></NS> <NS type="RJ"><i>early</i><c>prompt</c></NS> answer.</p>
+          <p>Yours faithfully</p>
+          <p>Herman Ruter</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Pat and I have been friends for a long time. We have had a lot of fun together because we <NS type="TV"><i>had</i><c>have</c></NS> the same interests. When we were 15 years old we decided to drive <NS type="UT"><i>with</i></NS> my mother's car on a day when my parents were absent. I told Pat to keep in mind that my parents would be very angry if they got to know <NS type="MT"><c>about</c></NS> <NS type="RA"><i>that</i><c>this</c></NS>. Pat promised <NS type="UA"><i>me</i></NS> to tell nobody about our <NS type="RN">purpose</NS>. Two days later my father asked me whether I had <NS type="W"><i>thought at any time</i><c>at any time thought</c></NS> <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to drive</i><c>driving</c></NS> a car without a <NS type="MP"><i>drivers</i><c>driver's</c></NS> <NS type="SA"><i>license</i><c>licence</c></NS> because he had heard <NS type="MT"><c>about</c></NS> <NS type="RA"><i>that</i><c>it</c></NS> from some parents of my friends at school. He told me <NS type="MT"><c>for</c></NS> two hours what could happen if I <NS type="UV"><i>would</i></NS> <NS type="TV"><i>do</i><c>did</c></NS> that. I was very surprised because Pat and I were <NS type="R"><i>along</i><c>alone</c></NS> when we decided to do <NS type="RA"><i>that</i><c>it</c></NS>.</p>
+          <p>The next day Pat told me that he wanted to be admired by some girls and so he had to tell them our secret.</p>
+          <p>I felt very disappointed <NS type="R"><i>in this moment</i><c>then</c></NS> but I have learned something new about humans; <NS type="MA"><c>it</c></NS> is <NS type="MC"><c>that</c></NS> you can only trust yourself. Pat and I <NS type="TV"><i>have still been</i><c>are still</c></NS> good friends but we have never <NS type="RV"><i>had</i><c>shared</c></NS> <NS type="RP"><i>an other</i><c>another</c></NS> secret <NS type="UY"><i>together</i></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

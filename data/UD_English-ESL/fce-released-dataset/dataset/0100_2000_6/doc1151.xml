@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR467*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>13/JUNE/2000</p>
+          <p>DEAR HELEN RYAN,</p>
+          <p>FIRST OF ALL<NS type="MP"><c>,</c></NS> I WOULD LIKE TO THANK YOU FOR GIVING ME <NS type="MD"><c>THE</c></NS> <NS type="RN"><i>NOTICE</i><c>NEWS</c></NS> <NS type="RT"><i>OF</i><c>ABOUT</c></NS> MY PRIZE. <NS type="RT"><i>ABOUT</i><c>REGARDING</c></NS> YOUR QUESTIONS I WOULD RESPOND THAT JULY WOULD BE THE MONTH I COULD GO TO THE CAMP, <NS type="U"><i>ALL THIS IS OF</i></NS> BECAUSE MY JOB FINISHES AT THE END OF JUNE. THAT WAY I SHOULD HAVE PLENTY OF TIME AVAILABLE FOR THE CAMP.</p>
+          <p><NS type="FV"><i>ANSWERING</i><c>TO ANSWER</c></NS> <NS type="UT"><i>TO</i></NS> <NS type="DD"><i>YOU'RE</i><c>YOUR</c></NS> NEXT QUESTION, I <NS type="MV"><c>WOULD</c></NS> RATHER STAY <NS type="RT"><i>AT</i><c>IN</c></NS> A LOG CABIN<NS type="RP"><i>,</i><c>.</c></NS> THE THING IS<NS type="MP"><c>,</c></NS> I HAVE <NS type="MD"><c>A</c></NS> <NS type="S"><i>FOBIA</i><c>PHOBIA</c></NS> <NS type="RT"><i>TOWARDS</i><c>ABOUT</c></NS> INSECTS AND MY DOCTOR <NS type="S"><i>RECOMENDED</i><c>RECOMMENDED</c></NS> <NS type="R"><i>ME</i><c>THAT</c></NS> I SHOULD SLEEP IN <NS type="RJ"><i>A CLOSED</i><c>AN ENCLOSED</c></NS> AREA.</p>
+          <p><NS type="RT"><i>FOR</i><c>REGARDING</c></NS> THE QUESTION YOU <NS type="RV"><i>MADE</i><c>ASKED</c></NS> ABOUT ACTIVITIES MY ANSWER WOULD BE CLIMBING AND SWIMMING. I CHOOSE <NS type="AGD"><i>THIS</i><c>THESE</c></NS> TWO ACTIVITIES BECAUSE I USED TO <NS type="RV"><i><NS type="DV"><i>PRACTICE</i><c>PRACTISE</c></NS></i><c>DO</c></NS> THEM <NS type="MD"><c>A</c></NS> LONG TIME AGO AND BESIDES I WOULD SAY I HAVE THE SKILLS AND ABILITY TO <NS type="RV"><i>MAKE</i><c>DO</c></NS> THEM.</p>
+          <p>ONE MORE <NS type="R"><i>THIN</i><c>THING</c></NS> THAT <NS type="AS"><i>IS OF MY CONCERN</i><c>IS CONCERNING ME</c></NS> AND <NS type="MA"><c>WHICH</c></NS> YOU DIDN'T MENTION. I WOULD LIKE TO ASK YOU IF IT'S <NS type="S"><i>NECESARY</i><c>NECESSARY</c></NS> TO TAKE MONEY, FOOD AND CLOTHES WITH ME.</p>
+          <p>WITH NOTHING FURTHER <NS type="MV"><c>TO ADD</c></NS>, I WOULD LIKE TO THANK YOU ONCE AGAIN</p>
+          <p>YOURS SINCERELY</p>
+          <p>AMIDIO S.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>STUDENT REPORT</p>
+          <p>NOW THAT THE STUDENTS HAVE <NS type="TV"><i>GATHER</i><c>GATHERED</c></NS> <NS type="RY"><i>UP</i><c>TOGETHER</c></NS> THIS YEAR TO MAKE A VIDEO ABOUT THE BEST LESSONS AND ACTIVITIES THAT WE HAVE IN SCHOOL, <NS type="R"><NS type="RP"><i>EVERY THING</i><c>EVERYTHING</c></NS> <NS type="S"><i>POSIBLE</i><c>POSSIBLE</c></NS> OF COURSE WITH HELP OF TEACHER MS. WESTBROOK</NS>.</p>
+          <p>IT WOULD BE MY SUGGESTION TO THE PRODUCERS OF THIS VIDEO THAT THEY SHOULD <NS type="UV"><i>GET</i></NS> <NS type="TV"><i><NS type="S"><i>FOUCOSED</i><c>FOCUSED</c></NS></i><c>FOCUS</c></NS> <NS type="RT"><i>IN</i><c>ON</c></NS> OUR WRITING AND <NS type="S"><i>CULTURS</i><c>CULTURE</c></NS> LESSONS. FOR <NS type="S"><i>CULTUR</i><c>CULTURE</c></NS> LESSONS WE DON'T NEED TO GO SO <NS type="MY"><c>FAR</c></NS> BACK IN <NS type="FN"><i>TIMES</i><c>TIME</c></NS><NS type="RP"><i>,</i><c>;</c></NS> FOR THE LAST 60 YEARS OUR <NS type="FN"><i>CULTURES</i><c>CULTURE</c></NS> <NS type="AGV"><i>HAVE</i><c>HAS</c></NS> BEEN CHANGING ENORMOUSLY <NS type="MC"><c>AND</c></NS> WE CAN TALK ABOUT COMPUTERS, WARS, CARS, WEAPONS, ETC....</p>
+          <p>STUDENTS SHOULD BE AWARE <NS type="RT"><i>ABOUT</i><c>OF</c></NS> WHAT'S HAPPENING <NS type="RT"><i>WITH</i><c>IN</c></NS> THEIR LIVES<NS type="RP"><i>;</i><c>,</c></NS> <NS type="RV"><i>DON'T</i><c>SHOULDN'T</c></NS> THEY?</p>
+          <p>MY NEXT SUGGESTION WOULD BE SPORTS. <NS type="S"><i>ALTHOUG</i><c>ALTHOUGH</c></NS> LOTS OF PEOPLE DON'T <NS type="S"><i>BELIVE</i><c>BELIEVE</c></NS> IT, <NS type="R"><i>SPORTS ARE THE IMAGE OF OUR SCHOOL</i><c>OUR SCHOOL HAS A SPORTING IMAGE</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I THINK THE VIDEO WOULD <NS type="S"><i>ENCOURGE</i><c>ENCOURAGE</c></NS> STUDENTS TO DO SPORTS AND BE GOOD <NS type="S"><i>ATHLETS</i><c>ATHELETES</c></NS>. BESIDES<NS type="MP"><c>,</c></NS> THAT WOULD KEEP US <NS type="R"><i>OUT OF</i><c>AWAY FROM</c></NS> DRUGS, DON'T YOU THINK <NS type="UY"><i>SO</i></NS>?</p>
+          <p>THANKS.</p>
+          <p>AMIDIO S.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

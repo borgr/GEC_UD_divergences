@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE77*0100*2001*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I would like to thank you for your letter. I am sorry to learn that Richard Brown cannot attend the conference. Please <NS type="RV"><i>transmit</i><c>give</c></NS> him my best wishes for his recovery.</p>
+          <p>We have booked rooms for all members of your group at the Palace Hotel. It is a very cosy building that is on the same avenue as the conference building, <NS type="DY"><i>approximetively</i><c>approximately</c></NS> one mile away. There is a direct bus link between the two locations: this is <NS type="MD"><c>the</c></NS> <NS type="W"><i>bus line number six</i><c>number six bus line</c></NS>; the <NS type="RN"><i>bus station</i><c>bus stop</c></NS> for the conference building is called "Avenue de cour" and the one at the Palace Hotel is named "Main station".</p>
+          <p>Concerning the party<NS type="MP"><c>,</c></NS> we do not have a casual <NS type="DN"><i>dressing code</i><c>dress code</c></NS>. <NS type="RP"><i>students</i><c>Students</c></NS> usually wear dark clothes<NS type="MP"><c>,</c></NS> with a tie for the boys and a <NS type="DJ"><i>mid-long</i><c>medium-length</c></NS> skirt or dress for the girls.</p>
+          <p>There are a lot of activities you can do during your free afternoon. I would like to suggest visiting the "Ethnographic Museum<NS type="RP"><i>,,</i><c>"</c></NS> which is <NS type="L">kind of</NS> unique in the world.</p>
+          <p>Looking forward to meeting you soon</p>
+          <p>I remain, yours sincerely<NS type="RP"><i>.</i><c>,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>The car:</p>
+          <p>I think that the car is one of the human inventions that has <NS type="UD"><i>the</i></NS> most affected the way of life of people from industrial countries.</p>
+          <p>Nowadays <NS type="CE">more than the percents</NS> of <NS type="UD"><i>the</i></NS> world industry is related to the automotive business: car manufacturing, <NS type="RN"><i>gasoline</i><c>oil</c></NS> <NS type="DN"><i>extracting</i><c>extraction</c></NS> and refining, <NS type="FN"><i>tyres</i><c>tyre</c></NS> recycling, and so on.</p>
+          <p>The industrial countries have encountered <NS type="RJ"><i>deep</i><c>great</c></NS> <NS type="RN"><i>evolution</i><c>change</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> their <NS type="RN"><i>strictures</i><c>structures</c></NS> since the car has been made available to everyone.</p>
+          <p>At the beginning of the last <NS type="RP"><i>Century</i><c>century</c></NS> only a few very rich people could afford a car; it was <NS type="MD"><c>a</c></NS> kind of leisure or sport to drive one. Today almost everyone owns a car and needs it for daily activities. The transport network has changed <NS type="RT"><i>according to</i><c>in accordance with</c></NS> this social evolution.</p>
+          <p>The increasing number of <NS type="CE">cars related and infrastructure</NS> <NS type="AGV"><i>are</i><c>is</c></NS> now <NS type="S"><i>creeting</i><c>creating</c></NS> problems.</p>
+          <p>A lot of roads and motorways are overcrowded, and <NS type="DJ"><i><NS type="S"><i>enviromment</i><c>environment</c></NS></i><c>environmental</c></NS> <NS type="RN"><i>issues</i><c>problems</c></NS> are more and more related to the intensive use of cars and lorries.</p>
+          <p>People and governments are concerned about how to limit the effects of cars on the <NS type="S"><i>enviromment</i><c>environment</c></NS> without <NS type="RV"><i>impacting</i><c>affecting</c></NS> their mobility.</p>
+          <p>This will be a tough challenge for this new century.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

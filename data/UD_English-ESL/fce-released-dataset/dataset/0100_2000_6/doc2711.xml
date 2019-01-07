@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR775*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Helen Ryan:</p>
+          <p>I am very happy to know I won the prize <NS type="RT"><i>for</i><c>of</c></NS> two weeks at Camp California in the U.S.A.</p>
+          <p>I think I would like to travel only in July because at that time I am going to be free to travel because of my <NS type="W"><i>holidays <NS type="U"><i>in the</i></NS> school</i><c>school holidays</c></NS>.</p>
+          <p>I would rather <NS type="FV"><i>to stay</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because I have stayed in tents before and I liked <NS type="MA"><c>it</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> is more <NS type="S"><i>pleasent</i><c>pleasant</c></NS> than <NS type="FV"><i>stay</i><c>staying</c></NS> in log cabins and it is such a wonderful experience.</p>
+          <p><NS type="IV"><i>Refering</i><c>Referring</c></NS> <NS type="RT"><i>about</i><c>to</c></NS> sports<NS type="MP"><c>,</c></NS> I would choose swimming and basketball, because when I was a child I used to swim a lot, I won a lot of prizes and I went to a lot of competitions. About basketball, I would say I like <NS type="W"><i>it to play</i><c>to play it</c></NS> as well because it was my favourite sport in highschool<NS type="RP"><i>,</i><c>.</c></NS> I was not as good <NS type="M"><c>at it</c></NS> as <NS type="R"><i>in</i><c>I was at</c></NS> swimming but I like it.</p>
+          <p>I think I do not have anything to ask you, I just want to thank you for everything.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>I agree that shopping is not always <NS type="S"><i>ejoyable</i><c>enjoyable</c></NS> because a lot of things <NS type="TV"><i>could</i><c>can</c></NS> <NS type="RV"><i>occur</i><c>happen</c></NS> <NS type="MT"><c>to</c></NS> you.</p>
+          <p>I remember when I was younger I used to go with my mom <NS type="W"><i>shopping to the stores</i><c>to the stores shopping</c></NS> but I did not like it, because I found <NS type="MA"><c>it</c></NS> boring to buy clothes<NS type="MP"><c>,</c></NS> spending a lot of hours in a <NS type="RN"><i>commercial centre</i><c>shopping centre</c></NS>.</p>
+          <p>Another bad thing <NS type="TV"><i>could be</i><c>was</c></NS> the enormous queues in the supermarkets<NS type="RP"><i>, it</i><c>. It</c></NS> is incredible how <NS type="CQ"><i>many</i><c>much</c></NS> time you can spend in there.</p>
+          <p><NS type="UD"><i>The last</i><c>Last</c></NS> month <NS type="MA"><c>there</c></NS> was a robbery in a <NS type="RN"><i>commercial centre</i><c>shopping centre</c></NS> next to my house<NS type="RP"><i>, somebody</i><c>. Somebody</c></NS> stole a lady's purse with all her <NS type="CN"><i>identifications</i><c>identification</c></NS>, credit cards and cash, even <NS type="UJ"><i>more</i></NS> her <NS type="RN"><i>flight</i><c>plane</c></NS> ticket. Therefore she had to do a lot of <NS type="DN">tramits</NS> to <NS type="S"><i>cancell</i><c>cancel</c></NS> <NS type="RD"><i>their</i><c>her</c></NS> credit cards and to change her <NS type="RN"><i>flight</i><c>plane</c></NS> ticket. Unlucky lady.</p>
+          <p>To sum up I would say that even <NS type="RC"><i>when</i><c>if</c></NS> shopping is not <NS type="UY"><i>always</i></NS> enjoyable we have to do it because we do not have another option.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

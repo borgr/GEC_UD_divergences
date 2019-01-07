@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR944*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about the show, "Over the Rainbow"<NS type="MP"><c>,</c></NS> which I saw in your theatre last week. I was really disappointed because the show was far from what I expected.</p>
+          <p>First of all, I was really expecting to see Danny Brook, my favourite actor. However, he was not on the stage that day. <NS type="DY"><i>Secondally</i><c>Secondly</c></NS> the show started late and I had to wait for 45 minutes <NS type="UT"><i>without</i></NS> doing <NS type="RA"><i>anything</i><c>nothing</c></NS>. It was a waste of time. I also thought that there should have been discounts for students, which in fact <NS type="AGV"><i>was</i><c>were</c></NS> not available and I had to pay <NS type="UT"><i>for</i></NS> <NS type="MD"><c>the</c></NS> normal price. <NS type="RP"><i><NS type="S"><i>Furthur</i><c>Further</c></NS> more</i><c>Furthermore</c></NS>, the restaurant in the theatre was closed after the show because of the delay. I had to go home without eating <NS type="UD"><i>a</i></NS> dinner, though I was really hungry.</p>
+          <p>I have to say that the evening was terrible. If I had known <NS type="R">all of them</NS>, I would have changed my plan and could <NS type="TV"><i>have</i><c>have had</c></NS> a better time.</p>
+          <p>I strongly suggest you <NS type="UV"><i>should</i></NS> give us <NS type="MD"><c>the</c></NS> right information. I <NS type="W"><i>also would</i><c>would also</c></NS> like to claim <NS type="RD"><i>some</i><c>a</c></NS> refund for the evening.</p>
+          <p>I hope this matter will receive your prompt attention.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Fashion in 100 years</p>
+          <p>If you compare the fashion now with that of 100 years ago, you'll notice that there are <NS type="S"><i>incredably</i><c>incredibly</c></NS> big <NS type="AGN"><i>difference</i><c>differences</c></NS> between them. People have become more informal, casual and practical than before. But how about the fashion of the future, for example, 100 years from now?</p>
+          <p>I think it'll also be very different from now. But in <NS type="RA"><i>which</i><c>what</c></NS> way?</p>
+          <p>First of all, people might think more about the function of clothes than the design. For example, they'll wear <NS type="UD"><i>a</i></NS> <NS type="RN"><i>cloth</i><c>clothing</c></NS> which <NS type="AGV"><i>protect</i><c>protects</c></NS> <NS type="RA"><i>themselves</i><c>them</c></NS> from air pollution, sunshine etc.</p>
+          <p>Imagine that all the people have masks on their <NS type="S"><i>mouthes</i><c>mouths</c></NS> and noses like we have sun-glasses, and that all the masks are <NS type="FN"><i>designers</i><c>designer</c></NS> brands, which are made of <NS type="MD"><c>a</c></NS> special material to prevent us from breathing in polluted air. It's like a joke, but a bit <NS type="DJ"><i>scarely</i><c>scary</c></NS>.</p>
+          <p>Imagine that all the people have hats with <NS type="RJ"><i>big</i><c>broad</c></NS> <NS type="RN"><i>edges</i><c>brims</c></NS> to protect their faces from <NS type="MD"><c>the</c></NS> <NS type="RN"><i><NS type="UP"><i>sun-burn</i><c>sunburn</c></NS></i><c>sun</c></NS>, and it's the <NS type="IJ"><i>most trendy</i><c>trendiest</c></NS> fashion of the year!</p>
+          <p>It's funny. But we never know!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

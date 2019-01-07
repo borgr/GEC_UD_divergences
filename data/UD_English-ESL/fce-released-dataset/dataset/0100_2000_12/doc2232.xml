@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR97*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I am representing an English class, which is going on a three-day London tour.</p>
+          <p>We would like to thank you for organising our programme. We really appreciate your attention. The programme you suggest is versatile and full of interesting activities. We are eager to attend <NS type="MD"><c>the</c></NS> National Art Gallery and Science Museum.</p>
+          <p>But we would like to make <NS type="RD"><i>our</i><c>a</c></NS> suggestion, if you don't mind. We have seen an advertisement for the London Fashion and Leisure Show and would like to go to this exciting show. It will take place in the Central Exhibition Hall on Tuesday <NS type="UT"><i>on</i></NS> the 14th of March from 10 a.m. to <NS type="ID"><i>19 p.m.</i><c>7 p.m.</c></NS></p>
+          <p>Our students will have a great opportunity <NS type="UT"><i>of</i></NS> <NS type="FV"><i>seeing</i><c>to see</c></NS> the latest <NS type="FN"><i>fashion</i><c>fashions</c></NS>, as this unique show is held only once a year. What's more, new hairstyles and leisure and sports wear are presented there. And apart from <NS type="RA"><i>it</i><c>that</c></NS>, this <NS type="RN"><i>activity</i><c>event</c></NS> is free of charge.</p>
+          <p>We would be very grateful if you could change our programme for Tuesday afternoon. We are thinking here particularly of the fact<NS type="UP"><i>,</i></NS> that we can go to the show, instead of shopping.</p>
+          <p>We sincerely hope that you will consider our suggestion.</p>
+          <p><NS type="RY"><i>Faithfully</i><c>Sincerely</c></NS> yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>We tend to think that famous people, such as politicians and film stars<NS type="MP"><c>,</c></NS> are very happy and satisfied with their life. But such an attitude is wrong. It is quite obvious<NS type="UP"><i>,</i></NS> that <NS type="S"><i>celebreties</i><c>celebrities</c></NS> can't lead a normal life, as they are constantly followed by reporters, <NS type="RA"><i>what</i><c>which</c></NS> makes their life miserable.</p>
+          <p>The first point I would like to make is that <NS type="RD"><i>a</i><c>the</c></NS> private life of a celebrity is open to <NS type="MD"><c>the</c></NS> public. I am thinking here particularly of the fact that every event and action is <NS type="S"><i>wildely</i><c>widely</c></NS> discussed in the mass-media. It is common knowledge<NS type="UP"><i>,</i></NS> that such <NS type="UD"><i>an</i></NS> attention inevitably tells on relationships in the family.</p>
+          <p>Another aspect is that <NS type="MD"><c>the</c></NS> children of famous people suffer a lot from this attention. They can't communicate with ordinary children <NS type="RC"><i>and</i><c>or</c></NS> attend ordinary schools.</p>
+          <p>And last, but not least<NS type="MP"><c>,</c></NS> is the fact that famous people can't express their emotions, <NS type="FV"><i>show</i><c>showing</c></NS> their real feelings to <NS type="MD"><c>the</c></NS> public. And it tells on their attitude to life and on their character. I would like to stress that very often famous people become reserved, bad-tempered and angry with the world for interfering <NS type="RT"><i>into</i><c>in</c></NS> their lives.</p>
+          <p>I would like to sum up by saying that every person, <NS type="RQ"><i>either</i><c>whether</c></NS> famous or not, deserves to have a private life without being followed or disturbed.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

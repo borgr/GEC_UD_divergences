@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR281*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Dir</i><c>Dear</c></NS> Madam!</p>
+          <p>I'm <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="DJ"><i>enjoyed</i><c>pleased</c></NS> I won your competition!</p>
+          <p>I'll give you <NS type="MD"><c>the</c></NS> <NS type="S"><i>nessesserly</i><c>necessary</c></NS> information about me.</p>
+          <p>The most suitable time for me is <NS type="S"><i>Jule</i><c>July</c></NS> because in August I intend to go <NS type="RT"><i>in</i><c>to</c></NS> the countryside, where I have a small farm. In September my school starts a new study year. So, because of that I can only <NS type="MV"></NS> then.</p>
+          <p>I'd like to stay in the log cabins, because I don't like wet places like <NS type="SX"><i>tends</i><c>tents</c></NS> after rain.</p>
+          <p>You <NS type="S"><i>ofer</i><c>offer</c></NS> me a lot of activities. I play basketball and tennis very well. I <NS type="RV"><i>went</i><c>want</c></NS> to try surfing and climbing because I've never done it.</p>
+          <p>I've <NS type="W"><i>got also</i><c>also got</c></NS> two questions. How much money <NS type="MV"><c>do</c></NS> I need to stay at Camp California and what kind of clothes <NS type="W"><i>I should</i><c>should I</c></NS> take with me?</p>
+          <p>Please let me know!</p>
+          <p>Regards!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim!</p>
+          <p>Thank you for your letter, which arrived this morning. I'm glad you're doing well.</p>
+          <p>You'd like to know how <NS type="W"><i>was the Top-Pop Concert</i><c>the Top-Pop Concert was</c></NS>, which I helped to organise last month. It was <NS type="S"><i>absolutlly</i><c>absolutely</c></NS> great! I was responsible <NS type="RT"><i>about</i><c>for</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> security of one of the sectors. I gave information about correct ways to <NS type="AGD"><i>another</i><c>other</c></NS> places like <NS type="S"><i>tooletes</i><c>toilets</c></NS> and medical points. I was also asked about <NS type="RD"><i>a</i><c>the</c></NS> timetable of the concert and I looked for drugs, <NS type="IN"><i>knifes</i><c>knives</c></NS> and so on in bags. Although I worked I watched the concert. <NS type="RA"><i>I</i><c>It</c></NS> was <NS type="RJ"><i>big</i><c>great</c></NS> fun! People danced, screamed and <NS type="TV"><i>sung</i><c>sang</c></NS> with <NS type="RD"><i>a</i><c>the</c></NS> singer. I looked very carefully at <NS type="MD"><c>the</c></NS> organisation of the event, you know I'm <NS type="RJ"><i><NS type="S"><i>interestsing</i><c>interesting</c></NS></i><c>interested</c></NS> in it.</p>
+          <p>OK. I'd better stop now because I'm going to go to <NS type="RD"><i>a</i><c>the</c></NS> library.</p>
+          <p>I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> some news from you!</p>
+          <p>Take care!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

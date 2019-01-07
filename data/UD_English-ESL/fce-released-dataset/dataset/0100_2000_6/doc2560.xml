@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1039*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I am writing with reference to your letter about the competition I won, in which you <NS type="RV"><i>required</i><c>requested</c></NS> some additional information.</p>
+          <p>I am very happy to have won a two-week trip <NS type="RT"><i>at</i><c>to</c></NS> Camp California, but for me it is only possible to travel in July because it is the only time when I can get holidays from work. Therefore, it is essential that you take account of my availability when booking the trip.</p>
+          <p>As I am an expert camper, I would prefer to be <NS type="RV"><i>accommodated</i><c>put up</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> <NS type="MY"><c>rather</c></NS> than in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>. <NS type="R"><i>What concerns</i><c>Concerning</c></NS> activities at the camp, I would be highly delighted if I could play basketball and tennis. The former because I am an excellent <NS type="RP"><i>basketball-player</i><c>basketball player</c></NS> and the latter because I am interested in taking up a new sport <NS type="R"><i>as</i><c>and</c></NS> I am a complete beginner at it.</p>
+          <p>I am a little unsure about some things and I would be very grateful to you if you could answer my questions. I would like to know if I will need to take some special clothes and how much money would <NS type="R"><i>be suitable</i><c>I need</c></NS> to bring with <NS type="MA"><c>me</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>REPORT ON DAILY LIFE AT MY SCHOOL, FOR MY ENGLISH TEACHER</p>
+          <p>Introduction</p>
+          <p>After our English <NS type="RP"><i>class'</i><c>class's</c></NS> decision to make a short film about daily life in my school, I have been asked to write a report about interesting lessons and activities that should be filmed. The aim of this report is to inform my teacher about them. Here are my findings.</p>
+          <p>Best lessons to film</p>
+          <p>As all the students are different from each other, it is essential to show many aspects of the school. Therefore, to show the good aspects, I suggest <NS type="FV"><i>to film</i><c>filming</c></NS> Mr. Clark's English classes, because they are highly <NS type="RJ"><i>educative</i><c>educational</c></NS> and because the students participate a lot. On the other hand, to show less pleasing aspects, it would be <NS type="RJ"><i>adequate</i><c>sufficient</c></NS> to film Mrs. Morrison's French classes, as they are extremely boring and sub-standard.</p>
+          <p>Interesting activities</p>
+          <p>One event that should not be missed <NS type="UV"><i>to film</i></NS><NS type="UP"><i>,</i></NS> is the weekly football game between teachers and students, which shows how well they get along with each other. Another event that should <NS type="RY"><i>absolutely</i><c>definitely</c></NS> be captured on film is the preparation of the meals in the canteen. The cooks are very friendly and excellent.</p>
+          <p>Conclusion</p>
+          <p>In conclusion, I suggest that our English class seriously takes into consideration my suggestions when making the video. Because the above mentioned events are <NS type="W"><i>the most praised or criticised ones by all students</i><c>the ones most praised or criticised by all students</c></NS>.</p>
+          <p>INDIAN DEMURO</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

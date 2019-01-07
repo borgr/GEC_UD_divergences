@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR740*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am writing to give you further information about the two weeks at Camp California.</p>
+          <p>First of all, I would like to express my joy <NS type="RT"><i>for</i><c>at</c></NS> having won <NS type="RD"><i>that</i><c>this</c></NS> prize. I am very happy. Secondly, you would like to know when I will be able to go there. Actually, I have asked my boss and he <NS type="TV"><i>gave</i><c>has given</c></NS> me two weeks <NS type="MT"><c>off</c></NS> in July. We have a lot to do at work so it is not easy to <NS type="RV"><i>have</i><c>get</c></NS> weeks off. Thirdly, I prefer staying in a tent <NS type="R"><i>than</i><c>to</c></NS> staying in a log cabin. I think it is more fun. Concerning the activities, I would choose tennis and sailing. I am very good at tennis. Last year, I took part in a competition and I did <NS type="UA"><i>it</i></NS> well. I <NS type="W"><i>have also</i><c>also have</c></NS> a <NS type="W"><i>licence for sailing</i><c>sailing licence</c></NS> but I have not done it for a long time. I need to know what kind of clothes I should take with me. I do not know if things are expensive there. Therefore, could you give me an idea of how much money I should bring with me.</p>
+          <p>I am looking <NS type="RY"><i>forwards</i><c>forward</c></NS> to receiving more information.</p>
+          <p>Yours sincerely,</p>
+          <p>Sofia Jordana</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>It is Saturday. The <NS type="W"><i>car park of the supermarket</i><c>the supermarket car park</c></NS> is full. <NS type="M"><i>No</i><c>There are no</c></NS> more <NS type="W"><i>trolleys for shopping</i><c>shopping trolleys</c></NS>. All the shops are crowded. Some people are in a hurry<NS type="MP"><c>,</c></NS> <NS type="AGA"><i>other</i><c>others</c></NS> are <NS type="S"><i>agressive</i><c>aggressive</c></NS> and most of the <NS type="AGA"><i>other</i><c>others</c></NS> are very stressed.</p>
+          <p>It is not always like that but we often see such a scene, even though shopping is becoming an <NS type="S"><i>entertainement</i><c>entertainment</c></NS> not only for teenagers but also for adults.</p>
+          <p>We have more and more shops everywhere and they <NS type="DV"><i>sale</i><c>sell</c></NS> everything. Because of that, people's <NS type="AGN"><i>need</i><c>needs</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> <NS type="TV"><i>increase</i><c>increased</c></NS> a lot nowadays. <NS type="RA"><i>It</i><c>That</c></NS> is also the reason why we have all these new supermarkets. <NS type="ID"><i>In the one hand</i><c>On the one hand</c></NS>, it is very enjoyable to go shopping because we can find a lot of things. Sometimes we need them and sometimes we don't but it is fun to buy new clothes, furniture and so <NS type="SX"><i>one</i><c>on</c></NS>. <NS type="ID"><i>In the other hand</i><c>On the other hand</c></NS>, the <NS type="M"><c>quality of</c></NS> service in the shops <NS type="RC"><i>or</i><c>and</c></NS> supermarkets has <NS type="RV"><i><NS type="TV"><i>decrease</i><c>decreased</c></NS></i><c>deteriorated</c></NS> a lot <NS type="RA"><i>those</i><c>these</c></NS> last <NS type="MQ"><c>few</c></NS> years. The shop assistants are not always nice and sometimes they don't even know <NS type="R"><i>a bit</i><c>anything</c></NS> about what they sell.</p>
+          <p>In my opinion, shopping is not always enjoyable<NS type="MP"><c>,</c></NS> especially when there <NS type="AGV"><i>is</i><c>are</c></NS> too many people in <NS type="R"><i>there</i><c>the shops</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

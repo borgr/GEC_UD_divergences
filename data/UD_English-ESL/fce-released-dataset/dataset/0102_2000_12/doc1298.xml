@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR535*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="UN"><i>madame</i></NS> Jane Clark,</p>
+          <p>I am writing this letter in order to make some suggestions for the International Arts Festival that took place a while ago. I was there <NS type="MT"><c>for</c></NS> two days enjoying it and have found some points I would like to change to make it a better one next year. I personally think it is a great idea to gather all different types of arts from all over the world.</p>
+          <p>Well, here are some of my <NS type="AGN"><i>opinion</i><c>opinions</c></NS> and suggestions. First of all, I think there should <NS type="MV"><c>be</c></NS> more stars and artists from more countries because this year, I believe there were artists <NS type="W"><i>only from</i><c>from only</c></NS> six countries which, in my opinion, is not quite from all over the world.</p>
+          <p>The jazz, rock and classical concerts were really entertaining except that there were some concert halls <NS type="M"><c>which were</c></NS> <NS type="SX"><i>to</i><c>too</c></NS> small for the audience: I'm sure that you can find bigger halls for next year. By the way, I was also wondering if it was possible to have more plays and films for the coming <NS type="UY"><i>up</i></NS> festival as the reaction of the people was excellent.</p>
+          <p>Actually, the price of the weekend ticket was excellent! I, myself, was expecting a more expensive ticket as there were so many <NS type="S"><i>magnificient</i><c>magnificent</c></NS> events.</p>
+          <p>Well, I hope you found my suggestions reasonable as I deeply congratulate <NS type="MA"><c>you</c></NS> <NS type="RT"><i>for</i><c>on</c></NS> the great <NS type="S"><i>sucess</i><c>success</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> the festival.</p>
+          <p>yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Emily,</p>
+          <p>Hello! It's been such a long time since we wrote to each other. Well, in the letter you wrote me, you asked some questions about school and house rules. Even though<NS type="UP"><i>,</i></NS> I do have less than you, <NS type="TV"><i>I'm still <NS type="RV"><i>willing</i><c>wanting</c></NS></i><c>I still want</c></NS> to change many things.</p>
+          <p>In our school, you're not allowed to eat during class. You must have <NS type="UD"><i>a</i></NS> permission to get out of your seat or leave the classroom. My school's an American school so you're not supposed to talk in Spanish during the classes either.</p>
+          <p>At home, there are <NS type="CQ"><i>less</i><c>fewer</c></NS> rules. My parents don't really like <NS type="RV"><i>putting</i><c>imposing</c></NS> rules in the house. But still I cannot go out of the house without telling my mom where I am going and when I'm coming back. But it <NS type="TV"><i>existed</i><c>has existed</c></NS> since I was very young.</p>
+          <p>I would like to change the rule <NS type="MT"><c>about</c></NS> not <NS type="FV"><i>to speak</i><c>speaking</c></NS> in Spanish at school because most of us feel more comfortable speaking in Spanish<NS type="MP"><c>,</c></NS> but I guess<NS type="MP"><c>,</c></NS> to learn<NS type="RP"><i>.</i><c>,</c></NS> we should speak English all the time.</p>
+          <p>Well, that's all. I hope one day you get to change what you wanted. I miss you and let's keep in touch. Bye..</p>
+          <p>your Pal,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

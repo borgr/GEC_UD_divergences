@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1048*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan!</p>
+          <p>I was pleased to <NS type="S"><i>recieve</i><c>receive</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> letter <NS type="S"><i>ricently</i><c>recently</c></NS>. I feel very happy with my results, and I can't wait to go to California.</p>
+          <p>Now I'm going to give you some information<NS type="UP"><i>,</i></NS> you <NS type="S"><i>asted</i><c>asked</c></NS> about.</p>
+          <p>I'm <NS type="S"><i>sory</i><c>sorry</c></NS> to <NS type="RV"><i>tell</i><c>say</c></NS> <NS type="RA"><i>that</i><c>this</c></NS>, but the only time I will be able to take this trip <NS type="MV"><c>is</c></NS> in July, according to our team's <NS type="S"><i>shudule</i><c>schedule</c></NS>.</p>
+          <p>The next thing - I would prefer to spend all <NS type="MD"><c>the</c></NS> nights in <NS type="MD"><c>a</c></NS> tent, so I can move it to the place <NS type="MA"><c>that</c></NS> will <NS type="W"><i><NS type="FY"><i>better</i><c>best</c></NS> <NS type="SX"><i>suite</i><c>suit</c></NS> me</i><c>suit me best</c></NS>. <NS type="UP"><i>-</i></NS> I like to wake up with a view <NS type="RT"><i>to</i><c>of</c></NS> mountains, <NS type="S"><i>wich</i><c>which</c></NS> <NS type="AGV"><i>remind</i><c>reminds</c></NS> me <NS type="RT"><i>about</i><c>of</c></NS> my 5 <NS type="MP"><i>years</i><c>years'</c></NS> experience <NS type="RT"><i>in</i><c>of</c></NS> climbing.</p>
+          <p>Also I enjoy walking and photography. I <NS type="TV"><i><NS type="RV"><i>made</i><c>filled</c></NS></i><c>have filled</c></NS> two albums <NS type="RT"><i>about</i><c>with</c></NS> birds and flowers <NS type="UN"><i>life</i></NS>.</p>
+          <p>So, is it <NS type="S"><i>posible</i><c>possible</c></NS><NS type="RP"><i>,</i><c>?</c></NS> I would like to continue doing my <NS type="SA"><i>favorite</i><c>favourite</c></NS> hobbies in the Camp.</p>
+          <p>And the last question I have -</p>
+          <p>Do I need to bring any special clothes or <NS type="DN">gize</NS>? And how much money should I take?</p>
+          <p>Thank you,</p>
+          <p>Yours sincerely</p>
+          <p>Elina</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p><NS type="IV"><i>Shoping</i><c>Shopping</c></NS> is not always enjoyable</p>
+          <p>If you need something you have a choice <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to borrow</i><c>borrowing</c></NS> it from friends or <NS type="MD"><c>the</c></NS> library, or <NS type="FV"><i>to <NS type="SX"><i>bye</i><c>buy</c></NS></i><c>buying</c></NS> it.</p>
+          <p>Let's <NS type="RV"><i>speak</i><c>talk</c></NS> about <NS type="IV"><i>shoping</i><c>shopping</c></NS>. As <NS type="R"><i>in all</i><c>with everything</c></NS> there are some advantages and disadvantages.</p>
+          <p>Do you think it's <NS type="MD"><c>an</c></NS> enjoyable <NS type="MN"><c>way</c></NS> <NS type="FV"><i>spending</i><c>to spend</c></NS> <NS type="UT"><i>of</i></NS> time?</p>
+          <p>If you <NS type="TV"><i>would ask</i><c>were to ask</c></NS> me, I prefer my friends to do all <NS type="MD"><c>my</c></NS> <NS type="DN"><i>shoping</i><c>shopping</c></NS> for me<NS type="RP"><i>. Because</i><c>, because</c></NS> I <NS type="MV"><c>am</c></NS> aware of <NS type="MD"><c>the</c></NS> big <NS type="RN"><i>lines</i><c>queues</c></NS> <NS type="RT"><i>to</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RN"><i><NS type="RP"><i>check point</i><c>checkpoint</c></NS></i><c>checkout</c></NS>, crowds of people, noise... And <NS type="UP"><i>of'course</i><c>of course</c></NS> not all shops have good <NS type="DN"><i>conditionering</i><c>air conditioning</c></NS>.</p>
+          <p>In my opinion the <NS type="FJ"><i>better</i><c>best</c></NS> time for <NS type="IV"><i>shoping</i><c>shopping</c></NS> is weekdays, preferably in the morning.</p>
+          <p>Otherwise, you <NS type="W"><i>either will</i><c>will either</c></NS> not find what you are looking for, or you will, and spend the rest of the day in <NS type="MD"><c>a</c></NS> bad mood, because of <NS type="MD"><c>the</c></NS> bad <NS type="S"><i>maners</i><c>manners</c></NS> of sales people, <NS type="RA"><i>that</i><c>who</c></NS> <NS type="AS"><i>not every time you ask can give you <NS type="UQ"><i>any</i></NS> advice</i><c>do not give you advice every time you ask for it</c></NS>.</p>
+          <p>It can be boring, it can be <NS type="R"><i>not</i><c>interesting</c></NS>.</p>
+          <p><NS type="FV"><i><NS type="S"><i>Summerise</i><c>Summarise</c></NS></i><c>To summarise</c></NS> <NS type="RA"><i>all</i><c>everything</c></NS>, I <NS type="TV"><i>will</i><c>would</c></NS> <NS type="S"><i>recomend</i><c>recommend</c></NS> <NS type="FV"><i>to spend</i><c>spending</c></NS> less time indoors, shopping during the <NS type="S"><i>weakdays</i><c>weekdays</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

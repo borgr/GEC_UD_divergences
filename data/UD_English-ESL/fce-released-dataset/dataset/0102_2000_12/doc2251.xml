@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR109*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>To:</p>
+          <p>From:</p>
+          <p>I spent two days at <NS type="MD"><c>the</c></NS> annual international arts festival from 21 to 22 of November.</p>
+          <p>This festival was <NS type="UP"><i><NS type="S"><i>well-orginised</i><c>well-organised</c></NS></i><c>well organised</c></NS>. There were a lot of activities for everyone. I <NS type="S"><i>relly</i><c>really</c></NS> liked <NS type="MD"><c>the</c></NS> exhibitions. I had a chance to see amazing pictures <NS type="R">with <NS type="S">wezy</NS></NS> painted by Russian painters. There was an excellent jazz concert. The <NS type="RP"><i>Band</i><c>band</c></NS> "Three Kings" <NS type="S"><i>apresented</i><c>presented</c></NS> <NS type="MD"><c>a</c></NS> new <NS type="S"><i>stily</i><c>style</c></NS> of music. I would like to <NS type="RV">notice</NS> that <NS type="RD"><i>a</i><c>the</c></NS> dance show was <NS type="DY"><i>absolutelly</i><c>absolutely</c></NS> <NS type="SA"><i>marvelous</i><c>marvellous</c></NS>. <NS type="UV"><i>What's</i><c>What</c></NS> a <NS type="S"><i>greit</i><c>great</c></NS> idea to invite writers <NS type="UY"><i>there</i></NS>! I <NS type="S"><i>relly</i><c>really</c></NS> liked <NS type="FV"><i>to <NS type="RV"><i>speak</i><c>talk</c></NS></i><c>talking</c></NS> with them.</p>
+          <p>From my point of view I can complain only <NS type="RT"><i>on</i><c>about</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> small concert hall and <NS type="M"><c>the fact</c></NS> there were <NS type="AGN"><i>artist</i><c>artists</c></NS> from only six countries. Nowadays many people <NS type="MV"><c>are</c></NS> fond of classical music, but this concert was too small<NS type="MP"><i> that's</i><c>. That's</c></NS> why many people <NS type="TV"><i>had to miss</i><c>missed</c></NS> this classical concert.</p>
+          <p>You wrote an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="MV"><c>saying</c></NS> that people from more than 15 <NS type="S"><i>deferent</i><c>different</c></NS> countries were going to visit this concert, but there were artists <NS type="W"><i>only from</i><c>from only</c></NS> 6 countries. It was <NS type="S"><i>relly</i><c>really</c></NS> <NS type="MD"><c>a</c></NS> pity because I expected to see artists from France and Italy.</p>
+          <p>The International Arts Festival was organised quite well. I would only <NS type="FV"><i><NS type="S"><i>recomended</i><c>recommended</c></NS></i><c>recommend</c></NS> you <NS type="FV"><i>to have</i><c>have</c></NS> more artists and <NS type="RD"><i>a</i><c>the</c></NS> classical concert should be in <NS type="MD"><c>a</c></NS> bigger hall <NS type="U"><i>than it was</i></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>One man and one woman lived in <NS type="MD"><c>a</c></NS> small house beside the sea. <NS type="SX"><i>There</i><c>Their</c></NS> names were Ivan and Maria. They were so <NS type="SX"><i>pour</i><c>poor</c></NS> that <NS type="S"><i>somitimes</i><c>sometimes</c></NS> they hardly had <NS type="RA"><i>something</i><c>anything</c></NS> to eat.</p>
+          <p>One day Ivan caught a fish. It wasn't <NS type="MD"><c>a</c></NS> <NS type="RJ"><i>usual</i><c>normal</c></NS> fish<NS type="RP"><i>, it</i><c>. It</c></NS> was <NS type="MD"><c>a</c></NS> Gold Fish and it <NS type="RV"><i>asked</i><c>talked to</c></NS> him <NS type="RT"><i>as</i><c>like</c></NS> <NS type="MD"><c>a</c></NS> human<NS type="RP"><i>;</i><c>:</c></NS> ' Please, let me go and I can do <NS type="W"><i>for you anything you want</i><c>anything you want for you</c></NS>'. But Ivan was <NS type="R"><i>so</i><c>such a</c></NS> kind person that he let Gold Fish <NS type="FV"><i>went</i><c>go</c></NS> without <NS type="MV"><c>making</c></NS> any <NS type="FN"><i>condition</i><c>conditions</c></NS>.</p>
+          <p>Afterwards he came back home. He told <NS type="AGD"><i>her</i><c>his</c></NS> wife <NS type="UT"><i>about</i></NS> this story. She was angry and she said that Ivan was just <NS type="MD"><c>a</c></NS> foolish man. She <NS type="TV"><i><NS type="AGV"><i><NS type="S"><i>persuide</i><c>persuade</c></NS></i><c>persuades</c></NS></i><c>persuaded</c></NS> him to go to the sea to ask <NS type="MT"><c>for</c></NS> a lot of things for her. Ivan had to do what she said. Gold Fish did everything <NS type="RA"><i>what</i><c>that</c></NS> Ivan asked.</p>
+          <p>When he <NS type="TV"><i><NS type="AGV"><i>come</i><c>comes</c></NS></i><c>came</c></NS> back home, he was <NS type="DJ"><i>surprise</i><c>surprised</c></NS> because Maria was more angry than before. She said that <NS type="AS"><i>it wasn't enough what Gold Fish had done for her</i><c>what Gold Fish had done for her wasn't enough</c></NS>.</p>
+          <p>Ivan had to beg Gold Fish again and again. In the end, greedy Maria wanted impossible <NS type="FN"><i>thing</i><c>things</c></NS>. She said that Ivan should bring Gold Fish <NS type="UT"><i>to</i></NS> home and Ivan could leave <NS type="RD"><i>this</i><c>their</c></NS> house because she didn't need him anymore. Maria wanted too much and Gold Fish <NS type="R">returned everything at the beginning</NS>. Maria and Ivan were <NS type="W"><i>again poor</i><c>poor again</c></NS>.</p>
+          <p> This story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR438*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I feel very happy to be the winner of your competition. I would like to travel in July only<NS type="MP"><c>,</c></NS> because they will need me at work in August.</p>
+          <p>I would prefer to sleep in a tent because I have never done it and I think it is an experience not to be missed, a very original adventure!</p>
+          <p>I would like to do singing and swimming. <NS type="RT"><i>For</i><c>Regarding</c></NS> the first activity, I must tell you that I am very keen on singing but that I have very <NS type="CQ"><i>few</i><c>little</c></NS> experience in it.</p>
+          <p>Concerning swimming, I <NS type="RV"><i>practise</i><c>do</c></NS> this sport once a week <NS type="RT"><i>on</i><c>by</c></NS> myself, so I am just an amateur, not a great swimmer!</p>
+          <p>Otherwise, I would like to ask you <NS type="RQ"><i>which</i><c>what</c></NS> clothes I will have to take in my luggage. What is the weather like in July? Is it worth <NS type="FV"><i>to take</i><c>taking</c></NS> a raincoat? Should I take trainers?</p>
+          <p>Finally, how much money must I bring with me? Is it necessary to ask for Travellers' Cheques? Or is it better to take only an international credit card?</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Going <NS type="UT"><i>for</i></NS> shopping is a good thing when you don't know what <NS type="MY"><c>else</c></NS> to do but it <NS type="W"><i>has also</i><c>also has</c></NS> many <NS type="S"><i>disavantages</i><c>disadvantages</c></NS>.</p>
+          <p>First of all, shopping is tiring because of the people who are doing the same thing as you the same day! Especially If you go shopping on a Saturday, when people are <NS type="R">on <NS type="UP"><i>week-end</i><c>weekend</c></NS></NS>. <NS type="MD"><i>Streets</i><c>The streets</c></NS> are crowded and you can't walk easily. You are <NS type="RJ">embarrassed with</NS> the people who are so close to you that you can't walk as fast as you want.</p>
+          <p>Secondly, shopping is stressful, especially if you <NS type="TV"><i>had</i><c>have</c></NS> to find a <NS type="M"><c>particular item of</c></NS> <NS type="RN"><i>cloth</i><c>clothing</c></NS> for a <NS type="RJ"><i>precise</i><c>special</c></NS> day<NS type="UP"><i>,</i></NS> and nothing fits you. It can be discouraging. Or if you look for a present and you can't find it.</p>
+          <p>However, shopping is entertaining if you don't know what <NS type="MY"><c>else</c></NS> to do. You can <NS type="RV">discover</NS> a lot of things if you are abroad and learn a lot about the life of local people. Moreover, it is <NS type="RJ"><i>pleasant</i><c>fun</c></NS> to try <NS type="MT"><c>on</c></NS> many <NS type="M"><c>different types of</c></NS> clothes and to see what you look like in various clothes, especially if you are in a foreign country. It can be <NS type="RJ"><i>funny</i><c>fun</c></NS>!</p>
+          <p>Finally, shopping can help you to feel happy if you are down in the dumps, if you feel horrible. For instance, if you try <NS type="MY"><c>on</c></NS> <NS type="R"><i>a</i><c>an item of</c></NS> <NS type="RN"><i>cloth</i><c>clothing</c></NS> which fits you well, it can contribute to <NS type="FV"><i>make</i><c>making</c></NS> you feel better.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

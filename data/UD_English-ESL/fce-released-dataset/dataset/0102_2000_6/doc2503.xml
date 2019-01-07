@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1014*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about your music show entitled "Over the Rainbow"<NS type="MP"><c>,</c></NS> <NS type="RP"><i>Which</i><c>which</c></NS> I saw during my holiday in London.</p>
+          <p>Firstly, I expected to see <NS type="RD"><i>the</i><c>a</c></NS> <NS type="RN"><i>play</i><c>performance</c></NS> by Danny Brook<NS type="MP"><c>,</c></NS> who is my favourite actor. However, without any announcement, a different actor was playing his role.</p>
+          <p>Secondly, according to the advertisement, the show <NS type="RV"><i>would</i><c>should</c></NS> have started at 19:30, but it started at 20:15. Moreover, the theatre restaurant was closed <NS type="RT"><i>because of</i><c>for</c></NS> <NS type="U"><i>the equipment</i></NS> <NS type="S"><i>mentenance</i><c>maintenance</c></NS>. You should have let us <NS type="RV"><i>know</i><c>have</c></NS> <NS type="RD"><i>such</i><c>that</c></NS> information in advance.</p>
+          <p>Finally, although I heard <NS type="RD"><i>the</i><c>a</c></NS> student discount ticket was available, the ticket salesman said I should have bought <NS type="RA"><i>it</i><c>one</c></NS> at least one day before the show.</p>
+          <p>I was not satisfied with your show at all. Therefore, I think you should <NS type="AS"><i>pay some money back for me</i><c>pay me some money back</c></NS>.</p>
+          <p>Please let me know <NS type="R"><i>how</i><c>what</c></NS> you think of my <NS type="DN"><i>complain</i><c>complaint</c></NS> and request as soon as possible.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Thank you for modern technology.</p>
+          <p>I think modern technology has changed my daily life, especially <NS type="R"><i>in</i><c>when it comes to</c></NS> communication with my best friend<NS type="MP"><c>,</c></NS> who is studying in Britain.</p>
+          <p>We <NS type="TV"><i>had seen</i><c>saw</c></NS> each other once a week before she left Japan for Britain. I used to think I would miss her. But now I can communicate with her every day by e-mail.</p>
+          <p>Furthermore, we can talk on the phone. <NS type="R">I feel no distance</NS> as if I was speaking with a friend in Japan. Without a computer and a telephone, I couldn't contact her easily and I <NS type="RV"><i>may</i><c>might</c></NS> lose touch with her.</p>
+          <p><NS type="RP"><i>in</i><c>In</c></NS> <NS type="S"><i>addittion</i><c>addition</c></NS>, I <NS type="TV"><i>could</i><c>can</c></NS> go <NS type="SX"><i>tot</i><c>to</c></NS> Britain <NS type="W"><i>to see her by plane</i><c>by plane to see her</c></NS>. Before the plane was <NS type="RV"><i>invested</i><c>invented</c></NS>, I suppose it might <NS type="TV"><i>take</i><c>have taken</c></NS> several months to visit Britain by ship. <NS type="RT"><i>In</i><c>At</c></NS> present, it takes just 12 hours by plane.</p>
+          <p>Thanks to such modern technology, I can improve <NS type="RD"><i>the</i><c>my</c></NS> relationship with my friend, even if she is living <NS type="MY"><c>far</c></NS> away from me.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

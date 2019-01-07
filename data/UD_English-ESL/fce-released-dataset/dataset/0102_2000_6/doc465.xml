@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR190*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>17.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>I would like to <NS type="RV"><i>know</i><c>have</c></NS> some <NS type="CN"><i>informations</i><c>information</c></NS> about the advertisement <NS type="RT"><i>of</i><c>for</c></NS> the show.</p>
+          <p>First of all, why <NS type="MV"><c>did</c></NS> the show <NS type="FV"><i>began</i><c>begin</c></NS> at 20:15, not at 19:30 as indicated in the advertisement. I waited <NS type="RY"><i>quite</i><c>almost</c></NS> one hour to see the show, and what happened with the actor? I came to that show only <NS type="UT"><i>for</i></NS> <NS type="FV"><i>see</i><c>to see</c></NS> him and when the actor <NS type="TV"><i>appear</i><c>appeared</c></NS>, it was another one. There is more! Where were the discounts that I should have <NS type="RV"><i>earned</i><c>had</c></NS>? I was very disappointed with that! After the show my <NS type="RN"><i>sun</i><c>son</c></NS> wanted to eat some biscuits and when I <NS type="TV"><i>see</i><c>saw</c></NS> the restaurant closed, I gave up<NS type="RP"><i>,</i><c>.</c></NS> I told <NS type="UT"><i>to</i></NS> my <NS type="RN"><i>sun</i><c>son</c></NS> that we'll never come back here again.</p>
+          <p>The restaurant was closed because there wasn't <NS type="MQ"><c>any</c></NS> electricity<NS type="MP"><i> you</i><c>. You</c></NS> should close the theatre <NS type="S"><i>untill</i><c>until</c></NS> the restaurant <NS type="RV"><i>get</i><c>can</c></NS> <NS type="R"><i>appropriate</i><c>be</c></NS> <NS type="TV"><i>to use</i><c>used</c></NS>. I was <NS type="DY"><i>totaly</i><c>totally</c></NS> unsatisfied with the theatre and I would like to have my money back if <NS type="RA"><i>it's</i><c>that's</c></NS> possible.</p>
+          <p>I thank you for <NS type="FV"><i>read</i><c>reading</c></NS> my letter<NS type="RP"><i>,</i><c>.</c></NS> I hope you write <NS type="W"><i><NS type="RT"><i>for</i><c>to</c></NS> me back</i><c>back to me</c></NS>, and don't forget my money!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>I am writing what I think <NS type="R"><i>what</i><c>the</c></NS> kind of clothes <NS type="W"><i>will people</i><c>people will</c></NS> wear 100 years from now <NS type="M"><c>will be like</c></NS>.</p>
+          <p>As we see<NS type="MP"><c>,</c></NS> the <NS type="RN"><i>clothes</i><c>fashions</c></NS> are changing every hour. People <NS type="MV"><c>are</c></NS> inventing new kinds of clothes and people <NS type="MV"><c>are</c></NS> buying and wearing <NS type="IJ"><i>differents</i><c>different</c></NS> clothes. It is difficult to say how people will be wearing clothes 100 years from now.</p>
+          <p>In each country, each people <NS type="AGV"><i>wear</i><c>wears</c></NS> <NS type="IJ"><i>differents</i><c>different</c></NS> kinds of clothes, <NS type="R"><i>like</i><c>for example</c></NS>, people in Brazil wear shorts, T-shirts or <NS type="R"><i>only</i><c>go</c></NS> without them<NS type="RP"><i>,</i><c>;</c></NS> in Saudi Arabian they wear strange clothes, if you analyse <NS type="MA"><c>them</c></NS> <NS type="MT"><c>from</c></NS> the point of view <NS type="M"><c>of someone</c></NS> who doesn't live in Saudi Arabia. I'm quite sure that people <NS type="UT"><i>in</i></NS> all <NS type="MT"><c>around</c></NS> <NS type="MD"><c>the</c></NS> world will be wearing very <NS type="IJ"><i>differents</i><c>different</c></NS> clothes in the future because <NS type="MN"><c>people</c></NS>, <NS type="DY"><i>especialy</i><c>especially</c></NS> women, <NS type="MA"><c>who</c></NS> like to be very elegant and beautiful<NS type="MP"><c>,</c></NS> will create and invent all kinds of clothes <NS type="R">to anybody and that's it</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

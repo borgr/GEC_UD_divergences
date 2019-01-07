@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR991*0100*2000*01">
+  <candidate><personnel><language>Dutch</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thanks for your letter. I have <NS type="FV"><i>reading</i><c>read</c></NS> the letter and I was very surprised that I have won the first prize.</p>
+          <p>About the time when I <NS type="RV"><i>like</i><c>want</c></NS> to travel <NS type="AS"><i>is only</i><c>it can only be in</c></NS> July, because in the summer <NS type="W"><i>is it</i><c>it is</c></NS> very busy at work. People <NS type="SX"><i>where</i><c>whom</c></NS> I <NS type="TV"><i>working</i><c>work</c></NS> with <NS type="UA"><i>they</i></NS> are going on holiday in <NS type="S"><i>Juni</i><c>June</c></NS> and August. So <NS type="SX"><i>hey</i><c>they</c></NS> need me at work in <NS type="AGD"><i>that</i><c>those</c></NS> months.</p>
+          <p><NS type="R"><i>Further</i><c>Also</c></NS><NS type="MP"><c>,</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I <NS type="MV"><c>would</c></NS> prefer at Camp California is the log cabin<NS type="RP"><i>. Because</i><c>, because</c></NS><NS type="UP"><i>,</i></NS> <NS type="RY"><i>at first</i><c>first</c></NS> when I was a little child we <NS type="TV"><i>were staying</i><c>stayed</c></NS> <NS type="W"><i>every holiday in a small house</i><c>in a small house every holiday</c></NS> and I like that. <NS type="DY"><i>At second</i><c>Second</c></NS>, I don't like tents and I <NS type="RV"><i>don't</i><c>can't</c></NS> get used to <NS type="AGA"><i>it</i><c>them</c></NS>, so I prefer log cabins.</p>
+          <p>About the different activities<NS type="MP"><c>,</c></NS> we like them all, but If I <NS type="TV"><i>choose</i><c>have to choose</c></NS> two I <NS type="RV"><i>take</i><c>opt for</c></NS> sailing and tennis. In the summer I'm sailing <NS type="MT"><c>in</c></NS> races almost every weekend and I have my own sailing clothes. I'm not very good <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RP"><i>Tennis</i><c>tennis</c></NS> but I can practise on my <NS type="RN"><i>travel</i><c>trip</c></NS>.</p>
+          <p>Finally, I have one question about the money. <NS type="RA"><i>Which</i><c>What</c></NS> things <NS type="W"><i>I must</i><c>must I</c></NS> <NS type="FV"><i>paid</i><c>pay</c></NS> for on my <NS type="RN"><i>travel</i><c>trip</c></NS>?</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thanks for your letter. How are you? <NS type="W"><i>With me is everything fine</i><c>Everything is fine with me</c></NS> and the pop concert was great.</p>
+          <p>I enjoyed helping at the <NS type="RP"><i>popconcert</i><c>pop concert</c></NS>, but it's very stressful work. You always walk from side to side <NS type="FV"><i>to move</i><c>moving</c></NS> things and there's no break. Some other work <NS type="RA"><i>what</i><c>that</c></NS> I <NS type="TV"><i>have done</i><c>did</c></NS> was to lead the people to <NS type="SX"><i>there</i><c>their</c></NS> places. We <NS type="TV"><i>have worked</i><c>worked</c></NS> the whole day and luckily at least we had some food.</p>
+          <p>The <NS type="RJ"><i>most beautiful</i><c>best</c></NS> things were that we saw famous singers and I spoke with Robbie Williams. He's friendly and very handsome <NS type="SX"><i>off</i><c>of</c></NS> course. If you see the famous singers <NS type="RY"><i>in reality</i><c>in the flesh</c></NS> they are different and <NS type="UD"><i>the</i></NS> most singers <NS type="UA"><i>they</i></NS> <NS type="ID"><i>haven't time for you</i><c>haven't any time for you</c></NS>.</p>
+          <p>Another thing I <NS type="TV"><i>have done</i><c>did</c></NS> was the <NS type="MP"><i>make up</i><c>make-up</c></NS> <NS type="MC"><c>but</c></NS> only for about fifteen minutes. That was very nice, because I didn't <NS type="FV"><i>expected</i><c>expect</c></NS> that. There were some people <NS type="RA"><i>they</i><c>who</c></NS> gave me some <NS type="DN"><i>advise</i><c>advice</c></NS> <NS type="MT"><c>about</c></NS> <NS type="FV"><i>to clean</i><c>cleaning</c></NS> the face <NS type="UC"><i>and</i></NS> etc.</p>
+          <p>Finally, it was a very nice day <NS type="R"><i>with</i><c>and a</c></NS> great experience.</p>
+          <p><NS type="FN"><i>Loves</i><c>Love</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

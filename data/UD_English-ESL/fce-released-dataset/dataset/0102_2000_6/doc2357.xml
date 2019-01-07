@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR946*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Sir,</p>
+          <p>I have seen your musical show "Over the Rainbow" in London. I <NS type="TV"><i>have been</i><c>was</c></NS> very disappointed when I <NS type="TV"><i>had read</i><c>read</c></NS> your advertisement<NS type="RP"><i>,</i><c>.</c></NS> I was keen on your show, but I have not seen the same show, I have seen one which <NS type="W"><i>it looked like</i><c>looked like it</c></NS>, but <NS type="X"><i>not be</i><c>wasn't</c></NS> <NS type="MA"><c>it</c></NS>.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I <NS type="TV"><i>have been</i><c>was</c></NS> attracted by the actors - Danny Brooks and Tina Truelove - and not by the actors who <NS type="RV"><i>played</i><c>performed</c></NS> <NS type="DY"><i>effectly</i><c>effectively</c></NS> that evening. <NS type="AGD"><i>This</i><c>These</c></NS> actors appeared <NS type="UT"><i>with</i></NS> <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes <NS type="FY"><i>later</i><c>late</c></NS> <NS type="R"><i><NS type="IV"><i>refering</i><c>referring</c></NS></i><c>according to</c></NS> <NS type="RA"><i>which</i><c>what</c></NS> is written <NS type="RT"><i>on</i><c>in</c></NS> your advertisement. This <NS type="DN"><i>late</i><c>lateness</c></NS> <NS type="RV"><i>forbid</i><c>prevented</c></NS> me <NS type="MT"><c>from</c></NS> <NS type="MV"><c>going</c></NS> to dinner in your restaurant because it was just closing!</p>
+          <p>For all <NS type="AGD"><i>this</i><c>these</c></NS> reasons I <NS type="UV"><i>do</i></NS> wish that I <NS type="UV"><i>would</i></NS> <NS type="W"><i><NS type="TV"><i>not have been</i><c>not had</c></NS></i><c>had not</c></NS> gone <NS type="FV"><i>see</i><c>to see</c></NS> that show, for which the tickets were not available. And <NS type="ID"><i>as a conclusion</i><c>in conclusion</c></NS> I want you to give me my money back, (I <NS type="W"><i>have still</i><c>still have</c></NS> the advertisement if you want <NS type="UD"><i>the</i></NS> <NS type="S"><i>prooth</i><c>proof</c></NS> <NS type="MT"><c>of</c></NS> what I say). You have the choice, either you <NS type="RV"><i>make</i><c>do</c></NS> what I want, or I attack you in <NS type="RN"><i>justice</i><c>the courts</c></NS>.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>"The old man and the sea" E.H.</p>
+          <p>When I <NS type="TV"><i>have read</i><c>read</c></NS> this book, I <NS type="TV"><i>have been</i><c>was</c></NS> fascinated by the <NS type="RN"><i>will</i><c>willpower</c></NS> of the old <NS type="DN"><i>fisher</i><c>fisherman</c></NS>. This <NS type="RN"><i>will</i><c>willpower</c></NS> is so amazing, he has all the elements against him. His boat is so small and poor, he is old, it is hot and he is alone without any chance <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to meet</i><c>meeting</c></NS> <NS type="RA"><i>someone</i><c>anyone</c></NS> who could help him.</p>
+          <p>But I don't think he would want to.</p>
+          <p>He <NS type="S"><i>doen't</i><c>doesn't</c></NS> want <NS type="MN"><c>help</c></NS> because he wants to prove <NS type="MT"><c>to</c></NS> the little <NS type="MN"><c>boy</c></NS> and himself that he is not really old, even if he has <NS type="R"><i>a big age</i><c>lived many years</c></NS>.</p>
+          <p>I think <NS type="AGA"><i>this</i><c>these</c></NS> are the reasons <NS type="RT"><i>of</i><c>for</c></NS> his <NS type="RN"><i>will</i><c>willpower</c></NS>. Although the fish is eaten by the sharks, he is the winner, the winner of himself. He could have <NS type="TV"><i>triumph</i><c>triumphed</c></NS> <NS type="S"><i>othe</i><c>over</c></NS> <NS type="MD"><c>the</c></NS> fish because of his knowledge of the sea but <NS type="M"><c>it is</c></NS> principally because he has <NS type="R">known research</NS> in the <NS type="DN"><i>deeper</i><c>depths</c></NS> of his mind.</p>
+          <p>To conclude I think the <NS type="IJ"><i>difficults</i><c>most difficult</c></NS> situations allow us to discover <NS type="DA"><i>ourself</i><c>ourselves</c></NS> <NS type="R">getting out of</NS> <NS type="DA"><i>ourself</i><c>ourselves</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

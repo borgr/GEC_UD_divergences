@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR770*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>1st. March, 2000</p>
+          <p>Dear Mr. Robertson,</p>
+          <p>Thank you for organising the programme <NS type="RT"><i>about</i><c>for</c></NS> the trip to London. There are a lot of activities that all of my classmates are interested in and <NS type="W"><i>especially they are</i><c>they are especially</c></NS> looking forward to sightseeing by bus and visiting <NS type="MD"><c>the</c></NS> National Art Gallery. However, I am writing to suggest a special activity while we are in London.</p>
+          <p>The students in my class have just seen the advertisement for a show in today's edition of The Times. There will be The London Fashion and Leisure Show in Central Exhibition Hall on the 14th of March. It starts <NS type="MT"><c>at</c></NS> 10:00 am and finishes <NS type="MT"><c>at</c></NS> 9:00 p.m.</p>
+          <p>All of my classmates would like to go there because it is a great chance to see the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. Besides, students don't have to pay <NS type="MD"><c>an</c></NS> entrance fee because it is free for students.</p>
+          <p>The fashion show is only on the 14th of March, so I would be grateful if you could allow all of my classmates to go there after visiting <NS type="MD"><c>the</c></NS> Science Museum instead of going shopping.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Many people think that it is natural for famous people to be followed by journalists all the time because they are famous and everybody is curious about their life. However, in my opinion, famous people, such as politicians and film actors, deserve to have a private life.</p>
+          <p>First of all, everybody has rights to keep their own <NS type="W"><i>private life</i><c>life private</c></NS>, especially when they are in serious situations such as divorce <NS type="RC"><i>and</i><c>or</c></NS> a family member's or <NS type="UD"><i>the</i></NS> closest friend's death. It is too cruel for them to <NS type="RV"><i>be</i><c>have</c></NS> <NS type="W"><i>monitored their feelings</i><c>their feeling monitored</c></NS> at that time.</p>
+          <p>Another reason that I agree <NS type="MC"><c>that</c></NS> famous people deserve to have a private life is that if journalists followed them all the time, it would result in their death. For example, if Diana, who was <NS type="MD"><c>the</c></NS> ex-wife of Prince Charles, hadn't been followed by <NS type="S"><i>paparachi</i><c>paparazzi</c></NS> when she was dating <NS type="UT"><i>with</i></NS> a <NS type="L"><i>guy</i><c>man</c></NS>, there wouldn't have been a car accident which caused her death.</p>
+          <p>To sum up, nobody wants <NS type="W"><i>to be revealed their private life</i><c>their private life to be revealed</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> public. Therefore, even famous people need their own life apart from the media.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

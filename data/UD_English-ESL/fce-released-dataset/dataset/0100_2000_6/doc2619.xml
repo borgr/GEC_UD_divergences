@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1050*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to you because I <NS type="TV"><i>receive</i><c>received</c></NS> your letter concerning the prize of two weeks in California that I have won.</p>
+          <p>I would like to travel <NS type="MT"><c>in</c></NS> the first two weeks of July because in June I will be working and at the end of July I am <NS type="IV"><i>planing</i><c>planning</c></NS> to go to Paris to attend a <NS type="W"><i>course of French</i><c>French course</c></NS>.</p>
+          <p>I would prefer to be <NS type="RV"><i><NS type="S"><i>accomodated</i><c>accommodated</c></NS></i><c>put up</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGV"><i>tents</i><c>tent</c></NS> because I love camping but <NS type="W"><i>I don't mind also</i><c>also I don't mind</c></NS> the second possibility.</p>
+          <p>In your letter you wrote that I will <NS type="R"><i>I</i><c>have</c></NS> the chance to do two activities; <NS type="RP"><i>First</i><c>first</c></NS> of all I would like to play tennis because I have been <NS type="IV"><i>plaing</i><c>playing</c></NS> for seven years<NS type="RP"><i>, secondly</i><c>.  Secondly</c></NS> I would like to attend a <NS type="W"><i>course of <NS type="RN"><i>surf</i><c>surfing</c></NS></i><c>surfing course</c></NS> but I have just some elementary knowledge.</p>
+          <p>I would like also to have more information about the cost and <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes you suggest <NS type="M"><c>I should</c></NS> <NS type="FV"><i>to bring</i><c>bring</c></NS> with me.</p>
+          <p>I am looking forward <NS type="MT"><c>to</c></NS> your reply</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>First of all I would like to say that I think it is important <NS type="W"><i>to concentrate this video in</i><c>in this video to concentrate</c></NS> <NS type="MT"><c>on</c></NS> <NS type="MD"><c>a</c></NS> few <NS type="UC"><i>but</i></NS> interesting <NS type="AGN"><i>part</i><c>parts</c></NS> of our daily life at school</p>
+          <p><NS type="W"><i><NS type="MA"><i>Interesting</i><c>It interesting</c></NS> will be</i><c>It will be interesting</c></NS> to show how the lessons are <NS type="TV"><i>organize</i><c>organized</c></NS>, <NS type="RV"><i><NS type="IV"><i>saing</i><c>saying</c></NS></i><c>showing</c></NS> that we are never doing just one <NS type="S"><i>activitie</i><c>activity</c></NS> during the class. We should speak about our library<NS type="MP"><c>,</c></NS> that it is well furnished <NS type="RT"><i>of</i><c>with</c></NS> <NS type="RQ"><i>several</i><c>many</c></NS> books, <NS type="AGN"><i>tape</i><c>tapes</c></NS> and <NS type="AGN"><i>video</i><c>videos</c></NS>.</p>
+          <p>After that we have to make sure that we explain <NS type="R"><i>how is it</i><c>about</c></NS> the relationship <NS type="S"><i>betwen</i><c>between</c></NS> teachers and students, showing the <NS type="UQ"><i>several</i></NS> <NS type="FN"><i>time</i><c>times</c></NS> that we have been out together.</p>
+          <p>In addition I think <NS type="MC"><c>that</c></NS> <NS type="W"><i>should be reported in this video some personal <NS type="AGN"><i>opinion</i><c>opinions</c></NS> about the school</i><c>some personal opinions about the school should be reported</c></NS> <NS type="MT"><c>by</c></NS> asking students and teachers.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> we should give some information also about our <NS type="W"><i>courses concerning tourism, <NS type="S"><i>buisness</i><c>business</c></NS> and computer</i><c>tourism, business and computer courses</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

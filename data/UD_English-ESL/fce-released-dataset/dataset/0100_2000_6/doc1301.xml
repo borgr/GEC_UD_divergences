@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR536*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>June 13th, 2000</p>
+          <p>Dear Mrs. Ryan,</p>
+          <p>First of all thank you very much for the good news that I have won the first <NS type="RN"><i>price</i><c>prize</c></NS> in your competition. I am very delighted and already looking forward to spending two weeks at Camp California in the U.S.A.<NS type="UP"><i>.</i></NS></p>
+          <p>As regards the time that I can travel<NS type="MP"><c>,</c></NS> I must tell you that my holidays at university are only in July. I hope that it <NS type="TV"><i>wouldn't</i><c>won't</c></NS> be a problem for you and that I can go to the Camp California at some time in July. I would like to stay in a log cabin as I have an <NS type="S"><i>allergie</i><c>allergy</c></NS> <NS type="RT"><i>against</i><c>to</c></NS> grass.</p>
+          <p><NS type="RY">Then</NS> you asked <NS type="MA"><c>me</c></NS> to <NS type="FV"><i>chose</i><c>choose</c></NS> two activities from the list you sent to me. I would like to do surfing and photography. I am a total beginner in both activities, but I think that these two weeks will be a good opportunity to learn something about them.</p>
+          <p>Finally<NS type="MP"><c>,</c></NS> I <NS type="W"><i>have also</i><c>also have</c></NS> some questions <NS type="RT"><i>to</i><c>for</c></NS> you. Firstly I would like to know what kind of clothes will be appropriate for the camp, secondly how much money I should take with me for the two weeks and lastly if there are any <NS type="RN"><i><NS type="S"><i>possibilies</i><c>possibilities</c></NS></i><c>facilities</c></NS> for cooking.</p>
+          <p><NS type="RP"><i>yours</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>'Shopping is not always enjoyable'</p>
+          <p>If you have to go shopping again, because the fridge is empty or you need some new clothes, a lot of time, patience and <NS type="S"><i>straingth</i><c>strength</c></NS> are needed. All kinds of shopping have more and more become <NS type="UT"><i>to</i></NS> a <NS type="W"><i>rather stressful activity</i><c>stressful activity rather</c></NS> than an enjoyable on.</p>
+          <p><NS type="RA"><i>I</i><c>It</c></NS> often begins with finding a <NS type="RN"><i>parking</i><c>parking space</c></NS> for the car, which can take more than 15 minutes. Leaving the car at home is also not a good <NS type="FN"><i>ideas</i><c>idea</c></NS> <NS type="MC"><c>as</c></NS> you often buy so much that you can't carry it in <NS type="UP"><i>plastic-bags</i><c>plastic bags</c></NS>.</p>
+          <p>The next stressful factor begins in the shop<NS type="RP"><i>:</i><c>.</c></NS> Everywhere people who are in a hurry <NS type="UC"><i>and</i></NS> push you from one side to the other. Consuming has become a very important thing for them. And if you are not quick enough they won't leave <NS type="MA"><c>you</c></NS> anything <NS type="UV"><i>left</i></NS>. But <NS type="AS"><i>there <NS type="S"><i>occure</i><c>occur</c></NS> also problems</i><c>problems also occur</c></NS> if there are products left: either you can't decide between two things or your favourite product is too expensive.</p>
+          <p>Having finally decided and got what you wanted <NS type="UT"><i>to</i></NS>, the next torture comes at the <NS type="UP"><i>cash-desk</i><c>cash desk</c></NS>, when you have to pay. You have to wait <NS type="RT"><i>at</i><c>in</c></NS> a long queue for more than 15 minutes.</p>
+          <p>So even if it's nice to have food or new clothes at home, without patience, time and <NS type="S"><i>straingth</i><c>strength</c></NS> you <NS type="RV"><i>should</i><c>had</c></NS> better stay at home or try to find the most convenient time for shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

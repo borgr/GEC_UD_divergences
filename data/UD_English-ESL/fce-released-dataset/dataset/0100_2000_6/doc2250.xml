@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR108*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>I am writing to thank you <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to send</i><c>sending</c></NS> me all the details about my prize and I'd like to give you <NS type="R"><i>a complete</i><c>all the</c></NS> information about the <NS type="R">journey will be done by myself</NS>.</p>
+          <p>I would like to travel at the beginning of the month, <NS type="MA"><c>which</c></NS> could be between <NS type="MD"><c>the</c></NS> first and <NS type="MD"><c>the</c></NS> <NS type="S"><i>fifteeth</i><c>fifteenth</c></NS> of <NS type="RP"><i>july</i><c>July</c></NS>, because afterwards I have several business meetings and it would be difficult for me to take a trip.</p>
+          <p><NS type="R"><i>Related with</i><c>Regarding</c></NS> accommodation, I'd prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>. Although I like camping and sharing with different <NS type="AGN"><i>kind</i><c>kinds</c></NS> of people, I'd prefer a <NS type="S"><i>confortable</i><c>comfortable</c></NS> and private place (if it's possible) where I can sleep, or be quiet.. I am not a teenager!</p>
+          <p>Really, <NS type="R">this prize is wonderful to have a healthy life</NS>. I want to do two activities<NS type="RP"><i>;</i><c>:</c></NS> painting and tennis. The first one is for my mental health<NS type="RP"><i>,</i><c>.</c></NS> I need a break <NS type="RT"><i>in</i><c>from</c></NS> my <NS type="R"><i>style of life</i><c>lifestyle</c></NS>. <NS type="RP"><i>the</i><c>The</c></NS> second one is just because I'm <NS type="MD"><c>a</c></NS> <NS type="RN"><i>fanatic</i><c>fan</c></NS> of that <NS type="AGN"><i>sports</i><c>sport</c></NS> (really I'm not martine hingis).</p>
+          <p><NS type="RY">Eventually</NS>, I'd like to request <NS type="UV"><i>to have</i></NS> <NS type="MQ"><c>some</c></NS> special food, because <NS type="R"><i>and</i><c>I'm a</c></NS> vegetarian <NS type="UN"><i>person</i></NS>, besides I try to eat just organic food.</p>
+          <p>I hope my reply has been <NS type="RJ"><i>suitable</i><c>helpful</c></NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you doing? It <NS type="AGV"><i>have</i><c>has</c></NS> been a long time since the last time I wrote <NS type="MT"><c>to</c></NS> you... I'm sorry. However<NS type="MP"><c>,</c></NS> the reason is absolutely amazing. I was training to be a personal <NS type="RN"><i>assistance</i><c>assistant</c></NS> to Madonna herself. Maybe<NS type="UP"><i>,</i></NS> you don't believe me, but it's true.</p>
+          <p>I applied <NS type="RT"><i>to</i><c>for</c></NS> the job and she selected me <NS type="RT"><i>between</i><c>from</c></NS> hundreds of candidates (I don't receive <NS type="MQ"><c>any</c></NS> salary). My <NS type="RN"><i>work</i><c>job</c></NS> is to help her during each concert. You know<NS type="UP"><i>,</i></NS> she has a brilliant <NS type="RN"><i>performance</i><c>act</c></NS> where she must change her <NS type="RN"><i>customs</i><c>costumes</c></NS>, <NS type="RP"><i>make up</i><c>make-up</c></NS>, <NS type="MD"><c>the</c></NS> scenery, <NS type="R"><NS type="RP"><i>everytime</i><c>every time</c></NS></NS>; so she needs a lot of people near.</p>
+          <p>My first job was <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="RP"><i>Hillsborough's</i><c>Hillsborough</c></NS> concert ( I think<NS type="UP"><i>,</i></NS> you heard about it). I was running <NS type="ID"><i>all the show</i><c>the whole show</c></NS><NS type="RP"><i>, my</i><c>. My</c></NS> <NS type="S"><i>responsability</i><c>responsibility</c></NS> was to <NS type="UV"><i>get</i></NS> dress her. I wasn't alone<NS type="RP"><i>,</i><c>.</c></NS> I worked with a staff of ten people. We had to take <NS type="UT"><i>of</i></NS> some clothes <NS type="MY"><c>off</c></NS> <NS type="MA"><c>her</c></NS> and then to put on <NS type="IQ"><i>others</i><c>other</c></NS> <NS type="W"><i>ones <NS type="DY"><i>completly</i><c>completely</c></NS> different</i><c>completely different ones</c></NS><NS type="UP"><i>,</i></NS> in just <NS type="MD"><c>a</c></NS> few minutes (similar to Formula One).</p>
+          <p>I was exhausted when the concert finished<NS type="RP"><i>, anyway</i><c>. Anyway</c></NS> it has been one of my best <NS type="AGN"><i>experience</i><c>experiences</c></NS> and I'll remember <NS type="MA"><c>it</c></NS> for <NS type="R"><i>life</i><c>ever</c></NS>.</p>
+          <p>Finally, I send you all my positive energy and I am looking forward to receiving your <NS type="RN"><i>letter back</i><c>reply</c></NS>.</p>
+          <p>all the best.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR144*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p><NS type="RP"><i>i</i><c>I</c></NS> am writing to reply <NS type="MT"><c>to</c></NS> your questions about me. Firstly, I would like to thank you <NS type="RT"><i><NS type="SX"><i>abut</i><c>about</c></NS></i><c>for</c></NS> this big opportunity you <NS type="TV"><i>give</i><c>are giving</c></NS> me to visit <NS type="R"><i>this</i><c>such a</c></NS> wonderful place <NS type="RT"><i>like</i><c>as</c></NS> California.</p>
+          <p>I would like to travel only in July because my boss <NS type="RP"><i>can not</i><c>cannot</c></NS> give me <NS type="RQ"><i>a</i><c>any</c></NS> <NS type="DN"><i>leaving</i><c>leave</c></NS> for the other months <NS type="RT"><i>of</i><c>in</c></NS> <NS type="RP"><i>Summer</i><c>summer</c></NS>.</p>
+          <p>Also, I prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I think it is a good chance for me to live with <NS type="UD"><i>the</i></NS> nature and to wake up <NS type="RV"><i>listening</i><c>hearing</c></NS> birds which <NS type="MV"><c>are</c></NS> singing. It will be nice!</p>
+          <p>Then you ask me which two activities I want to choose. To tell you the truth, I would prefer to do swimming and singing. I'm good <NS type="RT"><i>in</i><c>at</c></NS> both of these. I have been swimming for eight years! Also I like <NS type="W"><i>a lot music</i><c>music a lot</c></NS> and everybody tells me that I have a good voice.</p>
+          <p>I would like <NS type="FV"><i>ask</i><c>to ask</c></NS> you about the weather. I want to know if I should bring warm clothes or not and how much money.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>how are you? Thanks for <NS type="DD"><i>you</i><c>your</c></NS> letter. It was good to hear from you now. As you know this <NS type="RP"><i>Summer</i><c>summer</c></NS> I <NS type="TV"><i>really enjoy</i><c>am really enjoying</c></NS> myself doing things I like a lot.</p>
+          <p>Last month, Alice and her friends <NS type="RV"><i>proposed</i><c>suggested</c></NS> <NS type="MT"><c>to</c></NS> me <NS type="MC"><c>that</c></NS> <NS type="MA"><c>I</c></NS> <NS type="TV"><i>to help</i><c>help</c></NS> at a pop concert. The group which was singing was very famous and I was able to meet them and to chat about their plans for the future.</p>
+          <p>All I had to do was to prepare something to eat before the concert and to <NS type="RV"><i>control</i><c>check</c></NS> <NS type="W"><i>during it <NS type="UT"><i>about</i></NS> the sound</i><c>the sound during it</c></NS>.</p>
+          <p>The concert lasted <NS type="SX"><i>four</i><c>for</c></NS> hours and <NS type="RT"><i>in</i><c>at</c></NS> the end they wanted to pay me. I didn't want to take any money because I was so happy that I had seen the <NS type="W"><i>concert <NS type="UT"><i>of</i></NS> "Savage Garden"</i><c>Savage Garden concert</c></NS> <NS type="UT"><i>in</i></NS> live and because that night was the best of my life.</p>
+          <p>But the thing I particularly liked about my experience<NS type="UP"><i>,</i></NS> was the feeling when you are near and when you talk with <NS type="UD"><i>the</i></NS> <NS type="W"><i>people so famous</i><c><NS type="RY"><i>so</i><c>such</c></NS> famous people</c></NS>.</p>
+          <p>OK! That's all for now. I'm waiting for your letter.</p>
+          <p>See you soon,</p>
+          <p>Margaret</p>
+          <p>xxx</p>
+          <p>P.S. I hope you will find the spare time to visit my country this <NS type="RP"><i>Summer</i><c>summer</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

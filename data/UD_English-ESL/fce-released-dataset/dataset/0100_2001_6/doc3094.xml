@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE50*0100*2001*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Maria</i></NS> Smith,</p>
+          <p>I am writing to give you some information <NS type="M"><c>that you</c></NS> asked <NS type="MT"><c>for</c></NS> in your letter, which I received this morning.</p>
+          <p>Your group has been booked <NS type="RT"><i>in</i><c>into</c></NS> <NS type="MD"><c>the</c></NS> Palace Hotel which is one of the most comfortable hotels in London. Personally, I am glad that you will have this opportunity to use its various facilities. It is <NS type="RV"><i>based</i><c>located</c></NS> in the city centre and is about half an hour by underground from the conference. In my <NS type="S"><i>oppinion</i><c>opinion</c></NS> the easiest way to get there from the conference would be by taking the Picadelly line. However you <NS type="RV"><i>would</i><c>could</c></NS> take bus number 150, if you would like to have a look at the city centre and you <NS type="W"><i>have some free time also</i><c>also have some free time</c></NS>.</p>
+          <p>Regarding <NS type="UT"><i>to</i></NS> the end-of-conference party, I would suggest <NS type="FV"><i>to wear</i><c>wearing</c></NS> <NS type="R"><i>some</i><c>a</c></NS> dress for a woman and an elegant suit for a man, though<NS type="UP"><i>,</i></NS> it is <NS type="X"><i>no</i><c>not</c></NS> <NS type="MD"><c>a</c></NS> formal do. The party will finish quite late<NS type="MP"><c>,</c></NS> so we've decided to provide a bus which <NS type="TV"><i>would</i><c>will</c></NS> take you to the hotel safely.</p>
+          <p><NS type="DY"><i>Basicaly</i><c>Basically</c></NS>, during three <NS type="AGN"><i>hour</i><c>hours</c></NS> <NS type="UN"><i>time</i></NS> in the afternoon nobody is able to visit all of <NS type="MD"><c>the</c></NS> interesting places <NS type="RT"><i>of</i><c>in</c></NS> London. However<NS type="MP"><c>,</c></NS> you <NS type="RV"><i>would</i><c>could</c></NS> <NS type="RV"><i>have</i><c>take</c></NS> a long walk along the river to take some essential photos.</p>
+          <p>I look forward to welcoming you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Are you always happy when your <NS type="S"><i>telephon</i><c>telephone</c></NS> <NS type="AGV"><i>ring</i><c>rings</c></NS>?</p>
+          <p>As far as I <NS type="RV"><i>am</i><c>know</c></NS><NS type="MP"><c>,</c></NS> <NS type="UJ"><i>concerned</i></NS> the telephone was invented in <NS type="MD"><c>the</c></NS> 19th century. It <NS type="TV"><i>has been affecting</i><c>affected</c></NS> our <NS type="IN"><i>lifes</i><c>lives</c></NS> very quickly, although there <NS type="TV"><i>were</i><c>are</c></NS> some different <NS type="RN"><i>ways</i><c>means</c></NS> of communication <NS type="RT"><i>as</i><c>such as</c></NS> TV, for instance. Since the <NS type="RP"><i>internet</i><c>Internet</c></NS> was introduced, many of us <NS type="TV"><i><NS type="RV"><i>wouldn't have imagined</i><c>couldn't have imagined</c></NS></i><c>can't imagine</c></NS> <NS type="UD"><i>the</i></NS> <NS type="FN"><i><NS type="IN"><i>lifes</i><c>lives</c></NS></i><c>life</c></NS> without <NS type="RA"><i>this</i><c>it</c></NS>. We <NS type="TV"><i>were able even</i><c>have even been able</c></NS> to have our own telephone kept in our pocket for <NS type="UD"><i>a</i></NS> some time.</p>
+          <p>However, are you always happy when your personal phone rings<NS type="RP"><i>.</i><c>?</c></NS> <NS type="UY"><i>On the other hand</i></NS> I wonder whether you have experienced some situations when you wouldn't have your mobile switched on.</p>
+          <p>This invention has <NS type="RV"><i>affected</i><c>changed</c></NS> my life completely. Since I have been <NS type="IV"><i>traveling</i><c>travelling</c></NS> around the world<NS type="MP"><c>,</c></NS> <NS type="R">I would have imagined</NS> <NS type="IV"><i>beeing</i><c>being</c></NS> in <NS type="SX"><i>tough</i><c>touch</c></NS> with my family or friends without <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> or my mobile phone.</p>
+          <p>In spite of having the opportunity of keeping <NS type="MT"><c>in</c></NS> contact with friends at <NS type="UD"><i>the</i></NS> <NS type="FN"><i>time</i><c>times</c></NS> <NS type="MY"><c>when</c></NS> we are far away from home, we should <NS type="R"><i>have <NS type="UV"><i>been</i></NS> knowledge</i><c>know</c></NS> how to use it without <NS type="RV"><i>interrupting</i><c>disturbing</c></NS> others.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

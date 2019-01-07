@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR435*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam; I am writing to complain about the musical <NS type="UN"><i>show</i></NS> "Over The Rainbow", which <NS type="R"><i>as</i><c>was</c></NS> <NS type="RV"><i>organised</i><c>performed</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> your theatre. Firstly, I had been looking forward to that show since Danny Brook was to be one of the main actors; however, there was <NS type="AGQ"><i>other</i><c>another</c></NS> actor instead of him, which <NS type="W"><i><NS type="RV"><i>came</i><c>was</c></NS> to me as a great disappointment</i><c>was a great disappointment to me</c></NS>. Secondly, as for the times <NS type="M"><c>of the performance</c></NS>, instead of 19.30 it <NS type="UQ"><i>all</i></NS> started at 20:15, which <NS type="RV"><i>involved</i><c>meant</c></NS> being stranded <NS type="RT"><i>in</i><c>at</c></NS> the theatre for such a long time. <NS type="ID"><i>Added to this</i><c>In addition</c></NS>, I had brought very little money in the hope that I would get a discount. <NS type="RY"><i>Nevertheless</i><c>However</c></NS>, there was not any available. Finally, as regards the theatre restaurant, it was closed due to problems with the pipes. As you may realize, it was not a perfect evening out but a complete disaster. I am asking you <NS type="MT"><c>for</c></NS> a full refund or at least <NS type="R"><i>part</i><c>some</c></NS> of my money back. I look forward to hearing from you, Yours faithfully ANDREHI LISA DANZELLI</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. What is more, every time I trusted her with my secrets, she always let me down. It was always the same; she would meet with her neighbours afterwards and give my secrets away. To make matters worse, people gossiped about me and tried to find out more and more about my private affairs, which made me feel embarrassed. The worst <NS type="RN"><i>point</i><c>thing</c></NS> was that she started to make up false stories about me, which soon spread all around the neighbourhood.</p>
+          <p>Needless to say, I couldn't put up with that situation any longer so I <NS type="RV"><i>determined</i><c>decided</c></NS> to fall out with her. Since then, I <NS type="AGV"><i><NS type="S"><i>hasen't</i><c>hasn't</c></NS></i><c>haven't</c></NS> talked to her again, despite the fact that she regretted doing all that and really wanted to make up with me. <NS type="ID">Of course</NS>, I became aware of her feelings since a friend of mine overheard a conversation between Pat and <NS type="AGQ"><i>other</i><c>another</c></NS> girl. In spite of that, I found it difficult to forgive her as she had hurt my feelings; that's why the only thing I could tell her <NS type="RT"><i>since</i><c>after</c></NS> we had quarrelled was: "It serves you right, I'll hate you for the rest of your life!"</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

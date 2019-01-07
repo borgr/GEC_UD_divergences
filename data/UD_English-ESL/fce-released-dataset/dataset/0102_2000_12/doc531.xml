@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR219*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Rome 16th December 2000</p>
+          <p>Dear Jane X,</p>
+          <p>I'm an <NS type="RP"><i>italian</i><c>Italian</c></NS> boy who went to the International Arts Festival last November and I enjoyed most of the events I went to<NS type="MP"><c>,</c></NS> but <NS type="R"><i>given that</i><c>because</c></NS> I think that the Festival could be better next year I <NS type="TV"><i>write</i><c>am writing</c></NS> <NS type="MT"><c>to</c></NS> you <NS type="U"><i>these lines</i></NS> in order to <NS type="RV"><i>make</i><c>let</c></NS> you <NS type="RV"><i>know</i><c>hear</c></NS> some observations of mine about the festival.</p>
+          <p>The <NS type="RP"><i>Festival</i><c>festival</c></NS> on its own is a great idea because there aren't many of these events dealing with art but I think that instead of inviting stars and artists <NS type="W"><i>only from</i><c>from only</c></NS> six counties they could be invited <NS type="RY">really</NS> from all <NS type="MT"><c>over</c></NS> the world.</p>
+          <p>Furthermore, and <NS type="RY"><i>for sure</i><c>certainly</c></NS> it is not your fault, some of the halls for the concerts were too small and that prevented me from enjoying some of the concerts because of the noise but also prevented many people from entering the hall<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> was often <NS type="SX"><i>two</i><c>too</c></NS> crowded.</p>
+          <p>I hope next year <NS type="AS"><i>plays and films will be more</i><c>there will be more play and films</c></NS> and that the ticket will be <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> <NS type="R">as this year in way that people not really interested in arts could come and enjoy the festival</NS>.</p>
+          <p><NS type="ID">Friendly</NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Rome 16th December 2000</p>
+          <p>Dear Marie,</p>
+          <p>I'm going to write <NS type="UA"><i>you</i></NS> about rules in my country and I have to tell you that life in school isn't too hard because even if there are <NS type="L"><i>many</i><c>a lot of</c></NS> rules to follow nobody does <NS type="UA"><i>it</i></NS>.</p>
+          <p>It's written in the <NS type="DN"><i>regulament</i><c>regulations</c></NS> that we can't leave the school during the breaks; we can't smoke near the classrooms; we <NS type="TV"><i>had</i><c>have</c></NS> to justify our absences or <NS type="DN"><i>late-enterings</i><c>lateness</c></NS> and even if you're over eighteen your parents have to <NS type="RV">justify</NS> you with the teacher.</p>
+          <p>At my home every rule must be respected.</p>
+          <p>Even if my parents don't <NS type="CE">look after me for all the matters</NS> like going out <NS type="RT"><i>on</i><c>at</c></NS> <NS type="FN"><i>nights</i><c>night</c></NS> or studying you <NS type="TV"><i>don't have to think</i><c>shouldn't think</c></NS> that living in my house is like living in heaven because I can't play the guitar or listen to music at a loud volume or invite my friends <NS type="MY"><c>over</c></NS> for a Saturday night party.</p>
+          <p>These are the things that I'd like to <NS type="RV"><i>chance</i><c>change</c></NS>; I'd like to do what I really want <NS type="MV"><c>to do</c></NS> but I don't know if I'm really ready for this!!</p>
+          <p>With love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

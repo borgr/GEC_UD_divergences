@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR455*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>I'M <NS type="IV"><i>WRITTING</i><c>WRITING</c></NS> THIS LETTER BECAUSE TWO WEEKS AGO I WAS IN LONDON AND I WENT TO THE THEATRE TO SEE YOUR MUSICAL SHOW. AND <NS type="RT"><i>FOR</i><c>THROUGH</c></NS> SEEING IT MY FAMILY HAD A VERY DISAPPOINTING EVENING AND SO DID I <NS type="U"><i>FOR IT</i></NS><NS type="MP"><c>.</c></NS> YOU CAN READ BELOW MY POINT OF VIEW <NS type="RT"><i>ABOUT</i><c>REGARDING</c></NS> <NS type="RA"><i>IT</i><c>THIS</c></NS>.</p>
+          <p>FIRST OF ALL, WE COULDN'T SEE THE FAMOUS ACTOR "DANNY BROOK" <NS type="S"><i>BECAUS</i><c>BECAUSE</c></NS> HE WAS ILL . I THINK THAT <NS type="W"><i><NS type="R"><i>ONLY</i><c>ALONE</c></NS> FOR <NS type="RA"><i>IT</i><c>THIS</c></NS> THE MUSICAL SHOW <NS type="RV"><i>HAD</i><c>SHOULD</c></NS> <NS type="FV"><i>TO HAVE</i><c>HAVE</c></NS> <NS type="TV"><i>BEING</i><c>BEEN</c></NS> <NS type="IV"><i>CANCELED</i><c>CANCELLED</c></NS></i><c>THE MUSICAL SHOW SHOULD HAVE BEEN CANCELLED FOR THIS ALONE</c></NS>.</p>
+          <p><NS type="ID">ON THE OTHER HAND</NS> WE THOUGHT <NS type="MT"><c>OF</c></NS> <NS type="FV"><i>TO VISIT</i><c>VISITING</c></NS> THE THEATRE RESTAURANT BUT IT WAS CLOSED BECAUSE THE <NS type="UJ"><i>MUSICAL</i></NS> SHOW DIDN'T BEGIN AT 19:30<NS type="MP"><c>,</c></NS> AS WE <NS type="RV"><i>COULD</i><c>HAD</c></NS> READ IN THE ADVERTISEMENT<NS type="MP"><c>,</c></NS> IT BEGAN AT 20:15.</p>
+          <p>IN CONCLUSION<NS type="MP"><c>,</c></NS> AFTER OF ALL THESE MISTAKES THAT HAPPENED IN YOUR <NS type="RN"><i>SHOW</i><c>THEATRE</c></NS> I ASK FOR ALL MY MONEY <NS type="UV"><i>MUST</i></NS> <NS type="FV"><i>BE</i><c>TO BE</c></NS> RETURNED TO ME.</p>
+          <p>PLEASE GET IN CONTACT WITH ME AS SOON AS POSSIBLE.</p>
+          <p>YOURS FAITHFULLY</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>NOWDAYS</i><c>NOWADAYS</c></NS> THE MAJORITY OF PEOPLE HAVE A COMPUTER IN THEIR HOME AND SOMETIMES WE <NS type="RV"><i>WONDER</i><c>ASK</c></NS> OURSELVES <NS type="R"><i>HOW</i><c>IF</c></NS> <NS type="W"><i>WILL MODERN TECHNOLOGY</i><c>MODERN TECHNOLOGY WILL</c></NS> CHANGE OUR DAILY LIFE.</p>
+          <p>FROM MY POINT OF VIEW THE ANSWER IS OBVIOUSLY "YES". FROM OUR HOME WE CAN USE IT FOR DOING A LOT OF THINGS LIKE <NS type="FV"><i>TO BUY</i><c>BUYING</c></NS> FOOD; <NS type="FV"><i>TO WORK</i><c>WORKING</c></NS>, <NS type="FV"><i>TO READ</i><c>READING</c></NS> NEWSPAPERS AND MANY MORE THINGS.</p>
+          <p>ALTHOUGH IT MAY BE BAD BECAUSE WE NEEDN'T <NS type="FV"><i>TO GO</i><c>GO</c></NS> OUT <NS type="UT"><i>FOR</i></NS> <NS type="FV"><i>DOING</i><c>TO DO</c></NS> <NS type="UD"><i>THE</i></NS> <NS type="RJ"><i>MAIN</i><c>IMPORTANT</c></NS> THINGS AND <NS type="RT"><i>FOR</i><c>BECAUSE OF</c></NS> IT WE DON'T <NS type="RV"><i>KNOW</i><c>MEET</c></NS> NEW PEOPLE AND <NS type="U"><i>WITH THE TIME</i></NS> WE HAVE LESS CONTACT WITH <NS type="UD"><i>THE</i></NS> PEOPLE.</p>
+          <p>IN CONCLUSION I THINK THAT <NS type="UD"><i>THE</i></NS> MODERN TECHNOLOGY WOULD BE BETTER IF WE KNEW HOW IT <NS type="RV"><i>MUST</i><c>OUGHT</c></NS> <NS type="FV"><i>BE</i><c>TO BE</c></NS> <NS type="R"><i>USED TO</i><c>USED</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

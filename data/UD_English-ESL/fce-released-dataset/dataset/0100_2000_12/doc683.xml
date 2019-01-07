@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR264*0100*2000*02">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I am writing to you about the trip to London. All of the students in my class have read through the programmes that you have <NS type="RV"><i>set</i><c>devised</c></NS><NS type="RP"><i>, they</i><c>. They</c></NS> are quite interesting, especially the river trip to Greenwich, because some of us may go to the university there next year. So we can walk around and see <NS type="AS"><i>how it looks like in Greenwich</i><c>what Greenwich looks like</c></NS>.</p>
+          <p>All of us want to go <NS type="RT"><i>to</i><c>on</c></NS> this trip, but some of my classmates saw an advertisement for the London Fashion and Leisure Show, and we <NS type="W"><i>all would</i><c>would all</c></NS> like to go there. It is from 10 am to 7 p.m.<NS type="UP"><i>, it</i><c> It</c></NS> <NS type="R">is about</NS> the latest fashion, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles<NS type="RP"><i>, all</i><c>. All</c></NS> of us are really <NS type="RJ"><i>interesting</i><c>interested</c></NS>, and it is free for <NS type="FN"><i>student</i><c>students</c></NS> to get in as well. It is a really good opportunity to go because most of us are studying fashion design, and we can learn loads of things <NS type="UT"><i>in</i></NS> there. So <NS type="RV"><i>may</i><c>would</c></NS> you please <NS type="RV"><i>change</i><c>reschedule</c></NS> the visit <NS type="RT"><i>of</i><c>to</c></NS> the Science Museum <NS type="RT"><i>to</i><c>for</c></NS> Wednesday afternoon, and we can cancel our shopping and free time, so we can go to the fashion show on Tuesday.</p>
+          <p>Yours <NS type="RY"><i>Faithfully</i><c>Sincerely</c></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p>It was two years ago<NS type="RP"><i>, <NS type="L"><i>me and my classmates</i><c>my classmates and I</c></NS></i><c>. My classmates and I</c></NS> went <NS type="RT"><i>to</i><c>on</c></NS> a leadership trip <NS type="RT"><i>in</i><c>to</c></NS> London. This trip was organised by our form tutor<NS type="RP"><i>, he</i><c>. He</c></NS> wanted to test <NS type="UA"><i>us</i></NS> if we <NS type="TV"><i>trust</i><c>trusted</c></NS> each other and worked in a team, and the trip <NS type="TV"><i>last</i><c>lasted</c></NS> for 3 days. The first days <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="UV"><i>going</i></NS> fine<NS type="RP"><i>, we</i><c>. We</c></NS> just had to do some teamwork things.</p>
+          <p><NS type="RT"><i>In</i><c>On</c></NS> the second day, we had to climb up a <NS type="DJ"><i>twenty metres</i><c>twenty-metre</c></NS> hill with our hands. It was so difficult for me because I <NS type="TV"><i>was</i><c>had been</c></NS> really scared to stand <NS type="RT"><i>in</i><c>on</c></NS> a high place since I was young. I did not want to climb up but I did not have any choice. So I started to climb really slow and <NS type="DY"><i>careful</i><c>carefully</c></NS>, and I climbed about 15 metres quite <NS type="DY"><i>success</i><c>successfully</c></NS>, so I tried to climb quicker because the destination was not far away. But after I climbed two steps more, my right <NS type="AGN"><i>feet</i><c>foot</c></NS> slipped <NS type="UY"><i>over</i></NS><NS type="RP"><i>,</i><c>.</c></NS> I <NS type="UV"><i>was</i></NS> nearly fell <NS type="UY"><i>down</i></NS>, but <NS type="DY"><i>luckly</i><c>luckily</c></NS> my hand caught a rock<NS type="RP"><i>, it</i><c>. It</c></NS> was dangerous, but I didn't <NS type="FV"><i>had</i><c>have</c></NS> any choice<NS type="RP"><i>, finally</i><c>. Finally</c></NS> I did it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

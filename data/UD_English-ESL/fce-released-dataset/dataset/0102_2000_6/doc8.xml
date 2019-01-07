@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR787*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you to complain about the musical <NS type="UN"><i>show</i></NS> that I saw when I went to the theatre <NS type="RT"><i>on</i><c>during</c></NS> my holidays in London.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I had read in the advertisement that it would start at 19:30 and that I <NS type="RV"><i>would have</i><c>could get</c></NS> <NS type="R"><i>some</i><c>a</c></NS> discount, but it started at 20:15, <NS type="RA"><i>what</i><c>which</c></NS> <NS type="TV"><i>means</i><c>meant</c></NS> that I had to wait for <NS type="MP"><i><NS type="S"><i>forthy five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes, and there wasn't any discount on tickets.</p>
+          <p><NS type="ID"><i>For my surprise</i><c>To my surprise</c></NS> Danny Brook never <NS type="IV"><i>apeard</i><c>appeared</c></NS>. There was a different actor instead and it <NS type="RV"><i>put</i><c>made</c></NS> me very <NS type="RJ"><i>nervous</i><c>annoyed</c></NS>. He is my <NS type="SA"><i>favorite</i><c>favourite</c></NS> actor and I <NS type="TV"><i>pay</i><c>paid</c></NS> to <NS type="TV"><i>saw</i><c>see</c></NS> him not to <NS type="TV"><i>saw</i><c>see</c></NS> a different actor.</p>
+          <p>Finally at the end of the <NS type="SX"><i>sow</i><c>show</c></NS> I decided to <NS type="FV"><i>went</i><c>go</c></NS> to the theatre restaurant but it was closed because it <NS type="RV"><i>wasn't</i><c>hadn't</c></NS> been <NS type="S"><i>repeard</i><c>repaired</c></NS> <NS type="UY"><i>yet</i></NS>. I think you <NS type="RV"><i>must</i><c>should have</c></NS> told people about this in the advertisement.</p>
+          <p>I was a bit disappointed because you <NS type="RV"><i>told</i><c>said</c></NS> that it would be a perfect evening and it wasn't.</p>
+          <p>I enclose my postal addresses and I will be looking forward to a <NS type="DJ"><i>completly</i><c>complete</c></NS> <NS type="SX"><i>refound</i><c>refund</c></NS></p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future</p>
+          <p><NS type="R">We could see all over the human being</NS> How <NS type="UD"><i>the</i></NS> fashion <NS type="TV"><i>change</i><c>has changed</c></NS> in its colours and styles, Since the first men on the earth started to wear <NS type="MQ"><c>some</c></NS> kind of clothes because they were a bit cold</p>
+          <p>Asking people about the Fashion of the Future you realise that there are different opinions. Adults think that <NS type="MD"><c>the</c></NS> new coloured clothes<NS type="UP"><i>,</i></NS> that young people wear are horrible <NS type="R"><i>an</i><c>and</c></NS> very untraditional. Most of them believe that they are kind of crazy or <NS type="S"><i>ievel</i><c>evil</c></NS>. They think that in the future they will change and start to wear more formal clothes.</p>
+          <p>On the other hand young people believe that in the Future things'll be very different. Carol, <NS type="MD"><c>a</c></NS> <NS type="MP"><i><NS type="IJ"><i>16 years old</i><c>16 year old</c></NS></i><c>16-year-old</c></NS> girl, said<NS type="MP"><c>,</c></NS> "I imagine clothes in the future <NS type="MV"><c>will be</c></NS> very <NS type="S"><i>strang</i><c>strange</c></NS>. <NS type="RP"><i>May be</i><c>Maybe</c></NS> they <NS type="TV"><i>would have</i><c>will be</c></NS> <NS type="MT"><c>in</c></NS> many <NS type="SA"><i>colors</i><c>colours</c></NS> and they <NS type="TV"><i>would</i><c>will</c></NS> be very <NS type="S"><i>thight</i><c>tight</c></NS>. They <NS type="TV"><i>would</i><c>will</c></NS> be <NS type="S"><i>sinthetic</i><c>synthetic</c></NS> clothes, I think<NS type="MP"><c>,</c></NS> made of plastic or something similar."</p>
+          <p>Most young people <NS type="RT"><i>as</i><c>like</c></NS> Carol believe the same and use their minds to <NS type="S"><i>imagin</i><c>imagine</c></NS> the variety of clothes in the future. After <NS type="R"><i>wear</i><c>all</c></NS><NS type="MP"><c>,</c></NS> they'll be the ones that <NS type="S"><i>dicide</i><c>decide</c></NS> <NS type="R"><i>How</i><c>what</c></NS> the Fashion of the Future will be like.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

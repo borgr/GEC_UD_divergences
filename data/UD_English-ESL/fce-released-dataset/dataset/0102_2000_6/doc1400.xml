@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR48*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>&lt;16</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm writing to complain about a musical show which I've seen recently at your theatre. There are several <NS type="S"><i>reasones</i><c>reasons</c></NS> why I wasn't satisfied with it.</p>
+          <p>Firstly, it was written in the advertisement that a famous actor<NS type="MP"><c>,</c></NS> Danny Brook<NS type="MP"><c>,</c></NS> would <NS type="RV"><i>play</i><c>act</c></NS> in the show. Despite <NS type="RA"><i>it</i><c>that</c></NS>, a different actor <NS type="IV"><i>stared</i><c>starred</c></NS> in the performance, which was really disappointing. Secondly, the beginning of the show was 45 minutes later than it was supposed to be. Thirdly, no discounts were made when I was buying the tickets. Lastly, the theatre restaurant was closed after the show.</p>
+          <p>That evening wasn't my perfect one <NS type="UT"><i>out</i></NS>, although it was promised to be so in the advertisement. This is the main <NS type="S"><i>reasone</i><c>reason</c></NS><NS type="UP"><i>,</i></NS> why I want to ask for a refund. In my opinion, this would be quite fair.</p>
+          <p>I'm going to visit the Circle Theatre this Sunday. I hope I'll get at least a part of the money I've paid back.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future.</p>
+          <p><NS type="RT"><i>During</i><c>Over</c></NS> the centuries man's clothes <NS type="AGV"><i>has</i><c>have</c></NS> been changing and even developing in some <NS type="AGN"><i>way</i><c>ways</c></NS>. People wore clothes made from metal, which were rather heavy, I suppose. They wore enormous luxurious dresses, which, in my opinion, you can't feel very comfortable in. Nowadays people wear more <NS type="RJ"><i>common</i><c>ordinary</c></NS> clothes. I think we can <NS type="RV"><i>make</i><c>draw</c></NS> a conclusion: <NS type="RT"><i>during</i><c>over</c></NS> the centuries man's clothes have been becoming less heavy and luxurious and more <NS type="RJ"><i>common</i><c>ordinary</c></NS>.</p>
+          <p>People's clothes have been changing from <NS type="DN"><i>metalwear</i><c>armour</c></NS> to shorts and miniskirts. That's why I suppose<NS type="UP"><i>,</i></NS> that man's clothes will be becoming <NS type="IJ"><i>more and more light</i><c>lighter and lighter</c></NS>. I think, they will be made of universal materials, which will be rather light and thin. People won't be <NS type="S"><i>embarassed</i><c>embarrassed</c></NS> to show the beauty of their bodies. Perhaps, clothes will be rather small. I think, that different tops and mini-skirts will become more popular. Maybe, people will create something even smaller than that.</p>
+          <p>Who knows what will happen in the future? Perhaps, <NS type="DN"><i>metalwear</i><c>armour</c></NS> will become a craze again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

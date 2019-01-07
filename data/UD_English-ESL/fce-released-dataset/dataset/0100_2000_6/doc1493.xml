@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR87*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>31-40</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>Even if I worked hard on it, I was very surprised <NS type="UT"><i>of</i></NS> <NS type="FV"><i>winning</i><c>to win</c></NS> <NS type="UY"><i>just</i></NS> the first prize.</p>
+          <p>At the moment, I'm worried <NS type="UT"><i>of</i></NS> about not being able to enjoy it because I have recently <NS type="RV"><i>achieved</i><c>got</c></NS> a new job and I started working just three months ago. For this reason I am afraid I won't be allowed to <NS type="TV"><i>chose</i><c>choose</c></NS> the <NS type="RN"><i>period</i><c>time</c></NS> <NS type="RT"><i>for</i><c>of</c></NS> my holidays.</p>
+          <p>Consequently I hope that <NS type="MA"><c>it</c></NS> is possible to join the camp during the last two weeks of July, when the company I work <NS type="RT"><i>with</i><c>for</c></NS> suspends its activities. As far as I am concerned, I would prefer <NS type="R"><i>an <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>to stay</c></NS> in a log cabin, but in case there are no cabins left I can stay in a <NS type="SX"><i>tend</i><c>tent</c></NS> as well.</p>
+          <p>As you already know, I am trying to become a professional photographer, consequently I would choose <NS type="S"><i>photograpy</i><c>photography</c></NS> as the first <NS type="AGN"><i>activities</i><c>activity</c></NS> and painting as the second.</p>
+          <p>However<NS type="MP"><c>,</c></NS> I would like to know if by any chance the <NS type="S"><i>photograpy</i><c>photography</c></NS> activities are only for beginners. In this case I would rather do some climbing, which I have never done before.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>- Shopping is not always enjoyable -.</p>
+          <p>In general, shopping is considered a pleasant activity. <NS type="DY"><i>Actualy</i><c>Actually</c></NS> most people work hard to earn their money and consequently, the occasion <NS type="RT"><i>in</i><c>on</c></NS> which this money is spent to buy something useful, or simply something they like, should be considered a very pleasant <NS type="RN"><i>situation</i><c>occasion</c></NS>. In fact, the shopping you do for <NS type="R"><i>the</i><c>your</c></NS> daily needs is seldom <NS type="S"><i>enjouble</i><c>enjoyable</c></NS>, as it is clearly more a duty than a pleasure and <NS type="S"><i>morover</i><c>moreover</c></NS> you are often faced with some nasty situations. Shops and markets are often noisy and crowded, you don't know where to park your car, shop assistants are rude and sometimes they don't know how to do their job. Anyway if you can choose the time and the place, and if you go shopping just because you like it, and not because you need <NS type="R"><i>it</i><c>to</c></NS>, shopping can be a very nice activity.</p>
+          <p>Personally I don't like dealing with shop assistants and looking around the shops, so I buy all <NS type="RA"><i>what</i><c>that</c></NS> I can using "on-line" services.</p>
+          <p>God bless the <NS type="RN"><i>one</i><c>person</c></NS> who invented the Internet!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR571*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>London 17 June 2000</p>
+          <p>Dear Sir/Madam,</p>
+          <p>I recently had a week's holiday in London, so I went to the theatre to see a musical <NS type="UN"><i>show</i></NS><NS type="MP"><c>,</c></NS> 'Over the Rainbow'<NS type="MP"><c>,</c></NS> at 'The Circle Theatre', where you are the manager.</p>
+          <p>I had a terrible evening, so there were a lot of faults in the event of last Saturday: The first point, the show started at 20:15 (it was <NS type="UY"><i>too</i></NS> late). The second point, the principal actor was changed. The third point was that the <NS type="FN"><i>discounts</i><c>discount</c></NS> tickets were unavailable and<NS type="MP"><c>,</c></NS> finally, the theatre restaurant was closed because the oven was broken and we couldn't enjoy <NS type="MA"><c>ourselves</c></NS> there after the musical <NS type="UN"><i>show</i></NS>.</p>
+          <p>I would be grateful if you could send <NS type="R"><i>a</i><c>me my</c></NS> money back because it was a horrible evening for my family and it wasn't a perfect evening out.</p>
+          <p>I hope to have news <NS type="RT"><i>about</i><c>from</c></NS> you as soon as possible</p>
+          <p>Yours faithfully,</p>
+          <p>JUAN SAN SEBASTIAN</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="UD"><i>The science</i><c>Science</c></NS> and technology have changed my <NS type="W"><i>life every day</i><c>everyday life</c></NS>.</p>
+          <p><NS type="CN"><i><NS type="UD"><i>The modern technologies</i><c>Modern technologies</c></NS></i><c>Modern technology</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> used all the time at home, at school or <NS type="MC"><c>while</c></NS> working.</p>
+          <p>When I was a child I didn't use the computer because I didn't know what <NS type="MA"><c>it</c></NS> <NS type="TV"><i>is</i><c>was</c></NS> <NS type="UA"><i>that</i></NS>. <NS type="RY">Actually</NS>, I can work with it in my office and <NS type="FV"><i><NS type="IV"><i>visitting</i><c>visiting</c></NS></i><c>visit</c></NS> some <NS type="DN"><i>web-place</i><c>website</c></NS> using the new technologies such as <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>.</p>
+          <p><NS type="UD"><i><NS type="S"><i>The live</i><c>The life</c></NS></i><c>Life</c></NS> is more comfortable with all the new machines you can use at home, <NS type="MC"><c>or</c></NS> at the office<NS type="MP"><c>,</c></NS> or <NS type="R"><i>it</i><c>new technology</c></NS> <NS type="R"><i>is <NS type="S"><i>helful</i><c>helpful</c></NS></i><c>helps us</c></NS> to live with all the new medical machines in the hospitals.</p>
+          <p>The new <NS type="DN"><i>invents</i><c>inventions</c></NS> have transformed my life, so it is easier with <NS type="UD"><i>the</i></NS> <NS type="CN"><i>modern technologies</i><c>modern technology</c></NS> (the mobile, the car, the plane, the coach, the train, the medical advances and domestic <NS type="RN"><i>machines</i><c>appliances</c></NS>), they have <NS type="RV"><i>done</i><c>created</c></NS> more <NS type="DN"><i><NS type="S"><i>confortable</i><c>comfortable</c></NS></i><c>comfort</c></NS> and pleasure.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

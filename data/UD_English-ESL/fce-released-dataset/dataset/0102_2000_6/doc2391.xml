@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR963*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Mr./Mrs Manager,</p>
+          <p>I am writing to complain about a musical <NS type="UN"><i>show</i></NS> I went <NS type="MT"><c>to</c></NS> one week ago.</p>
+          <p>Firstly, I was really disappointed when I realised that the actor Danny Brook was not performing <NS type="R"><i>due to</i><c>for</c></NS> personal reasons<NS type="RP"><i>,</i><c>.</c></NS> I like this actor very much and it was not the same without him. Moreover, the musical <NS type="UN"><i>show</i></NS> was supposed to start at 19.30 but it started at 20:15<NS type="MP"><c>,</c></NS> making all the <NS type="RN"><i>spectators</i><c>audience</c></NS> wait for nearly an hour.</p>
+          <p>To make matters worse, there were <NS type="RD"><i>not</i><c>no</c></NS> <NS type="W"><i>ticket discounts</i><c>discounts on tickets</c></NS> <NS type="MQ"><c>such</c></NS> as you advertised. Because of this I had to buy <NS type="M"><c>a ticket for</c></NS> the cheapest and worst seat available. As if this were not enough<NS type="MP"><c>,</c></NS> once the show ended I had to walk twenty blocks to find a Restaurant since the theatre Restaurant was closed for <NS type="S"><i>mainteneance</i><c>maintenance</c></NS>.</p>
+          <p>I, therefore, request an immediate refund of the £10 I spent on your musical <NS type="UN"><i>show</i></NS> as I believe your theatre is directly to blame.</p>
+          <p>Looking forward to receiving your prompt reply.</p>
+          <p>Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed my daily life?</p>
+          <p>Well, it's pretty simple to answer this.</p>
+          <p>Everything started when I was eight years old and my family bought a Personal Computer<NS type="RP"><i>,</i><c>.</c></NS> I didn't <NS type="TV"><i>paid</i><c>pay</c></NS> attention to it <NS type="R"><i>at that moment</i><c>then</c></NS> but as <NS type="UY"><i>soon</i></NS> as I grew older I started to like and play Computer games.</p>
+          <p>The years went by and after buying a newer, faster and better PC I found myself writing letters, doing <NS type="UN"><i>School</i></NS> homework and <NS type="M"><c>in the</c></NS> evening learning with my Computer. In spite of my family telling me to turn the PC off and talk <NS type="RT"><i>with</i><c>to</c></NS> them, I kept on<NS type="MP"><c>,</c></NS> <NS type="DJ"><i>stucked</i><c>stuck</c></NS> in front of the screen.</p>
+          <p>Nowadays it is a fact that my life wouldn't be the same without my PC. After I got connected to the Internet my life <NS type="UV"><i>has</i></NS> completely changed. I spend my free time building my Personal Web Page with which I intend to earn money in the future; and I also check the weather forecast, buy food and pay bills through the web. My daily life would be harder without modern technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

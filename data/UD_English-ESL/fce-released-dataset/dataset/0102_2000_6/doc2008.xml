@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR802*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir or Madam,</p>
+          <p>On 14th June 2000 I went to see your "Over The Rainbow" musical show and <NS type="R"><i>I</i><c>there</c></NS> <NS type="RV"><i>have</i><c>are</c></NS> a few <NS type="RN"><i>points</i><c>matters</c></NS> which I would like to bring to your attention.</p>
+          <p>Your advertisement <NS type="TV"><i>was featuring</i><c>featured</c></NS> "Danny Brook and Tina Truelove" as the main characters but in fact some other people replaced them that evening.</p>
+          <p>The time mentioned on the tickets was 19:30<NS type="MP"><c>,</c></NS> however<NS type="MP"><c>,</c></NS> the show started at 20:15.</p>
+          <p><NS type="RC"><i>As</i><c>When</c></NS> I came to London on <NS type="FN"><i>holidays</i><c>holiday</c></NS> and purchased "The London City Guide" I saw your advertisement explaining that people could buy discounted tickets for £5 in advance. Well I tried to do so but the lady at the desk told me that <NS type="RA"><i>they</i><c>there</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>quotas</i><c>quota</c></NS> <NS type="M"><c>of tickets</c></NS> available at that price but were already sold out!</p>
+          <p>After the show we tried to go to your restaurant but unfortunately it was closed for renovation!</p>
+          <p>I was very disappointed <NS type="RT"><i>of</i><c>with</c></NS> my supposed "perfect evening out" <NS type="RT"><i>to</i><c>at</c></NS> your theatre and <NS type="R"><i>due to</i><c>for</c></NS> all the above-mentioned reasons I am asking for a complete refund on the two attached tickets.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>MODERN TECHNOLOGY</p>
+          <p>"Technology" is an appealing as well as an interesting word for me. From ancient times up to now <NS type="UD"><i>this</i></NS> science has allowed the world and <NS type="UP"><i>human-beings</i><c>human beings</c></NS> to develop positively and negatively.</p>
+          <p>Egyptians, Mayas, Incas, etc. <NS type="RV"><i>were</i><c>had</c></NS> civilisations with great knowledge because they <NS type="TV"><i>were mastering</i><c>had mastered</c></NS> most of the <NS type="W"><i>science fields</i><c>fields of science</c></NS> we deal with today.</p>
+          <p>Back in the <NS type="UP"><i>30's</i><c>30s</c></NS> the different governments invented guns, battleships and all kinds of weapons for their armies. <NS type="UD"><i>The military</i><c>Military</c></NS> technology has affected our lives more than <NS type="UA"><i>what</i></NS> we think because most of the <NS type="CN"><i>equipments</i><c>equipment</c></NS> we use <NS type="AGV"><i>were</i><c>was</c></NS> originally created by those people.</p>
+          <p> The <NS type="UJ"><i>fast and</i></NS> growing computer industry is <NS type="RV"><i>giving</i><c>leaving</c></NS> us less and less physical work <NS type="R">due to a mechanical concept</NS>. Biotechnology is providing us with the <NS type="DJ"><i>latested</i><c>latest</c></NS> discoveries to heal or improve the human body to <NS type="MV"><c>maintain it at</c></NS> its most efficient state. <NS type="W"><i>Transport means</i><c>Means of transport</c></NS> are also part of the overall <NS type="R"><i>technology</i><c>technological advancement</c></NS> and allow us to go faster<NS type="R"><i>,</i><c> and</c></NS> further than before with less effort.</p>
+          <p>Besides all those improvements and <NS type="AGN"><i><NS type="S"><i>confort</i><c>comfort</c></NS></i><c>comforts</c></NS> I can't stop thinking where all this will lead us. I am keen on technology because I believe it should improve our lives<NS type="MP"><c>,</c></NS> however<NS type="MP"><c>,</c></NS> I dislike the idea that such a science might fall or <NS type="TV"><i>had</i><c>have</c></NS> already fallen <NS type="RT"><i>in</i><c>into</c></NS> wicked hands.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

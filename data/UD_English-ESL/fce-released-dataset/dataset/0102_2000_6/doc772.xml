@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR304*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to you to explain <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>was my experience</i><c>my experience was</c></NS> <NS type="MT"><c>like</c></NS> in the theatre last Friday. I did not expect <NS type="UV"><i>to find</i></NS> all the problems that I had.</p>
+          <p>Firstly, I would like to say that the actor who played <NS type="M"></NS> was not the same one that I read <NS type="MT"><c>about</c></NS> in the advertisement.</p>
+          <p><NS type="S"><i>Secontly</i><c>Secondly</c></NS>, the <NS type="UJ"><i>musical</i></NS> show began <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes <NS type="FY"><i>later</i><c>late</c></NS> and nobody <NS type="RV"><i>explained</i><c>told</c></NS> me what <NS type="RV"><i>was</i><c>had</c></NS> happened.</p>
+          <p>Thirdly, I did not <NS type="RV"><i>receive</i><c>get</c></NS> any kind of <NS type="AGN"><i>discounts</i><c>discount</c></NS> when I <NS type="IV"><i>payed</i><c>paid</c></NS> although in the advertisement it was written <NS type="M"><c>that I would</c></NS>.</p>
+          <p>After the <NS type="UJ"><i>musical</i></NS> show, I went to the theatre restaurant but I could not <NS type="FV"><i>have had</i><c>have</c></NS> dinner because it was closed. I think that if the <NS type="UJ"><i>musical</i></NS> show <NS type="UV"><i>will</i></NS> <NS type="AGV"><i>begin</i><c>begins</c></NS> later the restaurant should close later, too!</p>
+          <p>Finally, <NS type="ID">from my point of view</NS>, I would like to <NS type="RV"><i>receive</i><c>get back</c></NS> the money that I <NS type="IV"><i>payed</i><c>paid</c></NS> because <NS type="R"><i>it</i><c>the show</c></NS> was not <NS type="R"><i>the same as</i><c>what</c></NS> you <NS type="RV"><i>offered</i><c>promised</c></NS> in the advertisement.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I think when you <NS type="RV"><i>explain</i><c>tell</c></NS> a secret you must be sure that you have <NS type="TV"><i>chose</i><c>chosen</c></NS> the best person to keep it. In your life you will meet a lot of people and you should choose your friends.</p>
+          <p>When I was a child my friends were my <NS type="DN"><i>companions of class</i><c>classmates</c></NS> <NS type="UC"><i>and</i></NS>, especially my neighbours. In the summers I <NS type="W"><i>always <NS type="AGV"><i>were</i><c>was</c></NS></i><c>was always</c></NS> playing with them on the street. When I was fourteen years old some things changed. I <NS type="IV"><i>prefered</i><c>preferred</c></NS> <NS type="RV"><i>going</i><c>riding</c></NS> <NS type="R"><i>by</i><c>a</c></NS> motorbike with the people who <NS type="IV"><i>studyied</i><c>studied</c></NS> with me in the Institute. But, until you are twenty years old you choose your best friends. When you go to <NS type="UD"><i>the</i></NS> university you are a person who can begin to make <NS type="UD"><i>a</i></NS> good friends. You have <NS type="FD"><i>an</i><c>a</c></NS> <NS type="RN"><i>experience</i><c>chance</c></NS> to <NS type="RV"><i>know</i><c>meet</c></NS> people and now you have an <NS type="S"><i>opportunaty</i><c>opportunity</c></NS> to select good friends. You must select well if you want to have very good friends.</p>
+          <p>For <NS type="DI"><i>theses</i><c>these</c></NS> reasons, I think that you should know <NS type="W"><i>well the person</i><c>the person well</c></NS> <NS type="RA"><i>who</i><c>you</c></NS> <NS type="AGV"><i>wants</i><c>want</c></NS> to <NS type="RV"><i>explain</i><c>tell</c></NS> a secret <NS type="MT"><c>to</c></NS> and <NS type="M"></NS> keep it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

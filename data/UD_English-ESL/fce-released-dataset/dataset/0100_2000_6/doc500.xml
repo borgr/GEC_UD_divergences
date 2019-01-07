@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR204*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I <NS type="TV"><i>am</i><c>was</c></NS> glad to hear from you recently and I really appreciate your invitation to California.</p>
+          <p>I would like to tell you about my preference.</p>
+          <p>To start with<NS type="MP"><c>,</c></NS> I would rather stay in a log cabin because two weeks might be too long to stay in a tent and a log cabin would be more convenient for me.</p>
+          <p>When it comes to activities, I would like to try climbing and surfing. I started surfing when I was 12. So I am quite confident <NS type="RT"><i>with</i><c>at</c></NS> this. Although I had a few experiences of climbing, my everyday training at gym <NS type="R">would retrieve my concerning</NS>. In addition to these reasons, both activities are popular<NS type="MP"><c>,</c></NS> especially in California.</p>
+          <p>And I also have to ask you what kinds of clothes will be suitable there. Or approximately how much money would be enough to buy <NS type="S"><i>surveniers</i><c>souvenirs</c></NS> because this will be <NS type="MD"><c>the</c></NS> first time for me <NS type="FV"><i>to visit</i><c>visiting</c></NS> <NS type="S"><i>Carifolnia</i><c>California</c></NS>.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS>, I must choose <NS type="IV"><i>traveling</i><c>travelling</c></NS> there in July because I am not allowed to take holidays in other months due to my work.</p>
+          <p>Thank you very much for your time and I am looking forward to visiting there.</p>
+          <p>Yours Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Needless to say, shopping can cause you a waste of time and money. However<NS type="MP"><c>,</c></NS> some people might be opposed to this general understanding because they believe that they can find shopping enjoyable. Those who love shopping <NS type="UV"><i>are</i></NS> usually suffer from serious stress and may seek out satisfaction by shopping.</p>
+          <p>However, things which you can get <NS type="RT"><i>by</i><c>with</c></NS> money <NS type="M"><c>do not</c></NS> necessarily <NS type="RV">fill</NS> your <NS type="DN"><i>unsatisfaction</i><c>dissatisfaction</c></NS> or even as you buy something more and more, your emptiness might be <NS type="RJ"><i>bigger</i><c>greater</c></NS>.</p>
+          <p>And shopping is also a difficult hobby to go along with your friends or your <NS type="S"><i>pertners</i><c>partners</c></NS>. What you want is often different from what your friend wants. Unless either you or your partner is really tolerant, shopping could result in another stress. So it is advisable not to make a friend whose hobby is shopping.</p>
+          <p>In addition to these, everyone has regretted buying unnecessary things and those things would remind you <NS type="RA"><i>how</i><c>what</c></NS> <NS type="MD"><c>a</c></NS> silly decision you had <NS type="RV"><i>done</i><c>made</c></NS> at <NS type="RD"><i>the</i><c>that</c></NS> moment.</p>
+          <p>On the whole, shopping can be harmful rather than enjoyable because you <NS type="S"><i>migh</i><c>might</c></NS> be <NS type="S"><i>extravacant</i><c>extravagant</c></NS>, lose your friends and have what you don't need.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

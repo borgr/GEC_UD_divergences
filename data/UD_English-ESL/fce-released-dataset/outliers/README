@@ -1,0 +1,8 @@
+Modification type:
+
+1: Randomly order word unigrams within a sentence
+2: Randomly order word bigrams within a sentence
+3: Randomly order word trigrams within a sentence
+5: Randomly order sentences within a script
+4: Swap words that have the same PoS within a sentence
+

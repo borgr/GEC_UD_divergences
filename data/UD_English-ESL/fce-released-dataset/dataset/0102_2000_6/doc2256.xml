@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR112*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Olivier Peissaud</p>
+          <p>The Manager</p>
+          <p>Circle <NS type="SA"><i>Theater</i><c>Theatre</c></NS></p>
+          <p>Dear Sir,</p>
+          <p>I am writing to <NS type="DV"><i>complaint</i><c>complain</c></NS> about a very disappointing evening I recently had during a week's holiday in London.</p>
+          <p>My girlfriend and I read an advertisement <NS type="RT"><i>about</i><c>for</c></NS> the show "Over the Rainbow"<NS type="MP"><c>,</c></NS> which is very popular. She is fond of the actor Danny Brook so I decided to buy two tickets, provided there were discounts available. When we asked for <NS type="IJ"><i>discounts</i><c>discount</c></NS> tickets, we were <NS type="RV"><i>said</i><c>told</c></NS> there never were discount offers and that we had to pay <NS type="MT"><c>for</c></NS> the <NS type="RJ"><i>highest</i><c>most expensive</c></NS> tickets - £20 each - because we were not English students. We were annoyed about it but we paid <NS type="RY"><i>off</i><c>up</c></NS>. We took our places, and began chatting with other people. We had to wait <NS type="MY"><c>until</c></NS> 8.15 pm before it started<NS type="MP"><c>,</c></NS> whereas the show was supposed to start at 9.30 pm! Moreover, we were astonished that another actor we did not know was playing the role of Danny Brook. My girlfriend was very upset and so was I.</p>
+          <p>After that we thought we could have a drink in your theatre restaurant but it was closed because the <NS type="RN"><i>decorations</i><c>decor</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> being changed. Finally we had the worst evening I have ever imagined, it was definitely not the "perfect evening" as written in the <NS type="S"><i>adverstiment</i><c>advertisement</c></NS>.</p>
+          <p>So I want my money back for these two tickets - I have included a copy <NS type="M"><c>of them</c></NS> - and I hope you will pay more attention to the way you treat your customers, and avoid false <NS type="RN"><i>advertisement</i><c>advertising</c></NS>.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Your <NS type="MP"><i>children</i><c>children's</c></NS> clothes in 100 years</p>
+          <p>How interesting it is to imagine what kind of clothes people will wear in about a hundred years from now. Fashion is changing so quickly that all our dreams about clothes can <NS type="RV"><i>become</i><c>come</c></NS> true. But let's see my point of view. In a hundred years, <NS type="MD"><c>the</c></NS> clothes <NS type="TV"><i>would</i><c>will</c></NS> certainly be totally <NS type="IJ"><i>differents</i><c>different</c></NS> <NS type="R"><i>than</i><c>from</c></NS> ours. Materials, textures and colours change, and <NS type="R"><i>are</i><c>our</c></NS> minds too.</p>
+          <p>So I think people will wear clothes made of recycled things, like <NS type="W"><i>bottles of aluminium</i><c>aluminium bottles</c></NS>. And I hope colours won't be dark and sad but very bright and enjoyable to see.</p>
+          <p>I think men will still wear pants and jackets but maybe not <NS type="UT"><i>in</i></NS> jeans. <NS type="S"><i>Syntethic</i><c>Synthetic</c></NS> materials have <NS type="RV"><i>grown up</i><c>developed</c></NS> and become very popular so <NS type="AGA"><i>it</i><c>they</c></NS> would keep going <NS type="UT"><i>on</i></NS>. But maybe the shape of the clothes will <NS type="TV"><i>changed</i><c>change</c></NS>: large <NS type="W"><i>pants <NS type="UT"><i>as</i></NS> "baggy"</i><c>"baggy" pants</c></NS>, or trousers with many pockets as we see today. For women, clothes change more than for <NS type="UP"><i>men's</i><c>men</c></NS>. It maybe because they are more likely to try new ways of <NS type="R"><i>clothes</i><c>dressing</c></NS>. I guess they will wear a sort of <NS type="S"><i>tunique</i><c>tunic</c></NS> <NS type="RT"><i>upon</i><c>over</c></NS> a shirt and a skirt, or more <NS type="RJ"><i>male</i><c>masculine</c></NS> clothes because they want to change. Finally it's very difficult to say <NS type="RA"><i>that</i><c>what</c></NS> <NS type="M"></NS>.</p>
+          <p>Maybe Luc Besson's <NS type="W"><i>"Fifth Element" movie</i><c>movie "Fifth Element"</c></NS> is quite a good example. The clothes were designed by the famous Jean-Paul Gaultier. And it really is an interesting point of view.</p>
+          <p>To conclude, in the end clothes won't be what we think <NS type="R"><i>about</i><c>they will be</c></NS> today, and it's a good thing because we can only imagine and follow the trend of fashion that makes us feel pretty and happy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

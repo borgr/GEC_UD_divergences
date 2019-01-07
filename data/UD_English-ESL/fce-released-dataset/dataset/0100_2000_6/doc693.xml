@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR270*0100*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Geneva, 13th June 2000</p>
+          <p>Dear Mrs Ryan</p>
+          <p>Thank you <NS type="R"><i>a lot</i><c>very much</c></NS> for your kind letter. I was very surprised <NS type="RT"><i>on</i><c>at</c></NS> the result of the competition. Now I am happy to give you all the information you need.</p>
+          <p>I think it would be better for me to travel <NS type="RT"><i>on</i><c>in</c></NS> July. I will <NS type="TV"><i>started</i><c>start</c></NS> an Italian course in August, so it will be impossible for me to leave <NS type="MY"><c>then</c></NS>.</p>
+          <p>In your letter you ask me to choose <NS type="S"><i>beetween</i><c>between</c></NS> tents or log cabins<NS type="RP"><i>, well</i><c>.  Well</c></NS> I prefer to stay in a log cabin. It is more <NS type="S"><i>confortable</i><c>comfortable</c></NS> and I am afraid <NS type="RT"><i>about</i><c>of</c></NS> wild animals. I saw<NS type="UP"><i>,</i></NS> you offer a lot of activities<NS type="RP"><i>, that'is</i><c>.  That's</c></NS> fantastic! It is very difficult to decide which two of these activities I like <NS type="MY"><c>most</c></NS> and I can also do <NS type="UD"><i>the</i></NS> best. I think I <NS type="TV"><i>choose</i><c>will choose</c></NS> singing because I have sung for five years in a church <NS type="RN"><i>chorus</i><c>choir</c></NS> and I do it very well. The other activity I like very <NS type="S"><i>muche</i><c>much</c></NS> is swimming. I <NS type="TV"><i>took</i><c>have taken</c></NS> part <NS type="RT"><i>at</i><c>in</c></NS> a lot of competitions.</p>
+          <p>Now I would like to ask you if <NS type="SX"><i>wee</i><c>we</c></NS> need some money and if it is necessary to take with me special clothes. I hope I have <NS type="TV"><i>give</i><c>given</c></NS> to you all the information you <NS type="TV"><i>needed</i><c>need</c></NS> and I am looking forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>B. Müller</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Geneva, 13th June 2000</p>
+          <p>Dear Kim</p>
+          <p>I am happy to tell you about the experience I <NS type="RV"><i>made</i><c>had</c></NS> at the pop concert last month.</p>
+          <p>I had to start very early in the morning, at 7.30. <NS type="W"><i>We first</i><c>First we</c></NS> had to <NS type="S"><i>prapare</i><c>prepare</c></NS> the stands with food and <NS type="FN"><i>drinks</i><c>drink</c></NS> and buy something which had been forgotten. Then we had to <NS type="RV"><i>put on</i><c>turn on</c></NS> the <NS type="RN">night lights</NS> and decorate the whole room.</p>
+          <p>In the afternoon the singers <NS type="IV"><i>cames</i><c>came</c></NS> in and I also could have an interview with Ricky Martin. I was very excited! He is very <NS type="S"><i>beatiful</i><c>beautiful</c></NS>! At the end of the interview he <NS type="TV"><i>invites</i><c>invited</c></NS> me to have dinner with him after the concert. I <NS type="RY"><i>logically</i><c>naturally</c></NS> accepted. <NS type="W"><i>The interview I liked particularly</i><c>I particularly liked the interview</c></NS><NS type="MP"><c>.</c></NS> Before the concert started, we had to <NS type="RV"><i> verify</i><c> check</c></NS> all <NS type="MD"><c>the</c></NS> <NS type="DJ"><i>music</i><c>musical</c></NS> instruments. The microphones all had to be <NS type="RV"><i>controlled</i><c>checked</c></NS>. <NS type="DY"><i>Fortunatly</i><c>Fortunately</c></NS> we had no problem. The concert was a success. I was very <NS type="S"><i>proude</i><c>proud</c></NS> of <NS type="RA"><i>me</i><c>myself</c></NS> and the work I had done. After <NS type="MD"><c>the</c></NS> concert I left with Ricky Martin. We went to a nice restaurant and enjoyed dinner together.</p>
+          <p>I am sure<NS type="MP"><c>,</c></NS> my dear Kim, I will never forget that wonderful experience.</p>
+          <p>Now I hope you will answer soon and tell me a bit <NS type="RT"><i>of</i><c>about</c></NS> your adventure <NS type="CE">or experience you had in last time</NS>.</p>
+          <p><NS type="FN"><i>lot</i><c>lots</c></NS> of kisses</p>
+          <p>your friend BM</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

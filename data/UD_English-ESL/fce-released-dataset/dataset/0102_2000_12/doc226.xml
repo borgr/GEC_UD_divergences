@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR113*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Clark,</p>
+          <p>I'm <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RP"><i>italian</i><c>Italian</c></NS> student who <NS type="RV"><i><NS type="TV"><i>has come</i><c>came</c></NS></i><c>went</c></NS> to the last International Arts Festival.</p>
+          <p>I think this festival is a great idea because it's <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to see and to <NS type="RV"><i>love</i><c>appreciate</c></NS> <NS type="UD"><i>the</i></NS> art, but<NS type="UP"><i>,</i></NS> I <NS type="W"><i>think also</i><c>also think</c></NS> there are some things <NS type="S"><i>thas</i><c>that</c></NS> could be changed.</p>
+          <p>I noticed that the artists were from only six countries <NS type="R"><NS type="S"><i>insted</i><c>instead</c></NS> that</NS> from around the world. This <NS type="RN">choice</NS> doesn't give many artists the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to <NS type="S"><i>expresse</i><c>express</c></NS> <NS type="IA"><i>themself</i><c>themselves</c></NS>.</p>
+          <p>Some concert halls were too small and often people couldn't see the performances.</p>
+          <p>There were many events <NS type="RC"><i>that</i><c>and</c></NS> I think there were a few plays and films. Maybe it would be better <NS type="FV"><i>put</i><c>to put</c></NS> more of them in the programme because <NS type="AS"><i>they like so much to young people</i><c>young people like them so much</c></NS>.</p>
+          <p><NS type="R">The very about</NS> young people, the <NS type="RN"><i>choice</i><c>decision</c></NS> to offer a <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> weekend ticket is <NS type="FD"><i>a</i><c>an</c></NS> excellent idea because it <NS type="CE">brings them to have a contact with all what it art</NS>.</p>
+          <p>I hope that my opinion can help you to <NS type="RV"><i>set</i><c>organize</c></NS> <NS type="SX"><i>fro</i><c>for</c></NS> <NS type="UD"><i>the</i></NS> next year a great <NS type="DJ"><i>internation</i><c>international</c></NS> arts festival <NS type="R">alone to young people</NS>.</p>
+          <p>Thank you and <NS type="RN">greetings</NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I think a good way to get money <NS type="UA"><i>it's</i><c>is</c></NS> <NS type="FV"><i>work</i><c>to work</c></NS> in a fast-food <NS type="MN"><c>restaurant</c></NS>.</p>
+          <p>Maybe the first impression isn't positive but<NS type="MP"><c>,</c></NS> from my personal experience, I can say that this kind of job is <NS type="RJ"><i>right</i><c>fine</c></NS> for <NS type="FV"><i>get</i><c>getting</c></NS> some money. For six months I've worked in a McDonald's restaurant in Italy and I've got lots of money. I worked eight hours every day<NS type="MP"><c>,</c></NS> but in every fast-food <NS type="MN"><c>restaurant</c></NS> you can work part-time, four, three, six hours every day.</p>
+          <p>It depends on what you need.</p>
+          <p>This kind of job is perfect for <NS type="UD"><i>the</i></NS> young people who want <NS type="FV"><i>get</i><c>to get</c></NS> money and <NS type="RY"><i>in the meantime</i><c>at the same time</c></NS> <NS type="UA"><i>they</i></NS> have to study.</p>
+          <p>If you work in a fast-food <NS type="MN"><c>restaurant</c></NS> you can work in the afternoon, or during the night<NS type="MP"><c>,</c></NS> and so you have time for yourself.</p>
+          <p><NS type="RT"><i>In</i><c>Among</c></NS> the staff you can also find young people and <NS type="FV"><i><NS type="RV"><i>getting</i><c>having</c></NS></i><c>have</c></NS> fun with them during <NS type="UD"><i>the</i></NS> work.</p>
+          <p>What <NS type="W"><i>do you want more</i><c>more do you want</c></NS>?</p>
+          <p>If you need money and you need time for yourself try a job like that.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

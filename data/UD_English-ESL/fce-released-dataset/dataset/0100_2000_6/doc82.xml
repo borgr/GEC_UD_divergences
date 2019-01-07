@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR327*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Helen Ryan,</p>
+          <p>I am writing to you because I am very glad <NS type="RT"><i>for</i><c>about</c></NS> my first place in the competition<NS type="RP"><i>,</i><c>.</c></NS> I am going to tell you <NS type="MT"><c>about</c></NS> the things that you ask me <NS type="MT"><c>about</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> your letter.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because <NS type="MA"><c>it</c></NS> is the perfect time to go to the camp and <NS type="MA"><c>it</c></NS> is summer.</p>
+          <p><NS type="MT"><i>Accommodation</i><c>Regarding accommodation</c></NS> at camp<NS type="MP"><c>,</c></NS> I would like to choose cabins because I think I would be protected from the animals and the cold.</p>
+          <p>Furthermore<NS type="MP"><c>,</c></NS> for the activities I want to select Tennis and Basketball because I <NS type="IV"><i>haves</i><c>have</c></NS> been playing tennis since I was young and basketball because I played for the team in my college <NS type="RT"><i>like</i><c>as</c></NS> the <NS type="S"><i>capitan</i><c>captain</c></NS>.</p>
+          <p>I want to ask you one more thing<NS type="MP"><c>.</c></NS> I do not have any idea about how much money and <NS type="CN"><i>clothes</i><c>clothing</c></NS> I have to bring<NS type="MP"><i> would</i><c>. Would</c></NS> you give me <NS type="R"><i>an</i><c>some</c></NS> advice <NS type="R"><i>to know</i><c>about</c></NS> how much I need to bring</p>
+          <p>I look forward to <NS type="FV"><i>heard</i><c>hearing</c></NS> from you</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm writing to you to tell you about my experience <NS type="U"><i>when I was</i></NS> helping at a pop concert<NS type="RP"><i>, well</i><c>. Well</c></NS> first let me tell you that my job was helping the <NS type="AGN"><i>artist</i><c>artists</c></NS> if they <NS type="TV"><i>need</i><c>needed</c></NS> something, for example <NS type="FV"><i>give</i><c>giving</c></NS> them water or snacks.</p>
+          <p>It wasn't very exciting <NS type="RN"><i>job</i><c>work</c></NS> but you <NS type="TV"><i>can</i><c>could</c></NS> <NS type="RV"><i><NS type="TV"><i>knew</i><c>know</c></NS></i><c>meet</c></NS> a lot of pop Artists<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> was the good thing <NS type="M"><c>about it</c></NS> because they gave <NS type="MY"><c>away</c></NS> their <NS type="RP"><i>t-shirts</i><c>T-shirts</c></NS><NS type="MP"><c>,</c></NS> also I could chat with them for a few minutes. <NS type="RP"><i>another</i><c>Another</c></NS> good thing was that all the people <NS type="TV"><i>wants</i><c>wanted</c></NS> to be in your place and they were very jealous <NS type="RT"><i>about</i><c>of</c></NS> me.</p>
+          <p><NS type="RP"><i>any way</i><c>Anyway</c></NS>, this was my <NS type="UA"><i>own</i></NS> experience working at the concert<NS type="RP"><i>, if</i><c>. If</c></NS> you have <NS type="RD"><i>any</i><c>an</c></NS> <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to help at any concert you should help because you have a lot of fun as well<NS type="MP"><c>,</c></NS> <NS type="RP"><i>ok</i><c>OK</c></NS>.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

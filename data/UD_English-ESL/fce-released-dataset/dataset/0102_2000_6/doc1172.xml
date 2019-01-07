@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR479*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir, I would like to <NS type="RV"><i>show</i><c>tell</c></NS> you how disappointed I am about the musical show you manage. As I had a whole <NS type="MP"><i>week</i><c>week's</c></NS> holiday I decided to spend it in London. At first I <NS type="SX"><i>though</i><c>thought</c></NS> I would just <NS type="RV"><i>make</i><c>do</c></NS> a bit of <NS type="DN"><i>sight-seeking</i><c>sightseeing</c></NS> all around the city. But when one night I saw your advertisement I decided to spend my last night in the city watching a musical <NS type="UN"><i>show</i></NS>. No sooner had I seen <NS type="MA"><c>who</c></NS> the starring actor <NS type="MV"><c>was</c></NS> than I couldn't believe it. Danny Brook was one of my best friends while I was at University. But as the show began, I realised that the actor was someone different, his name was Tim Paradise. If this had been my only disappointment nothing would have happened, but I had to wait <NS type="S"><i>stil</i><c>till</c></NS> quarter past eight <NS type="U"><i>in order</i></NS> to watch the show, instead of <NS type="MA"><c>it</c></NS> <NS type="S"><i>beggining</i><c>beginning</c></NS> at half past seven as you had written in your advertisement.</p>
+          <p>Although I found the <NS type="RP"><i>tickets's</i><c>ticket's</c></NS> <NS type="RN"><i>prize</i><c>price</c></NS> <NS type="W"><i>too much</i><c>much too</c></NS> expensive I <NS type="SX"><i>though</i><c>thought</c></NS> that there would be some discounts available, but there were not. As a <NS type="S"><i>conclution</i><c>conclusion</c></NS> <NS type="RT"><i>of</i><c>to</c></NS> that horrible evening I decided to visit your theatre restaurant once the show had finished, but what a surprise when I found it closed.</p>
+          <p>For all of these reasons I have to ask you <NS type="UT"><i>for</i></NS> <NS type="FV"><i><NS type="RV"><i>having</i><c>giving</c></NS></i><c>to give</c></NS> <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>Sincerely:</p>
+          <p>a disappointed <NS type="RN"><i>user</i><c>customer</c></NS>!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p><NS type="MA"><i>All</i><c>It all</c></NS> began when I decided to take part in that school project. It consisted in having to <NS type="DV"><i>memorisize</i><c>memorise</c></NS> a whole book of 250 pages in order to pass a final exam. Although this project could seem <NS type="R"><i>a</i><c>like</c></NS> very <NS type="SX"><i>though</i><c>tough</c></NS> work, I had to try it in order to <NS type="RV"><i>rise</i><c>raise</c></NS> my low <NS type="RJ"><i>global</i><c>overall</c></NS> mark.</p>
+          <p>One day as I was talking with my teacher about the project I saw what <NS type="UA"><i>it</i></NS> could be the final answer sheet <NS type="M"><c>to the</c></NS> exam on the top of his desk. <NS type="R">Suddenly</NS>, when the teacher went out of his office, I quickly copied the answers <NS type="RT"><i>on</i><c>into</c></NS> my notebook<NS type="RP"><i>,</i><c>.</c></NS> I couldn't believe it<NS type="RA"><i><NS type="RP"><i>, that</i><c>. That</c></NS></i><c>. This</c></NS> would be the easiest exam I would <NS type="TV"><i>had ever done</i><c>do</c></NS>. As I went out of the office I found <NS type="W"><i>walking down the corridor Pat, my best friend</i><c>Pat, my best friend, walking down the corridor</c></NS>. As she was also <NS type="RV"><i>making</i><c>doing</c></NS> the project I decided to let her copy the answers. I told her she <NS type="RV"><i>hadn't</i><c>mustn't</c></NS> <NS type="FV"><i>to talk</i><c>talk</c></NS> about <NS type="RA"><i>that</i><c>it</c></NS> to anybody. She agreed and went home very happy. When night came I couldn't believe what was happening. Almost all my <NS type="RP"><i>class mates</i><c>classmates</c></NS> were <NS type="RT"><i>in</i><c>at</c></NS> the front door of my house asking me if I had the <NS type="RN"><i>solutions</i><c>answers</c></NS> <NS type="RT"><i>of</i><c>to</c></NS> the exam. I couldn't believe that my best friend had told everybody about my secret.</p>
+          <p><NS type="RT"><i>In</i><c>On</c></NS> the exam day everybody <NS type="S"><i>anwered</i><c>answered</c></NS> <NS type="W"><i>correctly to <NS type="RQ"><i>each</i><c>every</c></NS> question</i><c>every question correctly</c></NS>. And after having corrected all of them, our teacher told us we had to repeat the exam because he realised we knew what the answers were.</p>
+          <p>It was the last time I trusted <NS type="UT"><i>in</i></NS> Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

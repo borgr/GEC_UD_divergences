@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR935*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Mr Manager,</p>
+          <p>I'm sorry <NS type="R"><i>of</i><c>to be</c></NS> writing <NS type="MT"><c>to</c></NS> you <NS type="RT"><i>for</i><c>about</c></NS> such a bad thing, but my evening at your theatre wasn't as perfect as you <NS type="RV"><i>announced</i><c>advertised</c></NS>: it wasn't perfect at all! I was pleased <NS type="MV"><c>to be</c></NS> <NS type="FV"><i>to see</i><c>seeing</c></NS> Danny Brooke, he's my favourite actor, so you can easily imagine how disappointed I was when I saw a different and unknown actor on the <NS type="RN"><i>scene</i><c>stage</c></NS>! By the way, what really upset me was the <NS type="W"><i>time of starting</i><c>starting time</c></NS>. According to your advertisement it <NS type="RV"><i>was</i><c>started</c></NS> at 19:30, and<NS type="UP"><i>,</i></NS> what a surprise when I had to wait almost an hour until the show started at 20:15! Now let's talk about the tickets. You had promised discounts on the cost<NS type="MP"><c>,</c></NS> which was from £10 to £20, but despite <NS type="ID"><i>my thoughts</i><c>what I thought</c></NS> I had to pay £20 without <NS type="MQ"><c>any</c></NS> <NS type="MQ"><c>other</c></NS> <NS type="RN"><i>chance</i><c>options</c></NS>. In the end, I thought I could enjoy myself <NS type="FV"><i>visit</i><c>visiting</c></NS> the theatre restaurant but it was closed because of something they didn't explain to me.</p>
+          <p>As you can see <NS type="TV"><i>it's</i><c>it was</c></NS> not a perfect evening, <NS type="UY"><i><NS type="TV"><i>isn't</i><c>wasn't</c></NS></i><c>was</c></NS> it?</p>
+          <p>I'm asking you <NS type="MT"><c>for</c></NS> my money back, you can do it, can't you?</p>
+          <p><NS type="R">Wondering your comprension</NS></p>
+          <p><NS type="DA"><i>your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>THE OLD MAN AND THE SEA - Ernest Hemingway</p>
+          <p>As I see it, the Old Man and the Sea is a really <NS type="SX"><i>exiting</i><c>exciting</c></NS> book. It describes a challenge, the challenge of life. The <NS type="RJ"><i>major</i><c>main</c></NS> <NS type="S"><i>characther</i><c>character</c></NS> is the old man who has to fight against the sea to <NS type="RV"><i>keep</i><c>stay</c></NS> alive. It could be his last adventure. This old man with his old boat goes too far away from the coast to try to fish <NS type="MT"><c>for</c></NS> something good. By surprise he comes across the biggest fish he has ever seen, a beautiful marlin. The man keeps <NS type="RY"><i><NS type="DY"><i>immediatly</i><c>immediately</c></NS></i><c>constantly</c></NS> in contact with it. They are going to be one thing linked together. They're fighting for the same reason with the same <NS type="S"><i>strenght</i><c>strength</c></NS>, the man has to kill a brother, as he calls the fish. I think they're really brothers, they feel the same pain and fear during the battle.</p>
+          <p>If the marlin could speak it would have told the old <NS type="UP"><i>man's</i><c>man</c></NS> <NS type="MD"><c>the</c></NS> same thing. When the old man won the fight he felt sorry but pleased. He respected and still <NS type="TV"><i>loves</i><c>loved</c></NS> it. But, afterwards, <NS type="UD"><i>the</i></NS> life's rule is MORS TUA VITA MEA and that's the most <NS type="DJ"><i>difficulty</i><c>difficult</c></NS> <NS type="MN"><c>thing</c></NS> to face <NS type="MY"><c>up</c></NS> to.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

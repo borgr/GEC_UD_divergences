@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1026*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Thank you for the letter you have sent recently. It was a surprise to <NS type="RV"><i>know</i><c>learn</c></NS> that I won the first prize. The <NS type="AGN"><i>reasons</i><c>reason</c></NS> I am really writing, <NS type="RP"><i>However</i><c>however</c></NS>, is to give you some details <NS type="RT"><i>of</i><c>about</c></NS> my trip to California.</p>
+          <p>I'll be taking an English Examination at the end of June and I think it would be a good idea if I can travel in July because it's the only month I can spend abroad this year.</p>
+          <p>In the letter you said that <NS type="MD"><c>the</c></NS> accommodation provided can be either <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> or <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>. I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> so that I will have the chance to be in contact with <NS type="UD"><i>the</i></NS> nature as well as the scenery around <NS type="MN"><c>the camp</c></NS>.</p>
+          <p><NS type="R"><i>Another thing</i><c>The activities</c></NS> I would like to choose from the activity list <NS type="AGV"><i>is</i><c>are</c></NS> singing (because I <NS type="RV"><i>take part in</i><c>belong to</c></NS> a <NS type="RN"><i>chorus</i><c>choir</c></NS> at school) and photography. I'm really good <NS type="MT"><c>at</c></NS> taking pictures<NS type="RP"><i>, it's</i><c>. It's</c></NS> a way I have to express my feelings.</p>
+          <p>I wonder if you could send me more information about what kind of clothes <NS type="W"><i>have we</i><c>we have</c></NS> <NS type="FV"><i>bring</i><c>to bring</c></NS>. Do you think you could also let me know how much money we will need during our stay at the Camp.</p>
+          <p>I would be grateful if you could send me a brochure and a map showing where the camp is.</p>
+          <p>thanking you in anticipation.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>What a surprise it was to get <NS type="MD"><c>a</c></NS> letter from you after all this time. Sorry I haven't written for so long but I was really busy trying to apply for a job. This is just to let you know with whom I worked.</p>
+          <p>In order to celebrate the <NS type="MP"><i>125</i><c>125th</c></NS> <NS type="S"><i>aniversary</i><c>anniversary</c></NS> of the city, the <NS type="S"><i>Coun</i><c>County</c></NS> Council organised an open air concert. It was a summer night and all the citizens, as well as tourists, had the opportunity to attend. The pop band "Five" arrived <NS type="RT"><i>into</i><c>in</c></NS> town and needed people to help with not only the organisation but also <NS type="MT"><c>with</c></NS> <NS type="MV"><c>building</c></NS> the stages and <NS type="M"></NS> sound. I knew some help was needed so I decided to speak to the manager. I couldn't believe <NS type="MA"><c>it</c></NS> when he said: "O.K.<NS type="MP"><c>,</c></NS> if you want to help, here is a list of what you can do." My job was to leave some leaflets <NS type="RT"><i>on</i><c>in</c></NS> shops, restaurants and <NS type="M"><c>on the</c></NS> streets.</p>
+          <p>Working with this band was an experience I will never forget. What I really enjoyed was <NS type="FV"><i>been</i><c>being</c></NS> part of the staff.</p>
+          <p>Although I was <NS type="RY"><i>too</i><c>very</c></NS> <NS type="S"><i>nervious</i><c>nervous</c></NS>, I knew I could do the job well.</p>
+          <p>I'd love to hear all your news<NS type="RP"><i>, why</i><c>. Why</c></NS> don't you come and visit me? Perhaps I could show you the pictures I took.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Love from,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

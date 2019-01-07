@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR581*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen</p>
+          <p>I am writing to thank you for the first prize in your competition and <NS type="FV"><i>reply</i><c>to reply</c></NS> to your letter.</p>
+          <p>First of all, <NS type="RT"><i>according to</i><c>in</c></NS> your letter you asked me my <NS type="IV"><i>prefered</i><c>preferred</c></NS> travel dates. If it is possible, I would only like to travel in July because I am going to <NS type="RV"><i>go</i><c>be</c></NS> on <NS type="UD"><i>my</i></NS> holiday in July.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> your letter, <NS type="CE">you are going to provid me one of tents and log cabins with accommodation</NS> at Camp California. I would like to be in tents because I <NS type="UV"><i>can</i></NS> find <NS type="UA"><i>it</i></NS> being in tents more comfortable than being in log cabins.</p>
+          <p>I am very happy because I can have a chance to do activities while I am at the camp. I would like to take part in the Golf and the sailing. I am not <NS type="S"><i>goot</i><c>good</c></NS> at <NS type="RQ"><i>both</i><c>either</c></NS> of them. I have been interested in them so I would like to <NS type="CE">turn up them on this chance</NS>.</p>
+          <p>Finally, I would like to know something about travel. Could you let me know whether I need extra money or what sort of clothes I need. I would also like to know whether someone will be at the airport for me because this will be <NS type="RD"><i>the</i><c>my</c></NS> first time in the U.S.A.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>I was happy to get your letter. I haven't <NS type="IV"><i>writen</i><c>written</c></NS> a letter to you for ages. I'm sorry about that.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> your letter, you want to hear about my experience at a pop concert. I'll tell you <NS type="W"><i>my experience about</i><c>about my experience</c></NS> helping <NS type="MT"><c>at</c></NS> the pop concert.</p>
+          <p>At first, I <NS type="IV"><i>applyed</i><c>applied</c></NS> <NS type="R"><i>for the volenteer</i><c>to be a volunteer</c></NS> at the pop concert and then I got <NS type="UD"><i>a</i></NS> responsibility for <NS type="FV"><i>control</i><c>controlling</c></NS> the audience. I had to make the <NS type="FN"><i>fan</i><c>fans</c></NS> <NS type="FV"><i>to keep</i><c>keep</c></NS> <NS type="MT"><c>in</c></NS> a queue. I also <NS type="RV"><i><NS type="TV"><i>make</i><c>made</c></NS></i><c>helped</c></NS> them find their seats. It was very hard <NS type="DN"><i>working</i><c>work</c></NS>. For example, I always spoke loudly and <NS type="TV"><i>run</i><c>ran</c></NS> fast.</p>
+          <p>However, there was something good <NS type="RT"><i>to</i><c>for</c></NS> me. I saw a lot of singers and entertainers. I didn't need to pay <NS type="MD"><c>an</c></NS> <NS type="S"><i>enterence</i><c>entrance</c></NS> fee because I was working there.</p>
+          <p>Plus, I got <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RN"><i>authography</i><c>autograph</c></NS> from a popular singer. I'll give you the <NS type="RN"><i>authography</i><c>autograph</c></NS> <NS type="RT"><i>for</i><c>as</c></NS> <NS type="MD"><c>a</c></NS> present. <NS type="CE">It is valuable of keeping on your <NS type="S"><i>suvinier</i><c>souvenir</c></NS>.</NS></p>
+          <p>I'll tell you more <NS type="M"><c>about the</c></NS> experience <NS type="RT"><i>on</i><c>in</c></NS> <NS type="MD"><c>my</c></NS> next letter.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Best <NS type="S"><i>whishes</i><c>wishes</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

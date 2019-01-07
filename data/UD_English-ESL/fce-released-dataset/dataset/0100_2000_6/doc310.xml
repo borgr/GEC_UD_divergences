@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR777*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>June 13th, 2000</p>
+          <p>Dear Mrs/Ms Helen Ryan,</p>
+          <p>I would like to thank you for the prize I won. My name is Manuel P. Martinez and I won the first prize in your competition. I have been informed that all accommodation and travel <NS type="AGN"><i>cost</i><c>costs</c></NS> are paid for <NS type="MT"><c>by</c></NS> the company.</p>
+          <p>I can only travel in July because I am working as a receptionist in a hotel and they would only let me have two weeks off in that month. I would prefer to stay in a log cabin rather than in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because I find it more <NS type="S"><i>confortable</i><c>comfortable</c></NS> to sleep in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>beds</i><c>bed</c></NS>, but it wouldn't be a problem if I have to sleep in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>.</p>
+          <p>I would love to do climbing and surfing just because those are sports I have never <NS type="RV"><i><NS type="S"><i>praticed</i><c>practised</c></NS></i><c>tried</c></NS> before<NS type="RP"><i>, that</i><c>. That</c></NS> means I do not have any experience <NS type="U"><i>on the subject</i></NS>.</p>
+          <p>Please let me know <NS type="R"><i>the</i><c>what</c></NS> kind of clothes we will be wearing<NS type="RV"><i><NS type="RP"><i>, would</i><c>. Would</c></NS></i><c>. Will</c></NS> I need to take a suit? Are there going to be any formal parties?</p>
+          <p>It is important for me to know if we need <NS type="MQ"><c>any</c></NS> money and<NS type="MP"><c>,</c></NS> <NS type="ID"><i>in that case</i><c>if we do</c></NS>, how much money would you recommend me <NS type="FV"><i>to take</i><c>taking</c></NS>?</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>Manuel P. Martinez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>June 13th, 2000 Dear Kim, As you already know, I was at a pop concert last month. It was great! The concert was organized by the community so everyone who wanted to help was <NS type="FV"><i>welcomed</i><c>welcome</c></NS>. The concert lasted for four hours as a lot of small local bands played. My job was to set <NS type="MY"><c>up</c></NS> the stage where the bands played. It was hard and it took me the whole day. I was there at seven a.m and didn't go home until seven a.m the following day. Of course I didn't do it alone, we were a group of about ten guys. After the show we had to stay and clean the park, which was full of empty cans. The part that I enjoyed the most was that I felt I was doing something <NS type="DJ"><i>worthly</i><c>worthwhile</c></NS> for the community and also that I got to meet a lot of people. I made great friends with the group I worked with. I think it was a great experience, and I hope we will organize another concert soon. I am looking forward to seeing you. Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1088*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to answer your questions but, first of all, to thank you for the prize. I would like to travel in July because it is <NS type="MD"><c>the</c></NS> school <NS type="S"><i>holliday</i><c>holiday</c></NS> here in Portugal and I will have the entire month to travel, so I have no preference for <NS type="R"><i>the</i><c>which</c></NS> weeks.</p>
+          <p>I don't mind staying in log cabins, but I prefer camping because I want to be really <NS type="RJ"><i>near</i><c>close</c></NS> <NS type="R"><i>the</i><c>to</c></NS> nature. Well, about the activities, I love Photography<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="RV"><i>made</i><c>did</c></NS> a course and I would like to take beautiful photos of the Camp. And I always was good at swimming<NS type="RP"><i>, now</i><c>.  Now</c></NS> I'll be at the Camp during the summer I think it is a good idea.</p>
+          <p>I don't know how much money I'll need <NS type="RT"><i>to</i><c>for</c></NS> the trip <NS type="RC"><i>and</i><c>or</c></NS> what kind of clothes I'll need. Do you have any <NS type="R">night plan</NS>, like going to discos or <NS type="RP"><i>night clubs</i><c>nightclubs</c></NS>? Can you give <NS type="MA"><c>me</c></NS> this <NS type="CN"><i>informations</i><c>information</c></NS>?</p>
+          <p>I'm looking forward to <NS type="S"><i>receving</i><c>receiving</c></NS> your letter.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+          <p>Daniela.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Nowadays shopping is one of the activities that makes our society <NS type="AGV"><i>lives</i><c>live</c></NS>. The cities are the main commercial <NS type="FN"><i>centre</i><c>centres</c></NS>, our streets are full of <NS type="FN"><i>billboard</i><c>billboards</c></NS> advertising many things <NS type="R"><i> and</i><c>, as does TV either</c></NS>.</p>
+          <p>Despite this shopping culture, shopping is not always enjoyable<NS type="RP"><i>, when</i><c>.  When</c></NS> you need to buy something you have to look for the best price, <NS type="RA"><i>what</i><c>which</c></NS> is always a <NS type="ID">work of time</NS>, and if you find a shop where the price is cheaper, it <NS type="R">must</NS> be crowded.</p>
+          <p>The solution <NS type="TV"><i>can</i><c>could</c></NS> be <NS type="UT"><i>in</i></NS> <NS type="CE"><NS type="FD"><i>a</i><c>an</c></NS> alternative way of making shops like <NS type="MD"><c>the</c></NS> Internet</NS>. You can <NS type="SX"><i>by</i><c>buy</c></NS> anything without <NS type="MQ"><c>any</c></NS> problem<NS type="RP"><i>, this</i><c>.  This</c></NS> is a good thing although <NS type="RA"><i>this</i><c>it</c></NS> prevents poor people from shopping <NS type="U"><i><NS type="RT"><i>by</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> Internet</i></NS>, because you have to have a computer.</p>
+          <p>Anyway, other alternatives <NS type="RT"><i>of</i><c>to</c></NS> shopping are being created and we can choose <NS type="UT"><i>for</i></NS> not <NS type="FV"><i>waste</i><c>to waste</c></NS> our time shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

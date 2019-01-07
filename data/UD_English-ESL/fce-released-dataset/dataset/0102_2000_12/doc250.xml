@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1012*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark</p>
+          <p>I went <NS type="MT"><c>to</c></NS> the international arts festival which you organized. Most of the events were good, but I felt that the festival could be even better next year. So, may I give you my suggestions and opinions?</p>
+          <p>I think the International Arts Festival is a great idea! But the stars and artists who are from around the world were from only six countries. You had better invite more <NS type="UP"><i><NS type="S"><i>nationarities'</i><c>nationalities'</c></NS></i><c>nationalities</c></NS> <NS type="UN"><i>people</i></NS>.</p>
+          <p>And some concert halls were too small, so you had better have larger concert halls and also you had better have more plays and films <NS type="U"><i>in the</i></NS> next year than this <NS type="UP"><i>year's</i><c>year</c></NS>.</p>
+          <p>I think the idea of one <NS type="RP"><i>reasonably - priced</i><c>reasonably-priced</c></NS> weekend ticket for all events is excellent<NS type="RP"><i>! Because</i><c>, because</c></NS> it <NS type="RV"><i>does</i><c>is</c></NS> not complex, <NS type="R">also we don't confuse</NS>.</p>
+          <p>If you can improve these points, your festival <NS type="RV"><i>must</i><c>will</c></NS> be better than this year's.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Johnny</p>
+          <p>Thank you for your letter.</p>
+          <p>Anyway, you want to know about rules at home and school in my country, don't you?</p>
+          <p>My school's rules aren't strict. We are allowed <NS type="MV"><c>to do</c></NS> <NS type="L"><i>many</i><c>a lot of</c></NS> things. For example, we can wear any clothes and shoes <NS type="MP"><c>-</c></NS> whatever we want. And it doesn't matter if we enter the classroom <NS type="RT"><i>in</i><c>at</c></NS> any time <NS type="M"><c>we want</c></NS>. Of course we can go out <NS type="MT"><c>of</c></NS> the classroom <NS type="RT"><i>in</i><c>at</c></NS> any time.</p>
+          <p>But some schools in my country don't allow <NS type="L"><i>many</i><c>a lot of</c></NS> things. One of the rules <NS type="RT"><i>of</i><c>at</c></NS> my friend's school is <NS type="M"><i>not</i><c>you are not allowed</c></NS> to drink <NS type="RC"><i>and</i><c>or</c></NS> eat <NS type="RA"><i>something</i><c>anything</c></NS> during a class. And the students have to wear <NS type="UD"><i>the</i></NS> uniforms, so they can't <NS type="FV"><i>chose</i><c>choose</c></NS> their clothes.</p>
+          <p>Also, there is one strict rule at my home. It is that I have to come back <NS type="MT"><c>to</c></NS> my house <NS type="RT"><i>until</i><c>by</c></NS> 11 o'clock at night. I think it's a stupid rule!</p>
+          <p>I really want to change this rule.</p>
+          <p>Many of my friends have this rule.</p>
+          <p>How about in your country?</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR43*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir</p>
+          <p>I <NS type="TV"><i>write</i><c>am writing</c></NS> <NS type="RD"><i>a</i><c>this</c></NS> letter to complain about your advertisement <NS type="RT"><i>about</i><c>for</c></NS> the musical show "over the rainbow", <NS type="S"><i>wich</i><c>which</c></NS> is misleading in a number of <NS type="AGN"><i>way</i><c>ways</c></NS>.</p>
+          <p>Firstly we arrived at 19.15 to be in time for the show, which should have started at 19.30. However<NS type="MP"><c>,</c></NS> it started at 20.15 and we were all very disappointed.</p>
+          <p>Furthermore, it's written in your advert that Danny Brook is in the play and that was one of the main <NS type="AGN"><i>reason</i><c>reasons</c></NS> <NS type="UT"><i>to</i></NS> why we went. Imagine how disappointed we <NS type="RV"><i>got</i><c>were</c></NS> when we found out that he had been replaced.</p>
+          <p>Besides, when we wanted to buy our tickets we were hoping that the <NS type="DN"><i>discounting</i><c>discount</c></NS> was available. Unfortunately, it wasn't and we couldn't afford <NS type="FV"><i><NS type="S"><i>bying</i><c>buying</c></NS></i><c>to buy</c></NS> everyone a ticket.</p>
+          <p>Finally, <NS type="W"><i>after the show we had <NS type="IV"><i>planed</i><c>planned</c></NS> to eat <NS type="RN"><i>diner</i><c>dinner</c></NS></i><c>we had planned to eat dinner after the show</c></NS> at the theatre restaurant and we were very disappointed when it turned out to <NS type="MV"><c>be</c></NS> closed.</p>
+          <p><NS type="S"><i>Therefor</i><c>Therefore</c></NS>, as you may understand<NS type="MP"><c>,</c></NS> I'm asking for a refund. These kinds of misadventures can easily ruin your reputation.</p>
+          <p>I look forward to hearing from you</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets and the rumours <NS type="R"><i>describing</i><c>about</c></NS> me stealing soon reached the director's office.</p>
+          <p>I was <NS type="TV"><i>send</i><c>sent</c></NS> a letter in which it was written that the director wanted to meet me and my parents. Sweating and <NS type="S"><i>affraid</i><c>afraid</c></NS> I waited <NS type="RP"><i>out side</i><c>outside</c></NS> the director's office the following day. I was unable to <NS type="DV"><i>image</i><c>imagine</c></NS> what would happen to me if my parents knew what I had stolen.</p>
+          <p>'You may enter<NS type="MP"><i>'</i><c>,'</c></NS> said the director.</p>
+          <p><NS type="S"><i>Tairs</i><c>Tears</c></NS> ran down my face as I admitted having stolen. I was <NS type="S"><i>suprised</i><c>surprised</c></NS> that my father didn't watch me but I soon understood that he was ignoring me.</p>
+          <p>Mother, on the other hand, looked at me and seemed both disappointed and betrayed.</p>
+          <p>During the trip home <NS type="X"><i>non</i><c>none</c></NS> of us spoke. We just sat calmly waiting for this nightmare to be over.</p>
+          <p><NS type="R"><i>The same</i><c>That</c></NS> evening my father <NS type="RV"><i>pronounced</i><c>said</c></NS> a few words: 'May this be the end of your <NS type="W"><i>thief career</i><c>career as a thief</c></NS><NS type="MP"><c>;</c></NS> we are only ready to forgive if you <NS type="S"><i>promiss</i><c>promise</c></NS> never to start again' </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR870*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>First, I would like to thank you for offering me this wonderful prize. For a long time I <NS type="TV"><i><NS type="RV"><i>wish</i><c>want</c></NS></i><c>have wanted</c></NS> <NS type="UA"><i>I</i></NS> <NS type="FV"><i><NS type="RV"><i>came</i><c>went</c></NS></i><c>to go</c></NS> to Camp California, and now my dream is about to <NS type="RV"><i>become</i><c>come</c></NS> true.</p>
+          <p>There is <NS type="X"><i>no much time</i><c>no more time</c></NS> left in my timetable in August since I will have to work then, so I would rather come in July. Concerning the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would prefer to sleep in a log cabin, because to sleep in a tent would remind me of the bad experience I had in Ireland because of the weather...</p>
+          <p>Since this stay at Camp California is a good <NS type="RN"><i>occasion</i><c>opportunity</c></NS> to <NS type="RV"><i>discover</i><c>try out</c></NS> new activities, I would like to sail and climb, but I am a beginner <NS type="RT"><i>in</i><c>at</c></NS> both activities.</p>
+          <p>Then, I would like to know what kind of clothes I will need there, and if I have to bring a lot of money. I am looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>Richard Amelin</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I apologize for not having written this letter sooner, but as you probably <NS type="SX"><i>now</i><c>know</c></NS>, I was actually really busy because of the pop concert. What a great experience that was! I will remember it for a long time because of two reasons.</p>
+          <p>The first one is that the band I have helped, although it hasn't <NS type="RV"><i>met</i><c>found</c></NS> success yet, is really good. When they are on stage, during the <NS type="RN"><i>repetitions</i><c>rehearsals</c></NS>, they are able to play a music that completely moves me. In a few months, when they are famous, I could say: "You know<NS type="RP"><i>.</i><c>,</c></NS> I already know them<NS type="RP"><i>,</i><c>.</c></NS> I have even helped them at one of their <NS type="FN"><i>concert</i><c>concerts</c></NS>."</p>
+          <p>Moreover, the work <NS type="TV"><i>I've had</i><c>I had</c></NS> to do, apart from carrying <NS type="RN"><i>material</i><c>equipment</c></NS>, was essentially to sell tickets for the concert, which <NS type="UV"><i>has</i></NS> allowed me to meet a lot of nice people and to become <NS type="AGN"><i>friend</i><c>friends</c></NS> with some of them. Even though my entire body aches (<NS type="MD"><c>the</c></NS> <NS type="RN"><i>material</i><c>equipment</c></NS> was quite heavy) and I am tired, I wouldn't call it <NS type="UD"><i>a</i></NS> work! I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>Richard Amelin</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

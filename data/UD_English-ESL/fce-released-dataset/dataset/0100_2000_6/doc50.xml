@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR203*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>I am writing to thank <NS type="MA"><c>you</c></NS> for the letter with the result of the competition and also to ask some questions.</p>
+          <p>Firstly, I would like to inform <NS type="MA"><c>you</c></NS> that I prefer travelling in July to travelling in <NS type="R"><i>another</i><c>any other</c></NS> month. The reason for <NS type="RA"><i>it</i><c>this</c></NS><NS type="UP"><i>,</i></NS> is that<NS type="UP"><i>,</i></NS> July is the only month in which<NS type="UP"><i>,</i></NS> I am on <NS type="FN"><i>holidays</i><c>holiday</c></NS> so I will not have to miss any classes. Next, I would prefer <NS type="FV"><i>stay</i><c>to stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> rather than stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I appreciate having <NS type="RJ"><i>straight</i><c>close</c></NS> contact with nature. Therefore, I have chosen climbing and swimming as the two activities <NS type="UT"><i>on</i></NS> which I am good at. I can say I am good at swimming, because in the club I used to be <NS type="UD"><i>the</i></NS> first in all the competitions and <NS type="M"><c>as for</c></NS> climbing I used to climb trees, walls<NS type="MP"><c>,</c></NS> everything in my childhood without falling.</p>
+          <p>Since I am going to travel I would like to know how much money <NS type="W"><i>would <NS type="MA"><c>it</c></NS></i><c>it would</c></NS> be <NS type="DJ"><i>adviseable</i><c>advisable</c></NS> to take and what kind of <NS type="DN"><i>clothe</i><c>clothing</c></NS> I should take.</p>
+          <p>I look forward <NS type="MT"><c>to</c></NS> an answer from you.</p>
+          <p>Yours Faithfully</p>
+          <p>Adriana</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>I am just writing to tell you about my experience <NS type="UT"><i>about</i></NS> helping at a pop concert.</p>
+          <p>Wonderful, Breathtaking, Fabulous, these are some adjectives to describe just a little bit how my experience was. Starting with good points, I could say that you <NS type="TV"><i>can</i><c>could</c></NS> talk <NS type="RP"><i>face to face</i><c>face-to-face</c></NS> with the pop stars. Moreover, you <NS type="TV"><i>have</i><c>had</c></NS> the unique opportunity to <NS type="RV"><i>take</i><c>have</c></NS> <NS type="MD"><c>your</c></NS> <NS type="FN"><i>pictures</i><c>picture</c></NS> <NS type="MV"><c>taken</c></NS> with them, to have their names written<NS type="UP"><i>,</i></NS> on your notebook by <NS type="RA"><i>themselves</i><c>them</c></NS>. Despite <NS type="UT"><i>of</i></NS> being tiring, it was rewarding because I noticed that all the singers are ordinary people who want to see their fans happy and satisfied and <NS type="MA"><i>that</i><c>it</c></NS> is true I experienced that. Another thing is that they pay you for <NS type="DD"><i>you</i><c>your</c></NS> <NS type="RN"><i>job</i><c>work</c></NS> and it is <NS type="UD"><i>a</i></NS> good money. Don't worry because you don't pay <NS type="MT"><c>for</c></NS> your ticket<NS type="MP"><c>,</c></NS> it is "free". From my point of view, there were <NS type="X"><i>not</i><c>no</c></NS> disadvantages.</p>
+          <p>Kim, summing up<NS type="MP"><c>,</c></NS> it was the most interesting experience that I have ever had. I'm looking forward to hearing from you.</p>
+          <p>Lots of Love</p>
+          <p>XXXXX</p>
+          <p>Adriana</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

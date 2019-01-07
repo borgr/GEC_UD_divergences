@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR139*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>My name is Manu Roddos and I am writing to complain about <NS type="RP"><i>somethings</i><c>some things</c></NS> that happened <NS type="RT"><i>in</i><c>at</c></NS> the performance of the show Over the Rainbow, <NS type="S"><i>wich</i><c>which</c></NS> took place in your <NS type="S"><i>stablishment</i><c>establishment</c></NS>, The Circle <NS type="SA"><i>Theater</i><c>Theatre</c></NS>, <NS type="RA"><i>that</i><c>which</c></NS> made me feel very upset.</p>
+          <p>First of all, the show is far away from being the best musical show in London. I was very <NS type="SX"><i>exited</i><c>excited</c></NS> to see it yesterday, but as soon as I arrived at the <NS type="SA"><i>theater</i><c>theatre</c></NS> the problems began. I was looking forward <NS type="RT"><i>on</i><c>to</c></NS> <NS type="RV"><i>having</i><c>getting</c></NS> a discount of <NS type="RQ"><i>some</i><c>several</c></NS> pounds on my ticket, as the leaflet <NS type="RV"><i>says</i><c>promises</c></NS>, however<NS type="MP"><c>,</c></NS> it did not happen. After that, I became even more angry because, as far as I <NS type="TV"><i><NS type="S"><i>concerne</i><c>concern</c></NS></i><c>am concerned</c></NS>, the show must begin on time, but it started <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes late. Finally, the actors were not Danny Brook and Tina Truelove, but others I have never <NS type="TV"><i>seeing</i><c>seen</c></NS> before, and the restaurant was closed with no <NS type="RN"><i><NS type="DN"><i>advise</i><c>advice</c></NS></i><c>notice</c></NS>.</p>
+          <p><NS type="ID"><i>At last</i><c>Lastly</c></NS>, for all these reasons my evening was horrible, and that is why I would like to ask you for my money back as soon as possible.</p>
+          <p>Yours <NS type="DY"><i>Sincerelly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="ID"><i>In our days</i><c>These days</c></NS>, technology has become a very common thing, even among children. It is such an evolution for <NS type="MD"><c>the</c></NS> human race, however<NS type="MP"><c>,</c></NS> we <NS type="RP"><i>can not</i><c>cannot</c></NS> forget that it can cause some problems too.</p>
+          <p>Firstly, the great boom <NS type="RT"><i>of</i><c>in</c></NS> <NS type="RJ"><i>massive</i><c>mass</c></NS> <NS type="S"><i>comunication</i><c>communication</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> happened <NS type="RT"><i>in</i><c>at</c></NS> the beginning of our decade, with the <NS type="S"><i>devellopment</i><c>development</c></NS> of telephones, radio stations, television and even <NS type="S"><i>satelites</i><c>satellites</c></NS>, and of course, the <NS type="RP"><i>internet</i><c>Internet</c></NS>, gave <NS type="RJ"><i>common</i><c>ordinary</c></NS> people the chance to take off on a trip all over the world, and this <NS type="RV"><i>provided</i><c>allowed</c></NS> health and education <NS type="CN"><i>researches</i><c>research</c></NS> to increase as well.</p>
+          <p><NS type="ID"><i>In the other hand</i><c>On the other hand</c></NS>, technology has <NS type="RV"><i>made</i><c>broadened</c></NS> the differences between <NS type="UP"><i>-</i></NS> poor and rich people to <NS type="R"><i>grow at a high level</i><c>a great degree</c></NS>, and this is one of the biggest causes of violence in all countries. <NS type="R"><i>I</i><c>In</c></NS> addition to that, people will always be <NS type="S"><i>affraid</i><c>afraid</c></NS> of <NS type="RD"><i>the</i><c>a</c></NS> technological war.</p>
+          <p>In conclusion, from my point of view, people must learn that despite technology being such a <unknown/> new area to explore, we have to use it with a great <NS type="RN"><i>amount</i><c>deal</c></NS> of <NS type="S"><i>responsability</i><c>responsibility</c></NS><NS type="UP"><i>,</i></NS> for us all to survive in the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

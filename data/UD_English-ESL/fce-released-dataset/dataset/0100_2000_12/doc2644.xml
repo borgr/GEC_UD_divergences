@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1061*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I am a student <NS type="RT"><i>of</i><c>in</c></NS> the FCE class and I am writing to you <NS type="ID"><i>in name of</i><c>on behalf of</c></NS> my class to thank you for the programme <NS type="RT"><i>about</i><c>for</c></NS> the <NS type="DJ"><i>three days</i><c>three-day</c></NS> trip to London that you have prepared for us.</p>
+          <p>We have discussed the programme in our class and the students are very happy about that<NS type="MP"><c>,</c></NS> especially because we will have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to visit the Science Museum and the National Gallery.</p>
+          <p>Last week some students <NS type="RT"><i>of</i><c>in</c></NS> our class <NS type="TV"><i>have seen</i><c>saw</c></NS> an advertisement for the London Fashion and Leisure Show that will be on Tuesday the 14th of March.</p>
+          <p>We would like to go to this show.</p>
+          <p>There will be the latest fashions and leisure and sports wear <NS type="MY"><c>on show</c></NS>. In addition we will have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to see the newest <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles.</p>
+          <p>We think that it will be a great opportunity for us to see this show because we are all interested in fashion.</p>
+          <p>For these reasons<NS type="MP"><c>,</c></NS> I am asking you if we can go there on <NS type="UP"><i>Tuesday's</i><c>Tuesday</c></NS> afternoon.</p>
+          <p>You can give the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to the students <NS type="SX"><i>too</i><c>to</c></NS> choose between <NS type="FV"><i>go</i><c>going</c></NS> shopping or <NS type="FV"><i>go</i><c>going</c></NS> to the show. The show will be at the Central Exhibition Hall and it will be <NS type="DJ"><i>opened</i><c>open</c></NS> until 7. pm.</p>
+          <p>It is even free for students!!</p>
+          <p>I hope that this change will not cause <NS type="UT"><i>to</i></NS> you too many problems.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>I agree with this statement.</p>
+          <p>I think that famous people deserve to have a private life like all the normal people, without journalists following them all the time.</p>
+          <p>A famous person should have the chance to go on his own for a walk without having the annoying impression of being followed.</p>
+          <p>In my opinion the journalists should have more respect for the private <NS type="FN"><i>life</i><c>lives</c></NS> of <NS type="UD"><i>the</i></NS> famous people. They should understand when it is too much, when they are going too far.</p>
+          <p>For instance, the tragic death of Princess Diana is an example of what a journalist must not do. In this <NS type="RN"><i>occasion</i><c>instance</c></NS> we can say that the journalists have, of course indirectly, caused her death.</p>
+          <p>On the other hand, <NS type="UD"><i>the</i></NS> famous people have to understand that <NS type="UD"><i>the</i></NS> people are interested in their lives. If one is famous<NS type="MP"><c>,</c></NS> <NS type="RA"><i>it</i><c>one</c></NS> has to accept also the disadvantages of <NS type="FV"><i>be</i><c>being</c></NS> famous.</p>
+          <p><NS type="UD"><i>The famous</i><c>Famous</c></NS> people must <NS type="S"><i>enderstand</i><c>understand</c></NS> that the journalists are doing their <NS type="RN"><i>work</i><c>job</c></NS>.</p>
+          <p>In my view Prince Charles is a good example of how famous people have to deal with the media. When he goes skiing in Switzerland he always stops for a while to talk with the journalists and to give the photographers the chance to take pictures. After this break he continues to ski without <NS type="FV"><i>be</i><c>being</c></NS> annoyed for the rest of the holiday.</p>
+          <p>In conclusion I think that there must be more <NS type="RN"><i><NS type="S"><i>compehension</i><c>comprehension</c></NS></i><c>understanding</c></NS> and respect between famous people and the media.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE1*0100*2001*01">
+  <candidate><personnel><language>French</language><age>41-50</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I am sad to read about Richard not being <NS type="R"><i>at his best</i><c>well</c></NS>. I hope that he will recover soon and that he will make it to our conference.</p>
+          <p>As far as <NS type="MD"><c>the</c></NS> organisation is concerned, <NS type="MD"><c>an</c></NS> adequate number of double rooms with shower or bath have been booked for your group at the Palace <NS type="RP"><i>hotel</i><c>Hotel</c></NS><NS type="MP"><c>,</c></NS> located across the main street from the train station. To come to our college, you can either <NS type="RV"><i>watch</i><c>walk</c></NS> downhill to the <NS type="DN"><i>lake front</i><c>lakeside</c></NS> (about 10 <NS type="AGN"><i>min</i><c>mins</c></NS>) or take the new cable car from the train station. The college is just <NS type="RN"><i>stairs</i><c>steps</c></NS> away from the bottom end.</p>
+          <p>The end-of-conference party will take place on a boat cruising on the lake. It will start <NS type="RT"><i>by</i><c>with</c></NS> a speech from the Director of the conference, followed by a meal. The <NS type="DJ"><i>recreative</i><c>recreational</c></NS> part will begin at 10 pm with a short musical comedy performed by some of our students and end with fireworks launched from the roof of the college at 2 am. As nights may be cold at this time of the year, may I suggest that you take with you a pullover. <NS type="DT"><i><NS type="S"><i>Appart</i><c>Apart</c></NS> of</i><c>Apart from</c></NS> that, there is no recommendation as to what to wear.</p>
+          <p>Depending on the interests of your students, I would suggest that you visit the internet site of the tourist office: www.neuchatel.ch.</p>
+          <p><NS type="RP"><i>yours</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p><NS type="MP"><c>'</c></NS>Where are you?<NS type="MP"><c>'</c></NS> is very often the first question that you will be asked when answering the phone. Why? Because somebody has invented the most popular communication device ever.</p>
+          <p>The mobile phone.</p>
+          <p>Once heavy, expensive and not reliable, the new mobile phone fits in almost any pocket and is given away by the operator to attract new customers.</p>
+          <p>Due to the mobile phone<NS type="RP"><i>.</i><c>,</c></NS> communication has changed, not improved.</p>
+          <p>Of course it allows <NS type="MA"><c>us</c></NS> to be reached everywhere (even in places you wouldn't want<NS type="RP"><i>.)</i><c>).</c></NS> For rescue teams, it is a great help. But isn't it a handicap outside professional life<NS type="RP"><i>.</i><c>?</c></NS> Shouldn't people communicate with those they are next to instead of calling someone 2 miles away<NS type="RP"><i>.</i><c>?</c></NS> It is not rare to see two people walking side by side, both talking on the phone. Wouldn't it be better to prepare the shopping list instead of <NS type="IV"><i>dialing</i><c>dialling</c></NS> home to ask which salad to buy<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p><NS type="MD"><i>Mobile</i><c>The mobile</c></NS> phone is a marvellous invention<NS type="MP"><c>,</c></NS> but as <NS type="RT"><i>for</i><c>with</c></NS> cigarettes, we should <NS type="RV"><i>right</i><c>write</c></NS> on it<NS type="MP"><c>:</c></NS></p>
+          <p>CAUTION: use of this device may damage your brain.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

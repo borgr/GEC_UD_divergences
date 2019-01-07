@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR65*0102*2000*02">
+  <candidate><personnel><language>German</language></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane,</p>
+          <p>I have read the advertisement for the festival and I must say it is a great idea. I would like to <NS type="RV"><i>tell</i><c>give</c></NS> you some suggestions.</p>
+          <p>The stars and <NS type="FN"><i>artist</i><c>artists</c></NS> are from only six countries, and some concerts take place in small halls. I think you should put <NS type="RA"><i>it</i><c>that</c></NS> in the advertisement. Are there going to be more plays and films next year?</p>
+          <p>I find the reasonably-priced ticket excellent, because there <NS type="AGV"><i>is</i><c>are</c></NS> a lot of people who <NS type="TV"><i>went</i><c>go</c></NS> to see only one or two events, and by paying <NS type="MT"><c>for</c></NS> the <NS type="MP"><i>all events</i><c>all-events</c></NS> ticket<NS type="MP"><c>,</c></NS> they might see other events and learn about something they didn't <NS type="FV"><i>expected</i><c>expect</c></NS> to find interesting. I would like you to answer my letter.</p>
+          <p>I'm looking forward to hearing from you,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear John,</p>
+          <p>Here in Brazil the rules at school <NS type="AGV"><i>depends</i><c>depend</c></NS> on the school. In general, the rules at private schools are much <NS type="RJ"><i>harder</i><c>stricter</c></NS> than the ones at state schools. In mine, we didn't have many rules. For example, nobody said anything when we smoked in the garden or in the bathroom. We were allowed to go out if we didn't want to stay in class. But we had to <NS type="RV"><i>use</i><c>wear</c></NS> the uniform and we had to study a lot to pass the exams.</p>
+          <p><NS type="RP"><i>the</i><c>The</c></NS> rules at home are very different. I am allowed to do what I want as long as I <NS type="S"><i>studie</i><c>study</c></NS> enough to <NS type="DV">aprove</NS>. I think that my parents let me do what I want<NS type="UP"><i>,</i></NS> because they trust me. <NS type="RP"><i>they</i><c>They</c></NS> know that if I go out with the car, I will not drink. It is not <NS type="S"><i>allways</i><c>always</c></NS> easy, but there are rules in every home and you have to respect them.</p>
+          <p>I am looking forward to hearing from you,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

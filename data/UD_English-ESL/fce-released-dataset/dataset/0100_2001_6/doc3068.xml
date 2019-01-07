@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE44*0100*2001*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith</p>
+          <p>I have received your letter, which was about <NS type="CE">that you would like me to inform you</NS>.</p>
+          <p>As you know, a hotel <NS type="UN"><i>whose name</i></NS> <NS type="RV"><i>is</i><c>called</c></NS> <NS type="MD"><c>the</c></NS> Palace Hotel has been booked for your group. The best way to get from there to the conference is to take a taxi. I am afraid there are no buses to get there.</p>
+          <p>We will have a great party at the end of the conference. The party will be formal, therefore you <NS type="TV"><i>have</i><c>will have</c></NS> to wear formal clothes like a suit or a dress. As you know, it is not suitable to wear <NS type="UD"><i>a</i></NS> <NS type="IN"><i>jean</i><c>jeans</c></NS> or something <NS type="MJ"><c>similar</c></NS>.</p>
+          <p>On your last day you have <NS type="RD"><i>an</i><c>the</c></NS> afternoon free. In my area there is a fantastic park, which is the most famous park in the country. You can find a lot of things to do or to see. You can visit the zoo or walk around the amazing lake in the park.</p>
+          <p>I hope you will find all the details<NS type="UP"><i>,</i></NS> which you would like to have in the letter. If you need any <NS type="MY"><c>more</c></NS> information, please let me know.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><c>The</c></NS> Power Of Computurs.</p>
+          <p>How much can a computer affect your life? I think it <NS type="RV"><i>effects</i><c>affects</c></NS> <NS type="MA"><c>you</c></NS> more than you think.</p>
+          <p>When I was a child I always wanted to get the lyrics of the songs that I liked, but it was nearly impossible to have them. I felt <NS type="MD"><c>the</c></NS> lack of them. I first bought a computer <NS type="R"><i>as</i><c>when</c></NS> I was in university. It was <NS type="RY"><i>so</i><c>very</c></NS> necessary for me because I wanted to be a computer programmer. <NS type="MT"><c>At</c></NS> <NS type="RP"><i>That</i><c>that</c></NS> time I <NS type="RV"><i>met</i><c>entered</c></NS> the magic world of computers. Linking to the <NS type="RP"><i>internet</i><c>Internet</c></NS> was so popular. <NS type="MD"><c>The</c></NS> Internet was something amazing for me. Can you <NS type="RV"><i>think</i><c>imagine</c></NS> you have every <NS type="MN"><c>piece</c></NS> <NS type="MT"><c>of</c></NS> information you need whenever you want <NS type="MA"><c>it</c></NS>? Can you <NS type="RV"><i>think</i><c>imagine</c></NS> you <NS type="MV"><c>can</c></NS> contact <NS type="UT"><i>with</i></NS> anyone who is from any country whenever you want <NS type="MT"><c>to</c></NS>?</p>
+          <p>I meet a lot of people on <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> and it really <NS type="AGV"><i>interest</i><c>interests</c></NS> me. I learn a lot about their culture by speaking <NS type="MT"><c>to</c></NS> them on <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. I wasn't able to imagine this before. In addition <NS type="MT"><c>to</c></NS> this, today companies can do nothing without a computer. Everything in this world <NS type="TV"><i>works</i><c>will work</c></NS> with computers from now on.</p>
+          <p>Computers <NS type="TV"><i>changed</i><c>have changed</c></NS> my <NS type="RP"><i>life style</i><c>lifestyle</c></NS>, my <NS type="FN"><i>opinion</i><c>opinions</c></NS> about the world. And they <NS type="RV"><i>effect</i><c>affect</c></NS> everyone's life directly or indirectly.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

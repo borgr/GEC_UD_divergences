@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR437*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am a foreign woman who had a week's holiday in London and decided to go to the theatre to see a musical show. That show wasn't <NS type="R"><i>as</i><c>what</c></NS> it <NS type="MV"><c>was</c></NS> supposed to be and it is for that reason that I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you.</p>
+          <p>One of the problems <NS type="TV"><i>is</i><c>was</c></NS> that a couple of actors, Danny Brook and Tina Truelove, were the ones supposed to act and a different actor took Danny's place<NS type="RP"><i>, it</i><c>. It</c></NS> was disappointing!</p>
+          <p>The second show was supposed to start at 19:30, but <NS type="ID"><i>to make the matters worse</i><c>to make matters worse</c></NS>, it started at 20.15, so after the show I couldn't <NS type="RV"><i>got</i><c>go</c></NS> to the cinema.</p>
+          <p><NS type="ID"><i>Apart from that</i><c>Also</c></NS> I couldn't visit the theatre restaurant after the show because it was closed for <NS type="MD"><c>the</c></NS> holidays.</p>
+          <p>On top of everything the <NS type="RN"><i>tickets</i><c>ticket office</c></NS> didn't offer any discounts, so <NS type="MT"><c>on</c></NS> the last day I couldn't buy <NS type="RD"><i>the</i><c>a</c></NS> present for my neighbour.</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to ask <NS type="MT"><c>for</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> refund of the £55 which I spent on the ticket for <NS type="RD"><i>the</i><c>that</c></NS> miserable show.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully.</p>
+          <p>Jane Smythe</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>I am going to write about how <NS type="W"><i>has modern technology</i><c>modern technology has</c></NS> changed our daily life.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I think that technology has been one of the most important inventions <NS type="RT"><i>of</i><c>in</c></NS> human <NS type="MN"><c>history</c></NS> and that without it we couldn't be where we are <NS type="S"><i>wright</i><c>right</c></NS> now.</p>
+          <p>One of the best examples is the car: in a lot of cities around the world, cars can be seen in the streets all day long. During the last decade the number of people who <NS type="AGV"><i>has</i><c>have</c></NS> <NS type="R"><i>a particular</i><c>their own</c></NS> car <NS type="TV"><i>has increased</i><c>increased</c></NS> very <NS type="RY"><i>fast</i><c>quickly</c></NS>. On the other hand people who <NS type="AGV"><i>hasn't</i><c>haven't</c></NS> any cars<NS type="UP"><i>,</i></NS> can also be helped by technology: they can use the public transport like the train or the bus, which <NS type="AGV"><i>is</i><c>are</c></NS> also <NS type="UD"><i>a</i></NS> comfortable <NS type="AGN"><i>form</i><c>forms</c></NS> of travelling. But if you want <NS type="RD"><i>a</i><c>the</c></NS> fastest <NS type="M"><c>means of</c></NS> transport, the plane is <NS type="UD"><i>the</i></NS> perfect <NS type="UA"><i>one</i></NS>!</p>
+          <p>But technology can also help you at home if you use modern machines <NS type="UT"><i>for</i></NS> <NS type="FV"><i>cleaning</i><c>to clean</c></NS> your house, clothes or dishes.</p>
+          <p>Apart from that, technology also helps in hospitals. <NS type="RQ"><i>Every</i><c>All</c></NS> <NS type="MD"><c>the</c></NS> time <NS type="M"><c>there are</c></NS> more machines <NS type="FV"><i>help</i><c>helping</c></NS> doctors and nurses with their difficult <NS type="S"><i>tascs</i><c>tasks</c></NS>.</p>
+          <p>In contrast, technology is very bad for the <NS type="RN"><i>nature</i><c>environment</c></NS>: if we use cars we contaminate <NS type="M"><c>the environment</c></NS>, and many cars are being used every day!</p>
+          <p>On balance I think that <NS type="W"><i>evidently technology</i><c>technology evidently</c></NS> has got more advantages than disadvantages.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

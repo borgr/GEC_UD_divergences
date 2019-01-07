@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1077*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>My name is Yakimo Nashoto<NS type="RP"><i>,</i><c>.</c></NS> I study in France and I went to London just to see "Over the Rainbow" because all my friends told me that it was "great". However, when I saw it, I was really <NS type="S"><i>disapointed</i><c>disappointed</c></NS> and I <NS type="MV"><c>must</c></NS> ask you <NS type="MT"><c>for</c></NS> some money back. The reasons why I was disappointed <NS type="TV"><i>were</i><c>are</c></NS> <NS type="M"><c>as follows</c></NS>:</p>
+          <p>First of all, Danny Brook was not there<NS type="RP"><i>,</i><c>.</c></NS> I was very upset because he is my <NS type="SA"><i>favorite</i><c>favourite</c></NS> singer and <NS type="RA"><i>it</i><c>that</c></NS> was one of the reasons why I wanted to see this show.</p>
+          <p>Then, the show started <NS type="S"><i>t</i><c>at</c></NS> <NS type="ID"><i>20.15 pm</i><c>20.15</c></NS> instead of 19.30. My Euro Star was at <NS type="ID"><i>22 pm</i><c>22.00</c></NS>. As you can see, I missed my train to go back to Paris.</p>
+          <p><NS type="R">On the <NS type="S"><i>developpement</i><c>development</c></NS></NS>, they also said that <NS type="RA"><i>they</i><c>there</c></NS> <NS type="TV"><i>will</i><c>would</c></NS> be a discount for students who are between eighteen and twenty-five years old but <NS type="RA"><i>it</i><c>that</c></NS> was totally wrong because I paid the full price<NS type="MP"><c>,</c></NS> which was £20.</p>
+          <p>Finally, I wanted to buy something to drink, <NS type="MC"><c>but</c></NS> the restaurant was closed because it was <NS type="UT"><i>on</i></NS> a bank holiday!</p>
+          <p><NS type="ID"><i>As a conclusion</i><c>In conclusion</c></NS>, it was the <NS type="FJ"><i>worse</i><c>worst</c></NS> evening I have ever had in my life so I <NS type="MV"><c>must</c></NS> ask you for <NS type="MD"><c>my</c></NS> money back.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="UD"><i>The modern</i><c>Modern</c></NS> technology has changed my daily life a lot.</p>
+          <p>First of all, <NS type="MD"><c>the</c></NS> Internet makes my life easier. Some of my friends live <NS type="UT"><i>in</i></NS> overseas<NS type="RP"><i>, we</i><c>. We</c></NS> keep in touch <NS type="RT"><i>by</i><c>with</c></NS> e-mails<NS type="RP"><i>, it</i><c>. It</c></NS> is a very good way <NS type="UT"><i>for</i></NS> <NS type="FV"><i>communicating</i><c>to communicate</c></NS> because it is much cheaper than a phone call and we can re-read <NS type="RN"><i><NS type="CN"><i>mails</i><c>mail</c></NS></i><c>e-mails</c></NS> and keep them forever.</p>
+          <p><NS type="RY"><i>Then</i><c>Also</c></NS>, nine <NS type="L"><i>persons</i><c>people</c></NS> out of ten have a mobile phone in our society. I have one too! It is very useful for several reasons:</p>
+          <p>when I want to call someone, I don't need to look <NS type="RY"><i>after</i><c>for</c></NS> a phone box<NS type="RP"><i>.</i><c>;</c></NS></p>
+          <p>people can phone me at <NS type="RP"><i>anytime</i><c>any time</c></NS> they want from <NS type="RY"><i>everywhere</i><c>anywhere</c></NS><NS type="MP"><c>;</c></NS></p>
+          <p>when I go out, sometimes my parents are worried so they phone <NS type="UT"><i>to</i></NS> me <NS type="MV"><c>to see</c></NS> if everything is <NS type="UV"><i>going</i></NS> alright.</p>
+          <p>Finally, there is a TV in my <NS type="RP"><i>parent's</i><c>parents'</c></NS> car. We can watch TV<NS type="RP"><i>, there</i><c>. There</c></NS> is also a map so when we get lost, it is very <NS type="SX"><i>east</i><c>easy</c></NS> to <NS type="R">find out the place</NS>.</p>
+          <p><NS type="ID"><i>As a conclusion</i><c>In conclusion</c></NS>, I agree that modern technology has changed my daily life but I am sure that<NS type="MP"><c>,</c></NS> in the future, my life will not be the same as now because more modern technology will appear. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

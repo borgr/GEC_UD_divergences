@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR849*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>12.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I have just received the letter from you. I would like to <NS type="FV"><i>thanks</i><c>thank</c></NS> <NS type="MA"><c>you</c></NS> for <NS type="S"><i>chossing</i><c>choosing</c></NS> me.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> the letter <NS type="MA"><c>you</c></NS> <NS type="TV"><i>is asking</i><c>ask</c></NS> when I would like to go<NS type="RP"><i>?</i><c>.</c></NS> The most suitable month is July<NS type="RP"><i>. Because</i><c>, because</c></NS> my pen friend is going to visit me <NS type="RT"><i>on</i><c>in</c></NS> June. Also I <NS type="R">prefer the Camp California</NS> because I have just <NS type="TV"><i>finish</i><c>finished</c></NS> my military service and I got <NS type="TV"><i>use</i><c>used</c></NS> to <NS type="FV"><i><NS type="RV"><i>live</i><c>stay</c></NS></i><c>staying</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="RN"><i>campus</i><c>camp</c></NS>.</p>
+          <p><NS type="SX"><i>Their</i><c>There</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> two activities. I am good <NS type="RT"><i>in</i><c>at</c></NS> Basketball and <NS type="S"><i>tenis</i><c>tennis</c></NS>. I <NS type="TV"><i>was playing</i><c>played</c></NS> Basketball <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> university. <NS type="RT"><i>During</i><c>At</c></NS> <NS type="UD"><i>the</i></NS> university I <NS type="TV"><i><NS type="S"><i>atend</i><c>attend</c></NS></i><c>attended</c></NS> <NS type="W"><i>for two years <NS type="S"><i>tenis</i><c>tennis</c></NS> lessons</i><c>tennis lessons for two years</c></NS>. <NS type="DY"><i>Finaly</i><c>Finally</c></NS> I would like to ask you<NS type="UP"><i>. If</i><c> if</c></NS> I need to <NS type="RV"><i>get</i><c>bring</c></NS> money and clothes with me.</p>
+          <p>I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you!</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Last month I had a great time in Derby. I went with Big Brothers<NS type="M"><c>, which is</c></NS> the name of the band.</p>
+          <p>As I told you two <NS type="AGN"><i>month</i><c>months</c></NS> ago<NS type="MP"><c>,</c></NS> I saw the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> in the <NS type="S"><i>newspepper</i><c>newspaper</c></NS>. This group was looking for <NS type="MD"><c>a</c></NS> Manager. I went for <NS type="MD"><c>the</c></NS> interview and I got the job. They did not <NS type="FV"><i><NS type="SX"><i>new</i><c>knew</c></NS></i><c>know</c></NS> each <NS type="RA"><i>one</i><c>other</c></NS>. They just <NS type="TV"><i>meet</i><c>met</c></NS> each <NS type="RA"><i>one</i><c>other</c></NS> a month ago.</p>
+          <p><NS type="R"><i>During the time</i><c>Just</c></NS> before the <NS type="S"><i>consert</i><c>concert</c></NS> I had to <NS type="RV"><i>look</i><c>check</c></NS> <NS type="RC"><i>if</i><c>that</c></NS> <NS type="RP"><i>every one</i><c>everyone</c></NS> was present. Also I had to look for <NS type="MD"><c>a</c></NS> <NS type="RJ"><i>dried</i><c>dry</c></NS> place in case it was raining. I really liked <NS type="MA"><c>that</c></NS>. I had to run all the <NS type="FN"><i>times</i><c>time</c></NS>. This was my job and I <NS type="TV"><i>like</i><c>liked</c></NS> what I <NS type="TV"><i>am</i><c>was</c></NS> doing. The <NS type="S"><i>consert</i><c>concert</c></NS> was <NS type="S"><i>briliant</i><c>brilliant</c></NS>.</p>
+          <p>I am looking <NS type="MY"><c>forward</c></NS> to <NS type="FV"><i>hear</i><c>hearing</c></NS> the <NS type="IN"><i>new</i><c>news</c></NS> <NS type="RT"><i>from</i><c>about</c></NS> <NS type="DD"><i>yours</i><c>your</c></NS> group. <NS type="ID"><i>I hope all the best for you</i><c>I wish you all the best</c></NS>!</p>
+          <p>With Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

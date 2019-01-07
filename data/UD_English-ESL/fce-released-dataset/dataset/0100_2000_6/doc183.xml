@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR701*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I was really glad to receive your letter and find out that I won the competition. I am writing this letter to give you all the necessary details.</p>
+          <p>First of all, you have asked me when I would like to travel. Actually, I could only travel in July, when I <NS type="TV"><i>am having</i><c>have</c></NS> my school <NS type="FN"><i>vacations</i><c>vacation</c></NS> and I will be totally free.</p>
+          <p>As you have asked me about the accommodation, I would be grateful if I could stay in a tent - as it seems to be more practical and comfortable.</p>
+          <p><NS type="RT"><i>Among</i><c>From</c></NS> the activities, I would choose painting - which I am keen on and I have done several courses - <NS type="UP"><i>,</i></NS>and Photography - <NS type="RT"><i>from</i><c>about</c></NS> which I know just the <NS type="DJ"><i>basical</i><c>basic</c></NS> skills.</p>
+          <p>I would like to know if I should take <NS type="MQ"><c>any</c></NS> <NS type="RP"><i>winter-clothes</i><c>winter clothes</c></NS>, and I would be grateful if you could tell me how much money is necessary for the trip.</p>
+          <p>Thank you for your attention. I am looking forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>Natalia Lopes</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>With the <NS type="DN"><i>increasing</i><c>increase</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> violence, more and more people are leaving the streets to spend their free time shopping - usually in shopping centres.</p>
+          <p><NS type="W"><i>Shopping may be very enjoyable, in fact</i><c>In fact, shopping may be very enjoyable</c></NS>, as people <NS type="R">get in contact</NS> with new products, take a look at shops, buy <NS type="IA"><i><NS type="RP"><i>some things</i><c>somethings</c></NS></i><c>something</c></NS> or just walk around. But it can also be dangerous.</p>
+          <p>First, most <NS type="RN"><i><NS type="AGN"><i>part</i><c>parts</c></NS></i><c>areas</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> <NS type="S"><i>shoping</i><c>shopping</c></NS> centres <NS type="AGV"><i>uses</i><c>use</c></NS> artificial illumination and <NS type="RN"><i><NS type="S"><i>refiguration</i><c>refrigeration</c></NS></i><c>air conditioning</c></NS>, which are bad for our health. Queues and lots of people going round can be stressful and tiring.</p>
+          <p>Besides, it was confirmed by scientists that <NS type="S"><i>consumism</i><c>consumerism</c></NS> may develop <NS type="RT"><i>to</i><c>into</c></NS> a compulsion. There are cases of people that <NS type="RP"><i>can not</i><c>cannot</c></NS> spend one day without buying anything.</p>
+          <p>After all that<NS type="MP"><c>,</c></NS> we can <NS type="RV">notice</NS> that shopping can be a good <NS type="RN">option</NS> as long as we can choose other enjoyable activities for our free time.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

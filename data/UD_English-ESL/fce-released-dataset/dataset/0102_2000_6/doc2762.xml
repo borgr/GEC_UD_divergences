@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1120*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam, After I had read your advertisement I went to "the Circle Theatre" looking forward to watching your musical "Over the rainbow". In the end I was very disappointed. Firstly, the show did not start on time but <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes <NS type="FY"><i>later</i><c>late</c></NS>. This made me a little bit angry because I already had <NS type="FN"><i>troubles</i><c>trouble</c></NS> <NS type="UT"><i>with</i></NS> buying a ticket <NS type="RY"><i>before</i><c>earlier</c></NS>: although it was proclaimed in the advertisement, there were no £15 and £10 discounts available. But I did not mind anymore because I knew that a show with Danny Brook would be worth this. That was why I was really shocked <NS type="RV"><i><NS type="FV"><i>recognizing</i><c>to recognise</c></NS></i><c>to see</c></NS> that there was another actor playing <NS type="M"><c>his role</c></NS>. This actor was not <NS type="RY"><i>almost</i><c>nearly</c></NS> as brilliant as Danny Brook and I would not have <NS type="IV"><i>paied</i><c>paid</c></NS> so <NS type="CQ"><i>many</i><c>much</c></NS> money if I had known this before. At the end of the musical I decided to "rescue" this evening by visiting your theatre restaurant. Like everything <NS type="MY"><c>else</c></NS> <NS type="MC"><c>that</c></NS> had gone wrong that evening, the restaurant was closed because the cook had fallen ill! I hope you can see that this was no "perfect evening" and I was very disappointed, mostly because this was the last night of our stay in London. I am convinced <NS type="MA"><c>I</c></NS> <NS type="FV"><i>to have</i><c>have</c></NS> the right <NS type="R"><i>to get</i><c>to</c></NS> some money back from you because none of your promises was <NS type="UD"><i>a</i></NS> carried out. Yours faithfully Gabe Grumman (Mrs)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>"The Old Man and the Sea"</p>
+          <p>I heard somebody say<NS type="MP"><c>,</c></NS> "Exciting books always describe people in difficult situations". Well, I would not agree that this statement is always true, but it is true in the case of the book "The Old Man and the Sea" by Ernest Hemingway.</p>
+          <p>The context of the book is easy to understand and not very spectacular: an old fisherman is alone on the vast sea, fighting with a strong fish he <NS type="TV"><i>had</i><c>has</c></NS> caught. What makes the situation difficult is that <NS type="RQ"><i>none</i><c>neither</c></NS> of the two characters wants to give up. It becomes a <NS type="ID"><i>fight about life or death</i><c>life and death struggle</c></NS>.</p>
+          <p>The excitement is not created by bloody fights but by the strength of the protagonist. He is old and he wants to win this last competition between him and <NS type="UD"><i>the</i></NS> nature. So he <NS type="RV"><i>bares</i><c>bears</c></NS> everything: the days and nights on the sea, without any food or water, the terrible summer sun, <NS type="UD"><i>the</i></NS> being injured from keeping <NS type="MN"><c>hold</c></NS> <NS type="RT"><i>to</i><c>of</c></NS> the line <NS type="R"><i>where</i><c>on which</c></NS> the fish is <NS type="R"><i>on</i><c>caught</c></NS>.</p>
+          <p>The reader feels <NS type="RT"><i>with</i><c>for</c></NS> him, wants to know if he will win or wonders why he will not give up.</p>
+          <p>Although this situation might not <NS type="MV"><c>be</c></NS> very difficult or important for anybody else, it is for this old man and I found it very exciting to follow this story until <NS type="UP"><i>it's</i></NS> quiet, sad end. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

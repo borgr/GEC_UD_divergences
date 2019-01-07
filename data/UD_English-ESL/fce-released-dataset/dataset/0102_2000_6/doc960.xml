@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR400*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to <NS type="RV"><i>complete</i><c>complain</c></NS> about my <NS type="DN"><i>being</i><c>visit</c></NS> to the Circle Theatre during my last <NS type="UN"><i>week's</i></NS> holiday in London. I <NS type="TV"><i>have seen</i><c>saw</c></NS> a musical show and it was not <NS type="R">my favourite time</NS>.</p>
+          <p>I <NS type="TV"><i>am</i><c>was</c></NS> <NS type="RJ"><i>confusing</i><c>confused</c></NS> because <NS type="UT"><i>of</i></NS> <NS type="R"><i>playing</i><c>there was a</c></NS> different actor in place <NS type="MT"><c>of</c></NS> Danny Brook. <NS type="S"><i>Secendly</i><c>Secondly</c></NS>, the show started at 20.15. This is why I was <NS type="R">feeling invited</NS> to your restaurant after <NS type="MD"><c>the</c></NS> show. Unfortunately, I found closed doors and <NS type="RQ"><i>any</i><c>no</c></NS> information about the reason. I would like to add that<NS type="MP"><c>,</c></NS> being a student<NS type="MP"><c>,</c></NS> I find discounts very important for my budget. <NS type="RY"><i>Neither</i><c>Also</c></NS><NS type="MP"><c>,</c></NS> without any reason <NS type="MV"><c>being given</c></NS> <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> not available.</p>
+          <p>I will <NS type="MV"><c>be</c></NS> <NS type="DJ"><i>gladfull</i><c>glad</c></NS> if you will send my money back.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="DY"><i>faithfull</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. This was the reason <NS type="S"><i>whe</i><c>why</c></NS> we were <NS type="MT"><c>in</c></NS> horrible <NS type="FN"><i>troubles</i><c>trouble</c></NS> with <NS type="MD"><c>the</c></NS> police. What is more, our friends didn't want to talk <NS type="RT"><i>with</i><c>to</c></NS> us.</p>
+          <p>Let's <NS type="MV"><c>go</c></NS> back to the <NS type="S"><i>beginig</i><c>beginning</c></NS> of this story. I <NS type="R"><i>with</i><c>and</c></NS> my friends had <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>holidays</i><c>holiday</c></NS> and decided to spend a few days on <NS type="FD"><i>a</i><c>an</c></NS> "island". We called this place <NS type="UT"><i>like</i></NS> this, because it was a <NS type="MQ"><c>piece of</c></NS> land in the middle of our lake. We tried to survive there without returning <NS type="RT"><i>on</i><c>to</c></NS> <NS type="UD"><i>a</i></NS> land - to our town. There was no light <NS type="RT"><i>during</i><c>at</c></NS> <NS type="FN"><i>nights</i><c>night</c></NS> so we had to find some wood to make a fire. I was <NS type="UD"><i>a</i></NS> walking with my friend Pat in a forest when we discovered <NS type="CQ"><i>a</i><c>some</c></NS> gold. This is no joke! There was a secret place <NS type="SX"><i>when</i><c>where</c></NS> <NS type="MD"><c>a</c></NS> robber <NS type="S"><i>keept</i><c>kept</c></NS> <NS type="W"><i>stolen gold</i><c>gold stolen</c></NS> from <NS type="MD"><c>a</c></NS> bank. We found the solution <NS type="RT"><i>of</i><c>to</c></NS> this <NS type="S"><i>deceperous</i><c>desperate</c></NS> situation - to say nothing to anybody. So we tried to keep our secret for 2 days but...</p>
+          <p>I think you are able to imagine what <NS type="UV"><i>was</i></NS> <NS type="TV"><i>happen</i><c>happened</c></NS> later.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

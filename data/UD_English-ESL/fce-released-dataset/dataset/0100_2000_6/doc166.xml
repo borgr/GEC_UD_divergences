@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR654*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Helen</i></NS> Ryan,</p>
+          <p>I received your letter this morning. I am very pleased to hear that I have won first prize in your competition. <NS type="R">You can find <NS type="S"><i>futher</i><c>further</c></NS> information from me about Camp California in the USA</NS>.</p>
+          <p>First of all I <NS type="RV"><i>should</i><c>can</c></NS> go to Camp California only <NS type="MT"><c>in</c></NS> July because I will start working <NS type="RT"><i>in</i><c>at</c></NS> our local leisure centre as a swimming <NS type="S"><i>instructer</i><c>instructor</c></NS> <NS type="M"></NS><NS type="MP"><c>.</c></NS></p>
+          <p>And I would like to <NS type="MV"><c>choose</c></NS> swimming <NS type="M"><c>as an</c></NS> <NS type="FN"><i>activities</i><c>activity</c></NS> at the camp. My second <NS type="SX"><i>chose</i><c>choice</c></NS> is painting because I love <NS type="RP"><i>water colour</i><c>watercolour</c></NS> painting and I am a member of the <NS type="UD"><i>our</i></NS> <NS type="RP"><i>water colour</i><c>watercolour</c></NS> painting club in my town.</p>
+          <p>I would like to stay in <NS type="MD"><c>a</c></NS> log <NS type="FN"><i>cabins</i><c>cabin</c></NS> because I <NS type="TV"><i>have</i><c>have had</c></NS> bad <NS type="FN"><i><NS type="S"><i>experiens</i><c>experience</c></NS></i><c>experiences</c></NS> <NS type="RT"><i>about</i><c>with</c></NS> tents. I do not like to stay in such a small <NS type="RN"><i>place</i><c>space</c></NS>.</p>
+          <p>Lastly, I would like to know how much money I should bring with me<NS type="MP"><c>,</c></NS> and could you give me <NS type="MD"><c>an</c></NS> <NS type="RN"><i>clue</i><c>idea</c></NS> about what I must bring <NS type="R"><i>as a</i><c>in the way of</c></NS> clothes and what I do not need <NS type="UA"><i>it</i></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Shopping is Not <NS type="DJ"><i>Enjoy</i><c>Enjoyable</c></NS> Anymore</p>
+          <p>We are all <NS type="S"><i>costemers</i><c>customers</c></NS> of the big supermarkets<NS type="MP"><c>.</c></NS> They have all <NS type="RA"><i>what</i><c>that</c></NS> we need <NS type="UA"><i>it</i></NS>. They are a bit far from town but they have huge <NS type="FN"><i>car park</i><c>car parks</c></NS>. They give us lots of <NS type="SX"><i>chose</i><c>choice</c></NS> to buy what we need <NS type="UA"><i>it</i></NS> and what we can <NS type="RV">try for</NS>.</p>
+          <p>Also they <NS type="RV"><i>give</i><c>have</c></NS> lots of <NS type="RN"><i><NS type="AGN"><i>sale</i><c>sales</c></NS></i><c>special offers</c></NS> <NS type="RT"><i>for</i><c>on</c></NS> everything<NS type="MP"><c>,</c></NS> <NS type="W"><i>even you can</i><c>you can even</c></NS> join their <NS type="FN"><i>club</i><c>clubs</c></NS> for extra discount. It <NS type="RV"><i><NS type="AGV"><i>look</i><c>looks</c></NS></i><c>seems</c></NS> wonderful <NS type="RP"><i>does not</i><c>doesn't</c></NS> it<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>But when we <NS type="SX"><i>thing</i><c>think</c></NS> <NS type="MT"><c>about</c></NS> <NS type="MA"><c>it</c></NS> <NS type="RY"><i>properly</i><c>seriously</c></NS><NS type="MP"><c>,</c></NS> shopping is not enjoyable<NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> if you forget something that <NS type="MA"><c>you</c></NS> need for <NS type="MD"><c>a</c></NS> <NS type="S"><i>salat</i><c>salad</c></NS>. You have to go back <NS type="MT"><c>to</c></NS> <NS type="RD"><i>this</i><c>the</c></NS> supermarket and find <NS type="MD"><c>the</c></NS> nearest parking space<NS type="MP"><c>,</c></NS> then before someone takes the <NS type="UD"><i>their</i></NS> last fresh lemon for your <NS type="S"><i>salat</i><c>salad</c></NS><NS type="MP"><c>,</c></NS> you must find <NS type="MY"><c>out</c></NS> where <NS type="W"><i><NS type="TV"><i>was</i><c>is</c></NS> the lemon section</i><c>the lemon section is</c></NS><NS type="MP"><c>,</c></NS> <NS type="UY"><i>before</i></NS> because they love <NS type="FV"><i>change</i><c>to change</c></NS> the store <NS type="MY"><c>around</c></NS> again and again. When you get your lemon you have to go to queue to <NS type="R"><i>lemons money</i><c>pay for the lemon</c></NS>.</p>
+          <p><NS type="SX"><i>At</i><c>As</c></NS> <NS type="RA"><i>it</i><c>this</c></NS> shows<NS type="MP"><c>,</c></NS> shopping <NS type="RV"><i>is</i><c>has</c></NS> become <NS type="M"><c>one of</c></NS> our dislikes, because of the huge supermarkets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

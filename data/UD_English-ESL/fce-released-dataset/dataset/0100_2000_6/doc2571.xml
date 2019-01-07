@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR114*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I was very happy when your letter arrived, yesterday. This trip will be very important for me<NS type="RP"><i>, that</i><c>. That</c></NS> is why I am interested in travelling to <NS type="MD"><c>the</c></NS> U.S.A as soon as possible.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I will be on <NS type="MD"><c>my</c></NS> winter holidays, so I will not miss classes at school. I would really prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I love sleeping outdoors and listening <NS type="MT"><c>to</c></NS> <NS type="MD"><c>the</c></NS> noises from outside.</p>
+          <p>I am going to tell you two activities that I would like to do while I will be at the Camp. Firstly I would be happy if you let me play tennis, because I have played it for four years and I do it well, and secondly I believe that singing could be interesting because I really like it and I have a beautiful voice.</p>
+          <p>I was wondering <NS type="MT"><c>about</c></NS> the kind of clothes that I will have to wear and finally could you tell me how much money I will have to take?</p>
+          <p>I look <NS type="RP"><i>for ward</i><c>forward</c></NS> to receiving more news.</p>
+          <p>Yours Faithfully,</p>
+          <p>Rosario de los Peines (Mrs).</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hello! How are you? I'm writing because I know that you're interested in <NS type="RV"><i>listening</i><c>hearing</c></NS> <NS type="MT"><c>about</c></NS> my experience <NS type="R"><i>in which</i><c>when</c></NS> I enjoyed helping at a pop concert last month<NS type="RP"><i>, perhaps</i><c>. Perhaps</c></NS> in the future you'll be able to help too.</p>
+          <p>If you want to help at a pop concert you'll have to write <NS type="R"><i>down</i><c>about</c></NS> yourself in a competition as I did, then, if you win the organiser will phone you and you'll be able to help them.</p>
+          <p>At the concert I had to <NS type="R">clear</NS> and <NS type="TV"><i>organized</i><c>organize</c></NS> all the people who were <NS type="R"><i>in</i><c>there</c></NS>, but at the end of the night I was able to talk with one of my favourite pop <NS type="AGN"><i>singer</i><c>singers</c></NS>. I think that <NS type="UA"><i>it</i></NS> was the experience I <NS type="UY"><i>particularly</i></NS> liked most and which I will never forget.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

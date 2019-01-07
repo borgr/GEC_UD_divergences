@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR84*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>41-50</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>DEAR MRS. HELEN RYAN</p>
+          <p>COMPETITION ORGANISER</p>
+          <p>THANK YOU VERY MUCH FOR THE NICE SURPRISE YOU'VE <NS type="UV"><i>BEEN</i></NS> GIVEN <NS type="UT"><i>TO</i></NS> ME<NS type="RP"><i>,</i><c>.</c></NS> I JUST CAN'T BELIEVE <NS type="UA"><i>IT</i></NS> THAT I WON THE FIRST PRIZE. HERE IS THE INFORMATION YOU ASKED FOR:</p>
+          <p>. I'M AFRAID I CAN ONLY GO <NS type="RT"><i>ON</i><c>IN</c></NS> JULY BECAUSE DURING THAT <NS type="RN"><i>TIME</i><c>MONTH</c></NS> I WILL HAVE <NS type="MD"><c>MY</c></NS> <NS type="W"><i>HOLIDAYS FROM SCHOOL</i><c>SCHOOL HOLIDAYS</c></NS>, SO THAT WILL <NS type="MV"><c>BE</c></NS> FOR ME THE ONLY <NS type="RN"><i>POSSIBILITY</i><c>CHANCE</c></NS> <NS type="MT"><c>OF</c></NS> <NS type="FV"><i>TO TAKE</i><c>TAKING</c></NS> 2 WEEKS OFF.</p>
+          <p>. THE KIND OF <NS type="S"><i>ACCOMODATION</i><c>ACCOMMODATION</c></NS> I PREFER IS <NS type="UT"><i>IN</i></NS> A TENT BECAUSE <NS type="RT"><i>IN</i><c>AT</c></NS> <NS type="UD"><i>A</i></NS> <NS type="S"><i>SOMMER</i><c>SUMMER</c></NS> CAMP I FIND IT MORE INTERESTING SLEEPING <NS type="UP"><i>'OUTSIDE'</i><c>OUTSIDE</c></NS> UNDER THE SKY WHEN THE WEATHER IS NICE AND WARM.</p>
+          <p>. THERE ARE TWO ACTIVITIES I WOULD LIKE TO <NS type="RV"><i><NS type="DV"><i>PRACTICE</i><c>PRACTISE</c></NS></i><c>DO</c></NS>: BASKETBALL AND PAINTING. <NS type="MP"><i>IM</i><c>I'M</c></NS> QUITE GOOD <NS type="MT"><c>AT</c></NS> PLAYING BASKETBALL BECAUSE I USED TO PLAY FOR ABOUT FIVE YEARS AT SCHOOL<NS type="RP"><i>,</i><c>.</c></NS> WE USED TO HAVE <NS type="CN"><i>TRAININGS</i><c>TRAINING</c></NS> <NS type="MN"><c>SESSIONS</c></NS> TWICE A WEEK AND AT LEAST TWO GAMES <NS type="R"><i>AT</i><c>A</c></NS> MONTH AGAINST ANOTHER <NS type="AGN"><i>SCHOOLS</i><c>SCHOOL</c></NS>, WHICH WAS GREAT. PAINTING ALWAYS DID <NS type="FV"><i>FASCINATED</i><c>FASCINATE</c></NS> ME, EVEN <NS type="MC"><c>THOUGH</c></NS> I'M NOT SO GOOD <NS type="RT"><i>ON</i><c>AT</c></NS> IT, BUT MY FRIENDS <NS type="UA"><i>THEY</i></NS> SAY I CAN REALLY PAINT AND THEY LOVE THE THINGS I DO<NS type="RP"><i>,</i><c>.</c></NS> THE <NS type="S"><i>TECHNIK</i><c>TECHNIQUE</c></NS> I LIKE THE MOST IS <NS type="SA"><i>WATERCOLORS</i><c>WATERCOLOURS</c></NS>.</p>
+          <p>I STILL HAVE SOME QUESTIONS:</p>
+          <p>- CAN YOU PLEASE TELL ME HOW <NS type="W"><i>IS THE WEATHER</i><c>THE WEATHER IS</c></NS> THEN, SO I CAN TAKE THE PROPER CLOTHES?</p>
+          <p>- MY PARENTS AND <NS type="RA"><i>ME</i><c>I</c></NS><NS type="MP"><c>,</c></NS> WE ARE NOT SURE HOW MUCH MONEY <NS type="UV"><i>DO</i></NS> I NEED FOR THE TWO WEEKS, CAN YOU GIVE ME A LITTLE HELP? THANK YOU VERY MUCH AND I HOPE <NS type="FV"><i>HEARING</i><c>TO HEAR</c></NS> FROM YOU SOON.</p>
+          <p>YOURS SINCERELY</p>
+          <p>H. PENA.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>DEAR KIM</p>
+          <p>HELLO MY GOOD FRIEND!<NS type="UP"><i>,</i></NS> I'M SO GLAD TO HEAR FROM YOU AND TO KNOW THAT YOU ARE WEALTHY AND HAPPY. DO YOU REALLY WANT TO KNOW ABOUT MY <NS type="S"><i>EXPIERENCE</i><c>EXPERIENCE</c></NS> HELPING AT THE POP CONCERT IN OUR TOWN?<NS type="UP"><i>,</i></NS> WELL THAT'S GREAT, BECAUSE IT WAS A TERRIFIC DAY. FIRST WE STARTED VERY EARLY IN THE MORNING<NS type="MP"><c>,</c></NS> BUILDING <NS type="UY"><i>UP</i></NS> THE STAGE AND THE TENT WHERE THE GROUP WAS GOING TO PLAY, YOU KNOW<NS type="MP"><c>,</c></NS> JUST IN CASE <NS type="R"><i>THE RAIN WOULD HAVE COME</i><c>IT RAINED</c></NS><NS type="RP"><i>,</i><c>.</c></NS> BUT WE WERE VERY LUCKY AND THE WEATHER WAS SUNNY AND WARM.</p>
+          <p>THEN CAME THE GUY WHO INSTALLED THE SOUND <NS type="MN"><c>EQUIPMENT</c></NS> (CABLES, BOXES, WIRES, ETC) AND IT WAS VERY INTERESTING SEEING HIM AT WORK<NS type="RP"><i>,</i><c>.</c></NS> EVERYTHING HAD TO BE <NS type="RT"><i>ON</i><c>IN</c></NS> THE RIGHT PLACE, PERFECTLY INSTALLED AND PROTECTED<NS type="MP"><c>,</c></NS> TO AVOID ACCIDENTS.</p>
+          <p>AT ABOUT FIVE O'CLOCK EVERYTHING WAS READY AND THE BAND CAME <NS type="RT"><i>IN</i><c>ON</c></NS><NS type="RP"><i>,</i><c>.</c></NS> THERE WERE ALREADY PLENTY OF <NS type="UP"><i>'FANS'</i><c>FANS</c></NS> WAITING FOR THE CONCERT TO BEGIN, WHICH STARTED AT 7 O'CLOCK. I KNOW THE MUSICIANS FROM <NS type="UD"><i>THE</i></NS> SCHOOL <NS type="UN"><i>TIME</i></NS>, <NS type="RA"><i>THAT'S</i><c>WHICH IS</c></NS> WHY IT WAS EVEN MORE FUN TO HELP AND TO TAKE PART <NS type="RT"><i>ON</i><c>IN</c></NS> THIS EVENT, SPECIALLY BECAUSE I REALLY LIKE THE MUSIC THEY PLAY.</p>
+          <p>THE <NS type="RN"><i>PEOPLE</i><c>CROWD</c></NS> WENT CRAZY DURING THE <NS type="MP"><i><NS type="FJ"><i>2 HOURS</i><c>2 HOUR</c></NS></i><c>2-HOUR</c></NS> CONCERT AND <NS type="U"><i>AT LEAST</i></NS> I HELPED AS WELL<NS type="MP"><c>,</c></NS> SELLING <NS type="UP"><i>CD'S</i><c>CDS</c></NS><NS type="RP"><i>,</i><c> - </c></NS> IF THEY <NS type="RV"><i>WERE</i><c>GO</c></NS> ON SELLING THAT <NS type="AGQ"><i>MUCH</i><c>MANY</c></NS>, THEY ARE GOING TO BE <NS type="W"><i>FOR SURE VERY FAMOUS</i><c>VERY FAMOUS FOR SURE</c></NS> .....</p>
+          <p>DO YOU WANT TO KNOW SOMETHING ELSE ABOUT IT?</p>
+          <p>JUST LET ME KNOW</p>
+          <p>BEST WISHES</p>
+          <p>HERBERTO</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

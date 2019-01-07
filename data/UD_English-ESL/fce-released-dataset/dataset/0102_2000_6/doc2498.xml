@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1011*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I'm writing this letter to complain about a musical show which <NS type="TV"><i>I've seen</i><c>I saw</c></NS> <NS type="UT"><i>on</i></NS> last Saturday.</p>
+          <p>I went to London to see this musical but I was absolutely <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> <NS type="RT"><i>about</i><c>by</c></NS> the show. I got to the theatre at 18:30 because I wanted to <NS type="M"><c>have a</c></NS> drink before I <NS type="RV"><i>get</i><c>went</c></NS> to the hall so I got there earlier. The show was supposed to start at 19:30 but it started at 20:15. It was about fourty five minutes later than <NS type="MD"><c>the</c></NS> original starting time. I was just a bit upset but I wasn't that upset <NS type="UY"><i>much</i></NS> at that time. The thing which made me really upset was the actor. The actor should <NS type="TV"><i>be</i><c>have been</c></NS> Danny Brook but it was another man who I haven't seen before. I liked Danny Brook so much and I was expecting to see him but you didn't even mention <NS type="UT"><i>about</i></NS> <NS type="MC"><c>that</c></NS> that actor was going to <NS type="TV"><i>change</i><c>be changed</c></NS> to another <NS type="L"><i>guy</i><c>man</c></NS>. This thing shouldn't <NS type="RV"><i>be</i><c>have</c></NS> happened.</p>
+          <p>After <NS type="MA"><c>I</c></NS> finished watching the show I went to the restaurant which you advertised. It was about 21:00, I thought it was <NS type="MD"><c>a</c></NS> bit later but it wasn't my <NS type="S"><i>falt</i><c>fault</c></NS> anyway. The show was finished at 21:00. When I went there the restaurant was closed. We couldn't even get any sandwiches.</p>
+          <p>I'm <NS type="RY"><i>so</i><c>too</c></NS> upset to say anything anymore and I want to get my money back which I paid for the show.</p>
+          <p>I look forward to hearing from you before I <NS type="R">do my futher reaction</NS>.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+          <p>Ann Kim.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Fashion of the future.</p>
+          <p>Nowadays, we have millions <NS type="MT"><c>of</c></NS> styles of fashion and every single person has their own fashion. Fashion <NS type="TV"><i>became</i><c>has become</c></NS> a part of our life and some people think that what clothes you wear is <NS type="MD"><c>the</c></NS> most important thing. We spend lots of time <NS type="FV"><i>to choose</i><c>choosing</c></NS> clothes or shoes.</p>
+          <p><NS type="UD"><i>A</i></NS> 100 years ago, people <NS type="RV"><i>wear</i><c>dressed</c></NS> <NS type="UY"><i>much</i></NS> <NS type="UY"><i>more</i></NS> <NS type="S"><i>diffrently</i><c>differently</c></NS>. Women <NS type="TV"><i>worn</i><c>wore</c></NS> dresses and men <NS type="TV"><i>worn</i><c>wore</c></NS> suits in England. It was very formal fashion, but now people wear more sexy clothes than 100 years ago. Fashion keeps changing.</p>
+          <p>Therefore, in the future fashion might be changed a lot. I think people will wear metal clothes like <NS type="MT"><c>in</c></NS> Robotcap. The <NS type="S"><i>enviroment</i><c>environment</c></NS> will be very polluted and finally we'll get <NS type="FN"><i><NS type="S"><i>desease</i><c>disease</c></NS></i><c>diseases</c></NS>. We will need helmets to cover our <NS type="AGN"><i>head</i><c>heads</c></NS> and we will also need <NS type="DN">air-supplyer</NS>.</p>
+          <p><NS type="RP"><i>May be</i><c>Maybe</c></NS>, science will be developed and make our <NS type="S"><i>enviroment</i><c>environment</c></NS> clean, <NS type="MC"><c>and</c></NS> we will not wear anything at all!!! (except <NS type="RP"><i>under wear</i><c>underwear</c></NS>).</p>
+          <p>I hope that the <NS type="S"><i>enviroment</i><c>environment</c></NS> will be better than now in the future and our fashion will be changed but nobody knows how it will be. We should try hard to create new fashion and suitable fashion in <NS type="RJ"><i>further</i><c>future</c></NS> <NS type="RN"><i>days</i><c>times</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

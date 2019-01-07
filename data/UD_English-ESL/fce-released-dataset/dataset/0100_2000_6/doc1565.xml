@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR609*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13 June 2000</p>
+          <p>Dear Mrs Ryan:</p>
+          <p>I am very glad I won the Competition to go to Camp California.</p>
+          <p>I must say though, I would have to travel <NS type="RT"><i>on</i><c>in</c></NS> July because it's the summer <NS type="S"><i>holydays</i><c>holidays</c></NS> for schools and I would like to spend some of them in California and visit a few <NS type="AGN"><i>friend</i><c>friends</c></NS> if <NS type="RA"><i>it</i><c>that</c></NS> is possible.</p>
+          <p><NS type="AGN"><i><NS type="MD"><i><NS type="S"><i>Log cabines</i><c>Log cabins</c></NS></i><c>A log cabins</c></NS></i><c>A log cabin</c></NS> <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="MD"><c>the</c></NS> ideal <NS type="S"><i>accomodation</i><c>accommodation</c></NS><NS type="RP"><i>, presumably</i><c>. Presumably</c></NS> they are more spacious than <NS type="FN"><i>tent</i><c>tents</c></NS> and it would be easier to keep tidy. It's always nice to have a warm, clean place to go to after sailing<NS type="MP"><c>,</c></NS> which is one of the activities I would like to do. And I'm quite good at <NS type="MA"><c>it</c></NS>. Climbing would be my second option, <NS type="MC"><c>but</c></NS> for this I'm afraid I would need some instruction <NS type="L"><i>for</i><c>because</c></NS> I've only done it a few times.</p>
+          <p>I would like to know how much money <NS type="UV"><i>do</i></NS> people <NS type="S"><i>ussually</i><c>usually</c></NS> take and how <NS type="CQ"><i>many</i><c>much</c></NS> <NS type="RN"><i>clothes</i><c>clothing</c></NS>.</p>
+          <p>Sincerely Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>13 July</p>
+          <p>Dear Kim:</p>
+          <p>Well, you want to know what I did <NS type="RT"><i>in</i><c>at</c></NS> the concert? Help..</p>
+          <p>I know it <NS type="AGV"><i>sound</i><c>sounds</c></NS> extremely boring and that is exactly what I thought when I was asked to help, but to my <NS type="S"><i>suprise</i><c>surprise</c></NS> it turned out to be much more fun <NS type="SX"><i>that</i><c>than</c></NS> expected.</p>
+          <p>About 20 people were helping apart from me<NS type="RP"><i>, we</i><c>. We</c></NS> had <NS type="R"><i>some</i><c>a</c></NS> kind of rotation system so that all the volunteers could also enjoy some of the concert.</p>
+          <p>Of course there was the cooking and bar-tending for anyone who was hungry during the <NS type="RN"><i>brakes</i><c>breaks</c></NS>. The hard work, though, started when everyone left at the end of the concert. It was in fact more fun than the concert itself; believe it or not, all the <NS type="RP"><i>popstars</i><c>pop stars</c></NS> came to help us clean up and we all had a food fight with the <NS type="RP"><i>left-overs</i><c>leftovers</c></NS>!</p>
+          <p>It was so fun, <NS type="RC"><i>that</i><c>and</c></NS> I enjoyed it a lot. If you ever know of a concert that needs volunteers tell me, I'm in!!!</p>
+          <p>Write back soon</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

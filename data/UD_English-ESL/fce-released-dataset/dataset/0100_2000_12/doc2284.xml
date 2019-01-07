@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR914*0100*2000*02">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you to thank <NS type="MA"><c>you</c></NS> for your <NS type="SA"><i>program</i><c>programme</c></NS> which <NS type="R">will be for us in</NS> the next three days in London. <NS type="RY"><i>Especially</i><c>In particular</c></NS>, sightseeing by bus in the morning and <NS type="MD"><c>the</c></NS> river trip to Greenwich in the afternoon are exciting activities.</p>
+          <p><NS type="UT"><i>On your</i><c>Your</c></NS> <NS type="SA"><i>program</i><c>programme</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> Tuesday is very interesting. Fortunately, there is the London fashion and leisure show<NS type="MP"><c>,</c></NS> which is held once a year. This show <NS type="MV"><c>would</c></NS> give us a lot of <NS type="CN"><i>informations</i><c>information</c></NS> about current activities, fashion and what is <NS type="FV"><i>happened</i><c>happening</c></NS> here in London <NS type="MT"><c>with</c></NS><NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> <NS type="MD"><c>the</c></NS> <NS type="DJ"><i>lastest</i><c>latest</c></NS> fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS>, <NS type="MC"><c>and</c></NS> hairstyles.</p>
+          <p>It is a great opportunity because we will be able to learn <NS type="MT"><c>about</c></NS> <NS type="RP"><i>london</i><c>London</c></NS> culture. We can be part of this show and be up to date with style and fashion.</p>
+          <p>The admission is free for students. The show starts at 10.00 and finishes at 19.00 so we can change our afternoon <NS type="SA"><i>program</i><c>programme</c></NS> <NS type="M"><c>to allow us</c></NS> to go to the show at <NS type="MD"><c>the</c></NS> Central Exhibition Hall instead.</p>
+          <p>If you agree, after <NS type="MD"><c>the</c></NS> Science Museum, we can have lunch at <NS type="MD"><c>a</c></NS> restaurant near the <NS type="S"><i>musuem</i><c>museum</c></NS>, then we <NS type="MV"><c>can</c></NS> go directly from the restaurant to <NS type="MD"><c>the</c></NS> Central Exhibition Hall. We will be on time for the second show at 13.30 P.M and we can enjoy the show until 19.00 P.M.</p>
+          <p><NS type="UP"><i>I'am</i><c>I am</c></NS> looking forward to hearing your opinion <NS type="RT"><i>on</i><c>about</c></NS> my suggestion.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>The Home of the Future</p>
+          <p>"Home" has so much meaning <NS type="RT"><i>to</i><c>for</c></NS> <NS type="UD"><i>the</i></NS> people. It doesn't <NS type="SX"><i>mater</i><c>matter</c></NS> who they are, where they <NS type="TV"><i>are coming</i><c>come</c></NS> from, <NS type="RA"><i>which</i><c>what</c></NS> <NS type="SA"><i>color</i><c>colour</c></NS> <NS type="U"><i>of their</i></NS> skin they have.</p>
+          <p>Home is <NS type="MD"><c>an</c></NS> institution that <NS type="AGV"><i>create</i><c>creates</c></NS> <NS type="FN"><i>human</i><c>humans</c></NS> and <NS type="AGV"><i>make</i><c>makes</c></NS> them <NS type="UT"><i>as</i></NS> <NS type="UD"><i>a</i></NS> <NS type="FN"><i>person</i><c>people</c></NS> and <NS type="UD"><i>a</i></NS> good <NS type="FN"><i>member</i><c>members</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> their communities.</p>
+          <p>When I think of "the Home of the Future"<NS type="RP"><i>.</i><c>,</c></NS> I want to have a home which is built with a new material. <NS type="M"><i>Home</i><c>If we had a home</c></NS> made out of plastic <NS type="MC"><c>and</c></NS> also windows made out of plastic <NS type="UY"><i>therefore</i></NS> we <NS type="TV"><i>can</i><c>could</c></NS> have our home for a long time. <NS type="MC"><i>The</i><c>If the</c></NS> door <NS type="UA"><i>it</i></NS> is broken, we can replace it <NS type="RY"><i>rapidly</i><c>quickly</c></NS> and it is not expensive when it is plastic.</p>
+          <p>We have more time to stay together at home, watching TV, playing games, etc.... because we can access <NS type="UT"><i>to</i></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> at home<NS type="MP"><i> we</i><c>. We</c></NS> can have all <NS type="MD"><c>the</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> from <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. I think it is the best <NS type="RN"><i>way</i><c>means</c></NS> of education and working when we can stay and learn or work from home. We have more time for the family<NS type="MP"><c>,</c></NS> who <NS type="W"><i>need mostly</i><c>mostly need</c></NS> care and love.</p>
+          <p><NS type="RA"><i>It</i><c>There</c></NS> will be a <NS type="S"><i>numer</i><c>number</c></NS> of Developments in Technology in the future, which <NS type="TV"><i>can</i><c>could</c></NS> make our life easier to live but what should remain the same is <NS type="MD"><c>the</c></NS> feeling of being together and love.</p>
+          <p><NS type="AGD"><i>This</i><c>These</c></NS> 2 feelings <NS type="RP"><i>can not</i><c>cannot</c></NS> be replaced by any Technology but we can use them to make a better home <NS type="RT"><i>of</i><c>in</c></NS> the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

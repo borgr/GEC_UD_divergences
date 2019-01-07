@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR351*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam:</p>
+          <p>I am writing to you to complain about the musical show Over the rainbow. My wife and <NS type="RA"><i>me</i><c>I</c></NS> went to The Circle Theatre last Saturday evening because we love the main actor, Danny Brook. We felt very disappointed when we discovered that Danny had been replaced by an unknown and really bad actor.</p>
+          <p>The show should have started at half past seven but we had to wait for forty-five minutes without any kind of explanation.</p>
+          <p>Not only was the show late and awful but it was expensive too. The advertisement said there were discounts available but when we arrived there the woman who sells the tickets told us the discounts were only available on Monday evenings.</p>
+          <p>Despite the terrible evening we decided to go to the theatre restaurant to relax and have dinner, but we found it was closed because its floor was being repaired.</p>
+          <p>As you can see it wasn't a perfect evening at all!</p>
+          <p>That is why I am writing to you. I want you to give <NS type="MA"><c>us</c></NS> our money back because the things published in your advertisement aren't true. There should be no problem as I still have the tickets.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Best Detective Stories of Agatha Christie</p>
+          <p>Dear Matt:</p>
+          <p>It's been a long time since I last wrote <NS type="MT"><c>to</c></NS> you!</p>
+          <p>I'm always very busy <NS type="IV"><i>traveling</i><c>travelling</c></NS> from one country to another, you know.</p>
+          <p>I'm writing to you now because I've been told that <NS type="W"><i>is going to be read on the radio a short story by Agatha Christie</i><c>a short story by Agatha Christie is going to be read on the radio</c></NS>. It will be <NS type="R"><i>the following</i><c>next</c></NS> Sunday on the local station at five o'clock in the evening.</p>
+          <p>It's a story <NS type="RJ"><i>titled</i><c>entitled</c></NS> Accident, and I think you'll enjoy it.</p>
+          <p>The story is about <NS type="UD"><i>the</i></NS> life in a small village. The main character is a retired police inspector who recognises a woman.</p>
+          <p>That woman is supposed to have killed her husbands (at least two), because she wanted their money.</p>
+          <p>The policeman lets her know he has discovered her and he won't allow another crime. He threatens to tell her husband what she had done. However, she's a very clever woman and she doesn't look worried.</p>
+          <p>In the end, the three of them are having a cup of coffee and one of the cups contains a terrible poison. There will be a horrible accident in a few seconds.</p>
+          <p>Listen to the radio if you want to know how it ends.</p>
+          <p>Drop me a line and let me know what <NS type="UV"><i>do</i></NS> you make of the story.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

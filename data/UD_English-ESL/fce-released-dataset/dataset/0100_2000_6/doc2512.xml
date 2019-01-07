@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1020*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear<NS type="UP"><i>,</i></NS> Helen</p>
+          <p>Thank you for the letter. I was very <NS type="DJ"><i>please</i><c>pleased</c></NS> when I knew that I had won the first prize. I would like to go there only in July, please<NS type="RP"><i>. Because</i><c>, because</c></NS> I have a holiday in July. For accommodation I would <NS type="UV"><i>rather</i></NS> prefer log cabins because <NS type="AGV"><i><NS type="AGA"><i>it's</i><c>they is</c></NS></i><c>they are</c></NS> more comfortable than tents. And I don't have to worry about the weather. For two activities, <NS type="MT"><c>regarding</c></NS> the first one<NS type="MP"><c>,</c></NS> can I <NS type="RV"><i>have</i><c>do</c></NS> Tennis, please<NS type="RP"><i>. Because</i><c>, because</c></NS> I'm very good <NS type="RT"><i>with</i><c>at</c></NS> tennis. I used to play a lot when I was a student. <NS type="MT"><i>The</i><c>Regarding the</c></NS> second one<NS type="MP"><c>,</c></NS> can I <NS type="RV"><i>have</i><c>do</c></NS> Photography, please<NS type="RP"><i>. Because</i><c>, because</c></NS> <NS type="UP"><i>this's</i><c>this is</c></NS> my hobby. And my dad just bought me a new camera. So <NS type="UV"><i><NS type="UP"><i>this's</i><c>this is</c></NS></i><c>this</c></NS> will be my first chance <NS type="U"><i>that I can</i></NS> <NS type="FV"><i>use</i><c>to use</c></NS> it.</p>
+          <p>Can you tell me what sort of clothes <NS type="UV"><i>do</i></NS> I need to bring, please. I'm not sure about the weather in California in the daytime and in the <NS type="S"><i>nightime</i><c>nighttime</c></NS>. And <NS type="M"><c>do you have</c></NS> any idea <NS type="UT"><i>of</i></NS> how much money <NS type="UV"><i>do</i></NS> I need to bring<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Thank you very much for your <NS type="RN"><i><NS type="DN"><i>offerring</i><c>offering</c></NS></i><c>offer</c></NS>. I hope to hear <NS type="UY"><i>back</i></NS> from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Hi, Kim</p>
+          <p>Thanks for the letter asking about <NS type="RD"><i>a</i><c>the</c></NS> pop concert. It was really good. I'm glad I went. My responsibilities <NS type="TV"><i>are</i><c>were</c></NS> selling the tickets and making sure that everything <NS type="TV"><i>is</i><c>was</c></NS> <NS type="RJ"><i>right</i><c>alright</c></NS>. It was good to work with a lot of people and <NS type="FV"><i>shared</i><c>to share</c></NS> experiences. I met a lot of famous pop bands for the first time. I would feel sad if I <NS type="TV"><i>didn't go</i><c>hadn't gone</c></NS> there. They gave me a concert <NS type="UJ"><i>printed</i></NS> T-shirt. I'll show you <NS type="R"><i>by</i><c>my</c></NS> photographs.</p>
+          <p><NS type="R">From that time I had a lot of friends</NS> also some of them <NS type="TV"><i>are</i><c>were</c></NS> old friends from college. So we <NS type="UV"><i>are</i></NS> still keep in touch. And <NS type="MD"><c>the</c></NS> next concert we were promised we'll be there again. I wish you <NS type="TV"><i>were</i><c>had been</c></NS> there with us. Because sometimes you <NS type="R">wouldn't have known the experience until you had <NS type="RV"><i>done</i><c>had</c></NS> it</NS>.</p>
+          <p><NS type="RP"><i>Any way</i><c>Anyway</c></NS><NS type="MP"><c>,</c></NS> I will <NS type="FV"><i>sent</i><c>send</c></NS> you some photographs. I hope to hear back from you. Take care and don't work too hard. Please <NS type="RV"><i>send</i><c>give</c></NS> my love to your family.</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

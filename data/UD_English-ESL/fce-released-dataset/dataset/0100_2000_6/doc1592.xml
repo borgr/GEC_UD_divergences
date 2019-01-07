@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR622*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>31-40</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>13.Jun. 2000 Dear Sir or Madam, I am very pleased to hear that I won the first prize in the competition. It would be great for me to go to the U.S.A as the prize and to stay for two weeks. Below is the information you requested <NS type="MT"><c>from</c></NS> me. Firstly, I would like to travel in July because I have got a prior plan to teach <NS type="UD"><i>the</i></NS> Korean children in Brighton about <NS type="RN"><i>Korean</i><c>Korea</c></NS> and Korean history in <NS type="UD"><i>the</i></NS> early August. Secondly, I would like to stay <NS type="RT"><i>at</i><c>in</c></NS> log cabins which would have a good smell of nature in them. Also if I have to choose two of the activities, I would like to play tennis and to go surfing because playing tennis is my first choice and I am very good at it. And also the reason why I would like to go surfing is that I am always dreaming of surfing on the coast of California like on TV, but I have never tried to surf yet, which <NS type="S"><i>doen't</i><c>doesn't</c></NS> mean I am bad at swimming. Finally, I would like you to let me know which clothes would be suitable for the weather at that time and how much money I should take. I look forward to hearing from you soon. Yours faithfully, Haneul Gay Kay.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>When you spend money on goods and services, it gives you satisfaction and happiness but going shopping is not always enjoyable. There are a few reasons.</p>
+          <p>Firstly, you cannot always get the right <NS type="R"><i>one</i><c>thing</c></NS> although you scour <NS type="UT"><i>about</i></NS> all the shops to find something you want. You may only get tired <NS type="UT"><i>on</i></NS> <NS type="UD"><i>your</i></NS> feet. And also you would have to thread your way between the shoppers because there are too many shoppers, especially<NS type="UP"><i>,</i></NS> on <NS type="UD"><i>the</i></NS> special <NS type="FN"><i>occasion</i><c>occasions</c></NS> like <NS type="RT"><i>on</i><c>during</c></NS> <NS type="MD"><c>a</c></NS> sale. Secondly, you cannot <NS type="RV">exclude</NS> that you might get <NS type="M"><c>robbed by</c></NS> a pick-pocket which would make you upset and irritated when you think of <NS type="R"><i>that</i><c>how</c></NS> you could avoid it and that you could take less money in your wallet <NS type="U"><i>from home</i></NS>.</p>
+          <p>In addition to this, even if you buy something you <NS type="UV"><i>would</i></NS> like, you can change your mind at home. Sometimes, a moment comes <NS type="UY"><i>up</i></NS> that you would like to buy something you have not wanted because while you are shopping, you might get something beautiful or good to you. So you <NS type="UV"><i>would</i></NS> spend more money <NS type="MC"><c>than</c></NS> you <NS type="TV"><i>have</i><c>had</c></NS> expected.</p>
+          <p>To sum up, you should spend money <NS type="RT"><i>as</i><c>according to</c></NS> your plan and you should be cautious and sensible to make it enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

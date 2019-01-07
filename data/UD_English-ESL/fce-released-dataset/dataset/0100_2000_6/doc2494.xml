@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1009*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>31-40</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan,</p>
+          <p>Thank you very much for <NS type="RV"><i>granting</i><c>awarding</c></NS> me the first prize - Camping in California. I really look forward to it because I have never been to the U.S.A. before.</p>
+          <p>I would like to have my two weeks with you in July, as it will be during my summer holiday<NS type="MP"><i> in</i><c>. In</c></NS> addition <NS type="MT"><c>to</c></NS> that<NS type="MP"><c>,</c></NS> it is said to be the best season there. I will join in <NS type="MT"><c>with</c></NS> the swimming group and the photography group. Both of them are my hobbies<NS type="RP"><i>,</i><c>.</c></NS> I have won some prizes in my school <NS type="FN"><i>competition</i><c>competitions</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> them. Therefore, I am quite confident about them.</p>
+          <p>I would be grateful if you could put me into the <NS type="R">tent side of <NS type="S"><i>accomodation</i><c>accommodation</c></NS></NS> because I have had all <NS type="MD"><c>my</c></NS> holidays with my parents in luxury hotels <NS type="UY"><i>before</i></NS>. I would like to try it this time. As all the travel expenses are paid already, I would appreciate it if you could tell <NS type="MA"><c>me</c></NS> what kind of clothing <NS type="MC"><c>and</c></NS> also how much pocket money I need.</p>
+          <p>I look forward to hearing from you in due course.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>The concert I helped <NS type="MT"><c>at</c></NS> last week was the greatest experience I've ever had.</p>
+          <p>I mainly gave them a hand in setting up the stage. You know, although I'm a pop music fan, I'd never had any idea how <NS type="R">it was prepared for opening</NS>. First, they asked me to put those instruments on the stage. I left the <NS type="RN">hi-fi system</NS> on the left side (it should <NS type="TV"><i>be</i><c>have been</c></NS> on the other side). Before <NS type="MD"><c>his</c></NS> opening, the pop star <NS type="RV"><i>found</i><c>noticed</c></NS> the mistake<NS type="RP"><i>, otherwise</i><c>. Otherwise</c></NS> it would <NS type="TV"><i>be</i><c>have been</c></NS> a disaster.</p>
+          <p>The performer, Paul, is a big <NS type="UN"><i>music</i></NS> name at the present. But I'd never <NS type="RV"><i>met</i><c>seen</c></NS> him before. This time, I saw him in person. I told him I loved his songs<NS type="RP"><i>, he</i><c>. He</c></NS> was very happy. Then, we <NS type="TV"><i><NS type="RV"><i>stroke</i><c>have</c></NS></i><c>had</c></NS> a lovely conversation. Afterwards, he gave <NS type="MA"><c>me</c></NS> his pen for my enthusiasm.</p>
+          <p>Anyway, how are you? Write soon<NS type="RP"><i>, tell</i><c>. Tell</c></NS> me how you're getting on in your new job.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

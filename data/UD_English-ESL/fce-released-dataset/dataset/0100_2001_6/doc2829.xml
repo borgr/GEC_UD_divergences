@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE4*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> I am in charge <NS type="RT"><i>for</i><c>of</c></NS> <NS type="FV"><i>organise</i><c>organising</c></NS> the conference in my college. Do not worry if Richard did not <NS type="FV"><i>left</i><c>leave</c></NS> you all the information. I am pleased to help you.</p>
+          <p>We looked <NS type="RT"><i>in</i><c>at</c></NS> every hotel in <NS type="RP"><i>Town</i><c>town</c></NS><NS type="MP"><c>,</c></NS> trying to give you the best <NS type="S"><i>offerd</i><c>offer</c></NS>. We found two good hotels <NS type="RC"><i>but</i><c>and</c></NS> we decided <NS type="RT"><i>for</i><c>on</c></NS> the Palace Hotel. This has the best price that we could find. <NS type="MT"><i>The</i><c>On the</c></NS> conference day our school driver is going to pick you up <NS type="RT"><i>in</i><c>at</c></NS> the hotel and take you to the conference.</p>
+          <p>The party is going to be in a local discotheque near the college so the best way to get there is <NS type="FV"><i>walking</i><c>to walk</c></NS>. You do not have to wear any special kind of clothes but in my opinion you can wear very <NS type="S"><i>cassual</i><c>casual</c></NS> <NS type="MN"><c>clothes</c></NS>.</p>
+          <p>Finally, <NS type="MT"><c>on</c></NS> the last day I <NS type="S"><i>sugget</i><c>suggest</c></NS> you <NS type="TV"><i>to go</i><c>go</c></NS> to the mall where you can enjoy shopping and looking around.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Introduction</p>
+          <p>The aim of this report is to <NS type="S"><i>recomend</i><c>recommend</c></NS> you to visit the Fuerte de San Diego <NS type="S"><i>Musseum</i><c>Museum</c></NS>. This is <NS type="FD"><i>an</i><c>a</c></NS> historical building. I asked <NS type="UT"><i>to</i></NS> some <NS type="S"><i>pleople</i><c>people</c></NS> in town and this was the best place to choose.</p>
+          <p>History</p>
+          <p>The Fuerte de Sandiego <NS type="S"><i>Musseum</i><c>Museum</c></NS> was <NS type="TV"><i>build</i><c>built</c></NS> at the time when the Spanish people <NS type="AGV"><i>was</i><c>were</c></NS> trying to take all the lands from Mexico, one of the most important people who was at front of the Fuerte was Hernon Cortez, <NS type="CE">the first Spanish in have more lands</NS> than anyone at that time.</p>
+          <p>Place</p>
+          <p>The <NS type="S"><i>Musseum</i><c>Museum</c></NS> is situated in front of the sea in the centre of Acapulco. <NS type="MA"><i>Is</i><c>It is</c></NS> situated <NS type="RT"><i>in</i><c>on</c></NS> the top of a little mountain in the "old" part <NS type="RT"><i>on</i><c>of</c></NS> the city. You are able to get there by car or <NS type="R"><i>walking</i><c>on foot</c></NS> and see everything which was made at that time.</p>
+          <p>Conclusion</p>
+          <p>On the whole<NS type="MP"><c>,</c></NS> this is the best building in Acapulco for <NS type="AGD"><i>his</i><c>its</c></NS> history and reputation. <NS type="MA"><i>Is</i><c>It is</c></NS> the best place to go and <NS type="MA"><c>it</c></NS> <NS type="MV"><c>is</c></NS> easy to get there.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

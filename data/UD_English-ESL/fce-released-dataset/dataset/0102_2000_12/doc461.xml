@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR189*0102*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Clark,</p>
+          <p>I am writing to <NS type="RV"><i>express</i><c>describe</c></NS> <NS type="RD"><i>my</i><c>the</c></NS> <NS type="RN"><i>enjoyment</i><c>fun</c></NS> that I had at the International Arts Festival <NS type="UD"><i>the</i></NS> <NS type="RJ"><i>next</i><c>last</c></NS> week.</p>
+          <p>Firstly, I want to say that this festival is really good and I hope it will <NS type="RV"><i>have</i><c>happen</c></NS> every year. Furthermore, the <NS type="AS"><i><NS type="RN"><i>attractions</i><c>events</c></NS> were beautiful such as shows, exhibitions and concerts</i><c>events, such as the shows, exhibitions and concerts, were beautiful</c></NS>. I liked all the different <NS type="AGN"><i>kind</i><c>kinds</c></NS> of atmosphere.</p>
+          <p>Also, for all these attractions, the price was low and <NS type="RA"><i>it</i><c>that</c></NS> is important for <NS type="RD"><i>the</i><c>a</c></NS> big family.</p>
+          <p>Secondly, the plays and movies were marvellous. However, I was disappointed by the number of <NS type="AGA"><i>that</i><c>them</c></NS>. It <NS type="TV"><i>will</i><c>would</c></NS> be great if there were <NS type="UV"><i>would have</i></NS> more choice <NS type="UD"><i>the</i></NS> next year. I would like to give you a suggestion about the <NS type="RN"><i>space</i><c>size</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> the concert rooms. Considering the <NS type="DN"><i>crowded</i><c>crowd</c></NS>, <NS type="RA"><i>it</i><c>there</c></NS> should <NS type="RV"><i>have</i><c>be</c></NS> more rooms. Finally, I <NS type="TV"><i>will</i><c>would</c></NS> be interested in <NS type="FV"><i>meet</i><c>meeting</c></NS> artists from everywhere in the world not only <NS type="S"><i>Europeen</i><c>European</c></NS> artists.</p>
+          <p>In conclusion, I had an <NS type="DJ"><i>unforgetable</i><c>unforgettable</c></NS> time. I would like to eat some different kind of <NS type="FN"><i>foods</i><c>food</c></NS>, if <NS type="RA"><i>it</i><c>that</c></NS> is possible.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Monique,</p>
+          <p>Thank you very much for your letter<NS type="RP"><i>,</i><c>.</c></NS> I'm very happy to receive some news <NS type="RT"><i>about</i><c>from</c></NS> you. I'm going to reply <NS type="RT"><i>at</i><c>to</c></NS> your question.</p>
+          <p><NS type="RY">In fact</NS>, at school we haven't so many rules. <NS type="RY">So</NS>, we aren't allowed to smoke inside - <NS type="RC"><i>and</i><c>or</c></NS> eat in the classroom. We have to wash the board when it's our turn. Of course, we must respect the teacher and do what he says.</p>
+          <p>What about the rules at home? I can't remember, because now I'm 19, <NS type="RY"><i>then</i><c>so</c></NS> I can do what I want. I know that I had to ask <NS type="UT"><i>at</i></NS> my Mum or Dad <NS type="RT"><i>for</i><c>about</c></NS> going <NS type="MY"><c>out</c></NS> <NS type="RT"><i>by</i><c>with</c></NS> my friend after <NS type="UD"><i>the</i></NS> <NS type="RN"><i>lessons</i><c>school</c></NS>. They wanted <NS type="R"><i>that I</i><c>me</c></NS> <NS type="FV"><i>did</i><c>to do</c></NS> my homework before <NS type="M"><c>going out</c></NS> to play. Also, I had to come back <NS type="UT"><i>at</i></NS> home on time<NS type="RP"><i>, it</i><c>. It</c></NS> was very important for my parents. I <NS type="X"><i>want to change nothing</i><c>didn't want to change anything</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I was happy.</p>
+          <p>Anyway, it was a great time when I was a child. <NS type="RA"><i>It's</i><c>That's</c></NS> all for now.</p>
+          <p>See you soon, bye</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

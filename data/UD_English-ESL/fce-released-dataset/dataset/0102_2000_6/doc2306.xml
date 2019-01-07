@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR926*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>41-50</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>17th JUNE 2000.</p>
+          <p>DEAR SIR,</p>
+          <p>I AM WRITING TO COMPLAIN ABOUT THE PROBLEMS WHICH OCCURRED <NS type="RT"><i>IN</i><c>WITH</c></NS> THE LAST MUSICAL SHOW <NS type="RT"><i>OF</i><c>AT</c></NS> THIS THEATRE.</p>
+          <p>FIRST OF ALL, <NS type="R"><i>DIFFERENTLY OF</i><c>CONTRARY TO WHAT WAS</c></NS> ADVERTISED, THE MAIN ACTOR WAS NOT DANNY BROOK, BUT <NS type="AGQ"><i>OTHER</i><c>ANOTHER</c></NS><NS type="MP"><c>,</c></NS> UNKNOWN PERSON.</p>
+          <p><NS type="ID"><i>TO MAKE MATTER WORSE</i><c>TO MAKE MATTERS WORSE</c></NS>, THE SHOW <NS type="TV"><i>DELAYED</i><c>WAS DELAYED</c></NS><NS type="MP"><c>,</c></NS> STARTING AT 20:15.</p>
+          <p>AS IF THIS WERE NOT ENOUGH, I DID NOT OBTAIN A DISCOUNT <NS type="RT"><i>IN</i><c>ON</c></NS> THE PRICE OF THE TICKET, ALTHOUGH THIS WAS POSSIBLE ACCORDING TO YOUR LEAFLET.</p>
+          <p>ON TOP OF EVERYTHING, I COULD NOT VISIT THE RESTAURANT <NS type="RT"><i>OF</i><c>AT</c></NS> THIS PLACE, BECAUSE IT WAS CLOSED AFTER THE SHOW.</p>
+          <p>I AM VERY DISAPPOINTED, BECAUSE THAT EVENING OUT WAS NOT <NS type="MT"><c>AS</c></NS> PERFECT AS I HAD PLANNED.</p>
+          <p>SO, I WOULD BE GRATEFUL IF YOU COULD REFUND <NS type="UT"><i>OF</i></NS> ALL OR PART OF <NS type="R"><i>MY</i><c>THE</c></NS> MONEY WHICH I PAID FOR THE SHOW.</p>
+          <p>I LOOK FORWARD TO RECEIVING YOUR PROMPT REPLY.</p>
+          <p>YOURS FAITHFULLY,</p>
+          <p>MARCOS ALMO BRAS DE BARODO.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>IT'S <NS type="DJ"><i>UNDENYABLE</i><c>UNDENIABLE</c></NS> THAT DURING THIS CENTURY OUR WORLD HAS BEEN CHANGING. <NS type="IJ"><i>NEWS</i><c>NEW</c></NS> <NS type="DN"><i>INVENTS</i><c>INVENTIONS</c></NS> HAVE BEEN INVENTED AND <NS type="UD"><i>THE</i></NS> SCIENCE HAS <NS type="RV"><i>BEEN</i><c>MADE</c></NS> <NS type="UT"><i>IN</i></NS> QUICK PROGRESS. AS A RESULT OF THIS PEOPLE'S DAILY <NS type="AGN"><i>LIFE</i><c>LIVES</c></NS> <NS type="AGV"><i>HAS</i><c>HAVE</c></NS> BEEN CHANGING AS WELL.</p>
+          <p>AS FAR AS I'M CONCERNED, I FIRMLY BELIEVE THAT<NS type="UP"><i>,</i></NS> IT'S WORTH <NS type="FV"><i>TO POINTING</i><c>POINTING</c></NS> OUT THE FOLLOWING:</p>
+          <p>FIRST AND FOREMOST, IT'S IMPORTANT TO REMEMBER THAT TODAY IT IS EASIER TO TRAVEL AROUND THE WORLD BECAUSE NOWADAYS THERE ARE LOTS OF GOOD AND FAST <NS type="RN"><i>WAYS</i><c>MEANS</c></NS> OF TRANSPORT.</p>
+          <p>IN THE SAME WAY, WE CAN TRAVEL INSIDE OUR COUNTRY QUICKLY AND SAFELY. CONSEQUENTLY, WE'VE GOT <NS type="RN"><i>FACILITIES</i><c>OPPORTUNITIES</c></NS> TO KNOW MANY DIFFERENT PLACES AND TO CONTACT DIFFERENT PEOPLE, TOO.</p>
+          <p>SECONDLY, WE CAN'T FORGET EITHER THAT ALL OF US HAVE <NS type="MD"><c>THE</c></NS> <NS type="RN"><i>CONDITIONS</i><c>ABILITY</c></NS> TO COMMUNICATE WITH PEOPLE BY MOBILE <NS type="FN"><i>PHONES</i><c>PHONE</c></NS>, BY <NS type="MD"><c>THE</c></NS> INTERNET, WHO LIVE NOT ONLY IN THIS COUNTRY, BUT ALSO ABROAD.</p>
+          <p>FINALLY, WE <NS type="RV"><i>CAN</i><c>SHOULD</c></NS> CONSIDER, TOO, THAT <NS type="UD"><i>THE</i></NS> TECHNOLOGY HAS BEEN PROVIDING US WITH IMPORTANT DISCOVERIES, MAINLY IN MATTERS <NS type="RT"><i>ABOUT</i><c>OF</c></NS> HEALTH, <NS type="MD"><c>THE</c></NS> ENVIRONMENT AND SO ON.</p>
+          <p>IN CONCLUSION, I REALLY BELIEVE THAT OUR DAILY LIFE IS VERY DIFFERENT <NS type="R"><i>THAN</i><c>TO WHAT</c></NS> IT WAS IN THE LAST CENTURY AND EVEN IN THE <NS type="S"><i>BEGGINING</i><c>BEGINNING</c></NS> OF THIS CENTURY. <NS type="UD"><i>THE</i></NS> SCIENCE AND <NS type="UD"><i>THE</i></NS> TECHNOLOGY ARE <NS type="UD"><i>THE</i></NS> <NS type="DY"><i>MAIN</i><c>MAINLY</c></NS> RESPONSIBLE FOR THIS.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

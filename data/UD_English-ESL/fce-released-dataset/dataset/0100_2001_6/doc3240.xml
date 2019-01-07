@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE81*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>17.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>12th June 2001</p>
+          <p><NS type="S"><i>Dar</i><c>Dear</c></NS> Mrs. Maria Smith,</p>
+          <p>I am very glad to help you <NS type="RT"><i>about</i><c>with</c></NS> the International Student Conference. I hope that our friend Richard Brown doesn't have any serious <NS type="FN"><i><NS type="S"><i>willness</i><c>illness</c></NS></i><c>illnesses</c></NS>.</p>
+          <p><NS type="R">Referent</NS>, where is the conference<NS type="RP"><i>.</i><c>?</c></NS> This will be in the Casino Hotel and we don't need to worry <NS type="RT"><i>for</i><c>about</c></NS> the best way <NS type="M"><c>to get there</c></NS> because <NS type="UT"><i>in</i></NS> all the main routes in Devonport have signs <NS type="R"><i>with</i><c>that show the</c></NS> correct way to <NS type="RD"><i>the</i><c>this</c></NS> popular hotel.</p>
+          <p>After <NS type="UV"><i>finish</i></NS> the conference, there is a party in <NS type="MD"><c>the</c></NS> same hotel. <NS type="RT"><i>In</i><c>At</c></NS> this party<NS type="MP"><c>,</c></NS> there <NS type="TV"><i>are</i><c>will be</c></NS><NS type="UP"><i>;</i></NS> some <NS type="FN"><i>foods</i><c>food</c></NS>, soft drinks, music and a special place for dancing. This party is for the students so the <NS type="UN"><i>kinds of</i></NS> <NS type="S"><i>clouthes</i><c>clothes</c></NS> won't be so formal.</p>
+          <p>On the <NS type="W"><i>day free</i><c>free day</c></NS> before <NS type="FV"><i>catch</i><c>catching</c></NS> our plane<NS type="RP"><i>. We</i><c>, we</c></NS> <NS type="TV"><i>could</i><c>can</c></NS> <NS type="S"><i>chouse</i><c>choose</c></NS> <NS type="MT"><c>between</c></NS> two options <NS type="R">for spending</NS> our free time. One is a <NS type="DJ"><i>guide</i><c>guided</c></NS> tour <NS type="RT"><i>on</i><c>of</c></NS> <NS type="MD"><c>the</c></NS> <NS type="W"><i><NS type="SA"><i>center</i><c>centre</c></NS> city</i><c>city centre</c></NS>, and another is visiting the chocolate factory.</p>
+          <p>Please, if you have any more <NS type="FN"><i>question</i><c>questions</c></NS>, please call me <NS type="RT"><i>at</i><c>on</c></NS> 38755980.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>I can live without this.</p>
+          <p>It's true. <NS type="CE">In our <NS type="IN"><i>lifes</i><c>lives</c></NS>, <NS type="RP"><i>may be</i><c>maybe</c></NS>, couldn't be without electricity</NS>. Some people can live without this, but I am sure that the world would be very different.</p>
+          <p>When we <NS type="TV"><i>are using</i><c>use</c></NS> different <NS type="CN"><i>equipments</i><c>equipment</c></NS> in our <NS type="RN"><i>houses</i><c>homes</c></NS>, we are using <NS type="UD"><i>the</i></NS> electricity. <NS type="R">Small things but very <NS type="IJ"><i>importants</i><c>important</c></NS> in our <NS type="IN"><i>lifes</i><c>lives</c></NS>. For example: T.V., computer, just light and a long list that now I <NS type="RP"><i>can not</i><c>cannot</c></NS> write</NS>.</p>
+          <p>I don't like <NS type="S"><i>tinking</i><c>thinking</c></NS> <NS type="MT"><c>of</c></NS><NS type="UP"><i>,</i></NS> my house <NS type="SX"><i>of</i><c>or</c></NS> my life<NS type="UP"><i>,</i></NS> without all <NS type="AGD"><i>this</i><c>these</c></NS> facilities. In winter <NS type="R">when <NS type="MA"><c>it</c></NS> <NS type="RV"><i>is</i><c>gets</c></NS> dark very early, and after, I need to <NS type="FV"><i>spent</i><c>spend</c></NS> my free time <NS type="RT"><i>in</i><c>at</c></NS> home</NS>. What <NS type="W"><i>I can</i><c>can I</c></NS> do without my music and my computer<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Now, <NS type="W"><i>just you</i><c>you just</c></NS> need to think <NS type="R">that you would do or what would happen in a city, with a car, <NS type="S"><i>aeroplans</i><c>aeroplanes</c></NS>, <NS type="S"><i>shoops</i><c>shops</c></NS>, all these things without lights</NS>.</p>
+          <p>Finally<NS type="RP"><i>.</i><c>,</c></NS> I think that everybody <NS type="AGV"><i>know</i><c>knows</c></NS> that <NS type="UD"><i>the</i></NS> electricity is <NS type="MD"><c>a</c></NS> very important <NS type="DN"><i>invent</i><c>invention</c></NS> and for me it is the best.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

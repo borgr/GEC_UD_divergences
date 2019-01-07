@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR853*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I address this letter to the manager of the theatre.</p>
+          <p>I want to talk to you about an evening I had in your theatre<NS type="MP"><c>,</c></NS> <NS type="MV"><c>seeing</c></NS>: OVER THE RAINBOW.</p>
+          <p>Your advertisement was excellent and it gave me a lot of <NS type="S"><i>enthousiasm</i><c>enthusiasm</c></NS>. But I had a very disappointing evening and it was because <NS type="MT"><c>of</c></NS> many <NS type="RN"><i>points</i><c>things</c></NS>.</p>
+          <p>First point, I didn't see Danny BROOK <NS type="U"><i>as starring</i></NS>. I <NS type="RV"><i>was coming</i><c>went</c></NS> to see him but there was a different actor.</p>
+          <p>Second point, the <NS type="UJ"><i>musical</i></NS> show <NS type="RV"><i>had</i><c>was meant</c></NS> to begin at 7:30 PM but we <NS type="TV"><i>have waited</i><c>waited</c></NS> for <NS type="MP"><i><NS type="S"><i>fourty five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes to see the show <NS type="FV"><i>started</i><c>start</c></NS>.</p>
+          <p>Third point, your advertisement told <NS type="MA"><c>us</c></NS> about <NS type="MD"><c>a</c></NS> "discount available" <NS type="RT"><i>about</i><c>on</c></NS> the <NS type="W"><i>ticket's price</i><c>price of the ticket</c></NS> but <NS type="RA"><i>it</i><c>there</c></NS> wasn't <NS type="MA"><c>one</c></NS>.</p>
+          <p>Fourth point, after the show, I wanted to visit your theatre restaurant but it was closed and no one <NS type="UV"><i>didn't</i></NS> <NS type="TV"><i>know</i><c>knew</c></NS> why!</p>
+          <p>Well, as you see<NS type="MP"><c>,</c></NS> it wasn't a "perfect evening out!" and I think that you could give <NS type="UT"><i>to</i></NS> me some money back because I really have the impression that your advertisement is wrong. I'm waiting <NS type="RT"><i>about</i><c>for</c></NS> your <NS type="RN"><i>news</i><c>reply</c></NS>,</p>
+          <p>Yours FAITHFULLY,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>We live in a society where <NS type="UD"><i>the</i></NS> technology <NS type="RV"><i>grows up</i><c>makes progress</c></NS> <NS type="RP"><i>everyday</i><c>every day</c></NS>. We can find some everywhere. Then, I think it's <NS type="DJ"><i>interssant</i><c>interesting</c></NS> to answer the following question:</p>
+          <p>How has modern technology changed my daily life?</p>
+          <p>My plan <NS type="TV"><i>will be</i><c>is</c></NS> very simple: a description <NS type="U"><i>in a</i></NS> first <NS type="UN"><i>time</i></NS> and an analysis <NS type="U"><i>in a</i></NS> second <NS type="UN"><i>time</i></NS>.</p>
+          <p><NS type="RP"><i>Everyday</i><c>Every day</c></NS> at 7:00 a.m, I am woken up by my radio. <NS type="RY"><i>After</i><c>Afterwards</c></NS>, when I <NS type="RV"><i>take</i><c>have</c></NS> my breakfast, I use my toaster for my bread and, as I want <NS type="UD"><i>a</i></NS> hot milk, I use my modern <NS type="RN"><i>oven</i><c>cooker</c></NS> too. When I go to school, I can see <NS type="W"><i>in many stores the new tools they've just received</i><c>the new tools they've just received in many stores</c></NS>.</p>
+          <p>But I think that the most important <NS type="MN"><c>thing</c></NS> is my cellular phone: I can <NS type="RV"><i>give</i><c>make</c></NS> a call or receive a call from <NS type="RY"><i>everywhere</i><c>anywhere</c></NS>.</p>
+          <p>This little <NS type="RN"><i>paragraph</i><c>essay</c></NS> shows that I depend <NS type="RT"><i>of</i><c>on</c></NS> technology and, <NS type="RP"><i>more over</i><c>moreover</c></NS>, because I'm in an electronic <NS type="S"><i>eegenering</i><c>engineering</c></NS> school, I'm keen on technology.</p>
+          <p>I don't know if it is good or bad but we are a generation <NS type="RA"><i>who's</i><c>which has</c></NS> grown up with <NS type="MP"><i>technologies</i><c>technology's</c></NS> progress. Modern technology doesn't <NS type="FV"><i>changed</i><c>change</c></NS> my daily life, it just allows <NS type="MA"><c>me</c></NS> to <NS type="DV">evoluate</NS> in this new world....</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

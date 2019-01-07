@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR309*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="L"><i>Hello</i><c>Dear</c></NS> Helen,</p>
+          <p>I have <NS type="S"><i>recived</i><c>received</c></NS> your <NS type="SX"><i>exiting</i><c>exciting</c></NS> letter, informing me that I have won two weeks at Camp California in the USA. I will answer your questions in this letter<NS type="MP"><c>,</c></NS> <NS type="S"><i>begining</i><c>beginning</c></NS> with the best <NS type="RN"><i>moment</i><c>time</c></NS> for <NS type="R"><i>the <NS type="RP"><i>Camp</i><c>camp</c></NS></i><c>my visit</c></NS>.</p>
+          <p>Because of my <NS type="FN"><i>study</i><c>studies</c></NS> I will not be free to travel until <NS type="RP"><i>july</i><c>July</c></NS> and schools <NS type="RV"><i><NS type="AGV"><i>goes</i><c>go</c></NS></i><c>start</c></NS> <NS type="MY"><c>again</c></NS> <NS type="UT"><i>on</i></NS> in August <NS type="UY"><i>again</i></NS> so I hope July will be fine.</p>
+          <p>I much prefer sleeping in tents<NS type="RP"><i>, it</i><c>.  It</c></NS> seems <NS type="RJ"><i><NS type="IJ"><i>more friendly</i><c>friendlier</c></NS></i><c>more sociable</c></NS> and <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="R">sounds like <NS type="S"><i>holydays</i><c>holidays</c></NS></NS>.</p>
+          <p>Choosing only two activities <NS type="RT"><i>in</i><c>from</c></NS> such a <NS type="L"><i>bunch</i><c>variety</c></NS> of interesting ones was quite hard, but I decided to <NS type="RV"><i>take</i><c>pick</c></NS> the two I've never tried, <NS type="RP"><i>Climbing and Surfing</i><c>climbing and surfing</c></NS>.</p>
+          <p>I would like to know what kind of clothes <NS type="W"><i>should I</i><c>I should</c></NS> bring and <NS type="S"><i>wether</i><c>whether</c></NS> I can wash <NS type="AGA"><i>it</i><c>them</c></NS> or not, and I'd like to know how much money <NS type="W"><i>will I</i><c>I will</c></NS> need for extras<NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>Thank you very much<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely<NS type="MP"><c>,</c></NS></p>
+          <p>Andre Michel</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Hello Kim,</p>
+          <p>How are you?</p>
+          <p><NS type="RV"><i>Excuse</i><c>Forgive</c></NS> me for the long time I left you without any news. I wrote <NS type="MT"><c>to</c></NS> you last time that I was going to <NS type="ID"><i>give a hand</i><c>lend a hand</c></NS> <NS type="RT"><i>for</i><c>with</c></NS> the installation and preparation of "Garbage's" concert and you asked me to tell you how it <NS type="TV"><i>has been</i><c>was</c></NS>.</p>
+          <p>So one week <NS type="S"><i>befor</i><c>before</c></NS> the concert I went <NS type="RT"><i>at</i><c>to</c></NS> "L'Arena" to meet the other worker and receive the instructions. I've had the <NS type="S"><i>hounour</i><c>honour</c></NS> <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to help</i><c>helping</c></NS> their sound <NS type="S"><i>engeineer</i><c>engineer</c></NS> and <NS type="R"><NS type="FV"><i>branch</i><c>branching</c></NS> the cables for microphones<NS type="MP"><c>,</c></NS> <NS type="S"><i>ggitares</i><c>guitars</c></NS> etc</NS>.</p>
+          <p>We <NS type="DY"><i>realy</i><c>really</c></NS> started to <NS type="ID">work like ants</NS> the morning <NS type="S"><i>befor</i><c>before</c></NS> the show. It was <NS type="SX"><i>exiting</i><c>exciting</c></NS> looking <NS type="MT"><c>at</c></NS> all three <NS type="IN"><i>mens</i><c>men</c></NS> working together and building a <NS type="RN"><i>scene</i><c>stage</c></NS>, and it was <NS type="S"><i>interresting</i><c>interesting</c></NS> to help the sound engineer to check the sound and <NS type="FV"><i>configuring</i><c>configure</c></NS> his computers to get the best sound possible.</p>
+          <p>About two hours <NS type="S"><i>befor</i><c>before</c></NS> the beginning of the show, we met the band and <NS type="S"><i>recieved</i><c>received</c></NS> tickets to <NS type="MV"><c>go</c></NS> backstage<NS type="RP"><i>, that</i><c>.  That</c></NS> was wonderful, maybe better than the concert itself!</p>
+          <p>And the next morning<NS type="UP"><i>,</i></NS> I was <NS type="RY"><i>here</i><c>there</c></NS> again to help them <NS type="RV"><i><NS type="FV"><i>folding</i><c>fold</c></NS></i><c>put away</c></NS> their <NS type="CN"><i>stuffs</i><c>stuff</c></NS>.</p>
+          <p>That's a great <NS type="S"><i>experienc</i><c>experience</c></NS>!</p>
+          <p>Now Kim, tell me about <NS type="R">your side of the show</NS><NS type="MP"><c>.</c></NS></p>
+          <p>Yours<NS type="MP"><c>,</c></NS> Andre</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

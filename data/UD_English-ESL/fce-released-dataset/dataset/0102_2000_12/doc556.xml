@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR231*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark</p>
+          <p>Hello, I spent two days at your annual international arts festival. I was very impressed and I wish you could make the festival better next year.</p>
+          <p>I think <NS type="MD"><c>the</c></NS> International Arts Festival is a great idea, because you can see how other <NS type="FN"><i>country's</i><c>countries'</c></NS> art is, but I think in this festival, there were <NS type="CE">too many <NS type="FN"><i>country's</i><c>countries'</c></NS> people</NS>. You should pick only six countries, so it won't be very busy and another reason is that the concert hall is too small <NS type="MC"><c>so</c></NS> that the people <NS type="TV"><i>can't</i><c>couldn't</c></NS> even dance <NS type="RT"><i>in</i><c>at</c></NS> classical concerts.</p>
+          <p>This years' 'plays and films' was too short. I was very disappointed about this, but the other shows were great. I felt very good about all these shows.</p>
+          <p>In my opinion, the tickets for all events is a wonderful idea, because everybody has a chance to see everything and the people would think this is a great festival.</p>
+          <p>What do you think about picking five people and <NS type="FV"><i>give</i><c>giving</c></NS> them tickets for 'Art Travel'? I think this is a good idea. Generally it was very good and I <NS type="RV"><i>wish</i><c>hope</c></NS> more people <NS type="TV"><i>would</i><c>will</c></NS> come next year.</p>
+          <p>Yours Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Tim, I'm glad to have your letter back <NS type="MY"><c>so</c></NS> soon. Do you want to know about our country's rules? I think your country and our country's rules are the same. First, <NS type="RP"><i>In</i><c>in</c></NS> school, we are not allowed to run. This is very important, because many accidents happen because of running. When we need to go upstairs, you have to keep left and when you have to go downstairs, you need to keep left as well. You have to do your homework and do your best <NS type="MT"><c>at</c></NS> what you're asked to do. You can't go to the toilet during the class, because you are interrupting the other <NS type="RP"><i>student's</i><c>students'</c></NS> study and there are more.. like when the class starts you have to keep quiet and you can't say anything while the teacher speaks. Second, at home we all have different rules. Some <NS type="AGN"><i>family</i><c>families</c></NS> have rules that you have to <NS type="RV">put</NS> spoons and dishes everyday. I think the main rule is when you can play computer games, because they love computer games. Tell me about English rules. I'm curious about it. <NS type="UD"><i>Your</i></NS> best wishes from  </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

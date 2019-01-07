@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1125*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>41-50</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>To the manager of the Circle Theatre - London</p>
+          <p>Dear sir,</p>
+          <p>I write to complain about the show "Over the Rainbow" I saw last night. Firstly I was very disappointed <NS type="UT"><i>in</i></NS> <NS type="FV"><i>finding</i><c>to find</c></NS> out that <NS type="DJ"><i>not-ever-heard</i><c>unheard-of</c></NS> actors were playing instead of the ones we all expected.</p>
+          <p>Besides this, no discounts for students were available.</p>
+          <p>I'm very sorry to let you know that not only was the show really boring, but it <NS type="W"><i>started also</i><c>also started</c></NS> 45 <NS type="MN"><c>minutes</c></NS> late - <NS type="RP"><i>This</i><c>this</c></NS> shouldn't happen!</p>
+          <p>In addition to this, I <NS type="RV"><i>heard</i><c>listened to</c></NS> bad singers and noticed a <NS type="RJ">numertable</NS> lack of variety in <NS type="MD"><c>the</c></NS> <NS type="RN"><i>ballets</i><c>dancing</c></NS>.</p>
+          <p>Furthermore I couldn't drink a cup of coffee after the show in the theatre restaurant. I've been told it was closed because of a waiters' strike.</p>
+          <p>I know this is not <NS type="ID"><i>up to you</i><c>your fault</c></NS>, but it was very annoying. This show might be the newest in London, but <NS type="MA"><c>it</c></NS> <NS type="MV"><c>is</c></NS> <NS type="W"><i>not the best at all</i><c>at all the best</c></NS>.</p>
+          <p><NS type="W"><i>I do <NS type="RY"><i>eventually</i><c>finally</c></NS></i><c>Finally I do</c></NS> think it would be fair to give the <NS type="RN"><i>spectators</i><c>audience</c></NS> their money back - <NS type="RP"><i>So</i><c>so</c></NS> <NS type="MA"><c>I</c></NS> <NS type="TV"><i>ask</i><c>am asking</c></NS> you <NS type="MT"><c>for</c></NS> a complete refund (cash) of the ticket price.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. We all know that she isn't good <NS type="RT"><i>in</i><c>at</c></NS> keeping her mouth shut at all, but it should have been better this time. Her brother Philip had just passed his last exam at the university and was going to graduate in a few days.</p>
+          <p>Their parents were so happy that <NS type="MA"><c>they</c></NS> decided to give him a fantastic present: the brand new car he had always dreamed of.</p>
+          <p>This should <NS type="TV"><i>be</i><c>have been</c></NS> a big surprise for him: the car was bought and everything was prepared in a very hush-hush atmosphere.</p>
+          <p>Pat promised not to speak to anyone about the car, but one evening Philip overhead her speaking about this with her boyfriend<NS type="MP"><c>:</c></NS> "It will be <NS type="S"><i>delievered</i><c>delivered</c></NS> on Thursday! Can you imagine Philip's face when <NS type="TV"><i>he'll see</i><c>he sees</c></NS> his favourite car out there?" He couldn't believe his ears!</p>
+          <p>The great day came. The car was already parked near the rear door and there was an unusual <NS type="MN"><c>level of</c></NS> activity all over the house. Everyone seemed to be looking for something.</p>
+          <p>"Are you looking for these?" asked Philip<NS type="MP"><c>,</c></NS> showing the keys <NS type="RT"><i>of</i><c>to</c></NS> the car.</p>
+          <p>And <NS type="MN"></NS> disappeared<NS type="MP"><c>,</c></NS> heading for the rear door.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

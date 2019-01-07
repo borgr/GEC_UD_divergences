@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR752*0100*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p><NS type="DT"><i>On the behalf of</i><c>On behalf of</c></NS> all the students, I thank you for organizing our trip to London and for the really interesting programme you propose <NS type="RT"><i>to</i><c>for</c></NS> us as well. It is likely to enrich our vocabulary and our knowledge of <NS type="UD"><i>the</i></NS> English culture... However, we would like to suggest <NS type="UA"><i>you</i></NS> something:</p>
+          <p>A few days ago, we saw an advertisement about "The London Fashion and Leisure Show"<NS type="MP"><c>,</c></NS> which seems to be very <NS type="RJ"><i>attractive</i><c>interesting</c></NS>. Therefore, after having talked about it, we all concluded that we would be pleased to go there. Let me explain <NS type="MT"><c>to</c></NS> you what it is: It <NS type="TV"><i>must be</i><c>is</c></NS> an exhibition which takes place in the "Central Exhibition Hall" on Tuesday and deals with the latest fashions, the different <NS type="RN"><NS type="CN"><i>leisures</i><c>leisure</c></NS></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS> and so on...</p>
+          <p>What do you think about our jobs? It would be <NS type="RY"><i>all the more</i><c>very</c></NS> interesting for us as fashion is <NS type="R"><i>a</i><c>of</c></NS> great interest for people <NS type="UT"><i>from</i></NS> our age. Moreover, you wouldn't have to worry about the price as it is free for <NS type="UD"><i>the</i></NS> students. If you agree, we will only have to change the programme on Tuesday afternoon: I mean that instead of shopping, we would go to this exhibition. But I guess that neither <NS type="RA"><i>us</i><c>we</c></NS> nor you would be against the sacrifice of a "Shopping-Afternoon" - that we can even <NS type="RV"><i>put</i><c>have</c></NS> on Wednesday during <NS type="RD"><i>the</i><c>our</c></NS> <NS type="UP"><i>free-time</i><c>free time</c></NS> - so that <NS type="M"><c>we are able</c></NS> to enjoy the Fashion and Leisure Show...</p>
+          <p>Please, Let us know.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>The <NS type="RN">respect</NS> of Famous people's private <NS type="FN"><i>life</i><c>lives</c></NS> has always been a hot topic... On the one hand, those people are <NS type="R"><i>equal to</i><c>like</c></NS> us in the way that they had a childhood, <NS type="SX"><i>thy</i><c>they</c></NS> got married and <NS type="RV"><i>built</i><c>had</c></NS> a family... The only difference between them and us is the kind of job they are doing<NS type="MP"><c>,</c></NS> which is literally a "public job". Therefore, why do we have to talk and gossip about them?! But on the other hand, the aim of a "public job"<NS type="MP"><c>,</c></NS> such as politician or actor<NS type="MP"><c>,</c></NS> is to be known and appreciated by the population. And here comes the <NS type="RN">paradox</NS>: Do we have to <NS type="RV">reveal</NS> someone's privacy to judge his work and appreciate him? Well, some people would <NS type="R"><i>agree</i><c>say yes</c></NS> whereas others would <NS type="S"><i>desagree</i><c>disagree</c></NS>. I guess this is an unanswerable question...</p>
+          <p>As far as I'm concerned, I would say that famous people made the <NS type="RN"><i>choice</i><c>decision</c></NS> to be followed and tracked by journalists all the time, when they chose to be famous. <NS type="RA"><i>That's</i><c>It's</c></NS> as simple as <NS type="RA"><i>this</i><c>that</c></NS>! Everyone is aware of the celebrity's <NS type="RN"><i>consequences</i><c>predicament</c></NS> so, if they really wanted their privacy, why did they choose a "public job"?? Even if <NS type="RA"><i>anyone</i><c>everyone</c></NS> <NS type="AGV"><i>deserve</i><c>deserves</c></NS> to have a private life, <NS type="R">famous people know and might have made a mistake</NS>... However, I would add that journalists - being aware of that <NS type="R">hard topic</NS> - should try to <NS type="S"><i>modorate</i><c>moderate</c></NS> what they write in order to respect <NS type="DN"><i>altrui's</i><c>other people's</c></NS> privacy; since they would probably not be <NS type="RJ"><i>glad</i><c>happy</c></NS> to have their own private life <NS type="RV"><i>revealed</i><c>exposed</c></NS>!</p>
+          <p>But to solve this problem, we <NS type="RV"><i>may</i><c>must</c></NS> think first about its origin... "Reading the <NS type="CN"><i>gossips</i><c>gossip</c></NS>": isn't it what <NS type="R"><i>anyone</i><c>all</c></NS> of us love doing?? Therefore we should try to educate ourselves so as to respect <NS type="DN"><i>altrui</i><c>other people</c></NS> <NS type="R">in his privacy</NS>.</p>
+          <p>Why not?</p>
+          <p>To conclude, I would say that "privacy" and "celebrity" can't go together. It's just a matter of choice: being aware of that problem, everyone is free to become famous or not... !</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

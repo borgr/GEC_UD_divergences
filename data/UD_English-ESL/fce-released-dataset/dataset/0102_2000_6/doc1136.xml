@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR463*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to complain about what it says in the advertisement <NS type="R">is not true</NS>. I was really disappointed. <NS type="R">Here are the following points, which I do not think that you have realised what you have put down</NS>.</p>
+          <p>1 The advertisement says the show starts at 19:30. Unfortunately it started at 20:15. And I think I could find something <NS type="MY"><c>more</c></NS> <NS type="DJ"><i>worth</i><c>worthwhile</c></NS> to do than just <NS type="RV"><i>writing</i><c>waiting</c></NS>, doing nothing during this spare time.</p>
+          <p>2 I <NS type="TV"><i>was expected</i><c>had expected</c></NS> that there would be <NS type="FN"><i>discount</i><c>discounts</c></NS> available for people who have student <NS type="FN"><i>card</i><c>cards</c></NS> as it says in the <NS type="RN"><i>notice</i><c>advertisement</c></NS>, but there was not.</p>
+          <p>3 You <NS type="TV"><i>recommend</i><c>recommended</c></NS> <NS type="U"><i>that there <NS type="TV"><i>will</i><c>would</c></NS> be</i></NS> the <NS type="S"><i>resturant</i><c>restaurant</c></NS> after the show. However<NS type="MP"><c>,</c></NS> all I <NS type="TV"><i>can</i><c>could</c></NS> see<NS type="R"><i>,</i><c> was that</c></NS> the light was off and the door was locked. This is because they are rebuilding it again.</p>
+          <p>4 I <NS type="TV"><i>have also thought</i><c>had also thought</c></NS> in the show there was <NS type="RD"><i>no</i><c>a</c></NS> different actor.</p>
+          <p>5 <NS type="RY"><i>Never the less</i><c>Anyway</c></NS>, I took my headmistress with me and I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="RV"><i><NS type="S"><i>recommened</i><c>recommended</c></NS></i><c>stated</c></NS> how wonderful this show was going to be.</p>
+          <p>It would be <NS type="DJ"><i>greatful</i><c>great</c></NS> if you <NS type="TV"><i>consider</i><c>considered</c></NS> <NS type="FV"><i>to return</i><c>returning</c></NS> my money <NS type="U"><i>for the tickets back</i></NS> as soon as possible. I am looking forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully.</p>
+          <p>Sapawadee Prisuntha.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future - F.O.F. -</p>
+          <p>These 3 <NS type="AGN"><i>F</i><c>Fs</c></NS> <NS type="TV"><i>could</i><c>can</c></NS> tell you whether you are up-to-date. <NS type="R">The first thing for fashion what is called "clothing" or what they wear</NS>.</p>
+          <p><NS type="MD"><c>The</c></NS> 1st "F" is <NS type="RT"><i>from</i><c>for</c></NS> "<NS type="UP"><i>fast-food</i><c>fast food</c></NS>", something fast and <NS type="R">easy to be spotted</NS>, which is <NS type="MD"><c>an</c></NS> ancient <NS type="R">wearing style</NS>. This is not <NS type="S"><i>nomally</i><c>normally</c></NS> what people wear <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+          <p><NS type="MD"><c>The</c></NS> 2nd F is <NS type="CE">'<NS type="SA"><i>fulfill</i><c>fulfil</c></NS>' wear ever you have <NS type="RT"><i>under</i><c>in</c></NS> your mom's cupboard</NS>. For example long baggy <NS type="S"><i>troossers</i><c>trousers</c></NS>, which cover your bright <NS type="RN">brick</NS> shoes. Wherever you go <NS type="RP"><i>every one</i><c>everyone</c></NS> would love you because of your <NS type="S"><i>troussers</i><c>trousers</c></NS>, <NS type="MA"><c>which</c></NS> would clean <NS type="MY"><c>away</c></NS> all the rubbish that <NS type="AGV"><i>are</i><c>is</c></NS> on the road. <NS type="MD"><c>The</c></NS> 3rd "F" could not be anything else apart from something that could make you look "<NS type="DJ"><i>fool</i><c>foolish</c></NS>"<NS type="RP"><i>. Having</i><c>: having</c></NS> holes all <NS type="RT"><i>around</i><c>over</c></NS> your body (including unsuitable <NS type="FN"><i>place</i><c>places</c></NS>), <NS type="R"><i>which</i><c>or something which</c></NS> could make you look like an animal such as having a big metal ring in your nose etc.</p>
+          <p><NS type="CE">If it is not these 3F booming in 100 years from now, so what else could you think of?</NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

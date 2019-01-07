@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR80*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan:</p>
+          <p>I am writing because I received your letter saying that I won first prize, a two week holiday at Camp California in <NS type="MD"><c>the</c></NS> U.S.A, and that you need further information from me.</p>
+          <p>Firstly, I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July, because <NS type="MA"><c>it</c></NS> is the only month I have holidays in.</p>
+          <p>Secondly, I would like to stay in a log cabin because I think they're more comfortable than <NS type="UD"><i>the</i></NS> tents, also because I don't like to sleep in tents very much, I think they're very cold during the night</p>
+          <p>About the activities, I have chosen basketball because I enjoy playing it, and also because I know <NS type="W"><i>very well how to play</i><c>how to play very well</c></NS>. I used to be the captain of the <NS type="W"><i><NS type="RN"><i>selection</i><c>team</c></NS> of <NS type="S"><i>bascketball</i><c>basketball</c></NS></i><c>basketball team</c></NS> in my school, because I was the best <NS type="R"><i>to play</i><c>player</c></NS>, and I think I can still remember how to play. The second activity I chose was tennis<NS type="RP"><i>,</i><c>.</c></NS> I am not so good, but I know how to play<NS type="RP"><i>,</i><c>.</c></NS> I have played several times with my friends.</p>
+          <p>To finish I would like to ask you for toiletries like<NS type="MP"><c>,</c></NS> for example<NS type="MP"><c>,</c></NS> shampoo, soap, etc. <NS type="RP"><i>so</i><c>So</c></NS> that I don't have to carry them in my luggage<NS type="RP"><i>,</i><c>.</c></NS> I think they would just occupy extra space.</p>
+          <p>Another thing I would like to ask you for<NS type="UP"><i>,</i></NS> is money. I think it will be an expensive trip and I don't have enough money to pay for it. Nevertheless I need money for restaurants and <NS type="MD"><c>the</c></NS>souvenirs that I can buy in the Camp.</p>
+          <p>I think that's all, and I look <NS type="R"><i>foreword</i><c>forward</c></NS> to hearing from you soon.</p>
+          <p>Yours Sincerely,</p>
+          <p>Santiago Rico S</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always <NS type="DJ"><i>enjouable</i><c>enjoyable</c></NS> because of several <NS type="S"><i>factorors</i><c>factors</c></NS>.</p>
+          <p>One could be when you go into a shop and you <NS type="UV"><i>can</i></NS> find something that you like, and you decide to buy it, but when you see the price, you find out that it's too <NS type="S"><i>expencive</i><c>expensive</c></NS>, and you cannot afford to buy it. The only thing you <NS type="UY"><i>mostly</i></NS> say is, "If I had more money, I would buy it", or "I wish I had more money."</p>
+          <p>Another factor could be when you are in a shop and you are not <NS type="UY"><i>well</i></NS> attended <NS type="MT"><c>to</c></NS><NS type="RP"><i>, the</i><c>. The</c></NS> people that work in the shop are doing other things<NS type="UP"><i>,</i></NS> and cannot help you, so you have to look for the things you want to buy <NS type="ID"><i>by your own</i><c>on your own</c></NS>. I think this is a common problem in shops, and that's why sometimes people leave the shop without buying anything, and I <NS type="SX"><i>thing</i><c>think</c></NS> the solution would be to hire more workers.</p>
+          <p>The third and last factor would be when you like a certain type of clothes, and you don't find any of that kind. You just find the type of clothes you would never wear. This <NS type="S"><i>cituation</i><c>situation</c></NS> is very annoying for most <NS type="U"><i>of the</i></NS> people, and that's what makes shopping <NS type="S"><i>unejoyable</i><c>unenjoyable</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

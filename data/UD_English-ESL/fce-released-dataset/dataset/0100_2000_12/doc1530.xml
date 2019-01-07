@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR591*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>18.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear, Mr Robertson<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I am writing to ask <NS type="MT"><c>for</c></NS> some information about the programme which our class would like to join. There are a few questions which I have <NS type="RV"><i>wondered</i><c>asked myself</c></NS>.</p>
+          <p>First of all, <NS type="RP"><i>Would</i><c>would</c></NS> you give me an explaination about the London fashion and Leisure show? We <NS type="RV"><i>regard</i><c>think</c></NS> that the show might be <NS type="MD"><c>a</c></NS> great opportunity for <NS type="UD"><i>the</i></NS> most of us who are interested in fashion and leisure.</p>
+          <p>In addition, I would like to get your suggestion <NS type="MT"><c>about</c></NS> how <NS type="MD"><c>the</c></NS> programme could be changed on the <NS type="UP"><i>second-day</i><c>second day</c></NS> of the trip<NS type="UP"><i>.</i></NS> so that we could enjoy going to both <NS type="MD"><c>the</c></NS> <NS type="RP"><i>science</i><c>Science</c></NS> Museum and the London fashion and leisure show.</p>
+          <p>I am <NS type="RJ"><i>appreciated</i><c>grateful</c></NS> <NS type="MT"><c>to</c></NS> you for offering a well-organised programme, especially, the London fashion and leisure show which is difficult for us to take part in.</p>
+          <p>I am looking forward to getting your reply.</p>
+          <p><NS type="DA"><i>your</i><c>yours</c></NS> sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>In the middle <NS type="FN"><i>age</i><c>ages</c></NS>, <NS type="RP"><i>Nobody</i><c>nobody</c></NS> expected to have <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>electric</i><c>electrical</c></NS> goods which <NS type="RV"><i>have been</i><c>would</c></NS> <NS type="TV"><i>helping</i><c>help</c></NS> to do housework.</p>
+          <p>It made <NS type="FN"><i>woman</i><c>women</c></NS> <NS type="UV"><i>to be</i></NS> free from drudgery, so that they could utilize time for improving themselves.</p>
+          <p>As <NS type="RD"><i>the</i><c>a</c></NS> result, we can observe that the <NS type="FN"><i>home</i><c>homes</c></NS> of the present have a lot of machines which make home like a factory.</p>
+          <p>By contrast, <NS type="RP"><i>In</i><c>in</c></NS> the future, I guess we would rather go back to the <NS type="S"><i>acient</i><c>ancient</c></NS> <NS type="CE">time, owing to have natural life style.</NS> We will be unwilling to give <NS type="UD"><i>a</i></NS> housework away.</p>
+          <p>Being at home <NS type="UT"><i>with</i></NS> doing housework, taking care of their children, might be <NS type="MD"><c>the</c></NS> purpose of the future life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

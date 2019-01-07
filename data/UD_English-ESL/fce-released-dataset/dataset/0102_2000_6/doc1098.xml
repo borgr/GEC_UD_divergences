@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR444*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>I recently had a week's holiday in London. During my stay I went to your theatre to see a musical show<NS type="MP"><c>,</c></NS> which was OVER THE RAINBOW<NS type="RP"><i>, however</i><c>. However</c></NS>, I had a very disappointing evening.</p>
+          <p>There are a lot of differences between the details of the musical show <NS type="RT"><i>on</i><c>in</c></NS> the advertisement and <NS type="R">the ones it actually was</NS>. Firstly the <NS type="AGN"><i><NS type="RN"><i>starring</i><c>star</c></NS></i><c>stars</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the advertisement were Danny Brook and Tina Truelove, while there were different actors <NS type="RT"><i>on</i><c>in</c></NS> the musical show. Secondly <NS type="R">time starts</NS> at 19:30 on the <NS type="S"><i>leafet</i><c>leaflet</c></NS> but it actually started at 20:15. Thirdly it said there were discounts available <NS type="RT"><i>on</i><c>in</c></NS> the advertisement<NS type="RP"><i>, however</i><c>. However</c></NS>, there <NS type="AGV"><i>was</i><c>were</c></NS> not any at all. Finally it said we could visit your theatre restaurant after the show but it was <NS type="S"><i>colsed</i><c>closed</c></NS> because <NS type="R">your excuse of being used at that moment</NS>.</p>
+          <p>It said <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="S"><i>leafet</i><c>leaflet</c></NS> that <NS type="R"><i>your</i><c>this would be a</c></NS> perfect evening out, while it was not <NS type="MA"><c>that</c></NS> at all. I felt very <NS type="RJ"><i>disappointing</i><c>disappointed</c></NS> after seeing the music show in your theatre. <NS type="R">As I said the reasons above</NS>, I want to ask for <NS type="MD"><c>my</c></NS> money back! I look forwards to hearing from you.</p>
+          <p>Yours faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. He was so kind that <NS type="R"><i>the</i><c>he</c></NS> couldn't <NS type="RV"><i>stop</i><c>resist</c></NS> telling Janet that she was going to be killed by Mr Brown<NS type="MP"><c>.</c></NS> After <NS type="RV"><i>finishing</i><c>doing</c></NS> that<NS type="MP"><c>,</c></NS> Pat left <NS type="RD"><i>this</i><c>the</c></NS> room. Janet was so nervous that she couldn't stop her heart <NS type="RV"><i>throbbing</i><c>beating</c></NS> quickly. She went <NS type="W"><i>quietly <NS type="S"><i>downstair</i><c>downstairs</c></NS></i><c>downstairs quietly</c></NS> and closed the door as soon as she went into her room. At that moment a lot of things appeared in her mind<NS type="MP"><c>,</c></NS> which seemed <NS type="RT"><i>as</i><c>like</c></NS> <NS type="MA"><c>they</c></NS> <NS type="TV"><i>just happened</i><c>had just happened</c></NS> yesterday. "Why did Mr Brown want to kill me?" <NS type="RP"><i>She</i><c>she</c></NS> said to herself<NS type="MP"><c>.</c></NS> "I am just a servant in this castle<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="AGV"><i>loves</i><c>love</c></NS> him so much and I don't want anything from him although he is the owner of this castle." <NS type="UC"><i><NS type="RP"><i>while</i><c>While</c></NS> it</i><c>It</c></NS> seemed as <NS type="MC"><c>if</c></NS> a shadow came in <NS type="RT"><i>from</i><c>through</c></NS> the window and disappeared quickly. Everything in the room <NS type="TV"><i>is</i><c>was</c></NS> quiet except the sound of the clock<NS type="MP"><c>,</c></NS> as if everything <NS type="TV"><i>is</i><c>was</c></NS> going to die. She was so <NS type="DJ"><i>frighten</i><c>frightened</c></NS> and sad that she had no <NS type="S"><i>energry</i><c>energy</c></NS>. She fell <NS type="UY"><i>down</i></NS> onto the floor and wept, while nobody could help her.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

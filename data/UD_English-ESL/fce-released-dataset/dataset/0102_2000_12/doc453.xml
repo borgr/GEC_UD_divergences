@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR183*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>41-50</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms Clark,</p>
+          <p>I think <NS type="MD"><c>the</c></NS> International Arts Festival is a great idea. I spent two nice days watching its events. I was there with my boyfriend. We have similar interests but we have different opinions. For me - <NS type="MD"><c>the</c></NS> <NS type="FN"><i>dances</i><c>dance</c></NS> shows were <NS type="DY"><i>absolutelly</i><c>absolutely</c></NS> wonderful. I like dancing and I like watching <NS type="FN"><i>dances</i><c>dance</c></NS> shows. <NS type="MD"><c>The</c></NS> <NS type="RP"><i>Dancers</i><c>dancers</c></NS> <NS type="TV"><i>worn</i><c>wore</c></NS> nice clothes, <NS type="MC"><c>and</c></NS> the music was very good. Unfortunately there were no Spanish dancers. I <NS type="S"><i>prefere</i><c>prefer</c></NS> them to others. Maybe next year? You should invite artists from more countries. We also listened to the concerts but in our opinion the concert halls were too small. During the jazz and rock concerts the audience wants to play and dance so <NS type="RA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>needs</i><c>need</c></NS> more room. I like listening to <NS type="UD"><i>the</i></NS> classical music in the big halls, too. My boyfriend was <NS type="RJ"><i>exciting</i><c>excited</c></NS> about the art exhibitions and listening to the writers. He was happy because he was able to talk to them in person. We had no time to watch all <NS type="MD"><c>the</c></NS> plays and films. We chose some of them and we were glad that we had our reasonably <NS type="MJ"><c>priced</c></NS> ticket for all <NS type="MD"><c>the</c></NS> <NS type="S"><i>evants</i><c>events</c></NS> because we could change our <NS type="RN"><i>planes</i><c>plans</c></NS> during the <NS type="S"><i>evant</i><c>event</c></NS>.</p>
+          <p>I suggest <NS type="FV"><i>to organize</i><c>organizing</c></NS> <NS type="MD"><c>the</c></NS> next IAF in the summer.</p>
+          <p>We are both students so we have our holiday from July to September. We have more free time in the summer. <NS type="RV"><i>We're going to</i><c>We would</c></NS> attend <NS type="MD"><c>the</c></NS> IAF any time, as well.</p>
+          <p>Thank you for an unusual event<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Monte,</p>
+          <p>I'd like to write about rules in Poland. They're horrible. There are many things we aren't allowed to do at school. <NS type="ID"><i>At first</i><c>First of all</c></NS> - we have to be <NS type="RT"><i>at</i><c>on</c></NS> time. Our lessons start at 8 <NS type="UP"><i>a.m</i><c>am</c></NS> and we aren't allowed to be late. We have to change our shoes. Fortunately we don't have to wear <NS type="UD"><i>the</i></NS> school uniforms. We can wear what we want. Most <NS type="UT"><i>of</i></NS> <NS type="S"><i>studenst</i><c>students</c></NS> wear jeans and <NS type="MD"><c>a</c></NS> <NS type="FN"><i>sweaters</i><c>sweater</c></NS>. We have to be quiet during <NS type="UD"><i>the</i></NS> lessons and our lessons are boring because of it. Our <NS type="UP"><i>school-bags</i><c>school bags</c></NS> are very heavy because we have to carry our books, notebooks, atlases and dictionaries all day. <NS type="RA"><i>It</i><c>This</c></NS> is what I'd like to change. I'd like to leave my books at school. At home we have to do our homework. There's always much to do so we have no free time at all. Our parents want us to be clever. When we <NS type="RV"><i>have</i><c>get</c></NS> good marks at school they let us <NS type="FV"><i>to go</i><c>go</c></NS> out (to the disco or cinema, but only on Saturdays and we have to be back by ten). On Sundays we have to go to bed early because on Monday our school starts at 8 in the morning. We sometimes help in the house but it isn't <NS type="RJ"><i><NS type="S"><i>neccessary</i><c>necessary</c></NS></i><c>compulsory</c></NS>. We aren't allowed to smoke <NS type="RC"><i>and</i><c>or</c></NS> drink any alcohol.</p>
+          <p>We aren't allowed to argue with our parents and teachers<NS type="MP"><c>.</c></NS> <NS type="RA"><i>It</i><c>This</c></NS> is also horrible. We <NS type="S"><i>musn't</i><c>mustn't</c></NS> talk to them but <NS type="MV"><c>must</c></NS> only listen to them. I'd like to change <NS type="RA"><i>it</i><c>that</c></NS>. <NS type="UP"><i>Student's</i><c>Student</c></NS> life is hard but sometimes funny.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

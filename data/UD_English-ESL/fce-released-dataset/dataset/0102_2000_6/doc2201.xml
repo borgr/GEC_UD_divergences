@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR888*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>41-50</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Manager Date 17-06-00</p>
+          <p>xxxx</p>
+          <p>Dear Sir,</p>
+          <p>I'm writing to complain about the performance<NS type="UP"><i>,</i></NS> <NS type="MT"><c>of</c></NS> Over The Rainbow at The Circle Theatre on the 14th of June. It is always a great opportunity to enjoy a musical when you go on <NS type="UD"><i>your</i></NS> holiday to London. London is one of Europe's biggest <NS type="RN"><NS type="AGN"><i>centre</i><c>centres</c></NS></NS> and you can always <NS type="RV"><i>get</i><c>find</c></NS> the best in show business <NS type="MY"><c>there</c></NS>. <NS type="S"><i>Rescently</i><c>Recently</c></NS> I decided to <NS type="RV"><i>watch</i><c>see</c></NS> Over The Rainbow, a very famous and <NS type="MP"><i>wellknown</i><c>well-known</c></NS> show.</p>
+          <p>Firstly, the <NS type="RN"><i>night</i><c>evening</c></NS> performance was 45 minutes late and there were no discounts available as the advertisement <NS type="TV"><i><NS type="RV"><i>told</i><c>promised</c></NS></i><c>had promised</c></NS>.</p>
+          <p>Furthermore, I was <NS type="S"><i>shooked</i><c>shocked</c></NS> when one of the main <NS type="RN"><i>persons</i><c>actors</c></NS> <NS type="RV"><i>entered</i><c>came onto</c></NS> the stage. He wasn't Danny Brook, one of the <NS type="S"><i>resons</i><c>reasons</c></NS> for my choice <NS type="M"><c>of coming to see Over the Rainbow</c></NS>.</p>
+          <p>Finally, the Theatre Restaurant was <NS type="R"><i>under</i><c>being</c></NS> <NS type="R"><i>reparation</i><c>refurbished</c></NS> so we had to find another one for <NS type="R"><i>the</i><c>our</c></NS> evening <NS type="RN"><i>supper</i><c>meal</c></NS>.</p>
+          <p>This wasn't "my perfect evening out", as <NS type="RV"><i>said</i><c>promised</c></NS>, and I'll make a claim for half the money back. I'm looking forward to receiving <NS type="DD"><i>you</i><c>your</c></NS> reply as soon as <NS type="DJ"><i>possibly</i><c>possible</c></NS>.</p>
+          <p>Yours faithfully,</p>
+          <p>Kim Nissen</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed my daily life<NS type="RP"><i>.</i><c>?</c></NS> A century ago, when a farmer took the horses out of the stable and put the <NS type="S"><i>plouge</i><c>plough</c></NS> behind them, <NS type="RV">we've got</NS> the word "time". Why not talk about <NS type="UD"><i>the</i></NS> social life just sitting around a table <NS type="X"><i>without no</i><c>with no</c></NS> rush.</p>
+          <p><NS type="ID"><i>In modern days</i><c>Today</c></NS> we have to <NS type="RV"><i>wear</i><c>carry</c></NS> a mobile phone. I visited an airport some days ago and in nearly every crowded corner<NS type="UP"><i>,</i></NS> I could see those busy people <NS type="M"><c>who are</c></NS> always on their way <NS type="MN"><c>somewhere</c></NS>. I heard the different <NS type="DN"><i>phone signals</i><c>ringing tones</c></NS>, and<NS type="MP"><c>,</c></NS> what a miracle<NS type="MP"><c>,</c></NS> you can change them on the train when you are restless. <NS type="ID"><i>A new word has appeared</i><c>A new world has opened up</c></NS> in <NS type="R"><i>those days</i><c>our times</c></NS><NS type="RP"><i>,</i><c>;</c></NS> <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>technical</i><c>tangible</c></NS> proof of this is the computer. I can send and save information and the possibilities are <NS type="RJ"><i>uncountless</i><c>infinite</c></NS>. In nearly every home you can find <NS type="RA"><i>it</i><c>one</c></NS> and the users now and in the future are the new generation.</p>
+          <p>I must say a few words about the new electrical cars which surely will have a central role <NS type="MV"><c>to play</c></NS>, <NS type="S"><i>exspecially</i><c>especially</c></NS> today when fuel is so expensive. Watch <NS type="R"><i>out</i><c>how</c></NS> <NS type="MP"><i>highly advanced</i><c>highly-advanced</c></NS> <NS type="CN"><i>technologies</i><c>technology</c></NS> <NS type="RV"><i>are</i><c>can be</c></NS> <NS type="RJ">appropriate</NS> and helpful for me and others<NS type="MP"><c>,</c></NS> if we only remember the importance of <NS type="MV"><c>taking</c></NS> time to be together.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

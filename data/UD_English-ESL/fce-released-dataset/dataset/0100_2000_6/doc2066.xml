@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR832*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am writing to provide you with the information that you require to arrange my <NS type="MP"><i>two week</i><c>two-week</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS> at Camp California in the U.S.A<NS type="MP"><c>.</c></NS></p>
+          <p>I would like to travel in July because, as I am working, this is the only time that I have to go on <NS type="FN"><i>holidays</i><c>holiday</c></NS>.</p>
+          <p>About the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would prefer to stay in a log cabin rather than in a tent because I have <NS type="MD"><c>a</c></NS> bad back and I think that <NS type="FV"><i>to sleep</i><c>sleeping</c></NS> in a tent could be not just uncomfortable but also painful for me.</p>
+          <p>You also told me that I would have the chance of doing two activities. I would like to go climbing, because it is something that I have been doing since I was a child, so I could consider myself an expert in it. And I would like to try golf because this is a sport that I have never <NS type="RV"><i>practised</i><c>done</c></NS> but I have always wanted to try.</p>
+          <p>Finally, I would like to enquire about how much money I should take with me and also what kind of clothes would be most suitable to wear.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>It is said that shopping is becoming a new way of life for more and more people in the developed countries. Many people <NS type="RV"><i>leave</i><c>forget</c></NS> so many other activities for the pleasure of buying as many things as they can afford. Let us then ask: 'Is this <NS type="S"><i>activitie</i><c>activity</c></NS> always enjoyable?'</p>
+          <p>Nobody can deny that the main advantage of going shopping is the fact that, to do so, you do not need to make any effort. <NS type="R">Far from the <NS type="S"><i>strengh</i><c>strength</c></NS></NS> that <NS type="RV"><i>practising</i><c>doing</c></NS> a sport or even going to work <NS type="AGV"><i>require</i><c>requires</c></NS>, going shopping is something you can do either on your own or with all your family and it could not be easier; you only need a good pair of shoes and a wallet full of money.</p>
+          <p>However, this apparently <NS type="SX"><i>quite</i><c>quiet</c></NS> and relaxed <NS type="S"><i>activitie</i><c>activity</c></NS> can sometimes turn into a living hell; you may only be able to go shopping at the weekend and then, if you do go, you will find yourself in the middle of a huge crowd of people, unable to get to any product or even shop and feeling dizzy <NS type="RT"><i>by</i><c>with</c></NS> the mixture of smells that come from the people. Nevertheless the worst will come when you lose the youngest member of your family and you have to spend the whole day looking for him/her.</p>
+          <p>On balance I would say that although it is true that shopping <NS type="UA"><i>it</i></NS> is not a difficult <NS type="S"><i>activitie</i><c>activity</c></NS>, it is also true that <NS type="MA"><c>it</c></NS> is <NS type="S"><i>definetly</i><c>definitely</c></NS> not an enjoyable one.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

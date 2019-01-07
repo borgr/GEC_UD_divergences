@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR696*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>&lt;16</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>17th December 2000</p>
+          <p>Dear Sirs,</p>
+          <p>I am writing to complain about my awful evening at the Circle Theatre. I am very disappointed.</p>
+          <p>Last week I went to see a musical show called 'OVER THE RAINBOW' at the Circle Theatre.</p>
+          <p>I was <NS type="RY"><i>first</i><c>at first</c></NS>, very excited to <NS type="TV"><i>see</i><c>be seeing</c></NS> the show, because <NS type="RT"><i>on</i><c>in</c></NS> the advertisement it said that it is the best musical in London. Also it said that I <NS type="TV"><i>can</i><c>could</c></NS> have a perfect evening <NS type="UT"><i>at</i></NS> there, but it turned out to be a very disappointing evening.</p>
+          <p>I went to see my favourite actor<NS type="MP"><c>,</c></NS> Danny Brook<NS type="MP"><c>,</c></NS> acting in the show, but he was not there. I was shocked. There was another man acting. The show started <NS type="FY"><i>late</i><c>later</c></NS> <NS type="SX"><i>then</i><c>than</c></NS> I expected. It should <NS type="RV"><i>be</i><c>run</c></NS> from <NS type="RP"><i>7,30</i><c>7.30</c></NS> p.m<NS type="MP"><c>.</c></NS>, but it <NS type="RV"><i>was</i><c>started</c></NS> <NS type="RT"><i>from</i><c>at</c></NS> 8.15 p.m.!</p>
+          <p>I want to complain about the ticket. <NS type="RT"><i>On</i><c>In</c></NS> the advertisement it said that discounts <NS type="TV"><i>are</i><c>were</c></NS> <NS type="S"><i>availble</i><c>available</c></NS>, but when I asked a <NS type="IN"><i>staff</i><c>member of staff</c></NS> in the theatre about the discount he didn't offer me one. After the show I went <NS type="MT"><c>to</c></NS> the 'THEATRE RESTAURANT' to have dinner, but the restaurant was closed. It was because they closed <NS type="FY"><i>early</i><c>earlier</c></NS> than usual. I think they should <NS type="R">keep the times correctly</NS>.</p>
+          <p>I am very disappointed with everything <NS type="RA"><i>what</i><c>that</c></NS> happened last week.</p>
+          <p>I would like a refund.</p>
+          <p>I <NS type="S"><i>excpect</i><c>expect</c></NS> this will be possible.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future by XXX 17/6/00</p>
+          <p>My article is about fashion in<NS type="UP"><i>.</i></NS> <NS type="MD"><c>the</c></NS> future</p>
+          <p>Right now in 2000 many people are wearing modern clothes<NS type="RP"><i>. Like</i><c>, like</c></NS> <NS type="UV"><i>wearing</i></NS> T-shirts, trousers, skirts, coats, long-sleeved shirts, jumpers, etc. They also wear little items on them to go with their clothes<NS type="RP"><i>. Like</i><c>, like</c></NS> <NS type="S"><i>earings</i><c>earrings</c></NS>, necklaces, bracelets, rings, glasses, <NS type="RP"><i>hairbands</i><c>hair bands</c></NS>, <NS type="RP"><i>hand bags</i><c>handbags</c></NS>, shoes, watches, etc. They like <NS type="IJ"><i>designers</i><c>designer</c></NS> clothes and everyone <NS type="AGV"><i>wear</i><c>wears</c></NS> different modern clothes <NS type="RT"><i>in</i><c>in terms of</c></NS> size, <NS type="UT"><i>in</i></NS> colour and <NS type="UT"><i>in</i></NS> <NS type="FN"><i>shapes</i><c>shape</c></NS>.</p>
+          <p>The fashion gradually changed from <NS type="R"><NS type="ID">the old days</NS></NS> and it is still changing <NS type="U"><i>to the future</i></NS>. Maybe in 100 years from now, fashion will be totally different. Everyone may think that in <NS type="MD"><c>the</c></NS> future people will wear silver clothes like in <NS type="DJ"><i>space</i><c>science-fiction</c></NS> movies.</p>
+          <p>I think everyone will wear balloons for clothes in <NS type="MD"><c>the</c></NS> future. <NS type="RP"><i>Every one</i><c>Everyone</c></NS> will wear very colourful balloons <NS type="U"><i>on them</i></NS>. With balloon clothes they will be able to fly up in the sky.</p>
+          <p><NS type="X"><i>Everyone will not walk</i><c>No one will walk</c></NS> on roads. They will <NS type="FV"><i>bounced</i><c>bounce</c></NS> on roads with <NS type="SX"><i>there</i><c>their</c></NS> balloon clothes.</p>
+          <p>In <NS type="MD"><c>the</c></NS> future they will wear balloon clothes, because <NS type="R">to make people fly</NS>. They will use a special gas inside <NS type="MD"><c>the</c></NS> balloons to make them fly.</p>
+          <p>For the special gas they will mix carbon dioxide and some chemicals. This special gas will <NS type="W"><i>be not</i><c>not be</c></NS> dangerous. If we use <NS type="UY"><i>up</i></NS> carbon dioxide <NS type="RT"><i>with</i><c>in</c></NS> <NS type="MD"><c>our</c></NS> balloon clothes there will be less carbon dioxide on Earth, so there is no worry about <NS type="R">Ozone breaking</NS>. This is one more reason to wear balloon clothes in <NS type="MD"><c>the</c></NS> future. It <NS type="TV"><i>is to save</i><c>will save</c></NS> our Earth.</p>
+          <p>Would you like to wear balloon clothes and bounce around the world?</p>
+          <p>If <NS type="R"><i>yes</i><c>so</c></NS>, wait until <NS type="MD"><c>the</c></NS> 2100s!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

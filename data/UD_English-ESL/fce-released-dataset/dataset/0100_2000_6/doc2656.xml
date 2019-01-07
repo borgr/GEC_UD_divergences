@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR773*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>41-50</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I was very pleased to learn that I had won the first prize in your competition!</p>
+          <p>To answer your questions, I'd like to travel only <NS type="RT"><i>on</i><c>in</c></NS> July, as it is the only <NS type="RN"><i>moment</i><c>time</c></NS> when I can take my holidays.</p>
+          <p>I'd prefer to sleep in tents rather than log cabins: sleeping in tents seems to correspond to a "spirit of adventure" to me, <NS type="RA"><i>what</i><c>which</c></NS> I particularly like; <NS type="DY"><i>in the opposite</i><c>in contrast</c></NS>, log cabins are more "traditional" and a less interesting experience.</p>
+          <p>I'm very interested in basketball and sailing, which are both team activities.</p>
+          <p><NS type="RC"><i>As</i><c>When</c></NS> I was a child, I was very good at basketball, <NS type="W"><i>even one of the best <NS type="RT"><i>of</i><c>in</c></NS> my class</i><c>one of the best in my class even</c></NS>. I like playing in <NS type="MD"><c>a</c></NS> team and deciding quickly what to do next. These <NS type="RN">reasons</NS> are why I'd also like <NS type="MV"><c>to go</c></NS> sailing. Sailing means an ever renewed adventure as you cannot control the <NS type="DJ"><i>atmospherical</i><c>atmospheric</c></NS> conditions. Please, don't forget to tell me how much money I need.</p>
+          <p>I <NS type="RV"><i>think</i><c>thank</c></NS> you very much in advance for your kind assistance.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>The first idea about shopping is that buying something will <NS type="RV"><i>make</i><c>be</c></NS> a pleasure <NS type="RT"><i>to</i><c>for</c></NS> the buyer and<NS type="MP"><c>,</c></NS> for that reason, will be enjoyable.</p>
+          <p>But this is not always the case: at first, you see a very pretty item which you'd like to try <NS type="MY"><c>on</c></NS>. When you ask to, the <NS type="RN"><i>seller</i><c>sales person</c></NS> <NS type="S"><i>offen</i><c>often</c></NS> answers that your size is <NS type="RJ"><i>missing</i><c>out of stock</c></NS>. <NS type="RY"><NS type="DY"><i>Hopeful</i><c>Hopefully</c></NS></NS>, you try to find the same thing in another shop. You ask the <NS type="RN"><i>seller</i><c>sales person</c></NS> for your size. His answer is: "Everything is here, Madam!" As you understand that you won't get any help, you waste your time looking for the right size.</p>
+          <p>Finally, you find the right one but you don't have enough money. <NS type="R"><i>At the time</i><c>The moment</c></NS> you realise <NS type="RA"><i>it</i><c>that</c></NS>, you also realise that the shop is closing in five minutes.</p>
+          <p>So, you run to the bank but have to wait <NS type="RT"><i>for</i><c>in</c></NS> the queue. There is only one minute left! It's your turn and you <NS type="R">do</NS> as <NS type="DY"><i>quick</i><c>quickly</c></NS> as possible. You run back to the shop and get your item. But now, you are very tired and need a good rest!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

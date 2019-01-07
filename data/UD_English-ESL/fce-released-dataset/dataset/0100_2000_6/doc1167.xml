@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR478*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to thank <NS type="MA"><c>you</c></NS> for <NS type="RV"><i>noticing</i><c>notifying</c></NS> me about the competition and I would be very <NS type="RJ">grateful</NS> <NS type="UT"><i>in</i></NS> <NS type="FV"><i>giving</i><c>to give</c></NS> to you the information <NS type="MC"><c>that</c></NS> was <NS type="RV"><i><NS type="S"><i>requiered</i><c>required</c></NS></i><c>requested</c></NS> in your letter.</p>
+          <p>I regret to inform you that I have had some problems in my full-time sales assistant job so, I would rather travel only in July than other months.</p>
+          <p>About the Accommodation<NS type="MP"><c>,</c></NS> I would like you to take careful consideration <NS type="M"><c>of the fact</c></NS> that I am <NS type="S"><i>ashmatic</i><c>asthmatic</c></NS> <NS type="RP"><i>so,</i><c>,so</c></NS> I would <NS type="S"><i>appreciatte</i><c>appreciate</c></NS> it if you could reserve a bed in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>.</p>
+          <p>Your letter also mentioned some kind of activities in which we can <NS type="RV"><i>involve</i><c>get involved</c></NS> <NS type="RT"><i>through</i><c>during</c></NS> the <NS type="RN"><i>camping</i><c>camp</c></NS>. I would like to choose painting and photography which are my <NS type="IJ"><i>favourites</i><c>favourite</c></NS> ones. I have recently finished a <NS type="MP"><i>three year</i><c>three-year</c></NS> course <NS type="RT"><i>of</i><c>in</c></NS> painting and I <NS type="TV"><i>always be</i><c>have always been</c></NS> fascinated by <NS type="UD"><i>the</i></NS> photography.</p>
+          <p><NS type="ID">On the other hand,</NS> I would also like to know <NS type="W"><i>some about</i><c>about some</c></NS> further details like <NS type="S"><i>wether</i><c>whether</c></NS> we need to bring <NS type="W"><i><NS type="R"><i>we</i><c>with</c></NS> us some clothes</i><c>some clothes with us</c></NS> or <NS type="MC"><c>whether</c></NS> <NS type="AGA"><i>it</i><c>they</c></NS> will be provided <NS type="RT"><i>to</i><c>for</c></NS> us and if we need some money in case we have to <NS type="RV"><i>afford</i><c>buy</c></NS> something.</p>
+          <p>I hope to see you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi. <NS type="L"><i>How do you do</i><c>How are you</c></NS>? You may be asking why I haven't written to you before. Well, I've been very busy<NS type="MP"><c>,</c></NS> you know. Two weeks ago I enrolled in a group to help <NS type="RT">on</NS> building a stage for a concert <NS type="R"><i>of</i><c>to be given by</c></NS> a famous singer <NS type="UN"><i>star</i></NS>.</p>
+          <p><NS type="MD"><i>Activities</i><c>The activities</c></NS> <NS type="TV"><i>lasting</i><c>lasted</c></NS> almost 2 <NS type="W"><i>days and a half</i><c>and a half days</c></NS>.</p>
+          <p>The first day we <NS type="TV"><i>have</i><c>had</c></NS> to <NS type="RV"><i>move</i><c>go</c></NS> to the airport to bring all the equipment by <NS type="FN"><i>lorries</i><c>lorry</c></NS> to the camp. It was really awful and hard. I finished the day <NS type="RY"><i>too</i><c>extremely</c></NS> tired. However, the second day was less <NS type="RJ"><NS type="FJ"><i>heavier</i><c>heavy</c></NS></NS> than the first one. We just worked <NS type="RT"><i>in</i><c>on</c></NS> building the stage and all <NS type="R"><i>those</i><c>that sort</c></NS> of thing. Putting the <NS type="FN"><i>instrument</i><c>instruments</c></NS> in the right place, testing all the <NS type="AGN"><i>microphone</i><c>microphones</c></NS> as well as the sound was the rest of the job.</p>
+          <p>At the end I must confess that it was really amazing <NS type="R">hang up and down</NS> all the equipment<NS type="MP"><c>,</c></NS> which varied from small <NS type="FN"><i>microphone</i><c>microphones</c></NS> to a marvellous huge <NS type="UJ"><i>large</i></NS> black <NS type="W"><i>screen of TV</i><c>TV screen</c></NS>.</p>
+          <p>If you <NS type="TV"><i>had</i><c>have</c></NS> this <NS type="S"><i>oportunitty</i><c>opportunity</c></NS> one day, you had better buy the ticket to the concert or just watch it on TV but never do something like <NS type="MA"><c>this</c></NS> just to get a free pass.</p>
+          <p><NS type="L">My regards</NS> to your family. Write <NS type="MT"><c>to</c></NS> me soon.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

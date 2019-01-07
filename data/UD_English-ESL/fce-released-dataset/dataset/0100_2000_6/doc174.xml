@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR686*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to say how happy I am to be able to take part <NS type="RT"><i>of</i><c>in</c></NS> "Camp California in the USA". I would like to inform you that I am able to go there only in July. I am finishing my <NS type="FN"><i>study</i><c>studies</c></NS> in June, then I have a month off (July) and on August 1st I am starting a new job.</p>
+          <p>I would prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in a tent during your camp. I have always dreamt about sleeping in a tent, in sleeping bags, but my <NS type="FN"><i>parent</i><c>parents</c></NS> always took me to expensive hotels, so it would be a nice adventure for me.</p>
+          <p>During the camp I would like to <NS type="S"><i>pratise</i><c>practise</c></NS> my swimming (I have attended swimming lessons for 3 years) and also I would like to learn how to <NS type="RV"><i>do</i><c>take</c></NS> some good photos. (I have no experience!)</p>
+          <p>I would be really glad if you could tell me something about clothes I should bring with me. (Do I need any special garments?) and could you tell me please, if I need some extra money to pay for anything like trips or photo-paper.</p>
+          <p>I am looking forward to hearing from you</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Shopping could be fun! Sometimes I like doing it during long Sundays. I like going between colourful <NS type="IN"><i>shelfs</i><c>shelves</c></NS> and picking some nice things for dinner or for decorating our house with. I love talking with my mum during shopping, meeting new people or old friends.</p>
+          <p>Sometimes<NS type="MP"><c>,</c></NS> <NS type="DY"><i>unfortunatelly</i><c>unfortunately</c></NS> shopping <NS type="TV"><i>could</i><c>can</c></NS> be very annoying, especially at <NS type="S"><i>Christmast</i><c>Christmas</c></NS> or Easter time. Then, all shops and supermarkets are crowded. People are trying to buy as many things as they can, and everyone wants to be first to the check-out - you have to wait ages to get there! People are pushing each other, they are not as kind as <NS type="DJ"><i>usually</i><c>usual</c></NS>. You have to be more careful and hold your bag tightly because this is a good period for all thieves (they know they can steal something without having been seen!) At Christmas or Easter time all shops <NS type="W"><i>have usually</i><c>usually have</c></NS> an unpleasant smell (because of the crowd) and are very noisy!</p>
+          <p>Another period when I don't like doing shopping is when there is a huge sale! I always go absolutely crazy when I have to do shopping then! You cannot <NS type="DN"><i>breath</i><c>breathe</c></NS>, you cannot see anything apart from a bulk of shouting women and men who want to get something cheaper!</p>
+          <p>Next, <NS type="MD"><c>another</c></NS> not very enjoyable thing about shopping is spending money! When I go to the big supermarkets I always spend more than I was going to. You just cannot <NS type="RV"><i>refuse</i><c>resist</c></NS> buying another bottle of body lotion or another box of soap because they smell so nice can you?! I always become very angry with myself afterwards, but I cannot help it.</p>
+          <p>In my opinion, shopping could be really enjoyable! The only advice would be: "Do not do your shopping at <NS type="S"><i>Christmast</i><c>Christmas</c></NS> or Easter time" - but it will not make any sense, will it? So you just have to get used to it, and enjoy your shopping for the rest <NS type="UN"><i>time</i></NS> of the year!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

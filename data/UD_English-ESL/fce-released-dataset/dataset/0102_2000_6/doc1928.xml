@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR741*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to you to complain about the musical show "Over the Rainbow"<NS type="MP"><c>,</c></NS> which I went to see last week.</p>
+          <p>First of all, the actors that played <NS type="MT"><c>in</c></NS> the show were <NS type="IJ"><i>differents</i><c>different</c></NS> to Danny Brook and Tina Truelove. Besides <NS type="UT"><i>of</i></NS> this they were not good <NS type="UT"><i>as</i></NS> actors, so I am quite disappointed.</p>
+          <p>Then, the show <NS type="RV"><i>had</i><c>was meant</c></NS> to start at half past seven and I had to wait <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes because it started <NS type="FY"><i>later</i><c>late</c></NS>. But <NS type="RA"><i>it</i><c>that</c></NS> is not all because in the advertisement <NS type="MA"><c>it</c></NS> appeared <NS type="R"><i>the possibility of</i><c>that</c></NS> discounts <NS type="MV"><c>were</c></NS> available and <NS type="RA"><i>it</i><c>that</c></NS> is false<NS type="RP"><i>,</i><c>;</c></NS> I had to pay £20 for each ticket.</p>
+          <p>Finally, I wanted to visit your theatre restaurant and have a good dinner after the show but it was impossible. The restaurant was closed because most of the employees <NS type="AGV"><i>was</i><c>were</c></NS> on <NS type="FN"><i>holidays</i><c>holiday</c></NS> and there were not enough people to <NS type="RV"><i>attend</i><c>meet</c></NS> the demand.</p>
+          <p>In conclusion, it was not the perfect evening that I expected, so I am therefore writing to ask for a full refund <NS type="RT"><i>of</i><c>on</c></NS> the tickets. I will be looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, and now my best friend knows that I will go to visit her next week.</p>
+          <p>Alice is my best friend and we met twenty years ago. We went to the same school and we had the same hobbies. It was perfect because we <NS type="W"><i>always were</i><c>were always</c></NS> together and doing interesting activities like <NS type="RN"><i>snow board</i><c>snowboarding</c></NS>.</p>
+          <p>One day her mother died and she had to move to Germany where her sister was living. But she was very sad because she knew that it <NS type="TV"><i>will</i><c>would</c></NS> be very difficult <NS type="M"><c>for us</c></NS> to see <NS type="RP"><i>eachother</i><c>each other</c></NS> in the future.</p>
+          <p>After that, we wrote letters and she phoned me once <NS type="UN"><i>time</i></NS> a week but it wasn't the same. I couldn't explain all my problems to her and her voice had changed.</p>
+          <p>Finally, I decided to visit her but I wanted <NS type="UC"><i>that</i></NS> it <NS type="FV"><i>was</i><c>to be</c></NS> a surprise. I worked hard <NS type="RT"><i>during</i><c>for</c></NS> one month <NS type="RC"><i>and</i><c>so</c></NS> I could save <NS type="MD"><c>the</c></NS> money to buy a <NS type="RN"><i>ticket for the plane</i><c>plane ticket</c></NS>.</p>
+          <p>I decided to explain all my plans to Pat and she promised me that she <NS type="RV"><i>didn't</i><c>wouldn't</c></NS> say anything but it wasn't true. Yesterday she phoned <NS type="UT"><i>to</i></NS> Alice and explained <NS type="RA"><i>all</i><c>everything</c></NS>. In spite of this I am very happy because I know that Alice is preparing many activities <NS type="M"><c>for us</c></NS> to do together <NS type="RC"><i>and</i><c>so</c></NS> <NS type="MA"><c>we</c></NS> <NS type="RV"><i><NS type="TV"><i>to spend</i><c>spend</c></NS></i><c>have</c></NS> the best week <NS type="RT"><i>in</i><c>of</c></NS> our <NS type="IN"><i>lifes</i><c>lives</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

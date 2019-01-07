@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR979*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm writing to you inform you about the <NS type="S"><i>dissapointing</i><c>disappointing</c></NS> evening I had when I went to your <NS type="S"><i>theather</i><c>theatre</c></NS> to see the play called "OVER THE RAINBOW". According to the advertisement you <NS type="RV"><i>gave</i><c>published</c></NS>, there <NS type="MV"><c>should</c></NS> have been some important <NS type="S"><i>differents</i><c>differences</c></NS> <NS type="M"><c>to the production I saw</c></NS>.</p>
+          <p>Firstly, the play started almost an hour late, and I went there to see Danny Brook, but there was a different actor on stage.</p>
+          <p>Secondly, in the advertisement <NS type="R"><i>the</i><c>it said that</c></NS> discounts <NS type="TV"><i>are</i><c>were</c></NS> available but <NS type="AS"><i>in the tickets I bought they <NS type="AGV"><i>were</i><c>was</c></NS> no discount</i><c>there was no discount on the tickets I bought</c></NS>. Furthermore, I had planned to have a great dinner with my family in your restaurant and it was closed because the people who work <NS type="R"><i>in</i><c>there</c></NS> were on <NS type="FN"><i>holidays</i><c>holiday</c></NS>. In addition to this, I have to tell you that it was the most horrible evening I <NS type="TV"><i>had</i><c>have had</c></NS> <NS type="UY"><i>out</i></NS> and because of this I want to ask you if you could send me a <NS type="SX"><i>refound</i><c>refund</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> <NS type="UD"><i>a</i></NS> part of the money I wasted there. I would be grateful if you <NS type="MV"><c>could</c></NS> do <NS type="RA"><i>it</i><c>that</c></NS>.</p>
+          <p>Finally, I want to tell you that it is not useful for you and your <NS type="S"><i>theather</i><c>theatre</c></NS> to cheat <NS type="UT"><i>to</i></NS> your customers. If you do <NS type="RA"><i>it</i><c>that</c></NS>, there will be no <NS type="S"><i>bussiness</i><c>business</c></NS> for you and no satisfaction for them.</p>
+          <p>I look <NS type="S"><i>fordwad</i><c>forward</c></NS> to hearing from you</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>How has modern technology <NS type="TV"><i>change</i><c>changed</c></NS> my daily life?</p>
+          <p>Nowadays, technology is the most useful tool that human beings have. It affects everyone who <NS type="AGV"><i>live</i><c>lives</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> this planet and every activity <NS type="RV"><i>made</i><c>done</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> it.</p>
+          <p>In this <NS type="RN"><i>case</i><c>instance</c></NS> we are going to focus on me<NS type="RP"><i>.</i><c>:</c></NS> Emilio Almodar, 18 years old, University Student, and the career I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> is <NS type="MT"><c>in</c></NS> <NS type="S"><i>Internacional</i><c>International</c></NS> Commerce or <NS type="RN">Market</NS>. I use technology every <NS type="RN"><i>moment</i><c>minute</c></NS> but I did not realise. For example, when I come back home from university and I call my friends, I am using it because at home we have very modern phones and <NS type="MD"><c>a</c></NS> fax <NS type="MN"><c>machine</c></NS> and almost everybody in my family has a cellular phone and <NS type="AGN"><i>thing</i><c>things</c></NS> like that.</p>
+          <p>We also have five <NS type="AGN"><i>computer</i><c>computers</c></NS>, the latest <NS type="R"><i>versions of them</i><c>models</c></NS>, because they are useful for my father to work <NS type="MT"><c>on</c></NS> and for me to do some special <NS type="RN"><i>works</i><c>projects</c></NS> for University. <NS type="AGD"><i>This</i><c>These</c></NS> machines are connected to <NS type="MD"><c>the</c></NS> Internet, and <NS type="RA"><i>it</i><c>that</c></NS> gives <NS type="UT"><i>to</i></NS> my family too much <NS type="RN"><i>facility</i><c>access</c></NS> <NS type="UV"><i>to get</i></NS> <NS type="MT"><c>to</c></NS> <NS type="RQ"><i>every</i><c>all</c></NS> <NS type="MD"><c>the</c></NS> information we want, from how to prepare <NS type="R"><i><NS type="SX"><i>son</i><c>some</c></NS></i><c>a</c></NS> drink to what was the result of <NS type="UD"><i>the</i></NS> Sunday's football match. In addition to this we use the net to <NS type="S"><i>comunicate</i><c>communicate</c></NS> with some friends we have in <NS type="MD"><c>the</c></NS> U.S.A. It's really amazing.</p>
+          <p>Apart from this, I don't spent my free time <NS type="R"><i>in</i><c>using</c></NS> technology. I prefer playing rugby and going out with friends, because technology is not all <NS type="MT"><c>of</c></NS> life, but it is only a little part of it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

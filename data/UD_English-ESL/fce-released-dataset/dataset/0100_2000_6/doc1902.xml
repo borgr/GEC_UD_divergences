@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR731*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>Thank you very much for your letter. I am glad to be informed that I have won first prize in your competition. I am now <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to give you further information about myself <NS type="ID">with pleasure</NS>.</p>
+          <p>Firstly, the date I would like to travel on would only be in July. Since I am a full-time student, I will not have finished my lessons until the end of June. In addition, I will be busy with my <NS type="S"><i>cousework</i><c>course work</c></NS> in August.</p>
+          <p>Regarding <NS type="UT"><i>to</i></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would prefer to stay in tents because I think it will be closer to <NS type="UD"><i>the</i></NS> nature. I am sure I will have a lot of fun and release myself from <NS type="R">the busy study</NS> totally.</p>
+          <p>I am pretty good at painting. I have won several prizes in the competitions which were held by my college. On the other hand, I started to play tennis at the age of six. Tennis is my <NS type="S"><i>favourate</i><c>favourite</c></NS> <NS type="UJ"><i>sports</i></NS> <NS type="RN"><i><NS type="S"><i>evant</i><c>event</c></NS></i><c>sport</c></NS>. So I would like to <NS type="RV"><i>choose</i><c>do</c></NS> these two activities while I am at the Camp.</p>
+          <p>Lastly, I have some questions to ask you. Since I have never been to <NS type="MD"><c>the</c></NS> U.S.A, I know nothing about it. Would you like to tell me how much <NS type="MA"><c>I</c></NS> should <NS type="FV"><i>be taken</i><c>take</c></NS> with me as pocket money and what <NS type="RV"><i>shall</i><c>should</c></NS> I wear at that time <NS type="M"><c>of year</c></NS>?</p>
+          <p> I will be grateful for your help. I am looking forward to hearing from you.</p>
+          <p>Best wishes.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Shopping<NS type="UP"><i>,</i></NS> is becoming a popular way of killing time <NS type="S"><i>nowdays</i><c>nowadays</c></NS>. In some <NS type="RP"><i>peoples'</i><c>people's</c></NS> opinion, shopping and spending money is a kind of <NS type="RN"><i>fun</i><c>amusement</c></NS> and they can even get <NS type="RN"><i>self-satisfaction</i><c>satisfaction</c></NS> from it.</p>
+          <p>However, more and more people are now asking, "Is shopping always so enjoyable?" In my view, the answer is, NO.</p>
+          <p>Firstly, since more and more people go shopping, shops are always so crowded, especially the popular ones. Try to imagine the <NS type="S"><i>scence</i><c>scene</c></NS>: twenty or thirty or even more people are <NS type="R"><i>keeping</i><c>in</c></NS> a <NS type="S"><i>quel</i><c>queue</c></NS> outside the fitting room. Would you say that shopping is enjoyable? Would you be patient enough to wait for half an hour or more just because you <NS type="L"><i>wanna buy</i><c>want to buy</c></NS> a T-shirt?</p>
+          <p>Secondly, the cost is also a problem. It <NS type="TV"><i>will be</i><c>is</c></NS> <NS type="W"><i>really an</i><c>a really</c></NS> annoying thing when you are keen on something but you can't afford it. One of my <NS type="AGN"><i>friend</i><c>friends</c></NS>, Emma, happened to see a fantastic jacket which costs £105. Then she spent all her spare time doing part-time jobs to earn money. After a week, she had got enough money and rushed to that shop. But it was just not there! She felt really <NS type="DJ"><i>badly</i><c>bad</c></NS> after that. So, would you still say that shopping is enjoyable?</p>
+          <p>More and more people find that there are a lot of nicer things they can do rather than shopping. Shopping is not always enjoyable. Sometimes it can be a waste of time. So, let's have a new <NS type="RP"><i>life style</i><c>lifestyle</c></NS> in this new generation!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

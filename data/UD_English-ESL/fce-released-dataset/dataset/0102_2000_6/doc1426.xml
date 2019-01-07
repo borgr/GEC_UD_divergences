@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR56*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to express my annoyance at your musical show<NS type="MP"><c>,</c></NS> which happened to be <NS type="R">inaccurate at the leaflet given</NS>.</p>
+          <p>Your advertisement mentioned that the famous Danny Brook would play in this show but disappointingly it was another, <NS type="DJ"><i>unkown</i><c>unknown</c></NS> actor who starred instead of him.</p>
+          <p>Another point which caused some <NS type="RN">inconveniences</NS> was the <NS type="W"><i>timetable of the show</i><c>show's timetable</c></NS>. It began 45 minutes later than it should have <NS type="UV"><i>been</i></NS>.</p>
+          <p>Notwithstanding the fact that I could have expected a discount <NS type="RT"><i>for</i><c>on</c></NS> my ticket, it <NS type="RV"><i><NS type="IV"><i>occuried</i><c>occurred</c></NS></i><c>happened</c></NS> to be impossible to <NS type="RV"><i>have</i><c>get</c></NS> one.</p>
+          <p>Although your leaflet suggested that your theatre restaurant would be open <NS type="RA"><i>it</i><c>that</c></NS> was not the case because of a lack of available staff.</p>
+          <p>All those <NS type="S"><i>innacuracies</i><c>inaccuracies</c></NS> spoilt what should have been a <NS type="DJ"><i>memoriable</i><c>memorable</c></NS> evening so I would like to be refunded at least for the price of my ticket.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>T. Gens</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Of course, it was my fault. I should have known better but I had to tell <NS type="UA"><i>it</i></NS> <NS type="UT"><i>to</i></NS> someone. It was far too <NS type="RJ"><i>heavy</i><c>hard</c></NS> to keep it <NS type="RT"><i>for</i><c>to</c></NS> myself. So I made a mistake and I told her.</p>
+          <p>The day after, at school, I noticed that everyone was looking at me. I immediately knew that something was wrong so I had a word with Pat. She denied having revealed my secret but she was <NS type="RV"><i>averting</i><c>avoiding</c></NS> my eyes.</p>
+          <p>From this moment, I knew without the shadow of a doubt that my mother would know <NS type="MT"><c>about</c></NS> it sooner or later. It was only a question of hours before my life would collapse. I tried to <NS type="ID"><i>take it on my stride</i><c>take it in my stride</c></NS> but I couldn't. I was terrified.</p>
+          <p>My fear turned out to be <NS type="RJ"><i>right</i><c>justified</c></NS>. I read the hurt in her eyes. She knew. She knew that I had bought my first bra without having asked her for advice <NS type="RY"><i>before</i><c>beforehand</c></NS> <NS type="UA"><i>it</i></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

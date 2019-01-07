@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR317*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you to complain about the musical show "Over the Rainbow".</p>
+          <p>I have recently been <NS type="RT"><i>in</i><c>to</c></NS> London for <NS type="UV"><i>spending</i></NS> a week's holiday. As I am <NS type="FD"><i>an</i><c>a</c></NS> <NS type="RN"><i><NS type="DN"><i>enthusiasmic</i><c>enthusiast</c></NS></i><c>fan</c></NS> of musicals I went to see this <NS type="UJ"><i>musical</i></NS> show.</p>
+          <p>I am very disappointed because the things that were <NS type="IV"><i>writen</i><c>written</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> were not really true.</p>
+          <p>It was <NS type="IV"><i>writen</i><c>written</c></NS> that the stars would be Danny Brook and Tina Truelove. Danny Brook is one of my <NS type="SA"><i>favorite</i><c>favourite</c></NS> actors and there <NS type="RV"><i>was playing</i><c>appeared</c></NS> <NS type="R"><i>another</i><c>a different</c></NS> one. I felt <NS type="RY"><i><NS type="DY"><i>abosolutly</i><c>absolutely</c></NS></i><c>very</c></NS> <NS type="S"><i>disapointed</i><c>disappointed</c></NS>.</p>
+          <p>The musical should have begun at 19:30, but it started at 20:15; <NS type="RA"><i>it</i><c>this</c></NS> is <NS type="DJ"><i>inacceptable</i><c>unacceptable</c></NS>!</p>
+          <p>It was <NS type="W"><i><NS type="IV"><i>writen</i><c>written</c></NS> <NS type="RY"><i>too</i><c>also</c></NS></i><c>also written</c></NS> that there were discounts available and I asked <NS type="RT"><i>for</i><c>about</c></NS> them and they said <NS type="UA"><i>me</i></NS> that they weren't <NS type="TV"><i>allow</i><c>allowed</c></NS> to <NS type="RV"><i>do</i><c>give</c></NS> any discount. After the show me and my friends wanted to have a drink and the theatre restaurant was closed because there weren't enough drinks.</p>
+          <p>As you say in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS><NS type="MP"><c>,</c></NS> it was not my perfect evening out and therefore I would like to have my money back.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>Ms MARIA AROZ</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed our daily <NS type="FN"><i>life</i><c>lives</c></NS>?</p>
+          <p>Modern technology has changed <NS type="W"><i>a lot our daily <NS type="FN"><i>life</i><c>lives</c></NS></i><c>our daily lives a lot</c></NS>.</p>
+          <p><NS type="ID"><i>On one hand</i><c>On the one hand</c></NS><NS type="MP"><c>,</c></NS> nowadays if we have to travel to Paris and return <NS type="RT"><i>in</i><c>on</c></NS> the same day you can take a plane without any problem. In the past it was impossible to go to Paris from Barcelona and come back in one day.</p>
+          <p>Another advantage is that if you go on an excursion and you take your mobile phone, if you get lost somebody <NS type="TV"><i>could</i><c>can</c></NS> find you.</p>
+          <p>I think that the most important <NS type="MQ"><c>piece of</c></NS> modern technology <NS type="UT"><i>in</i></NS> these days is <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. With <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> you can do whatever you want without going out <NS type="UN"><i>home</i></NS> (<NS type="S"><i>shoping</i><c>shopping</c></NS>, speaking with a friend, working, putting your money aside....)</p>
+          <p>On the other hand<NS type="MP"><c>,</c></NS> the main disadvantage is that using modern machines <NS type="UA"><i>it</i></NS> can be very difficult for <NS type="S"><i>ederly</i><c>elderly</c></NS> people; it would be very <NS type="S">pratitable</NS> if the modern industries <NS type="TV"><i>train</i><c>trained</c></NS> people <NS type="UT"><i>about</i></NS> <NS type="FV"><i>using</i><c>to use</c></NS> modern technologies.</p>
+          <p>To sum up<NS type="MP"><c>,</c></NS> modern technology has <NS type="TV"><i>change</i><c>changed</c></NS> <NS type="W"><i>a lot our daily <NS type="AGN"><i>life</i><c>lives</c></NS></i><c>our daily lives a lot</c></NS> and this is going to <NS type="RV"><i>increase</i><c>continue</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

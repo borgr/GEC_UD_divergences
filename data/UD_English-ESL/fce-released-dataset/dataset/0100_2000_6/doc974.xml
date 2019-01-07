@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR408*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan;</p>
+          <p>I <NS type="S"><i>recieved</i><c>received</c></NS> your <NS type="R"><i>congratulations letter</i><c>letter congratulating me</c></NS> for having won the first prize in your competition. I am very <NS type="S"><i>greatfull</i><c>grateful</c></NS> and I want to thank you very much for letting me <NS type="RV"><i>do</i><c>go on</c></NS> this trip.</p>
+          <p>I think it is very kind of <NS type="IA"><i>yous</i><c>you</c></NS> to ask me what my preferences are <NS type="RT"><i>for</i><c>regarding</c></NS> the trip. I ought to let you know that I can only travel <NS type="MT"><c>in</c></NS> the second week of July, because that is when my winter holidays <NS type="AGV"><i>starts</i><c>start</c></NS>. <NS type="FV"><i>Answering</i><c>To answer</c></NS> another of your questions, I am more likely <NS type="MV"><c>to want</c></NS> to stay in a log cabin<NS type="MP"><c>,</c></NS> considering that I will be <NS type="SX"><i>to</i><c>two</c></NS> weeks in the camp. They are much more <NS type="S"><i>confortable</i><c>comfortable</c></NS> than tents.</p>
+          <p>While I am at the camp I would love sailing and climbing. I have not done <NS type="R"><i>any</i><c>either</c></NS> of these activities before, but now that I have the chance I want to take advantage of it. I would be very glad if you could let me know what kind of clothes <NS type="W"><i>should I</i><c>I should</c></NS> take, and how much money <NS type="UV"><i>do</i></NS> you think I will need to bring with me.</p>
+          <p>I want to thank you again for letting me have this unique experience. Looking forward to hearing from you soon.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim; How are you? <NS type="RA"><i>I's</i><c>It's</c></NS> been a long time since I last wrote to you. Anyways, do you remember my last e-mail, where I told you that I was going to help at a Pop Concert. Well, I'm going to tell you about that awesome experience. The band played at my school so we could raise money for our graduation trip. I asked them if they could play at our school and they told me it would be 350 pounds. "The Moicznos" are so popular that we sold <NS type="UD"><i>our</i></NS> every ticket and <NS type="TV"><i>end</i><c>ended</c></NS> up <NS type="RV"><i><NS type="IV"><i>wining</i><c>winning</c></NS></i><c>making</c></NS> 2000 pounds. <NS type="S"><i>Appart</i><c>Apart</c></NS> from calling them, I also helped <NS type="FV"><i>building</i><c>build</c></NS> <NS type="UY"><i>up</i></NS> the stage, and took care of the lights. After the concert the whole class helped <NS type="FV"><i>cleaning</i><c>clean</c></NS> up the mess the people left. I can tell you that it was a <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS> experience. What I liked the most about it is not the fact that we raised a lot of money, but that we enjoyed <NS type="UT"><i>of</i></NS> an amazing show in which I took <NS type="MD"><c>an</c></NS> active part. The band thanked me very much for calling them and having everything so well organized. I hope you liked reading my story. Hope to hear from you soon. Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

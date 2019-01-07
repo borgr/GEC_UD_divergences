@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR62*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Ryan,</p>
+          <p>I received your letter and I am very glad I have won a <NS type="DJ"><i>two weeks</i><c>two-week</c></NS> <NS type="RN"><i>travel</i><c>trip</c></NS> to Camp California. I will give you some information which <NS type="TV"><i>helps</i><c>will help</c></NS> you to know me better.</p>
+          <p>I would like to travel to <NS type="MD"><c>the</c></NS> camp in July because this is the best time for me and I hope for you. I will be very busy in June so let me tell you some details about my <NS type="RN"><i>travel</i><c>trip</c></NS>. <NS type="L"><i>About</i><c>Regarding</c></NS> accommodation, I think tents would be great.</p>
+          <p>Basketball and swimming I think are the best for the children. Basketball will help <NS type="MD"><c>the</c></NS> children to build team <NS type="RN"><i>character</i><c>spirit</c></NS> and leadership <NS type="MN"><c>skills</c></NS>. And swimming is very good for <NS type="MD"><c>their</c></NS> health. I swim really <NS type="DY"><i>good</i><c>well</c></NS> and I am a <NS type="S"><i>proffesional</i><c>professional</c></NS> basketball player. I <NS type="RV">count on</NS> my experience.</p>
+          <p>And there are <NS type="MD"><c>a</c></NS> few questions I would like to ask. First, what clothes should I take with me<NS type="RP"><i>, secondly.</i><c>? Secondly,</c></NS> how much money and <NS type="M"><c>should I pay</c></NS> by cash or by <NS type="DN">travel cards</NS><NS type="RP"><i>.</i><c>?</c></NS> Thanks!</p>
+          <p>I am looking forward to our meeting.</p>
+          <p>Yours sincerely,</p>
+          <p>Vasiliy Alekseyev.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Last month I enjoyed helping at <NS type="MD"><c>the</c></NS> concert of "Modern Talking'' and now I want to share with you <NS type="UT"><i>about</i></NS> my experience.</p>
+          <p>It all started when one of the organizers asked me to help him at a concert of my <NS type="SA"><i>favorite</i><c>favourite</c></NS> band. And what do you think I answered? Of course, yes!</p>
+          <p>I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="RV"><i>got</i><c>taken on</c></NS> very <NS type="RJ"><i>responsible</i><c>demanding</c></NS> work<NS type="MP"><c>.</c></NS> I had to bring food for Peter Bolen and Tomas Anders. Can you imagine? I <NS type="RV"><i>came</i><c>went</c></NS> into their room and <NS type="TV"><i>give</i><c>gave</c></NS> hot Cheeseburgers, Coca-Cola and ice-cream to Peter. It was the happiest moment of my life. He asked me <NS type="AS"><i>was the cheeseburger hot</i><c>whether the cheeseburger was hot</c></NS> and I answered that it was. I was very nervous talking with him. He told me about <NS type="MD"><c>a</c></NS> concert programme and gave me his photo with <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RN"><i>sign</i><c>autograph</c></NS>.</p>
+          <p>I will never forget that summer day. It was my day, I am sure about it.</p>
+          <p>Well, I think that is all. See you.</p>
+          <p><NS type="L"><i>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></i><c>All the best</c></NS>,</p>
+          <p>Vasiliy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

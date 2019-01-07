@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1098*0100*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I have won the first prize! I am <NS type="DY"><i>extremly</i><c>extremely</c></NS> happy about this. I am writing because of <NS type="SX"><i>same</i><c>some</c></NS> information that you need.</p>
+          <p>I <NS type="RV"><i>have</i><c>can</c></NS> only <NS type="U"><i>the possibility</i></NS> <NS type="FV"><i>to take</i><c>take</c></NS> <NS type="MD"><c>a</c></NS> holiday in July because I am going to start a new <NS type="RN">education</NS> at the <NS type="S"><i>beginn</i><c>beginning</c></NS> of August.</p>
+          <p>Of course I would like to stay in a tent. When I was a child we <NS type="TV"><i>were often camping</i><c>often camped</c></NS>. <NS type="FV"><i>To stay</i><c>Staying</c></NS> in a tent will remind <NS type="DA"><i>my</i><c>me</c></NS> of <NS type="FD"><i>a</i><c>an</c></NS> <NS type="S"><i>unforgottable</i><c>unforgettable</c></NS> time.</p>
+          <p>There are a lot of interesting activities and <NS type="RA"><i>it</i><c>that</c></NS> makes <NS type="MA"><c>it</c></NS> hard to choose only two. Given the circumstances<NS type="MP"><c>,</c></NS> I would like to learn more about <NS type="RP"><i><NS type="S"><i>Photograhy</i><c>Photography</c></NS></i><c>photography</c></NS> and <NS type="RP"><i>Painting</i><c>painting</c></NS>. I have <NS type="SX"><i>same</i><c>some</c></NS> skills in <NS type="W"><i>drawing landscape</i><c>landscape drawing</c></NS> but I have no idea about photography. Taking <NS type="FN"><i>picture</i><c>pictures</c></NS> is a new experience for me.</p>
+          <p>I have never been <NS type="R"><i>I</i><c>to</c></NS> California. How is the weather there in July? What kind of clothes would you recommend taking with me? Is it possible to pay by credit card or should I <NS type="UV"><i>prefer</i></NS> <NS type="FV"><i>to take</i><c>take</c></NS> <NS type="FN"><i>traveller</i><c>travellers'</c></NS> <NS type="S"><i>queckes</i><c>cheques</c></NS>?</p>
+          <p>I am glad to hear from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+          <p>Artemis</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Hi Kim,</p>
+          <p>How are you doing? I couldn't write <NS type="MT"><c>to</c></NS> you because I was very busy.</p>
+          <p>Last month I enjoyed helping at a pop concert in my town. I applied for a job at the ticket office because I <NS type="IV"><i>hopped</i><c>hoped</c></NS> to see a lot of <NS type="S"><i>diffrent</i><c>different</c></NS> people. You know everybody has to cross this spot!</p>
+          <p>Given the circumstances<NS type="MP"><c>,</c></NS> they asked <NS type="DA"><i>my</i><c>me</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>helping</i><c>to help</c></NS> in the kitchen. You can imagine how disappointed I was. But it turned out <NS type="R"><i>as</i><c>to be</c></NS> a <NS type="RJ"><i>funny</i><c>fun</c></NS> and interesting job. I had to prepare the <NS type="S"><i>ingredians</i><c>ingredients</c></NS> for every meal. <NS type="RA"><i>It</i><c>That</c></NS> <NS type="TV"><i>means</i><c>meant</c></NS> I had to read the <NS type="S"><i>recipies</i><c>recipes</c></NS> very carefully. And I had to <NS type="RV"><i><NS type="S"><i>controll</i><c>control</c></NS></i><c>check</c></NS> that nothing <NS type="TV"><i>will be</i><c>was</c></NS> missed. The best thing was that I <NS type="RV"><i><NS type="S"><i>learnd</i><c>learned</c></NS></i><c>got</c></NS> a lot of new cooking ideas and I could observe new cooking tricks. <NS type="U"><i>On the other hand</i></NS> I had a lot to do and I was never bored. The people were all really funny and we were a good team. The time <NS type="RV"><i>was</i><c>went</c></NS> quickly <NS type="UJ"><i>over</i></NS> and it was a great experience.</p>
+          <p>And what about you? I am interested to hear about your new dog? Warm <NS type="S"><i>whishes</i><c>wishes</c></NS></p>
+          <p>Your friend,</p>
+          <p>Artemis</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

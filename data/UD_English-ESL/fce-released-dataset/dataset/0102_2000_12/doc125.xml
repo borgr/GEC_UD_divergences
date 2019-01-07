@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR517*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>International Arts Festival</p>
+          <p>Dear Jane Clark,</p>
+          <p>I am writing to you <NS type="RT"><i>for</i><c>about</c></NS> <NS type="U"><i>your advertisement for</i></NS> the festival.</p>
+          <p>I am <NS type="MD"><c>a</c></NS> student at London College <NS type="UC"><i>and</i></NS> studying English. I have always been <NS type="S"><i>interesed</i><c>interested</c></NS><NS type="MT"><c>in</c></NS> arts and festivals. It was great that you organised <NS type="MD"><c>the</c></NS> <NS type="FN"><i>Art</i><c>Arts</c></NS> Festival in this <NS type="RP"><i>City</i><c>city</c></NS>, because people <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="TV"><i>needed</i><c>need</c></NS> this kind of <NS type="S"><i>sochibal</i><c>social</c></NS> <NS type="FN"><i>activities</i><c>activity</c></NS> here.</p>
+          <p>I <NS type="TV"><i>have spent</i><c>spent</c></NS> two days at the International Arts Festival with some of my <NS type="AGN"><i>friend</i><c>friends</c></NS> and I must say we <NS type="MV"><c>were</c></NS> <NS type="DY"><i>realy</i><c>really</c></NS> delighted, it was <NS type="MD"><c>a</c></NS> great idea to do that in London.</p>
+          <p>We all liked <NS type="MD"><c>the</c></NS> <NS type="RP"><i>Jazz</i><c>jazz</c></NS>, rock and classical concerts. However<NS type="MP"><c>,</c></NS> <NS type="MD"><c>the</c></NS> concert halls were too small and lots of people couldn't get <NS type="RP"><i>in to</i><c>into</c></NS> <NS type="MD"><c>the</c></NS> concert halls and there were <NS type="W"><i>only six countries stars and artists</i><c>stars and artists <NS type="MT"><c>from</c></NS> only six countries</c></NS>.</p>
+          <p>I believe <NS type="MA"><c>there</c></NS> <NS type="W"><i>plays and films should be more</i><c>should be more plays and films</c></NS> <NS type="U"><i>than it was for</i></NS> next year and <NS type="MD"><c>the</c></NS> stars and artists should be from <NS type="RT"><i>round</i><c>around</c></NS> the world.</p>
+          <p>One <NS type="MP"><i>reasonably priced</i><c>reasonably-priced</c></NS> <NS type="R">weeker</NS> ticket for all events was excellent because <NS type="MP"><i>its</i><c>it's</c></NS> <NS type="S"><i>alway</i><c>always</c></NS> busy <NS type="RT"><i>for</i><c>at</c></NS> the weekend and people prefer to go any <NS type="RP"><i>week day</i><c>weekday</c></NS>.</p>
+          <p>I hope<NS type="UP"><i>,</i></NS> you will <NS type="S"><i>concider</i><c>consider</c></NS> <NS type="UT"><i>about</i></NS> my opinions and <NS type="MC"><c>that</c></NS> my suggestions <NS type="TV"><i>would</i><c>will</c></NS> be helpful for <NS type="UD"><i>the</i></NS> next year.</p>
+          <p><NS type="MA"><i>Look</i><c>I look</c></NS> forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Freddie</p>
+          <p>I received your letter just this morning. It was very nice to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you.</p>
+          <p>We never like rules, do we? However there are lots of rules in our lives, both at home and at school.</p>
+          <p>In my <NS type="MP"><i><NS type="FN"><i>countries</i><c>country</c></NS></i><c>country's</c></NS> <NS type="FN"><i>school</i><c>schools</c></NS> we are not allowed to have an argument with <NS type="UP"><i>class-mates</i><c>classmates</c></NS> and <NS type="MV"><c>are</c></NS> not allowed to eat <NS type="RT"><i>at</i><c>in</c></NS> class. We can't listen <NS type="MT"><c>to</c></NS> music <NS type="RT"><i>at</i><c>in</c></NS> class <NS type="RY"><i>as well</i><c>either</c></NS>. We <NS type="S"><i>alway</i><c>always</c></NS> have to keep <NS type="W"><i>clean <NS type="RP"><i>every where</i><c>everywhere</c></NS></i><c>everywhere clean</c></NS>, but <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="FN"><i>kind</i><c>kinds</c></NS> of rules are not very strict I believe.</p>
+          <p>At home <NS type="MA"><c>it</c></NS> is completely different, my mum is quite organised, so she <NS type="TV"><i>always <NS type="RV"><i>puts</i><c>makes</c></NS></i><c>is always making</c></NS> new rules.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> <NS type="RP"><i>I've</i><c>I have</c></NS> to keep <NS type="W"><i>clean my room</i><c>my room clean</c></NS> and hoover once a week. <NS type="RP"><i>I've</i><c>I have</c></NS> to cook <NS type="UA"><i>myself</i></NS> and <NS type="MD"><c>the</c></NS> worst thing is I'm not allowed to listen <NS type="MT"><c>to</c></NS> loud music <NS type="UT"><i>in</i></NS> <NS type="RY"><i>everywhere</i><c>anywhere</c></NS> at home. I'm not allowed to stay out after midnight.</p>
+          <p>When I <NS type="S"><i>groue</i><c>grow</c></NS> up I'll change all <NS type="MD"><c>the</c></NS> rules in my life and I'll make my own rules which are not going to be too strict.</p>
+          <p><NS type="RV"><i>Love</i><c>Look forward</c></NS> to hearing from you soon.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

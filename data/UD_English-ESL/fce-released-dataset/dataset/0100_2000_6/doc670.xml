@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR262*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>31-40</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>Thank you for your letter. I am very happy to hear that I have won the first prize. I am writing to inform you about my requests. I also have some questions.</p>
+          <p>First, I was wondering if I could travel in July. I am working at a language school. Due to a shortage of teachers in summer I can take holiday only in July. Second, I would like to sleep in a tent because I have never slept in a tent and I have wanted to sleep there. Third, I have chosen 'Tennis' and 'Photography' <NS type="RT"><i>for</i><c>as</c></NS> my activities at the Camp. I have been playing tennis for over ten years. In addition, I have been teaching children to play tennis for three years. I took up taking photos four years ago. Since then I have entered ten competitions and won the first prize three times.</p>
+          <p>Finally, could you please let me know what kind of clothes I should take with me? I would also like to know how much money I should take with me.</p>
+          <p>I am looking forward to hearing from you and travelling to the U.S.A.</p>
+          <p>Yours sincerely,</p>
+          <p>Chi Kimura</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Last month I helped at a pop concert. The name of the band was 'Dream Comes True'. This <NS type="RN"><i>bank</i><c>band</c></NS> is <NS type="W"><i>not only in Japan but also in the U.S.A very famous</i><c>very famous not only in Japan but also in the USA</c></NS>. I am still excited while I am writing to you about my experience.</p>
+          <p>First, I helped to prepare the stage before the band arrived. The <NS type="RJ"><i>music</i><c>musical</c></NS> instruments were transported from the lorries (three big lorries!) into the concert hall and I helped to put them <NS type="RT"><i>at</i><c>in</c></NS> the right position on the stage. They were very heavy and I had to carry them with care because they were very important <NS type="RT"><i>for</i><c>to</c></NS> the band. After that I helped to test lights and microphones. I almost fainted when the band arrived and entered the stage. I am a fan of this band and I have never seen them in <NS type="MD"><c>the</c></NS> flesh.</p>
+          <p>The most exciting thing about my experience was that the band spoke to me after the concert. The band was very satisfied with the stage and appreciated our work. I was so <NS type="SX"><i>exited</i><c>excited</c></NS> and happy that I can't remember what I talked with the band <NS type="MT"><c>about</c></NS>.</p>
+          <p>I want to help at a pop concert again!</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

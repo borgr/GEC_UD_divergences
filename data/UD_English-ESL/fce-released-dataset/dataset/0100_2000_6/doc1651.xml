@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR651*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am very glad to hear that I have won first prize in your competition. Here <NS type="AGV"><i>are</i><c>is</c></NS> some further information you need from me:</p>
+          <p>I would like to travel in July. It is the only time of the year I have two <NS type="MP"><i>weeks</i><c>weeks'</c></NS> holiday. I would be grateful if you could give me a log cabin. It is <NS type="RJ"><i>more secure</i><c>safer</c></NS> and there is no problem if it rains.</p>
+          <p>As for the two activities, I would enjoy climbing and playing tennis. I have been climbing for more than 7 years. It should not be a problem. On the other hand, I have never played tennis in my life. But I watch every tournament on television. I like this sport very much.</p>
+          <p>I would like to know if I need <NS type="MQ"><c>any</c></NS> special clothes, extra money or any other things. Could you please send me more details about that<NS type="RP"><i>...</i><c>?</c></NS></p>
+          <p>I look forward to hearing from you.</p>
+          <p>Charline Cholmondeley</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>There are two kinds of shopping; the first one is shopping for fun. You often see young ladies looking for the nicest dress, the most beautiful shoes and so on... They are all excited when thinking about the party they have been invited to. <NS type="RA"><i>This</i><c>It</c></NS> is very nice when you can do your shopping like that.</p>
+          <p>The second kind of shopping is not enjoyable. It is when you have to buy what is necessary for you: bread, butter, milk etc... It is always the same. You have to find the best article for the best price. You are among thousands of people, but<NS type="MP"><c>,</c></NS> at the same time, you are alone. Besides, when you want to pay for the things you have <NS type="RV"><i>taken</i><c>chosen</c></NS>, you can believe that the ladies behind the <NS type="RP"><i>cashdesks</i><c>cash desks</c></NS> are unable to smile. After that, you have to carry your bag (of course far too heavy for you) to your car. When you are at home, there is no reward except that your husband or your children notice that the fridge is full again.</p>
+          <p>Shopping is annoying but also necessary<NS type="RA"><i><NS type="RP"><i>, it</i><c>.  It</c></NS></i><c>.  That</c></NS> is why it is not always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

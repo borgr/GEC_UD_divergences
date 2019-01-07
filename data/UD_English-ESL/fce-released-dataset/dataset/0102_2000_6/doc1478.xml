@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR575*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir!</p>
+          <p>I am writing this letter to you, because the show "Over The Rainbow"<NS type="MP"><c>,</c></NS> which is <NS type="UD"><i>the</i></NS> London's newest and best musical show, was not... for me. <NS type="SX"><i>Pleas</i><c>Please</c></NS> <NS type="RV"><i>apologise</i><c>excuse</c></NS> me, but there were many mistakes and problems on the <NS type="R">note you have made</NS>, which disappointed me very <NS type="MY"><c>much</c></NS>.</p>
+          <p>I thought that Dany Brook<NS type="MP"><c>,</c></NS> who is my <NS type="SA"><i>favorite</i><c>favourite</c></NS> actor<NS type="MP"><c>,</c></NS> <NS type="MV"><c>would</c></NS> <NS type="RV"><i>play</i><c>perform</c></NS> in that show. And I was really disappointed when I saw Jeremy Brook on the stage. Please, if you would be so kind <NS type="U"><i>and mind</i></NS> correct this mistake. I would be <NS type="DJ"><i>gratefull</i><c>grateful</c></NS> if you could correct too <NS type="R">that show <NS type="AGV"><i>start</i><c>starts</c></NS> at 20.15 not on 19.30</NS>. <NS type="RQ"><i>Other</i><c>Another</c></NS> thing was that there <NS type="AGV"><i>was</i><c>were</c></NS> no discounts available, and that the restaurant<NS type="MP"><c>,</c></NS> which I wanted to visit after the show<NS type="MP"><c>,</c></NS> was closed because of <NS type="R">the main <NS type="RN"><i>cooker</i><c>cook</c></NS> <NS type="S"><i>sikness</i><c>sickness</c></NS></NS>.</p>
+          <p>I would be very grateful if I could get my money back. That evening<NS type="MP"><c>,</c></NS> which should <NS type="TV"><i>be</i><c>have been</c></NS> my perfect evening out, was in fact very <NS type="DJ"><i>tireing</i><c>tiring</c></NS> and boring.</p>
+          <p><NS type="CE">Apologise me for disturb</NS>.</p>
+          <p>I am looking forward <NS type="RT"><i>for</i><c>to</c></NS> <NS type="MD"><c>your</c></NS> <NS type="RN"><i>answer</i><c>reply</c></NS>!</p>
+          <p>Best <NS type="S"><i>regardes</i><c>regards</c></NS>!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets<NS type="RP"><i>,</i><c>.</c></NS> I knew that he's <NS type="MD"><c>a</c></NS> very talkative person, but it was <NS type="S"><i>nessesery</i><c>necessary</c></NS> because I wanted him to be the main <NS type="RN"><i>director</i><c>organiser</c></NS> of that birthday party for <NS type="R">tenes</NS>. It started a week before that day. Pat found <NS type="RD"><i>the</i><c>a</c></NS> great place for the party called "Blue Box". I made <NS type="UD"><i>a</i></NS> <NS type="DJ"><i>beautifull</i><c>beautiful</c></NS> <NS type="FN"><i><NS type="RN"><i>invite</i><c>invitation</c></NS></i><c>invitations</c></NS> <NS type="UN"><i>cards</i></NS> for <NS type="AGQ"><i>every</i><c>all of</c></NS> <NS type="MP"><i>Agatha</i><c>Agatha's</c></NS> friends with a <NS type="RN"><i>sign</i><c>note</c></NS><NS type="MP"><c>:</c></NS> "Do not tell Agatha about <NS type="RA"><i>that</i><c>this</c></NS><NS type="RP"><i>, this</i><c>. This</c></NS> is a <NS type="S"><i>suprise</i><c>surprise</c></NS> party for her<NS type="RP"><i>, please</i><c>. Please</c></NS> keep the secret!" Pat arranged <NS type="MD"><c>a</c></NS> great DJ and drinks. My friend and I made <NS type="RD"><i>a</i><c>the</c></NS> perfect <NS type="FN"><i>decoration</i><c>decorations</c></NS> with <NS type="S"><i>ballons</i><c>balloons</c></NS> and other party stuff. Everyone told us it was <NS type="RP"><i>breath taking</i><c>breathtaking</c></NS>. Everything was set... the day and hour came. Everyone gathered in <NS type="MD"><c>the</c></NS> disco at 21.00. We were only waiting for Agatha<NS type="MP"><c>,</c></NS> who <NS type="RV"><i>should come</i><c>was expected</c></NS> at 22 o'clock with her boyfriend. It was so <NS type="S"><i>exaiting</i><c>exciting</c></NS>!!! We <NS type="RV"><i>put</i><c>turned</c></NS> off the lights and then the door opened and I just heard "What the hell is going on?!!" She entered the room, and everyone shouted HAPPY BIRTHDAY DEAR! She was so touched that we started to cry. <NS type="S"><i>Enyway</i><c>Anyway</c></NS> the disco was great, <NS type="R">music also</NS>. We had fun <NS type="RT"><i>to</i><c>until</c></NS> 5 o'clock! Agatha said that it was the greatest present she could ever <NS type="RV"><i>get</i><c>receive</c></NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR318*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I'm writing <NS type="UY"><i>back</i></NS> to tell you that I am happy to accept this prize and to give you some further information that you need from me.</p>
+          <p>If it's possible I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because of my job. I can't leave it until <NS type="RD"><i>this</i><c>that</c></NS> month and I'm not able to travel at any other time of <NS type="UD"><i>the</i></NS> year.</p>
+          <p>As I see I have the chance to choose <NS type="R"><i>what</i><c>the</c></NS> accommodation I prefer<NS type="RP"><i>.</i><c>,</c></NS> I would like to stay in a tent because <NS type="R"><i>I'm used to</i><c>I used to</c></NS> go camping at weekends but if there's any problem I could be very <NS type="S"><i>confortable</i><c>comfortable</c></NS> in a log cabin too.</p>
+          <p><NS type="AS"><i>It's incredible the large list of interesting activities that you offer</i><c>The large list of interesting activities that you offer is incredible</c></NS>. It's difficult just to <NS type="RV"><i>try</i><c>choose</c></NS> two but if I have the chance I would like to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> sailing and photography. I have never <NS type="RV"><i>done</i><c>tried</c></NS> <NS type="RQ"><i><NS type="SX"><i>noon</i><c>none</c></NS></i><c>either</c></NS> of them before and as a result I can't be good <NS type="M"><c>at them</c></NS> but I've always wanted to sail because I love the sea and now I have the <NS type="S"><i>opportunitie</i><c>opportunity</c></NS>. I also think that it would be great to learn <NS type="MT"><c>about</c></NS> photography because it will give me the chance to go sightseeing and find wonderful places to take pictures.</p>
+          <p>If you don't mind I would like to know what kind of clothes are <NS type="S"><i>apropriate</i><c>appropriate</c></NS> for the camp and for the <NS type="W"><i>weather of California</i><c>Californian weather</c></NS>. And also <NS type="RV"><i>may</i><c>will</c></NS> I have to bring <NS type="MQ"><c>any</c></NS> money? <NS type="UC"><i>because</i></NS> I know that all the <NS type="RN"><i>costs</i><c>expenses</c></NS> are paid but it could be necessary for other things.</p>
+          <p>I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours sincerely</p>
+          <p>Luna Juarez.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>I completely agree with the following statement:</p>
+          <p>"shopping is not always enjoyable"</p>
+          <p><NS type="ID"><i>From my point of view</i><c>In my opinion</c></NS> a lot of people believe that it's <NS type="RY"><i>very</i><c>great</c></NS> fun to go shopping and it's a great way to spend Saturday afternoons and that's true<NS type="MP"><c>,</c></NS> but in my opinion <NS type="FV"><i>go</i><c>going</c></NS> shopping can be <NS type="DJ"><i>stressing</i><c>stressful</c></NS> and disgusting.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> we usually go to the shops at the same time <NS type="RC"><i>than</i><c>as</c></NS> the rest of the world and that's a little bit complicated because the shops are <NS type="DJ"><i>fulled</i><c>full</c></NS> and it's impossible <NS type="R">to try <NS type="S"><i>acurately</i><c>accurately</c></NS></NS>.</p>
+          <p>Secondly you have to <NS type="RV"><i>thank</i><c>think</c></NS> before you <NS type="RV"><i>come in</i><c>enter</c></NS> a shop if you're going to have <NS type="MQ"><c>any</c></NS> luck. I mean that you have to wait until the <NS type="RN"><i>seller</i><c>shop assistant</c></NS> <NS type="TV"><i>came</i><c>comes</c></NS> to know if he or she is going to drive you crazy. Thirdly you have to pray <NS type="MA"><c>you</c></NS> <NS type="TV"><i>to find</i><c>find</c></NS> the right size and once you've got it you have to think<NS type="MP"><i> Does it <NS type="AGV"><i>fits</i><c>fit</c></NS> me?</i><c>, "Does it fit me?"</c></NS></p>
+          <p>And after all of this it's important when you're going shopping to have a <NS type="RJ"><i>big</i><c>large</c></NS> amount of money or you will end <NS type="MY"><c>up</c></NS> stressed, disgusted, and depressed.</p>
+          <p><NS type="ID"><i>At last but not at least</i><c>Last but not least</c></NS> let me give you some advice<NS type="MP"><c>,</c></NS> try not to go with that friend of yours <NS type="RA"><i>that</i><c>who</c></NS> is crazy about clothes and shoes because she wants you to be like her and that <NS type="TV"><i>will</i><c>would</c></NS> be awful.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

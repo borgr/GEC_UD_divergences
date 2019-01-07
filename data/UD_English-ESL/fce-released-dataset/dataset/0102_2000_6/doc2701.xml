@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1097*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Mr Smith,</p>
+          <p>Spending a week in London <NS type="RT"><i>for</i><c>on</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS> last week, I <NS type="TV"><i>had decided</i><c>decided</c></NS> to go to the theatre in order to see your wonderful musical show. Unfortunately, I had a really <NS type="RJ"><i>disappointed</i><c>disappointing</c></NS> evening! Indeed, <NS type="RY"><i>firstly</i><c>first</c></NS>, the <NS type="RN"><i>play</i><c>performance</c></NS> didn't start at 19:30 as it was <NS type="RV"><i>planned</i><c>meant to</c></NS> <NS type="RT"><i>on</i><c>according to</c></NS> the advertisement but 45 minutes later (20:15).</p>
+          <p>Then, the actors (Danny Brook and Tina Truelove) who were mentioned <NS type="M"><c>in the advert</c></NS> and <NS type="TV"><i>supposed</i><c>were supposed</c></NS> to <NS type="RV"><i>play</i><c>perform</c></NS> weren't present. There were different actors who took <NS type="RD"><i>the</i><c>their</c></NS> <NS type="AGN"><i>role</i><c>roles</c></NS>.</p>
+          <p>Thus, the musical show wasn't as good as it should have been. I was very disappointed because D. Brook and T. Truelove are <NS type="R"><i>so</i><c>such</c></NS> great actors and I was very excited <NS type="MT"><c>about</c></NS> <NS type="FV"><i>to see</i><c>seeing</c></NS> them.</p>
+          <p>Furthermore, <NS type="RT"><i>on</i><c>in</c></NS> the advertisement I got, <NS type="MA"><c>it</c></NS> was written that the theatre restaurant was <NS type="DJ"><i>opened</i><c>open</c></NS>. I told myself, I could eat over there and maybe <NS type="RV"><i>spend</i><c>have</c></NS> a better evening than <NS type="M"><c>I was having</c></NS> at the <NS type="S"><i>begining</i><c>beginning</c></NS> <NS type="M"><c>of the show</c></NS> but I wasn't lucky because the restaurant was closed! The customers weren't told why they couldn't have a meal. No reasons were <NS type="RV"><i>indicated</i><c>given</c></NS>.</p>
+          <p>As you can <NS type="RV"><i>notice</i><c>see</c></NS>, <NS type="R"><i>my</i><c>the</c></NS> perfect evening I had <NS type="RV"><i>supposed</i><c>expected</c></NS><NS type="UP"><i>,</i></NS> was a nightmare; that's why I would <NS type="TV"><i>please</i><c>be pleased</c></NS> <NS type="MC"><c>if</c></NS> you <NS type="TV"><i>to give</i><c>gave</c></NS> <NS type="MA"><c>me</c></NS> my money back because I cannot tolerate such a thing!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>From the <NS type="S"><i>begining</i><c>beginning</c></NS> of the century to now, modern technology has changed and has made our daily life easier.</p>
+          <p>Indeed, <NS type="UD"><i>the</i></NS> <NS type="RN"><i>modernism</i><c>modernisation</c></NS> helps us to lead a <NS type="FJ"><i><NS type="S"><i>confortable</i><c>comfortable</c></NS></i><c>more comfortable</c></NS> and better life than before. For example, cars<NS type="R"><i>,</i><c> and</c></NS> planes are <NS type="UD"><i>a</i></NS> wonderful <NS type="AGN"><i>invention</i><c>inventions</c></NS>! A few centuries ago, it took many hours (even several days) to go <NS type="RT"><i>to</i><c>from</c></NS> <NS type="RQ"><i>a</i><c>one</c></NS> city to <NS type="RP"><i>an other</i><c>another</c></NS> <NS type="UA"><i>one</i></NS> or to travel abroad. People couldn't <NS type="RV">think</NS> of such innovation in our world and yet, it was created. <NS type="RN"><i>Human being</i><c>Mankind</c></NS> became more and more clever and built <NS type="S"><i>wonerful</i><c>wonderful</c></NS> things thanks to his thoughts and his hands.</p>
+          <p><NS type="UD"><i>The communication</i><c>Communication</c></NS> has made many <NS type="RN"><i>progresses</i><c>advances</c></NS> too. Everyone <NS type="RV"><i>gets</i><c>has</c></NS> a television at home. "A machine which talks and shows pictures!" It's a revolution, something which was unbelievable a few centuries ago. Although there are new machines etc, <NS type="UD"><i>the</i></NS> <NS type="RN"><i>health</i><c>medicine</c></NS> makes many <NS type="DN"><i>discoverts</i><c>discoveries</c></NS> thanks to <NS type="UD"><i>the</i></NS> <NS type="RN"><i>searching</i><c>research</c></NS> <NS type="RT"><i>on</i><c>into</c></NS> different diseases in order to make the population <NS type="TV"><i>lived</i><c>live</c></NS> <NS type="R"><i>older</i><c>longer</c></NS>.</p>
+          <p>Thus, <NS type="UD"><i>the</i></NS> modern technology seems to be a positive way <NS type="U"><i>in order</i></NS> to improve our daily life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

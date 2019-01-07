@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR949*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>40.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan,</p>
+          <p>I have safely received your letter bringing the good news. I wish that I could describe how ecstatic I felt when I found <NS type="MY"><c>out</c></NS> that I won the competition. Here I enclose some information which you requested in the letter I received.</p>
+          <p>I think that the best and most convenient time for me to travel would be in July. This is because it falls on my <NS type="RN">semester</NS> holidays and <NS type="UC"><i>that</i></NS> it is also summer in America. This trip will give me a chance to relax during my holidays, as well as <NS type="FV"><i>allow</i><c>allowing</c></NS> me to gain valuable knowledge and experience.</p>
+          <p>Between the tent and log cabin, I think that I would prefer the tent. It will let me get up <NS type="UC"><i>and</i></NS> close <NS type="RT"><i>with</i><c>to</c></NS> nature, and experience life in the wild. Living in a tent will also enhance my survival skills, making this a trip to remember.</p>
+          <p>Camp California certainly has plenty of activities to do. However, among all of them I like swimming and tennis the best. I have <NS type="RQ"><i>much</i><c>a lot of</c></NS> experience <NS type="RT"><i>in</i><c>with</c></NS> swimming and have represented my school before. As for tennis, I find it very enjoyable and have gone for proper lessons.</p>
+          <p><NS type="ID"><i>Last before least</i><c>Last but not least</c></NS>, I wonder if you could inform me of the clothes I should bring to America. As I have not been there before, I am rather unsure of what to wear. I am also trying to decide on the amount of money I should bring. Will I be going out much, or just <NS type="FV"><i>stay</i><c>staying</c></NS> in Camp California all the time?</p>
+          <p>I hope that I haven't taken up too much time. Thank you for this exciting news. I can't wait to go on this adventure of a lifetime!</p>
+          <p>Yours sincerely,</p>
+          <p>(Au Kwan Ming)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you in London? I hope the weather is holding up. I hear that it can be terrible at times. Guess what? Last month, I got to help out at a pop concert. It was a fantastic experience.</p>
+          <p>The concert was held <NS type="RT"><i>at</i><c>in</c></NS> our school hall. All the students had to help to brighten up the place, and boy did we work. I helped to decorate the walls. My friends and I managed to paint a smart navy blue on the old, faded green. It wasn't as easy as I had expected, there are special equipment and techniques which must be used to ensure a good result.</p>
+          <p>Besides that, I also helped to do banners and signs to inform other people about the concert. It was hard work, I had to saw wood and paint all day long. Several other students helped me out, and we managed to make some eye-catching advertisements.</p>
+          <p>I also helped <NS type="RT"><i>in</i><c>with</c></NS> the lighting and studio equipment. I fixed the lighting on the ceiling and attached several spotlights to the walls. This produced a stunning effect during the concert. I also got to <NS type="RV"><i>fix</i><c>install</c></NS> new speakers so that the music could be heard clearly throughout the hall.</p>
+          <p>I enjoyed <NS type="RV"><i>fixing</i><c>installing</c></NS> the studio equipment in particular. It gave me <NS type="RD"><i>the</i><c>a</c></NS> chance to expand my knowledge and gain new skills in electronics. On the whole, it was a fun experience to work with friends, <NS type="RV"><i>fixing</i><c>putting in</c></NS> bulbs, attaching lights and adding speakers.</p>
+          <p>I really enjoyed myself and I hope that you can have the chance to experience this too. I hope that you can write to me soon. I look forward to reading what you have to say. Bye for now!</p>
+          <p><NS type="L">Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</NS></p>
+          <p>(Au Kwan Ming) </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

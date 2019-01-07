@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR298*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>Thank you very much. I am very <NS type="RJ"><i>glad</i><c>pleased</c></NS> I have won first prize in the competition - two weeks at Camp California in the U.S.A.</p>
+          <p>I would like to travel only in July, because in June I have to study at school<NS type="MP"><c>,</c></NS> which <NS type="TV"><i>hasn't finished</i><c>doesn't finish</c></NS> until the end of June. <NS type="RT"><i>In</i><c>For</c></NS> August, I have already made another appointment with my friends. We are going to visit the places of interest <NS type="RT"><i>of</i><c>in</c></NS> China<NS type="RP"><i>, as</i><c>. As</c></NS> usual, our new term begins in September. I <NS type="W"><i>only can</i><c>can only</c></NS> travel in July</p>
+          <p><NS type="MT"><i>Accommodation</i><c>Concerning accommodation</c></NS><NS type="MP"><c>,</c></NS> I <NS type="UV"><i>would</i></NS> prefer <NS type="UT"><i>in</i></NS> tents to <NS type="UT"><i>in</i></NS> log cabins. Tents are very easy to <NS type="RV"><i>take</i><c>carry</c></NS> and <NS type="MV"><c>can</c></NS> go everywhere. What's more, in my opinion <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> very romantic.</p>
+          <p>I am good at singing and photography. I can sing most kinds of songs, such as pop music, folk. I like taking <NS type="FN"><i>photograph</i><c>photographs</c></NS>, <NS type="R">in my only room</NS>. There are all kinds of photos, for example, <NS type="M"><c>of the</c></NS> beach, sea<NS type="MP"><c>,</c></NS> trees and so on.</p>
+          <p><NS type="RY"><i>In the end</i><c>Finally</c></NS>, I wonder what kind of clothes I should take and how much money I should bring with me<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I look forward to seeing you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>To: Mrs Flame</p>
+          <p>From: Kate</p>
+          <p>Subject: which lessons and other activities should be filmed</p>
+          <p><NS type="RN"><i>Instruction</i><c>Introduction</c></NS>:</p>
+          <p>The aim of this report is to suggest which lessons and <NS type="RN">lessons</NS> <NS type="MV"><c>should</c></NS> be filmed <NS type="RT"><i>into</i><c>for</c></NS> a short video. In order to write the report I interviewed about one hundred students who are studying in our English class.</p>
+          <p>Results:</p>
+          <p>The majority of them said it's a good idea to <NS type="RV"><i>make</i><c>do</c></NS> something about Maths and English study skills. Sixty percent recommended that the activity which <NS type="R">called make the brain up in the morning class</NS> should be filmed. Ten of them said <NS type="MA"><c>we</c></NS> should <NS type="RV"><i>make</i><c>film</c></NS> <NS type="UD"><i>the</i></NS> computing. Two thirds said we should film <NS type="R">a part of playing football</NS>.</p>
+          <p>Reasons:</p>
+          <p>Although Maths is very boring, it is very important <NS type="UT"><i>in</i></NS> nowadays. English is the most popular language in the world<NS type="RP"><i>, what's</i><c>. What's</c></NS> more, more and more people <NS type="TV"><i>start</i><c>are starting</c></NS> to learn English. <NS type="R">The activity of making brain up</NS> can help us remember new words. Playing football is good for <NS type="MD"><c>your</c></NS> health.</p>
+          <p>Conclusion:</p>
+          <p>It is recommended that <NS type="MA"><c>something</c></NS> should be filmed about Maths, English study skills,<NS type="R">make brain up</NS> and <NS type="U"><i>a part of</i></NS> playing football.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

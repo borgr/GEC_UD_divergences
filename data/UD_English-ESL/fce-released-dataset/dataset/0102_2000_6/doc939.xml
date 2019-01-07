@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR386*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>41-50</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Smith,</p>
+          <p>I am writing to you in order to <NS type="FV"><i>describing</i><c>describe</c></NS> my last visit <NS type="RT"><i>in</i><c>to</c></NS> your <NS type="SA"><i>theater</i><c>theatre</c></NS>. <NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS><NS type="MP"><c>,</c></NS> I am <NS type="UD"><i>a</i></NS> very disappointed about <NS type="MD"><c>the</c></NS> organisation <NS type="RT"><i>in</i><c>of</c></NS> your company.</p>
+          <p><NS type="DY"><i>Firsty</i><c>Firstly</c></NS><NS type="MP"><c>,</c></NS> the musical show started not at 7.30 p.m. but 45 minutes later. I paid for this performance the full price <NS type="MT"><c>of</c></NS> £20 because discounts were not available although <NS type="RT"><i>on</i><c>in</c></NS> your advertisement <NS type="RA"><i>there</i><c>they</c></NS> were. And the biggest disappointment for me was that the <NS type="RJ"><i>grateful</i><c>great</c></NS> Danny Brook, the best singer in London, wasn't present and <NS type="AS"><i>it was singing <NS type="SX"><i>a mother</i><c>another</c></NS> unknown person</i><c>another unknown person was singing</c></NS>. And last but not least<NS type="MP"><c>,</c></NS> I <NS type="RV"><i>recognised</i><c>found out</c></NS> after the show that your theatre restaurant was closed because waiters didn't come...</p>
+          <p>I don't know <NS type="MC"><c>whether</c></NS> it is a typical situation in the Circle <NS type="S"><i>Theatrer</i><c>Theatre</c></NS> that <NS type="MA"><c>it</c></NS> <NS type="TV"><i>is promised</i><c>promises</c></NS> much more then the people can get for their money, or <NS type="MC"><c>whether</c></NS> it was on June 7 (my visit) only, but I <NS type="RV"><i>am</i><c>do</c></NS> not <NS type="RV"><i>agree with</i><c>approve of</c></NS> such <NS type="MD"><c>a</c></NS> situation and <NS type="RV"><i>would</i><c>must</c></NS> ask you for my money back - my bank account number is enclosed. I am looking forward <NS type="RT"><i>for</i><c>to</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> <NS type="DN"><i>answering</i><c>answer</c></NS>.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>In my opinion<NS type="MP"><c>,</c></NS> modern technology <NS type="TV"><i>changed</i><c>has changed</c></NS> our daily life tremendously.</p>
+          <p>First of all it changed our <NS type="UP"><i>life-style</i><c>lifestyle</c></NS>. For example<NS type="MP"><c>,</c></NS> ten years ago <NS type="U"><i>it was very common that</i></NS> almost all people visited cinemas and today they prefer watching films at home because they have relatively good video-recorders and <NS type="FN"><i>TV</i><c>TVs</c></NS>. Because <NS type="UD"><i>the</i></NS> people have fast and comfortable cars, they are much more <NS type="S"><i>mobil</i><c>mobile</c></NS> and can spend their <NS type="UP"><i>free-time</i><c>free time</c></NS> more <NS type="DY"><i><NS type="S"><i>aktiv</i><c>active</c></NS></i><c>actively</c></NS> - they can often visit their friends and travel much more. People today are more <NS type="RJ">open</NS> for the world.</p>
+          <p><NS type="S"><i>Secondely</i><c>Secondly</c></NS><NS type="MP"><c>,</c></NS> we can do our jobs today more <NS type="DY"><i>efficient</i><c>efficiently</c></NS>. We have modern equipment for communication - phones, faxes, E-mail. We can communicate with our <NS type="RN"><i><NS type="FN"><i>partner</i><c>partners</c></NS></i><c>clients</c></NS> faster and better and offer them better <NS type="FN"><i>service</i><c>services</c></NS>. <NS type="UD"><i>The ordered</i><c>Ordered</c></NS> goods can be <NS type="TV"><i>deliver</i><c>delivered</c></NS> in <NS type="MD"><c>a</c></NS> shorter time by <NS type="FN"><i>train</i><c>trains</c></NS>, trucks and modern ships. If we are more efficient we can earn more money and spend it more <NS type="RT"><i>for</i><c>in</c></NS> our daily life - <NS type="RT"><i>for</i><c>on</c></NS> better clothes, furniture, <NS type="R">spare time</NS>.</p>
+          <p>I am a fan <NS type="RT"><i>for</i><c>of</c></NS> modern technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

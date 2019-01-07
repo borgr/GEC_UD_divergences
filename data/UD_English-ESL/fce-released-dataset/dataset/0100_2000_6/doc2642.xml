@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1059*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>DEAR MS. RYAN,</p>
+          <p>I'M WRITING THIS LETTER TO <NS type="RV"><i>EXPRESS</i><c>SAY</c></NS> THAT THE RESULTS CATCH ME ABSOLUTELY BY SURPRISE!</p>
+          <p>I WOULD PROBABLY ENJOY <NS type="UY"><i>MOST</i></NS> TRAVELLING IN JULY BECAUSE I <NS type="TV"><i>HAD</i><c>HAVE</c></NS> TO <NS type="RV"><i>PASS</i><c>TAKE</c></NS> MY LITERATURE EXAMS BEFORE <NS type="MY"><c>THEN</c></NS> AND I'M TAKING <NS type="AGA"><i>IT</i><c>THEM</c></NS> IN JUNE.</p>
+          <p><NS type="FV"><i><NS type="IV"><i>ANSWERIN</i><c>ANSWERING</c></NS></i><c>TO ANSWER</c></NS> <NS type="UT"><i>TO</i></NS> ANOTHER OF YOUR QUESTIONS, <NS type="MV"><i>I'</i><c>I'D</c></NS> PREFER TO HAVE <NS type="UN"><i><NS type="S"><i>ACCOMODATION</i><c>ACCOMMODATION</c></NS></i></NS> <NS type="R"><i>ON</i><c>A</c></NS> <NS type="AGN"><i>LOG CABINS</i><c>LOG CABIN</c></NS>, BECAUSE OF MY <NS type="RN"><i>COLUMN</i><c>BACK</c></NS> PROBLEM<NS type="MP"><c>,</c></NS> WHICH <NS type="RV"><i>DON'T</i><c>WON'T</c></NS> LET ME SLEEP ON THE GROUND (OR <NS type="RT"><i>ON</i><c>IN</c></NS> A SLEEPING BAG).</p>
+          <p><NS type="W"><i>DURING MY STAY AT THE CAMP I'M REALLY <NS type="RJ"><i>FOND OF</i><c>KEEN ON</c></NS> KEEPING <NS type="MY"><c>TO</c></NS> MY TENNIS AND SWIMMING ROUTINES</i><c>I'M REALLY KEEN ON KEEPING TO MY TENNIS AND SWIMMING ROUTINES DURING MY STAY AT THE CAMP</c></NS>.</p>
+          <p>I USUALLY SWIM THREE TIMES A WEEK IN ORDER TO <NS type="S"><i>MANTEIN</i><c>MAINTAIN</c></NS> A <NS type="RN"><i>COLUMN</i><c>BACK</c></NS> TREATMENT WHICH MY DOCTOR <NS type="AGV"><i>HAVE</i><c>HAS</c></NS> RECOMMENDED ME TO <NS type="RV"><i>DO</i><c>FOLLOW</c></NS>. ALSO, IF I HAVE ANY LEISURE TIME BETWEEN SCHOOL AND PIANO LESSONS, I <NS type="RV"><i>PRACTISE</i><c>PLAY</c></NS> TENNIS.</p>
+          <p>SO, <NS type="UC"><i>AND</i></NS> IF <NS type="UA"><i>IT</i></NS> POSSIBLE, I WAS INTERESTED <NS type="RT"><i>ON</i><c>IN</c></NS> THE POSSIBILITY OF <NS type="RV"><i><NS type="FV"><i>COVER</i><c>COVERING</c></NS></i><c>CONTINUING</c></NS> MY <NS type="S"><i>ROUTIN</i><c>ROUTINE</c></NS> THERE.</p>
+          <p>LASTLY, I WOULD LIKE YOU TO TELL ME IF I <NS type="TV"><i>HAD</i><c>HAVE</c></NS> TO <NS type="RV"><i>CARRY</i><c>BRING</c></NS> SOME MONEY WITH ME TO BUY FOOD OR DRINKS AND HOW THE CLIMATE OF THE CAMPING AREA IS <NS type="R"><i>FOR</i><c>SO I CAN</c></NS> <NS type="RV"><i><NS type="TV"><i><NS type="S"><i>PREPAIRING</i><c>PREPARING</c></NS></i><c>PREPARE</c></NS></i><c>PACK</c></NS> MY LUGGAGE<NS type="MP"><c>,</c></NS> <NS type="RV"><i>PUTTING</i><c>BRINGING</c></NS> ONLY THE <NS type="S"><i>APROPPIATES</i><c>APPROPRIATE</c></NS> CLOTHES.</p>
+          <p>LOOKING FORWARD TO <NS type="FV"><i>HEAR</i><c>HEARING</c></NS> FROM YOU</p>
+          <p>YOURS SINCERELY,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>'THIS IS SUCH A MARVELLOUS BOOK YOU WILL WANT TO READ IT AGAIN'.</p>
+          <p>ARE YOU A SCIENCE FICTION <NS type="RN"><i>HISTORIES</i><c>STORIES</c></NS> LOVER? <NS type="RV"><i>ARE</i><c>DO</c></NS> YOU LOVE THE IDEA OF <NS type="FV"><i>KNOW</i><c>KNOWING</c></NS> <NS type="R">HOW A MARTIAN IS</NS>? IF YOU REALLY FIND READING THIS KIND OF BOOK INTERESTING, YOU <NS type="RV"><i>WON'T</i><c>SHOULDN'T</c></NS> MISS THIS BOOK.</p>
+          <p>DURING<NS type="UP"><i>,</i></NS> THE LAST MONTH I'VE BEEN READING "A WINDOW ON THE UNIVERSE"<NS type="MP"><c>,</c></NS> AN OXFORD BOOKMARKS COLLECTION BOOK. THIS BOOK CONTAINED NINE STORIES WHICH <NS type="AGV"><i>WAS</i><c>WERE</c></NS> WRITTEN BY <NS type="MP"><i><NS type="IJ"><i>WELL KNOWNS</i><c>WELL KNOWN</c></NS></i><c>WELL-KNOWN</c></NS> <NS type="S"><i>WRITTERS</i><c>WRITERS</c></NS> LIKE RAY BRADBURY.</p>
+          <p>BUT THE MAIN <NS type="S"><i>PURPOUSE</i><c>PURPOSE</c></NS> OF THE BOOK IS <NS type="FV"><i>ALLOW</i><c>TO ALLOW</c></NS> YOU TO FLY WITH YOUR IMAGINATION AND <NS type="FV"><i>HAVE</i><c>TO HAVE</c></NS> A <NS type="RN"><i>LOOKING</i><c>GLIMPSE</c></NS> OF HOW <NS type="UD"><i>A</i></NS> LIFE <NS type="MV"><c>IS</c></NS> GOING TO BE IN THE FUTURE, WHEN, PERHAPS THE WORLD WILL BE <NS type="RV"><i>COMMANDED</i><c>RULED</c></NS> BY MACHINES.</p>
+          <p>I THINK THAT THIS IS A MARVELLOUS BOOK TO READ, BECAUSE YOU ARE ABLE TO <NS type="R">PUT YOUR MIND UP AGAINST</NS> THEMES LIKE "<NS type="W"><i>HUMAN RACE <NS type="S"><i>EXTINTION</i><c>EXTINCTION</c></NS></i><c>THE EXTINCTION OF THE HUMAN RACE</c></NS>" AND ALSO <NS type="RV"><i><NS type="FV"><i>OBTAIN</i><c>TO OBTAIN</c></NS></i><c>TO MAKE</c></NS> A COMPARISON BETWEEN <NS type="MD"><c>THE</c></NS> <NS type="UP"><i>HUMAN-MIND</i><c>HUMAN MIND</c></NS> AND COMPUTERS.</p>
+          <p>SO, IF YOU ARE LOOKING <NS type="RT"><i>THROUGH</i><c>FOR</c></NS> A "REALLY SPLENDID <NS type="S"><i>SCIENT</i><c>SCIENCE</c></NS> FICTION BOOK" I WILL RECOMMEND YOU TO READ "A WINDOW.." AND I'M SURE THAT WHEN YOU FINISH READING IT YOU <NS type="L"><i>WANNA</i><c>WILL WANT</c></NS> <NS type="FV"><i>READ</i><c>TO READ</c></NS> IT AGAIN, AND AGAIN...!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR707*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear sir,</p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you to complain about the disappointing <NS type="S"><i>expirience</i><c>experience</c></NS> I had with your theatre.</p>
+          <p>First of all, I arrived at about 19:20 because <NS type="MD"><c>the</c></NS> advertisement said that performance begins at 19:30, but it wasn't till about 20:15 that the <NS type="AS"><i><NS type="TV"><i>begin</i><c>began</c></NS> of the show</i><c>show began</c></NS> and I had to wait <NS type="MD"><c>an</c></NS> entire hour<NS type="MP"><c>,</c></NS> which was not very <NS type="RJ"><i>amazing</i><c>amusing</c></NS>.</p>
+          <p>Secondly, I was supposed to <NS type="RV"><i>have</i><c>get</c></NS> a discount but there were no discounts, although the advertisement said there are.</p>
+          <p>Thirdly, the disappointment made me a bit hungry but the restaurant was closed without any sign saying why.</p>
+          <p>And <NS type="UT"><i>at</i></NS> last, the most disappointing <NS type="RN"><i>point</i><c>thing</c></NS>, the advertisement <NS type="RY"><i>again</i><c>also</c></NS> said that <NS type="W"><i>there would be Danny Brook</i><c>Danny Brook would be there</c></NS>, my <NS type="SA"><i>favorite</i><c>favourite</c></NS> actor, but there was someone else instead of him.</p>
+          <p>So, the show was not good at all and my evening was spoiled in spite of all that <NS type="MD"><c>the</c></NS> advertisement <NS type="S"><i>promissed</i><c>promised</c></NS>. As things went that way, I want my money back.</p>
+          <p>Sincerely Yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>I shall have a look <NS type="RT"><i>into</i><c>at</c></NS> the place I believe no one can avoid - the kitchen.</p>
+          <p>How much effort and time it took about two decades <NS type="SX"><i>go</i><c>ago</c></NS> to chop vegetables or prepare coffee or how hard it was to deal with fridges! But today the mixer or some more complicated kitchen-device will chop and mix anything for you from fruits to meat, and modern coffee machines can <NS type="W"><i>make even</i><c>even make</c></NS> <NS type="MD"><c>a</c></NS> cappuccino or whatever you want on their own. Those devices <NS type="TV"><i>made</i><c>have made</c></NS> our life easier <NS type="RT"><i>like</i><c>as</c></NS> old fridges had to be <NS type="DV"><i>defreezed to melt out</i><c>defrosted</c></NS> and new fridges use <NS type="MD"><c>a</c></NS> different kind of cooling <NS type="MN"><c>system</c></NS> and will tell you if <NS type="DA"><i>your</i><c>you</c></NS> <NS type="TV"><i>forgot</i><c>have forgotten</c></NS> to close the door! The modern cooker will turn <NS type="W"><i>off itself</i><c>itself off</c></NS> if something goes wrong! Personally, my life became much faster and I have much more time for many other things during the day thanks to <NS type="MD"><c>the</c></NS> devices modern technology offers us.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

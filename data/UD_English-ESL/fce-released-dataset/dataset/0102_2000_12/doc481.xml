@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR199*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>16th, Dec. 2000</p>
+          <p>Dear Mr. Clark,</p>
+          <p>I'm writing this letter to complain and to suggest something about your "International Arts Festival". I visited the festival for 2 days. I also read an advertisement in "The Times". I thought it would be interesting and exciting. When I visited the festival, of course, it was really good.</p>
+          <p>I was impressed <NS type="RT"><i>of</i><c>with</c></NS> the idea of the festival. I could enjoy different <NS type="FN"><i>culture</i><c>cultures</c></NS> and also I could expand my knowledge. Moreover, the weekend ticket was fantastic because I spent two days <NS type="MT"><c>at</c></NS> the festival - Saturday and Sunday. The ticket price was not too expensive for <NS type="MD"><c>a</c></NS> student too.</p>
+          <p>However, you said "Stars and artists from around the world" in the advertisement. But there were only six countries' candidates. It was exaggerated. Besides, some concert halls were too small. Jazz and classical <NS type="UP"><i>concerts'</i><c>concert</c></NS> halls were especially small. It caused a long queue and I had to waste my time. Except <NS type="MT"><c>for</c></NS> these two things, it was quite good.</p>
+          <p>I'd like to suggest this - <NS type="RT"><i>concerned with</i><c>concerning</c></NS> plays and films. Plays and films <NS type="UN"><i>qualities</i></NS> were good, <NS type="R"><i>but quantities were bad</i><c>there weren't enough</c></NS>. In addition, most of the people in the festival liked that. In my opinion, you have to run more plays and films in next year's festival.</p>
+          <p>I'm looking forward to hearing your answer.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I'd like to tell you about my experiences. Before that<NS type="MP"><c>,</c></NS> you have to think <NS type="MT"><c>about</c></NS> why you need to earn money and how you do that. It is really important because making money needs a proper purpose.</p>
+          <p>Firstly, I did newspaper delivery. I could make a bit of money, of course, it was far <NS type="FY"><i>much</i><c>more</c></NS> than pocket money. Nevertheless, I lost my <NS type="S"><i>concerntration</i><c>concentration</c></NS> <NS type="RT"><i>to</i><c>on</c></NS> <NS type="RD"><i>the</i><c>my</c></NS> <NS type="FN"><i>study</i><c>studies</c></NS> and I spent the money <NS type="RT"><i>to</i><c>on</c></NS> entertainment. I earned easily and I couldn't control myself at that time. I was only 12 years old.</p>
+          <p>Secondly, I made <NS type="MD"><c>a</c></NS> brochure for a company when I was in high school. I was studying <NS type="FN"><i>computer</i><c>computers</c></NS> at that time. Also I was leader of the <NS type="MP"><i>computer user</i><c>computer-user</c></NS> circle in the school so I needed some money for managing the circle. For this reason, I took this kind of part-time job in the company. Despite the fact that it was <NS type="MD"><c>a</c></NS> part-time job, I worked very hard because I liked computer <NS type="FN"><i>works</i><c>work</c></NS>. I could earn money, <NS type="MC"><c>and</c></NS> <NS type="W"><i>also I</i><c>I also</c></NS> got a career.</p>
+          <p>Finally, I worked for a factory during the last winter holiday. It was also <NS type="CL"><i>hard and difficult</i><c>hard</c></NS>, but I think that was <NS type="MD"><c>an</c></NS> easy way to make money. I forgot many skills and knowledge during the time. So <NS type="MD"><c>the</c></NS> <NS type="DN"><i>lose</i><c>loss</c></NS> was bigger than <NS type="MD"><c>the</c></NS> profit.</p>
+          <p>In conclusion, if you want to earn a bit of money, then you have to choose <NS type="MD"><c>a</c></NS> proper part-time job. Because you will get some money as well as some career and knowledge. You must consider the purpose too. If you haven't <NS type="MD"><c>a</c></NS> purpose, you <NS type="TV"><i>would</i><c>will</c></NS> waste money easily and quickly.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

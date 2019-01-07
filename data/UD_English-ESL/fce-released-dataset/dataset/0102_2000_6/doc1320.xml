@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR542*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>June 17th 2000</p>
+          <p>"Dear" <NS type="S"><i>menager</i><c>manager</c></NS> of the Circle theatre,</p>
+          <p>I went <NS type="RT"><i>in</i><c>to</c></NS> London for a week of "pure holiday"<NS type="MP"><c>,</c></NS> thinking <NS type="MA"><c>I</c></NS> <NS type="MV"><c>would</c></NS> <NS type="FV"><i>to have</i><c>have</c></NS> some fun <NS type="RV"><i>coming</i><c>going</c></NS> to see your musical show.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> the advertisement it <NS type="TV"><i>had been</i><c>was</c></NS> written that <NS type="W"><i>there would <NS type="FV"><i>have been</i><c>be</c></NS> Danny Brook</i><c>Danny Brook would be there</c></NS> too. (I like him very much and, <NS type="RY"><i>truly</i><c>frankly</c></NS>, I came to the theatre just to see him)</p>
+          <p>When I <NS type="RV"><i>entered</i><c>arrived</c></NS> I didn't get <NS type="RD"><i>the</i><c>a</c></NS> discount (<NS type="RA"><i>as</i><c>which</c></NS> <NS type="UA"><i>it</i></NS> <NS type="TV"><i>has</i><c>had</c></NS> been <NS type="RV"><i>written</i><c>advertised</c></NS>!!) The show <NS type="RV"><i>had</i><c>was meant</c></NS> <NS type="FV"><i>to started</i><c>to start</c></NS> at 19:30 and I arrived <NS type="RY"><i>before</i><c>early</c></NS>, frightened <NS type="MT"><c>of</c></NS> not <NS type="FV"><i>to find</i><c>finding</c></NS> a good place to see "my hero".</p>
+          <p>I <NS type="TV"><i>have waited</i><c>waited</c></NS> for the show <NS type="R"><i>beginning</i><c>to start</c></NS> until 20:15!!!! <NS type="R"><i>Is it a correct thing</i><c>Is that fair</c></NS>?</p>
+          <p>I was getting angry, but, finally, the show started and I became <NS type="S"><i>quiter</i><c>quieter</c></NS>.</p>
+          <p>BUT.. when I saw that the actor wasn't Danny Brook but a different one, I was very disappointed.</p>
+          <p>So, after the show, I would <NS type="TV"><i>like</i><c>have liked</c></NS> to have a good meal in the "famous theatre restaurant" (<NS type="RA"><i>that</i><c>which</c></NS>, of course, was closed for a <NS type="R">free night</NS>!!!!)</p>
+          <p><NS type="RT"><i>At</i><c>In</c></NS> the end, I asked for <NS type="MD"><c>I</c></NS> money back (and <NS type="S"><i>paiment</i><c>payment</c></NS> for my <NS type="S"><i>orrible</i><c>horrible</c></NS> night): do you think anybody <NS type="MV"><c>will</c></NS> give me <NS type="W"><i>back something</i><c>something back</c></NS>?!</p>
+          <p>I hope, that in the future, you will understand that it isn't right to write false things <NS type="RT"><i>on</i><c>in</c></NS> an advertisement.</p>
+          <p>Thank you for your attention.</p>
+          <p>Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Science and technology characterize our <NS type="S"><i>moder</i><c>modern</c></NS> society. They have <NS type="RV"><i>taken</i><c>made</c></NS> <NS type="UD"><i>a</i></NS> big progress in our <NS type="RP"><i>every day</i><c>everyday</c></NS> life and they <NS type="TV"><i>have always become</i><c>are always becoming</c></NS> more important for us. If you think that fifty years ago, when there weren't cars or any sort of <NS type="FN"><i>comfort</i><c>comforts</c></NS> (born just in the "industrial age") everything had to be done by <NS type="FN"><i>hands</i><c>hand</c></NS> or by animal <NS type="RN"><i>work</i><c>labour</c></NS>: I think <NS type="RT"><i>in</i><c>at</c></NS> that time life was really <NS type="MY"><c>much</c></NS> harder than now! We have to say that technological <NS type="RN"><i>searches</i><c>advances</c></NS> have <NS type="RV"><i>taken in</i><c>given</c></NS> our society "their good fruits" but, at the same time, <NS type="M"><c>they have</c></NS> negative aspects too. Walking on a city street, it's difficult to find parks or "green" places with trees and clean air: actually pollution, traffic and <NS type="S"><i>noize</i><c>noise</c></NS> are the main problems of our society. I know I'm <NS type="MD"><c>a</c></NS> "daughter of this <NS type="S"><i>techological</i><c>technological</c></NS> world" and <NS type="DY"><i>unluckly</i><c>unluckily</c></NS> I think I <NS type="S"><i>could'n</i><c>couldn't</c></NS> <NS type="RV"><i>stay</i><c>live</c></NS> without it: it's rather strange that today there's <NS type="RY"><i>already</i><c>still</c></NS> somebody without <NS type="MD"><c>a</c></NS> phone, dishwasher, TV... But, sometimes I ask myself if the "ancient world", without science, technological <NS type="RN"><i>discoveries</i><c>innovations</c></NS> and industries was more authentic than <NS type="UD"><i>the</i></NS> our one.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

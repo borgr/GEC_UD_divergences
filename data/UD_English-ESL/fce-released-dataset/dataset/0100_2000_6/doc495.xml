@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR202*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have just read your letter and <NS type="UA"><i>it</i></NS> would be grateful if you could give me more information about the two weeks at camp California in the USA.</p>
+          <p>I am a <NS type="RP"><i>nineteen year old</i><c>nineteen-year-old</c></NS> <NS type="SX"><i>gild</i><c>girl</c></NS> who is still attending classes at Saint John's School. For the past four years I have been playing tennis and I have also done some courses <NS type="RT"><i>about</i><c>in</c></NS> painting.</p>
+          <p>I would appreciate <NS type="MA"><c>it</c></NS> if I could travel <NS type="RT"><i>on</i><c>in</c></NS> July because my school gives me two <NS type="W"><i><NS type="RN"><i>winter</i><c>summer</c></NS> <NS type="RP"><i>holiday's</i><c>holiday</c></NS> <NS type="MP"><i><NS type="AGN"><i>week</i><c>weeks</c></NS></i><c>weeks'</c></NS></i><c>weeks' summer holiday</c></NS>. As far as accommodation is <NS type="DJ"><i>concern</i><c>concerned</c></NS>, I prefer staying in a <NS type="SX"><i>long</i><c>log</c></NS> cabin. I believe it is better than a tent because <NS type="R"><i>this one would not</i><c>that would not provide</c></NS> <NS type="W"><i>shelter enough</i><c>enough shelter</c></NS>. As I said before, I have been playing tennis for four years. I consider myself to be good at this sport. As <NS type="TV"><i>regarding</i><c>regards</c></NS> painting, I know a lot <NS type="M"><c>about it</c></NS> since my grandmother <NS type="IV"><i>taugh</i><c>taught</c></NS> me when I was five years old.</p>
+          <p>It would be very kind of you to let me know about the clothes you think it <NS type="TV"><i>would</i><c>will</c></NS> be necessary for me to take and how much money I will need.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear kim,</p>
+          <p>I'm sorry I haven't written to you before but I have been very busy helping at <NS type="RP"><i>Mano''s</i><c>Mano's</c></NS> concert.</p>
+          <p>Do you remember when I told you that my dream was <NS type="FV"><i>helping</i><c>to help</c></NS> <NS type="RP"><i>Mano''s</i><c>Mano's</c></NS> group? Well, my dream <NS type="TV"><i>come</i><c>came</c></NS> true. <NS type="MA"><i>All</i><c>It all</c></NS> started when I was <NS type="RT"><i>in</i><c>at</c></NS> Drama Club and my singing teacher told me that <NS type="RP"><i>Mano''s</i><c>Mano's</c></NS> group were going to have a concert here, in Argentina. She also told me that she <NS type="AGV"><i>have</i><c>has</c></NS> some <NS type="S"><i>conections</i><c>connections</c></NS> with the people in charge of the lights <NS type="RT"><i>of</i><c>at</c></NS> the concert. You know that last year I <NS type="TV"><i>organise</i><c>organised</c></NS> the lights <NS type="RT"><i>in</i><c>at</c></NS> our performance. So, there I was, <NS type="IV"><i>controling</i><c>controlling</c></NS> the illumination <NS type="RT"><i>in</i><c>of</c></NS> Mano's concert!!!!</p>
+          <p>I will never forget that wonderful experience. <NS type="RA"><i>This</i><c>It</c></NS> <NS type="TV"><i>really help</i><c>has really helped</c></NS> me for our next performance <NS type="RT"><i>in</i><c>at</c></NS> the Drama Club. It was so exciting to see <NS type="UD"><i>the</i></NS> <NS type="MP"><i>Mano'</i><c>Mano's</c></NS> <NS type="UN"><i>group</i></NS> singer that I felt as if I were in heaven!!</p>
+          <p>Please write <NS type="UT"><c>to</c></NS> me as soon as you can.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

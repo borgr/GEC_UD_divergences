@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR924*0100*2000*02">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>S</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>First of all I would like to thank you for the good programme you <NS type="TV"><i>organised</i><c>have organised</c></NS> for our trip to London. <NS type="W"><i><NS type="RY"><i>Especially</i><c>In particular</c></NS> the sightseeing by bus</i><c>The sightseeing by bus, in particular</c></NS><NS type="MP"><c>,</c></NS> seems to be very interesting.</p>
+          <p>But we would like to <NS type="AS"><i>suggest you something</i><c>suggest something to you</c></NS>: <NS type="RP"><i>There</i><c>there</c></NS> is a trendy event about the latest fashions, leisure and sports wear<NS type="RP"><i>;</i><c>,</c></NS> <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles<NS type="MP"><c>,</c></NS> on the 14th of March. It is called <NS type="RP"><i>,,</i><c>"</c></NS>The London Fashion and Leisure Show." This would be a great opportunity <NS type="MT"><c>for</c></NS> <NS type="MA"><c>us</c></NS> because we are all <NS type="S"><i>intrested</i><c>interested</c></NS> in clothes, sports and fashion. I <NS type="TV"><i>have almost forgotten</i><c>almost forgot</c></NS> to mention that it is free for students! Unfortunately we <NS type="TV"><i><NS type="RV"><i>realised</i><c>noticed</c></NS></i><c>have noticed</c></NS> that on the 14th we <NS type="TV"><i>will already visit</i><c>are already visiting</c></NS> the Science Museum. The show lasts nine hours, from 10.00-19.00, the whole day! Our question now <NS type="MV"><c>is</c></NS>: <NS type="RP"><i>Could</i><c>could</c></NS> we go to this show? We could maybe change Tuesday's programme to Wednesday. We <NS type="TV"><i>all prefer</i><c>would all prefer</c></NS> <NS type="MV"><c>to go</c></NS> <NS type="MT"><c>to</c></NS> the show<NS type="RP"><i>,</i><c>;</c></NS> free time is not so important for us.</p>
+          <p>Please think about this and give us an answer. Thanks.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+         <coded_answer>
+          <p>Dear Jack</p>
+          <p>Thanks a lot for your letter. I am fine but quite busy because I have my German exams. Therefore I read Agatha Christie's <NS type="RP"><i>,,</i><c>"</c></NS>Best Detective Stories of Agatha Christie". I can really <NS type="AS"><i>recommend you this book</i><c>recommend this book to you</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> is fabulous. It is also a suitable present for your cousin, I think. One story is about ten <NS type="L"><i>persons</i><c>people</c></NS> who stay together in a hotel on a lonely island. There is a storm and they <NS type="RP"><i>can not</i><c>cannot</c></NS> leave. Suddenly a <NS type="RN"><i>murderer</i><c>murder</c></NS> <NS type="RV"><i>happens</i><c>takes place</c></NS>! Believe me, you would never guess who the killer is! There is also Hercule Poirot, the famous detective<NS type="MP"><c>,</c></NS> and he finally solves the <NS type="S"><i>mistery</i><c>mystery</c></NS>. But I will not tell you <NS type="MQ"><c>any</c></NS> more. You have to read it yourself. And if your cousin likes crime stories it is a perfect book!</p>
+          <p>Unfortunately it is quite expensive, £32. But do not worry about the price because your cousin will love it!</p>
+          <p>Okay, I hope to have news from you very soon. Have a good time.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

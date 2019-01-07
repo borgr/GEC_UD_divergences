@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR120*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p>I have received your letter about the competition 'two weeks at Camp California' - I am very glad to know <NS type="M"><c>that I</c></NS> <NS type="FV"><i>to have</i><c>have</c></NS> won the first prize! In the following you can find, I hope, <NS type="R"><i>call</i><c>all</c></NS> the information you need to complete the <NS type="RN"><i><NS type="S"><i>partecipation</i><c>participation</c></NS></i><c>enrolment</c></NS> procedure. I would like to travel only <NS type="RT"><i>on</i><c>in</c></NS> July because, as you already know, at the moment I am following a doctoral course at <NS type="UD"><i>the</i></NS> Cornell University: <NS type="R"><i>this</i><c>the</c></NS> school is closed <NS type="RT"><i>on</i><c>in</c></NS> July and so, in that period, I am available for the camp. If possible, the <NS type="M"><c>type of</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I prefer is <NS type="R"><i>in</i><c>a</c></NS> tent. <NS type="RP"><i>there</i><c>There</c></NS> are two main reasons for <NS type="SX"><i>the</i><c>this</c></NS> choice: I am very keen on camping in high mountains and hills and I am very skilled in all the <NS type="RJ"><i>relative</i><c>related</c></NS> activities: <NS type="RV"><i><NS type="RP"><i>building-up</i><c>building up</c></NS></i><c>putting up</c></NS> the tent, cooking <NS type="R">on camp</NS> and so on. Furthermore I have several personal objects that play a fundamental role in the <NS type="W"><i>camp daily life</i><c>daily life of the camp</c></NS> (the tent, the <NS type="RN"><i>sleep</i><c>sleeping</c></NS> bag and so on.). Among the proposed activities, I prefer swimming and singing. Indeed, I like <NS type="UD"><i>the</i></NS> water <NS type="FN"><i>sport</i><c>sports</c></NS> and I am <NS type="W"><i>a quite</i><c>quite a</c></NS> good <NS type="RN"><i>guitar</i><c>guitarist</c></NS> <NS type="MC"><c>and</c></NS> singer<NS type="RP"><i> -</i><c>.</c></NS> Some questions: <NS type="RP"><i>What</i><c>what</c></NS> <NS type="R"><i>about</i><c>is</c></NS> the average temperature at the camp <NS type="RT"><i>on</i><c>in</c></NS> July? What are the <NS type="FJ"><i>better</i><c>best</c></NS> clothes to <NS type="RV"><i>use</i><c>wear</c></NS> at the camp? How much money <NS type="R"><i>may be useful</i><c>will I need</c></NS> at the camp?</p>
+          <p>I will be very glad to <NS type="S"><i>partecipate</i><c>participate</c></NS> <NS type="RT"><i>to</i><c>in</c></NS> your camp!</p>
+          <p>Yours <NS type="S"><i>faightfully</i><c>faithfully</c></NS></p>
+          <p>Steve Galliano</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Our school, as <NS type="UA"><i>it</i></NS> is well known, is a technical school and consequently <NS type="R"><i>the</i><c>its</c></NS> daily life <NS type="RV"><i>contains</i><c>consists of</c></NS> different activities performed in the classrooms or in the laboratories. A short video, <NS type="TV"><i>showed</i><c>shown</c></NS> to the English class, must take into account all these aspects of the life of our school. Here we can describe some lessons or other activities which can be filmed <NS type="R"><i>to create</i><c>for</c></NS> the video. The <NS type="R"><i>mathematical</i><c>maths</c></NS> lessons are divided in two <NS type="AGN"><i>part</i><c>parts</c></NS>: the theoretical one where the definitions and the theorems are presented to students and the numerical one where the problems are solved and the applications are explained. Two particular activities are performed in <NS type="W"><i>the laboratory of physics and in the laboratory of chemistry</i><c>the physics laboratory and the chemistry laboratory</c></NS>. In the former some of the most important physical laws are experimentally verified by the students with the help of an assistant. In the latter many chemical reactions may be reproduced to show to the students the resulting effects and the final compounds generated. These activities are very interesting and they will <NS type="W"><i>be surely</i><c>surely be</c></NS> <NS type="RV"><i>enclosed</i><c>included</c></NS> in the video.</p>
+          <p>Moreover, many <NS type="DJ"><i>sport</i><c>sports</c></NS> activities are performed in our school: swimming, tennis, gym, jogging and so on. Some parts of the final video may <NS type="RV"><i>describe</i><c>show</c></NS> these additional features of the school.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR339*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>17.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to inform <NS type="M"><c>you of</c></NS> some problems we had. I <NS type="RV"><i>want</i><c>went</c></NS> to the theatre to see "<NS type="RP"><i>over the rainbow</i><c>Over The Rainbow</c></NS>" <NS type="RT"><i>at</i><c>on</c></NS> 17th June.</p>
+          <p>First of all, we went to <NS type="MD"><c>the</c></NS> ticket office to get the tickets. I thought we <NS type="TV"><i>can</i><c>could</c></NS> buy discounts tickets <NS type="RT"><i>according to</i><c>because of</c></NS> the advertisement. However, we couldn't <NS type="R">buy them the price</NS>. <NS type="RP"><i>eventually</i><c>Eventually</c></NS>, we got the tickets, <NS type="RP"><i>Because</i><c>because</c></NS> we <NS type="TV"><i>would <NS type="RV"><i>like</i><c>want</c></NS></i><c>wanted</c></NS> to see the musical and Danny Brook. <NS type="R"><i>After</i><c>When</c></NS> we <NS type="TV"><i>arrive</i><c>arrived</c></NS> at the theatre, <NS type="RP"><i>We</i><c>we</c></NS> were very disappointed<NS type="RP"><i>. Because</i><c>, because</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> different actor <NS type="RV"><i>played</i><c>performed</c></NS> <NS type="MT"><c>in</c></NS> the musical that day. In addition, <NS type="RP"><i>It</i><c>it</c></NS> started <NS type="MT"><c>at</c></NS> 20:15. We had to wait over 40 <NS type="S"><i>minitues</i><c>minutes</c></NS><NS type="UP"><i>.</i></NS> and we couldn't enjoy dinner at <NS type="MD"><c>the</c></NS> theatre restaurant after the show.</p>
+          <p>I think if the musical <NS type="AGV"><i>start</i><c>starts</c></NS> late <NS type="UN"><i>time</i></NS>, you should <NS type="RV">open</NS> the restaurant <NS type="UT"><i>until</i></NS> late <NS type="UN"><i>time</i></NS>.</p>
+          <p>To tell the truth, we couldn't enjoy our evening. Would it be possible for me to <NS type="RV">back</NS> <NS type="MD"><c>my</c></NS> money for <NS type="MD"><c>the</c></NS> tickets<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I am looking forward to hearing <NS type="MT"><c>from</c></NS> you.</p>
+          <p>Yours faithfully.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>We had a secret. After we <NS type="TV"><i>finish</i><c>finished</c></NS> school, we usually gathered <NS type="R"><i>the</i><c>in a certain</c></NS> place. Where do you think <NS type="M"><c>it was</c></NS>?</p>
+          <p>It was ship!! There was <NS type="MD"><c>a</c></NS> beach <NS type="MT"><c>by</c></NS> our town. One day, Freddie found it there. <NS type="RP"><i>it</i><c>It</c></NS> was old and <NS type="MD"><c>a</c></NS> little <NS type="RJ"><i>broken</i><c>dilapidated</c></NS>. But it was <NS type="MD"><c>the</c></NS> most important place in the world. We always played there and it was <NS type="MD"><c>an</c></NS> adventure for us.</p>
+          <p>One day, <NS type="RP"><i>Suddenly</i><c>suddenly</c></NS>, <NS type="MD"><c>a</c></NS> heavy storm came <NS type="MT"><c>to</c></NS> our town. I went to the <NS type="RN"><i>sea</i><c>beach</c></NS> to <NS type="RV"><i>see</i><c>check on</c></NS> our ship. My friends had <NS type="RV"><i>come</i><c>gone</c></NS> there, too. We worried about it and we <NS type="IV"><i>tryed</i><c>tried</c></NS> to <NS type="RV">pull</NS> it. It seemed to <NS type="FV"><i>sank</i><c>sink</c></NS> into the sea, but <NS type="S"><i>fourtunately</i><c>fortunately</c></NS>, <NS type="MD"><c>the</c></NS> storm <NS type="W"><i>went <NS type="MY"><c>away</c></NS> soon</i><c>soon went away</c></NS>. Our ship <NS type="TV"><i>left</i><c>was left</c></NS> on the beach. And our parents and teachers <NS type="M"><c>were there</c></NS>, too<NS type="RP"><i>. Because</i><c>, because</c></NS> Pat <NS type="TV"><i>called</i><c>had called</c></NS> them. Of course we couldn't play there after that.</p>
+          <p>But now<NS type="UP"><i>,</i></NS> I am thinking about <NS type="W"><i>new secret our place</i><c>our new secret place</c></NS>. Where do you think <NS type="M"><c>that is</c></NS>?</p>
+          <p>It is a secret!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

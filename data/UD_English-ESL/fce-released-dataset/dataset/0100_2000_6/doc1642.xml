@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR647*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen:</p>
+          <p>I am very <NS type="DJ"><i>please</i><c>pleased</c></NS> to receive <NS type="DD"><i>you</i><c>your</c></NS> letter, and read all the <NS type="AGN"><i>question</i><c>questions</c></NS> you <NS type="TV"><i>ask</i><c>have asked</c></NS> me<NS type="RP"><i>, now</i><c>. Now</c></NS>, I <NS type="TV"><i>answer</i><c>will answer</c></NS> <NS type="RD"><i>the</i><c>your</c></NS> <NS type="FN"><i>question</i><c>questions</c></NS>.</p>
+          <p>I would like to go <NS type="UV"><i>travel</i></NS> in July, because <NS type="AS"><i>at that <NS type="RN"><i>moment</i><c>time</c></NS>, is <NS type="RV"><i>stay</i><c>start</c></NS> my summer holiday</i><c>my summer holiday starts at that time</c></NS>, so I <NS type="TV"><i>had</i><c>have</c></NS> more <NS type="DJ"><i>freedom</i><c>free</c></NS> time, and I want to <NS type="RV"><i>live</i><c>stay</c></NS> in tents more than log <NS type="FN"><i>cabin</i><c>cabins</c></NS>, because when we <NS type="RV"><i>live</i><c>stay</c></NS> in a tent<NS type="UP"><i>,</i></NS> <NS type="W"><i>usually we are</i><c>we are usually</c></NS> in the countryside. <NS type="RP"><i>at</i><c>At</c></NS> that <NS type="RN"><i>moment</i><c>time</c></NS>, I think it should be suitable for me.</p>
+          <p>Do you know<NS type="UP"><i>,</i></NS> I am <NS type="S"><i>amuzing</i><c>amazing</c></NS> <NS type="M"><c>when it comes</c></NS> to <NS type="FV"><i>play</i><c>playing</c></NS> tennis? I am <NS type="M"><c>on the</c></NS> <NS type="W"><i>tennis first</i><c>first tennis</c></NS> team in my school, so I can <NS type="RV">show</NS> my <NS type="RJ"><NS type="DJ"><i>highly</i><c>high</c></NS></NS> tennis <NS type="FN"><i>skill</i><c>skills</c></NS> during the holidays, and I can play <NS type="RP"><i>Basketball</i><c>basketball</c></NS> as well, but not very <NS type="DY"><i>good</i><c>well</c></NS><NS type="RP"><i>, you</i><c>. You</c></NS> <NS type="TV"><i>can</i><c>could</c></NS> say I only know how to play.</p>
+          <p>Do you mind <NS type="FV"><i>tell</i><c>telling</c></NS> me what <NS type="AS"><i>is the weather</i><c>the weather will be</c></NS> <NS type="MT"><c>like</c></NS><NS type="UP"><i>,</i></NS> when I <NS type="MV"><c>am</c></NS> <NS type="RT"><i>during</i><c>on</c></NS> <NS type="UD"><i>the</i></NS> holiday, what kind <NS type="UD"><i>the</i></NS> money I should bring with me and what language I should <NS type="RV"><i>know</i><c>speak</c></NS> <NS type="UT"><i>in</i></NS> there?</p>
+          <p>Please write back. <NS type="RP"><i>take</i><c>Take</c></NS> care</p>
+          <p>From</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>What do you think about shopping?</p>
+          <p><NS type="R"><NS type="DJ"><i>Very</i><c>Great</c></NS> <NS type="RP"><i>Fun</i><c>fun</c></NS>, very happy, if go with your <NS type="RP"><i>girl friend</i><c>girlfriend</c></NS> <NS type="MA"><c>it</c></NS> will feel <NS type="S"><i>romatic</i><c>romantic</c></NS>, you should think something like this</NS>, but do you know <NS type="MA"><c>it</c></NS> is not always like this<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>When you go <NS type="UT"><i>to</i></NS> shopping with your <NS type="RP"><i>girl friend</i><c>girlfriend</c></NS>, she <NS type="AGV"><i>want</i><c>wants</c></NS> to <NS type="RV"><i>watch</i><c>look at</c></NS> every <NS type="MN"><c>item of</c></NS> <NS type="RN"><i>clothes</i><c>clothing</c></NS> in the shopping centre, but you are not <NS type="RJ"><i>interesting</i><c>interested</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> that<NS type="RP"><i>, <NS type="S"><i>romatic</i><c>romantic</c></NS></i><c>. Romantic</c></NS>, no! I think you will feel <NS type="RJ"><i>boring</i><c>bored</c></NS>.</p>
+          <p><NS type="CE">If you <NS type="RJ"><i>interesting</i><c>interested</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> the clothes as well, but you need to remember, one is male, but one is female, they should <NS type="FV"><i>had</i><c>have</c></NS> <NS type="DJ"><i><NS type="S"><i>diffence</i><c>difference</c></NS></i><c>different</c></NS> fashion, at that moment should be had one is boring or have some bad chat</NS>, so <NS type="RY"><i>at the last</i><c>in the end</c></NS> you both <NS type="UA"><i>two</i></NS> will feel unhappy or angry <NS type="RT"><i>to</i><c>with</c></NS> each other.</p>
+          <p>If you go out with your <NS type="MP"><i>same sex</i><c>same-sex</c></NS> friend that should be fine<NS type="R">, same fashion,</NS> but <NS type="MC"><c>if</c></NS> <NS type="RP"><i>everytime</i><c>every time</c></NS> <NS type="MA"><c>you</c></NS> go to the same place, everyone will feel <NS type="RJ"><i>boring</i><c>bored</c></NS>.</p>
+          <p>Shopping <NS type="TV"><i>is</i><c>can be</c></NS> enjoyable, but not very <NS type="SX"><i>offer</i><c>often</c></NS>, so don't say to everyone <NS type="MC"><c>that</c></NS> shopping is always enjoyable!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

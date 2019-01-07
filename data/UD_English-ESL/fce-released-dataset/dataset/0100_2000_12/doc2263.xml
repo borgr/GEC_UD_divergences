@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR905*0100*2000*02">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>The trip that you <NS type="TV"><i>planned</i><c>have planned</c></NS> for us<NS type="UP"><i>,</i></NS> students<NS type="UP"><i>,</i></NS> <NS type="UA"><i>it's</i><c>is</c></NS> a great chance to meet new people and visit a beautiful city <NS type="U"><i>like London</i></NS>. Your programme is excellent because it tries to offer <NS type="UT"><i>to</i></NS> the students the best way to spend <NS type="RD"><i>our</i><c>their</c></NS> time without wasting time <NS type="RT"><i>in</i><c>with</c></NS> silly places or events. We'd like to thank you because <NS type="RD"><i>the</i><c>this</c></NS> kind of <NS type="RN"><i>happening</i><c>event</c></NS> shows how <NS type="W"><i>you are dedicated</i><c>dedicated you are</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> our school and the students that study there. It's <NS type="W"><i>great to visit especially</i><c>especially great to visit</c></NS> the Science Museum<NS type="MP"><c>,</c></NS> because of its <NS type="RN"><i>expositions</i><c>exhibitions</c></NS>.</p>
+          <p>But there's something that I'd like to ask. The London <NS type="RP"><i>fashion</i><c>Fashion</c></NS> and Leisure Show will start on Tuesday. It's a great opportunity for us because there will be <NS type="RN"><i>expositions</i><c>exhibitions</c></NS> of the latest fashions, of the new hairstyles, <NS type="MC"><c>and</c></NS> of the new leisure and sports clothes and people teaching how to <NS type="MV"><c>apply</c></NS> <NS type="MP"><i>make up</i><c>make-up</c></NS>.</p>
+          <p>Our suggestion is that you could change <NS type="R">the day of the leisure time to the shopping in the afternoon</NS>. <NS type="RT"><i>By</i><c>In</c></NS> this way, the leisure time would be on Tuesday and we would be able to go to the London Fashion <NS type="MN"><c>Show</c></NS>. Thanks for <NS type="RD"><i>the</i><c>your</c></NS> attention and we're waiting for your answer.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Famous People <NS type="RP"><i>x</i><c>&amp;</c></NS> <NS type="MD"><c>the</c></NS> Media</p>
+          <p>Famous people are special <NS type="R"><i>for</i><c>in the eyes of</c></NS> the rest of <NS type="UD"><i>the</i></NS> society. They form opinions and invent new fashion styles. Nowadays, the media is expanding its <NS type="RN"><i>ways</i><c>means</c></NS> of communication so they need more information. The media is starting to <NS type="RV"><i>get</i><c>encroach</c></NS> into the private life of these famous people.</p>
+          <p>It's important to respect other <NS type="MP"><i>people</i><c>people's</c></NS> lives because <NS type="R">it</NS> can cause serious problems <NS type="RT"><i>in</i><c>for</c></NS> the family of the person or in his life. If the famous person doesn't mind <NS type="UT"><i>in</i></NS> being filmed in his personal life there's no problem. But if the politicians or the film stars ask for <NS type="DN"><i>privacity</i><c>privacy</c></NS> the media has to respect <NS type="MA"><c>that</c></NS>. Everybody likes to be with <NS type="RD"><i>your</i><c>their</c></NS> family without any reporter or photographer <NS type="MV"><c>hanging around</c></NS>.</p>
+          <p>In summary, the best thing to do is try to extract from these people their best qualities and not try to find things that could irritate them like <NS type="RJ"><i>familiar</i><c>family</c></NS> problems or personal problems. <NS type="UD"><i>The respect</i><c>Respect</c></NS> is essential. They deserve to have a private life like any <NS type="RJ"><i>common</i><c>ordinary</c></NS> person.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

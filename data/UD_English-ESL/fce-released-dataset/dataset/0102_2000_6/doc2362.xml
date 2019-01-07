@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR951*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="L"><i>Mister</i><c>Sir</c></NS>,</p>
+          <p>I am writing from Paris where I live. My wife <NS type="R"><i>an</i><c>and</c></NS> I spent a couple of days in London two weeks ago. We were really pleased because it was our first time in England.</p>
+          <p>We asked our travel agent to organise our trip. My wife and I are both <NS type="SX"><i>found</i><c>fond</c></NS> of theatre, <NS type="RN"><i>musical shows</i><c>musicals</c></NS> especially. It is so rare to see <NS type="AGN"><i>musical</i><c>musicals</c></NS> in Paris that we decided to book two seats for "Over the rainbow".</p>
+          <p>We were very disappointed! Of course, the show didn't start on time. No reasons or excuses were given. Our travel agent told us that it would be cheaper to purchase our tickets directly <NS type="RT"><i>in</i><c>from</c></NS> the theatre. But, in fact, there were no discounts available. And we had to pay £20 <NS type="RD"><i>each</i><c>a</c></NS> seat.</p>
+          <p>The worst was to come. The great Danny Brooks was supposed to be the main character. But, instead of him, we saw an unknown actor (who really <NS type="AGV"><i>need</i><c>needs</c></NS> singing lessons).</p>
+          <p>After the show we had planned to go to the theatre restaurant. But it was closed. Perhaps it was a <NS type="M"><c>stroke of</c></NS> luck!</p>
+          <p>So we want you to give us our money back, the show <NS type="RV"><i>didn't</i><c>wasn't</c></NS> worth the price.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>And now, I was wondering if I had not made a mistake. My brother was too talkative!</p>
+          <p>Two days before, I told him that our father was about to buy a brand new car. And he did not want our mother to be informed. It was supposed to be a gift for twenty years of marriage. A car only for her.</p>
+          <p>The first thing Pat did was to tell our young sister the secret. And, less than five minutes later, our mother knew the whole thing. Her reaction was not the one we were expecting. <NS type="RY"><i>Apparently</i><c>Obviously</c></NS> she was not surprised, but she was <NS type="RY"><i>surely</i><c>certainly</c></NS> angry. Really angry!! She thought it was a stupid idea, and also an expensive one. According to her, this car would have been useless. She suspected our father <NS type="TV"><i>to want</i><c>wanted</c></NS> to please himself.</p>
+          <p>Then, we decided to <NS type="RV"><i>offer</i><c>give</c></NS> her a red bicycle. It was the colour my father had chosen for the car!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

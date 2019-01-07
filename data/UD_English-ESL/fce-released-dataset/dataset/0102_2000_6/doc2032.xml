@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR818*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing in order to complain about the show "Over the Rainbow", which <NS type="TV"><i>was played</i><c>played</c></NS> in the "Circle Theatre", because the information which was given in your advertisement was not true at all.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I would like to say something about the <NS type="DN"><i>starring</i><c>star</c></NS>: I went to the theatre because I wanted to see Danny Brook, but once there I found an actor who I had never heard <NS type="RT"><i>about</i><c>of</c></NS>. So the main <NS type="RN"><i>point</i><c>purpose</c></NS> of my visit had <NS type="RV"><i><NS type="S"><i>dissappeared</i><c>disappeared</c></NS></i><c>failed</c></NS>.</p>
+          <p>Another point is the time when it started, exactly 45 minutes <NS type="FY"><i>later</i><c>late</c></NS>. A serious theatre can't <NS type="RV"><i>miss</i><c>fail</c></NS> <NS type="MT"><c>on</c></NS> such an important thing, the <NS type="RN"><i>starting-time</i><c>time of the performance</c></NS>. I had to wait all that time in the street, because the hall was not big enough. Moreover, once I was <NS type="UV"><i>going</i></NS> <NS type="FV"><i>to pay</i><c>paying</c></NS> for the tickets, I found another thing <NS type="MY"><c>out</c></NS>: there were no discounts <NS type="S"><i>avaible</i><c>available</c></NS>. In your advertisement you informed us <NS type="RT"><i>about</i><c>of</c></NS> their false existence.</p>
+          <p>But there is still another point: the theatre restaurant where I had decided <NS type="FV"><i>having</i><c>to have</c></NS> supper was closed, without <NS type="MA"><c>anyone</c></NS> <NS type="RV"><i>saying</i><c>giving</c></NS> the reason. I had to go back to the hotel, because all <NS type="MD"><c>the</c></NS> restaurants in the area were <NS type="RY"><i><NS type="DY"><i>absolutelly</i><c>absolutely</c></NS></i><c>completely</c></NS> crowded.</p>
+          <p>Summing up, you might have <NS type="RV"><i>noticed</i><c>realised</c></NS> that that wasn't "my perfect evening out" <NS type="S"><i>wich</i><c>which</c></NS> you promised, so I would like you to give me the money I paid for the ticket back. This might be the only way I keep on relying on your theatre.</p>
+          <p>I hope I will receive an answer.</p>
+          <p>yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, and because of this Pat caused a big, but stupid<NS type="MP"><c>,</c></NS> problem.</p>
+          <p>It was late in the night, and Pat was thinking about something Nick had told her that afternoon: - "Don't tell Marie I was here". Nick was Marie's boyfriend, and Marie <NS type="MV"><c>was</c></NS> a very good friend of hers. They were in the shopping centre, and the problem was that Nick wasn't alone, he was with a very beautiful girl. What could Pat do? That morning Marie had told her that Nick couldn't go to the cinema with her because he had a lot of work to do in the afternoon so.. what was he doing there with that girl?</p>
+          <p>In the end Pat phoned Marie and told her: she was a very good friend. Marie was so shocked that, as soon as Pat had stopped speaking, she phoned Nick and, without letting him say anything, she broke up their <NS type="RN"><i>relation</i><c>relationship</c></NS>.</p>
+          <p>But the truth was very different, because what Nick was doing there was something which had nothing to <NS type="RV"><i>be</i><c>do</c></NS> with what Pat had thought. Nick was there because the following Sunday would be a very special day for him: he would have been going out with Marie for three years, and he wanted to buy a present for her. But..what about the girl? She was his cousin! She works as a model, and she was <NS type="S"><i>advicing</i><c>advising</c></NS> him about <NS type="RQ"><i>which</i><c>what</c></NS> clothes, etc,... <NS type="FV"><i>buy</i><c>to buy</c></NS> for her.</p>
+          <p>Pat couldn't keep that secret, and in spite of helping Marie, she made a couple <NS type="RV"><i>disappear</i><c>break up</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

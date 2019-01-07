@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR923*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson</p>
+          <p>First of all I would like to thank you for organizing this trip to London, and for taking care of the programme. It is a very good <NS type="S"><i>shedule</i><c>schedule</c></NS>, especially because you have considered different activities for us.</p>
+          <p>However, we saw an advertisement, and we are keen on the idea of going to the London Fashion and Leisure Show. It will take place on Tuesday March 14th at the Central Exhibition Hall, from 10.00 to 19.00.</p>
+          <p>Personally, I think it <NS type="TV"><i>can</i><c>could</c></NS> be a great opportunity because it is something we all want to <NS type="S"><i>attent</i><c>attend</c></NS> <NS type="UT"><i>to</i></NS>, and we are all <NS type="RJ"><i>fond</i><c>interested</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> the latest fashion. We noticed that it is free for students<NS type="MP"><c>,</c></NS> so the price of the trip will not rise.</p>
+          <p>We discussed <NS type="UT"><i>about</i></NS> the programme, and because the show will take the whole day, we would not mind going to the Science Museum on <NS type="S"><i>Wenesday</i><c>Wednesday</c></NS> instead of having free time all afternoon.</p>
+          <p>I am looking forward to having your answer.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. It was a new challenge, and not only for me, but for everyone there. Nobody thought I was capable of doing it.</p>
+          <p>I wasn't sure of what to do, and the pressure of everyone watching me<NS type="UP"><i>,</i></NS> was driving me mad.</p>
+          <p>Finally, I managed to move my right foot closer to the edge. I could <NS type="RV"><i>listen</i><c>hear</c></NS> the crowd shouting 'Go, <NS type="RP"><i>Go</i><c>go</c></NS>'. That was my only chance.<NS type="UP"><i>.</i></NS> Only <NS type="MD"><c>a</c></NS> few more seconds, otherwise my <NS type="RN"><i>time</i><c>turn</c></NS> would be over.</p>
+          <p>I didn't even think of <NS type="DV"><i>boking</i><c>looking</c></NS> down. I was already paralysed, and that wouldn't help me at all.</p>
+          <p>Then, by some 'strange power'<NS type="MP"><c>,</c></NS> my left foot was moving and I wanted to stop it, but it was too difficult.</p>
+          <p>The clock was running.. <NS type="SX"><i>tic</i><c>tick</c></NS>, <NS type="S"><i>tac</i><c>tock</c></NS>... And suddenly everything stopped. I felt an <NS type="S"><i>enourmous</i><c>enormous</c></NS> peace. Somehow I managed to jump out of the airplane and I was flying!</p>
+          <p>Those minutes<NS type="UP"><i>,</i></NS> up in the air, feeling the wind in my face, were fantastic....And then I was terrified when I couldn't open the parachute! <NS type="DY"><i>Fortunatelly</i><c>Fortunately</c></NS>, I wasn't alone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

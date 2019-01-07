@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR902*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am <NS type="RJ"><i>delightful</i><c>delighted</c></NS> to receive your letter saying that I have won a two-week holiday in your recent competition and it will all <NS type="MV"><c>be</c></NS> paid <NS type="MT"><c>for</c></NS> in advance. I am writing this letter so as to give you the information which will help you <NS type="FV"><i>organize</i><c>to organize</c></NS> all the necessary details of the forthcoming holiday.</p>
+          <p>I would be grateful if you could arrange a date after the 20th of July, due to <NS type="UD"><i>the</i></NS> problems beyond my control. Otherwise I will not be able to travel abroad.</p>
+          <p>I would rather stay in one of the log cabins as I am allergic to many plants and insects and I should avoid <NS type="RV"><i>contacting</i><c>coming into contact with</c></NS> them.</p>
+          <p>It is wonderful to hear that there is a good variety of activities available at the camp. As I am very interested in photography and swimming I am hoping to take part in <NS type="R"><i>them</i><c>those activities</c></NS>. I came second <NS type="MT"><c>in</c></NS> last year's swimming competition and I have enrolled <NS type="MT"><c>in</c></NS> photography classes. <NS type="RT"><i>In</i><c>On</c></NS> the camp I can practise them <NS type="RP"><i>alot</i><c>a lot</c></NS>.</p>
+          <p>I was wondering if I need to bring some extra money and thick clothes with me in case there is an emergency. Could you please let me know as soon as you receive my letter<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I am terribly sorry not to drop you a line since the last time we wrote to one another. But I <NS type="TV"><i>finally got</i><c>have finally got</c></NS> around <NS type="MT"><c>to</c></NS> writing and you'll see that <NS type="TV"><i>it's <NS type="S"><i>definetly</i><c>definitely</c></NS></i><c>it's definitely been</c></NS> worth waiting <NS type="MT"><c>for</c></NS> as I have some great and <NS type="S"><i>unbeliavable</i><c>unbelievable</c></NS> news to tell you.</p>
+          <p>As you know I'm on half-term school holiday and have plenty of time to do <NS type="CQ"><i>much</i><c>many</c></NS> more <NS type="UJ"><i>different</i></NS> things apart from studying my A-level history, such as meeting up <NS type="MT"><c>with</c></NS> my friends, visiting interesting places or even going to the cinema on my own.</p>
+          <p>However<NS type="MP"><c>,</c></NS> this term has been a far cry from the others. You will see why I'm describing it as the most <NS type="S"><i>unforgettible</i><c>unforgettable</c></NS> one when you read through my letter.</p>
+          <p><NS type="MD"><i>Couple</i><c>A couple</c></NS> of days ago I bumped into my best friend<NS type="MP"><c>,</c></NS> who is into music<NS type="MP"><c>,</c></NS> and we started to have a chat about what we had both been doing. She invited me to the rehearsal of a huge <NS type="S"><i>consert</i><c>concert</c></NS> <NS type="R"><i>whose</i><c>by a</c></NS> singer <NS type="MA"><c>who</c></NS> <NS type="TV"><i>was</i><c>is</c></NS> a well-known pop star as well as my <NS type="SA"><i>favorite</i><c>favourite</c></NS>. Can you believe that I was introduced to him and I took numerous photographs<NS type="MP"><c>,</c></NS> some of which I put in the envelope. It was like a dream come true, and was the best part of the experience in my opinion. I helped out my friend by writing huge billboards and making some light refreshments. Despite the fact that I felt exhausted I must admit that it was one of the days I will never forget <NS type="S"><i>througout</i><c>throughout</c></NS> my <NS type="MJ"><c>whole</c></NS> life</p>
+          <p><NS type="RP"><i>write</i><c>Write</c></NS> <NS type="MT"><c>to</c></NS> me soon.</p>
+          <p><NS type="L">Yours sincerely</NS>,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR22*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>&lt;16</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to make a complaint about the show 'Over the Rainbow'.</p>
+          <p>During my stay in London I went to your theatre to see this show. <NS type="RC"><i>As</i><c>Though</c></NS> it <NS type="TV"><i>is said</i><c>said</c></NS> in your advertisement<NS type="UP"><i>,</i></NS> the show <NS type="TV"><i>is starring</i><c>stars</c></NS> Danny Brook <NS type="UC"><i>but</i></NS> there was <NS type="MD"><c>a</c></NS> different actor <NS type="MY"><c>on stage</c></NS>. <NS type="RA"><i>It</i><c>That</c></NS> is not the only problem.</p>
+          <p>The show <NS type="RV"><i>had</i><c>was meant</c></NS> to start at 19:30, but it started at 20:15. You promised that there <NS type="TV"><i>will</i><c>would</c></NS> be discounts, but when I <NS type="RV"><i>came</i><c>arrived</c></NS>, I found out<NS type="UP"><i>,</i></NS> that they were not available.</p>
+          <p>I wanted to go to your restaurant. I invited a friend of mine and promised her that we <NS type="TV"><i>will</i><c>would</c></NS> go there. And what I found out<NS type="MV"><i><NS type="UP"><i>. Your</i><c> your</c></NS></i><c> was your</c></NS> restaurant was closed.</p>
+          <p>You promised that if we <NS type="TV"><i>go</i><c>went</c></NS> to your show we <NS type="TV"><i>will</i><c>would</c></NS> have a perfect evening. Everything was just <NS type="R"><i>vice versa</i><c>the reverse</c></NS>. I am very disappointed<NS type="RP"><i>, that</i><c>. That</c></NS> is why I am asking you for compensation.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat was not very good at keeping secrets.</p>
+          <p>It happened at the end of <NS type="MD"><c>the</c></NS> school year. My class was going to a <NS type="DN"><i>night disco</i><c>nightclub</c></NS> and I wanted to go there too. I asked my parents if I could go, but they did not let me do that. I tried to persuade them, <NS type="RV"><i>told</i><c>said</c></NS> that nothing <NS type="TV"><i>will</i><c>would</c></NS> happen to me, promised to do all <NS type="MD"><c>the</c></NS> housework. But all they <NS type="TV"><i>have done</i><c>did</c></NS> <NS type="TV"><i>is</i><c>was</c></NS> <NS type="FV"><i>told</i><c>tell</c></NS> me that I am to young for <NS type="RA"><i>it</i><c>that</c></NS> and I can go there only when I am 20 years old.</p>
+          <p>I had such a desire to go to the disco<NS type="UP"><i>,</i></NS> that I decided to go even without <NS type="MD"><c>my</c></NS> <NS type="RP"><i>parent's</i><c>parents'</c></NS> permission. I told my secret to my best friend<NS type="MP"><c>,</c></NS> Pat. But she told it to <NS type="SX"><i>very</i><c>every</c></NS> kid in school, even the teachers heard it. It <NS type="RV"><i><NS type="IV"><i>occured</i><c>occurred</c></NS></i><c>happened</c></NS> that one of the teachers told my parents about it. <NS type="RT"><i>At</i><c>In</c></NS> the end I was punished and stayed at home for two weeks.</p>
+          <p>I understood that I must keep my secrets and <NS type="UV"><i>do</i></NS> not tell anybody, even <NS type="RD"><i>the</i><c>my</c></NS> best friend.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

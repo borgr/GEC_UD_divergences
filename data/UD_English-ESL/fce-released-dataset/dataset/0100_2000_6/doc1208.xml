@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR497*0100*2000*01">
+  <candidate><personnel><language>French</language><age>&lt;16</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I have just received your letter and I'm writing back to tell you how <NS type="UY"><i>much</i></NS> <NS type="W"><i>it made me happy</i><c>happy it made me</c></NS> to win this prize and to give you the answers to your questions.</p>
+          <p>I would like to travel in July because I can only see my family during the month of August. Concerning the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in log cabins<NS type="MP"><c>,</c></NS> finding them much more comfortable than tents!</p>
+          <p>Finally, I decided to choose singing and basketball because my friends say I'm good at both. Singing has always been a hobby and <NS type="RV"><i>takes</i><c>is</c></NS> an important part in my life. Singing relaxes me when I am stressed before exams or competitions.</p>
+          <p>Basketball is simply my favourite sport. It makes me feel very free and makes me forget all my daily problems. I actually have won a basketball prize when I was young...!</p>
+          <p><NS type="RP"><i>to</i><c>To</c></NS> finish off, I would like to ask you how much money is needed for my personal shopping <NS type="MN"><c>expenses</c></NS> and what kind of clothes I should take.</p>
+          <p>I hope I haven't been too "demanding".</p>
+          <p>Yours sincerely,</p>
+          <p>Marthe Ouellet</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Making a short video about <NS type="RJ"><i>daily</i><c>everyday</c></NS> life is an enjoyable but difficult thing to do.</p>
+          <p>We <NS type="RV"><i>would</i><c>should</c></NS> concentrate on <NS type="RP"><i>students</i><c>students'</c></NS> <NS type="AGN"><i>imagination</i><c>imaginations</c></NS>, <NS type="RN"><i>creation</i><c>creativity</c></NS> and <NS type="AGN"><i>talent</i><c>talents</c></NS>. <NS type="RP"><i>to</i><c>To</c></NS> do that, it is more interesting to go to art, music and drama classes. <NS type="RY">Effectively</NS>, in these classes, students express themselves more than in other classes.</p>
+          <p>However, it is important to observe <NS type="RP"><i>students</i><c>students'</c></NS> <NS type="R">attention</NS> and therefore we should film them during an exam (but only for a short period of time)<NS type="MP"><c>.</c></NS></p>
+          <p>A school teaches you how to be polite and respectful. The cafeteria is an interesting place to go because one can see if students respect food and if they remain polite towards each other. It is important to remember that <NS type="RN"><i>short shots</i><c>close-ups</c></NS> should be taken <NS type="RT"><i>for</i><c>of</c></NS> each subject.</p>
+          <p>Students walking and talking in corridors should be filmed so that we also show how students relax between two lessons.</p>
+          <p>I think <NS type="AGA"><i>these</i><c>this</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> the best <NS type="CN"><i>advices</i><c>advice</c></NS> I can give and hope that <NS type="RA"><i>one</i><c>you</c></NS> <NS type="AGV"><i>understands</i><c>understand</c></NS> the main idea<NS type="MP"><c>,</c></NS> which is to concentrate more on <NS type="MP"><i>students</i><c>students'</c></NS> attitudes than on lessons.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

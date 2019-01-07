@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE68*0100*2001*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Maria,</p>
+          <p>I would be pleased to help you <NS type="RT"><i>about</i><c>with</c></NS> all your questions and I will provide you <NS type="MT"><c>with</c></NS> <NS type="RD"><i>some</i><c>the</c></NS> information which you need as <NS type="RY"><i>much</i><c>far</c></NS> as I can.</p>
+          <p>I would like to inform you that Centeral Red Lion Hotel has been booked for the <NS type="S"><i>accomadation</i><c>accommodation</c></NS> of the group and it will be quite easy to get <NS type="RP"><i>every where</i><c>everywhere</c></NS> <NS type="W"><i>from the hotel on foot</i><c>on foot from the hotel</c></NS> during your stay.</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> <NS type="UC"><i>that</i></NS> we <NS type="TV"><i>arrange</i><c>are arranging</c></NS> an evening party on the third day of the week, we can say that <NS type="MA"><c>it</c></NS> <NS type="MV"><c>is</c></NS> a kind of relaxation time. Nothing will be <NS type="RJ"><NS type="S"><i>spacial</i><c>special</c></NS></NS>. <NS type="MD"><i>Place</i><c>The place</c></NS> is <NS type="MD"><c>the</c></NS> <NS type="RP"><i>College</i><c>college</c></NS> garden. <NS type="MD"><i>Time</i><c>The time</c></NS> is 7 pm. There is no need to bother <NS type="MY"></NS> about <NS type="S"><i>clouths</i><c>clothes</c></NS>. Everybody can <NS type="RV"><i>put on</i><c>wear</c></NS> something casual.</p>
+          <p><NS type="S"><i>Befor</i><c>Before</c></NS> <NS type="MA"><c>you</c></NS> <NS type="S"><i>leav</i><c>leave</c></NS> <NS type="UT"><i>from</i></NS> England<NS type="MP"><c>,</c></NS> I suggest you <NS type="TV"><i>to visit</i><c>visit</c></NS> the <NS type="S"><i>cannals</i><c>canals</c></NS> and small villages around Basingstoke. You could <NS type="RV"><i>find</i><c>have</c></NS> the <NS type="S"><i>opportunaty</i><c>opportunity</c></NS> to see the country life.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Time flies</p>
+          <p>I have to admit that whoever invented <NS type="UD"><i>the</i></NS> cars and transportation vehicles <NS type="RV"><i>did</i><c>came up with</c></NS> the most <NS type="RJ">respectable</NS> <NS type="FN"><i>invention</i><c>inventions</c></NS> of the <NS type="RN"><i>word</i><c>world</c></NS>. I say that <NS type="AGA"><i>it</i><c>they</c></NS> must be the most important <NS type="FN"><i>thing</i><c>things</c></NS> for us because they <NS type="RV">save</NS> our <NS type="CN"><i>times</i><c>time</c></NS> passing so fast.</p>
+          <p>Can you <NS type="RV">deny</NS> how quickly we get somewhere by car or by bus<NS type="RP"><i>.</i><c>?</c></NS> <NS type="M"><i><NS type="RP"><i>May be</i><c>Maybe</c></NS></i><c>It is maybe</c></NS> 10 times as quick as getting somewhere on foot. Try to imagine your life without having <NS type="RP"><i>anyof</i><c>any of</c></NS> them. Wouldn't <NS type="MA"><c>it</c></NS> be <NS type="S"><i>unbarable</i><c>unbearable</c></NS> and <NS type="RJ">painful</NS><NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p><NS type="S"><i>Ceartainly</i><c>Certainly</c></NS> it would be just like mine<NS type="UP"><i>. Because</i><c> because</c></NS> I live in a rural area<NS type="MP"><c>,</c></NS> far from any village, town, or city <NS type="SA"><i>center</i><c>centre</c></NS>. <NS type="MV"><i>The</i><c>To reach the</c></NS> nearest civilization takes me 1 hour on foot. I have no car, <NS type="MC"><c>and</c></NS> no local bus service to use. Even <NS type="IV"><i>comeing</i><c>coming</c></NS> to Basingstoke seems like <NS type="FD"><i>a</i><c>an</c></NS> international journey to me. And <NS type="DY"><i>ofcause</i><c>of course</c></NS> this stops me <NS type="CE">everytime to live sociable life</NS>. But also I'm aware <NS type="UT"><i>of</i></NS> that <NS type="UD"><i>the</i></NS> time flies for me. I must do whatever I want <NS type="S"><i>befor</i><c>before</c></NS> it is too late. And I have to confess the invention of the car was the most <NS type="DJ"><i>usefull</i><c>useful</c></NS> invention for <NS type="UD"><i>the</i></NS> humanity.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

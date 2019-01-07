@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR470*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p> Dear <NS type="RP"><i>manager</i><c>Manager</c></NS> of the Circle Theatre</p>
+          <p>Last <NS type="S"><i>Sanday</i><c>Sunday</c></NS> my friends and I saw that advertisement about the <NS type="RN"><i>theatre</i><c>play</c></NS> you were supposed to <NS type="RV"><i>present</i><c>put on</c></NS>. We thought that it was a good chance for us to watch it.</p>
+          <p>"Over the <NS type="RP"><i>rainbow</i><c>Rainbow</c></NS>" was supposed to start at seven thirty. We went there on time. We waited <NS type="S"><i>ther</i><c>there</c></NS> for <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes for it to start! We couldn't believe it. We really got bored<NS type="MP"><c>,</c></NS> <NS type="RT"><i>as</i><c>like</c></NS> all the other <NS type="S"><i>peaple</i><c>people</c></NS> there.</p>
+          <p>We were very disappointed because before this happened we <NS type="DV">pouded</NS> the tickets but there were no discounts available. And then <NS type="CE">delate <NS type="MP"><i>forty five</i><c>forty-five</c></NS> <NS type="S"><i>minuites</i><c>minutes</c></NS> to present the show</NS>.</p>
+          <p>Then we expected to<NS type="UP"><i>,</i></NS> see Danny Brook and Tina Truelove. We did see Tina Truelove but we did not see Danny Brook. That was very <NS type="RJ"><i><NS type="S"><i>disapponted</i><c>disappointed</c></NS></i><c>disappointing</c></NS>.</p>
+          <p>Fortunately the show finished. We decided to visit the theatre restaurant. But it was closed!! That was <NS type="MD"><c>a</c></NS> <NS type="DY"><i>bad</i><c>badly</c></NS> organized evening<NS type="MP"><c>,</c></NS> we thought. When we asked why <NS type="W"><i>was it</i><c>it was</c></NS> closed<NS type="MP"><c>,</c></NS> the people there told us that they did not <NS type="FV"><i>organized</i><c>organise</c></NS> it before<NS type="MP"><c>.</c></NS></p>
+          <p>I must admit that<NS type="UP"><i>,</i></NS> that evening wasn't the perfect one <NS type="UY"><i>out</i></NS> for me <NS type="CE">but I and for my friends either</NS>. It was the worst evening that we all <NS type="TV"><i>ever had</i><c>had ever had</c></NS>. My friends and I demand our money <NS type="S"><i>bacck</i><c>back</c></NS> <NS type="DY"><i>real</i><c>very</c></NS> soon. And please do not be very <NS type="S"><i>suprised</i><c>surprised</c></NS> <NS type="RP"><i>If</i><c>if</c></NS> you <NS type="S"><i>recieve</i><c>receive</c></NS> more letters about this<NS type="MP"><c>.</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately<NS type="RP"><i>;</i><c>,</c></NS> Pat wasn't very good at keeping secrets. I <NS type="RV"><i>did</i><c>made</c></NS> a big mistake by trusting him. What a fool <NS type="W"><i>was I</i><c>I was</c></NS>.</p>
+          <p>Last Wednesday my sister told me that our grandmother had a serious illness and she was going to die. She told me to tell <NS type="RA"><i>none</i><c>no one</c></NS>. We didn't want <NS type="SX"><i>out</i><c>our</c></NS> <NS type="UP"><i>grand-mother</i><c>grandmother</c></NS> to find <NS type="UA"><i>it</i></NS> out at that moment so we <NS type="AGV"><i>was</i><c>were</c></NS> trying to keep it secret.</p>
+          <p>I knew Pat, my cousin, loved our grandmother very much. She and Pat had a special relationship. Despite the fact that I had to <NS type="RV"><i>tell</i><c>say</c></NS> nothing<NS type="MP"><c>,</c></NS> I thought it was right to tell Pat the truth. After a lot of thought I told <NS type="UA"><i>it</i></NS> <NS type="UT"><i>to</i></NS> him.</p>
+          <p>Pat started screaming and shouting. I knew he couldn't stand it. But I was sure he would <NS type="RV"><i>tell</i><c>say</c></NS> nothing. I was wrong. He told me that he had to tell <NS type="UA"><i>it</i></NS> <NS type="UT"><i>to</i></NS> my grandmother. I couldn't do anything.</p>
+          <p><NS type="RC"><i>Just as</i><c>When</c></NS> Pat left my house he went right away to the hospital. He found her there. And the worst happened.</p>
+          <p>My grandmother was very sensitive and bored <NS type="MT"><c>with</c></NS> life and when she <NS type="IV"><i>heart</i><c>heard</c></NS> it<NS type="MP"><c>,</c></NS> her condition became more serious.</p>
+          <p>After two days she died. Pat<NS type="MP"><c>,</c></NS> my sister and I felt very <NS type="S"><i>rensposible</i><c>responsible</c></NS>. But there was nothing we could do. We knew we had lost her for ever.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

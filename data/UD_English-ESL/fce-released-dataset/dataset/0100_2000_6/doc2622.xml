@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1051*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>41-50</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p><NS type="RP"><i>thank</i><c>Thank</c></NS> you very much for your letter. It is great that I could win the first prize in your competition, which means that I will have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to spend two weeks at Camp California in the U.S.A. I am sure it will be an exciting experience for me.</p>
+          <p>As <NS type="TV"><i>request</i><c>requested</c></NS> <NS type="UV"><i>following</i></NS> you will find the information you need <NS type="MT"><c>below</c></NS>.</p>
+          <p>First, I would like to travel in July because my company is going to close for <NS type="MD"><c>the</c></NS> holiday at that <NS type="RN"><i>period</i><c>time</c></NS> and it would <NS type="AGV"><i>suits</i><c>suit</c></NS> me very well.</p>
+          <p>Secondly, I would prefer <NS type="R"><i>an <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>to stay</c></NS> in <NS type="MD"><c>a</c></NS> tent because I <NS type="S"><i>enjyoi</i><c>enjoy</c></NS> being outside close to <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>Thirdly, <NS type="R"><i>what the activities concern</i><c>concerning the activities</c></NS><NS type="UP"><i>,</i></NS> which I can choose, it is a little bit difficult to decide because I would like to try all of them! As I am very good at tennis and swimming I will choose these. I have won various little tennis tournaments in my country and abroad<NS type="RP"><i>.</i><c>,</c></NS> and I am able to swim <NS type="MT"><c>in</c></NS> every style. Finally, I have two questions. Please let me know <NS type="RQ"><i>which</i><c>what</c></NS> clothes <NS type="UV"><i>do</i></NS> I need <NS type="UA"><i>then</i></NS> and how much money in cash and <NS type="UT"><i>as</i></NS> travellers <NS type="FN"><i>cheque</i><c>cheques</c></NS> <NS type="TV"><i>shall</i><c>should</c></NS> I take with me. I look forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+          <p>E. Elmo.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Sometimes the bad <NS type="S"><i>charachters</i><c>characters</c></NS> in a story are more interesting than the good ones.</p>
+          <p>I completely agree with this statement. Recently I have <NS type="IV"><i>red</i><c>read</c></NS> a short story written by Agatha Christie. <NS type="AGD"><i>His</i><c>Its</c></NS> title was: "The <NS type="S"><i>Mistery</i><c>Mystery</c></NS> of Hunter's Lodge". The <NS type="S"><i>charachter</i><c>character</c></NS> <NS type="RA"><i>which</i><c>whom</c></NS> I liked most was that of Mrs. Havering, the mistress.</p>
+          <p>It was very exciting because she could play <NS type="W"><i>at the same time two people</i><c>two people at the same time</c></NS>: herself and the <NS type="S"><i>houskeeper</i><c>housekeeper</c></NS>. Although from my point of view she planned the murder of his uncle and was able to do it<NS type="RP"><i>.</i><c>,</c></NS> I think that her husband only followed <NS type="R"><i>what she ordered him</i><c>her orders</c></NS>. She was the <NS type="RN"><i>head</i><c>boss</c></NS> in this story. The plan was almost <NS type="DJ"><i>perfectly</i><c>perfect</c></NS> and the police <NS type="RV"><i>hadn't</i><c>couldn't</c></NS> <NS type="TV"><i>discovered</i><c>have discovered</c></NS> the murderer without the help of Mr. Poirot.</p>
+          <p>In my opinion Mrs. Havering was <NS type="FD"><i>a</i><c>an</c></NS> extremely intelligent person in addition to being a very good actress and this made this story full of suspense. Moreover she must have had <NS type="R">an "ice blood"</NS> and strong nerves to handle <NS type="MN"><c>things</c></NS> in that way.</p>
+          <p>As far as I am concerned I would appreciate <NS type="FV"><i>to have</i><c>having</c></NS> <NS type="W"><i>myself some of her characteristics</i><c>some of her characteristics myself</c></NS>, <NS type="R">like take a decision and handle</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

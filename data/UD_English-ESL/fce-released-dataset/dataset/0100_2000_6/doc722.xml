@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR282*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>S</exam_score>
+         <coded_answer>
+          <p>Dear Miss Helen Ryan</p>
+          <p>I was so <NS type="DJ"><i><NS type="S"><i>suprise</i><c>surprise</c></NS></i><c>surprised</c></NS> to hear from you. I couldn't believe that I had won the first prize <NS type="RT"><i>on</i><c>in</c></NS> the competition. I'm so happy because it is the first time that I <NS type="TV"><i>win</i><c>have won</c></NS> something.</p>
+          <p>Here <NS type="UA"><i>it</i></NS> is all your information. I would like <NS type="MA"><c>it</c></NS> if <NS type="RA"><i>you</i><c>I</c></NS> could <NS type="FV"><i>to have</i><c>have</c></NS> my vacation <NS type="UN"><i>trip</i></NS> <NS type="RT"><i>on</i><c>in</c></NS> July because <NS type="MA"><c>it</c></NS> is the only time of the year that my <NS type="RN"><i>job</i><c>employer</c></NS> <NS type="RV"><i>could</i><c>will</c></NS> let me have a vacation. As for the accommodation I would prefer the tent because it <NS type="TV"><i>is</i><c>will be</c></NS> <NS type="RD"><i>my</i><c>the</c></NS> first time that <NS type="TV"><i>I'm going</i><c>I've been</c></NS> <NS type="UT"><i>to</i></NS> camping and I would like to see <NS type="R">how the real life is</NS>. I was so thrilled when I saw that I could do some activities <NS type="RY"><i>also</i><c>as well</c></NS>. I would like to choose swimming and <NS type="UD"><i>the</i></NS> climbing. I'm a very good swimmer but I don't know anything about climbing<NS type="MP"><i> that's</i><c>. That's</c></NS> why I <NS type="TV"><i>choose</i><c>chose</c></NS> it because I want to try something <NS type="SX"><i>knew</i><c>new</c></NS>. <NS type="RY"><i>At last</i><c>Finally</c></NS> I would like to ask you about my clothes and <NS type="AS"><i>how the weather is going to be</i><c>what the weather is going to be like</c></NS> and what kind of clothes I must <NS type="FV"><i>to take</i><c>take</c></NS> with me. That is all.</p>
+          <p>Thank you for making my dream come true<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Everyone has likes and dislikes. But <NS type="RP"><i>noone</i><c>no one</c></NS> <NS type="TV"><i>is doing</i><c>does</c></NS> what he likes all the time. There <NS type="AGV"><i>is</i><c>are</c></NS> times <NS type="RC"><i>that</i><c>when</c></NS> you have to do something even if you don't like it, and times <NS type="RC"><i>that</i><c>when</c></NS> you are doing what you like but not <NS type="MT"><c>at</c></NS> the time you <NS type="MV"><c>would</c></NS> like <NS type="R"><i>it</i><c>to</c></NS>. What I'm trying to say is that I like to shop but I can't do that all the time. First because I'm not so rich and second because I don't enjoy <NS type="FV"><i>to shop</i><c>shopping</c></NS> all the time. Nothing in life is always enjoyable<NS type="MP"><c>,</c></NS> <NS type="MY"><c>not</c></NS> even the things we enjoy <NS type="FV"><i>to do</i><c>doing</c></NS>, and that's how life is. You say you enjoy shopping<NS type="MP"><c>.</c></NS> I understand but life goes on<NS type="MP"><i> you</i><c>. You</c></NS> can't do the same things every day. <NS type="RP"><i>live</i><c>Live</c></NS> your life and try to do different things and you will see that <NS type="FV"><i>to do</i><c>doing</c></NS> different things is exciting and more fun. You don't have to be bored with the same old things.</p>
+          <p>Because as I said <NS type="FV"><i>to do</i><c>doing</c></NS> what you like is good only if you do it when you like <NS type="UA"><i>it</i></NS> and how you like <NS type="UA"><i>it</i></NS> and remember if you have <NS type="MD"><c>a</c></NS> long time to do something <NS type="UD"><i>the</i></NS> you enjoy it more.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

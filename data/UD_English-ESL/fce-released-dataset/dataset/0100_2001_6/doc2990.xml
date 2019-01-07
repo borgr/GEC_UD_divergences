@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE20*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Smith,</p>
+          <p>I am writing in reply to your letter about the <NS type="DJ"><i>internation</i><c>international</c></NS> student conference.</p>
+          <p>The hotel which we have reserved for your group is the Palace Hotel. It is not far from our college, taking 20 minutes by car. It would be a good idea to take a taxi from the hotel to the college because the total <NS type="MN"><c>number of</c></NS> members <NS type="RT"><i>of</i><c>in</c></NS> your group <NS type="AGV"><i>are</i><c>is</c></NS> 4 and <NS type="MD"><c>a</c></NS> taxi fare would not be expensive. There is a taxi rank opposite the hotel.</p>
+          <p>Regarding the end-of-conference party on Thursday, it starts at 7 p.m. in the garden of the college. You can wear either casual <NS type="FN"><i>dresses</i><c>dress</c></NS> or fancy <NS type="R"><i>ones</i><c>dress</c></NS> because we <NS type="TV"><i>have</i><c>are having</c></NS> a fancy-dress competition and the <NS type="RN"><i>raffle</i><c>prize</c></NS> is a bottle of French <NS type="S"><i>champaign</i><c>champagne</c></NS>.</p>
+          <p>On Friday afternoon, <NS type="R">it has set to be</NS> <NS type="CQ"><i>a</i><c>some</c></NS> free time. Therefore, you can go shopping in the town centre<NS type="MP"><c>,</c></NS> which is near the college. Many beautiful and traditional souvenirs can be found there. The other suggestion is going to the flower market<NS type="MP"><c>,</c></NS> <NS type="RA"><i>where</i><c>which</c></NS> is very famous for tourists because it covers 2 acres and there are plenty of flowers to buy. Moreover, it is the biggest flower market in this area.</p>
+          <p>I look forward to meeting you soon and hope you have a safe journey.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Invented Light</p>
+          <p>There are many sources of light in this world<NS type="MP"><c>,</c></NS> such as sunlight, moonlight<NS type="R"><i>,</i><c> and</c></NS> <NS type="RP"><i>candle light</i><c>candlelight</c></NS>. Some of them are natural whereas the others are not. Owing to <NS type="MD"><c>an</c></NS> increasing demand <NS type="RT"><i>of</i><c>for</c></NS> light<NS type="MP"><c>,</c></NS> for more activities, the natural source is not adequate. <NS type="SX"><i>There</i><c>Therefore</c></NS>, electric light <NS type="TV"><i>has invented</i><c>was invented</c></NS>.</p>
+          <p>Nowadays, the electric light <NS type="TV"><i>has been becoming</i><c>has become</c></NS> part of our lives, especially during the night. Whatever we do at night, we need <NS type="UD"><i>the</i></NS> electric light.</p>
+          <p>Have you ever <NS type="DV"><i>imaged</i><c>imagined</c></NS> how this world would be if there was no electric light? It must have <NS type="RV"><i>been</i><c>made</c></NS> a big impact on industry, agriculture and our lifestyle. Think about when the electricity in your house got <NS type="UD"><i>a</i></NS> short <NS type="TV"><i>circuit</i><c>circuited</c></NS>. <NS type="TV"><i>Do</i><c>Did</c></NS> you feel uncomfortable? Could you do anything much without light?</p>
+          <p>In addition, the electric light is the <NS type="RN">manuscript</NS> of other electric <NS type="CN"><i>equipments</i><c>equipment</c></NS> and they <NS type="AGV"><i>has</i><c>have</c></NS> become an important part of our life, too. I think we should be grateful that we have got the electric light for <NS type="RV">comforting</NS> our lifestyle.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR222*0100*2000*02">
+  <candidate><personnel><language>Chinese</language><age>26-30</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>My name is Bao-yu Liao. I am <NS type="MD"><c>the</c></NS> representative of our class <NS type="R">in your college</NS> to write to you.</p>
+          <p>We are very grateful for <NS type="R">what you have well-organised the programme going to London for us</NS>.</p>
+          <p>It is a good programme<NS type="RP"><i>, <NS type="RY"><i>especially</i><c>in particular</c></NS></i><c>. In particular</c></NS> <NS type="MD"><c>the</c></NS> National Art Gallery is one of the <NS type="W"><i>most places we would</i><c>places we would most</c></NS> like to visit. This is because we are very interested in art.</p>
+          <p>In fact, some of <NS type="RD"><i>our</i><c>my</c></NS> classmates have seen an advertisement for the 'London Fashion and Leisure Show'. <NS type="DY"><i>Concidently</i><c>Coincidentally</c></NS> the show is in London and on Tuesday March 14<NS type="MP"><c>,</c></NS> which is during the period we are in London for the three-day programme. We think it is a great opportunity because we are very interested in art and fashion. Of course, <NS type="M"><c>we are interested in</c></NS> leisure as well. Therefore, if it is possible, we would like to see the show in the afternoon on 14 March instead of going shopping.</p>
+          <p>It would be very much appreciated if you could arrange <NS type="MT"><c>for</c></NS> the programme to be changed. We look forward to hearing <NS type="CQ"><i>a</i><c>some</c></NS> good news from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Famous people, such as politicians and film stars, deserve to have a private life without journalists following them all the time. We know it does not matter <NS type="MC"><c>whether</c></NS> they are famous or not<NS type="RP"><i>,</i><c>;</c></NS> everyone <NS type="RV"><i>has</i><c>deserves</c></NS> <NS type="R"><i>his own</i><c>some</c></NS> privacy. However, as human beings, almost all of us are curious. We like to know and chat about gossip. This is why gossip magazines are so popular. <NS type="R">Due to commercial value</NS>, journalists have to follow them all the time to peep <NS type="MT"><c>into</c></NS> their private lives to satisfy us. <NS type="RY"><i>There</i><c>Therefore</c></NS>, it is impossible for journalists to stop chasing them.</p>
+          <p>However, journalists should not only think about <NS type="R">commercial value</NS>, <NS type="RC"><i>but</i><c>because</c></NS> morality and <NS type="S"><i>priciples</i><c>principles</c></NS> <NS type="TV"><i>are also being</i><c>are also</c></NS> concerned. Of course, <NS type="SX"><i>it</i><c>if</c></NS> everyone <NS type="TV"><i>pays</i><c>paid</c></NS> less attention or <NS type="RN">interest</NS>, the <NS type="FN"><i>situations</i><c>situation</c></NS> <NS type="RV"><i>should</i><c>would</c></NS> be better. I remember in August 1997 Princess Diana <NS type="FV"><i>died</i><c>dying</c></NS> in the car crash was one of the most <NS type="DJ"><i><NS type="S"><i>disarster</i><c>disaster</c></NS></i><c>disastrous</c></NS> examples.</p>
+          <p>Although we <NS type="RP"><i>can not</i><c>cannot</c></NS> deny it is our nature - <NS type="M"><c>we are</c></NS> curious<NS type="RP"><i>,</i><c> -</c></NS> we can improve our <NS type="S"><i>sence</i><c>sense</c></NS> of morality and try to think about the importance of privacy for them. Actually, I am happy to hear that journalists have learned their lesson from the death of Princess Diana and try to let her children and <NS type="MD"><c>the</c></NS> Royal family have more privacy. <NS type="MP"><i>Lets</i><c>Let's</c></NS> all leave them more freedom to enjoy their private lives.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR611*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am writing to provide you with the information you require.</p>
+          <p>First of all, I want to inform you that I would like to travel only in July, because in California at that time of the year <NS type="MA"><c>it</c></NS> is very hot and I prefer going <NS type="RT"><i>on</i><c>in</c></NS> summer to going <NS type="RT"><i>on</i><c>in</c></NS> winter or during <NS type="MQ"><c>it</c></NS> other season, because I can do lots of activities that in winter <NS type="MA"><c>it</c></NS> would be impossible to do.</p>
+          <p>Secondly, I would rather <NS type="RV"><i>be <NS type="IV"><i>accomodationed</i><c>accommodated</c></NS></i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> than <NS type="RV"><i>go</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="S"><i>tens</i><c>tent</c></NS>. In my opinion staying in log cabins is <NS type="RJ"><i>funnier</i><c>more fun</c></NS> and much cleaner.</p>
+          <p><NS type="S"><i>Thirsthly</i><c>Thirdly</c></NS>, I would prefer to <NS type="FV"><i>swimming</i><c>swim</c></NS> and <NS type="FV"><i>playing</i><c>play</c></NS> tennis, because I have been <NS type="RV"><i>practising</i><c>doing</c></NS> <NS type="AGA"><i>them</i><c>this</c></NS> since I was I child, and I think I <NS type="MV"><c>am</c></NS> very good <NS type="RT"><i>in</i><c>at</c></NS> each <NS type="R"><i>other</i><c>activity</c></NS>.</p>
+          <p>Finally, I would like to ask you if I have to take some money, or <NS type="MC"><c>if</c></NS> everything is provided <NS type="RT"><i>for</i><c>by</c></NS> the organisers. Furthermore, I would be grateful if you could tell me what type of clothes I have to take.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Sorry for not writing <NS type="MT"><c>to</c></NS> you before, but I have been so busy, because last <NS type="SX"><i>weak</i><c>week</c></NS> I went to a pop concert to help the singers.</p>
+          <p>First, when I arrived they told me to go to a big room, where the singers try on their clothes and they <NS type="R"><i>are made-up</i><c>have their make-up put on</c></NS>. There, in the room I had to <NS type="FV"><i>helped</i><c>help</c></NS> them, I <NS type="RV">mean</NS> the singers, to put on <NS type="DD"><i>theirs</i><c>their</c></NS> clothes, and I had to <NS type="MV"><c>put</c></NS> make-up <NS type="MT"><c>on</c></NS> them. A few minutes later the show started and the <NS type="S"><i>grup</i><c>group</c></NS> appeared on the stage. While they were singing a man told me to clean the room<NS type="UP"><i>,</i></NS> where the singers get dressed. Later, when the show had finished, I stayed with the <NS type="S"><i>grup</i><c>group</c></NS> in their room for a few minutes. Then, they went to the airport, and my dream finished.</p>
+          <p>What I really liked doing was <NS type="FV"><i>to helped</i><c>helping</c></NS> them with their clothes and <NS type="UT"><i>to</i></NS> make-up <NS type="UA"><i>them</i></NS>, because I learnt how to <NS type="MV"><c>do</c></NS> make-up <NS type="R"><i>a</i><c>for</c></NS> <NS type="L"><i>person</i><c>someone</c></NS> and I <NS type="TV"><i>spend</i><c>spent</c></NS> a few minutes with the most popular <NS type="S"><i>grup</i><c>group</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> the world.</p>
+          <p>Write <NS type="MT"><c>to</c></NS> me soon.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

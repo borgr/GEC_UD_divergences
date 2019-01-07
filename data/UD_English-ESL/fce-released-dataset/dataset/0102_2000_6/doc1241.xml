@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR513*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I went to see '<NS type="RP"><i>over the rainbow</i><c>Over the Rainbow</c></NS>'<NS type="MP"><c>,</c></NS> <NS type="RV"><i>presented</i><c>produced</c></NS> by the <NS type="RP"><i>circle <NS type="SA"><i>theater</i><c>theatre</c></NS></i><c>Circle Theatre</c></NS>. I was really disappointed therefore I am writing a <NS type="MN"><c>letter of</c></NS> <NS type="DN"><i>complain</i><c>complaint</c></NS>.</p>
+          <p>Firstly I bought the ticket because I like Danny Brook's acting but in the show someone was <NS type="RV"><i>acting</i><c>playing</c></NS> his part. Also <NS type="RD"><i>the</i><c>this</c></NS> person was not really good at acting.</p>
+          <p>Secondly the time on the leaflet is <NS type="DY"><i>totaly</i><c>totally</c></NS> wrong. It said it <NS type="TV"><i>will</i><c>would</c></NS> start at 19:30. <NS type="RP"><i>Infact</i><c>In fact</c></NS> it started <NS type="S"><i>t</i><c>at</c></NS> 20:15. I was waiting for 45 <NS type="S"><i>minuts</i><c>minutes</c></NS>.</p>
+          <p>Thirdly the ticket was <NS type="RY"><i>no</i><c>not</c></NS> <NS type="RJ">discount</NS> and after the show I visited <NS type="MD"><c>the</c></NS> <NS type="SA"><i>theater</i><c>theatre</c></NS> restaurant but it was <NS type="RJ"><i>close</i><c>closed</c></NS> because the show started <NS type="UY"><i>too</i></NS> late.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> last <NS type="SX"><i>nigh</i><c>night</c></NS> was not <NS type="MD"><c>a</c></NS> perfect evening. <NS type="UP"><i>(Therefore)</i><c>Therefore</c></NS> I want to have <NS type="MD"><c>my</c></NS> money back and I hope you will think about these problems.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>I am writing an article about <NS type="MD"><c>the</c></NS> fashion of the future <NS type="RT"><i>to</i><c>for</c></NS> the international student magazine.</p>
+          <p><NS type="AGN"><i>Fashion</i><c>Fashions</c></NS> are always changing therefore it is really difficult to say what sort of clothes people <NS type="TV"><i>wear</i><c>will wear</c></NS> in <NS type="MD"><c>the</c></NS> future. But when I <NS type="TV"><i>heard</i><c>hear</c></NS> the word <NS type="UT"><i>of</i></NS> future, I have <NS type="MD"><c>an</c></NS> image of <NS type="DJ"><i>metalic</i><c>metallic</c></NS> <NS type="FN"><i>colour</i><c>colours</c></NS> so that <NS type="MT"><c>in</c></NS> my imagination they are wearing <NS type="DJ"><i>metalic</i><c>metallic</c></NS> or <NS type="DY"><i>bright</i><c>brightly</c></NS> <NS type="DJ"><i>colour</i><c>coloured</c></NS> <NS type="RN"><i>cloth</i><c>clothes</c></NS>. <NS type="RP"><i>May be</i><c>Maybe</c></NS> they <NS type="TV"><i>have</i><c>will have</c></NS> more <NS type="U"><i>different types of</i></NS> <NS type="AGN"><i>colour</i><c>colours</c></NS> than now.</p>
+          <p>However<NS type="MP"><c>,</c></NS> I <NS type="X"><i>think the <NS type="UN"><i>style of</i></NS> fashion will not have</i><c>don't think the fashion will have</c></NS> <NS type="R">big differences</NS> because I believe that fashion is in a <NS type="RN">circle</NS>. <NS type="R">The mean of this</NS> is all our <NS type="FN"><i>fashion</i><c>fashions</c></NS> <NS type="UN"><i>styles</i></NS> come from history. For example our <NS type="UN"><i>fashion</i></NS> style at the moment <NS type="UV"><i>is</i></NS> comes from 70's fashion. We always <NS type="R">repeat the fashion with adding some new fashion at that time</NS>.</p>
+          <p> I think <NS type="UD"><i>the</i></NS> people will wear clothes which are <NS type="DJ"><i>metalic</i><c>metallic</c></NS> or <NS type="R">bright colourful colour with mixture of history and future fashion style</NS><NS type="UP"><i>.</i></NS> in <NS type="MD"><c>the</c></NS> future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

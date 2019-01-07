@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR821*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the musical show, which I have seen in The Circle Theatre on 6th June. On that date, I decided to spend one evening seeing a musical show as I was on holiday in London and was interested in <NS type="MD"><c>the</c></NS> <NS type="S"><i>musial</i><c>musical</c></NS> show. But things started to go wrong from the beginning.</p>
+          <p>The first problem was the price of tickets. I expected to buy <NS type="MD"><c>a</c></NS> ticket cheaply but no discounts were available. Another problem was that the show started forty-five minutes late. I found the <NS type="SA"><i>theater</i><c>theatre</c></NS> rather noisy as I arrived very early to sit in the front row. Although I got a bit annoyed, I tried to have a good time.</p>
+          <p>However, something wrong <NS type="RV"><i>came up</i><c>occurred</c></NS> again. The actor 'Danny brook', whom you advertised in the <NS type="S"><i>brocher</i><c>brochure</c></NS>, did not play a part in the show. And I <NS type="MV"><c>was</c></NS> really disappointed <NS type="RT"><i>from</i><c>with</c></NS> the different actor's performance. He kept forgetting his lines. Finally, I went to the restaurant to have something for dinner after <NS type="MD"><c>the</c></NS> show, but it was closed because it was <NS type="FV"><i>refurbishing</i><c>being refurbished</c></NS> <NS type="UN"><i>interior</i></NS>. I am not satisfied with your show as it was <NS type="S"><i>compeletly</i><c>completely</c></NS> different from <NS type="MD"><c>the</c></NS> advertisement.</p>
+          <p>I am therefore writing to ask for a full refund. I expect to receive a cheque for £20. <NS type="MA"><c>I</c></NS> look forward to hearing soon.</p>
+          <p>Yours faithfully</p>
+          <p>  </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>It's <NS type="S"><i>comletely</i><c>completely</c></NS> different!</p>
+          <p>Have you ever been to <NS type="MD"><c>a</c></NS> fashion show named "New trend, New <NS type="S"><i>Millenium</i><c>Millennium</c></NS>"? 'It's completely different! How can we go <NS type="SX"><i>our</i><c>out</c></NS> wearing <NS type="S"><i>thouse</i><c>those</c></NS> clothes?' This is what my friend said the other day when she went to see the show with me.</p>
+          <p>These days, new designs and new trends are coming out every day, sometimes we are shocked by them in comparison with the days <NS type="MA"><c>when</c></NS> we were young. However, <NS type="RP"><i>It</i><c>it</c></NS> doesn't seem to take long for most <NS type="UT"><i>of</i></NS> young people to get used to it, so we can imagine what clothes will be like in the future.</p>
+          <p><NS type="ID">In my opinion,</NS> I believe that clothes indicate <NS type="MD"><c>the</c></NS> individual's creativity as well as social situation. We never know whether we might look like robots because it will be the electronic age. On the other hand, some people refuse to wear that sort of clothes so they <NS type="S"><i>prefre</i><c>prefer</c></NS> to wear nothing.</p>
+          <p>Let's face it. Clothes are always changing. But the question no one <NS type="MV"><c>can</c></NS> answer is what <NS type="TV"><i>is</i><c>will be</c></NS> <NS type="MT"><c>in</c></NS> fashion in 100 <NS type="UP"><i>year's</i><c>years</c></NS> time? </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

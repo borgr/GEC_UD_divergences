@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE88*0100*2001*01">
+  <candidate><personnel><language>Chinese</language><age>26-30</age></personnel><score>19.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>Thank you for your letter. I will try my best to answer the questions.</p>
+          <p>First of all, we have already booked the <NS type="DJ"><i>Five-Stars</i><c>Five-Star</c></NS> Hotel for your group. It is a modern hotel, near our college, and it is also very <NS type="S"><i>convenent</i><c>convenient</c></NS> <NS type="R"><i>to come from</i><c>for</c></NS> the airport. You can take <NS type="RQ"><i>both</i><c>either</c></NS> <NS type="UT"><i>by</i></NS> <NS type="AGN"><i>buses</i><c>bus</c></NS> or taxies. The <NS type="S"><i>nember</i><c>number</c></NS> 101 bus <NS type="RV"><i>starts</i><c>leaves</c></NS> from the airport, <NS type="SX"><i>than</i><c>then</c></NS> you can get off <NS type="RT"><i>from</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> "city college" stop. It would be a great chance <NS type="W"><i>to <NS type="RV"><i><NS type="S"><i>tark</i><c>take</c></NS> part in</i><c>attend</c></NS> the party for everyone</i><c>for everyone to attend the party</c></NS>. This is just a relaxing party, just <NS type="RT"><i>for</i><c>so</c></NS> the members have a chance to relax and make friends. So I think you'd better <NS type="FV"><i>to wear</i><c>wear</c></NS> a dress.</p>
+          <p>Finally, about the <NS type="W"><i>free three</i><c>three free</c></NS> hours, my personal <NS type="DN"><i>prefer</i><c>preference</c></NS> <NS type="MV"><c>is</c></NS> to go shopping. Our city has got the biggest <NS type="DN"><i>shoping</i><c>shopping</c></NS> centre in South England<NS type="RP"><i>, there</i><c>. There</c></NS> <NS type="RV"><i>gathers</i><c>are</c></NS> so many shops. It <NS type="MV"><c>is</c></NS> <NS type="S"><i>worthes</i><c>worth</c></NS> <NS type="FV"><i><NS type="S"><i>tp</i><c>to</c></NS> spend</i><c>spending</c></NS> time and money on that.</p>
+          <p>I look forward to seeing you!</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Nowdays</i><c>Nowadays</c></NS> people have become used to watching <NS type="UP"><i><NS type="S"><i>televesion's</i><c>television's</c></NS></i><c>television</c></NS> <NS type="SA"><i>programs</i><c>programmes</c></NS> <NS type="RP"><i>everyday</i><c>every day</c></NS>. The TV is so important that you can see <NS type="RA"><i>it</i><c>one</c></NS> in every <NS type="RN"><i>family</i><c>home</c></NS>, and it is <NS type="FD"><i>a</i><c>an</c></NS> essential <NS type="RN"><i>equipment</i><c>item</c></NS> for everyone.</p>
+          <p>First of <NS type="S"><i>al</i><c>all</c></NS>, in my opinion, TV has a great <NS type="DJ"><i>education</i><c>educational</c></NS> <NS type="AGN"><i>functions</i><c>function</c></NS>, and <NS type="MA"><c>it</c></NS> also makes the world <NS type="UV"><i>become</i></NS> <NS type="FJ"><i>small</i><c>smaller</c></NS>. You can just sit at home <NS type="R"><i>then</i><c>and</c></NS> you can know what is happening all over the world at <NS type="RD"><i>the</i><c>that</c></NS> moment. I would rather <NS type="FV"><i>watching</i><c>watch</c></NS> the news on TV <NS type="RP"><i>in stead</i><c>instead</c></NS> of reading <NS type="R"><i>in</i><c>a</c></NS> newspaper or <NS type="RV"><i>hearing</i><c>listening</c></NS> <NS type="RT"><i>on</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> radio because the news on TV <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="RJ">vivid</NS>.</p>
+          <p>Moreover, the TV is <NS type="UD"><i>a</i></NS> great company for <NS type="UD"><i>the</i></NS> people who live alone or feel alone. I <NS type="UV"><i>would</i></NS> like to <NS type="RV"><i>open</i><c>turn on</c></NS> <NS type="MD"><c>the</c></NS> TV when I stay at home. Someone <NS type="AGV"><i>are</i><c>is</c></NS> talking, <NS type="S"><i>laughting</i><c>laughing</c></NS>, crying <NS type="R">on there, so join them</NS><NS type="RP"><i>, you</i><c>. You</c></NS> will feel much better than <NS type="M"><i>just</i><c>you would just by</c></NS> yourself. Some TV <NS type="SA"><i>programs</i><c>programmes</c></NS> are <NS type="S"><i>enjouable</i><c>enjoyable</c></NS>!</p>
+          <p>However, TV also has some disadvantages. You might just <NS type="FV"><i>sitting</i><c>sit</c></NS> in front of <NS type="MD"><c>the</c></NS> TV for hours <NS type="FV"><i>learn</i><c>learning</c></NS> nothing, or no <NS type="RY"><i>more</i><c>longer</c></NS> talk with your family. I think this is the <NS type="IJ"><i>badest</i><c>worst</c></NS> influence in <NS type="UD"><i>the</i></NS> society.</p>
+          <p>In <NS type="S"><i>clucsion</i><c>conclusion</c></NS>, <NS type="UD"><i>the</i></NS> TV has both advantages and <NS type="S"><i>disagvangtages</i><c>disadvantages</c></NS>, but on the whole <NS type="MD"><c>the</c></NS> advantages <NS type="AGV"><i>is</i><c>are</c></NS> greater than <NS type="MD"><c>the</c></NS> disadvantages. So<NS type="U"><i>, but</i></NS> on the whole, TV still is a wonderful and important invention <NS type="R">on the world</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

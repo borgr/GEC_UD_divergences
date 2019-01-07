@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR361*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Madam</p>
+          <p>I am very happy to win this prize and I am going to give you some information <NS type="W"><i>from me that you need</i><c>that you need from me</c></NS> to <NS type="RV"><i>make</i><c>ensure</c></NS> <NS type="R"><i>me</i><c>that I</c></NS> have a good time at Camp California.</p>
+          <p>I would like to <NS type="RV"><i>know</i><c>go</c></NS> only in July because I have <NS type="RV"><i>set</i><c>had</c></NS> my holidays <NS type="MV"><c>booked</c></NS> <NS type="MT"><c>for</c></NS> <NS type="RD"><i>this</i><c>that</c></NS> month since last January.</p>
+          <p><NS type="W"><i>I want if it is possible</i><c>If it is possible I want</c></NS> a <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> <NS type="R"><i>like</i><c>for my</c></NS> accommodation because I have been suffering <NS type="RT"><i>from</i><c>with</c></NS> my back since my childhood, therefore I need a <NS type="S"><i>confortable</i><c>comfortable</c></NS> <NS type="R"><i>accommodation</i><c>place to sleep</c></NS>.</p>
+          <p>I will be pleased to swim and paint when I am at the camp. I selected swimming because it is a cure <NS type="RT"><i>against</i><c>for</c></NS> my <NS type="S"><i>backace</i><c>backache</c></NS> and I have not <NS type="RV"><i><NS type="SA"><i>practiced</i><c>practised</c></NS></i><c>done</c></NS> <NS type="MA"><c>it</c></NS> since I started my new job five years ago. I also <NS type="IV"><i>choosed</i><c>chose</c></NS> painting because I have never done <NS type="MA"><c>it</c></NS> before<NS type="RP"><i>,</i><c>.</c></NS> I would like to learn and moreover I want to do a <NS type="RJ"><i>calm</i><c>relaxing</c></NS> activity.</p>
+          <p><NS type="UY"><i>Otherwise, could</i><c>Could</c></NS> you tell me approximately how much money I have to take for <NS type="UD"><i>the</i></NS> food, please?</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS>.</p>
+          <p>Xavier Fournier</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>How many times have we heard people complaining about shopping? Sometimes, they are happy to <NS type="RV"><i>do</i><c>go</c></NS> shopping<NS type="RP"><i>.</i><c>,</c></NS> but why? <NS type="R">Therefore,</NS> shopping can be enjoyable but <NS type="RA"><i>it</i><c>that</c></NS> is not always the case.</p>
+          <p>Shopping is enjoyable when you want to <NS type="RV"><i>offer</i><c>give</c></NS> <NS type="RP"><i>some thing</i><c>something</c></NS> to someone. <NS type="R">In fact</NS> you try to get a present to make <NS type="MD"><c>the</c></NS> <NS type="DN"><i>receive</i><c>recipient</c></NS> happy.</p>
+          <p>Shopping is also good<NS type="UP"><i>,</i></NS> when you know what you want. For example if you want a new track suit you know that you have to go to a <NS type="DJ"><i>sport</i><c>sports</c></NS> shop but if you don't know what you want you are going to waste your time in the shops.</p>
+          <p><NS type="ID"><i>In the opposite</i><c>On the other hand</c></NS>, shopping can be <NS type="DJ"><i>disenjoyable</i><c>unenjoyable</c></NS>.</p>
+          <p>Shopping is boring if you go with people <NS type="M"><c>who are</c></NS> too fussy. That is to say, they are never happy with what they get <NS type="RC"><i>and</i><c>or</c></NS> see. They always find a problem.</p>
+          <p>Shopping is not enjoyable with people who just look around the shops. It is stupid<NS type="RP"><i>, they</i><c>.  They</c></NS> do not have any goal. They waste their time.</p>
+          <p>To conclude, I agree <NS type="R"><i>with</i><c>that</c></NS> shopping is not always enjoyable. Even if I like to <NS type="RV"><i>do</i><c>go</c></NS> shopping with some people and <NS type="M"><c>to some</c></NS> <NS type="AGN"><i>kind</i><c>kinds</c></NS> of shops I will kill myself <NS type="RC"><i>because</i><c>if</c></NS> I waste my time.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

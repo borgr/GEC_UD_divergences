@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1028*0100*2000*02">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I would like to congratulate you <NS type="RT"><i>for</i><c>on</c></NS> the excellent programme that you have prepared. I think that <NS type="MA"><c>it</c></NS> is such a good programme<NS type="MP"><c>,</c></NS> especially because the places that we visit, like the Science Museum, are very interesting.</p>
+          <p>However, the rest of the students and I have heard about the London Fashion and Leisure show that will be celebrated at the Central Exhibition Hall in London <NS type="MC"><c>and</c></NS> where the latest fashions will be shown. There we will have the chance to be <NS type="IV"><i>maked</i><c>made</c></NS> up or to try new hairstyles, too. And it has <NS type="UP"><i>free-entrance</i><c>free entrance</c></NS> for <NS type="UD"><i>the</i></NS> students. We think it will be a great opportunity because it will take place <NS type="R"><i>while</i><c>during</c></NS> our visit to London, <NS type="MT"><c>on</c></NS> the 14th of March. We think that, if you don't have any problem, we could visit the Science Museum on Wednesday after visiting the National Art Gallery so that we <NS type="TV"><i>can</i><c>could</c></NS> go to the London Fashion and Leisure show.</p>
+          <p>We are <NS type="S"><i>wating</i><c>waiting</c></NS> for your decision and we will accept it whatever it <NS type="MV"><c>may</c></NS> be.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>"THE HOME OF THE FUTURE"</p>
+          <p><NS type="ID"><i>From <NS type="SX"><i>any</i><c>my</c></NS> point of view</i><c>In my opinion</c></NS>, the home of the future will be very similar to the homes that we have today. I think that it will <NS type="TV"><i>has</i><c>have</c></NS> a similar structure but it will include some new technological advantages like having all the house controlled by a computer so that, for example, we can turn on the lights <NS type="RT"><i>of</i><c>in</c></NS> the bedroom just <NS type="MT"><c>by</c></NS> pressing a button while we are watching the TV sitting on the sofa.</p>
+          <p>Although many people think that the home of the future will be something like <NS type="FD"><i>an</i><c>a</c></NS> UFO, in my opinion the changes won't be very <NS type="RJ"><i>important</i><c>great</c></NS>, they will probably consist <NS type="RT"><i>on</i><c>of</c></NS> making the <NS type="CN"><i>houseworks</i><c>housework</c></NS> easier. The <NS type="RJ"><i>cleanest</i><c>clearest</c></NS> example is to compare a house from the <NS type="FN"><i><NS type="S"><i>beginings</i><c>beginnings</c></NS></i><c>beginning</c></NS> of the 20th century with our <NS type="FN"><i>house</i><c>houses</c></NS><NS type="MP"><c>.</c></NS> Both are very similar but now we have new technologies. <NS type="RT"><i>In</i><c>On</c></NS> balance then, I think that the houses that we <NS type="UV"><i>can</i></NS> see <NS type="RT"><i>on</i><c>in</c></NS> films won't really exist.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

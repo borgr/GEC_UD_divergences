@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR472*0100*2000*01">
+  <candidate><personnel><language>Korean</language></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing in order to give you some further information that you <NS type="RV"><i>enquired</i><c>required</c></NS> for <NS type="UD"><i>the</i></NS> Camp California.</p>
+          <p>First of all, I would like to travel only in July due to my work commitment. I am <NS type="W"><i>allowed to take holiday only</i><c>only allowed to take holiday</c></NS> in July.</p>
+          <p>Concerning accommodation, I would prefer to stay in log cabins. Log cabins are bigger, more stable and usually more comfortable than tents.</p>
+          <p>As requested, I have <NS type="IV"><i>choosed</i><c>chosen</c></NS> two activities - sailing and surfing. I am quite experienced <NS type="RT"><i>in</i><c>at</c></NS> surfing - I have participated <NS type="MT"><c>in</c></NS> some competitions - whereas <NS type="M"><c>I am</c></NS> not at all experienced <NS type="RT"><i>in</i><c>at</c></NS> sailing.</p>
+          <p>I would like know if I need any particular clothes or if there could be any extra expenses for the camp. Also, I would like to know if there is going to be <NS type="MD"><c>a</c></NS> qualified instructor for activities since I am a <NS type="RN"><i>beginning</i><c>beginner</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> sailing as mentioned before.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>Kan Seo</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? Thanks for your last letter. It was great to hear from you.</p>
+          <p>I'm sorry I haven't written before, but as you know, I've been very busy because I was helping at a pop concert last month.</p>
+          <p>I have thoroughly enjoyed the experience. I helped people setting <NS type="MY"><c>up</c></NS> and decorating the concert hall which was great help for my major subject - You know that my subject is design. I also had to distribute the flyers.</p>
+          <p>What I particularly enjoyed was meeting the famous musicians I have been dreaming <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to see</i><c>seeing</c></NS>. The day I <NS type="IV"><i>shaked</i><c>shook</c></NS> their hands, <NS type="ID">I <NS type="SX"><i>though</i><c>thought</c></NS> I was over the moon!</NS> I will never forget that day.</p>
+          <p>Write <NS type="SX"><i>son</i><c>soon</c></NS> and let me know what you have been doing.</p>
+          <p>Lots and lots of kisses,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

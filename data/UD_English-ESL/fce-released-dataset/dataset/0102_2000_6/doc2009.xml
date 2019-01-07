@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR803*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam<NS type="RP"><i>:</i><c>,</c></NS></p>
+          <p>I am writing this letter <NS type="UA"><i>I</i></NS> <NS type="MT"><c>in</c></NS> order to complain <NS type="MT"><c>about</c></NS> my unpleasant experience <NS type="RT"><i>in</i><c>at</c></NS> your theatre. Two days ago, I went to see the musical show "<NS type="RP"><i>over the rainbow</i><c>Over the Rainbow</c></NS>" at your theatre. The advertised <NS type="DN"><i>beginning time</i><c>starting time</c></NS> is 19:30<NS type="UP"><i>. But</i><c> but</c></NS> <NS type="RT"><i>due to</i><c>for</c></NS> some unknown <NS type="FN"><i>reasons</i><c>reason</c></NS>, the play didn't start until 20:15. The audience were anxious and bored.</p>
+          <p>What made things even worse was that the leading actor Danny Brook did not appear <NS type="RT"><i>at</i><c>on</c></NS> the stage at all. <NS type="R"><i>A second-class actor</i><c>An understudy</c></NS> took <NS type="W"><i>the place of him</i><c>his place</c></NS>. We felt totally disappointed and cheated. After the show, I was hungry and tired. As your poster suggested, I intended to rest for a while at your restaurant. But when I got there, it had closed. In addition, the <NS type="RN"><i>conductor</i><c>ticket office</c></NS> didn't offer me any discounts<NS type="MP"><c>,</c></NS> as you had advertised <NS type="RT"><i>in</i><c>on</c></NS> the poster<NS type="MP"><c>,</c></NS> when I bought the ticket.</p>
+          <p>I am sorry to say that I <NS type="TV"><i>do</i><c>did</c></NS> not enjoy the evening at your theatre at all. I hope you can pay me the money back as compensation. I am waiting for your reply.</p>
+          <p>Yours <NS type="RP"><i>Faithfully</i><c>faithfully</c></NS> </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+         <coded_answer>
+          <p>Modern technology has changed my daily life in two ways. First with a lot of advanced techniques being put <NS type="RT"><i>into</i><c>to</c></NS> practical use, our living <NS type="FN"><i>condition</i><c>conditions</c></NS> <NS type="TV"><i><NS type="AGV"><i>becomes</i><c>become</c></NS></i><c>are becoming</c></NS> more and more convenient and comfortable. When we look around <NS type="UT"><i>in</i></NS> the house, it is easy to find things like <NS type="UA"><i>these</i></NS><NS type="UP"><i>:</i></NS> <NS type="MD"><c>a</c></NS> microwave oven, TV set, computer<NS type="UP"><i>,</i></NS> etc. All these <NS type="M"><c>items of</c></NS> <NS type="S"><i>equippments</i><c>equipment</c></NS> are <NS type="UD"><i>the</i></NS> applications of modern science. When you are planning to travel, you can choose <NS type="MD"><c>a</c></NS> train, car or even <NS type="MD"><c>a</c></NS> plane as your <NS type="M"><c>means of</c></NS> transportation. Without the development of modern technology, it may take <NS type="DA"><i>your</i><c>you</c></NS> several years to reach <NS type="RD"><i>the</i><c>your</c></NS> destination.</p>
+          <p>Second, <NS type="RP"><i>Modern</i><c>modern</c></NS> technology makes communication much easier and more enjoyable. With the spreading use of <NS type="MD"><c>the</c></NS> Internet, people living in different parts of the world can chat with each other <NS type="RT"><i>through</i><c>via</c></NS> the web. And<NS type="UP"><i>,</i></NS> we can also share important <NS type="CN"><i>informations</i><c>information</c></NS> with other people. The development of information technology has changed the world into "<NS type="DN"><i>an earth village</i><c>a global village</c></NS>".</p>
+          <p>Modern technology plays an important role in our <NS type="FN"><i>life</i><c>lives</c></NS>. I am hoping to devote myself <NS type="RT"><i>into</i><c>to</c></NS> <NS type="W"><i>the development of it</i><c>its development</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

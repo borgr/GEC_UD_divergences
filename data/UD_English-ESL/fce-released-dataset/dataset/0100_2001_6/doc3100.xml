@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE54*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I am one of <NS type="RD"><i>all</i><c>the</c></NS> students and I am going to give you <NS type="RQ"><i>an</i><c>some</c></NS> information, all you need. We <NS type="TV"><i>have been booked</i><c>have booked</c></NS> the hotel for you and the name of <NS type="MD"><c>the</c></NS> hotel is <NS type="MD"><c>the</c></NS> "Palace Hotel"<NS type="MP"><c>,</c></NS> <NS type="M"><c>it is</c></NS> quite near <NS type="MD"><c>the</c></NS> shopping centre. It is not far <NS type="S"><i>aways</i><c>away</c></NS><NS type="RP"><i>, you</i><c>. You</c></NS> just go along Park Road <NS type="MT"><c>for</c></NS> about ten minutes. Then you will arrive at <NS type="MD"><c>the</c></NS> Palace Hotel<NS type="MP"><c>,</c></NS> <NS type="M"><c>which is</c></NS> on the <NS type="MP"><i>left handside</i><c>left-hand side</c></NS> <NS type="U"><i>of you</i></NS>.</p>
+          <p><NS type="RT"><i>About</i><c>Regarding</c></NS> the end-of-conference party<NS type="RP"><i>. We</i><c>, we</c></NS> are going to have a dinner before the end and at the end we are going to <NS type="RV"><i>bring</i><c>take</c></NS> you to the Hotel<NS type="RP"><i>, you</i><c>. You</c></NS> need to wear <NS type="FD"><i>a</i><c>an</c></NS> <NS type="DN"><i>night-dress</i><c>evening dress</c></NS> or suit and bow tie.</p>
+          <p>Finally, on the last day you have three hours before you catch the plane so we <NS type="DV"><i>suggestion</i><c>suggest</c></NS><NS type="UP"><i>,</i></NS> you <NS type="UV"><i>can</i></NS> go to <NS type="MD"><c>the</c></NS> shopping centre and buy something for your special person or go to <NS type="MD"><c>the</c></NS> <NS type="S"><i>museam</i><c>museum</c></NS> because this <NS type="S"><i>museam</i><c>museum</c></NS> is the biggest in the world now<NS type="MP"><c>.</c></NS> It is up to you.</p>
+          <p>yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>To group leader</p>
+          <p>I am the student leader. We are <NS type="RJ"><i><NS type="S"><i>greatful</i><c>grateful</c></NS></i><c>pleased</c></NS> that your group has <NS type="UY"><i>just</i></NS> arrived so I am going to give <NS type="MA"><c>you</c></NS> information about an interesting building to visit. We recommend you <NS type="UT"><i>to</i></NS> go to <NS type="MD"><c>the</c></NS> BBC building.</p>
+          <p>First of all, <NS type="R"><i>about</i><c>the</c></NS> BBC building is the news building of England. On the ground floor, they have <NS type="UD"><i>a</i></NS> video <NS type="FN"><i>camera</i><c>cameras</c></NS> everywhere around the building and police <NS type="AGV"><i>officer</i><c>officers</c></NS> walk around the building as well. <NS type="RT"><i>Up to</i><c>On</c></NS> the first floor, they have a huge radio room, for <NS type="FV"><i>send</i><c>sending</c></NS> and <NS type="FV"><i><NS type="RV"><i>receipt</i><c>receive</c></NS></i><c>receiving</c></NS> <NS type="UD"><i>the</i></NS> information <NS type="MT"><c>from</c></NS> all over the world<NS type="MP"><c>,</c></NS> because they have <NS type="UD"><i>a</i></NS> small BBC <NS type="FN"><i>building</i><c>buildings</c></NS> all over the world <NS type="RY"><i>either</i><c>also</c></NS>; <NS type="RP"><i>For</i><c>for</c></NS> Example, THAILAND, <NS type="MD"><c>the</c></NS> United <NS type="FN"><i>State</i><c>States</c></NS> of America, <NS type="S"><i>INDONISIA</i><c>INDONESIA</c></NS> and CANADA.</p>
+          <p>And the second floor is the <NS type="RP"><i>news room</i><c>newsroom</c></NS> where they <NS type="RV"><i>get</i><c>go</c></NS> <NS type="UP"><i>on-air</i><c>on air</c></NS> <NS type="UV"><i>to show</i></NS> on the T.V. That is not <NS type="R"><i>finish</i><c>everything</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i>just give</i><c>have just given</c></NS> you <NS type="RQ"><i>some</i><c>a little</c></NS> information but they have more interesting <NS type="AGN"><i>thing</i><c>things</c></NS> you do not know <NS type="MT"><c>about</c></NS>.</p>
+          <p>I recommend <NS type="UA"><i>you</i></NS> this building because this building is the <NS type="DN">main</NS> of <NS type="RP"><i>london</i><c>London</c></NS> and this building is the second most beautiful building in <NS type="RP"><i>london</i><c>London</c></NS> so that <NS type="MV"><c>is</c></NS> why I recommend <NS type="UA"><i>you</i></NS> this building.</p>
+          <p>From <NS type="MD"><c>the</c></NS> student leader.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

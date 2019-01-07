@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1135*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you after visiting your theatre. Frankly speaking, I was very disappointed after my visit.</p>
+          <p>I was displeased from the very beginning, because I expected to get a discount as I'm a student. According to your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> I could have one but in reality there were no discounts at all. But nevertheless I decided to go to your show.</p>
+          <p>The show started <NS type="S"><i>t</i><c>at</c></NS> 20.15 instead of 19.30. I had to wait in <NS type="MD"><c>the</c></NS> overcrowded hall. When <NS type="W"><i>finally the show</i><c>the show finally</c></NS> <NS type="TV"><i>had started</i><c>started</c></NS> I found out that Danny Brook <NS type="TV"><i>was replaced</i><c>had been replaced</c></NS> by another actor. One of the reasons for my visiting your show was Danny Brook's <NS type="DN"><i>participance</i><c>participation</c></NS>. So, you could understand how disappointed I was.</p>
+          <p>To make matters worse<NS type="MP"><c>,</c></NS> the restaurant which was mentioned in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> was closed.</p>
+          <p>So I <NS type="TV"><i>hadn't</i><c>didn't have</c></NS> such <NS type="MD"><c>a</c></NS> perfect evening<NS type="UP"><i>,</i></NS> as was promised in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS>.</p>
+          <p>In fact there were a lot of mistakes in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> and I would be <NS type="S"><i>gratefull</i><c>greatful</c></NS> if you could give me back a part of my money.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>In my opinion, modern technologies play <NS type="RD"><i>the</i><c>an</c></NS> important role in people's <NS type="FN"><i>life</i><c>lives</c></NS>. I think that at present the most important technologies are computer and <NS type="RP"><i>Internet</i><c>internet</c></NS> technologies. Both <NS type="FN"><i>computer</i><c>computers</c></NS> and <NS type="MD"><c>the</c></NS> Internet influence people's <NS type="FN"><i>life</i><c>lives</c></NS>.</p>
+          <p>I have to use <NS type="MD"><c>a</c></NS> computer every day. It helps me <NS type="RT"><i>in</i><c>with</c></NS> preparing my <NS type="CN"><i>homeworks</i><c>homework</c></NS>. <NS type="SX"><i>Firs</i><c>First</c></NS> of all <NS type="MD"><c>the</c></NS> Internet gives you <NS type="UD"><i>an</i></NS> access to a great number of different <NS type="RN">information</NS>. On the one hand<NS type="MP"><c>,</c></NS> <NS type="MD"><c>the</c></NS> Internet is often used for <NS type="S"><i>entertaiment</i><c>entertainment</c></NS>, but on the other hand it's also used in different business and education <NS type="RN"><NS type="FN"><i>process</i><c>processes</c></NS></NS><NS type="RP"><i>!</i><c>.</c></NS> With the help of <NS type="RP"><i>Internet</i><c>internet</c></NS> technologies I communicate with other people from all over the world it gives me <NS type="MD"><c>the</c></NS> chance to improve my English. <NS type="RY"><i>From my point of view</i><c>In my view</c></NS>, <NS type="MD"><c>the</c></NS> Internet can be used in education, because it gives an opportunity to have <NS type="RJ"><i>distant</i><c>remote</c></NS> <NS type="RN"><i>relations</i><c>communication</c></NS> between pupils and teachers.</p>
+          <p>Though <NS type="MD"><c>the</c></NS> Internet has a lot of positive aspects<NS type="MP"><c>,</c></NS> I think you should be careful with it and not <NS type="FV"><i>to be</i><c>be</c></NS> <NS type="DJ"><i>depended</i><c>dependent</c></NS> on it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

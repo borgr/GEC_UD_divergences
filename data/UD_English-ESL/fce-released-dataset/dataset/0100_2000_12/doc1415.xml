@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR50*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>19.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>On behalf of my class, I am writing to request <NS type="MD"><c>a</c></NS> few changes in our London programme which has already been planned.</p>
+          <p>My friends have seen an advertisement which is <NS type="MT"><c>for</c></NS> the London <NS type="RP"><i>fashion and <NS type="S"><i>leissure</i><c>leisure</c></NS> show</i><c>Fashion and Leisure Show</c></NS>. <NS type="RP"><i>it</i><c>It</c></NS> will be held on 14th March. We have decided it would be more interesting to see the latest fashions, <NS type="MP"><i>make up</i><c>make-up</c></NS>, <NS type="MC"><c>and</c></NS> hairstyles <NS type="RT"><i>instead of</i><c>than</c></NS> going to do shopping. We would suggest <NS type="SX"><i>gong</i><c>going</c></NS> to this <NS type="L"><NS type="S"><i>fabolous</i><c>fabulous</c></NS></NS> show. <NS type="RP"><i>it</i><c>It</c></NS> is also free of charge for students.</p>
+          <p>We will be given a great opportunity to have fun and look around in London. We <NS type="UV"><i>would</i></NS> all thank you for the organised programme.</p>
+          <p>I apologise <NS type="MT"><c>for</c></NS> any inconvenience that this <NS type="AGV"><i>cause</i><c>causes</c></NS> you. We would be pleased if you could make a new arrangement in your programme</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours <NS type="RP"><i><NS type="S"><i>Sincererly</i><c>Sincerely</c></NS></i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>CAN YOU IMAGINE THE NEW <NS type="UD"><i>YOUR</i></NS> HOUSE?</p>
+          <p>We spend most of our life in our houses. We like them <NS type="FV"><i>show</i><c>to show</c></NS> our <NS type="RP"><i>life style</i><c>lifestyle</c></NS> and of course feel <NS type="UA"><i><NS type="DA"><i>ourself</i><c>ourselves</c></NS></i></NS> comfortable.</p>
+          <p>I can imagine in the future how it would be<NS type="RP"><i>?</i><c>.</c></NS> It would be much <NS type="MY"><c>more</c></NS> technological <NS type="RC"><i>or</i><c>and</c></NS> far less complex. <NS type="RP"><i>it</i><c>It</c></NS> could be as simple as we think<NS type="UP"><i>.</i></NS> but the <NS type="DN">imagine</NS> of the <NS type="RP"><i>life style</i><c>lifestyle</c></NS> depends on <NS type="MD"><c>the</c></NS> person.</p>
+          <p>On the other hand, it would not be changed. Somehow I could say that the main <NS type="FN"><i>appliance</i><c>appliances</c></NS> would <NS type="RV"><i>remain</i><c>retain</c></NS> the same working structure. <NS type="CE">it only just might be changed the design of things</NS> such as a triangular talking oven. Despite being used in many ways, it could <NS type="S"><i>entartian</i><c>entertain</c></NS> us as well.</p>
+          <p>On balance I would accept whatever could make my life easier<NS type="UP"><i>.</i></NS> to live. I wouldn't mind having things talking <NS type="UT"><i>to</i></NS> around me. <NS type="RP"><i>it</i><c>It</c></NS> would be enjoyable to have virtual friends in my house. Although I imagine <NS type="MA"><c>them</c></NS> <NS type="MT"><c>in</c></NS> my house in my future, I am sure I would be <NS type="S"><i>suprised</i><c>surprised</c></NS> <NS type="RC"><i>when</i><c>if</c></NS> I had them.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

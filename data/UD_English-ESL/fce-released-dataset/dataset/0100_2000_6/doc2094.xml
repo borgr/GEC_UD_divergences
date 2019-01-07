@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR843*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>41-50</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>Thank you for your letter letting me know that I've won first prize in your competition. It came as a nice surprise.</p>
+          <p>I would like to let you know that I can only travel in July because that is the only time I can take <NS type="R"><i>leave</i><c>off</c></NS> from work. I would prefer to stay in the log cabins as I would be afraid of insects or any crawling animals if I <NS type="TV"><i>have</i><c>had</c></NS> to stay in the tent.</p>
+          <p>For activities <NS type="UN"><i>choices</i></NS>, I would like to choose Tennis and swimming. I used to play Tennis at tournament level and now I play it for enjoyment instead. Swimming is my <NS type="RJ"><i>best</i><c>favourite</c></NS> way of <NS type="FV"><i><NS type="S"><i>excercise</i><c>exercise</c></NS></i><c>exercising</c></NS> and keeping fit.</p>
+          <p>I've a few questions to ask. Since all accommodation and travel costs are paid for, <NS type="RP"><i>Are</i><c>are</c></NS> there any other expenses that I have to <NS type="RV"><i>pay</i><c>meet</c></NS>? How much money <NS type="W"><i>I should</i><c>should I</c></NS> have with me in order to cover all other expenses? Furthermore, what type of clothes <NS type="W"><i>I should</i><c>should I</c></NS> bring?</p>
+          <p>I would be grateful if you could let me <NS type="RV"><i>know</i><c>have</c></NS> the above information as soon as possible. Thank you once again for giving me <NS type="MD"><c>this</c></NS> good news!</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>I find shopping is <NS type="R"><i>the most</i><c>very</c></NS> time consuming. If I want to buy a nice pair of <NS type="AGN"><i>shoe</i><c>shoes</c></NS>, <NS type="TV"><i>I'll have</i><c>I have</c></NS> to go into a city centre and browse around from <NS type="FN"><i>shops to shops</i><c>shop to shop</c></NS> until I find the shoes I like. If I'm not lucky enough to find <NS type="AGA"><i>one</i><c>them</c></NS>, then <NS type="TV"><i>I'll have</i><c>I have</c></NS> to take a train <NS type="UN"><i>trip</i></NS> to a larger shopping <NS type="RN"><NS type="AGN"><i>places</i><c>place</c></NS></NS> such as London.</p>
+          <p>Whilst in London<NS type="RP"><i>;</i><c>,</c></NS> I'll be facing crowds and people will be rushing everywhere. To walk around London streets looking for a pair of <NS type="AGN"><i>shoe</i><c>shoes</c></NS> can definitely be a tiring task. As I'm a compulsive buyer, I'd probably <NS type="FV"><i>ended</i><c>end</c></NS> up buying other things as well.</p>
+          <p>At the end of the day, I would not only be carrying <NS type="MD"><c>a</c></NS> pile of shopping bags but also trying to squeeze in between other passengers on the train on my way home.</p>
+          <p>By the time I <NS type="TV"><i>get</i><c>got</c></NS> home, I would be completely exhausted. As you can see, shopping is not always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

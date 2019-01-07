@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR496*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir.</p>
+          <p>Thank you very much for informing me <NS type="MC"><c>that</c></NS> I've won the prize. To let you arrange the details of your <NS type="S"><i>programe</i><c>programme</c></NS>, I'm going to <NS type="AS"><i>give my answers to you</i><c>give you my answers</c></NS>.</p>
+          <p>Firstly, I'd like to travel in July because I've already <NS type="S"><i>resistered</i><c>registered</c></NS> <NS type="MT"><c>on</c></NS> another summer course which starts <NS type="RT"><i>in</i><c>at</c></NS> the end of July. Sorry about that but I can make that <NS type="RN"><i>travel</i><c>trip</c></NS> only in July.</p>
+          <p>About <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I prefer <NS type="UT"><i>in</i></NS> tents to log cabins. <NS type="M"><i>Because</i><c>This is because</c></NS> I haven't used tents for ages so this time, I want to have tents for 2 weeks which will remind me of my childhood with my family.</p>
+          <p>I'm very keen on photography, especially while I'm staying in <NS type="MD"><c>the</c></NS> <NS type="S"><i>Sates</i><c>States</c></NS>. I might have lots of chances to take photos of beautiful <NS type="RN"><i>nature</i><c>countryside</c></NS><NS type="RP"><i>. So</i><c>, so</c></NS> I'm longing to take part in that activity, photography. Actually I've been in <NS type="MT"><c>an</c></NS> <NS type="S"><i>amature</i><c>amateur</c></NS> photographer's organization for 3 years. And I'd like to choose swimming as the other one. I learned swimming at <NS type="RD"><i>my</i><c>the</c></NS> age of 8 for 5 years and I still love swimming. At that time, I took the course which covered all the 4 kinds of <NS type="S"><i>strocks</i><c>strokes</c></NS>.</p>
+          <p>Finally, could you let me know <NS type="RY"><i>how</i><c>what</c></NS> the weather is like in July in <NS type="MD"><c>the</c></NS> States? Then I can <NS type="RV"><i>prepare</i><c>pack</c></NS> <NS type="UD"><i>my</i></NS> <NS type="W"><i>clothes suitable</i><c>suitable clothes</c></NS> for that weather. And please tell me how much money I am supposed to need excluding transport and <NS type="S"><i>accomodation</i><c>accommodation</c></NS>.</p>
+          <p>Thanks loads</p>
+          <p>Yours sincerely</p>
+          <p>Kyon Chwa</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>All the students in my class are excited about that work and now we're in the process of discussion about what will be filmed. Some students suggested very brilliant ideas.</p>
+          <p>We've been thinking about the plot, at first, and we decided it would be the best way, the flow of time. The lessons we have in the morning doesn't attract us very much, but this bit will show you <NS type="MD"><c>the</c></NS> routine <NS type="RN"><i>scenery</i><c>scenario</c></NS> of a lesson. Spoken English lessons which <NS type="AGV"><i>is</i><c>are</c></NS> in the afternoon are quite interesting. <NS type="RQ"><i>Every</i><c>All</c></NS> <NS type="MD"><c>the</c></NS> students keep talking about <NS type="SX"><i>he</i><c>the</c></NS> theme and <NS type="FV"><i>give</i><c>giving</c></NS> their opinions. So we're going to organize about 10 minutes' short debate just for this video, but we haven't decided when it will be and the subject.</p>
+          <p>After the class is also <NS type="MD"><c>a</c></NS> very essential part of school life<NS type="RP"><i>. Because</i><c>, because</c></NS> we go to the pub which is situated near to the school quite often and we talk more about personal stories that make us closer<NS type="RP"><i>, the</i><c>. The</c></NS> pub after the lessons will be interesting.</p>
+          <p>If you don't mind, we want to film <NS type="MD"><c>the</c></NS> teachers' room as well. Your preperation for lessons, everyday chats and so on. If you allow us to film those things, we'll be very happy.</p>
+          <p>When things become more obvious and more things are decided, I'll report again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

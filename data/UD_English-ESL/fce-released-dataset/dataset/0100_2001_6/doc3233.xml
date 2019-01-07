@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE78*0100*2001*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith:</p>
+          <p>My name is Juniper<NS type="RP"><i>,</i><c>.</c></NS> I am helping to organise the conference in the college. I received your letter the other day and I am writing to answer your questions.</p>
+          <p>The group has been booked into <NS type="MD"><c>the</c></NS> Palace Hotel<NS type="MP"><c>,</c></NS> which is not very far from the place where the conference will be held. You can take the No.41 bus from the hotel to the conference<NS type="RP"><i>, it</i><c>. It</c></NS> only takes ten minutes approximately.</p>
+          <p>As for the end-of-conference party, it will be on the morning of the last day<NS type="MP"><c>,</c></NS> starting at 9:00. All the students and <NS type="IN"><i>staffs</i><c>staff</c></NS> will <NS type="RV"><i>join</i><c>attend</c></NS> together in the hall. They can play games and talk about <NS type="MD"><c>their</c></NS> personal <NS type="FN"><i>experience</i><c>experiences</c></NS>. The main aim of <NS type="RA"><i>it</i><c>this</c></NS> is to <NS type="RV"><i>deepen</i><c>strengthen</c></NS> the friendship among all these pupils coming from all over the world. So it would be fine if you <NS type="TV"><i>wear</i><c>wore</c></NS> casual clothes and <NS type="TV"><i>look</i><c>looked</c></NS> smart.</p>
+          <p>I have made <NS type="FN"><i>arrangement</i><c>arrangements</c></NS> for the afternoon on the last day for you. If you are free I will show you <NS type="S"><i>arround</i><c>around</c></NS> our college. You can visit our <NS type="UP"><i>newly-built</i><c>newly built</c></NS> science lab as well. I'm sure you would acquire a lot of knowledge there.</p>
+          <p>I'm looking forward to meeting you.</p>
+          <p>Best wishes.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Best choice</p>
+          <p>Welcome to London. You asked me <NS type="RT"><i>for</i><c>about</c></NS> an interesting building to visit. <NS type="ID">In my opinion</NS>, <NS type="TV"><i>I'll recommend</i><c>I recommend</c></NS> <NS type="MD"><c>the</c></NS> British Museum. One of the reasons is you can learn almost everything about British history there.</p>
+          <p>The museum looks very old<NS type="MP"><c>,</c></NS> <NS type="RT"><i>as</i><c>like</c></NS> some other buildings in London, but it is very modern inside. After going through the enormous main door, you can see a huge <NS type="W"><i>white round</i><c>round white</c></NS> building<NS type="MP"><c>,</c></NS> which is a library. A lot of famous people have been to this library <NS type="UY"><i>before</i></NS>!</p>
+          <p>The British Hall is on the first floor, not far from the library. It shows a large number of valuable things. Almost <NS type="AGQ"><i>each</i><c>every</c></NS> one tells you a story or gives you a picture <NS type="RT"><i>about</i><c>of</c></NS> British history. I'm sure all the students will gain a wonderful <NS type="RN">lesson</NS>!</p>
+          <p>Apart from <NS type="UD"><i>the</i></NS> national history, there are more <NS type="RN"><NS type="AGN"><i>content</i><c>contents</c></NS></NS> about the <NS type="RN"><i>past</i><c>history</c></NS> of the world. You can go to many sections such as <NS type="MD"><c>the</c></NS> <NS type="DJ"><i>Asia</i><c>Asian</c></NS> Hall, <NS type="DJ"><i>Egypt</i><c>Egyptian</c></NS> Hall, <NS type="DJ"><i>Europe</i><c>European</c></NS> Hall and so on. <NS type="MD"><i>Countless</i><c>The countless</c></NS> fascinating things will <NS type="S"><i>definely</i><c>definitely</c></NS> take you the whole day to appreciate. After a visit to <NS type="MD"><c>the</c></NS> British Museum, you will <NS type="W"><i>be certainly</i><c>certainly be</c></NS> able to put your history textbook away!</p>
+          <p>Also you don't have to pay any money for it, and the transport is extremely convenient, therefore <NS type="MD"><c>the</c></NS> British Museum is your best choice. Don't be hesitant any more!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

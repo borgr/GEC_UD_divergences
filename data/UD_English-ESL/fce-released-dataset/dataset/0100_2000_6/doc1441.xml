@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR559*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs/Ms Ryan,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you because I would like to <NS type="RV"><i>answer</i><c>provide</c></NS> the information that you ask for.</p>
+          <p>Firstly, I would like to travel there in July because it is the only month that I have free <NS type="RT"><i>in</i><c>from</c></NS> my job. It will be impossible <NS type="MT"><c>at</c></NS> another <NS type="RN"><i><NS type="S"><i>choise</i><c>choice</c></NS></i><c>time</c></NS>, but if you have any problem you will be able to advise me, although I prefer to go there in July because I think <NS type="MA"><c>it</c></NS> is the best month to travel<NS type="RP"><i>,</i><c>;</c></NS> the weather is nicer and warmer than in other seasons.</p>
+          <p>Secondly, my <NS type="S"><i>choise</i><c>choice</c></NS> is the accommodation in tents<NS type="RP"><i>,</i><c>.</c></NS> I think it could be more interesting<NS type="RP"><i>,</i><c>.</c></NS> I could enjoy my time with other people playing, eating and talking outside<NS type="RP"><i>, in</i><c>. In</c></NS> my opinion if I choose the <NS type="FN"><i>log cabins</i><c>log cabin</c></NS> it will be like <NS type="FV"><i>be</i><c>being</c></NS> at home.</p>
+          <p>About the two activities I need to select, I think the best <NS type="AGA"><i>one</i><c>ones</c></NS> are swimming and painting. I choose swimming because I really love doing it<NS type="RP"><i>,</i><c>.</c></NS> I used to swim every day in the sea a few years ago<NS type="RP"><i>,</i><c>.</c></NS> I felt really healthy. My other <NS type="S"><i>choise</i><c>choice</c></NS> is painting<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i>paint</i><c>have been painting</c></NS> since I was ten years old<NS type="RP"><i>,</i><c>.</c></NS> I used to go to special classes and I don't mind if you need me to help in the class.</p>
+          <p><NS type="RQ"><i>A</i><c>One</c></NS> thing I would like <NS type="FV"><i>ask</i><c>to ask</c></NS> is if I need special clothes<NS type="RP"><i>,</i><c>.</c></NS> I don't know what kind of camp I am going <NS type="MT"><c>to</c></NS>. It should be a dry place, I think<NS type="MP"><c>,</c></NS> but I would like to make sure <NS type="U"><i>my guess</i></NS><NS type="R"><i><NS type="RP"><i>, as well</i><c>. As well</c></NS></i><c>. Also</c></NS>, I would like to know how much money I will need, because <NS type="CE">it is also all paid</NS> I don't know if there will be <NS type="RQ"><i>some</i><c>any</c></NS> gift shops.</p>
+          <p>I look forward <NS type="MT"><c>to</c></NS> hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>Patricia Reyes</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>- Shopping is not always enjoyable -</p>
+          <p>The most popular "sport" that <NS type="R"><i>all the people</i><c>everyone</c></NS> <NS type="AGV"><i>do</i><c>does</c></NS> <NS type="UA"><i>it's</i><c>is</c></NS> <NS type="S"><i>obiously</i><c>obviously</c></NS> shopping. This is the thing that <NS type="RV"><NS type="AGV"><i>move</i><c>moves</c></NS></NS> <NS type="FN"><i>hundred</i><c>hundreds</c></NS> and hundreds of people in the world and we don't have to go to Japan<NS type="MP"><c>,</c></NS> we have the <NS type="CN"><i>evidences</i><c>evidence</c></NS> here in England. But the question is: Is shopping always enjoyable?</p>
+          <p>Some people think that going shopping can keep you away from depression. You can enjoy your time spending all the money you have, buying clothes, <NS type="RN"><i><NS type="S"><i>jewells</i><c>jewels</c></NS></i><c>jewellery</c></NS>, <NS type="CN"><i>furnitures</i><c>furniture</c></NS>, etc. and you could have a <NS type="L"><i>real</i><c>really</c></NS> great time.</p>
+          <p>But other people don't think like this<NS type="RP"><i>, for</i><c>. For</c></NS> example, there is a case of a woman who was shopping with her little daughter and without <NS type="S"><i>inttetion</i><c>intention</c></NS> the girl <NS type="TV"><i>get</i><c>got</c></NS> lost. The mother was <NS type="DJ"><i>shock</i><c>shocked</c></NS><NS type="RP"><i>, she</i><c>. She</c></NS> didn't know how to look for her because all the shops and streets were full of people going <NS type="CL"><i>out and in</i><c>in and out</c></NS> <NS type="R">the places</NS><NS type="RP"><i>, it</i><c>. It</c></NS> was <NS type="MD"><c>a</c></NS> nightmare but <NS type="S"><i>fortunaly</i><c>fortunately</c></NS> the police found her.</p>
+          <p>Sometimes going shopping can be stressful. Can you <NS type="S"><i>imagen</i><c>imagine</c></NS> <NS type="FV"><i>be</i><c>being</c></NS> in Japan or China and <NS type="FV"><i>have</i><c>having</c></NS> to go to the shops? I don't <NS type="SX"><i>thing</i><c>think</c></NS> that <NS type="TV"><i>I'll</i><c>I'd</c></NS> enjoy it, all the people <NS type="S"><i>knicking</i><c>kicking</c></NS> you, you can't walk properly or buy <NS type="RA"><i>something</i><c>anything</c></NS><NS type="RP"><i>, and</i><c>. And</c></NS> also there are <NS type="MD"><c>a</c></NS> lot of cases which show how people can be in shops<NS type="RP"><i>,</i><c>.</c></NS> I mean that some people can fight to get something. Where <NS type="W"><i>we are</i><c>are we</c></NS> going!!</p>
+          <p>In my opinion shopping is not <NS type="RD"><i>the</i><c>a</c></NS> thing that I would like to do in my free time. I think that it's too stressful, <NS type="M"><c>there are</c></NS> too many people in the shops, so I prefer <NS type="FV"><i>spend</i><c>to spend</c></NS> my free time <NS type="UV"><i>go</i></NS> swimming or painting and I go shopping <NS type="RT"><i>in</i><c>on</c></NS> the days <NS type="RA"><i>that</i><c>when</c></NS> usually there are not too many people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

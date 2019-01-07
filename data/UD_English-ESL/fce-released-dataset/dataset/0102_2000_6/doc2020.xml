@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR811*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Matthias Hähnel</p>
+          <p>104 Mühlenstrasse</p>
+          <p>09111 Chemnik</p>
+          <p>Germany</p>
+          <p>The manager of the Circle Theatre</p>
+          <p>Dear manager,</p>
+          <p>During my stay in London I went to your Circle Theatre to see the musical 'Over the rainbow'. In the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> you promised a perfect evening out, but it wasn't. So with this letter I want to ask for some money back. Now I want to explain <NS type="MT"><c>about</c></NS> the problems. It was very disappointing for me that the actor wasn't Danny Brook, <NS type="R"><i>how it</i><c>as</c></NS> was <NS type="RV"><i>told</i><c>promised</c></NS> in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS>. It <NS type="RV"><i><NS type="TV"><i>was also told</i><c>also told</c></NS></i><c>also said</c></NS> that the evening shows <NS type="TV"><i>are starting</i><c>started</c></NS> <NS type="MT"><c>at</c></NS> 19.30, but it started 20.15. I had to buy a £20 ticket because discounts were not available. After the show I wanted to go to the theatre restaurant with my friends, but it was closed because of <NS type="M"></NS> illness. So I want to ask for my money back, also <NS type="UC"><i>because</i></NS> I had to pay for but cancel the arranged taxi because of the wrong starting time in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS>. I hope you will answer my letter and <NS type="RV"><i>correct</i><c>solve</c></NS> the problems <NS type="RT"><i>in</i><c>at</c></NS> your theatre.</p>
+          <p>Yours faithfully Adolf Schmidt</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS> you have to define what is meant by 'modern technology'. For me modern technology <NS type="AGV"><i>are</i><c>is</c></NS> things like personal computers, mobile phones, keyboards, video recorders, <NS type="MP"><i>Hifi</i><c>hi-fi</c></NS> sound systems, television or even cars. But are they <NS type="UV"><i>are</i></NS> <NS type="DJ"><i>usefull</i><c>useful</c></NS> in every situation and everywhere? My <NS type="S"><i>oppinion</i><c>opinion</c></NS> is that modern technology can help you to save time. In my case for example my car is very time-saving. If I want to go to training I need not wait for the bus, and so I need not start one and a half <NS type="AGN"><i>hour</i><c>hours</c></NS> before training<NS type="MP"><c>,</c></NS> I start <NS type="W"><i>a half</i><c>half an</c></NS> hour before. So I save one hour, which I can use for other hobbies or for homework or something else. <NS type="M"><i>The</i><c>One finds the</c></NS> same <NS type="RN">problem</NS> with mobile phones, if I <NS type="RV"><i><NS type="TV"><i>got</i><c>get</c></NS></i><c>have</c></NS> one I needn't go to the public phones, I save time. If I <NS type="MV"><c>have</c></NS> got <NS type="MD"><c>the</c></NS> Internet I can send e-mails, I needn't go to the letter box, I save time. In my daily life I can save time, but I think <NS type="RP"><i>every body</i><c>everybody</c></NS> should use <NS type="MD"><c>the</c></NS> <NS type="R"><i>his saved time</i><c>the time he has saved</c></NS> for things like hiking, walking, swimming, for a "natural life" and not for a life in a technical world with stress and sorrows because we are humans and not robots. We should also move our body and not only use our brain.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR346*0100*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan<NS type="MP"><c>,</c></NS></p>
+          <p>I have just received your letter, and thank you very much for your reply.</p>
+          <p>I am very happy to take part in the competition and I would like to give you all the information you need:</p>
+          <p>First of all, I am available to travel in July from 1st to 20th because my university will be closed during <NS type="RD"><i>this</i><c>that</c></NS> month.</p>
+          <p>Secondly, if you don't mind, I would prefer to sleep in a tent. Although it is not very comfortable, I like camping very much.</p>
+          <p>Thirdly, I am very interested in swimming and also climbing. I took up climbing five years ago and I am very keen on <NS type="MA"><c>it</c></NS>. I am very good at swimming as well because I practise this sport every week in my city.</p>
+          <p>Finally, could you tell me what I need to <NS type="RV"><i>dress</i><c>wear</c></NS> and also how much money I will spend <NS type="UT"><i>on</i></NS><NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>I have <NS type="MV"><c>been</c></NS> asked to write a composition regarding the question<NS type="MP"><c>, '</c></NS><NS type="RP"><i>it</i><c>It</c></NS> is believed that shopping is not always enjoyable.<NS type="MP"><c>'</c></NS></p>
+          <p>In fact, <NS type="UV"><i>to do</i></NS> shopping can <NS type="RV"><i>be</i><c>have</c></NS> some <NS type="S"><i>disavantages</i><c>disadvantages</c></NS> for different reasons:</p>
+          <p>Firstly, you have to queue for a long time to get a free <NS type="RN"><i>cabin</i><c>changing room</c></NS> and waste <NS type="UT"><i>of</i></NS> time putting on some clothes <NS type="RC"><i>and</i><c>when</c></NS> in the end they are not the right size. Secondly, it is easy to spend a lot of money in <NS type="MD"><c>a</c></NS> few minutes and <NS type="W"><i><NS type="UT"><i>as</i></NS> soon <NS type="UT"><i>as</i></NS> you can regret</i><c>you can soon regret</c></NS> <NS type="FV"><i>to buy</i><c>buying</c></NS> all <NS type="RD"><i>these</i><c>those</c></NS> clothes<NS type="UP"><i>,</i></NS> which you don't really need.</p>
+          <p>Thirdly, some clothes can have some stains on and you haven't noticed this before buying <NS type="MA"><c>them</c></NS>, so you have to go back to the shop. However, it is not easy to get a refund or to change them.</p>
+          <p>In my opinion, <NS type="UV"><i>doing</i></NS> shopping <NS type="RV"><i><NS type="AGV"><i>bring</i><c>brings</c></NS></i><c>gives</c></NS> me a lot of satisfaction especially <NS type="MC"><c>when</c></NS> I am depressed<NS type="RP"><i>, nevertheless</i><c>.  Nevertheless</c></NS> it could be very dangerous for my wallet.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

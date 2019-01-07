@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="OU4*0102*2001*03">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Pete,</p>
+          <p>I hope you have a fantastic time in New York and please don't worry about your flat. Everything is going to be under control! But I want to make some points clear before you leave London.</p>
+          <p>First of all, I think I'm going to be busy on the 4th of April. Can we change the <NS type="RN">date</NS> <NS type="RT"><i>into</i><c>to</c></NS> the 5th of April, at 4 o'clock?</p>
+          <p>Thanks very much for letting me use your things during <NS type="RD"><i>the</i><c>my</c></NS> stay. I may need to use <NS type="RY">particularly</NS> the computer and the CD player. Is that OK <NS type="RT"><i>for</i><c>with</c></NS> you?</p>
+          <p>By the way, if you tell me around what time you will be back on the 20th, maybe I can prepare something for dinner. I know you're going to be too tired to cook after 11 hours of <NS type="RN"><i>flight</i><c>flying</c></NS>.</p>
+          <p>Last of all, thanks for your <NS type="RN">consideration</NS> about bringing me a present. <NS type="R">Anything as a <NS type="S"><i>souveniere</i><c>souvenir</c></NS></NS> would be quite enough for me. I'll leave it to you. I know you have <NS type="UD"><i>a</i></NS> good taste in presents!!</p>
+          <p>Have a great time in the States.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>To whom it may concern,</p>
+          <p>With regards to your advertisement in "The Traveller" magazine, I would be pleased to tell you why I want to apply for this <NS type="RN">trip</NS>.</p>
+          <p>The first thing that caught my attention in the advert was "... eight people from different countries... ". I am very interested in meeting and spending time with people from other cultures.</p>
+          <p>I am generally known as an easy-going person and I can remain calm in <NS type="UD"><i>the</i></NS> emergency situations and I am quite reliable too.</p>
+          <p>Obviously a sailing trip <NS type="RV">has not got</NS> the most comfortable conditions but I think this makes the idea more exciting. I believe that facing difficulties will make me more mature in the real <NS type="RN"><i>life</i><c>world</c></NS> and having friends from all over the world will help me to think "<NS type="RY"><i>worldwide</i><c>globally</c></NS>".</p>
+          <p>I hope this letter will be enough to explain why I want to do this trip.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

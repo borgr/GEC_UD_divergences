@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR280*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Tuesdy 13th, June, 2000</p>
+          <p>Dear Ms Ryan,</p>
+          <p>I am writing in response to your letter about the first prize in the Competition.</p>
+          <p>I am <NS type="RY"><i>very</i><c>really</c></NS> looking forward to going to California and I would like to go in July, because I am going to have my summer holidays in that month.</p>
+          <p>About accommodation, I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>, because I have a problem <NS type="RT"><i>in</i><c>with</c></NS> my back. Therefore, I need to sleep in a bed. Also tents are not <NS type="RY"><i>fairly</i><c>very</c></NS> comfortable.</p>
+          <p>As far as camp activities <NS type="MV"><c>are</c></NS> concerned, I have been doing windsurfing for 5 years <NS type="MC"><c>and</c></NS>, for that reason, I am fairly interested in sailing. On the other hand, I <NS type="MV"><c>am</c></NS> keen on painting, however, I have never painted in my life, so I would like to try it.</p>
+          <p>Finally, I was wondering what kind of clothes I have to wear in California? In addition, could you <NS type="DV"><i>advice</i><c>advise</c></NS> me how much money I need for the trip? and is there anything else <NS type="UV"><i>do</i></NS> I have to know?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>13/06/00</p>
+          <p>Hello Kim,</p>
+          <p><NS type="TV"><i>I've received</i><c>I received</c></NS> your letter two days ago and I'm quite happy to know that you passed F.C.E. I'm ok and let me tell you about my <NS type="RJ"><i>last</i><c>recent</c></NS> experience.</p>
+          <p>I went to Madrid last week and I was walking in the street when somebody asked me <NS type="MT"><c>for</c></NS> an address. I looked at him and I realised that this person was David Bowie. Yes!!! I couldn't believe it.</p>
+          <p>He was trying to speak in Spanish, but his accent was terrible. So, I started to speak in English with him. I explained to him where <NS type="W"><i>was the street</i><c>the street was</c></NS> that he was looking for and we carried <NS type="RY"><i>out</i><c>on</c></NS> with the conversation for a while.</p>
+          <p>I thought he was very rude, but I was wrong, he isn't arrogant at all and he looks very <NS type="R">simply</NS>.</p>
+          <p>I liked my experience with him and I think the best part was when he gave me his e-mail address. Yeah!!! I'm not joking, I got his e-mail.</p>
+          <p>Well my friend, I have to go, because I <NS type="MV"><c>have</c></NS> got an <NS type="S"><i>appoinment</i><c>appointment</c></NS> with the Dentist. Write <NS type="MT"><c>to</c></NS> me soon and take care.</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

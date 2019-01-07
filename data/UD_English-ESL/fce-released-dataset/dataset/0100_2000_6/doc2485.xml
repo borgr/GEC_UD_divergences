@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1005*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I have received your letter<NS type="MP"><c>,</c></NS> which <NS type="UV"><i>is</i></NS> <NS type="AGV"><i>make</i><c>makes</c></NS> me happy. <NS type="MT"><i>The</i><c>For the</c></NS> first time in my life I have won <NS type="MD"><c>a</c></NS> competition. I would like to <NS type="RV"><i>attempt</i><c>take you up on</c></NS> your <NS type="L"><i>invite</i><c>invitation</c></NS> in July. I <NS type="MV"><c>am</c></NS> only able to take my <NS type="S"><i>holidy</i><c>holiday</c></NS> in July<NS type="RP"><i>, <NS type="MD"><c>the</c></NS></i><c>. The</c></NS> rest of the year I work.</p>
+          <p>I would prefer to stay in <NS type="MD"><c>a</c></NS> tent. I think it is more enjoyable. I don't know why but I have <NS type="R">feel toward to tent from</NS> my childhood. When I was <NS type="MD"><c>a</c></NS> kid I used to ask my mum to buy me a tent for my bedroom <NS type="M"><c>so I would be able</c></NS> to sleep in there instead of <NS type="MD"><c>my</c></NS> bed.</p>
+          <p>I'm <NS type="S"><i>crayz</i><c>crazy</c></NS> about tennis and swimming. I used to take tennis and swimming <NS type="FN"><i>lesson</i><c>lessons</c></NS> when I was <NS type="MT"><c>in</c></NS> high school. I have <NS type="R">good talent and skill about them</NS>. <NS type="R">Most of the weekend</NS> I go <NS type="UT"><i>for</i></NS> <NS type="DN"><i>swiming</i><c>swimming</c></NS> and <NS type="MV"><c>play</c></NS> tennis. <NS type="R">That is the fun for me to doing it</NS>.</p>
+          <p>Do I have to bring some cash <NS type="RT"><i>on</i><c>with</c></NS> me? Do you think <NS type="DN"><i>travel <NS type="FN"><i><NS type="S"><i>chaque</i><c>cheque</c></NS></i><c>cheques</c></NS></i><c>traveller's cheques</c></NS> would be more <NS type="RJ"><i>secure</i><c>safe</c></NS>? I <NS type="W"><i>also would</i><c>would also</c></NS> like to get some information about <NS type="MD"><c>the</c></NS> weather. What <NS type="RV"><i>does</i><c>is</c></NS> it like in July over there?</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Shopping is part of our life. I don't like shopping. Can you <NS type="RV"><NS type="S"><i>imagene</i><c>imagine</c></NS></NS> <NS type="RP"><i>friday</i><c>Friday</c></NS> night<NS type="RP"><i>.</i><c>?</c></NS> Most <NS type="U"><i>of the</i></NS> people get <NS type="TV"><i>pay</i><c>paid</c></NS> on <NS type="RP"><i>friday</i><c>Friday</c></NS> night then they go <NS type="UT"><i>to</i></NS> shopping. I can't stand <NS type="RT"><i>on</i><c>in</c></NS> <NS type="UD"><i>the</i></NS> long <NS type="FN"><i>queue</i><c>queues</c></NS>. <NS type="AS"><i>All day you had worked hard</i><c>You have worked hard all day</c></NS><NS type="RP"><i>, on</i><c>. On</c></NS> the way home you want to pick up some milk from <NS type="MD"><c>the</c></NS> shop <NS type="MC"><c>and</c></NS> you have to <NS type="S"><i>waite</i><c>wait</c></NS> <NS type="W"><i>on <NS type="S"><i>avarage</i><c>average</c></NS> ten minute</i><c>ten minutes on average</c></NS>. It is not good. Your time <NS type="AGV"><i>have</i><c>has</c></NS> been stolen. I can't cope with that. I prefer <NS type="FV"><i>go</i><c>to go</c></NS> home without <NS type="MQ"><c>any</c></NS> milk. There are a lot of <NS type="AGN"><i><NS type="RN"><i>tile</i><c>till</c></NS></i><c>tills</c></NS> in the shop but most of them are <NS type="RJ"><i>close</i><c>closed</c></NS>. It is <NS type="RJ"><i>annoyed</i><c>annoying</c></NS>.</p>
+          <p>There are a lot of <NS type="AGN"><i>option</i><c>options</c></NS> and <NS type="AGN"><i>item</i><c>items</c></NS> <NS type="FV"><i>make</i><c>to make</c></NS> our <NS type="DN"><i>chose</i><c>choice</c></NS> <NS type="S"><i>difficut</i><c>difficult</c></NS>. <NS type="RP"><i>it</i><c>It</c></NS> is hard <NS type="UV"><i>to make</i></NS> <NS type="FV"><i>decide</i><c>to decide</c></NS> which <NS type="MV"><c>is</c></NS> <NS type="RJ"><i>suitable</i><c>best</c></NS> for you. After shopping you have to carry <NS type="MD"><c>a</c></NS> <NS type="S"><i>havy</i><c>heavy</c></NS> bag <NS type="MD"><c>a</c></NS> long way <NS type="UT"><i>to</i></NS> home</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

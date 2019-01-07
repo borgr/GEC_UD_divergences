@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR761*0102*2000*02">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you because <NS type="TV"><i>I've been</i><c>I went</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> the International Arts Festival and it was a pleasure. Let me introduce myself: I'm Mary, I'm nineteen and I'm studying arts. <NS type="R"><i>As well</i><c>Also</c></NS>, I want you to know my opinion and I'd like to give you my suggestions, because it would be useful <NS type="RT"><i>to</i><c>for</c></NS> you for the next festival.</p>
+          <p>Firstly, I want to congratulate you <NS type="RT"><i>for</i><c>on</c></NS> the idea<NS type="RP"><i>,</i><c>.</c></NS> I think that <NS type="W"><i><NS type="UA"><i>it's</i><c>is</c></NS> very important the development of the arts</i><c>the development of the arts is very important</c></NS> and that everybody could <NS type="RV"><i>assist</i><c>attend</c></NS> without paying too much. Having <NS type="RQ"><i>a</i><c>one</c></NS> ticket for all the events is a great method because it's <NS type="RJ">an organised</NS> way of paying and you <NS type="RV"><i>win</i><c>save</c></NS> time.</p>
+          <p>On the other hand, I must tell you that some concert halls are too small, so you can't be <NS type="W"><i>enough <NS type="S"><i>confortable</i><c>comfortable</c></NS></i><c>comfortable enough</c></NS> to <NS type="S"><i>apreciate</i><c>appreciate</c></NS> the event. <NS type="AGQ"><i>Other</i><c>Another</c></NS> thing<NS type="UP"><i>,</i></NS> is that the artists come only from six countries, so don't <NS type="RV"><i>cheat</i><c>deceive</c></NS> <NS type="UD"><i>the</i></NS> people by saying that they are from all <NS type="MT"><c>over</c></NS> the world.</p>
+          <p>In my opinion, you should <NS type="RV"><i>call</i><c>invite</c></NS> more <NS type="AGN"><i>artist</i><c>artists</c></NS> from other countries and have some <NS type="W"><i>concert halls bigger</i><c>bigger concert halls</c></NS> or <NS type="RP"><i>may be</i><c>maybe</c></NS> change the distribution.</p>
+          <p>Well, I think that <NS type="R"><i>everything is told</i><c>I have told you everything</c></NS> but could you tell me, if <NS type="U"><i>it's</i></NS> possible, if there will be more plays and films next year?</p>
+          <p>I'm waiting for your answer.</p>
+          <p><NS type="MA"><c>Yours</c></NS> <NS type="RY"><i>Faithfully</i><c>Sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane,</p>
+          <p>Thanks for your letter<NS type="RP"><i>,</i><c>:</c></NS> it was nice to hear from you again. I've recently started <NS type="UD"><i>the</i></NS> classes so all the rules were given to us, <NS type="RC"><i>like</i><c>as</c></NS> you know, <NS type="MT"><c>on</c></NS> the first day. As you <NS type="TV"><i>want</i><c>wanted</c></NS> me to tell you <NS type="AS"><i>how about the rules are here</i><c>what the rules are like here</c></NS>, I'll start.</p>
+          <p>Firstly, in our classroom you can't shout, you must be <NS type="SX"><i>quite</i><c>quiet</c></NS> and <NS type="FV"><i>sat</i><c>sit</c></NS> <NS type="MY"><c>down</c></NS>. You must <NS type="W"><i>pay attention always</i><c>always pay attention</c></NS> because you don't know if the teacher will ask you some question. In exams, you can't talk to the teacher, <NS type="RC"><i>either</i><c>and</c></NS> you mustn't eat <NS type="S"><i>chuingham</i><c>chewing gum</c></NS> or take a <NS type="RP"><i>walkman</i><c>Walkman</c></NS> with you. In my home I can avoid <NS type="AGD"><i>that</i><c>those</c></NS> rules. My mum <NS type="RY"><i>only</i><c>just</c></NS> doesn't want me to arrive late. However, I can go dancing whenever I want but <NS type="M"><c>I must</c></NS> <NS type="FV"><i>telling</i><c>tell</c></NS> her <NS type="RY"><i>previously</i><c>beforehand</c></NS>. My mum is a lovely woman and she doesn't know how much I love her because most of the day I'm outside, but that's the <NS type="DN"><i>true</i><c>truth</c></NS>. My father is a bit jealous but agrees with what my mum says.</p>
+          <p>So, I'm free when I'm out of <NS type="UD"><i>the</i></NS> school. <NS type="CE">I'd like it would be nicer going there</NS>.</p>
+          <p>Lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

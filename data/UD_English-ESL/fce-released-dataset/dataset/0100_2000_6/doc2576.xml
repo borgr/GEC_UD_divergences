@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR117*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13th June, 2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>I <NS type="S"><i>recived</i><c>received</c></NS> your letter and I am very excited about the camp.</p>
+          <p>I would like to go in July<NS type="MP"><c>,</c></NS> I don't mind <NS type="S"><i>wich</i><c>which</c></NS> two weeks<NS type="MP"><c>,</c></NS> but it has to be that month because in June I <NS type="MV"><c>am</c></NS> still in school and in August <NS type="UP"><i>I'am</i><c>I am</c></NS> going on holiday with my family.</p>
+          <p>I would prefer to sleep in a tent because I think it's different from where I sleep every night so I would <NS type="S"><i>apreciate</i><c>appreciate</c></NS> it if there are still tents available.</p>
+          <p>One of the activities I would prefer to do is Climbing<NS type="RP"><i>,</i><c>.</c></NS> I haven't done a lot of it but I've always found it interesting and I think this would be a good opportunity to become better <NS type="RT"><i>in</i><c>at</c></NS> it. The other activity I would like to <NS type="RV"><i>take</i><c>do</c></NS> is tennis, I'm quite good at it and I have been <NS type="RV"><i>practising</i><c>playing</c></NS> for four years.</p>
+          <p>I would like to know what type of clothes I should take and also if I need to take <NS type="MQ"><c>any</c></NS> money with me.</p>
+          <p>Thanks for your <NS type="FN"><i>attentions</i><c>attention</c></NS>.</p>
+          <p>Yours sincerely,</p>
+          <p>Ma. Anni Soler</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>13th June, 2000</p>
+          <p>Dear Kim,</p>
+          <p>Hello girl<NS type="MP"><c>,</c></NS> how are you doing <NS type="AGD"><i>this</i><c>these</c></NS> days<NS type="RP"><i>.</i><c>?</c></NS> I <NS type="TV"><i>am</i><c>have been</c></NS> great<NS type="MP"><c>,</c></NS> especially last weekend <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="W"><i>concert of Backstreet Boys</i><c>Backstreet Boys concert</c></NS>. It was so exciting.</p>
+          <p>They were giving two concerts<NS type="MP"><c>,</c></NS> one <NS type="RT"><i>in</i><c>on</c></NS> Friday and the other one <NS type="RT"><i>in</i><c>on</c></NS> Saturday<NS type="MP"><i> they</i><c>. They</c></NS> invited me to go on <NS type="RP"><i>friday</i><c>Friday</c></NS>. This is what happened: when I <NS type="TV"><i>arrive</i><c>arrived</c></NS> they told me that I was helping <NS type="UT"><i>in</i></NS> backstage with the scenery<NS type="RP"><i>,</i><c>;</c></NS> then the group arrived, we chat for like 15 minutes<NS type="MP"><c>,</c></NS> then they had to go on stage. Here is where the good part starts, I was doing the <NS type="S"><i>courtines</i><c>curtains</c></NS> (opening and closing) when Nick came <NS type="MY"><c>up</c></NS> to me and <NS type="TV"><i>ask</i><c>asked</c></NS> me to go on stage with him<NS type="RP"><i>, my</i><c>. My</c></NS> heart started beating very hard. The next second I was in front of more than 2 thousand people dancing with The Backstreet Boys. I had a great time that day.</p>
+          <p>Well I have to go now. Hope to hear from you later <NS type="UT"><i>on</i></NS>.</p>
+          <p>Love,</p>
+          <p>Anni.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

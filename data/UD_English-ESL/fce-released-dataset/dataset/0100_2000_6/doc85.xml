@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR343*0100*2000*01">
+  <candidate><personnel><language>French</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Thomas West</p>
+          <p>24 Kingsberry place</p>
+          <p>CS4 1XD</p>
+          <p>Tuesday 13th <NS type="RP"><i>june</i><c>June</c></NS></p>
+          <p>to Helen Ryan</p>
+          <p>Competition Organiser at Camp California</p>
+          <p>Dear <NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p><NS type="RP"><i>thank</i><c>Thank</c></NS> you for your letter<NS type="RP"><i>,</i><c>. </c></NS> <NS type="TV"><i>I've been</i><c>I was</c></NS> so happy to <NS type="S"><i>receave</i><c>receive</c></NS> such <NS type="UD"><i>a</i></NS> good news that I <NS type="TV"><i>can't</i><c>couldn't</c></NS> <NS type="UY"><i>already</i></NS> believe it.</p>
+          <p>To answer your first question, I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RP"><i>july</i><c>July</c></NS> if it's possible, because I'll be on holiday and because a friend would be able to come with me at <NS type="RD"><i>this</i><c>that</c></NS> time of the year.</p>
+          <p><NS type="RT"><i>In</i><c>Regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> at Camp California, I prefer to rent a tent, <NS type="RA"><i>he</i><c>which</c></NS> is going to be more <NS type="RJ"><i>funny</i><c>fun</c></NS>, I think, but are the tents singles? I would be pleased if you could give me details about this question.</p>
+          <p>I can see <NS type="RT"><i>in</i><c>on</c></NS> the list a lot of interesting sports! But I think (it's difficult to choose) I'll choose golf and basketball, golf because I'm <NS type="SX"><i>quiet</i><c>quite</c></NS> good<NS type="RP"><i>. </i><c>(</c></NS>I finished 5th <NS type="RT"><i>at</i><c>in</c></NS> the <NS type="DJ"><i>England</i><c>English</c></NS> <NS type="W"><i>Golf <NS type="RN"><i>tour</i><c>tournament</c></NS> <NS type="RP"><i>junior</i><c>Junior</c></NS></i><c>Junior Golf Tournament</c></NS>  in 1999<NS type="MP"><c>)</c></NS>, and basketball, because I would like to <NS type="RV"><i>discover</i><c>rediscover</c></NS> this sport I only used to play at school.</p>
+          <p>I've got other questions: <NS type="RQ"><i><NS type="S"><i>wich</i><c>which</c></NS></i><c>what</c></NS> type of clothes do I have to bring? Can I change money on the <NS type="RN"><i>campus</i><c>camp</c></NS>? Are <NS type="RQ"><i>some</i><c>any</c></NS> <NS type="AGN"><i>party</i><c>parties</c></NS> organized during the holidays? Is there only one <NS type="S"><i>teatcher</i><c>teacher</c></NS> for each sport, and how many are <NS type="UA"><i>we</i></NS> in each group <NS type="UN"><i>of activities</i></NS>?</p>
+          <p>Thank you for all <NS type="MD"><c>the</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> you <NS type="TV"><i>could</i><c>can</c></NS> give me.</p>
+          <p>I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Report about which lessons and activities we should film.</p>
+          <p>First, I <NS type="X"><i>think we can't</i><c>don't think we can</c></NS> shoot a film only about lessons or only about breaks, because <NS type="AGQ"><i>this</i><c>these</c></NS> two elements are representative of <NS type="RD"><i>a</i><c>the</c></NS> daily life at school<NS type="MP"><c>,</c></NS> aren't they?</p>
+          <p>First, we should film some lessons because everybody <NS type="AGV"><i>know</i><c>knows</c></NS> (or <NS type="AGV"><i>remember</i><c>remembers</c></NS> <NS type="R"><i>for the</i><c>if they are</c></NS> <NS type="IN"><i>growns up</i><c>grown-ups</c></NS>) that <NS type="RA"><i>it</i><c>this</c></NS> is the activity that <NS type="RV"><i><NS type="TV"><i>to be</i><c>is</c></NS></i><c>takes up</c></NS> <NS type="UD"><i>the</i></NS> most of a <NS type="MP"><i>student</i><c>student's</c></NS> time at school.</p>
+          <p>Just after, to make a contrast, we may film the break, because it's the other part of a <NS type="R"><i>daily school</i><c>school day</c></NS>! It's the place where you can meet your friends, where you can talk <NS type="RY"><i>free</i><c>freely</c></NS>, <NS type="MC"><c>and</c></NS> there are no <NS type="S"><i>teatchers</i><c>teachers</c></NS><NS type="RP"><i>, it</i><c>.  It</c></NS> could be a good contrast to the <NS type="DN"><i>serious</i><c>seriousness</c></NS> of the lessons. To come back to <NS type="R"><i>a strict</i><c>the central</c></NS> <NS type="CE">(a little beat less)</NS> subject, I suggest that we film the <NS type="DJ"><i>sport</i><c>sports</c></NS> lesson <NS type="RP"><i>, doing</i><c>.  Doing</c></NS> that will <NS type="TV"><i>allowed</i><c>allow</c></NS> the spectator to see how <NS type="UV"><i>does</i></NS> the students behave when they are all together and in small groups.</p>
+          <p>Finally we should film the lunch, which is also a moment <NS type="W"><i>to relax for the students, and for the <NS type="S"><i>teatchers</i><c>teachers</c></NS></i><c>for the students, and for the teachers, to relax</c></NS><NS type="RP"><i>, we</i><c>.  We</c></NS> mustn't forget to film the <NS type="RN"><i><NS type="S"><i>teatcher</i><c>teacher</c></NS></i><c>staff</c></NS> room because if a school is made of students, it's also made of <NS type="S"><i>teatchers</i><c>teachers</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

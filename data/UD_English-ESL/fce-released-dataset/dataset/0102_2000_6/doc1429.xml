@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR57*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>17-6-00.</p>
+          <p>Mr. Smith,</p>
+          <p>I write to you because last night, (Saturday 10), I went to see the musical show that you are presenting at the Circle theatre.</p>
+          <p>I am a great fan of Danny Brook and went to see him in his new show, but, to my surprise, it wasn't him who played that night but another<NS type="MP"><c>,</c></NS> horrible young actor. I went with my daughter, a university student, and she was supposed to <NS type="RV"><i>have</i><c>get</c></NS> a discount on the ticket. We asked for it and we were told that there was <NS type="RD"><i>not</i><c>no</c></NS> discount <NS type="RQ"><i>neither</i><c>either</c></NS> for her <NS type="UY"><i>not</i></NS> <NS type="RT"><i>for</i><c>or</c></NS> anyone else, so I had to pay the full price of the two tickets.</p>
+          <p>Furthermore, it was <NS type="RV"><i>announced</i><c>supposed</c></NS> to start at 19.30 p.m. and it started at 20.15 p.m. for reasons <NS type="RA"><i>anyone</i><c>no one</c></NS> would explain to the audience.</p>
+          <p>After the play, we went to the theatre's restaurant and we found out that it <NS type="TV"><i>was</i><c>had been</c></NS> closed since <NS type="W"><i>1999's spring</i><c>spring 1999</c></NS>! How can you ask <NS type="UD"><i>the</i></NS> people to go to a closed restaurant?</p>
+          <p>In conclusion, I would be very grateful if you could send me my money back because, as you have seen, I didn't <NS type="RV"><i>spend</i><c>have</c></NS> the "perfect evening" you <NS type="RV"><i>announce</i><c>advertised</c></NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Although he had promised Lise that he wouldn't say a word, when he reached the school he told the secret to Ann. Of course, Ann promised not to tell anyone, but by <NS type="UD"><i>the</i></NS> <NS type="RN"><i>lunch-break</i><c>lunch time</c></NS> all the school knew that Lise had stolen the literature exams.</p>
+          <p>Very soon, Lise understood that it was useless to continue pretending that she knew nothing about it, and decided to make a deal with her class mates. She would give them the exam's questions and they would <NS type="RV"><i>make</i><c>do</c></NS> all her <NS type="CN"><i>homeworks</i><c>homework</c></NS> <NS type="RT"><i>during</i><c>for</c></NS> 3 weeks.</p>
+          <p>There was no escape. It was an unfair deal, but if they wanted the questions they had to accept, and if they accepted, they couldn't <NS type="AS"><i>tell anything to the teachers</i><c>tell the teachers anything</c></NS>, because, in fact, they were as guilty as Lise.</p>
+          <p>Unfortunately, the perfect plan doesn't exist, and a teacher heard two students talking in the bathroom. The teachers started investigating and asking all the students, but it was a secret and they couldn't say a word.</p>
+          <p>Finally, the teachers asked Lise and her friends. No-one said a word.</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

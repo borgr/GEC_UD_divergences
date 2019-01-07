@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR587*0100*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, all the students and I would <NS type="RV"><i>thank</i><c>like</c></NS> <NS type="MV"><c>to thank</c></NS> you for this great idea of a trip <NS type="RT"><i>in</i><c>to</c></NS> London <NS type="RT"><i>during</i><c>for</c></NS> three days. The programme is very <NS type="S"><i>exating</i><c>exciting</c></NS> and interesting, especially the river trip to Greenwich.</p>
+          <p><NS type="RY">Otherwise</NS>, all the class have seen an advertisement for the "London Fashion and Leisure Show", and we are all interested <NS type="MT"><c>in</c></NS> <NS type="FV"><i>to see</i><c>seeing</c></NS> this show, this is why I am writing to you.</p>
+          <p>In fact this is a great opportunity because we certainly will not have again the chance to take part in a live show, like this one. <NS type="RY">Even more</NS>, <NS type="UD"><i>the</i></NS> students don't pay the <NS type="RN"><i>entrance</i><c>entrance fee</c></NS>.</p>
+          <p>The show is on the 14th from 10.00 to 19.00, so I suggest <NS type="FV"><i>to go</i><c>going</c></NS> to the Science Museum <NS type="RT"><i>on</i><c>in</c></NS> the afternoon <NS type="RT"><i>of</i><c>on</c></NS> Wednesday, and just <NS type="FV"><i>have</i><c>having</c></NS> two or three <NS type="MP"><i>hours</i><c>hours'</c></NS> free time after the museum. This is the arrangement that we <NS type="RV"><NS type="S"><i>fouded</i><c>founded</c></NS></NS> with the other students and everyone <NS type="TV"><i>had <NS type="TV"><i>agree</i><c>agreed</c></NS></i><c>agreed</c></NS>.</p>
+          <p>I look forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> <NS type="MQ"><c>some</c></NS> news from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="L"><i><NS type="RP"><i><NS type="DY"><i>Faithfull</i><c>Faithfully</c></NS></i><c>faithfully</c></NS></i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. The <NS type="DN"><i>survive</i><c>survival</c></NS> of my family depended on me. We were a poor family, <NS type="W"><i>living in one room <NS type="UT"><i>for</i></NS> five <NS type="L"><i>persons</i><c>people</c></NS></i><c>five people living in one room</c></NS>. My father died during the war and my mother stayed alone with four children. We <NS type="TV"><i>haven't</i><c>hadn't</c></NS> enough money to buy food<NS type="UP"><i>,</i></NS> <NS type="MC"><c>or</c></NS> new clothes and the <NS type="FJ"><i>worse</i><c>worst</c></NS> <NS type="MN"></NS> was that my <NS type="IJ"><i>youngerst</i><c>youngest</c></NS> brother was terribly ill, and without money we couldn't <NS type="RV"><i>bring</i><c>take</c></NS> him <NS type="UY"><i>up</i></NS> to a doctor.</p>
+          <p>So, <NS type="RD"><i>a</i><c>one</c></NS> day I decided to <NS type="RV"><i>steal</i><c>rob</c></NS> the bank. <NS type="RT"><i>During</i><c>For</c></NS> weeks, I had prepared my <NS type="RN"><i>programme</i><c>plan</c></NS>, trying not to forget <NS type="RA"><i>something</i><c>anything</c></NS> important. Everything was ready and <NS type="FA"><i>me</i><c>I</c></NS> <NS type="MV"><c>was</c></NS> too. So I knew that the day after would be the <NS type="RJ"><i>good</i><c>right</c></NS> one.</p>
+          <p>I <NS type="TV"><i>get up</i><c>got up</c></NS> very early. All the city was sleeping. The weather was cold. When I arrived in front of the bank, my heart was going faster. A few days before, I had <NS type="RV"><i>founded</i><c>found</c></NS> a little window at the back of the building, so I entered <NS type="RT"><i>by</i><c>in</c></NS> this way and by chance I just arrived in the <NS type="DN"><i><NS type="UP"><i><NS type="S"><i>monney</i><c>money</c></NS>'s</i><c>money</c></NS> room</i><c>vault</c></NS>. I <NS type="X"><i>hadn't never</i><c>hadn't ever</c></NS> seen so much money. I took it, <NS type="CE">the most of possible</NS> and went out <NS type="UT"><i>by</i></NS> the same way. I ran to my house and went back <NS type="RT"><i>in</i><c>to</c></NS> my bed <NS type="UT"><i>for</i></NS> <NS type="FV"><i>sleep</i><c>to sleep</c></NS> a little bit.</p>
+          <p>When all the family <NS type="TV"><i>get up</i><c>got up</c></NS>, I told <NS type="UA"><i>us</i></NS> the <NS type="RN"><i>true</i><c>truth</c></NS> and <NS type="MA"><c>they</c></NS> all promised to say nothing. It was our family's secret.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

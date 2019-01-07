@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR466*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam.</p>
+          <p>I'm writing to complain about the theatre show you <NS type="RV"><i>did</i><c>put on</c></NS> last week because there were too many irregularities during the show.</p>
+          <p>Firstly, the <NS type="IJ"><i>guests</i><c>guest</c></NS> stars who were supposed to <NS type="RV"><i>play</i><c>perform</c></NS> were different <NS type="M"><c>from the ones advertised</c></NS> and very disappointing because they stopped the show twice. Secondly, the show started 45 minutes late when it was supposed to start at 19:30 and <NS type="RA"><i>anyone</i><c>no one</c></NS> explained to us, the <NS type="RN"><i>public</i><c>audience</c></NS>, what was happening.</p>
+          <p>To make matters worse when we bought the tickets<NS type="UP"><i>,</i></NS> they were <NS type="W"><i>too much</i><c>much too</c></NS> expensive and there weren't any discounts for young people or for groups. But the worst happened when the show finished, because we (my girlfriend and I) were hungry and the theatre restaurant was closed.</p>
+          <p>Maybe, this was the worst show I have ever seen and for this <NS type="MN"><c>reason</c></NS> I'll wait for <NS type="RD"><i>the</i><c>a</c></NS> refund.</p>
+          <p><NS type="UP"><i>Your's</i><c>Yours</c></NS> Faithfully.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets so we couldn't <NS type="RV"><i>explain</i><c>tell</c></NS> her what happened that night. Jon had crashed <NS type="UT"><i>with</i></NS> Pat's <NS type="MP"><i>boyfriend</i><c>boyfriend's</c></NS> car and he told her that someone had <NS type="RV"><i>kicked</i><c>hit</c></NS> the car with a metal stick.</p>
+          <p>Pat's boyfriend couldn't believe that story but Pat trusted <NS type="UT"><i>in</i></NS> Jon and she <NS type="IV"><i>thinked</i><c>thought</c></NS> that he was honest. However, Jon felt very <NS type="RJ">disappointed</NS> and he told the truth.</p>
+          <p><NS type="R"><i><NS type="RT"><i>At</i><c>In</c></NS> the <NS type="S"><i>beggining</i><c>beginning</c></NS></i><c>At first</c></NS> they didn't talk to each other but yesterday they both took part in a radio programme and she forgave him.</p>
+          <p>Now Pat is angry with us because we didn't <NS type="RV"><i>explain</i><c>tell</c></NS> her what happened that night, and because she has left her boyfriend. It could <NS type="TV"><i>be</i><c>have been</c></NS> worse than it was and for this we are happy, but now we can't hide anything <NS type="RT"><i>to</i><c>from</c></NS> her.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

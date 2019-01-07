@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR490*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir:</p>
+          <p>I am writing to let you know <NS type="MT"><c>about</c></NS> the <NS type="RJ"><i>disappointed</i><c>disappointing</c></NS> evening I had <NS type="FV"><i>seen</i><c>seeing</c></NS> your show with the worst services I have ever <NS type="RV"><i>seen</i><c>experienced</c></NS>.</p>
+          <p>First of all, <NS type="RT"><i>in</i><c>on</c></NS> the ticket <NS type="U"><i>for entrance</i></NS> <NS type="MA"><c>it</c></NS> says that the actor was Danny Brook and <NS type="DY"><i>realy</i><c>really</c></NS> he was not. <NS type="W"><i>In the show <NS type="S"><i>apears</i><c>appears</c></NS> a different actor</i><c>A different actor appears in the show</c></NS>, so I was very disappointed.</p>
+          <p>Then, <NS type="RT"><i>in</i><c>on</c></NS> the ticket <NS type="MA"><c>it</c></NS> says that the show <NS type="TV"><i>started</i><c>starts</c></NS> at 19.30 and, I don't know why, it started at 20:15, very <NS type="DJ"><i>unpolited</i><c>impolite</c></NS> <NS type="RT"><i>of</i><c>on</c></NS> your <NS type="RN"><i>side</i><c>part</c></NS>, and<NS type="MP"><c>,</c></NS> also, <NS type="MA"><c>you</c></NS> <NS type="ID"><i>make me lose time</i><c>wasted my time</c></NS>.</p>
+          <p><NS type="MD"><i>Other</i><c>The other</c></NS> thing is that <NS type="RT"><i>in</i><c>on</c></NS> the ticket <NS type="MA"><c>it</c></NS> <NS type="S"><i>apears</i><c>appears</c></NS> that discounts were available but when I asked <NS type="RT"><i>for</i><c>about</c></NS> it, there <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="RA"><i>no one</i><c>none</c></NS>.</p>
+          <p>The last thing is that you invited us to visit your restaurant after the show, but it was closed because the food was not <NS type="RY"><i>already</i><c>yet</c></NS> done.</p>
+          <p>I thought you were a good theatre, <NS type="SX"><i>were</i><c>where</c></NS> people can go and have a good evening alone or with somebody else, but <NS type="DY"><i>realy</i><c>really</c></NS> I am very disappointed and I want to ask for my money back. I'll never return <NS type="UY"><i>again</i></NS> because of the bad service you <NS type="S"><i>ofer</i><c>offer</c></NS>.</p>
+          <p>Please, let me know your answer.</p>
+          <p><NS type="DY"><i>Truely</i><c>Truly</c></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>All of us know <NS type="SX"><i>the</i><c>that</c></NS> technology and science <NS type="AGV"><i>has</i><c>have</c></NS> affected our lives. <NS type="RV"><i>Seen</i><c>Considering</c></NS> my <NS type="SX"><i>hole</i><c>whole</c></NS> life I can say <NS type="SX"><i>the</i><c>that</c></NS> <NS type="S"><i>moden</i><c>modern</c></NS> technology has changed my daily life in many ways.</p>
+          <p>The first <NS type="RN"><i>way</i><c>thing</c></NS> is that it has changed my <NS type="UP"><i>family's</i><c>family</c></NS> relationship. It has, in some way, separated the <NS type="UN"><i>family's life</i><c>family</c></NS>, making all of us <NS type="UV"><i>be</i></NS> worried about <NS type="S"><i>ower</i><c>our</c></NS> own things. We <NS type="W"><i>work all</i><c>all work</c></NS> <NS type="DY"><i>separated</i><c>separately</c></NS>, <NS type="RV"><i>making grow</i><c>developing</c></NS> <NS type="UD"><i>the</i></NS> <NS type="DY"><i>individuality</i><c>individually</c></NS> and <NS type="FV"><i><NS type="S"><i>forgoten</i><c>forgotten</c></NS></i><c>forgetting</c></NS> we <NS type="AGV"><i>has</i><c>have</c></NS> to <NS type="W"><i>talk all</i><c>all talk</c></NS> together to know about <NS type="RQ"><i>the</i><c>each</c></NS> other's life.</p>
+          <p>The second <NS type="RN"><i>way</i><c>thing</c></NS> is that it has <NS type="TV"><i>make</i><c>made</c></NS> <NS type="W"><i><NS type="FJ"><i>easy</i><c>easier</c></NS> my life</i><c>my life easier</c></NS>. <NS type="FN"><i><NS type="UD"><i>The <NS type="S"><i>comunications</i><c>communications</c></NS></i><c>Communications</c></NS></i><c>communication</c></NS> <NS type="RT"><i>in</i><c>over</c></NS> the world <NS type="AGV"><i>are</i><c>is</c></NS> faster than ever, so when I need something, I can have it in only a minute. It <NS type="TV"><i>allowed</i><c>has allowed</c></NS> me to worry about other things <NS type="RT"><i>of</i><c>in</c></NS> <NS type="R"><i>the</i><c>my</c></NS> life.</p>
+          <p>The last <NS type="RN"><i>way</i><c>thing</c></NS> <NS type="R"><i>in</i><c>is</c></NS> that <NS type="UD"><i>the</i></NS> technology has allowed me to have <NS type="UD"><i>a</i></NS> better health. It has <NS type="RV"><i><NS type="TV"><i><NS type="S"><i>descover</i><c>discover</c></NS></i><c>discovered</c></NS></i><c>invented</c></NS> many instruments that help me to <NS type="RV"><i>have</i><c>maintain</c></NS> <NS type="R"><i>a good</i><c>my</c></NS> health.</p>
+          <p>To finish, I can say technology has changed my life in good and bad ways, helping <NS type="UD"><i>the</i></NS> things <NS type="FV"><i>be</i><c>to be</c></NS> easier but making me <NS type="U"><i>develop a big</i></NS> <NS type="DJ"><i><NS type="RN"><i>independence</i><c>dependence</c></NS></i><c>dependent</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

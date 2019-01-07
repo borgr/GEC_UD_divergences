@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR8*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms Jane Clark.</p>
+          <p>I am writing to you with regard to the International Art Festival that was held recently.</p>
+          <p>The festival was <NS type="S"><i>excenent</i><c>excellent</c></NS> in many ways, and <NS type="RY"><i>especially</i><c>in particular</c></NS> it being an international festival was a challenging, but brilliant idea. I assume that this fact attracted people very much. In addition to that, organising one weekend with special price tickets was particularly good. I personally think that it helped many people who were not able to afford the tickets <NS type="RT"><i>with</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RJ"><i>proper</i><c>normal</c></NS> price to come to the festival. Moreover, most of the events I went to were fantastic.</p>
+          <p>However, I still have some comments to make to improve the festival next year. The festival was supposed to be an international one, but the artists and stars  <NS type="MA"><c>who</c></NS> participated in it were from six countries only. Thus, I recommend that stars and artists of various nationalities should be invited. Also, some of the concert halls where the musicians performed were not big enough for the vast number of <NS type="RN"><i>audiences</i><c>attendees</c></NS>. I think it would be much better to use bigger concert halls. Furthermore, I found that there were not many genres <NS type="RT"><i>of</i><c>in</c></NS> <NS type="X"><i>neither the films nor</i><c>either the films or</c></NS> the plays. So I suggest you have various kinds, and more <NS type="UQ"><i>numbers of</i></NS> plays and films next year.</p>
+          <p>I hope that next year's festival will be much more successful <NS type="SX"><i>that</i><c>than</c></NS> this year's one.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>The Old Man and the Sea</p>
+          <p>People all have different opinions about books. Some prefer realistic stories whereas others <NS type="RV"><i>do</i><c>prefer</c></NS> unusual ones. But I prefer realistic stories such as Ernest Hemingway's "The Old Man and the Sea'.</p>
+          <p>Above all, realistic stories teach me something <NS type="RT"><i>of</i><c>about</c></NS> <NS type="UD"><i>the</i></NS> life, or at least influence me. As far as I'm concerned, my behaviour and attitudes towards a difficult situation began to change after reading this book. Here, the fishman is very old, but he is still challenging <NS type="UT"><i>to</i></NS> everything he faces. When he caught a shark which was bigger than the ship, he never gave up <NS type="MT"><c>on</c></NS> taking it back to his village, even when sharks were around him. Real stories have huge impacts on me, and affect me a lot, often in good ways.</p>
+          <p>In addition to that, realistic stories are more attractive, I personally don't want to hear stories about very peculiar incidents as I know they cannot be true. But, while reading realistic stories, I just fall deep into the story, into the writer's own world. Ernest Hemingway's sentences are precise, but still very powerful and alive. So when I read <NS type="MT"><c>about</c></NS> other sharks eating the shark the old man had caught, I got very angry and annoyed. Realistic stories thus, develop our imagination and creativity, which are essential in our lives.</p>
+          <p>We all learn from reading books, but realistic stories have more influence on me and develop my personality. That's why I prefer realistic stories to unusual ones.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

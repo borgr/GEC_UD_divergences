@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR170*0102*2000*01">
+  <candidate><personnel><language>French</language><age>31-40</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to <NS type="DA"><i>your</i><c>you</c></NS> to complain about the musical show called "Over the rainbow"</p>
+          <p>As a matter of fact, I <NS type="RV"><i>waited</i><c>wanted</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>seeing</i><c>to see</c></NS> Danny Brook<NS type="MP"><c>,</c></NS> who I appreciate a lot and I was very disappointed that he wasn't <NS type="RY"><i>here</i><c>there</c></NS>. Besides, the actor who filled <NS type="W"><i><NS type="MT"><i>him in</i><c>for him in</c></NS></i><c>in for him</c></NS> was unknown and specially boring.</p>
+          <p>Secondly, the show <NS type="RV"><i>had</i><c>was meant</c></NS> to begin at 19.30 pm, <NS type="R"><i>in fact</i><c>actually</c></NS> <NS type="RA"><i>he</i><c>it</c></NS> began at 20.15 pm and that <NS type="MV"><i>without</i><c>was without giving</c></NS> any <NS type="FN"><i><NS type="S"><i>explainations</i><c>explanations</c></NS></i><c>explanation</c></NS>!</p>
+          <p>Your advertisement mentioned that discounts were available, however<NS type="MP"><c>,</c></NS> when I <NS type="AS"><i>asked for them to the staff</i><c>asked the staff about them</c></NS> they replied <NS type="U"><i>to me</i></NS> that <NS type="RA"><i>they</i><c>there</c></NS> weren't <NS type="MQ"><c>any</c></NS> discounts!</p>
+          <p>After the show, I wanted to visit your restaurant and<NS type="MP"><c>,</c></NS> once again, I was disappointed because it was closed. <NS type="RA"><i>Anybody</i><c>Nobody</c></NS> could explain to me why!</p>
+          <p>I can assure you that it wasn't a perfect evening out and I got very annoyed about this evening which could have been wonderful.</p>
+          <p>That is the reason I would like you to refund my money. I hope you <NS type="TV"><i>would</i><c>will</c></NS> take notice of this complaint <NS type="UY"><i>seriously</i></NS>. I am looking forward to hearing from you as soon as possible.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>My daily life changed in some ways when I <NS type="ID"><i>got the hand of</i><c>got the hang of</c></NS> using new technologies.</p>
+          <p>When I started work, I wrote everything I <NS type="RV"><i>made</i><c>did</c></NS> on <NS type="RN"><i>sheets</i><c>sheets of paper</c></NS> and if sometimes I made mistakes, I had to cross <NS type="MA"><c>them</c></NS> out and it wasn't very <NS type="UP"><i><NS type="RV"><i>well-made</i><c>well-done</c></NS></i><c>well done</c></NS>. I had to work out all my figures two times to make sure that my accounts were accurate.</p>
+          <p>Now, I enter <NS type="IN"><i>datas</i><c>data</c></NS> and I don't need <NS type="W"><i><NS type="RP"><i>any more</i><c>anymore</c></NS> to calculate my figures</i><c>to calculate my figures anymore</c></NS>, the work is <NS type="W"><i>completely <NS type="RV"><i>made</i><c>done</c></NS></i><c>done completely</c></NS> by <NS type="UD"><i>the</i></NS> computer and in addition there <NS type="AGV"><i>is</i><c>are</c></NS> no <NS type="AGN"><i>mistake</i><c>mistakes</c></NS>.</p>
+          <p>If I have to find <NS type="UY"><i>out</i></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>timetables</i><c>timetable</c></NS>, it is very useful to have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to see <NS type="MA"><c>them</c></NS> on the Internet, besides, it is the quickest way! <NS type="RT"><i>At</i><c>In</c></NS> the beginning, I wasted a lot of time getting some information I needed because I didn't know exactly where I had to look for <NS type="MA"><c>it</c></NS>. But after a while you gain experience and you <NS type="W"><i>get soon</i><c>soon get</c></NS> used to this kind of research.</p>
+          <p>Another thing that has changed my daily life is the <NS type="S"><i>mobil</i><c>mobile</c></NS> phone. As a matter of fact, if I am stuck in my car in <NS type="UD"><i>the</i></NS> traffic, I can call my boyfriend to tell him that I <NS type="TV"><i>would</i><c>will</c></NS> be late. Once, I saw an accident and I could call the police. Sometimes the ring is annoying but<NS type="MP"><c>,</c></NS> finally, the <NS type="S"><i>mobil</i><c>mobile</c></NS> phone is a great<NS type="MP"><c>,</c></NS> handy object.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

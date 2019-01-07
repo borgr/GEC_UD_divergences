@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR725*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have just received your letter where you inform me I have won the first prize in the competition and now<NS type="UP"><i>,</i></NS> I'd like to express my opinion about the questions you have written <NS type="RT"><i>on</i><c>in</c></NS> it.</p>
+          <p>First of all, I would like to travel only in the month of July, because during the month of June<NS type="UP"><i>,</i></NS> I'm going to work and in September I have to study a lot, because school will start <NS type="M"></NS>. <NS type="R"><i>Speaking about</i><c>Regarding</c></NS> accommodation, between tents and log cabins, I <NS type="S"><i>woul</i><c>would</c></NS> prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because I love <NS type="UD"><i>the</i></NS> adventure and also because I can be freer.</p>
+          <p>I know I will have the chance to do two activities, so I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> two from your list: <NS type="RP"><i>Basketball</i><c>basketball</c></NS>, because I have been playing it since I was eight and I have been <NS type="R"><i>taking part</i><c>part</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> a strong team for three years.</p>
+          <p>The other one I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> is swimming; for the same reason why I chose <NS type="RP"><i>Basketball</i><c>basketball</c></NS>. But, what about clothes, money, food?</p>
+          <p>I hope you will take my answers into consideration. Thank you for now.</p>
+          <p>Yours <NS type="RY"><i><NS type="DY"><i>faithfuly</i><c>faithfully</c></NS></i><c>sincerely</c></NS></p>
+          <p>Simone Pausini</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Many people "see" <NS type="UT"><i>at</i></NS> shopping <NS type="RT"><i>like</i><c>as</c></NS> an amusement, but I think <NS type="R">it's not always a good translation to give it</NS>. In my opinion <NS type="UV"><i>to do</i></NS> shopping is often <NS type="RJ"><i>funny</i><c>fun</c></NS>, above all when you can enter <NS type="W"><i>without difficulties <NS type="UT"><i>into</i></NS> a shop</i><c>a shop without difficulties</c></NS>. For <NS type="S"><i>exemple</i><c>example</c></NS>, if the shop is full of people, <NS type="MA"><c>it</c></NS> is not enjoyable, because they will create too <NS type="MQ"><c>much</c></NS> confusion, too <NS type="MQ"><c>much</c></NS> noise <NS type="R">with the risk of</NS> <NS type="RV"><i>leaving</i><c>wasting</c></NS> time. Shopping is a <NS type="RJ"><i>funny</i><c>fun</c></NS> thing to do, not when you are in a hurry, but when you have <NS type="MQ"><c>some</c></NS> free time and when you can relax <NS type="UA"><i>yourself</i></NS>. Another thing that <NS type="RV"><i><NS type="S"><i>regardes</i><c>regards</c></NS></i><c>occurs</c></NS> <NS type="MT"><c>to</c></NS> me, is that I enjoy <NS type="RP"><i>my self</i><c>myself</c></NS> more when I know I have to <NS type="RV"><i>do</i><c>go</c></NS> shopping for <NS type="RA"><i>me</i><c>myself</c></NS> than when it's for my parents or for somebody else!!!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

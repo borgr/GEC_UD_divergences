@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR723*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms <NS type="UN"><i>Helen</i></NS> Ryan</p>
+          <p>I <NS type="TV"><i>write</i><c>am writing</c></NS> to find out further information and give you some details about myself and the <NS type="RN"><i>travel</i><c>trip</c></NS> that I have won in your competition.</p>
+          <p>First of all, I would like to inform you that I am able to travel only in July<NS type="UP"><i>. Because</i><c> because</c></NS><NS type="UP"><i>,</i></NS> I am a student and in June, I will still have school. Also, in <NS type="S"><i>Augost</i><c>August</c></NS> I will be studying a summer <NS type="W"><i>English course</i><c>course in English</c></NS>.</p>
+          <p>In addition, I would prefer to stay in a tent<NS type="UP"><i>. Because</i><c> because</c></NS> I would like to stay somewhere which differs from my home and <NS type="DJ"><i>every days</i><c>everyday</c></NS> comforts, <NS type="RT"><i>in</i><c>during</c></NS> these two weeks.</p>
+          <p>However, in your letter <NS type="MA"><c>you</c></NS> <NS type="UV"><i>is</i></NS> <NS type="RV"><i>written</i><c>mentioned</c></NS> some activities. I would choose Basketball and Tennis. <NS type="W"><i>Basketball I have been playing</i><c>I have been playing basketball</c></NS> in a team<NS type="UP"><i>,</i></NS> <NS type="RT"><i>of</i><c>in</c></NS> my town for ten years. Also <NS type="RP"><i>Tennis</i><c>tennis</c></NS> is my favourite hobby and I play twice <NS type="R"><i>every</i><c>a</c></NS> week with my friends.</p>
+          <p>Finally, I would be grateful to you<NS type="UP"><i>,</i></NS> if you <NS type="MV"><c>would</c></NS> <NS type="FV"><i>told</i><c>tell</c></NS> me about clothes and money. Will we need any special clothes and <NS type="RP"><i>How</i><c>how</c></NS> much <NS type="W"><i>you would</i><c>would you</c></NS> suggest <NS type="RA"><i>me</i><c>I</c></NS> <NS type="RV"><i><NS type="FV"><i>to carry</i><c>carry</c></NS></i><c>bring</c></NS> for these two weeks?</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>How are you? I am very well<NS type="MP"><c>.</c></NS> I'm writing to <NS type="RV"><i>explain</i><c>tell you about</c></NS> my experience with the pop concert<NS type="UP"><i>;</i></NS> last month.</p>
+          <p>First of all, I think that I <NS type="TV"><i>help</i><c>helped</c></NS> them. Every day of that month I was trying to advertise this concert. I was going to markets <NS type="MC"><c>and</c></NS> to schools and I was giving <NS type="MY"><c>out</c></NS> information <NS type="MT"><c>about</c></NS> when and where the group was going to appear as well as where <NS type="W"><i><NS type="TV"><i>can</i><c>could</c></NS> <NS type="R"><i>they</i><c>people</c></NS></i><c>people could</c></NS> buy or book a ticket for this concert. I know<NS type="UP"><i>,</i></NS> <NS type="RP"><i>It</i><c>it</c></NS> was difficult and <NS type="RJ"><i>tired</i><c>tiring</c></NS> but I enjoyed <NS type="MA"><c>it</c></NS> a lot. Firstly, it was a good break from the <NS type="MJ"><c>usual</c></NS> routine<NS type="UP"><i>. Because</i><c> because</c></NS> I <NS type="TV"><i>did</i><c>was doing</c></NS> it for <NS type="MD"><c>the</c></NS> first time. Also, I felt wonderful when I saw<NS type="UP"><i>,</i></NS> that the concert <NS type="RV"><i>had</i><c>was</c></NS> <NS type="MD"><c>a</c></NS> <NS type="DN"><i>succesed</i><c>success</c></NS> and every day <NS type="MA"><c>it</c></NS> was <NS type="RJ"><NS type="S"><i>croweded</i><c>crowded</c></NS></NS><NS type="UP"><i>. Because</i><c> because</c></NS> I believed that this was a result which came <NS type="MY"><c>about</c></NS> with my help. I would like to do <NS type="W"><i>again it</i><c>it again</c></NS> in the future. It was a fantastic experience.</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

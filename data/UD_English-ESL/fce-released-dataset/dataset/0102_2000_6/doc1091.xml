@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR440*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>SOLES LEDIA</p>
+          <p>CI HACIA DE LOREDES</p>
+          <p>MADRID</p>
+          <p>THE CIRCLE THEATRE</p>
+          <p>LONDON</p>
+          <p>Dear Sir,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you to complain about the musical show which took place <NS type="UD"><i>the</i></NS> last 1st of May <NS type="RT"><i>in</i><c>at</c></NS> "the Circle Theatre" in London. Your show was supposed to be one of the best that I had ever seen. At first sight the theatre was gorgeous<NS type="RP"><i>,</i><c>.</c></NS> I was surprised <NS type="RT"><i>of</i><c>at</c></NS> its facade and also I was anxious <NS type="R"><i>for</i><c>to see</c></NS> the beginning of the performance.</p>
+          <p>My friends and <NS type="RA"><i>me</i><c>I</c></NS> thought that it would be the perfect night <NS type="MY"><c>out</c></NS> in London but everything changed when the show <NS type="TV"><i>had been delayed</i><c>was delayed</c></NS> more than forty-five minutes.</p>
+          <p>Although we had problems at the entrance with the tickets, we looked forward <NS type="RT"><i>for</i><c>to</c></NS> <NS type="RD"><i>that</i><c>a</c></NS> marvellous night. The prices that our travel agency confirmed <NS type="MT"><c>for</c></NS> us were not the same as the <NS type="M"><c>ones charged at the</c></NS> theatre<NS type="RP"><i>, we</i><c>. We</c></NS> asked for our special discount for <NS type="FV"><i>be</i><c>being</c></NS> students <NS type="RT"><i>with</i><c>of</c></NS> less than eighteen years but we only obtained a <NS type="DJ"><i>rudely</i><c>rude</c></NS> answer <NS type="RT"><i>of</i><c>from</c></NS> the woman who sold the tickets.</p>
+          <p>In addition to this, we realized when the show began that the main character was not Danny Brook.</p>
+          <p><NS type="ID"><i>At top of everything</i><c>On top of everything</c></NS> the restaurant was closed and we could not eat <NS type="RT"><i>on</i><c>at</c></NS> the theatre.</p>
+          <p>You can imagine how upset we were and we <NS type="TV"><i>asked</i><c>ask</c></NS> you for <NS type="UD"><i>our</i></NS> <NS type="MQ"><c>some</c></NS> <NS type="RN"><i>reward</i><c>compensation</c></NS> for the night that we spent <NS type="M"><c>at your theatre</c></NS>.</p>
+          <p>Yours <NS type="DY"><i>Faithful</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Nowadays we think <NS type="RT"><i>in</i><c>of</c></NS> <NS type="UD"><i>the</i></NS> modern technology as something usual in our lives.</p>
+          <p><NS type="ID"><i>For instances</i><c>For instance</c></NS> with the <NS type="DN"><i>arrive</i><c>arrival</c></NS> of <NS type="MD"><c>the</c></NS> Internet, the new digital television <NS type="RC"><i>or</i><c>and</c></NS> the researchers in <NS type="UD"><i>the</i></NS> <NS type="S"><i>medecin</i><c>medicine</c></NS><NS type="RP"><i>;</i><c>,</c></NS> we are discovering how we can change our lives <NS type="W"><i>only with</i><c>with only</c></NS> <NS type="MD"><c>the</c></NS> press <NS type="MT"><c>of</c></NS> a <NS type="S"><i>botton</i><c>button</c></NS>, or look for something new <NS type="RT"><i>with</i><c>by</c></NS> only <NS type="FV"><i>think</i><c>thinking</c></NS> about it... we realize that the new technology <NS type="UA"><i>it</i></NS> <NS type="AGV"><i>have</i><c>has</c></NS> just begun <NS type="MV"><c>to advance</c></NS>, and <NS type="M"><c>it is</c></NS> <NS type="RJ"><i>lively</i><c>likely</c></NS> in a few years we will be very <NS type="S"><i>avanced</i><c>advanced</c></NS> in this way.</p>
+          <p><NS type="ID"><i>In my point of view</i><c>In my opinion</c></NS> the new <NS type="RN"><i><NS type="S"><i>techincs</i><c>techniques</c></NS></i><c>technologies</c></NS> have more advantages than disadvantages<NS type="RP"><i>, my</i><c>. My</c></NS> reasons for saying <NS type="RA"><i>that</i><c>this</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="RC"><i>because</i><c>that</c></NS> <NS type="UY"><i>furthermore</i></NS> we can live better, we <NS type="UV"><i>can</i></NS> also have more ways of <NS type="FV"><i>know</i><c>knowing</c></NS> now to live <NS type="DY"><i>healthy</i><c>healthily</c></NS> and how to <NS type="FV"><i>spent</i><c>spend</c></NS> our free time.</p>
+          <p>Although <NS type="UD"><i>the</i></NS> technology <NS type="W"><i>also is</i><c>is also</c></NS> used <NS type="UT"><i>for</i></NS> <NS type="FV"><i>create</i><c>to create</c></NS> new types of <NS type="AGN"><i>weapons</i><c>weapon</c></NS> and also <NS type="UT"><i>for</i></NS> <NS type="FV"><i>killing</i><c>to kill</c></NS> people, <NS type="RA"><i>it</i><c>that</c></NS> is only the worst part of <NS type="RA"><i>this</i><c>it</c></NS>.</p>
+          <p>But however<NS type="MP"></NS> it is a good idea to spend <NS type="SX"><i>out</i><c>our</c></NS> money <NS type="RT"><i>in</i><c>on</c></NS> <NS type="UV"><i>make</i></NS> new enterprises which pay <NS type="UD"><i>the</i></NS> researchers <NS type="UC"><i>and</i></NS> <NS type="RA"><i>they</i><c>who</c></NS> could investigate how <NS type="M"><c>we could</c></NS> <NS type="FV"><i>to improve</i><c>improve</c></NS> ourselves.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

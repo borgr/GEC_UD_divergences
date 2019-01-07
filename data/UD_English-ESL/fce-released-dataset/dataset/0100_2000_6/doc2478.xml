@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR999*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>. I would like to travel only <NS type="MT"><c>in</c></NS> July because I would be <NS type="RT"><i>in</i><c>on</c></NS> <NS type="FN"><i>schools</i><c>school</c></NS> <NS type="S"><i>holydays</i><c>holidays</c></NS> <NS type="MY"><c>then</c></NS> and the weather is hot and the sea's temperature is less cold than in winter. I would like to travel in July to be sure it would not rain during the trip<NS type="MP"><c>,</c></NS> which <NS type="TV"><i>is</i><c>would be</c></NS> <NS type="RJ"><i>boring</i><c>annoying</c></NS>?! And when the sun is shining you are <NS type="DJ"><i>relax</i><c>relaxed</c></NS> and you feel good.</p>
+          <p>. I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> to sleep <NS type="MT"><c>in</c></NS> at Camp California because it is fun to sleep in tents <NS type="MC"><c>and</c></NS> to compare <NS type="MA"><c>it</c></NS> <NS type="M"><c>to sleeping</c></NS> in a house. You are in communication with <NS type="UD"><i>the</i></NS> nature and you can hear the insects. And we only need to sleep and not to cook or watch T.V... It is very nice to stay in tents <NS type="S"><i>wich</i><c>which</c></NS> are strong and <NS type="S"><i>confortable</i><c>comfortable</c></NS>.</p>
+          <p>. From the list below, the two activities I will choose are <NS type="RP"><i>Tennis</i><c>tennis</c></NS> and sailing. Tennis because I play <NS type="RP"><i>Tennis</i><c>tennis</c></NS> and I am classed 15-5. I like <NS type="W"><i>very much <NS type="RP"><i>Tennis</i><c>tennis</c></NS></i><c>tennis very much</c></NS> because it is <NS type="R">a technical</NS> and physical sport. And you need <NS type="MD"><c>a</c></NS> <NS type="S"><i>strategie</i><c>strategy</c></NS> to win the match. It is nice to play tennis outside <NS type="RT"><i>in</i><c>on</c></NS> the court when the weather is hot. But you can't play if there is too much wind, <NS type="MC"><c>because</c></NS> the ball becomes <NS type="S"><i>incontrolable</i><c>uncontrollable</c></NS>!</p>
+          <p><NS type="M"></NS> Windsurfing because I <NS type="TV"><i><NS type="RV"><i><NS type="S"><i>pratise</i><c>practise</c></NS></i><c>do</c></NS></i><c>have done</c></NS> it for a long time. You can do it alone. I like windsurfing because it is a sport of speed and <NS type="RN">slide</NS> like skiing<NS type="R"><i>,</i><c> and</c></NS> surfing. <NS type="RP"><i>you</i><c>You</c></NS> need <NS type="S"><i>technics</i><c>techniques</c></NS> to <NS type="RV"><i>move</i><c>control</c></NS> the <NS type="R"><i>windsurf</i><c>surfboard</c></NS>. You must know how to use the wind and <NS type="R">you have great sensations</NS>!</p>
+          <p>I would like to ask you questions: <NS type="RP"><i>Must</i><c>must</c></NS> I take <NS type="R"><NS type="W"><i>with me my clothes</i><c>my clothes with me</c></NS></NS>?</p>
+          <p>Is there a washing machine at Camp California?</p>
+          <p>Do I need some money to pay <NS type="MT"><c>for</c></NS> the meals!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p><NS type="RP"><i>you</i><c>You</c></NS> have recently had a class discussion about shopping. Now your <NS type="RP"><i>english</i><c>English</c></NS> teacher has asked you to write a composition<NS type="UP"><i>,</i></NS> giving your opinions on <NS type="M"><c>the statement</c></NS>: "shopping is not always enjoyable"</p>
+          <p>In fact, shopping is not always enjoyable because sometimes you want to buy <NS type="RN"><i>articles</i><c>things</c></NS> but you don't have enough money!</p>
+          <p>You don't find anything interesting in the shop.</p>
+          <p>You can hesitate <NS type="MY"><c>before</c></NS> <NS type="FV"><i>to choose</i><c>choosing</c></NS> an <NS type="L"><i>article</i><c>item</c></NS>. Which is the best <NS type="RN"><i>article</i><c>thing</c></NS> to <NS type="RV"><i>take</i><c>get</c></NS>? The <NS type="RN"><i>seller</i><c>shop assistant</c></NS> can be not very nice and watch you all the time. You don't find <NS type="W"><i>your size or the <NS type="RJ"><i>good</i><c>right</c></NS> color in the <NS type="RN"><i>article</i><c>item</c></NS></i><c>the item in your size or the right colour</c></NS>. The <NS type="RN"><i>article</i><c>item</c></NS> can be too expensive.</p>
+          <p>It looks <NS type="S"><i>fragil</i><c>fragile</c></NS> and it could break easily.</p>
+          <p><NS type="DA"><i>Your</i><c>You</c></NS> must <NS type="RV"><i>test</i><c>try</c></NS> several shops and compare the price<NS type="R"><i>,</i><c> and</c></NS> the quality of the <NS type="RN"><i>articles</i><c>items</c></NS>. So you must walk all <NS type="UD"><i>the</i></NS> day or go by car. And the weather must be fine if you walk in <NS type="UD"><i>the</i></NS> town.</p>
+          <p>Shopping is not always enjoyable if there <NS type="AGV"><i>is</i><c>are</c></NS> a lot of people in the shops because you can't move <NS type="RC"><i>and</i><c>or</c></NS> <NS type="RV"><i>choose</i><c>find</c></NS> the <NS type="R">article</NS> and <NS type="RV"><i>be</i><c>stay</c></NS> cool!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR745*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>17.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Sir Robertson,</p>
+          <p>We <NS type="UV"><i>are</i></NS> really <NS type="S"><i>appriciate</i><c>appreciate</c></NS> <NS type="MD"><c>your</c></NS> <NS type="UT"><i>about</i></NS> <NS type="RV"><i>giving</i><c>organising</c></NS> <NS type="MD"><c>a</c></NS> very nice <NS type="SA"><i>program</i><c>programme</c></NS>, which <NS type="TV"><i>is</i><c>has been</c></NS> organised by <NS type="DA"><i>your</i><c>you</c></NS> this time. <NS type="RY"><i>Especially</i><c>In particular</c></NS> <NS type="MD"><c>the</c></NS> River trip to Greenwich makes us very excited and we are really looking to <NS type="S"><i>forwold</i><c>forward</c></NS> to <NS type="RA"><i>his</i><c>this</c></NS>.</p>
+          <p>By the way, on <NS type="MD"><c>the</c></NS> 14th of March <NS type="MD"><c>the</c></NS> LONDON Fashion Show and Leisure show will <NS type="TV"><i>hold</i><c>be held</c></NS> at <NS type="MD"><c>the</c></NS> Central Exhibition Hall. We are very interested in this. We have a great opportunity to learn <NS type="MT"><c>about</c></NS> <NS type="MD"><c>the</c></NS> latest <NS type="FN"><i>fashion</i><c>fashions</c></NS> free because <NS type="UT"><i>of</i></NS> <NS type="M"><c>we are</c></NS> students.</p>
+          <p>Therefore if you could change the <NS type="SA"><i>program</i><c>programme</c></NS> on 14th, we would be very happy. Could you consider this for us? We're looking <NS type="S"><i>forwold</i><c>forward</c></NS> to your reply.</p>
+          <p>Thank you.</p>
+          <p><NS type="RY"><i>Faithfully</i><c>Sincerely</c></NS>,</p>
+          <p>your students.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>The Home of the Future.</p>
+          <p>As <NS type="MD"><c>a</c></NS> developing modern society, <NS type="CE">we will become to have more material than now. Invent glass was very <NS type="S"><i>eventuly</i><c>eventually</c></NS> to architect</NS>.</p>
+          <p><NS type="S"><i>Architecuture</i><c>Architecture</c></NS> <NS type="R">with use of <NS type="RN"><i>grass</i><c>glass</c></NS> <NS type="S"><i>brough</i><c>brought</c></NS> us <NS type="UD"><i>the</i></NS> <NS type="S"><i>modenism</i><c>modernism</c></NS> in 1980</NS>.</p>
+          <p>In the future we can expect <NS type="FV"><i>having</i><c>to have</c></NS> <NS type="MD"><c>a</c></NS> new material and it will make our <NS type="RN"><i>living</i><c>life</c></NS> more <NS type="S"><i>confortable</i><c>comfortable</c></NS> and <NS type="S"><i>convinient</i><c>convenient</c></NS>. In Japan, crime <NS type="RT"><i>of</i><c>among</c></NS> <NS type="RN"><i>minority</i><c>minors</c></NS> is increasing. It <NS type="TV"><i>said</i><c>is said</c></NS> that <NS type="UT"><i>as</i></NS> one of the reasons <NS type="M"><c>is that a</c></NS> small <NS type="S"><i>separete</i><c>separate</c></NS> room makes <NS type="L"><i>kids</i><c>children</c></NS> unsociable and <NS type="RJ"><i><NS type="S"><i>dissapointed</i><c>disappointed</c></NS></i><c>depressed</c></NS>.</p>
+          <p>Therefore Japanese <NS type="AGN"><i>architect</i><c>architects</c></NS> consider <NS type="R">designing of use <NS type="CQ"><i>many</i><c>a lot of</c></NS> <NS type="RN"><i>glasses</i><c>glass</c></NS> as much as they can in house</NS> and try not to create <NS type="W"><i><NS type="S"><i>speparate</i><c>separate</c></NS> dark</i><c>dark separate</c></NS> <NS type="FN"><i>room</i><c>rooms</c></NS>.</p>
+          <p><NS type="RY"><i>Otherwise</i><c>Also</c></NS> <NS type="CE">as producing new <NS type="S"><i>electoronic</i><c>electronic</c></NS></NS>, our home of <NS type="MD"><c>the</c></NS> future will be more <NS type="S"><i>convinient</i><c>convenient</c></NS>. On the other hand <NS type="MD"><c>the</c></NS> inside of the house will be <NS type="RY"><i>too</i><c>very</c></NS> simple. Although <NS type="MD"><c>the</c></NS> <NS type="RN"><i>high</i><c>height</c></NS> might <NS type="W"><i>be still</i><c>still be</c></NS> <NS type="MD"><c>the</c></NS> same<NS type="RP"><i>. Because</i><c>, because</c></NS> human <NS type="RN"><i>high</i><c>height</c></NS> won't change so much, unless 10000 years <NS type="TV"><i>passed</i><c>have passed</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

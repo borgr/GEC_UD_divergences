@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR24*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="UD"><i>The</i></NS> Manager of the Circle Theatre,</p>
+          <p>While I was staying in London for a holiday, I went to the Circle Theatre to see OVER THE RAINBOW in the evening. That made me feel disappointed.</p>
+          <p>First of all, the actor was different from <NS type="M"><c>the one mentioned in</c></NS> your advertisement. I <NS type="TV"><i>meant</i><c>mean</c></NS> he was not Danny Brook. Secondly, <NS type="R">it took times to wait</NS> about <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes, because it started at 20:15. <NS type="R">It should be on time at 19:30. Then it had no discounts, which the advertisement said so</NS>. Due to being a student, I think I should have got the discount <NS type="RT"><i>from</i><c>on</c></NS> your ticket <NS type="MN"><c>price</c></NS> with <NS type="MD"><c>my</c></NS> ID card. Besides this, the theatre restaurant <NS type="W"><i><NS type="TV"><i>was early closed</i><c>early closed</c></NS></i><c>closed early</c></NS>. As soon as the show ended, I went <NS type="UT"><i>to</i></NS> there <NS type="UT"><i>for</i></NS> <NS type="FV"><i>having</i><c>to have</c></NS> a dessert.</p>
+          <p>Lastly, I don't think that it was my perfect evening. I would like to get my money back.</p>
+          <p>I look forward to <NS type="RV"><i>replying</i><c>hearing</c></NS> from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Griffin, who is a teacher, wasn't surprised at our preparation. It was <NS type="RY"><i>so</i><c>very</c></NS> close to <NS type="U"><i>be on</i></NS> his birthday, so we made a decision to hold a small party for him.</p>
+          <p>She <NS type="TV"><i>has just <NS type="RV"><i>learnt</i><c>studied</c></NS></i><c>had just been studying</c></NS> with us for three weeks. She is not talkative, <NS type="MC"><c>but</c></NS> kind<NS type="UP"><i>,</i></NS> and reserved. However, <NS type="MT"><c>at</c></NS> this party she <NS type="RV"><i>took part in</i><c>came to</c></NS><NS type="UP"><i>,</i></NS> she was responsible for preparing food. As far as we knew, <NS type="TV"><i>she's</i><c>she was</c></NS> good at cooking.</p>
+          <p>While she was choosing vegetables <NS type="RT"><i>in</i><c>at</c></NS> a market, she came across him. When he asked her<NS type="MP"><c>,</c></NS> '<NS type="RP"><i>why</i><c>Why</c></NS> do you choose <NS type="RY"><i>deliberately</i><c>carefully</c></NS>?', she answered without thinking. That caused the secret <NS type="MV"><c>to be</c></NS> disclosed.</p>
+          <p>We didn't blame her, because we knew that she didn't intend to <NS type="RV"><i>do</i><c>act</c></NS> like that. Although he wasn't surprised, he was glad and pleased with our party. Anyway, Happy Birthday to Griffin, again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

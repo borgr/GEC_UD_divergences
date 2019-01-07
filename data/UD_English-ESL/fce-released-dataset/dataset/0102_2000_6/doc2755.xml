@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1116*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Mr John Smythe,</p>
+          <p>I'm writing to tell you about the horrible evening I had on Friday. I was very excited <NS type="RT"><i>with</i><c>at</c></NS> the idea of going to the theatre, but it didn't work out as I thought it <NS type="TV"><i>will</i><c>would</c></NS>.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> the starring actors were supposed to be Danny Brook and Tina Truelove<NS type="RP"><i>,</i><c>.</c></NS> Tina did act, but Danny Brook was replaced by an awful actor whose name I don't recall.</p>
+          <p>Second of all, the play was <NS type="S"><i>suposed</i><c>supposed</c></NS> to start at 19:30, but it started at 20:15. I'm not used to <NS type="FV"><i>waste</i><c>wasting</c></NS> my time sitting on a chair waiting, I do have better things to do with it.</p>
+          <p>Another thing I want to complain about<NS type="UP"><i>,</i></NS> is that <NS type="DA"><i>your</i><c>you</c></NS> advertised that discounts were available, but there wasn't any discount at all.</p>
+          <p>To finish my "<NS type="SA"><i>marvelous</i><c>marvellous</c></NS>" evening, I wanted to eat at your restaurant, but it was closed and no reason was given.</p>
+          <p>As I didn't have a "perfect evening out", I think I have the right to ask for my money back. I hope you understand.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Pat's story</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>Now <NS type="RV"><i>you've</i><c>you're</c></NS> probably asking yourself what does <NS type="RA"><i>it</i><c>that</c></NS> mean, well, now I'm going to explain it to you.</p>
+          <p>Two years ago in this school, Pat and I used to be best friends. We used to tell everything to each other. I was having some family problems, so my marks were <NS type="RV"><i>getting</i><c>going</c></NS> down and down. Pat was worried, she didn't know what to do. One day she looked me in the eyes with a sharp<NS type="MP"><c>,</c></NS> deep look, <NS type="RP"><i>Never</i><c>never</c></NS> have I seen such a deep look<NS type="RP"><i>:</i><c>,</c></NS> and asked me what was happening and I told her as I always used to. That afternoon she visited me and told me a plan she had designed to make my marks rise. It consisted in stealing the school <NS type="RN">list</NS> from the computer, in other words, <NS type="FV"><i>hack</i><c>hacking</c></NS> <NS type="MT"><c>into</c></NS> the school software.</p>
+          <p>I thought it was a great idea, so I stole about ten tests we were <NS type="RV"><i>planned</i><c>scheduled</c></NS> to do.</p>
+          <p>Pat couldn't stand the pressure of the "crime" so she told the school directors that I stole the tests. I was punished, nearly <NS type="IV"><i>expelt</i><c>expelled</c></NS>, but Pat didn't receive any punishment. I never accused her of lying, and <NS type="R"><i>I</i><c>if</c></NS> you ask me why, I really don't know.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

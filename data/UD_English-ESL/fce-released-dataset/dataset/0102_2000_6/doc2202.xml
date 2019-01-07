@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR889*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you to complain about the differences between what the advertisement <NS type="RT"><i>of</i><c>for</c></NS> <NS type="RP"><i>The</i><c>the</c></NS> Circle <NS type="SA"><i>theater</i><c>theatre</c></NS> said about the musical show called 'Over The Rainbow' and the things I noticed when I was there.</p>
+          <p>First of all, the most annoying thing for me was the absence of Danny Brook because in my country I don't have the chance to enjoy his excellent <NS type="RN">performance</NS>. Another actor <NS type="IV"><i>standed</i><c>stood</c></NS> <NS type="MY"><c>in</c></NS> for him, without any <NS type="RN"><i>advice</i><c>advance warning</c></NS>.</p>
+          <p>Another thing was the <NS type="R">confirmed hour</NS> of the show <NS type="R"><i>which</i><c>because</c></NS> it started forty-five minutes <NS type="RY"><i>later</i><c>late</c></NS> without any <NS type="RJ">factual</NS> reason <NS type="MV"><c>being given</c></NS>.</p>
+          <p>In addition to all this, there was no discount <NS type="RT"><i>in</i><c>on</c></NS> the price of the tickets<NS type="UP"><i>,</i></NS> for students either, contrary to what I was told <NS type="RT"><i>by</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> phone when I asked for more information.</p>
+          <p>Moreover, as I had read the advertisement carefully, I had planned to invite some friends to have dinner at the <NS type="SA"><i>theater's</i><c>theatre's</c></NS> restaurant. But<NS type="MP"><c>,</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> our surprise, it was <NS type="RJ"><i>out of order</i><c>closed</c></NS>. At the end of all these <NS type="RN">circumstances</NS><NS type="MP"><c>,</c></NS> we were so puzzled and disappointed that we decided to make a complaint.</p>
+          <p>So, <NS type="RT"><i>due to</i><c>because of</c></NS> the things I have mentioned, I think I <NS type="S"><i>shoul</i><c>should</c></NS> be given some money back.</p>
+          <p>I look forward to <NS type="S"><i>recieving</i><c>receiving</c></NS> <NS type="MQ"><c>some</c></NS> information from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>"How has modern technology changed your daily life?"</p>
+          <p>Owing to the great speed of technological development, people need to lead a faster life.</p>
+          <p>When this technological <NS type="RN">aspect</NS> changes so quickly, I obviously feel that my life changes too in many fields.</p>
+          <p>I would say that the worst thing <NS type="RT"><i>of</i><c>about</c></NS> this development for me is that <NS type="W"><i>more and more I experience</i><c>I experience more and more</c></NS> stress in almost every aspect of my life. There is <NS type="RY"><i>no</i><c>not</c></NS> enough time to do a lot of things; and if I want to do them, I realize that my life <NS type="RV"><i>passes</i><c>is</c></NS> devoted <NS type="RT"><i>in</i><c>to</c></NS> my duties without <NS type="M"><c>leaving any</c></NS> time <NS type="RT"><i>to</i><c>for</c></NS> pleasures.</p>
+          <p>Apart from this, another disadvantage is the pollution we all live with in the majority of cities, <NS type="R">being able</NS> to <NS type="DV"><i>breath</i><c>breathe</c></NS> fresh air several days a month when we go to the country.</p>
+          <p>In addition to this, there is less <NS type="S"><i>comunication</i><c>communication</c></NS> between members of my family, because when we arrive <NS type="UT"><i>at</i></NS> home after an <NS type="RJ"><i>exhausted</i><c>exhausting</c></NS> day racing <NS type="RT"><i>with</i><c>against</c></NS> <NS type="UD"><i>the</i></NS> time, the only thing we want to do is <NS type="FV"><i>lying</i><c>lie</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the sofa while watching television.</p>
+          <p>Apart from this, <NS type="W"><i>computer's advanced</i><c>advanced computer</c></NS> technology allows me to contact anyone <NS type="UT"><i>at</i></NS> the moment that I want to, while five years ago<NS type="MP"><c>,</c></NS> when I did not have a computer, I had to write letters<NS type="MP"><c>,</c></NS> which was a slower way to contact <NS type="UT"><i>with</i></NS> people.</p>
+          <p>On the other hand<NS type="MP"><c>,</c></NS> and <NS type="R"><i>as a</i><c>in</c></NS> conclusion, I think that this development has made my life more comfortable <NS type="R">living <NS type="S"><i>sourrended</i><c>surrounded</c></NS> by lots of gadgets with <NS type="IJ"><i>differents</i><c>different</c></NS> functions</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE57*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Maria</i></NS> Smith<NS type="RP"><i>:</i><c>,</c></NS></p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to give you the information that you asked me for.</p>
+          <p><NS type="RP"><i>the</i><c>The</c></NS> group has been booked into the Harris hotel. <NS type="RP"><i>this</i><c>This</c></NS> hotel is very <NS type="R"><i>good</i><c>well</c></NS> placed. From there you can get a taxi, catch the <NS type="MN"><c>number</c></NS> <NS type="W"><i>buses seven and eleven</i><c>seven and eleven buses</c></NS>, <NS type="S"><i>wich</i><c>which</c></NS> both <NS type="RV"><i>have</i><c>take</c></NS> you very close to the conference <NS type="RN"><i>place</i><c>centre</c></NS>, and also you can go by underground to get there.</p>
+          <p><NS type="RP"><i>the</i><c>The</c></NS> conference starts at 5:30 pm and it finishes at <NS type="RP"><i>8:00PM</i><c>8:00 pm</c></NS>. Then, after the Conference, there will be a formal party at the group's hotel, <NS type="S"><i>wich</i><c>which</c></NS> starts at 9:00 <NS type="RP"><i>PM</i><c>pm</c></NS> and finishes at 12:00 <NS type="R"><i>AM</i><c>midnight</c></NS>. <NS type="RP"><i>this</i><c>This</c></NS> party is a formal one, so you should <NS type="MY"><c>not</c></NS> be <NS type="DY"><i>casual</i><c>casually</c></NS> dressed.</p>
+          <p>In this area you <NS type="TV"><i>could</i><c>can</c></NS> visit the central park. It is very beautiful and a very good place to relax. Another place that would be interesting to visit is the old cathedral of the city.</p>
+          <p>I hope <NS type="AGD"><i>these</i><c>this</c></NS> information <NS type="TV"><i><NS type="RV"><i>could</i><c>would</c></NS></i><c>will</c></NS> be useful for you.</p>
+          <p>Yours <NS type="RP"><i><NS type="DY"><i>Sincerelly</i><c>Sincerely</c></NS></i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Hampton Court Palace</p>
+          <p>Introduction:</p>
+          <p>I have been asked for information on an interesting building to visit. I went to Hampton Court last year, and I think it is a great place to visit.</p>
+          <p>Location:</p>
+          <p>Hampton Court <NS type="RP"><i>palace</i><c>Palace</c></NS> is <NS type="DV"><i>localizated</i><c>located</c></NS> in Hampton Court. <NS type="U"><i>In addition to that,</i></NS> I think this town is wonderful and it has a magical beauty.</p>
+          <p><NS type="RP"><i>transport</i><c>Transport</c></NS>:</p>
+          <p><NS type="RP"><i>to</i><c>To</c></NS> get to Hampton Court <NS type="RP"><i>palace</i><c>Palace</c></NS>, you need to take a train from Waterloo train station. From there<NS type="MP"><c>,</c></NS> <NS type="W"><i>depart the trains to Hampton Court</i><c>the trains to Hampton Court depart</c></NS>. Moreover, I think <NS type="MV"><c>going</c></NS> by train is the best way to get there, because Hampton Court train station is very close to Hampton Court <NS type="RP"><i>palace</i><c>Palace</c></NS>.</p>
+          <p>Price:</p>
+          <p><NS type="RP"><i>there</i><c>There</c></NS> is a <NS type="RJ">great</NS> price for children, students, adults and families. <NS type="R"><i>They</i><c>Tickets</c></NS> are between three and six pounds each.</p>
+          <p>Conclusion:</p>
+          <p>Hampton Court Palace is a building with lots of history and interesting things to see. And also <NS type="RA"><i>it</i><c>this</c></NS> would be an excellent chance for this group of American students to see it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

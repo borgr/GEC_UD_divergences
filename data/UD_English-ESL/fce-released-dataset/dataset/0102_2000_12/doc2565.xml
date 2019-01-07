@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1043*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>17.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>S</exam_score>
+         <coded_answer>
+          <p>Mrs. Jane Clark,</p>
+          <p>I <NS type="TV"><i>see</i><c>saw</c></NS> your advertisement about <NS type="MD"><c>the</c></NS> <NS type="RJ"><i>Internal</i><c>International</c></NS> Arts Festival now. I think that's a great idea<NS type="UP"><i>.</i></NS> <NS type="RP"><i>As</i><c>as</c></NS> we need some good activities. <NS type="MD"><c>The</c></NS> <NS type="RP"><i>Advertisement</i><c>advertisement</c></NS> <NS type="RV"><i><NS type="TV"><i>is written</i><c>writes</c></NS></i><c>states</c></NS> that you invite stars and <NS type="AGN"><i>artist</i><c>artists</c></NS> from around the world. This is <NS type="UY"><i>very</i></NS> incredible but <NS type="W"><i>from only six countries you wrote</i><c>you wrote <NS type="MY"><c>down</c></NS> <NS type="MN"><c>artists</c></NS> from only six countries</c></NS>. I think you should invite <NS type="MN"><c>people</c></NS> from ten countries because there are more and more stars and artists in the world. If you <NS type="AS"><i>invite from more countries to stars and <NS type="AGN"><i>artist</i><c>artists</c></NS></i><c>invite stars and artists from more countries</c></NS>, your festival will be <NS type="DJ"><i>unbelieved</i><c>unbelievable</c></NS>. <NS type="MD"><c>The</c></NS> <NS type="RP"><i>Second</i><c>second</c></NS> point is there are some jazz, rock and classical concerts. It's a good idea but some concert halls are too small. Because of <NS type="AGA"><i>these</i><c>this</c></NS>, people are bored quickly. You show plays and films. I <NS type="S"><i>congradulate</i><c>congratulate</c></NS> you because <NS type="RA"><i>it's</i><c>that's</c></NS> perfect. The most important thing is dance shows<NS type="UP"><i>.</i></NS></p>
+          <p><NS type="RP"><i>As</i><c>as</c></NS> <NS type="DY"><i>more</i><c>most</c></NS> people like dance shows, <NS type="ID"><i>me too</i><c>including me</c></NS>. That's <NS type="UD"><i>the</i></NS> real knowledge for us, art <NS type="FN"><i>exhibition</i><c>exhibitions</c></NS> and talks by writers. I think we <NS type="TV"><i>know</i><c>will know</c></NS> a <NS type="MP"><i>writer</i><c>writer's</c></NS> life or how <NS type="W"><i>is he</i><c>he is</c></NS> writing <NS type="MT"><c>about</c></NS> it<NS type="RP"><i>? it's</i><c>. It's</c></NS> <NS type="MD"><c>a</c></NS> very significant thing. Lastly, you said 'one <NS type="RP"><NS type="DY"><i>reasonable-priced</i><c>reasonably priced</c></NS></NS> weekend ticket for all events'. It's excellent. If you can pay attention to my small suggestion, next year I hope it will be <NS type="MD"><c>an</c></NS> unbelievable festival.</p>
+          <p>THANKS!</p>
+          <p>Yours sincerely!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Dear Edmond</p>
+          <p>I miss you very much and sorry <NS type="UT"><i>about</i></NS> <NS type="MA"><c>I</c></NS> <NS type="TV"><i>didn't write</i><c>haven't written</c></NS> you <NS type="RQ"><i>some</i><c>any</c></NS> letters. I hope you forgive me. What are you <NS type="SX"><i>dong</i><c>doing</c></NS> <NS type="RY"><i>today</i><c>nowadays</c></NS><NS type="RP"><i>, how</i><c>? How</c></NS> is your school? My school opened yesterday. As you know I am a new student. It is very difficult because I don't know anybody. However<NS type="RP"><i>;</i><c>,</c></NS> today I <NS type="MV"><c>am getting</c></NS> used to my school, I have <NS type="RV"><i>got</i><c>met</c></NS> two sweet girls. But this school has got a lot of rules and in our class<NS type="UP"><i>,</i></NS> we have been talking about <NS type="RP"><i>Rules</i><c>rules</c></NS>, both at home and at school. It is very boring. For instance<NS type="RP"><i>;</i><c>:</c></NS> you must not argue with your friend or you must not argue with workers. The most significant rule is you must not smoke in public places, or in the toilet. You continuously must study hard. I feel very bad because what you are allowed I <NS type="AGV"><i>aren't</i><c>am not</c></NS> allowed to do at home. <NS type="RV"><i>Are</i><c>Do</c></NS> you understand me? Can I change my school? Please <NS type="W"><i>you will</i><c>will you</c></NS> write me a letter quickly.</p>
+          <p><NS type="RN"><i>Lovers</i><c>Love</c></NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

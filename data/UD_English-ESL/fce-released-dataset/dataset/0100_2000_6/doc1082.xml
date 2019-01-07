@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR79*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Miss Hellen Ryan:</p>
+          <p>I am really happy to get such wonderful news from you. In order to <NS type="MV"><c>claim</c></NS> the prize, I would like to travel, if it is possible, <NS type="RT"><i>on</i><c>in</c></NS> July because I am a student and my <NS type="RN"><i>winter</i><c>summer</c></NS> <NS type="RN"><i>brake</i><c>break</c></NS> is <NS type="UV"><i>taking place</i></NS> during <NS type="RD"><i>this</i><c>that</c></NS> month, July.</p>
+          <p>I would <NS type="RV"><i>prepare</i><c>prefer</c></NS> to stay in a cabin because I have not <NS type="W"><i><NS type="RV"><i>got</i><c>had</c></NS> really</i><c>really had</c></NS> good experiences <NS type="RT"><i>in</i><c>of</c></NS> camping in tents<NS type="RP"><i>, last</i><c>. Last</c></NS> time a bear came inside while I was in <NS type="M"><c>the tent</c></NS>. I love sports so I would like to play some basketball at the camp<NS type="RP"><i>, by</i><c>. By</c></NS> the way<NS type="MP"><c>,</c></NS> my team and I won the last <NS type="S"><i>scholl</i><c>school</c></NS> championship<NS type="RP"><i>,</i><c>.</c></NS> I play guard on my team<NS type="RP"><i>,</i><c>.</c></NS> I also like tennis but I am not very good<NS type="RP"><i>,</i><c>.</c></NS> I was wondering if you could give me some <NS type="AGN"><i>lesson</i><c>lessons</c></NS> while I am there.</p>
+          <p>I do not have words to express how happy I am<NS type="RP"><i>,</i><c>.</c></NS> I would like to <NS type="FV"><i>thanks</i><c>thank</c></NS> you and Camp California for this <NS type="S"><i>oportunity</i><c>opportunity</c></NS>. Hoping to hear <NS type="W"><i>soon from you</i><c>from you soon</c></NS>.</p>
+          <p>Raul Pedro Ybarra S</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Since <NS type="UD"><i>the</i></NS> man <NS type="TV"><i>become</i><c>became</c></NS> man he has <NS type="U"><i>had the</i></NS> <NS type="TV"><i>need</i><c>needed</c></NS> <NS type="UT"><i>of</i></NS> <NS type="FV"><i>hunting</i><c>to hunt</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i><NS type="S"><i>sourvive</i><c>survive</c></NS></i><c>to survive</c></NS><NS type="RP"><i>, in</i><c>. In</c></NS> ancient times he used spears, bows and arrows, and the <NS type="S"><i>wemon's</i><c>woman's</c></NS> role was to collect items like vegetables and stuff.</p>
+          <p>Nowadays<NS type="MP"><c>,</c></NS> in the year 2000 we still <NS type="DV"><i>practice</i><c>practise</c></NS> this ancient art but in a <NS type="S"><i>diferent</i><c>different</c></NS> way, we don't use weapons for hunting <NS type="FN"><i>animal</i><c>animals</c></NS> in the jungle, we use the remote to hunt TV shows, and we do not collect vegetables any more<NS type="MP"><c>,</c></NS> we go shopping.</p>
+          <p>This activity of shopping has become one of our most important, after all, we go shopping for any reason, we have <NS type="TV"><i>develop</i><c>developed</c></NS> such an <NS type="S"><i>instinc</i><c>instinct</c></NS> for shopping that we can proudly say<NS type="UP"><i>,</i></NS> that we are some sort of kings <NS type="RT"><i>in</i><c>of</c></NS> the urban jungle.</p>
+          <p>If an activity has <NS type="TV"><i>stay</i><c>stayed</c></NS> with us, <NS type="UD"><i>the</i></NS> mankind, for so long, it must give us some pleasure and maybe that's why shopping has become such an important thing in our lives because it gives you pleasure when you find what you have been looking for and if you can get it for less than the price <NS type="TV"><i>mark</i><c>marked</c></NS> on it, that is the greatest <NS type="MT"><c>of</c></NS> <NS type="S"><i>extasis</i><c>ecstasies</c></NS>.</p>
+          <p>But where is the bad <NS type="RN"><i>poet</i><c>part</c></NS> of it<NS type="RP"><i>, well</i><c>? Well</c></NS> shopping can became horrible <NS type="RT"><i>in</i><c>at</c></NS> <NS type="S"><i>christmast</i><c>Christmas</c></NS> for example<NS type="MP"><c>,</c></NS> when <NS type="AGN"><i><NS type="S"><i>houndred</i><c>hundred</c></NS></i><c>hundreds</c></NS> of people <NS type="AGV"><i>goes</i><c>go</c></NS> to the shopping <NS type="SA"><i>center</i><c>centre</c></NS> and it also can <NS type="RV"><i>take</i><c>cause</c></NS> many problems when you become an impulsive buyer.</p>
+          <p><NS type="SA"><i><NS type="RP"><i>Any ways</i><c>Anyways</c></NS></i><c>Anyway</c></NS> shopping is with us and it will stay with us for a long time.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE75*0100*2001*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>36.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I'm writing in reply to your letter in which you asked me for help. I hope I will be able to give you the information you need for the group of students who are coming to the conference.</p>
+          <p>Firstly, the Palace Hotel is waiting for you and your students. The best way to get from there to the college where the conference will take place is simply to walk. Actually, the college is situated 500 <NS type="SA"><i>meters</i><c>metres</c></NS> <NS type="UJ"><i>away</i></NS> from the <NS type="RP"><i>Hotel</i><c>hotel</c></NS>.</p>
+          <p>As you know, the conference will be followed by a party. It will begin at 7 p.m<NS type="MP"><c>.</c></NS> and last until late in the evening. You don't need to worry about what you should wear to this event. In fact, the purpose of the end-of-conference party is to relax after a busy day<NS type="RP"><i>, therefore</i><c>. Therefore</c></NS> you and your students can put jeans and sport shoes on.</p>
+          <p>To conclude, we decided to organize a guided tour by coach, as you have an afternoon free before your plane takes off.</p>
+          <p>I hope the international student conference will help <NS type="MA"><c>everyone</c></NS> <NS type="MV"><c>to get</c></NS> to know each other better and that it will be a success.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm writing in reply to your letter in which you asked me <NS type="MT"><c>for</c></NS> information on an interesting building to visit. There <NS type="AGV"><i>is</i><c>are</c></NS> so many places of interest in Lausanne, but I think that the Olympic Museum is the most notable for the following reasons:</p>
+          <p>The Olympic Museum dates from the 19th century and is the biggest in Europe. It shows all the different sports men have been doing since the first Olympic Games in Greece. You can see the evolution of sports and understand why changes gradually have been <NS type="RV"><i>done</i><c>made</c></NS> to improve them. You can admire every kind of <NS type="CN"><i>equipments</i><c>equipment</c></NS> you need to do any particular sport. You will be informed about the <NS type="RN"><i>story</i><c>history</c></NS> of sport in general and about the new technologies which are used <NS type="S"><i>nowaday</i><c>nowadays</c></NS> <NS type="S"><i>n</i><c>in</c></NS> <NS type="RJ">high</NS> competitions.</p>
+          <p>The museum is near the city <NS type="SA"><i>center</i><c>centre</c></NS> and is accessible by bus or walking. It will <NS type="FV"><i>takes</i><c>take</c></NS> you an afternoon to visit it and then you can enjoy a drink or a meal in the restaurant on the third floor, <NS type="M"><c>which is</c></NS> <NS type="UP"><i>well-known</i><c>well known</c></NS> for being one of the best <NS type="AGN"><i>establishment</i><c>establishments</c></NS> in Lausanne.</p>
+          <p>I hope my recommendations will help you <NS type="R">in the choice of</NS> a building to visit.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

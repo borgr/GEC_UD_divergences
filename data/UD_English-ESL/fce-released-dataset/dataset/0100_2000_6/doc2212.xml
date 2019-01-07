@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR893*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I was very glad to receive this great <NS type="RN"><i>notice</i><c>news</c></NS>. I am very excited about it. I entered <NS type="UT"><i>in</i></NS> this competition because I have always wanted to do <NS type="AGQ"><i>these</i><c>this</c></NS> kind of <NS type="AGN"><i>things</i><c>thing</c></NS>.</p>
+          <p>In your letter you asked me when I would <NS type="DV"><i>rather</i><c>prefer</c></NS> <NS type="FV"><i>travel</i><c>to travel</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I will be able <NS type="MV"><c>to travel</c></NS> only <NS type="RT"><i>on</i><c>in</c></NS> July because I have to work and I can take some days off <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RD"><i>this</i><c>that</c></NS> month.</p>
+          <p>If it is <NS type="X"><i>no</i><c>not a</c></NS> problem I would rather stay in a <NS type="RN"><i>lab</i><c>log</c></NS> cabin because I do not like <NS type="W"><i>much sleeping on the floor</i><c>sleeping on the floor much</c></NS>, but if you <NS type="RP"><i>can not</i><c>cannot</c></NS> put me there I will be fine anywhere.</p>
+          <p>About the <NS type="MN"><c>activities</c></NS> I have to choose I would like to tell you something. I am very good at tennis and photography but I would prefer to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>do</c></NS> new ones, if it is possible. I am keen on water and <NS type="RN"><i>risk</i><c>danger</c></NS> sports so I would choose climbing and surfing<NS type="RP"><i>,</i><c>.</c></NS> I think it would be great if I <NS type="TV"><i>learn</i><c>learnt</c></NS> them while I am there.</p>
+          <p>Finally, I would like to ask you if there is any place where I can buy some souvenirs, <NS type="R"><i>so to</i><c>if there is I will</c></NS> take some money with me<NS type="MP"><c>,</c></NS> and I would be very grateful if you could send me a list of clothes.</p>
+          <p>Thank you for everything. I am looking forward to travelling.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Every woman in the world likes the word shopping. It is <NS type="RT"><i>like</i><c>as</c></NS> if they lose their <NS type="S"><i>concience</i><c>conscience</c></NS> while they are shopping.</p>
+          <p>You can <NS type="RV"><i>do</i><c>go</c></NS> shopping alone, with friends or with your kids, but the best thing <NS type="RT"><i>of</i><c>about</c></NS> it is that you feel that you have <NS type="R">all the power</NS> while you are buying things. <NS type="RP"><i>May be</i><c>Maybe</c></NS> it is not for you, <NS type="RP"><i>may be</i><c>maybe</c></NS> <NS type="R"><i>it is</i><c>you are shopping for</c></NS> a present, but buying things<NS type="MP"><c>,</c></NS> at least for me<NS type="MP"><c>,</c></NS> <NS type="UA"><i>it</i></NS> is the best.</p>
+          <p>But all this power and all this excitement could turn into something that you could start to hate.</p>
+          <p>When you go shopping and there are a lot of people in the same place, all trying to find the best prices and not <NS type="S"><i>carying</i><c>caring</c></NS> about anybody, this could <NS type="AS"><i><NS type="RV"><i>get</i><c>drive</c></NS> crazy to anyone</i><c>drive anyone crazy</c></NS>.</p>
+          <p>The long queues, <NS type="RJ"><i>close</i><c>crowded</c></NS> places, <NS type="S"><i>hight</i><c>high</c></NS> prices, sales, all these things <NS type="S"><i>conbined</i><c>combined</c></NS> could make shopping an enjoyable thing for people who like doing it.</p>
+          <p>But my <NS type="DN"><i>advise</i><c>advice</c></NS> for people<NS type="UP"><i>,</i></NS> who like it so much that <NS type="MA"><c>they</c></NS> <NS type="RP"><i>can not</i><c>cannot</c></NS> help doing it<NS type="UP"><i>,</i></NS> is to try shopping in the afternoon<NS type="RP"><i>, at</i><c>. At</c></NS> this <NS type="RN"><i>hour</i><c>time</c></NS> no-one <NS type="RV"><i><NS type="AGV"><i>do</i><c>does</c></NS></i><c>goes</c></NS> shopping and if there are some shops that are closed you can always go to a shopping mall.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

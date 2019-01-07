@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR123*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to reply <NS type="RT"><i>on</i><c>to</c></NS> your letter <NS type="UJ"><i>concerned</i></NS> about the <NS type="FN"><i>holidays</i><c>holiday</c></NS> at Camp California in the U.SA <NS type="R"><i>as</i><c>which is</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> first prize in the competition which I fortunately won last month.</p>
+          <p>First of all, I want to know if it is possible to travel in July because during that month I will be free from the school's activities <NS type="RC"><i>so</i><c>and</c></NS> my parents <NS type="RY"><i>just</i><c>only</c></NS> let me go if I do not have to miss any of my classes.</p>
+          <p>About the activities that I have to choose, I have to say that it is quite difficult for me because I really like sports, but I think the best option is swimming because I have been <NS type="RV"><i><NS type="SA"><i>practicing</i><c>practising</c></NS></i><c>doing</c></NS> it <NS type="RT"><i>during</i><c>for</c></NS> 5 years so I want to <NS type="ID"><i>keep on it</i><c>keep at it</c></NS>. The other activity that I chose is painting<NS type="RP"><i>,</i><c>.</c></NS> I am not as <NS type="RJ"><i>well</i><c>good</c></NS> as I want, nevertheless I think I can <NS type="S"><i>inprove</i><c>improve</c></NS> my skills during this course.</p>
+          <p>I would rather <NS type="MV"><c>have</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i><NS type="SX"><i>tends</i><c>tents</c></NS></i><c>tent</c></NS> than <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> for <NS type="MD"><c>my</c></NS> accommodation because <NS type="UD"><i>the</i></NS> last summer I had the great opportunity to <NS type="RV">be</NS> in a log cabin and now I want to know <NS type="MA"><c>what</c></NS> the other <NS type="RN"><i>one</i><c>option</c></NS> <NS type="M"></NS>. I am sure it will be thrilling to stay <NS type="R"><i>near the nature</i><c>close to nature</c></NS> and<NS type="MP"><c>,</c></NS> at the same time, it would be a new experience for me.</p>
+          <p>I would like to know how <NS type="W"><i>is the weather</i><c>the weather is</c></NS> in California during the summer <NS type="R"><i>to</i><c>so I can</c></NS> bring with me <NS type="MD"><c>the</c></NS> <NS type="S"><i>appropiate</i><c>appropriate</c></NS> clothes and the last thing I need to know<NS type="UP"><i>,</i></NS> is the amount of money that I have to bring with me.</p>
+          <p>If you need more information, please do not hesitate <NS type="UT"><i>on</i></NS> <NS type="FV"><i>writing</i><c>to write</c></NS> <NS type="MT"><c>to</c></NS> me.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>To: John Weller.</p>
+          <p>From: Raquel Rossell.</p>
+          <p>Re: Suggestions for the film.</p>
+          <p>Introduction</p>
+          <p>To make <NS type="W"><i>easier and faster this report</i><c>this report easier and faster</c></NS> , it was necessary to make a <NS type="S"><i>questionarie</i><c>questionnaire</c></NS> which was <NS type="TV"><i>gave</i><c>given</c></NS> out in the school.</p>
+          <p>After collecting the answers, I obtained the following results:</p>
+          <p>1- It would be a good idea to film the computer centre, the <NS type="R">listening room</NS> room and the library because<NS type="MP"><c>,</c></NS> as everybody knows, they have very good equipment and also they are comfortable places <NS type="MA"><c>that</c></NS> <NS type="FV"><i>helping</i><c>help</c></NS> <NS type="R"><i>them</i><c>the students</c></NS> to improve their English on their own.</p>
+          <p>2 - They also think<NS type="UP"><i>,</i></NS> that <NS type="MT"><c>through</c></NS> filming some of the lessons that they usually have, known as "one-to-one" lessons, people who see this video<NS type="UP"><i>,</i></NS> will <NS type="RV"><i>be</i><c>become</c></NS> interested <NS type="RT"><i>on</i><c>in</c></NS> knowing more about the school<NS type="MP"><c>,</c></NS> because <NS type="UD"><i>a</i></NS> few English schools have this sort of <NS type="AGN"><i>classes</i><c>class</c></NS>.</p>
+          <p>3 - <NS type="ID"><i>The least but not the last</i><c>Last but not least</c></NS>, a lot of students (almost 85%) think that the <NS type="DN"><i>extra-activities</i><c>extra-curricular activities</c></NS> organised by the social programme<NS type="UP"><i>,</i></NS> <NS type="AGV"><i>has</i><c>have</c></NS> <NS type="TV"><i>became</i><c>become</c></NS> really exciting<NS type="RP"><i>, so</i><c>. So</c></NS> they suggest filming these activites during the weekend, for example "the full day in Oxford" because <NS type="UT"><i>for</i></NS> those <NS type="RA"><i>that</i><c>who</c></NS> did not have the opportunity to go there<NS type="UP"><i>,</i></NS> could see how great it was and then they can attend the next time. However, 15% <NS type="S"><i>thougth</i><c>thought</c></NS> that it was not a good idea because it would be boring to see other people enjoying <NS type="MA"><c>themselves</c></NS> and they mentioned it as not really important.</p>
+          <p>Conclusion</p>
+          <p>As you can see, my <NS type="S"><i>clasemates</i><c>classmates</c></NS> and almost everybody in the school are happy with the facilities and activities that we have. Despite <NS type="R"><i>of</i><c>there</c></NS> being almost 300 students, the answers were quite similar.</p>
+          <p>I do recommend <NS type="FV"><i>to pay</i><c>paying</c></NS> attention to the food in the cafeteria because<NS type="MP"><c>,</c></NS> even though it was not the main <NS type="RN"><i>reason</i><c>subject</c></NS> of this report, they also wrote <NS type="FV"><i><NS type="S"><i>complaning</i><c>complaining</c></NS></i><c>to complain</c></NS> about <NS type="RA"><i>that</i><c>it</c></NS>.</p>
+          <p>If you need more information <NS type="RC"><i>and</i><c>or</c></NS> the sheets that I collected, please do not hesitate <NS type="UT"><i>on</i></NS> <NS type="FV"><i>asking</i><c>to ask</c></NS> me for them.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR585*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Miss Helen Ryan,</p>
+          <p>Thank you for informing me that I have won the first prize in your competition. I am writing to give you some of my information and I would like to have some further information on the camp in California.</p>
+          <p>Firstly, I would like to start my <NS type="RN"><i>journey</i><c>trip</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the second week of July because I will have a <NS type="DJ"><i>3 weeks</i><c>3-week</c></NS> holiday in July. I could not travel in June and May because I will have my standard grade exam during these two months.</p>
+          <p>As for the accommodation<NS type="MP"><c>,</c></NS> I would like to stay in a log cabin because I hate sleeping in <NS type="UD"><i>the</i></NS> tents. I stayed in a tent once when I had my Duke of Edinburgh walk. I felt really uncomfortable in the tent. Secondly, I would like to have a chance to do singing and swimming while I am <NS type="MT"><c>at</c></NS> the Camp. I am keen on singing and I have won <NS type="S"><i>sevral</i><c>several</c></NS> singing competitions at school. I have chosen swimming because it is my favourite sport. I enjoy doing it very much. I note that all accommodation and travel costs are paid <NS type="UT"><i>for</i></NS>, but does it include my expenses in California? Lastly, I would like to know what the weather in California <NS type="MV"><c>is</c></NS> <NS type="DT"><i>likes</i><c>like</c></NS> and <NS type="RA"><i>which</i><c>what</c></NS> type of clothes I have to bring.</p>
+          <p>Would it be possible for you to send me a map of <NS type="RP"><i>california</i><c>California</c></NS> so I know where the <NS type="RP"><i>camp site</i><c>campsite</c></NS> is situated? I would be grateful if you could send me some information. I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+          <p> Annabel Koh</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi! How are you? How are you getting on with your school work? Do you enjoy your <NS type="RP"><i>schoollife</i><c>school life</c></NS>? As you know<NS type="MP"><c>,</c></NS> I had a wonderful experience <NS type="UT"><i>in</i></NS> last month so I am writing to tell you <NS type="M"><c>about it</c></NS>.</p>
+          <p>I was chosen to help at a pop concert by chance <NS type="UT"><i>in</i></NS> last month. At that time, I was so nervous because I did not know what to do. However, I was excited to meet lots of people and the pop star, Kelly Chen. When I first <NS type="S"><i>entred</i><c>entered</c></NS> the concert hall, I was given a pass for working here. There were five other students, like me, who were waiting to help. We were sitting at the back of the concert hall and chatting with each other. I found that they were all Kelly's fans. We were told that we were responsible for decorating the hall. There were lots of decorations and I had to put the decorations <NS type="RT"><i>to</i><c>in</c></NS> the right place. It was <NS type="UD"><i>a</i></NS> tiring work because I had to run from place to place <NS type="UT"><i>for</i></NS> <NS type="FV"><i>hanging</i><c>to hang</c></NS> the decorations. After I had finished my work, I saw Kelly Chen walking into the concert hall. She smiled at me and said thank you to me. I was very happy at that time and I thought it was the happiest moment that I ever had. At last, the concert <NS type="TV"><i>was started</i><c>started</c></NS>. There were many people at the show and I was sitting <NS type="RT"><i>on</i><c>in</c></NS> a good seat to watch the concert.</p>
+          <p>I had a really good time <NS type="RT"><i>in</i><c>with</c></NS> this experience because I could meet my favourite singer. Could you tell me what your happiest moment is?</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR13*0100*2000*02">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>21.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Regarding the programme you have organised, <NS type="W"><i><NS type="UA"><i>it</i></NS> is <NS type="MD"><c>a</c></NS> great <NS type="AGN"><i>ideas</i><c>idea</c></NS> everything that you have <NS type="IV"><i>planed</i><c>planned</c></NS></i><c>everything that you have planned is a great idea</c></NS>, but I would like to suggest <NS type="U"><i>to you</i></NS> something that the students saw in an advertisement.</p>
+          <p>It is <NS type="MD"><c>a</c></NS> good start to go on <NS type="MD"><c>a</c></NS> sightseeing <NS type="UT"><i>by</i></NS> bus on Monday morning, <NS type="MC"><c>because</c></NS> we can <NS type="S"><i>se</i><c>see</c></NS> all <NS type="MD"><c>the</c></NS> famous buildings in a few hours. <NS type="UV"><i>It's</i><c>It</c></NS> <NS type="TV"><i><NS type="RV"><i>seems</i><c>is</c></NS></i><c>will be</c></NS> relaxing to go to Greenwich in the afternoon looking <NS type="RT"><i><NS type="SX"><i>though</i><c>through</c></NS></i><c>over</c></NS> the river.</p>
+          <p>The idea <NS type="RT"><i>about</i><c>of</c></NS> going to <NS type="MD"><c>the</c></NS> science museum is fantastic<NS type="RP"><i>,</i><c>.</c></NS> I read about the museum, <NS type="MC"><c>and</c></NS> it is really interesting <NS type="RT"><i>in</i><c>for</c></NS> <NS type="W"><i>science history</i><c>the history of science</c></NS>. <NS type="R">After all morning in the <NS type="RP"><i>Museum</i><c>museum</c></NS>, it is wonderful and on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> doing some <NS type="RN"><i>shops</i><c>shopping</c></NS>, whereas the <NS type="AGN"><i>student</i><c>students</c></NS> have another idea for <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS>.</NS></p>
+          <p>On Wednesday after <NS type="M"><c>we have</c></NS> <NS type="S"><i>viseted</i><c>visited</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>national</i><c>National</c></NS> Art Gallery, we can have a chat about <NS type="DD"><i>ours</i><c>our</c></NS> next holiday <NS type="RT"><i>at</i><c>during</c></NS> the free time in the afternoon.</p>
+          <p>The advertisement that <NS type="MD"><c>the</c></NS> students saw is <NS type="RT"><i>about</i><c>for</c></NS> a fashion show, but to go to the show you will need <NS type="FV"><i>cancel</i><c>to cancel</c></NS> the tour on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> and add the show, because the show is from 10.00 to 19.00.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Freedom!</p>
+          <p>Nowadays the main <NS type="S"><i>attroction</i><c>attraction</c></NS> in the newspapers and <NS type="MT"><c>on</c></NS> television is <NS type="MD"><c>the</c></NS> private <NS type="AGN"><i>life</i><c>lives</c></NS> of famous people.</p>
+          <p>It is really interesting how people like <NS type="FV"><i>knowing</i><c>to know</c></NS> <NS type="MT"><c>about</c></NS> famous <NS type="MP"><i>people</i><c>people's</c></NS> <NS type="AGN"><i>life</i><c>lives</c></NS>. Without someone famous <NS type="FV"><i>know</i><c>knowing</c></NS>, <NS type="RN"><i>photographs</i><c>photographers</c></NS> take pictures secretly, <NS type="MC"><c>and</c></NS> try to get money <NS type="RT"><i>on</i><c>for</c></NS> <NS type="AGA"><i>it</i><c>them</c></NS>.</p>
+          <p>Sometimes being famous can get <NS type="DJ"><i>stress</i><c>stressful</c></NS>, <NS type="MC"><c>because</c></NS> everywhere they go there are people around them, especially journalists, trying to ask millions <NS type="MT"><c>of</c></NS> questions.</p>
+          <p>Famous people deserve to have freedom to do whatever they want, but it is quite difficult to do <NS type="AGN"><i>thing</i><c>things</c></NS> in <NS type="UD"><i>a</i></NS> public places, because nobody <NS type="AGV"><i>like</i><c>likes</c></NS> <NS type="MV"><c>seeing</c></NS> famous politicians or film stars without asking questions.</p>
+          <p>On the whole, <NS type="FV"><i>to be</i><c>being</c></NS> rich and famous <NS type="AGV"><i>don't</i><c>doesn't</c></NS> always bring <NS type="S"><i>happeness</i><c>happiness</c></NS>, whereas the majority of the population wish they were rich and famous.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

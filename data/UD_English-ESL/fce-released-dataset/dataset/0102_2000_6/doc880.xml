@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR357*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear sir or Madam,</p>
+          <p>I have recently had a week's holiday in London and, during my stay, I went to see the musical show 'Over the rainbow', which was shown at your theatre.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, the advertisement said that there were discounts <NS type="IJ"><i>availables</i><c>available</c></NS>, but when I went to buy the tickets there were not any discounts.</p>
+          <p>As if this was not enough, the show, instead of starting at half past seven as the advertisement said, started at a quarter past eight and one of the main actors, who was supposed to be Danny Brook, was someone else.</p>
+          <p>On top of <NS type="S"><i>everyting</i><c>everything</c></NS>, the restaurant which was <NS type="RV"><i>announced</i><c>advertised</c></NS> in the advertisement was closed because it was being <NS type="RV">arranged</NS>.</p>
+          <p>You can imagine how <NS type="S"><i>dissappointed</i><c>disappointed</c></NS> I felt after that evening, and I am writing to ask you for a <NS type="UJ"><i>further</i></NS> <NS type="RN"><i>return</i><c>refund</c></NS> of part of the money.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>I think modern technology hasn't changed my life a lot, but it has in some things: I work with music and with graphic design too, and computers help me a lot <NS type="RT"><i>in</i><c>with</c></NS> <NS type="AGQ"><i>this</i><c>these</c></NS> things.</p>
+          <p>In music, before <NS type="MA"><c>I</c></NS> <NS type="TV"><i>having</i><c>had</c></NS> a computer I could only write my compositions and 'listen' to them <NS type="RT"><i>into</i><c>in</c></NS> my mind, because, of course, I haven't got an orchestra to play them, but now I <NS type="W"><i>just can</i><c>can just</c></NS> record one part, and then another part, and then another one.. and I can get the sound of every instrument<NS type="MP"><c>,</c></NS> controlling it with a keyboard, or even create new sounds.</p>
+          <p>In graphic design, before <NS type="MA"><c>I</c></NS> <NS type="TV"><i>having</i><c>had</c></NS> a computer I <NS type="W"><i>just could</i><c>could just</c></NS> draw, but now I can create pictures pixel by pixel, develop ideas more easily, or <NS type="RV"><i>take</i><c>put</c></NS> photographs into my computer and transform them or mix them.</p>
+          <p>But, in other things, I think modern technology hasn't changed my <NS type="ID"><i>way of living</i><c>way of life</c></NS> too much: I do more or less the same as I did some years ago: I get up in the morning, go to school, have lunch, study and go out with my friends without being <NS type="S"><i>afected</i><c>affected</c></NS> by microchips or nuclear energy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

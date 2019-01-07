@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR940*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan:</p>
+          <p>I am writing to give you the information <NS type="RA"><i>it</i><c>that</c></NS> was <NS type="RV"><i><NS type="TV"><i>ask</i><c>asked</c></NS></i><c>requested</c></NS> in the letter you <NS type="TV"><i>had sent</i><c>sent</c></NS> me.</p>
+          <p>Firstly, the best date for me to travel will be <NS type="MT"><c>in</c></NS> the second week of July because I will be very busy <NS type="RT"><i>in</i><c>at</c></NS> any other <NS type="RN"><i>date</i><c>time</c></NS> for <NS type="W"><i>reasons of work</i><c>work reasons</c></NS>.</p>
+          <p>Secondly I would prefer sleeping in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I <NS type="MV"><c>would</c></NS> <NS type="R"><i>fell</i><c>feel</c></NS> much more comfortable. One reason is the cold, and the other is that I cannot sleep on the floor because I have problems <NS type="RT"><i>in</i><c>with</c></NS> my back.</p>
+          <p>Finally, the two activities I would like to do while I am camping are Singing and Basketball. The first one because I think I am good at it and also I love singing loudly with other people. The last one I have never tried <NS type="UA"><i>it</i></NS> but I think I <NS type="TV"><i>can</i><c>could</c></NS> <NS type="RV"><i>do</i><c>play</c></NS> it well because I am very tall and that could make things easier.</p>
+          <p>I would like to know if I must take some money and what kind of clothes I will need.</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>your</i><c>yours</c></NS> <NS type="DY"><i>sincerily</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>I'm very sorry I haven't written <NS type="MT"><c>to</c></NS> you for such a long time but I had to make a <NS type="RN"><i>travel</i><c>trip</c></NS> to my <NS type="MP"><i>parents</i><c>parents'</c></NS> house because my mother <NS type="AS"><i>was operated on</i><c>had an operation</c></NS>; don't worry<NS type="MP"><c>,</c></NS> she is all right now.</p>
+          <p>Last month I went to help at a pop concert where Rolling Stones were playing. It was a wonderful experience but at the same time I had to work very hard. The things I did were: <NS type="RP"><i><NS type="S"><i>Prepearing</i><c>Preparing</c></NS></i><c>preparing</c></NS> and <NS type="RV"><i><NS type="IV"><i>controling</i><c>controlling</c></NS></i><c>checking</c></NS> the equipment, I had to clean all the stadium, <NS type="FV"><i>make</i><c>making</c></NS> sure that all the lights were in perfect <NS type="RN"><i>condition</i><c>working order</c></NS>, that the singers were <NS type="S"><i>confortable</i><c>comfortable</c></NS> and relaxed, etc.</p>
+          <p>The most exciting thing was talking with the band, <NS type="AS"><i>asking questions to them</i><c>asking them questions</c></NS> and of course listening <NS type="MT"><c>to</c></NS> the music and enjoying the incredible show.</p>
+          <p>It was the most exciting experience I've ever had in my life.</p>
+          <p>Best wishes.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

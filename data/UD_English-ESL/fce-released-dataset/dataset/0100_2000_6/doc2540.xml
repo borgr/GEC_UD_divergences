@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1029*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>Thank you very much for the prize. I am writing this letter to inform you that I have <NS type="S"><i>recieved</i><c>received</c></NS> your letters and I am going <NS type="RT"><i>to</i><c>on</c></NS> the trip.</p>
+          <p>I would like to go <NS type="RT"><i>to</i><c>on</c></NS> the trip in July because my school, which is Berkeley International School, is going to arrange the end of term break both for staff and students. <NS type="MD"><i>Other</i><c>The other</c></NS> reason is<NS type="MP"><c>,</c></NS> I think in July the weather is not so cold. The weather <NS type="FN"><i>condition</i><c>conditions</c></NS> will be suitable for camping. I prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in tents <NS type="R"><i>to</i><c>rather than</c></NS> log cabin because sleeping in <NS type="RD"><i>the</i><c>a</c></NS> tent makes me more comfortable and I can get closer to <NS type="UD"><i>the</i></NS> nature. Every night I would like to <NS type="RV"><i>come</i><c>go</c></NS> out of the small tent <NS type="RT"><i>to</i><c>into</c></NS> the nice <NS type="S"><i>enviroment</i><c>environment</c></NS> outside the tent. <NS type="R"><i>Although</i><c>Also</c></NS>, <NS type="RV"><i>living</i><c>staying</c></NS> in <NS type="RD"><i>the</i><c>a</c></NS> tent is more comfortable. I'll have to be <NS type="RJ"><i>aware</i><c>careful</c></NS> about insects so I've bought so many <NS type="FN"><i>insects</i><c>insect</c></NS> <NS type="AGN"><i>repellant</i><c>repellants</c></NS>. I can choose to do 2 activities so I would like to play tennis and <NS type="MV"><c>go</c></NS> swimming. When I was in <NS type="MD"><c>the</c></NS> fourth form, I got the first prize in <NS type="MD"><c>a</c></NS> swimming competition and third prize in tennis. I was a bit <NS type="S"><i>disapotted</i><c>disappointed</c></NS> with the result because I was expected to win the first prize or <NS type="S"><i>secound</i><c>second</c></NS> <NS type="RN"><i>price</i><c>prize</c></NS>.</p>
+          <p>Lastly, I would like to ask you <NS type="MQ"><c>some</c></NS> questions. First, how many clothes do I have to bring? And do I have to bring some money<NS type="RP"><i>.</i><c>?</c></NS> It <NS type="TV"><i>will</i><c>would</c></NS> be very kind of you<NS type="UP"><i>,</i></NS> if you <NS type="TV"><i>can</i><c>could</c></NS> answer my questions.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+          <p>Seua Thanapol.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi! How are you<NS type="RP"><i>.</i><c>?</c></NS> I am fine and I hope you're fine too. I have an interesting story to tell you. I've been asked to <NS type="R">help by</NS> the <NS type="MP"><i>well known</i><c>well-known</c></NS> band <NS type="UV"><i>called</i></NS> Westlife. At first I was surprised but <NS type="UT"><i>in</i></NS> a few <NS type="AGN"><i><NS type="S"><i>secound</i><c>second</c></NS></i><c>seconds</c></NS> later, when I <NS type="S"><i>relised</i><c>realised</c></NS> that<NS type="UP"><i>,</i></NS> I <NS type="TV"><i>didn't allow</i><c>wasn't allowed</c></NS> to go, I tried to persuade my teacher to let me go. <NS type="RY"><i>At last</i><c>Eventually</c></NS>, she allowed me <NS type="MV"><c>to go</c></NS>.</p>
+          <p>I had to help them behind the <NS type="RN"><i>state</i><c>stage</c></NS>, while they were <NS type="FV"><i>get</i><c>getting</c></NS> dressed. I had to keep things in place and <NS type="S"><i>cheakd</i><c>check</c></NS> that the microphones <NS type="AGV"><i>was</i><c>were</c></NS> working properly. Although the work was not <NS type="RJ"><i><NS type="S"><i>heavey</i><c>heavy</c></NS></i><c>hard</c></NS>, I gained a lot of experience. They gave me their <NS type="FN"><i><NS type="RN"><i>signature</i><c>autograph</c></NS></i><c>autographs</c></NS> and when the concert started, they told me to come up on the <NS type="RN"><i>state</i><c>stage</c></NS> and dance with them. I was really <NS type="S"><i>embarassed</i><c>embarrassed</c></NS> because I had to dance in front of a lot of people but that <NS type="TV"><i>is</i><c>was</c></NS> the very <NS type="FJ"><i>good</i><c>best</c></NS> experience I have ever had. I <NS type="UV"><i>was</i></NS> really <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> <NS type="UT"><i>at</i></NS> the concert. <NS type="MD"><i>Thing</i><c>The thing</c></NS> that I particularly <NS type="TV"><i>like</i><c>liked</c></NS> <NS type="RT"><i>in</i><c>about</c></NS> the concert <NS type="TV"><i>is</i><c>was</c></NS> I got a free ticket from Westlife to go to the A1 concert<NS type="MP"><c>,</c></NS> which is another <NS type="MP"><i>well known</i><c>well-known</c></NS> band. I really want to have that experience again.</p>
+          <p>That is my story. Tell me <NS type="S"><i>yoors</i><c>yours</c></NS>. I want to know what <NS type="FN"><i>experience</i><c>experiences</c></NS> <NS type="TV"><i>you've had</i><c>you had</c></NS> when you were in England.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

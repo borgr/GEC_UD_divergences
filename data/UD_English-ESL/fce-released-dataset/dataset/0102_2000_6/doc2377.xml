@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR958*0102*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>15.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. ...</p>
+          <p>It wasn't the first time <NS type="UT"><i>for</i></NS> <NS type="RA"><i>me</i><c>I</c></NS> <NS type="RV"><i><NS type="TV"><i>to visit</i><c>visited</c></NS></i><c>saw</c></NS> this show in your theatre, but it was the <NS type="DJ"><i>worsed</i><c>worst</c></NS> one.</p>
+          <p>At first it was a great <NS type="S"><i>plessure</i><c>pleasure</c></NS> for me to get a ticket <NS type="UC"><i><NS type="S"><i>therefor</i><c>therefore</c></NS></i></NS> <NS type="S"><i>becauses</i><c>because</c></NS> I'm one of <NS type="UD"><i>the</i></NS> <NS type="W"><i>greatest <NS type="AGN"><i>fan</i><c>fans</c></NS> of Danny Brook</i><c>Danny Brook's greatest fans</c></NS>. It's not that <NS type="CE">problem that there was no more discount available - but I had <NS type="IV"><i>choosen</i><c>chosen</c></NS> it, because I'm (<NS type="S"><i>alowed</i><c>allowed</c></NS>?)</NS>.</p>
+          <p>When <NS type="MD"><c>the</c></NS> musical started at 20:15 (not at 19:30 as <NS type="RV"><i>showed</i><c>advertised</c></NS>) I was <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="S"><i>shokked</i><c>shocked</c></NS> when I realised that a different actor was playing <NS type="M"><c>his role</c></NS>. I couldn't stay any <NS type="RY"><i>more</i><c>longer</c></NS> and had to leave the theatre.</p>
+          <p>You have to know that I am very <NS type="S"><i>sik</i><c>sick</c></NS> because of my blood <NS type="S"><i>presure</i><c>pressure</c></NS> and so I was laying down the <NS type="SX"><i>hole</i><c>whole</c></NS> weekend. In my opinion it's <NS type="UD"><i>a</i></NS> simple <NS type="UN"><i>way</i></NS> for you to pay me <NS type="W"><i>the money I <NS type="RV"><i>left</i><c>spent</c></NS> back</i><c>back the money I spent</c></NS>. Otherwise I have to contact my <NS type="R"><i>lower</i><c>lawyer</c></NS>.</p>
+          <p>I am waiting <NS type="FV"><i>hearing</i><c>to hear</c></NS> <NS type="RT"><i>of</i><c>from</c></NS> you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>For me<NS type="MP"><c>,</c></NS> as <NS type="FD"><i>an</i><c>a</c></NS> scientist<NS type="MP"><c>,</c></NS> it's a <NS type="RJ"><i>main</i><c>big</c></NS> problem to show how the <NS type="S"><i>inovations</i><c>innovations</c></NS> of the last century <NS type="R"><NS type="TV"><i>goes</i><c>went</c></NS> up with</NS> the environment and <NS type="S"><i>natur</i><c>nature</c></NS>.</p>
+          <p>In <NS type="MD"><c>the</c></NS> past new technologies <NS type="MV"><c>were</c></NS> mostly followed by ground-, water- or air pollution.</p>
+          <p><NS type="W"><i>A nowadays</i><c>Nowadays a</c></NS> simple thing like a computer <NS type="AGV"><i>include</i><c>includes</c></NS> so many possible ways <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to destroy</i><c>destroying</c></NS> different <NS type="DN">environmental <NS type="S"><i>compartiments</i><c>compartments</c></NS></NS>. On the one hand there are the materials from which the <NS type="UP"><i>PC's</i><c>PCs</c></NS> are made <NS type="UT"><i>of</i></NS>, on the other hand is the <NS type="S"><i>uge</i><c>huge</c></NS> waste problem <NS type="UJ"><i>situated</i></NS>.</p>
+          <p>Now I try to show, in my daily work, how the airborn chlororganics, which are <NS type="DV">degased</NS> from plastics, will be <NS type="S"><i>seperated</i><c>separated</c></NS> and damaged by green plants.</p>
+          <p>Sometimes it seems to me like <NS type="MD"><c>a</c></NS> joke if I <NS type="RV"><i>remember</i><c>think about</c></NS> all the <NS type="S"><i>daungerous</i><c>dangerous</c></NS> materials I need to do my job. Nevertheless, in my opinion, the only way to find a better <NS type="RN"><i>kind</i><c>way</c></NS> of living with <NS type="UD"><i>the</i></NS> nature is to check out the problems we have. Therefore it <NS type="AGV"><i>make</i><c>makes</c></NS> sense to use the <NS type="AGN"><i><NS type="S"><i>inovation</i><c>innovation</c></NS></i><c>innovations</c></NS> which are <NS type="RV"><i>standing</i><c>causing</c></NS> <NS type="UT"><i>for</i></NS> environmental <NS type="IN"><i>destructions</i><c>destruction</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

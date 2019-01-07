@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR368*0100*2000*02">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson</p>
+          <p>I am a student from your class and I would like to thank you first of all<NS type="RP"><i>. It's</i><c>: it's</c></NS> a good programme, especially the visit to the National Art Gallery.</p>
+          <p>A few students and <NS type="RA"><i>me</i><c>I</c></NS> have heard about a fashion and leisure show. <NS type="RD"><i>That</i><c>The</c></NS> show takes place on 14th March from 10.00 - 19.00. They <NS type="TV"><i>show</i><c>will show</c></NS> the latest fashion, leisure and sportswear <NS type="S"><i>ands</i><c>and</c></NS> something for the women: <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyle trends. <NS type="RD"><i>That</i><c>The</c></NS> show is free for students, <NS type="RC"><i>so</i><c>and</c></NS> <NS type="RA"><i>it's</i><c>that's</c></NS> also a big advantage. We have <NS type="W"><i>it already discussed</i><c>already discussed it</c></NS> and we think it would be a great opportunity because a lot of students <NS type="R"><i>a</i><c>are</c></NS> very keen <NS type="RP"><i>ongoing</i><c>on going</c></NS>.</p>
+          <p>I know that it <NS type="RV"><i>is</i><c>involves</c></NS> a change<NS type="UP"><i>. But</i><c> but</c></NS> I have thought about it. On Monday we could first go to the <NS type="S"><i>Sience</i><c>Science</c></NS> Museum and in the afternoon to Greenwich. Then we could go sightseeing by bus on Wednesday after <NS type="RN"><i>lunchtime</i><c>lunch</c></NS>. I think there is no need to go shopping because we can do our shopping in Cambridge<NS type="U"><i>, as well</i></NS>.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Who would like to be famous?</p>
+          <p><NS type="TV"><i>Are you dreaming</i><c>Do you dream</c></NS> of being a <NS type="RP"><i>Star</i><c>star</c></NS>? It must be wonderful when you have a lot of money and everybody seems to know you. <NS type="M"><i>Really</i><c>But is it really</c></NS>?</p>
+          <p>I think the main problem is that you would lose your private life. That's the price you have to pay nowadays. But you need all the journalists to become famous so the only way is to accept that there are journalists and that they are just doing their job.</p>
+          <p>No one told you to be famous. If you are famous<NS type="MP"><c>,</c></NS> it was your choice and therefore <NS type="MA"><c>it</c></NS> is <NS type="RD"><i>a</i><c>the</c></NS> price <NS type="M"><c>you have</c></NS> to pay. Of course you have fame and <NS type="RN">poverty</NS>. But then everyone will recognise you when you are walking <NS type="RT"><i>on</i><c>in</c></NS> the street.</p>
+          <p>To sum up<NS type="MP"><c>,</c></NS> I think<NS type="UP"><i>,</i></NS> if you <NS type="MV"><c>are</c></NS> <NS type="UP"><i>well-known</i><c>well known</c></NS> you have to deal with that. There's no other way. <NS type="S"><i>Everone</i><c>Everyone</c></NS> knows you because of the journalists<NS type="MP"><c>,</c></NS> so <NS type="MA"><c>you</c></NS> can't just ignore them, can you?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

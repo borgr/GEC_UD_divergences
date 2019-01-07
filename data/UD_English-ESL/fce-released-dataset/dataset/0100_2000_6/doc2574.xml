@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR116*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>In response to your letter that I have just received I am writing to give you all the further information you need.</p>
+          <p>According to your letter, I should tell you when I would like to travel and I think July is the best time for me because I will be on summer <NS type="FN"><i>vacations</i><c>vacation</c></NS> so I would not have to miss any classes.</p>
+          <p>About the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I enjoy the contact with nature as well as camping activities.</p>
+          <p>As I may choose the two activities I would like to <NS type="RV"><i>practise</i><c>do</c></NS> during my <NS type="DN"><i>staying</i><c>stay</c></NS> at the Camp from the list given in your letter, I choose singing and photography. I have been taking singing <NS type="RN"><i>classes</i><c>lessons</c></NS> since I was ten years old so I am pretty good at it. On the other hand, I am a beginner <NS type="RT"><i>in</i><c>at</c></NS> photography skills.</p>
+          <p>I would appreciate <NS type="MA"><c>it</c></NS> if you could inform me if I have to bring any money for extra costs or even <NS type="MQ"><c>any</c></NS> special kind of clothes for those activities.</p>
+          <p>Thanks in advance for your assistance.</p>
+          <p>Yours sincerely</p>
+          <p>CATARINA PONTES</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>These days people <NS type="TV"><i>have been</i><c>are</c></NS> shopping more often than they used to. Sometimes shopping can be a <NS type="DJ"><i>stressing</i><c>stressful</c></NS> experience though people think of it as an enjoyable part of their lives.</p>
+          <p>First of all, shopping can be a good thing if it is a <NS type="RN"><i>possibility</i><c>chance</c></NS> to forget about all the problems you have, even if it is just for a moment. It relieves you from the pressure of life while you are looking for something to buy.</p>
+          <p>On the other hand, sometimes you can get really <NS type="RJ"><i>nervous</i><c>irritable</c></NS> <NS type="UT"><i>about</i></NS> shopping<NS type="MP"><c>,</c></NS> like when you have to deal with unhelpful shop assistants. It is a very common <NS type="RN"><i>fact</i><c>phenomenon</c></NS> these days and you have to be patient if you really want to buy something.</p>
+          <p>Furthermore, sometimes you <NS type="RV"><i>can</i><c>do</c></NS> not find a variety of goods and you eventually buy a low quality product.</p>
+          <p>In conclusion, like all things in life, shopping can be <NS type="S"><i>pleasent</i><c>pleasant</c></NS> or irritating depending on your patience and on your mood that day.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

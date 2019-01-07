@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR634*0100*2000*02">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I am writing to you, <NS type="RT"><i>in the name of</i><c>on behalf of</c></NS> all the students in my class, to tell you about our wish to change the <NS type="UP"><i>London's</i><c>London</c></NS> programme. I would also like to thank you for the <NS type="RJ"><i>good</i><c>excellent</c></NS> programme you <NS type="RV"><i>made</i><c>organized</c></NS> for us, <NS type="MC"><c>and</c></NS> <NS type="RY"><i>especially</i><c>in particular</c></NS> the river trip to Greenwich might be fascinating.</p>
+          <p>I would like to tell you about the show which we would like to see: It is "The London Fashion and Leisure Show", which is going to take place at the <NS type="UP"><i>"</i></NS>Central <NS type="S"><i>Exibition</i><c>Exhibition</c></NS> Hall in London, on Tuesday the 14th March, between 10.00 and 19.00. The latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles will be shown <NS type="RT"><i>in</i><c>on</c></NS> this occasion. We think that this is a great opportunity because it takes <NS type="RN"><i>part</i><c>place</c></NS> only once a year and, on top of all <NS type="MA"><c>that</c></NS>, it is free for students.</p>
+          <p>We suggest <NS type="FV"><i>to go</i><c>going</c></NS> to the show on Tuesday afternoon instead of going shopping (<NS type="SX"><i>thing</i><c>something</c></NS> that we can do on Wednesday afternoon, in our free time).</p>
+          <p>I hope you will consider our request<NS type="MP"><c>.</c></NS></p>
+          <p>yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p><NS type="RA"><i>I</i><c>It</c></NS> was dangerous, but I knew I had to do it. I had absolutely no choice. We had walked for three hours (my mother, my two <NS type="AGN"><i>brother</i><c>brothers</c></NS> and I) through the humid and noisy jungle, looking forward to <NS type="FV"><i>reach</i><c>reaching</c></NS> a small but clean house where a nice and friendly family, old friends of <NS type="RA"><i>us</i><c>ours</c></NS>, used to live.</p>
+          <p>The path we were walking <NS type="RT"><i>in</i><c>on</c></NS> was quite clean and I was feeling really happy and relaxed... until we reached a river. There <NS type="AGV"><i>were</i><c>was</c></NS> <NS type="SX"><i>nor</i><c>neither</c></NS> <NS type="MD"><c>a</c></NS> bridge nor a canoe<NS type="RP"><i>, the</i><c>. The</c></NS> only way to cross it was <NS type="MT"><c>by</c></NS> walking on <NS type="W"><i>an old big</i><c>a big old</c></NS> <NS type="MN"><c>tree</c></NS> trunk which was lying down, peacefully, making the only <NS type="RN"><i>connection</i><c>bridge</c></NS> between our side and the other.</p>
+          <p>My mother and brothers had already crossed the river, and they were encouraging me to do the same from the other side of it, but I was paralysed with fear. Then, I suddenly realised that I had no choice, so I <NS type="RV"><i>took</i><c>summoned</c></NS> all my courage, <NS type="MV"><c>took</c></NS> a big deep breath, and crossed it! It was easier than I had thought!<NS type="UP"><i>.</i></NS> That day, I learnt that I can <NS type="W"><i>do even</i><c>even do</c></NS> things which, at first sight, seem impossible to <NS type="FV"><i>be done</i><c>do</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

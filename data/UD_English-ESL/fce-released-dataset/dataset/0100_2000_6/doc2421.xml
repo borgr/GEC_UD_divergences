@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR978*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I'm glad to receive your letter. I'm very happy to know that I have won the first prize. It will be great to spend two weeks at Camp California. First of all, I would like to say that the only month available <NS type="RT"><i>from</i><c>for</c></NS> me to travel is July. I finish my classes on the 25th of June and August is <NS type="MJ"><c>reserved</c></NS> for going with my parents to France. This <NS type="TV"><i>has been scheduled</i><c>was scheduled</c></NS> 3 months ago.</p>
+          <p>About accommodation, I would prefer the log cabins because I think they are <NS type="IJ"><i>more cleaner</i><c>cleaner</c></NS> than the tents. While I'm <NS type="S"><i>stayin</i><c>staying</c></NS> there I would like to practise tennis and basketball, as I have been playing both sports all my life, and I have to say that I am very good at both.</p>
+          <p>There is one question I would like to ask you about the Camp. I would like to know if there are any washing machines or a place to wash our clothes.</p>
+          <p>I hope this letter contains all the information you need from me. I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>From my point of view, the real question is: Who said that is enjoyable? Maybe for women, but not for me. I know that this sounds horrible, but sometimes it's what really happens. For men, sometimes <NS type="MA"><c>it</c></NS> is hard to go shopping with their partners. Sometimes that means a complete tour around all the fashion shops in town. And of course, we are not allowed to stop in a place that we like<NS type="RP"><i>. The</i><c>, the</c></NS> <NS type="RP"><i>Sports Shop</i><c>sports shop</c></NS>. You cannot <NS type="RV"><i>lose</i><c>waste</c></NS> <NS type="UD"><i>the</i></NS> time because all the other shops could be closed when you arrive. And that is <NS type="S"><i>allways</i><c>always</c></NS> what we want. That's men's intention.</p>
+          <p>Another point is to go <NS type="MT"><c>to</c></NS> a big area<NS type="RP"><i>. <NS type="RY"><i>Specially</i><c>Especially</c></NS></i><c>, especially</c></NS> <NS type="MT"><c>at</c></NS> <NS type="UP"><i>week-ends</i><c>weekends</c></NS>. Everyone pushing a trolley and crashing around. People should have to <NS type="RV"><i>take</i><c>get</c></NS> a <NS type="SA"><i>license</i><c>licence</c></NS> to drive those things. Someone could be injured. And of course, the time to pay. A huge <NS type="S"><i>que</i><c>queue</c></NS> that lasts half an hour or more and finishes with you completely freaked out. In conclusion, for me<NS type="MP"><c>,</c></NS> to go shopping is not enjoyable at all.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

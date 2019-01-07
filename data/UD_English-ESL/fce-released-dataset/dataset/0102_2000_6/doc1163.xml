@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR476*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir: I am writing <NS type="W"><i>to you this letter</i><c>this letter to you</c></NS> because I would like you to know about a musical show which I went to see <NS type="RT"><i>to</i><c>at</c></NS> the Circle Theatre. First of all, I wanted to see this musical 'Over the Rainbow' because the actor Danny Brook was acting in it. But when the musical started I <NS type="RV"><i>got</i><c>became</c></NS> very disappointed because Harry Smythe, a not very famous actor, was acting instead of Danny Brook. Then, the musical didn't start on time. It <NS type="TV"><i>supposed</i><c>was supposed</c></NS> to start at 19.30 pm in the evening but we had to wait for more than half an hour. All the people got very angry. Also I bought a £20 ticket because <NS type="UT"><i>in</i></NS> the advertisement for the show <NS type="RV"><i>was put</i><c>said</c></NS> that discounts were available for £10 £15, £20 tickets. I couldn't have my ticket discounted because when I went to buy it they told me that was untrue. Furthermore, <NS type="UT"><i>in</i></NS> the advertisement <NS type="RV"><i>was put</i><c>said</c></NS> that the theatre restaurant was <NS type="DJ"><i>opened</i><c>open</c></NS> but when we went there after the show, it was closed because the <NS type="W"><i><NS type="RN"><i>chief</i><c>chef</c></NS> of the restaurant</i><c>the restaurant chef</c></NS> was ill. It was ridiculous! In conclusion, I didn't have my perfect evening out, in other words, I had a very disappointing evening so I am asking you for my money back. I would like to have my money back in ten days, <NS type="ID"><i>in the other case</i><c>otherwise</c></NS>, I <NS type="TV"><i>would</i><c>will</c></NS> have to sue you. I am looking forward to hearing from you. Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I'm telling you this because I had a big <NS type="RN"><i>trouble</i><c>problem</c></NS> a few days ago because of her.</p>
+          <p>Pat used to be my best friend but a few days ago I <NS type="RV"><i>knew</i><c>found out</c></NS> <NS type="UQ"><i>all</i></NS> the truth.</p>
+          <p>I used to tell Pat everything about myself - my problems with my parents, my problems with the school, friends and more. I was always talking to her and she was always listening to me but she didn't talk to me very much about herself. At first, I thought it was a bit strange but I didn't care too much about that and I easily forgot it. In other words, Pat knew all my secrets.</p>
+          <p>I started to get along with other people and had new friends but I continued telling Pat my secrets. My new friends sometimes talked to me about Pat and they asked me once if we were close friends. I asked them why they had asked me that. Their answer surprised me <NS type="RY"><i>too</i><c>so</c></NS> much. They told me Pat used to be a close friend of <NS type="RA"><i>them</i><c>theirs</c></NS> and she used to talk about me and my problems. So, they had already <NS type="TV"><i>knew</i><c>known</c></NS> all my secrets for a long time!</p>
+          <p> I got very angry and immediately I went to talk to Pat. At first, Pat denied all the things my friends told me about <NS type="RA"><i>herself</i><c>her</c></NS> but she finally agreed with that. I asked her why she couldn't keep my secrets and she told me that it was impossible for her <NS type="FV"><i>keeping</i><c>to keep</c></NS> secrets. She was very sorry about that and <NS type="MD"><c>a</c></NS> few days after she moved <NS type="UT"><i>in</i></NS> to another city and <NS type="RY"><i>actually</i><c>now</c></NS> I don't know anything about her. I thanked my new friends for not <NS type="FV"><i>to tell</i><c>telling</c></NS> anybody my secrets <NS type="MY"><c>even</c></NS> though before the trouble <NS type="RA"><i>they and me</i><c>we</c></NS> weren't very <NS type="MJ"><c>close</c></NS> friends. Now I'm very happy with my new friends and I have learnt that I can't trust anybody too much because you don't really know <NS type="RY"><i>how</i><c>what</c></NS> the person is like.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

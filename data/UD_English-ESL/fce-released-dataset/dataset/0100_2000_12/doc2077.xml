@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR837*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>12.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I am writing this letter because we saw your programme for our next trip to London and we would like to suggest <NS type="MT"><c>to</c></NS> you just one thing.</p>
+          <p>First of all, we would like to say <NS type="UA"><i>you</i></NS> thank you very much for <NS type="FV"><i>organised</i><c>organising</c></NS> our tour around London and our programme<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> is considered <NS type="W"><i>for us especially good</i><c>especially good for us</c></NS> <NS type="RT"><i>for</i><c>because of</c></NS> the places we will visit.</p>
+          <p>Secondly, we saw last Saturday in the Oxfor News <NS type="RD"><i>one</i><c>an</c></NS> advertisement about the London Fashion and Leisure Show and we would like to know if <NS type="MA"><c>it</c></NS> <NS type="RV"><i>could</i><c>would</c></NS> be <NS type="S"><i>posible</i><c>possible</c></NS> to <NS type="S"><i>inclued</i><c>include</c></NS> this show in our tour. The show is going to take place in the <NS type="S"><i>Gernal</i><c>General</c></NS> Exhibition Hall in London, <NS type="W"><i>the <NS type="RP"><i><NS type="S"><i>thurday</i><c>thursday</c></NS></i><c>Thursday</c></NS></i><c>Thursday the</c></NS> 14 of March, so <NS type="MA"><c>it</c></NS> could be a good idea to see this show <NS type="S"><i>intead</i><c>instead</c></NS> of <NS type="FV"><i>go</i><c>going</c></NS> to <NS type="MD"><c>the</c></NS> Science Museum.</p>
+          <p>We think that it could be <NS type="MD"><c>a</c></NS> great opportunity because in one day we can see <NS type="RP"><i>every thing</i><c>everything</c></NS> <NS type="RT"><i>about</i><c>concerning</c></NS> <NS type="DJ"><i>fashion</i><c>fashionable</c></NS> clothes, new <NS type="S"><i>makes up</i><c>make-up</c></NS> and <NS type="S"><i>hayrstyles</i><c>hairstyles</c></NS>. Furthermore <NS type="AS"><i>is student free</i><c>it is free for students</c></NS>.</p>
+          <p><NS type="R"><i>I</i><c>If</c></NS> you would like more information do not hesitate to contact me.</p>
+          <p>I am looking <NS type="RY"><i>for</i><c>forward</c></NS> <NS type="MT"><c>to</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> reply.</p>
+          <p>Yours<NS type="UP"><i>,</i></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR771*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>41-50</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs or Miss Jane X,</p>
+          <p>I am writing to thank you for the annual international arts festival which was organized on 21st-22nd November. I <NS type="AS"><i><NS type="TV"><i>had spent</i><c>spent</c></NS> at this festival for two days</i><c>spent two days at this festival</c></NS>.</p>
+          <p>It was a great idea to organize such <NS type="MD"><c>a</c></NS> festival. I am a teacher and I love music. Most of the events which I <NS type="TV"><i>had seen</i><c>saw</c></NS> were good. I enjoyed <NS type="MD"><c>the</c></NS> dance shows, <NS type="M"><c>and the</c></NS> jazz and rock concerts. I visited art exhibitions. There were a lot of nice pictures, sculptures and other creative works. I was impressed by them. At <NS type="MD"><c>the</c></NS> festival I could talk with writers. It was an excellent idea to <NS type="RV"><i>make</i><c>have</c></NS> one <NS type="UP"><i><NS type="S"><i>reasonaly-priced</i><c>reasonably-priced</c></NS></i><c>reasonably priced</c></NS> weekend ticket for all events. A lot of people could visit as many events as <NS type="UD"><i>the</i></NS> they <NS type="RV"><i>could</i><c>wanted</c></NS>.</p>
+          <p>I was very surprised when I <NS type="RV"><i>knew</i><c>learned</c></NS> that <NS type="MD"><c>the</c></NS> stars and artists were <NS type="W"><i>only from</i><c>from only</c></NS> six countries. It was too <NS type="CQ"><i>little</i><c>few</c></NS> for this festival. It was <NS type="MD"><c>a</c></NS> <NS type="S"><i>pitty</i><c>pity</c></NS> that <NS type="AS"><i>too small halls were used for <NS type="MD"><c>the</c></NS> classical concerts</i><c>the halls used for the classical concerts were too small</c></NS>. I like going to classical concerts but at this festival the <NS type="FN"><i>sounds</i><c>sound</c></NS> of <NS type="MD"><c>the</c></NS> music <NS type="AGV"><i>were</i><c>was</c></NS> terrible.</p>
+          <p>I have some <NS type="FN"><i>suggestion</i><c>suggestions</c></NS> for next year's festival. Firstly, it will be great if you invite more famous singers and bands. The second one is to include more musical films and plays. I would like to help you in your interesting <NS type="RN"><i>job</i><c>work</c></NS>. I look forward to your answer.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Traditional Folk Stories of the World</p>
+          <p>There are a lot of folk stories <NS type="RT"><i>in</i><c>from around</c></NS> the world and there are a lot of folk stories in Estonia<NS type="RP"><i>,</i><c>.</c></NS> I would like to tell you one of them. This story is about a man and his three sons. This story happened a long time ago. The man was old and his sons were young.</p>
+          <p>One day the man <NS type="IV"><i>quarreled</i><c>quarrelled</c></NS> with his sons and they left the house <NS type="FV"><i>trying</i><c>to try</c></NS> to find work. They were successful. And they <NS type="TV"><i>had lived</i><c>lived</c></NS> far from their father for two years. They <NS type="TV"><i>grow</i><c>grew</c></NS> up and became wise. They decided to return to <NS type="RD"><i>his</i><c>their</c></NS> father because he was old and he needed help.</p>
+          <p>When the sons were old they began to <NS type="RV"><i>tell</i><c>talk</c></NS> about their life<NS type="MP"><c>,</c></NS> beginning with this story<NS type="M"><c>, which</c></NS> <NS type="IV"><i>happend</i><c>happened</c></NS> a long time ago<NS type="MP"><c>.</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

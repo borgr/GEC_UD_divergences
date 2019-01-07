@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR716*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Thank you for your answer. I'm happy I can join you at Camp California in the U.S.A.</p>
+          <p>I'm sorry to say that I can attend your camp only <NS type="RT"><i>on</i><c>in</c></NS> July because I just started my new job and I <NS type="RV"><i>got</i><c>have</c></NS> one month of <NS type="UD"><i>my</i></NS> holiday, which <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> July.</p>
+          <p>You wrote to me that I can <NS type="DV"><i>choice</i><c>choose</c></NS> my accommodation. I would prefer <NS type="FV"><i>stay</i><c>to stay</c></NS> in log cabins because I have a problem with my back<NS type="MP"><i> it</i><c>. It</c></NS> is <NS type="RD"><i>a</i><c>the</c></NS> reason that I can't lie on the ground. Beside that<NS type="MP"><c>,</c></NS> I'm <NS type="S"><i>alergic</i><c>allergic</c></NS>, <NS type="MC"><c>and</c></NS> that <NS type="TV"><i><NS type="RV"><i>make</i><c>cause</c></NS></i><c>causes</c></NS> me <NS type="FN"><i>problem</i><c>problems</c></NS> when I'm close to <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>You wrote to me that I have a chance to do two activities, which I can <NS type="DV"><i>choice</i><c>choose</c></NS>. I'm quite good <NS type="RT"><i>in</i><c>at</c></NS> <NS type="S"><i>paiting</i><c>painting</c></NS> and I play tennis. I'll be very happy <NS type="RC"><i>when</i><c>if</c></NS> you can give me a chance to use the camp's art studio and you'll be able to prepare some <NS type="UP"><i><NS type="S"><i>paiting's</i><c>painting's</c></NS></i><c>painting</c></NS> materials like oil paints<NS type="MP"><c>,</c></NS> canvas and <NS type="S"><i>bruches</i><c>brushes</c></NS> for me. The size of the canvas isn't so important.</p>
+          <p>I have my own sports equipment to play tennis. I hope I'll have <NS type="MD"><c>a</c></NS> possibility to improve my ability in it. I'm champion of my town, so I think I can find a <NS type="RJ"><i>right</i><c>suitable</c></NS> person who can play with me.</p>
+          <p>Could you write to me, because I don't know how much money I need and what type of weather <NS type="UV"><i>do</i></NS> you have <NS type="RT"><i>in</i><c>at</c></NS> this time of the year.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim!</p>
+          <p>Last month we had the pop concert of our favourite <NS type="RP"><i>polish</i><c>Polish</c></NS> group "THE CULT" in Warshaw. I had the chance to help at the concert. You can't imagine how happy I was. I got money for that job and I enjoyed the work a lot. You know I'm good <NS type="RT"><i>in</i><c>at</c></NS> <NS type="S"><i>mace-up</i><c>make-up</c></NS> and I have done <NS type="W"><i>many times scenography</i><c>scenography many times</c></NS>. They were pleased that I can do two of <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="AGN"><i>job</i><c>jobs</c></NS><NS type="MP"><c>,</c></NS> that's why I got the <NS type="RN"><i>work</i><c>job</c></NS>. I was working like crazy but I enjoyed <NS type="MA"><c>it</c></NS> a lot. I didn't sleep two nights because I was preparing the stage where they <NS type="RV"><i>made</i><c>gave</c></NS> the concert.</p>
+          <p>Could you imagine that they asked me to make the summer scenography. I heard, the atmosphere of their concerts is very hot but I didn't know they like to create this even by scenography.</p>
+          <p>Could you believe that two nights I was cutting <NS type="UP"><i>paper's</i><c>paper</c></NS> flowers, grass, the sun and thousands of birds. I didn't have many people who <NS type="AGV"><i>was</i><c>were</c></NS> helping me<NS type="MP"><c>,</c></NS> that's why I was working 48 hours without stopping.</p>
+          <p>I think the result of that action was <NS type="SA"><i>marvelous</i><c>marvellous</c></NS>. Everybody was very <NS type="DJ"><i><NS type="S"><i>suprise</i><c>surprise</c></NS></i><c>surprised</c></NS> that you can create such amazing things, using <NS type="UD"><i>a</i></NS> <NS type="S"><i>sizors</i><c>scissors</c></NS> and <NS type="CN"><i>papers</i><c>paper</c></NS>. I <NS type="TV"><i>like</i><c>liked</c></NS> <NS type="W"><i>a lot the mountains which I made</i><c>the mountains which I made a lot</c></NS>. From <NS type="RD"><i>the</i><c>a</c></NS> distance they looked very real. I just <NS type="DV">rulled</NS> <NS type="UD"><i>a</i></NS> paper and I painted <NS type="R">a little white colours</NS> on the top. In front of the stage I put the grass and a lot of flowers. The light on the stage was very bright and very warm <NS type="R"><i>what's</i><c>which</c></NS> made the scenery very <NS type="S"><i>pleasent</i><c>pleasant</c></NS>.</p>
+          <p>After that I prepared the group. I <NS type="TV"><i>done</i><c>did</c></NS> <NS type="MD"><c>their</c></NS> <NS type="S"><i>mace-up</i><c>make-up</c></NS> for them. I was very happy because <NS type="RT"><i>on</i><c>during</c></NS> this time I had a chance <NS type="FV"><i>talking</i><c>to talk</c></NS> to them and to <NS type="RV"><i>know</i><c>find out</c></NS> more about them. They are very nice people<NS type="MP"><i> even</i><c>. Even</c></NS> Audrey who seems very stupid. She is very intelligent. I really don't know why she <NS type="AGV"><i>behave</i><c>behaves</c></NS> <NS type="UA"><i>herself</i></NS> so badly during her interview. I got their address so we can visit them one day.</p>
+          <p>I told them about you and they said we are very welcome any time. I told them you are full of <NS type="DN"><i>live</i><c>life</c></NS> and they are <NS type="DD"><i>yours</i><c>your</c></NS> favourite <NS type="RP"><i>polish</i><c>Polish</c></NS> group. They <NS type="MV"><c>would</c></NS> like to know you a lot. We'll speak about it when I come to see you.</p>
+          <p>I hope to see you soon.</p>
+          <p>A lot of kisses.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

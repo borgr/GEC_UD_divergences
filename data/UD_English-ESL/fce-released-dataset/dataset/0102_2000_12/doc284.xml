@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1136*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark</p>
+          <p>Hello!</p>
+          <p>My name is Yuna Kimber who attended this annual International Arts Festival.</p>
+          <p>I'd like to say something that I felt during the festival, and give my opinions that would be <NS type="S"><i>helpul</i><c>helpful</c></NS> for you to prepare for the next festival <NS type="U"><i>to you</i></NS>.</p>
+          <p>First of all, I <NS type="RV"><i><NS type="S"><i>appreicate</i><c>appreciate</c></NS></i><c>congratulate</c></NS> you for organizing such an exciting festival.  It was a great idea, and I enjoyed myself <NS type="RT"><i>to</i><c>at</c></NS> this festival <NS type="RY"><i>so</i><c>very</c></NS> much.</p>
+          <p>By the way, according to the advertisement, lots of stars and artists from around the world were supposed to be invited for the festival, but I was able to meet them <NS type="UY"><i>just</i></NS> from only six countries.</p>
+          <p>And another thing is that some concert halls were too small, so when I went there for Jazz and rock concerts it was so crowded, and during the concerts people felt <NS type="RJ"><i>stuffy</i><c>suffocated</c></NS>.</p>
+          <p>I hope you'll get much bigger <NS type="FN"><i>concerts</i><c>concert</c></NS> <NS type="FN"><i>hall</i><c>halls</c></NS> next year.</p>
+          <p>On the other hand, <NS type="MD"><c>the</c></NS> plays and films were excellent.</p>
+          <p>I expect that much more <NS type="RJ"><i>various</i><c>varied</c></NS> kinds of plays and films will be on next year.</p>
+          <p>Finally, I'd like to mention <NS type="MD"><c>the</c></NS> reasonably-priced weekend ticket.  It was brillient, because if I had to pay <NS type="MT"><c>for</c></NS> all things <NS type="R"><i>each</i><c>individually</c></NS> I wouldn't have attended it, because it was very expensive for me.  Thank you very much <NS type="RT"><i>about</i><c>for</c></NS> that.</p>
+          <p>I hope it will be helpful and useful for you.</p>
+          <p>Bye for now</p>
+          <p>Faithfully yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+         <coded_answer>
+          <p><NS type="MD"><i>Long</i><c>A long</c></NS> time ago, there were two brothers, whose parents were dead.  Their parents were rich, so when they passed away they left a lot of money.</p>
+          <p>By the way, the elder brother, Nolbu was a <NS type="RY"><i>so</i><c>very</c></NS> greedy man.</p>
+          <p>He didn't want to share the money with his brother, Hungbu<NS type="MP"><c>,</c></NS> so he took all of the money, and said to Hungbu to go away from the house without anything.</p>
+          <p>Hungbu had nothing but his <NS type="W"><i>twelve family</i><c>family of twelve</c></NS>.</p>
+          <p>But, even if he was <NS type="RY"><i>so</i><c>very</c></NS> poor, he was <NS type="RY"><i>so</i><c>very</c></NS> good and had a lot of affection <NS type="RT"><i>about</i><c>for</c></NS> the people who were much poorer than his family, so he looked after them.</p>
+          <p>But, Nolbu always made people annoyed, and enjoyed other people's misfortune.</p>
+          <p>One cold day, Hungbu saw a bird that had a broken wing, so the bird couldn't fly to the warmer <NS type="RN"><i>county</i><c>country</c></NS> during the winter.  He cured the bird <NS type="UV"><i>to fly</i></NS> with love, and the bird was able to fly.</p>
+          <p>The following year, when the bird returned <NS type="MT"><c>to</c></NS> his house, he gave him a message.  It was a kind of map that showed the <NS type="RN"><i>place</i><c>location</c></NS> <NS type="RT"><i>for</i><c>of</c></NS> a lot of money which robbers hid.</p>
+          <p>Therefore, Hungbu became much richer than Nolbu, and he lived happily with the money helping the poor.</p>
+          <p>People <NS type="S"><i>belive</i><c>believe</c></NS> that the bird was sent <NS type="RT"><i>by</i><c>from</c></NS> heaven.</p>
+          <p>This story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

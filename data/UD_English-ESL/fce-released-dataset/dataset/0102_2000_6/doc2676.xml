@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1079*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>I am writing to complain about a musical show which is called "Over The Rainbow" and ask for <NS type="MD"><c>my</c></NS> money back. This show was presented by the Circle Theatre.</p>
+          <p>First of all, the poster told me that this show <NS type="TV"><i>was <NS type="RV"><i>performed by</i><c>starred</c></NS></i><c>starred</c></NS> Danny Brook and Tina Truelove but there <NS type="AGV"><i>was</i><c>were</c></NS> different <NS type="FN"><i>actor</i><c>actors</c></NS>. I am so disappointed.</p>
+          <p>Secondly, the show was <NS type="RV"><i>expected</i><c>meant</c></NS> to start at 19:30 but it started at 20:15. I <NS type="TV"><i>have been</i><c>was</c></NS> waiting for 45 <NS type="S"><i>minuties</i><c>minutes</c></NS>. The poster also told me that I could visit the theatre restaurant after the show. As you know the show started late, so, I was not able to go to the theatre restaurant because it <NS type="TV"><i>was closed</i><c>closed</c></NS> before the show <NS type="TV"><i>has been finished</i><c>finished</c></NS>.</p>
+          <p>Thirdly, there <NS type="AGV"><i>was</i><c>were</c></NS> no discounts available but <NS type="R">it was printed on the poster</NS>. If there <NS type="TV"><i><NS type="AGV"><i>was</i><c>were</c></NS></i><c>are</c></NS> no discounts, don't <NS type="R">write it</NS> on the poster. I got confused and <NS type="MV"><c>was</c></NS> disappointed again.</p>
+          <p>Finally, I would like to have my money back. I am looking forward <NS type="RT"><i>for</i><c>to</c></NS> your prompt reply and <NS type="RN">improvement</NS>.</p>
+          <p>Yours Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>The world is changing every day. So, modern technology is needed to <NS type="R">meet the requirement</NS>. <NS type="U"><i>In an every</i><c>Every</c></NS> single day, <NS type="R"><NS type="AGQ"><i>many</i><c>a lot of</c></NS> modern technology is produced</NS> and it really <NS type="CL"><i>affects or changes</i><c>affects</c></NS> our daily life.</p>
+          <p>The most important development is the <NS type="RP"><i>internet</i><c>Internet</c></NS> <NS type="UN"><i>system</i></NS><NS type="MP"><c>,</c></NS> which is connected to the whole world's computers by <NS type="UQ"><i>some</i></NS> telephone <NS type="S"><i>liens</i><c>lines</c></NS>. You can send a letter to your friend by <NS type="UD"><i>an</i></NS> e-mail <NS type="R"><i>but not</i><c>instead of</c></NS> <NS type="IV"><i>writting</i><c>writing</c></NS> it on a piece of paper and <NS type="FV"><i>send</i><c>sending</c></NS> it by post. It just takes you a few minutes. How <NS type="DJ"><i>convenience</i><c>convenient</c></NS> it is! There are also <NS type="CQ"><i>much</i><c>many</c></NS> more advantages<NS type="RP"><i>, you</i><c>. You</c></NS> can buy <NS type="S"><i>somethings</i><c>something</c></NS> in a supermarket <NS type="R">by only a mail order</NS><NS type="RP"><i>, you</i><c>. You</c></NS> don't need to <NS type="RV"><i>go out of</i><c>leave</c></NS> your home.</p>
+          <p>Other than the <NS type="RP"><i>internet</i><c>Internet</c></NS> <NS type="UN"><i>system</i></NS>, there is also <NS type="AGQ"><i>many</i><c>a lot of</c></NS> modern technology which is changing our daily life. For example, we can go to <NS type="UD"><i>the</i></NS> Mars and do some <NS type="RN"><i><NS type="S"><i>invesgation</i><c>investigation</c></NS></i><c>research</c></NS>. So, we know much more about our universe. Some modern technology is also <NS type="R">put into the transport system</NS>. For example, trains can go faster and aeroplanes can travel faster.</p>
+          <p><NS type="UD"><i>The modern</i><c>Modern</c></NS> technology has changed our daily life. It aims <NS type="UT"><i>at</i></NS> <NS type="FV"><i>improving</i><c>to improve</c></NS> our standard of life and <NS type="RV"><i>makes</i><c>allows</c></NS> us <NS type="FV"><i>live</i><c>to live</c></NS> more comfortably. So I think the changes are good.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

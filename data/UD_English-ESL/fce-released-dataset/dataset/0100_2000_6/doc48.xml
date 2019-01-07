@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR197*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear<NS type="UP"><i>,</i></NS> Helen Ryan</p>
+          <p>Thank you very much for the prize <NS type="RT"><i>at</i><c>from</c></NS> camp California in America.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> the time that I would like to travel<NS type="MP"><c>,</c></NS> <NS type="MA"><c>it</c></NS> must be <NS type="RT"><i>on</i><c>in</c></NS> July only. This is because my <NS type="FN"><i>A-levels</i><c>A-level</c></NS> exams <NS type="AGV"><i>is</i><c>are</c></NS> coming up so I really need <NS type="FN"><i>times</i><c>time</c></NS> to revise, and July is the only <NS type="CL"><i>month and time</i><c>month</c></NS> that I am free.</p>
+          <p><NS type="R"><i>An</i><c>As to</c></NS> accommodation, I <NS type="MV"><c>would</c></NS> prefer to stay in a tent. This is because it is my first <NS type="RN"><i>time</i><c>chance</c></NS> to see <NS type="RD"><i>an</i><c>the</c></NS> outside world by myself so I need to gather up new experiences. I have never ever stayed in a tent before but some of the people I know said that it is fun and much more <NS type="SX"><i>exiting</i><c>exciting</c></NS>.</p>
+          <p>As I am a person who <NS type="RV"><i>is love</i><c>loves</c></NS> <NS type="UC"><i>and</i></NS> doing activities, <NS type="UC"><i>so</i></NS> I would like to choose to do sailing and photography. <NS type="UY"><i>Once</i></NS> I used to take a photography course at my school and my teacher taught me well about taking <NS type="FN"><i>photo</i><c>photos</c></NS>. Also I <NS type="TV"><i>tried</i><c>have tried</c></NS> <NS type="UY"><i>how</i></NS> to sail before, but I am not <NS type="RY">perfectly</NS> good at it, but I <NS type="MV"><c>would</c></NS> love to sail more.</p>
+          <p>Finally, I would like to ask about what kind of clothes <NS type="UV"><i>do</i></NS> I need to bring<NS type="RP"><i>? and</i><c>. And</c></NS> <NS type="R"><i>the</i><c>about</c></NS> money, do I need much of <NS type="AGA"><i>them</i><c>it</c></NS>? Please, give me <NS type="RQ"><i>a</i><c>some</c></NS> <NS type="RN"><i>suggestion</i><c>advice</c></NS> about these <NS type="MN"><c>things</c></NS>.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear<NS type="UP"><i>,</i></NS> Kim</p>
+          <p>How are you? I have written to you to tell you about the greatest experience that I <NS type="TV"><i>ever have</i><c>have ever had</c></NS>.</p>
+          <p>Last week I offered <NS type="UA"><i>myself</i></NS> to help the others at the concert and it was amazing. I couldn't <NS type="FV"><i>believed</i><c>believe</c></NS> how close I was to the band. There were so many youngsters at the concert, but because I was the youngest in <NS type="RD"><i>a</i><c>the</c></NS> <NS type="RN">helping</NS> team <NS type="UC"><i>so</i></NS> I guess that I was the luckiest at that moment.</p>
+          <p><NS type="RD"><i>A</i><c>The</c></NS> concert <NS type="RV"><i>did</i><c>went</c></NS> very well and I enjoyed it so much. Later on the band took a break for ten or fifteen minutes, so I served them with glasses of fizzy drink and chocolate bars, biscuits and sandwiches. You will not believe how close I was to the singers.</p>
+          <p>After <NS type="RD"><i>a</i><c>the</c></NS> break, the <NS type="RN"><i>bank</i><c>band</c></NS> <NS type="TV"><i>have</i><c>had</c></NS> to <NS type="FV"><i>carried</i><c>carry</c></NS> on <NS type="MT"><c>with</c></NS> the concert for another <NS type="UQ"><i>one</i></NS> hour and a half. People <NS type="U"><i>at the</i></NS> backstage<NS type="MP"><c>,</c></NS> including me<NS type="MP"><c>,</c></NS> were helping to clean up all the stuff and <NS type="M"></NS> ready for the end of the concert.</p>
+          <p><NS type="U"><i>The time has come, when</i><c>When</c></NS> the band finished the concert, we <NS type="TV"><i>have</i><c>had</c></NS> to <NS type="FV"><i>served</i><c>serve</c></NS> them drinks again and <NS type="FV"><i>helped</i><c>help</c></NS> to <NS type="RV"><i>clear up</i><c>clean</c></NS> the stage. Afterwards, I <NS type="TV"><i>have</i><c>had</c></NS> a chance to <NS type="TV"><i>took photos</i><c>have photos taken</c></NS> with them and <NS type="RV"><i>have</i><c>get</c></NS> their autographs etc.</p>
+          <p>It was <NS type="RD"><i>the</i><c>an</c></NS> enjoyable time in my life and <NS type="MA"><c>I</c></NS> wished that you were there with me. <NS type="RT"><i>From</i><c>Through</c></NS> this letter, I am sure that you <NS type="RV"><i>should</i><c>will</c></NS> be able to share this experience with me.</p>
+          <p>Lots of Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

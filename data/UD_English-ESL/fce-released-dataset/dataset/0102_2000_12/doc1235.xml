@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR510*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Clark,</p>
+          <p>I am writing with reference to the international arts festival that you organise every year. I would like to express my opinion about it and give you some suggestions that may prove to be useful.</p>
+          <p>First of all, from my point of view the festival itself is a wonderful idea. That also <NS type="RV"><i>refers</i><c>goes</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> the weekend ticket you offer; in addition to being rather cheap, it allowed me to see so many interesting events in such a short time.</p>
+          <p>On the other hand, I would like to <NS type="RV"><i>notice</i><c>point out</c></NS> that the festival <NS type="RV"><i>would</i><c>could</c></NS> <NS type="UV"><i>be able to</i></NS> appeal to more people if a few improvements were made. Firstly, you had said in your advertisement that artists from around the world would perform. Actually, they came from only six countries. What is more, some concert halls were too small. As a result, it was impossible for <NS type="S"><i>al</i><c>all</c></NS> the audience to fit in there.</p>
+          <p>Finally, I suggest you <NS type="UV"><i>should</i></NS> think about giving the audience the opportunity to see more plays and films.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kathy,</p>
+          <p>I'm really happy to hear from you again. I'm sorry for not writing earlier. Unfortunately, I'm quite busy so don't worry if <NS type="R"><i>I happen to delay <NS type="MD"><c>my</c></NS> answer</i><c>I'm late replying</c></NS> to some of your letters.</p>
+          <p>In your last letter<NS type="MP"><c>,</c></NS> you wondered what the rules of behaviour at school and at home are like in my country, so I'm going to give you some information.</p>
+          <p>In Poland<NS type="MP"><c>,</c></NS> rules that refer to the <NS type="FN"><i>ways</i><c>way</c></NS> <NS type="R"><i>of being dressed</i><c>we dress</c></NS> at school aren't very strict; we don't wear any uniforms, but our clothes have to be clean and nice to look at. We can neither eat nor drink during <NS type="UD"><i>the</i></NS> lessons. We are supposed not to be late for <NS type="UD"><i>the</i></NS> lessons and, of course, students mustn't smoke at school.</p>
+          <p>At home<NS type="MP"><c>,</c></NS> young people should help their parents do some <NS type="CN"><i>houseworks</i><c>housework</c></NS>. Generally, we are supposed to treat our parents (as well as the teachers at school) with respect and not to argue with our brothers and sisters.</p>
+          <p>What I'd like to change at school is that the breaks are too short! Give my regards to your family,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

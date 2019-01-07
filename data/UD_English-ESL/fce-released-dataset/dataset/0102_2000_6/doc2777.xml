@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1129*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam:</p>
+          <p>I'm writing this letter to complain about some aspects of the musical show "Over the rainbow"<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> was <NS type="RV"><i>held</i><c>played</c></NS> in your theatre. It was a very disappointing evening so I ask for my money back.</p>
+          <p>The first problem we had was that the discounts announced in the advertisement were not available and we had to pay the full <NS type="RN"><i>ticket</i><c>price</c></NS>.</p>
+          <p>Another problem was that the show started 45 minutes late and I had a surprise when I saw that the main character was not played by Danny Brook, who is one of my favourite actors.</p>
+          <p>Finally I want to complain about the theatre restaurant. We read that we could visit it after the show but it was closed because the waiters were on strike.</p>
+          <p>I think that all these problems could have been avoided and that asking <NS type="MT"><c>for</c></NS> my money back is the best way of forgetting that evening.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Fashion news <NS type="AGV"><i>are</i><c>is</c></NS> followed by lots of people.</p>
+          <p>We want to know what we will have to wear next year but we want to know it now. But have you thought about what kind of clothes we will wear 100 years from now?</p>
+          <p>People have always looked for the most comfortable clothes for <NS type="DD"><i>they</i><c>their</c></NS> daily <NS type="AGN"><i>life</i><c>lives</c></NS>. I think that this <NS type="S"><i>tendence</i><c>tendency</c></NS> will not change but what will change is life. We tend to <NS type="MV"><c>be</c></NS> a society that wants more free time so people will need more comfortable clothes to enjoy it.</p>
+          <p>Another important thing will be the use of technology. Scientists are looking for new materials that will <NS type="FV"><i>made</i><c>make</c></NS> our clothes more comfortable <NS type="MC"><c>and</c></NS> stronger. Clothes will have a strong relation to the new technologies<NS type="MP"><c>,</c></NS> and modern devices will be included in our <NS type="RJ"><i>daily</i><c>everyday</c></NS> clothes.</p>
+          <p>Fashion reflects the way we live so we can expect that fashion will be connected <NS type="RT"><i>with</i><c>to</c></NS> technology and society.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

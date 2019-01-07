@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR323*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>21.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I was interested in an advertisement for the London Fashion and Leisure Show and I would really love to go to the show.</p>
+          <p>I am writing to <NS type="RV"><i><NS type="S"><i>appriciate</i><c>appreciate</c></NS></i><c>express my appreciation</c></NS> for the good programme. It was so kind of you to have organised the programme. I would enjoy <NS type="FV"><i>to see</i><c>seeing</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> show, especially a fashion show. I am keen on wearing and drawing some clothes. This show starts on Tuesday in <NS type="MD"><c>the</c></NS> Central Exhibition of London from 10:00 AM to 7:00 PM. <NS type="RY">Especially</NS>, <NS type="R"><i>students are free</i><c>entry is free for students</c></NS>! It will be <NS type="MD"><c>a</c></NS> great opportunity for me. I feel that it is such a nice experience and <NS type="RJ"><i>worthy</i><c>worthwhile</c></NS>.</p>
+          <p>I would like to suggest <NS type="MD"><c>an</c></NS> idea and change <NS type="MD"><c>the</c></NS> sightseeing by bus on Monday, because the English weather is so changeable. If it rains, we will not be <NS type="RJ"><i>pleasant</i><c>pleased</c></NS>. Some of <NS type="MD"><c>my</c></NS> friends would like to go to the British Museum and I have not been there before.</p>
+          <p>Thank you again and I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear friend</p>
+          <p>How are you? I'm fine. Thank you a lot for your letter and I hope you and your family are well.</p>
+          <p>It's a good idea to give a book for your cousin's birthday present.</p>
+          <p>I would like to recommend 'The Old Man and The Sea' because <NS type="TV"><i>I've read</i><c>I read</c></NS> it when I was teenager. It was such a wonderful story that I remember the old man speaking about human's life between the sea and the man. It may make him think of his future and this book could be very suitable for him.</p>
+          <p>Let me know if he likes it or not and I hope we'll be able to get together before too long.</p>
+          <p>I'm looking forward to hearing from you</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

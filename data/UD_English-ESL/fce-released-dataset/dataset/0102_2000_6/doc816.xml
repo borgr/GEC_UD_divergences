@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR324*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about your musical show "Over the Rainbow". Last week I was on holiday <NS type="RT"><i>at</i><c>in</c></NS> London and I was very <NS type="S"><i>dissappointed</i><c>disappointed</c></NS> when I visited your theatre.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> the show was supposed to start at 19.30, but it was delayed <NS type="S"><i>untill</i><c>until</c></NS> 20.15, and when the show finally began we were <NS type="S"><i>supriced</i><c>surprised</c></NS> to see that Danny Brook<NS type="MP"><c>,</c></NS> who was the star of the show, was not playing and someone else had <NS type="TV"><i>replace</i><c>replaced</c></NS> him and he was really disappointing.</p>
+          <p>Moreover, the advertisement says that discounts will be available <NS type="RT"><i>with</i><c>on</c></NS> the price of the ticket, but when I asked for one they told me that there <NS type="AGV"><i>was not</i><c>weren't</c></NS> any.</p>
+          <p>Last but not least, the advertisement says to visit your restaurant after the show, but when we went to the restaurant we <NS type="RV"><i>realised</i><c>discovered</c></NS> that it was closed because the cook was ill.</p>
+          <p>The advertisement says that it is going to be your perfect evening out, but it was not. <NS type="RP"><i>it</i><c>It</c></NS> was a complete waste of time and money. That is why I would like to request <NS type="MD"><c>a</c></NS> full refund of my money.</p>
+          <p>Yours faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, but she was her best friend and she had to trust her. Anna told her again: "Pat don't tell <NS type="UA"><i>it</i></NS> <NS type="UT"><i>to</i></NS> anyone please, especially <NS type="UT"><i>to</i></NS> my brother<NS type="MP"><c>,</c></NS> everything <NS type="TV"><i>will be ruin</i><c>would be ruined</c></NS> then". <NS type="RP"><i>and</i><c>And</c></NS> Pat answered: "Don't <NS type="S"><i>wory</i><c>worry</c></NS> I won't tell anyone".</p>
+          <p>The big secret was that Anna was <NS type="S"><i>prearing</i><c>preparing</c></NS> a <NS type="S"><i>suprice</i><c>surprise</c></NS> party for her brother<NS type="UP"><i>,</i></NS> John and she didn't want anyone to know about it. She had told <NS type="UA"><i>it</i></NS> <NS type="UT"><i>to</i></NS> Pat though and that was extremely dangerous! Anna couldn't do anything though because she needed her help to give <NS type="MY"><c>out</c></NS> the invitations. The party was set <NS type="UY"><i>up</i></NS> to be in two days.</p>
+          <p>The two days passed really fast and Anna was happy because Pat hadn't told <NS type="W"><i>anything <NS type="UT"><i>to</i></NS> her brother</i><c>her brother anything</c></NS>, or so she thought!</p>
+          <p>Pat went to Anna's and she seemed really unhappy.</p>
+          <p>- "Anna I have a confession to make"<NS type="MP"><c>,</c></NS> Pat <NS type="RV"><i>told</i><c>said</c></NS> <NS type="MT"><c>to</c></NS> her and she started crying<NS type="MP"><c>.</c></NS></p>
+          <p>- "What is it Pat?" Anna asked and she started to worry.</p>
+          <p>- "I've told your brother about the party. I couldn't help it!<NS type="UP"><i>,</i></NS> I'm so sorry!"</p>
+          <p>- "What?" Anna couldn't believe it, she was devastated, she started crying and told Pat "Get out of my house, now!!!" Pat left. Everything <NS type="AGV"><i>were</i><c>was</c></NS> <NS type="RV"><i>destroyed</i><c>ruined</c></NS><NS type="MP"><c>,</c></NS> the party and their friendship.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

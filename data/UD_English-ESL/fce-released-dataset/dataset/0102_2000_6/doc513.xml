@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR210*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Sir Manager,</p>
+          <p>My name is Sandre Atos, I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you because <NS type="UD"><i>this</i></NS> last weekend I went to the theatre<NS type="UP"><i>,</i></NS> you manage, to see what was called "London's newest and best musical show". However, I must say, it was quite the opposite.</p>
+          <p>First of all, Danny Brook, an excellent actor, who (according to the play advertisement) was supposed to perform, was replaced <NS type="RT"><i>for</i><c>by</c></NS> a disappointing actor. Besides <NS type="MA"><c>that</c></NS> the spectacle was <NS type="RV"><i><NS type="IV"><i>setted up</i><c>set up</c></NS></i><c>meant</c></NS> to <NS type="MV"><c>start</c></NS> <NS type="MT"><c>at</c></NS> 19:30, but ended up starting at 20:15. In addition to all this, the promised discounts <NS type="RT"><i>in</i><c>on</c></NS> the tickets <NS type="AGV"><i>was</i><c>were</c></NS> not offered. Finally, after the play the theatre restaurant was still closed. Sir, I couldn't believe <NS type="UY"><i>in</i></NS> <NS type="RA"><i>that</i><c>it</c></NS>, everything that was in the advertisement was a <NS type="RN"><i>fraud</i><c>lie</c></NS>.</p>
+          <p>I was told that I would have a perfect evening, though instead of that I had a terrible one. That's why I am <NS type="IV"><i>writting</i><c>writing</c></NS> to ask for some money back<NS type="RP"><i>,</i><c>;</c></NS> I believe I have this right.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Some people glorify technology as if it was the best thing <NS type="MC"><c>that</c></NS> <NS type="RV"><i>could</i><c>has</c></NS> ever happened in their lives. However, since I was a child I have noticed that<NS type="MP"><c>,</c></NS> except for the medical facilities and achievements, it has brought <NS type="UT"><i>to</i></NS> me more disadvantages than advantages. I still remember the day <NS type="MD"><c>the</c></NS> television came to my house<NS type="RP"><i>,</i><c>.</c></NS> I was only seven, everybody was <NS type="RJ"><i>exciting</i><c>excited</c></NS> about the new "toy", however<NS type="MP"><c>,</c></NS> what seemed to be only one more way to get together, turned <NS type="MY"><c>out</c></NS> to rule our lives. <NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS> my parents did not realize how TV was <NS type="R">creating a role</NS> among us. Before TV, we used to spend our nights<NS type="UP"><i>,</i></NS> playing cards, telling jokes, talking to each other. Nowadays, I barely know my parents, but I do know exactly what is happening in the soap operas. On the other hand, due to <NS type="DJ"><i>science</i><c>scientific</c></NS> <NS type="AGN"><i>development</i><c>developments</c></NS>, I am getting better, recovering from <NS type="S"><i>ahsma</i><c>asthma</c></NS>. In addition to this it is wonderful not <NS type="FV"><i>have</i><c>to have</c></NS> to wait too long to eat, thanks <NS type="RT"><i>for</i><c>to</c></NS> the <NS type="W"><i>microwaves invention</i><c>invention of microwaves</c></NS>. Despite all these advantages, I deeply miss the times I had almost no technological <NS type="RN"><i>facilities</i><c>devices</c></NS>, but a very happy and united family.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

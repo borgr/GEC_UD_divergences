@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR637*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I <NS type="TV"><i>have visited</i><c>visited</c></NS> your <NS type="SA"><i>theater</i><c>theatre</c></NS> and I was very <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> <NS type="R"><i>because of</i><c>for</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> number of reasons.</p>
+          <p>I've read your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> and <NS type="R"><i>in</i><c>the</c></NS> reality <NS type="W"><i>to what was written there was different</i><c>was different to what was written there</c></NS>.</p>
+          <p>There was no Danny Brook but instead of him <NS type="MY"><c>there</c></NS> was a different actor and I'm very <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> about <NS type="RA"><i>it</i><c>that</c></NS> because I'm <NS type="W"><i>his fan</i><c>a fan of his</c></NS>. The show started much later, <NS type="UT"><i>on</i></NS> 45 minutes later than it should <NS type="RV"><i>be</i><c>have</c></NS> so I was late for the bus. There were no discounts <NS type="S"><i>availible</i><c>available</c></NS> so I <NS type="IV"><i>overspended</i><c>overspent</c></NS> <NS type="UN"><i>the money</i></NS>. The <NS type="SA"><i>theater</i><c>theatre</c></NS> restaurant was closed for no reason <NS type="RJ"><i><NS type="S"><i>availble</i><c>available</c></NS></i><c>apparent</c></NS> to me.</p>
+          <p>It was a <NS type="DY"><i>realy</i><c>really</c></NS> bad evening and because of <NS type="RA"><i>it</i><c>that</c></NS> could you possibly give <NS type="MA"><c>me</c></NS> my money back? Because it was just a waste of money <NS type="FV"><i>to go</i><c>going</c></NS> to your show.</p>
+          <p>Yours Faithfully</p>
+          <p>Vaisili Solatov</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. But when I came to this school a few months ago I didn't know this. We are in the same maths set so I met him rather soon. He was one of the first people who I <NS type="TV"><i>get</i><c>got</c></NS> <NS type="FV"><i>know</i><c>to know</c></NS>. After a few days he was already my best friend. Everything was going perfectly <NS type="S"><i>befor</i><c>before</c></NS> last month when I met a girl from the other school. Her name was Marine. I saw her as a perfect girl with <NS type="FA"><i>who</i><c>whom</c></NS> I <NS type="TV"><i>fallen</i><c>had fallen</c></NS> in love <NS type="UT"><i>with</i></NS>. So one day she <NS type="RV"><i>offered</i><c>invited</c></NS> <NS type="UT"><i>to</i></NS> me to come to her house at night and to do so I had to run away from our boarding house and that was <NS type="S"><i>illigal</i><c>illegal</c></NS>. I had decided to go. So I woke up at 2 o'clock in the morning and <NS type="S"><i>climed</i><c>climbed</c></NS> out of the window. Unfortunately for me Pat at the time <NS type="TV"><i>went</i><c>was going</c></NS> to <NS type="MD"><c>the</c></NS> toilet and saw me. So I asked him to keep it <NS type="R"><i>in</i><c>a</c></NS> secret. I came back at 6 o'clock in the morning and went to sleep again. Next day my best friend went to <NS type="MD"><c>the</c></NS> headmaster and told him about me so he <NS type="RV"><i>gave</i><c>put</c></NS> me <NS type="R"><i>a</i><c>on</c></NS> <NS type="S"><i>sespend</i><c>suspension</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

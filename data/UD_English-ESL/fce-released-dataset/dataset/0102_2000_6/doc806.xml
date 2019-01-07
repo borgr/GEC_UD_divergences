@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR320*0102*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam, With reference to your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> regarding the musical show "Over the rainbow" I am writing to <NS type="MA"><c>you</c></NS> with the intention <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to give</i><c>giving</c></NS> you an impression of our experiences <NS type="RV"><i>visiting</i><c>attending</c></NS> the <NS type="MP"><i>above mentioned</i><c>above-mentioned</c></NS> show. We were disappointed to realize that not Danny Brook but a different actor played one of the main characters. Honestly it was a less impressive performance than we had expected. According to your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> the play should have started at 19:30. Unfortunately there was an unexplained delay of 45 minutes. The audience had to sit and wait until 20:15. What made the situation worse is that no explanation for the delay was given; not even an <NS type="DN"><i>apologation</i><c>apology</c></NS>. We had been told that discounts <NS type="RT"><i>to</i><c>on</c></NS> the <NS type="UP"><i>ticket-prices</i><c>ticket prices</c></NS> were <NS type="RJ"><i>possible</i><c>available</c></NS> but <NS type="RT"><i>at</i><c>on</c></NS> the evening of the show no discounts or special offers whatsoever were offered. After the show we had intended to visit your theatre restaurant<NS type="MP"><c>,</c></NS> which was - to our surprise - closed because of the <NS type="UN"><i>time</i></NS> delay! So we had to leave hungry and with a certain feeling of frustration and disappointment. Honestly for us it was not that "perfect evening out". We would like to ask you if there is any chance <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to get</i><c>getting</c></NS> our money back <NS type="UT"><i>of</i></NS> or if you can offer any other alternative <NS type="R">for our convenience</NS>? We are looking forward to hearing from you. Yours faithfully M. S.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>"The old man and the Sea"</p>
+          <p>Dear Tim,</p>
+          <p>I'm writing to you regarding the radio programme next Saturday where "The old man and the Sea" by Earnest Hemingway will be read. I recommend you listen to it! As you know we have already had several discussions about literature and what it can tell or teach us. I suppose you still wonder what the great authors can do for us? Therefore Hemingway is a very good example. He fought in the Spanish Civil war and in World War II <NS type="MV"><c>was</c></NS> always <NS type="ID"><i>on the search for</i><c>in search of</c></NS> answers to questions like "... what defines a man", or "... what happens to us in critical situations". These experiences influenced him so deeply that he described his feelings in several books. One of the most interesting ones is "The old man and the Sea". A story of an old seaman leaving his town to <NS type="S"><i>proove</i><c>prove</c></NS> that he is still able to catch the biggest fish ever caught. The story describes his feelings, thoughts, fears and emotions during a struggle with a giant deep-sea fish. In the end he wins but before he is able to get back he has to "sacrifice" his fish to attacking sharks. So did he finally win or loose? An interesting story - demanding in a way - which can give you an impression of Hemingway's work and what he meant by "pace under pressure".</p>
+          <p>I hope you will enjoy it! Please let me know!</p>
+          <p>I'm looking forward to hearing from you.</p>
+          <p>Kind regards</p>
+          <p>M. S.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

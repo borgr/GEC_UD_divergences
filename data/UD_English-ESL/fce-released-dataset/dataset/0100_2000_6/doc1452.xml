@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR562*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Helen Ryan</p>
+          <p>I am very happy to <NS type="SX"><i>here</i><c>hear</c></NS> from you that I have won first prize in your competition - <NS type="S"><i>twe</i><c>two</c></NS> weeks at Camp California in the U.S.A. and I am writing <NS type="UT"><i>for</i></NS> <NS type="W"><i>my information to tell you</i><c>to tell you my information</c></NS>.</p>
+          <p>Firstly, I will be able to travel only in July because I go to <NS type="S"><i>univercity</i><c>university</c></NS> and I <NS type="DY"><i>normaly</i><c>normally</c></NS> spend <NS type="UD"><i>the</i></NS> most of <NS type="MD"><c>the</c></NS> time <NS type="UT"><i>for</i></NS> <NS type="FV"><i>work</i><c>working</c></NS>. <NS type="R">to do.</NS> and I have holiday only in July.</p>
+          <p>Secondly, <NS type="UA"><i>It</i></NS> <NS type="UV"><i>is</i></NS> accommodation. I prefer <NS type="UT"><i>in</i></NS> tents. When I go <NS type="FV"><i>to camp</i><c>camping</c></NS>, I stay in <NS type="UD"><i>a</i></NS> log cabins all the time so I would like to try <NS type="MD"><c>a</c></NS> different way to <NS type="RV"><i>stay</i><c>camp</c></NS>, this time.</p>
+          <p>And I choose <NS type="S"><i>phtograghy</i><c>photography</c></NS> and tennis from the activities list. I am taking <NS type="S"><i>photograghy</i><c>photography</c></NS> <NS type="RN"><i>courses</i><c>lessons</c></NS> at <NS type="S"><i>univercity</i><c>university</c></NS> and I started tennis<NS type="UP"><i>,</i></NS> when I was 10 so I am good at <NS type="S"><i>bouth</i><c>both</c></NS> of them.</p>
+          <p><NS type="DY"><i>Endly</i><c>Finally</c></NS>, I have questions about clothes and money.</p>
+          <p>How much money should I take and should I take only casual clothes and trainers?</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim.</p>
+          <p>Thank you for your lovely letter and I hope you are well.</p>
+          <p>The other day, I worked at a pop concert to help. It was really <NS type="MY"><c>more</c></NS> interesting than I expected. My job <NS type="UT"><i>at</i></NS> behind the stage was helping <NS type="MT"><c>with</c></NS> make-up, <NS type="RN"><i>hare</i><c>hair</c></NS> and clothes <NS type="DN">staylist</NS>. It was very hard. The singers often changed <NS type="DD"><i>them</i><c>their</c></NS> clothes and <NS type="DD"><i>them</i><c>their</c></NS> make-up was <NS type="R">easy to be off</NS> because of the sweat. It was different from <NS type="MY"><c>when</c></NS> I did <NS type="MA"><c>it</c></NS> at college. There was no time to rest. But I met a lot of famous <NS type="AGN"><i>singer</i><c>singers</c></NS> and spoke to them. <NS type="W"><i>In front of the stage <NS type="AGV"><i>was</i><c>were</c></NS> so many people</i><c>So many people were in front of the stage</c></NS> and they couldn't see them very well, but I was <NS type="UT"><i>at</i></NS> very near <NS type="RT"><i>from</i><c>to</c></NS> the stage and I could see them just there.</p>
+          <p>You like pop music, don't you? So, don't go to a concert! Work at a concert! That's much more exciting.</p>
+          <p>Anyway, shall we meet sometime? We haven't <NS type="RV"><i>met</i><c>seen</c></NS> each other <NS type="MT"><c>for</c></NS> so long time and I'll tell you more <NS type="AGN"><i>story</i><c>stories</c></NS> <NS type="RT"><i>of</i><c>about</c></NS> this.</p>
+          <p>Write soon,</p>
+          <p>Bye Bye.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

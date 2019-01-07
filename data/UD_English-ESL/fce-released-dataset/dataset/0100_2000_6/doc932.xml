@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR382*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Hello,</p>
+          <p>I'm so glad I won this prize, but I have some questions for you, and of course, the <NS type="RN"><i>answers</i><c>information</c></NS> you asked me <NS type="MT"><c>for</c></NS>.</p>
+          <p>Well, <NS type="RY"><i>at first</i><c>first</c></NS>, I would like to travel only in July, because it's my <NS type="FN"><i>holidays</i><c>holiday</c></NS> here in Portugal. And if it's possible I would like to go after <NS type="R"><i>day</i><c>the</c></NS> 10th, because I've got some things to do.</p>
+          <p>And for me, I think <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> would be better<NS type="RP"><i>,</i><c>.</c></NS> I don't know why but<NS type="UP"><i>,</i></NS> I feel more comfortable. I think it's because the last time I travelled (with my friends), we stayed <NS type="RT"><i>at</i><c>in</c></NS> log cabins, and when I was sleeping <NS type="MA"><c>I</c></NS> felt <NS type="RP"><i>some thing</i><c>something</c></NS> moving <NS type="RT"><i>in</i><c>on</c></NS> my skin, then I <NS type="RV"><i>work</i><c>woke</c></NS> up frightened and when I <NS type="IV"><i>openned</i><c>opened</c></NS> my eyes, I saw lots of big ants! After that day, I've never stayed <NS type="RT"><i>at</i><c>in</c></NS> a log cabin. Yeah, I think that's why!</p>
+          <p>About activities, I enjoy <NS type="W"><i>most painting</i><c>painting most</c></NS>, because I <NS type="TV"><i>am</i><c>have been</c></NS> a <NS type="RN">plastic artist</NS> since I was nine and I've won lots of prizes with my art. And the other activity is singing. Everybody says I have an excellent voice<NS type="RP"><i>,</i><c>.</c></NS> I like to sing when I <NS type="TV"><i>painting</i><c>am painting</c></NS> too<NS type="RP"><i>, it's</i><c>.  It's</c></NS> so relaxing. Is that enough?</p>
+          <p>I would like to ask what kind of <NS type="IN"><i>clothe</i><c>clothes</c></NS> I <NS type="R"><i>probably will</i><c>should</c></NS> <NS type="RV"><i>use</i><c>wear</c></NS> there? And how much <NS type="DN"><i>clothe</i><c>clothing</c></NS>? A lot, or <NS type="MD"><c>a</c></NS> <NS type="RQ"><i>few</i><c>little</c></NS>? And what about money? Will I spend much? If you could tell me about this, I'll be glad!</p>
+          <p><NS type="S"><i>Greatefully</i><c>Gratefully</c></NS></p>
+          <p>Teresa J. Pereira</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Tina,</p>
+          <p>You won't believe what I'm going to tell you! Remember when I told you I helped someone important? Well, listen to this.</p>
+          <p>I was walking down the main street looking for a gift shop<NS type="UP"><i>.</i></NS> (I had to buy something for a friend, it was his birthday)<NS type="MP"><c>,</c></NS> when I found a beautiful store<NS type="RP"><i>,</i><c>.</c></NS> I stopped in front of it and <NS type="TV"><i>start</i><c>started</c></NS> looking at the window <NS type="MN"><c>display</c></NS> (outside), then I thought <NS type="M"><c>it was</c></NS> interesting and <NS type="RV"><i>came</i><c>went</c></NS> in. Suddenly, I saw a man with a cap covering his face. I tried to look again to see him better, because he seemed to be very handsome. And then he said<NS type="RP"><i> "if</i><c>, "If</c></NS> you promise me you won't <NS type="RV"><i>get</i><c>go</c></NS> out of this store shouting and screaming and telling everyone that I'm here, I <NS type="TV"><i>take</i><c>will take</c></NS> this cap off of my face<NS type="RP"><i>".</i><c>."</c></NS> I didn't know what to do<NS type="RP"><i>,</i><c>.</c></NS> I was sure he was a Robber, or even a <NS type="S"><i>murther</i><c>murderer</c></NS>! Then I said<NS type="MP"><c>,</c></NS> "OK, I promise!" (frightened, of course). Carefully, he took off the cap. Tina, guess WHO <NS type="W"><i>was he</i><c>he was</c></NS>? Ricky Martin!! Can you believe it! And there's more! He asked me if I could help at his concert here in São Rafael. Because the store manager told him that I was the best hairdresser in the city! And his hairdresser was sick, so he and his producers were looking for one. Isn't that amazing? I met all the staff, and Ricky took lots of <NS type="S"><i>fotographs</i><c>photographs</c></NS> with me and gave me an <NS type="DJ"><i>autographied</i><c>autographed</c></NS> Record. Tina, I'm the luckiest girl in the world, don't you think? I'll send you some photos.</p>
+          <p>Love,</p>
+          <p>Teresa.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

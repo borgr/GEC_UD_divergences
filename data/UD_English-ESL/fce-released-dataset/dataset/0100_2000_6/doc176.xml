@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR694*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan</p>
+          <p>Yesterday, I received your letter. It made me happy and I would like to <NS type="SX"><i>than</i><c>thank</c></NS> you for the opportunity you <NS type="TV"><i>offer</i><c>are offering</c></NS> me<NS type="MP"><c>.</c></NS></p>
+          <p>First of all I would like to travel in July. I think that this is the <NS type="IJ"><i>most ideal</i><c>ideal</c></NS> month for a trip to California. <NS type="MT"><i>This</i><c>During this</c></NS> period the days are sunny and the weather won't prevent me from doing a lot of activities. <NS type="L"><i>About</i><c>Regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would prefer to stay in a cabin. I think that the <NS type="S"><i>combins</i><c>cabins</c></NS> are safer than the tents and they can protect you better in case the weather changes. The two activities I have chosen <NS type="AGV"><i>is</i><c>are</c></NS> swimming and climbing. I selected swimming because this is one of my hobbies and I'm good enough <NS type="S"><i>t</i><c>at</c></NS> this <NS type="RN"><i>sector</i><c>activity</c></NS>. In addition I would like to swim in a sea like California's because it is clean and beautiful. I chose climbing because I'm <NS type="S"><i>intrested</i><c>interested</c></NS> in this sport <NS type="RC"><i>even if</i><c>even though</c></NS> I'm not experienced. I like it because it offers you a lot of adventure and action.</p>
+          <p>As a conclusion I would like to ask you about the money and the <NS type="RN"><i>cloths</i><c>clothes</c></NS> I must take with <NS type="MA"><c>me</c></NS>. Please drop me a line</p>
+          <p>Yours <NS type="S"><i>sincierly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>Yesterday I received your letter and it made me happy that you and your family are healthy.</p>
+          <p>As you asked me I will write <NS type="MT"><c>to</c></NS> you about the experience I had helping at the pop concert. All the children helped as much as they could and that's why the result was beautiful <NS type="UY"><i>enough</i></NS>. Before the concert I helped <NS type="RT"><i>in</i><c>with</c></NS> <NS type="S"><i>carring</i><c>carrying</c></NS> and putting in order some chairs on which <NS type="W"><i>would sit some special <NS type="L"><i>persons</i><c>people</c></NS></i><c>some special people would sit</c></NS>. It was very hard and at the end I was very tired. At the concert, what I had to do was to give out refreshments and <NS type="RN"><i><NS type="CN"><i>drinkings</i><c>drinking</c></NS></i><c>drinks</c></NS> to the audience. I also helped to clear up the place after the concert.</p>
+          <p>It was really a very beautiful experience. It offered me more pocket money and besides this I had the chance to make a lot of friends because there were many children who wanted to help too. In addition I had the opportunity to talk to the singers and <NS type="RV"><i>have</i><c>get</c></NS> a lot of <NS type="DN"><i>autogrammes</i><c>autographs</c></NS> by them. I will never forget these days and <NS type="W"><i><NS type="RY"><i>for sure</i><c>definitely</c></NS> I</i><c>I definitely</c></NS> will take part in activities like this in the future.</p>
+          <p><NS type="L">Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></NS> Alexander<NS type="UP"><i>.</i></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

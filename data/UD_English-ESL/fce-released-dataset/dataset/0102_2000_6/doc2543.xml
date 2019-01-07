@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1032*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing this letter to you to <NS type="RV"><i>show</i><c>point out</c></NS> the difference between your advertisement for Over The Rainbow and <NS type="R"><i>the</i><c>what happened in</c></NS> real life.</p>
+          <p>When I saw your advertisement <NS type="RT"><i>on</i><c>in</c></NS> yesterday's newspaper, I thought that I would have a perfect evening as you <NS type="TV"><i>have written</i><c>wrote</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> your advertisement. But now I am thinking that it was a waste of time.</p>
+          <p>I am a fan of Danny Brook and he was one of the reasons why I chose <NS type="FV"><i>seeing</i><c>to see</c></NS> Over The Rainbow, but I didn't even see him on the stage.</p>
+          <p>Moreover it was written <NS type="M"><c>in the advertisement</c></NS> that the musical was between <NS type="RP"><i>14:30-19:30</i><c>14.30 and 18.30</c></NS>. <NS type="S"><i>Suprisingly</i><c>Surprisingly</c></NS> the show started at 20:15. That destroyed all my plans. Then I decided to have <NS type="UD"><i>a</i></NS> dinner at your Theatre Restaurant after the show, but unfortunately it was closed.</p>
+          <p>I think<NS type="UP"><i>,</i></NS> all of these disappointments are too much for one evening. <NS type="ID"><i>After all</i><c>All in all</c></NS> I am sure that you <NS type="TV"><i>understood</i><c>have understood</c></NS> it wasn't my perfect evening out and you will give <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>I am looking forward to hearing your good news<NS type="MP"><c>.</c></NS></p>
+          <p><NS type="MA"><c>Yours</c></NS> <NS type="RP"><NS type="RY"><i>Sincerely</i><c>faithfully</c></NS></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. That was also my fault. I don't know why I <NS type="AS"><i>told this to Pat</i><c>told Pat this</c></NS>. But I thought Pat and I were best friends.</p>
+          <p>Yesterday Larry suggested going to <NS type="MD"><c>the</c></NS> cinema after school. This was the most wonderful suggestion I have ever had. Going to <NS type="MD"><c>the</c></NS> cinema with the boy I love. It sounded really good. Of course I accepted <NS type="S"><i>immidiately</i><c>immediately</c></NS>. I was <NS type="UT"><i>like</i></NS> walking <NS type="RT"><i>on</i><c>in</c></NS> the clouds <NS type="MT"><c>for</c></NS> the whole day until I saw Pat running towards me. I suddenly remembered that I <NS type="TV"><i>promised</i><c>had promised</c></NS> Pat <NS type="R"><i>to</i><c>that I</c></NS> <NS type="TV"><i>help</i><c>would help</c></NS> her with her history homework. She came <NS type="RY"><i>near</i><c>up</c></NS> to me and said "Ready for this evening? Don't forget <NS type="FV"><i>bringing</i><c>to bring</c></NS> your history books." She was very nervous because she was about to fail. I told her that I <NS type="TV"><i>want</i><c>wanted</c></NS> to tell her something. Then I explained what <NS type="TV"><i>has</i><c>had</c></NS> happened that morning. She <NS type="RV"><i>was about to</i><c>was going to</c></NS> cry. "I see. You <NS type="TV"><i>choose</i><c>are choosing</c></NS> Larry, but I thought that I was your best friend." After hearing this, I told her that I am deeply in love with Larry. I told her not to tell <NS type="W"><i>this anyone</i><c>anyone this</c></NS>. She said OK angrily.</p>
+          <p>After school Larry and I went to the cinema, but <NS type="RT"><i>on</i><c>at</c></NS> the <NS type="S"><i>enterance</i><c>entrance</c></NS> there was a beautiful girl waiting for us. Larry told me that she is his girlfriend and then I told them I had to go home. When they asked me the reason I told <NS type="MA"><c>them</c></NS> that I promised my Mom to <NS type="RV"><i>be</i><c>stay in</c></NS> with her. They said OK and I went home. When I closed my <NS type="UP"><i>bedroom's</i><c>bedroom</c></NS> door I burst into tears. I don't know how long I cried...</p>
+          <p>Next morning I went to school again. Everyone at the school <NS type="TV"><i>was knowing</i><c>knew</c></NS> about my love <NS type="RT"><i>to</i><c>for</c></NS> Larry including him. Pat was the only person who <NS type="TV"><i>knew</i><c>had known</c></NS> <NS type="MT"><c>about</c></NS> it.</p>
+          <p>That showed me not to trust anyone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR921*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam:</p>
+          <p>I am writing to complain about the show that I saw the other day <NS type="RT"><i>in</i><c>at</c></NS> your theatre.</p>
+          <p>I am afraid <NS type="RC"><i>but</i><c>that</c></NS> I think that the show was not as good as I expected: the <NS type="AGN"><i>reason</i><c>reasons</c></NS> were many.</p>
+          <p>- Danny brook did not <NS type="RV"><i>play</i><c>appear</c></NS> and I wanted to see him.</p>
+          <p>- the show started at 20:15 and not at 19.30. Please check your times because many people had to leave <NS type="RT"><i>at</i><c>in</c></NS> the middle of the show.</p>
+          <p>- When the musical finished I was <NS type="DY"><i>terrible</i><c>terribly</c></NS> hungry so I decided to have something to eat but the restaurant was closed and the <NS type="S"><i>advertisiment</i><c>advertisement</c></NS> said that it would be open.</p>
+          <p>In conclusion<NS type="MP"><c>,</c></NS> that evening was not "my perfect evening out" so I want you to refund <NS type="R"><i>me the</i><c>my</c></NS> money.</p>
+          <p>I look forward to your reply.</p>
+          <p>Yours Faithfully,</p>
+          <p>Manuel Juan Sargo</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="UD"><i>The modern</i><c>Modern</c></NS> technology has changed my life in many <NS type="S"><i>difents</i><c>different</c></NS> ways: But this "modern technology" has advantages and disadvantages. <NS type="ID"><i>In on hand</i><c>On the one hand</c></NS> we have the advantages<NS type="MP"><c>;</c></NS> <NS type="UD"><i>the</i></NS> new technology <NS type="RV"><i>permits</i><c>allows</c></NS> you <NS type="MV"><c>to do</c></NS> many things like <NS type="FV"><i>fly</i><c>flying</c></NS>, <NS type="FV"><i>see</i><c>seeing</c></NS> in the dark, or <NS type="M"><c>it can</c></NS> even save your life when you are almost dead. But <NS type="ID"><i>in the other hand</i><c>on the other hand</c></NS> we have the disadvantages. <NS type="UD"><i>The technology</i><c>Technology</c></NS> makes your life easier but<NS type="UP"><i>,</i></NS> <NS type="R"><i>until when</i><c>for how long</c></NS>? For example, the car was developed <NS type="RT"><i>by</i><c>through</c></NS> <NS type="UD"><i>the</i></NS> modern technology<NS type="RP"><i>, it</i><c>. It</c></NS> makes your life easier but also <NS type="MY"><c>more</c></NS> "dangerous". Why? Because too many cars <NS type="AGV"><i>mean</i><c>means</c></NS> too much CO2 in the air. And <NS type="R"><i>all people</i><c>everyone</c></NS> <NS type="AGV"><i>know</i><c>knows</c></NS> that CO2 is a very dangerous gas for all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of animals. To summarize, the modern technologies give <NS type="MA"><c>you</c></NS> and <NS type="RV"><i>permit</i><c>allow</c></NS> you <NS type="MV"><c>to do</c></NS> <NS type="R"><i>may</i><c>many</c></NS> things <NS type="S"><i>wich</i><c>which</c></NS> would be impossible in <NS type="R"><i>other times</i><c>the past</c></NS> but also <NS type="RV"><i>gives</i><c>creates</c></NS> <NS type="UA"><i>you</i></NS> many problems.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

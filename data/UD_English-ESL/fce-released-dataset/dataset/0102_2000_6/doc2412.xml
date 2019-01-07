@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR975*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Elise-Lune 48</p>
+          <p>1093 La Conversion</p>
+          <p>17th June 2000</p>
+          <p>The Manager of</p>
+          <p>The Circle Theatre</p>
+          <p>Dear Sir,</p>
+          <p>Last week, I went to London<NS type="MP"><c>,</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> your theatre to see "Over the rainbow" and I had a disappointing evening.</p>
+          <p><NS type="R"><i>There</i><c>The</c></NS> problems were<NS type="RP"><i>; Firstly</i><c>: firstly</c></NS>, the famous actors Danny Brook and Tina Truelove weren't there <NS type="RT"><i>for</i><c>in</c></NS> your <NS type="UJ"><i>musical</i></NS> show, I was unhappy to <NS type="DV">constat</NS> that <NS type="RA"><i>it</i><c>there</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> different actors <NS type="RD"><i>this</i><c>that</c></NS> evening. Secondly, the <NS type="W"><i>show of 19:30</i><c>19:30 show</c></NS> only started at 20:15; <NS type="RP"><i>Thirdly</i><c>thirdly</c></NS>, your advertisement said: "Discounts available"; but it wasn't the case. <NS type="DJ"><i>Fourthly</i><c>Fourth</c></NS>, the restaurant was closed for <NS type="CN"><i>renovations</i><c>renovation</c></NS> and you <NS type="RV"><i>don't</i><c>shouldn't</c></NS> have <NS type="TV"><i>to propose</i><c>proposed</c></NS> <NS type="RA"><i>us</i><c>we</c></NS> <NS type="FV"><i>to go</i><c>go</c></NS>.</p>
+          <p><NS type="RT"><i>Like</i><c>As</c></NS> you can see, I'm very disappointed <NS type="RT"><i>for</i><c>about</c></NS> this evening out and I think it was a waste of time and money. That's why I ask you to give <NS type="MA"><c>me</c></NS> my money back. I ask you <NS type="FV"><i>give</i><c>to give</c></NS> me £20, back by <NS type="SA"><i>check</i><c>cheque</c></NS>.</p>
+          <p>I'm looking forward to hearing from you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p><NS type="UD"><i>The technology</i><c>Technology</c></NS> is the future, and the present. For instance, <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. <NS type="W"><i><NS type="RJ"><i>All</i><c>Whole</c></NS> the</i><c>The whole</c></NS> world is now connected <NS type="RT"><i>on</i><c>by</c></NS> it. <NS type="MD"><c>The</c></NS> Internet is the "new" revolution of <NS type="UD"><i>the</i></NS> <NS type="FN"><i>communication</i><c>communications</c></NS> and knowledge. <NS type="AS"><i>It is now ten years that <NS type="MD"><c>the</c></NS> Internet exists</i><c>The Internet has existed for ten years now</c></NS>, but we only <NS type="MV"><c>used to</c></NS> <NS type="FV"><i>used</i><c>use</c></NS> it for army and government <NS type="MN"><c>purposes</c></NS>. Now, everybody who <NS type="AGN"><i>work</i><c>works</c></NS> in <NS type="MD"><c>a</c></NS> commercial <NS type="AGN"><i>companies</i><c>company</c></NS> <NS type="AGV"><i>use</i><c>uses</c></NS> <NS type="W"><i>every day <NS type="MD"><c>the</c></NS> Internet</i><c>the Internet every day</c></NS>.</p>
+          <p><NS type="UD"><i>The technology</i><c>Technology</c></NS> <NS type="W"><i>means <NS type="RY"><i>too</i><c>also</c></NS></i><c>also means</c></NS><NS type="UP"><i>,</i></NS> <NS type="RQ"><i>every</i><c>all</c></NS> electrical machines, which don't stop <NS type="FV"><i>to be</i><c>being</c></NS> <NS type="IV"><i>developped</i><c>developed</c></NS>. Another example, computers, every six months<NS type="UP"><i>,</i></NS> something better is <NS type="RV"><i>discovered</i><c>invented</c></NS>.</p>
+          <p><NS type="UD"><i>The modern</i><c>Modern</c></NS> technology has changed my daily life <NS type="UT"><i>in</i></NS> every day. For instance, <NS type="UD"><i>the</i></NS> <NS type="CN"><i>meats</i><c>meat</c></NS><NS type="RP"><i>,</i><c> -</c></NS> we don't cook our meals, everything is already done. Five minutes in the <NS type="FN"><i><NS type="UP"><i>micro-waves</i><c>microwaves</c></NS></i><c>microwave</c></NS> and it's ready. <NS type="UD"><i>The machines</i><c>Machines</c></NS> have replaced the work of <NS type="UD"><i>the</i></NS> <NS type="S"><i>humains</i><c>humans</c></NS>. <NS type="W"><i>We use every day</i><c>Every day we use</c></NS> technological machines without <NS type="FV"><i>to know</i><c>knowing</c></NS>.</p>
+          <p><NS type="W"><i><NS type="RJ"><i>All</i><c>whole</c></NS> our</i><c>Our whole</c></NS> life is <NS type="TV"><i><NS type="S"><i>symplifying</i><c>simplifying</c></NS></i><c>being simplified</c></NS> by <NS type="UD"><i>the</i></NS> machines <NS type="R">for not waste the time to work on their <NS type="S"><i>developpment</i><c>development</c></NS></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

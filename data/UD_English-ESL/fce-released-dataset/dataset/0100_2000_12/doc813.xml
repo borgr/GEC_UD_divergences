@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR322*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson<NS type="RP"><i>!</i><c>,</c></NS></p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you to thank you for <NS type="MD"><c>the</c></NS> <NS type="RJ"><i>good</i><c>excellent</c></NS> programme <NS type="RT"><i>of</i><c>for</c></NS> our English class in London, especially for <NS type="MD"><c>the</c></NS> river trip to Greenwich<NS type="RP"><i>, it</i><c>. It</c></NS> will be a great experience for us. But the students in our class have seen an <NS type="S"><i>adverstisement</i><c>advertisement</c></NS> for the "London Fashion and Leisure Show"<NS type="MP"><c>,</c></NS> <NS type="UP"><i>which'll</i><c>which will</c></NS> take place in <NS type="MD"><c>the</c></NS> Central Exhibition Hall, London, on Tuesday March 14 from 10.00 to 19.00<NS type="MP"><i> <NS type="UC"><i>and</i></NS> at</i><c>. At</c></NS> the same time we have to go to the Science Museum but we would all like to go to the show. It will be very interesting for us to see the latest fashions, <NS type="MP"><i>make up</i><c>make-up</c></NS>, <NS type="MC"><c>and</c></NS> hairstyles and we can speak to English people and make new friends. There is one more advantage: it is free for students. So we would like to suggest <NS type="UA"><i>you</i></NS> how the programme could be changed.</p>
+          <p>First of all on Tuesday we <NS type="W"><i>all will</i><c>will all</c></NS> go to the show and spend <NS type="W"><i>there all <NS type="UD"><i>our</i></NS> day</i><c>all day there</c></NS>, but on Wednesday in the afternoon when we have <NS type="MQ"><c>some</c></NS> free time we can go to the Science Museum<NS type="MP"><c>,</c></NS> if you don't mind, of course.</p>
+          <p>Please let us know<NS type="UP"><i>,</i></NS> as soon as you make your <NS type="S"><i>decission</i><c>decision</c></NS>. With best wishes, your student.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><c>The</c></NS> Best Detective Stories of Agatha Christie</p>
+          <p>Dear Lucas!</p>
+          <p>Thank you very much for your letter<NS type="RP"><i>,</i><c>.</c></NS> I was glad to get it and <NS type="RV"><i>know</i><c>get</c></NS> a lot of news about you.</p>
+          <p>First of all I want to <NS type="ID"><i>congratulate your cousin <NS type="RT"><i>with</i><c>on</c></NS> fifteenth birthday</i><c>wish your cousin a happy fifteenth birthday</c></NS> and <NS type="SX"><i>with</i><c>wish</c></NS> <NS type="MA"><c>her</c></NS> all the best. I hope that it will be <NS type="MD"><c>a</c></NS> good holiday for her, her family and friends.</p>
+          <p>Now about your questions, it is very difficult for me to give any advice <NS type="UA"><i>you</i></NS> about it<NS type="RP"><i>,</i><c>.</c></NS> I don't know your cousin very well so I don't know what she prefers reading. But when I was fifteen my favourite book <NS type="MV"><c>was</c></NS> "<NS type="MD"><c>The</c></NS> Best Detective Stories of Agatha Christie". So I can <NS type="FV"><i>recommended</i><c>recommend</c></NS> you <NS type="FV"><i>to <NS type="RV"><i>present</i><c>give</c></NS></i><c>give</c></NS> <NS type="MA"><c>her</c></NS> this book, because it is <NS type="MD"><c>a</c></NS> very interesting, <NS type="DJ"><i>amuse</i><c>amusing</c></NS>, sometimes dramatic and <NS type="DJ"><i>mystery</i><c>mysterious</c></NS> book. This book <NS type="AGV"><i>help</i><c>helps</c></NS> us to <NS type="S"><i>impove</i><c>improve</c></NS> our <NS type="RN">logic</NS>, mind, <NS type="MC"><c>and</c></NS> memory and it teaches the reader not to lie, <NS type="FV"><i>be</i><c>to be</c></NS> more honest with other people and pay attention <NS type="RT"><i>for</i><c>to</c></NS> the smallest details in our life because sometimes <NS type="RA"><i>it</i><c>that</c></NS> can help us very very much.</p>
+          <p>So I hope I <NS type="TV"><i>could help</i><c>have helped</c></NS> you.</p>
+          <p>Write <NS type="MT"><c>to</c></NS> me as soon as you can.</p>
+          <p>With best wishes, <NS type="DA"><i>your</i><c>yours</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

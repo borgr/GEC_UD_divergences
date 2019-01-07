@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR970*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>AUTHORITIES OF THE CIRCLE THEATRE:</p>
+          <p>I'M WRITING <NS type="MT"><c>TO</c></NS> YOU BECAUSE I WANT YOU TO KNOW WHAT HAPPENED LAST WEEK, WHEN I WENT TO THE CIRCLE THEATRE AND I SAW "OVER THE RAINBOW". IT WAS REALLY DISAPPOINTING.</p>
+          <p>FIRST OF ALL, IN YOUR <NS type="S"><i>ADVERTISMENT</i><c>ADVERTISEMENT</c></NS> <NS type="MA"><c>YOU</c></NS> SAID THAT DISCOUNTS WERE AVAILABLE, BUT I COULDN'T FIND THEM <NS type="MJ"><c>AVAILABLE</c></NS> ANYWHERE. SECONDLY...THE PLAY STARTED AT QUARTER PAST EIGHT: <NS type="S"><i>FOURTY-FIVE</i><c>FORTY-FIVE</c></NS> MINUTES LATE. WHEN IT STARTED I COULD SEE THAT DANNY BROOK WASN'T IN THE PLAY, AND NOBODY TOLD US WHY. THE ACTOR WHO WAS ACTING HIS PART IS THE WORST I HAVE EVER SEEN, REALLY TERRIBLE. <NS type="W"><i>HE HAD</i><c>HAD HE</c></NS> BEEN IN A PLAY BEFORE? I DON'T THINK SO.... FINALLY, WHEN THE PLAY FINISHED, WE WENT TO THE THEATRE RESTAURANT TO HAVE DINNER BUT IT WAS CLOSED. I DON'T KNOW THE REASON <NS type="MY"><c>WHY</c></NS>...</p>
+          <p>AS YOU CAN SEE<NS type="MP"><c>,</c></NS> IT WASN'T A "PERFECT EVENING".</p>
+          <p>I WANT YOU TO GIVE ME A <NS type="RJ"><i>COMPLETE</i><c>FULL</c></NS> <NS type="SX"><i>REFOUND</i><c>REFUND</c></NS>. MY <NS type="S"><i>ADRESS</i><c>ADDRESS</c></NS> IS IN THE ENVELOPE. I'M LOOKING FORWARD TO <NS type="FV"><i>HEAR</i><c>HEARING</c></NS> FROM YOU IN <NS type="ID"><i>A VERY NEAR FUTURE</i><c>THE VERY NEAR FUTURE</c></NS>.</p>
+          <p>YOURS SINCERELY.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>UNFORTUNATELY, PAT WASN'T VERY GOOD AT KEEPING SECRETS....AND WHEN SHE <NS type="RV"><i>KNEW</i><c>FOUND OUT</c></NS> THAT MARIA WAS GOING OUT WITH TIM (A CLASSMATE), SHE TOLD <NS type="U"><i>IT TO</i></NS> EVERYONE SHE MET. <NS type="RT"><i>IN</i><c>WITHIN</c></NS> <NS type="MD"><c>A</c></NS> FEW DAYS MARIA'S FATHER (WHO IS VERY JEALOUS) HAD HEARD THE RUMOUR. HE ASKED MARIA IF IT WAS TRUE AND SHE COULDN'T LIE. HE GOT VERY ANGRY AND HE DIDN'T ALLOW MARIA <NS type="FV"><i>GOING</i><c>TO GO</c></NS> OUT FOR A PERIOD OF TWO WEEKS. MARIA TALKED TO HER FATHER AND TRIED TO EXPLAIN <NS type="MT"><c>TO</c></NS> HIM THAT TIM IS A GOOD PERSON BUT HER FATHER SAYS THAT SHE IS TOO YOUNG TO HAVE A BOYFRIEND.</p>
+          <p>MARIA MET TIM AT NIGHT, WHEN HER FATHER WAS SLEEPING. WHEN MARIA COULD <NS type="R"><i>TO</i><c>GO</c></NS> OUT SHE TOLD <NS type="UT"><i>TO</i></NS> HER FRIENDS WHAT PAT <NS type="TV"><i>HAVE</i><c>HAD</c></NS> DONE. NOW NOBODY TELLS HER <NS type="X"><i>NOTHING</i><c>ANYTHING</c></NS>. MARIA IS STILL GOING OUT WITH TIM. HER FATHER ACCEPTED <NS type="MA"><c>HIM</c></NS> <NS type="R"><i>WITH THE TIME</i><c>AFTER A WHILE</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

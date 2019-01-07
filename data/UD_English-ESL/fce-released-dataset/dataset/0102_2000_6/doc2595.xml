@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR126*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Last Saturday evening me and my family went to see the musical show "Over the rainbow" at your theatre.</p>
+          <p>I'm writing this letter to <NS type="RV"><i>express</i><c>explain</c></NS> the reasons <NS type="RT"><i>of</i><c>for</c></NS> our disappointment <NS type="RT"><i>about</i><c>with</c></NS> that evening.</p>
+          <p>The advertisement for the show said that there <NS type="AGV"><i>was</i><c>were</c></NS> discounts available for children so we brought them and when we bought the tickets we had to pay the maximum price for everyone.</p>
+          <p>Then, when we got in, we had to wait because the show started forty-five minutes late. By then our children were very bored.</p>
+          <p>My husband was looking <NS type="R"><i>for</i><c>forward</c></NS> to seeing his favourite actor, Danny Brook, and when the show started he found out that Brook had been <NS type="RV"><i>changed</i><c>replaced</c></NS> by a different actor. My husband was really unhappy.</p>
+          <p>When the show had finished we decided to go for a snack <NS type="RT"><i>to</i><c>in</c></NS> the theatre restaurant and it was closed without <NS type="MA"><c>anyone</c></NS> giving any reason <NS type="U"><i>for it</i></NS>.</p>
+          <p>As you can see, it wasn't the evening we expected and the result was very different from the promises you made in the advertisement.</p>
+          <p>I think it would be reasonable if we could have our money back.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets and this was the reason why the party wasn't as <NS type="S"><i>succesful</i><c>successful</c></NS> as we thought.</p>
+          <p><NS type="DA"><i>My</i><c>I</c></NS> and my friends, including Pat, were preparing a surprise for Sam's birthday. We decided to go to his place (I've got a copy of the key) the evening before his birthday while he was at work and decorate the <NS type="S"><i>lounch</i><c>lounge</c></NS>, then turn off the lights and wait for him in silence until he arrived.</p>
+          <p>Everybody was excited about the idea and we were keeping it <NS type="R"><i>in</i><c>a</c></NS> secret in front of Sam.</p>
+          <p>Two days before the event Carol, Albert, Sam and me went to visit Pat in her house and she invited us to stay for dinner. We were having a wonderful time chatting and laughing but suddenly the phone rang and Pat <NS type="TV"><i>answer</i><c>answered</c></NS> it. It was her aunt<NS type="MP"><c>,</c></NS> inviting her <NS type="MY"><c>over</c></NS> for the weekend so Pat said very loudly: "I'm sorry but I have to go to Sam's flat and decorate it<NS type="RP"><i>,</i><c>;</c></NS> it's a surprise, don't tell anybody"</p>
+          <p>Sam <NS type="TV"><i>look</i><c>looked</c></NS> at us surprised and said<NS type="MP"><c>,</c></NS> "What's going on?"</p>
+          <p>Everybody had to change <NS type="MD"><c>their</c></NS> plans and the party became a normal party. We were a bit disappointed but we enjoyed <NS type="MA"><c>it</c></NS> anyway.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

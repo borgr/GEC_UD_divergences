@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR36*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+         <coded_answer>
+          <p>Dear Ms. Jane Clark,</p>
+          <p>I am writing to give my opinion about the International Arts Festival which was held <NS type="MT"><c>on</c></NS> 21st and 22nd November.</p>
+          <p>I went to the rock concert by U2 and <NS type="MV"><c>to see</c></NS> the Chinese film "Chung King Express". Both of them were not only really enjoyable, but also <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS>. However, I feel that it would be even better if there were some improvement.</p>
+          <p>First of all, it would be <NS type="RJ"><i>greater</i><c>better</c></NS> if there were more famous people <NS type="R"><i>who have</i><c>of</c></NS> various nationalities<NS type="RP"><i>. Because</i><c>, because</c></NS> most of them were from <NS type="MP"><i>English speaking</i><c>English-speaking</c></NS> <NS type="FN"><i>country</i><c>countries</c></NS> this year. In addition, larger halls should be provided for concerts since a lot of people could not get tickets for those by big stars. Moreover, personally, I hope that the number of plays and films will increase. I think they are the <NS type="RJ">nearest</NS> 'arts' in real life.</p>
+          <p>I would be glad if you <NS type="TV"><i>consider</i><c>considered</c></NS> my suggestions.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+         <coded_answer>
+          <p>Money - hasn't it always been one of the most important <NS type="AGN"><i>problem</i><c>problems</c></NS> for students? Of course, you can't afford a <NS type="S"><i>luxualy</i><c>luxury</c></NS> car and a large apartment unless <NS type="ID"><i><NS type="RV"><i>you've</i><c>you're</c></NS> born with a silver spoon</i><c>you're born with a silver spoon in your mouth</c></NS>. However, there are some good ways for you to earn enough money to enjoy yourself.</p>
+          <p>How about working as a waiter or waitress? Not only <NS type="W"><i>it's</i><c>is it</c></NS> a simple job, but also you can enjoy working with <NS type="L"><i>many</i><c>a lot of</c></NS> <NS type="AGN"><i>colleague</i><c>colleagues</c></NS> <NS type="UT"><i>at</i></NS> your age. It would be great <NS type="RN"><i>fan</i><c>fun</c></NS> to make friends outside your class or club.</p>
+          <p>If you say that the wage is far from <NS type="DJ"><i>satisfaction</i><c>satisfactory</c></NS>, why don't you teach younger students as a private teacher. It's also <NS type="MD"><c>a</c></NS> really popular job among university students because of the good <NS type="S"><i>salaly</i><c>salary</c></NS>. If you are interested in teaching and responsible enough, you'll probably become an excellent teacher.</p>
+          <p>Stop complaining about <NS type="MD"><c>a</c></NS> lack of money and let's start working to <NS type="RV">have</NS> a new world. You'll find that your life is becoming more and more enjoyable!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

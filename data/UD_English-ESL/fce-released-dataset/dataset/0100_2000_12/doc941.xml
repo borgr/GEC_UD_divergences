@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR388*0100*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing on behalf of my class to thank you <NS type="RT"><i>about</i><c>for</c></NS> the programme you organised for our trip to London. We all think it is a good programme, especially <NS type="MT"><c>because of</c></NS> the fact that it combines leisure and culture. However, we saw an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for "The London Fashion and Leisure Show" and we would all like to go and see it.</p>
+          <p>First of all, you might not know what this show is <NS type="MT"><c>about</c></NS>. <NS type="RY">In fact</NS>, it is a big exhibition of the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. It would be interesting for us to see all that "live", rather than on TV. Furthermore, it is a great opportunity for us because <NS type="UD"><i>the</i></NS> entry is free for students so it will not affect the budget. The show takes place on 14th March from 10 o'clock to 7 o'clock. We all think that it would be most enjoyable to go to the <NS type="RP"><i>Science</i><c>science</c></NS> museum until about 11 o'clock and then move <NS type="MY"><c>on</c></NS> to the show. It would be a good idea to leave at about 5 or 6 o'clock so that we can go shopping for a while.</p>
+          <p>We all hope you will be able to find a good solution without causing too much trouble.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Terror in the Alps</p>
+          <p>It was dangerous, but I knew I had to do it. We had been trapped in the snowy, almost vertical slopes of the "Tête Blanche" for more than ten hours by then. We were there, alone, my friend with his broken leg and myself.</p>
+          <p>We had decided to climb that more than <NS type="RP"><i>3'700</i><c>3,700</c></NS>-metre-high mountain near Arolla in Switzerland two weeks beforehand. We had been preparing the trip for several days when we started to climb the mountain, on <NS type="RD"><i>that</i><c>the</c></NS> 4th of September 1995. It all went as expected and we reached the summit in six hours. However, it started to go wrong after one hour of downhill walking. My friend fell down and badly hit his leg against a rock. We could <NS type="DY"><i>immediatly</i><c>immediately</c></NS> see that it was broken. He couldn't move any more and my <NS type="RP"><i>mobilephone</i><c>mobile phone</c></NS> was not able to find a proper network. We were trapped!</p>
+          <p>I finally decided to carry him on my back <NS type="UY"><i>on the way</i></NS> back to the rescue chalet. It was dangerous because of the steepness of the slope and we risked falling down all the time. However, we would have frozen to death if we had <NS type="RV"><i>stood</i><c>stayed</c></NS> where we were. After ten more exhausting hours of walking we finally reached the chalet, from <NS type="SX"><i>which</i><c>where</c></NS> we were able to call a helicopter. We were safe!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR569*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>16.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I've just <NS type="S"><i>recived</i><c>received</c></NS> your <NS type="S"><i>leter</i><c>letter</c></NS>, and I must say that I am so surprised<NS type="RP"><i>,</i><c>.</c></NS> I wasn't expecting to win it.</p>
+          <p>I <NS type="MV"><c>am</c></NS> still <NS type="IV"><i>studing</i><c>studying</c></NS> at the moment I will finish at the end of June so I will be able to leave at the <NS type="S"><i>begining</i><c>beginning</c></NS> of July.</p>
+          <p><NS type="L"><i>About</i><c>Regarding</c></NS> the <NS type="S"><i>acomodation</i><c>accommodation</c></NS>, I would prefer a log cabin instead of a tent so as to get a better rest. <NS type="RV"><i>I've got</i><c>I have</c></NS> <NS type="RD"><i>some</i><c>a</c></NS> problem <NS type="FV"><i>to sleep</i><c>sleeping</c></NS> and a log cabin will be more peaceful than a <NS type="RN"><i>ten</i><c>tent</c></NS>.</p>
+          <p>You are asking me to choose just 2 activities. It's quite <NS type="S"><i>dificult</i><c>difficult</c></NS> for me because there are 4 of them I like a lot<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> are climbing, tennis, surfing and photography, but if I have to make a <NS type="S"><i>choise</i><c>choice</c></NS>, I choose climbing and surfing. I'm rather <NS type="RJ"><i>trained</i><c>experienced</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> climbing<NS type="RP"><i>,</i><c>.</c></NS> I have done it once a <NS type="S"><i>mounth</i><c>month</c></NS> since I was 17. But <NS type="ID"><i>in the other hand</i><c>on the other hand</c></NS>, I have never <NS type="RV"><i>done</i><c>been</c></NS> surfing<NS type="RP"><i>,</i><c>.</c></NS> I am a <NS type="DJ"><i>completely</i><c>complete</c></NS> <NS type="RP"><i><NS type="S"><i>Beginer</i><c>Beginner</c></NS></i><c>beginner</c></NS> but I am <NS type="IV"><i>dieing</i><c>dying</c></NS> to do it.</p>
+          <p>I've got just one question to <NS type="RV"><i>do</i><c>ask</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I know it is all <NS type="DJ"><i>include</i><c>inclusive</c></NS>, but is there anything I will have to pay for? If there is, please let me know.</p>
+          <p>I am looking forward to hearing from you very soon, and please let me know if you need any further information.</p>
+          <p>Yours Faithfully:</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>First of all, I think we should have a protagonist for it. A good idea to start will be <NS type="W"><i>a clock alarm</i><c>an alarm clock</c></NS> ringing close to his bed, because that's the way everyone <NS type="AGV"><i>get</i><c>gets</c></NS> up in the morning<NS type="UP"><i>,</i></NS> (<NS type="R"><i>unless</i><c>apart from</c></NS> the people who don't do <NS type="S"><i>anythink</i><c>anything</c></NS>)<NS type="MP"><c>.</c></NS></p>
+          <p>After that, we should have a morning <NS type="RN"><i>view</i><c>shot</c></NS> of one of the <NS type="IJ"><i>most busiest</i><c>busiest</c></NS> London tube <NS type="AGN"><i>station</i><c>stations</c></NS> in order to show stressed people going in and out, <NS type="R"><i><NS type="RP"><i>Including</i><c>including</c></NS></i><c>among them</c></NS> our protagonist <NS type="RV"><i>going out</i><c>leaving</c></NS> peacefully with a couple of books <NS type="RT"><i>on</i><c>in</c></NS> his hand - then the school's door, and him going in.</p>
+          <p>After <NS type="UQ"><i>all</i></NS> this introduction, <NS type="MA"><c>it</c></NS> will be <NS type="UD"><i>the</i></NS> time to show some of the <NS type="S"><i>acitivities</i><c>activities</c></NS> <NS type="RP"><i>every one</i><c>everyone</c></NS> can <NS type="RV"><i>join</i><c>do</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the school, <NS type="R">such as <NS type="S"><i>lesons</i><c>lessons</c></NS> or others like the library, our protagonist having a <NS type="S"><i>cofe</i><c>coffee</c></NS> with some <NS type="S"><i>coleagues</i><c>colleagues</c></NS> in the <NS type="DN"><NS type="S"><i>cofe</i><c>cafe</c></NS> bar</NS>, the reception service</NS><NS type="UP"><i>.</i></NS>.</p>
+          <p>And finally a <NS type="RN"><i>view</i><c>shot</c></NS> of all the students leaving the school would be a nice <NS type="RN"><i>end</i><c>ending</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

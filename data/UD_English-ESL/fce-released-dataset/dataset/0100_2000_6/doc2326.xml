@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR932*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen Ryan,</p>
+          <p>I am very pleased about the prize I just won in your competition. Thank you for choosing me. Here is some further information about myself and a few <NS type="DN"><i>enquirement</i><c>enquiries</c></NS>.</p>
+          <p>First of all, I am sorry to say that I <NS type="TV"><i>could</i><c>can</c></NS> only travel in July. As my family's new restaurant is about to open in August, I need to help with the restaurant, which is expected to be rather busy.</p>
+          <p>Secondly, I would like to <NS type="RV"><i>live</i><c>sleep</c></NS> in log cabins while I am staying at the camp. I had <NS type="MD"><c>a</c></NS> bad experience last time I <NS type="RV"><i>lived</i><c>stayed</c></NS> in a tent. I was <NS type="RY">terribly</NS> attacked by a <NS type="SX"><i>been</i><c>bear</c></NS> and it still gives me nightmares!</p>
+          <p>As for selecting two activities, basketball and surfing are definitely on my list. I spend one third of my spare time playing basketball. As a result, I have an important position in our local basketball team. Surfing was a <NS type="RJ"><i>fresh</i><c>new</c></NS> sport to me which I took up recently. It is really <NS type="S"><i>fasinating</i><c>fascinating</c></NS> to challenge <NS type="MD"><c>the</c></NS> waves. I wish I could learn <NS type="R"><i>more</i><c>to be better</c></NS> so that I could enjoy it more in the future.</p>
+          <p><NS type="R"><i>In addition</i><c>Also</c></NS><NS type="MP"><c>,</c></NS> what kind of clothes shall I bring with me? How much money is <NS type="MA"><c>it</c></NS> appropriate to <NS type="RV"><i>carry</i><c>bring</c></NS>?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I really wish you <NS type="TV"><i>were</i><c>had been</c></NS> there with me <NS type="RT"><i>at</i><c>on</c></NS> <NS type="UD"><i>that</i></NS> one of the exciting nights in my life. Now I can't wait to tell you every detail. Are you ready?</p>
+          <p><NS type="RA"><i>That</i><c>It</c></NS> was a pop concert <NS type="RT"><i>of</i><c>by</c></NS> Steps in <NS type="MD"><c>the</c></NS> M.E.N Arena. And I was initially employed to be an entrance assistant whose job was to keep the queue under control as well as keeping the area clean.</p>
+          <p>A few minutes after the concert began, a backstage assistant called in sick who was responsible for checking <NS type="S"><i>wether</i><c>whether</c></NS> everything <NS type="TV"><i>is</i><c>was</c></NS> going well according to the timetable<NS type="RP"><i>, if</i><c>. If</c></NS> something comes up, she should inform <NS type="MD"><c>the</c></NS> other staff. I was then taken <NS type="RY"><i>in</i><c>on</c></NS> to cover her job. I couldn't find my feet at first as I was so nervous. I was given lots of paper with many different <NS type="FN"><i>time</i><c>times</c></NS> on it. I did manage to "study" them though, thanks to <NS type="MD"><c>the</c></NS> other staff. They were very helpful and nice. They patiently explained to me my job even <NS type="RY"><i>so</i><c>though</c></NS> they were fairly busy themselves. Then I found it was not as complicated as I <NS type="SX"><i>though</i><c>thought</c></NS> <NS type="RY"><i>before</i><c>at first</c></NS>. And I guess I did a good job as everything was <NS type="RV"><i>getting on</i><c>going</c></NS> quite well.</p>
+          <p>I saw all the members of the band backstage, how <NS type="UV"><i>did</i></NS> they <NS type="TV"><i>change</i><c>changed</c></NS> their make-up, hairstyle etc. They were even <NS type="RV"><i>talking</i><c>making</c></NS> jokes with me and other staff. I was impressed when they kept saying "<NS type="UP"><i>thank-you</i><c>thank you</c></NS>" to the staff. Indeed, they <NS type="RP"><i>can not</i><c>cannot</c></NS> succeed without their help, can they? I was lucky to have this chance and able to <NS type="RV"><i>know</i><c>learn</c></NS> how they work behind the <NS type="FN"><i>scene</i><c>scenes</c></NS>. All in all, it was a <NS type="ID"><i>once-a-lifetime</i><c>once-in-a-lifetime</c></NS> experience.</p>
+          <p>Yours,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

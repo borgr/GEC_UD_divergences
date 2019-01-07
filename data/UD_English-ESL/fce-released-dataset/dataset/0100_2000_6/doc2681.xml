@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR774*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sirs,</p>
+          <p>I cannot express how happy I was reading your letter about the prize I won and about 2 wonderful weeks I am going to spend at Camp California in the USA.</p>
+          <p>With regard to your questions. First of all, I would be very happy if you could arrange my trip and stay at the camp for July. I will still be at school in June, and I am going to spend the whole <NS type="MT"><c>of</c></NS> August on a training camp with my club. July is really the only available time I have.</p>
+          <p>If possible, I would prefer to stay in a log cabin. I <NS type="TV"><i>spend</i><c>spent</c></NS> 3 weeks in a tent last year and it wasn't the best experience of my life. I would like to avoid tents if possible.</p>
+          <p>You offered me a really wide range of activities to choose from, but I would have to go for basketball and tennis. I can say it with confidence that I am quite good at basketball - I play it for my school's team and I am going to train <NS type="MT"><c>in</c></NS> it in August as well - I don't want to <NS type="RV"><i>loose</i><c>lose</c></NS> touch with it. Tennis is just something new that I recently discovered and I am still <NS type="RT"><i>on</i><c>at</c></NS> <NS type="UD"><i>a</i></NS> beginner level. It seems like a good <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to <NS type="DV"><i>practice</i><c>practise</c></NS> it.</p>
+          <p>Finally, I would appreciate <NS type="MA"><c>it</c></NS> if you could send me some information about the weather in California at this time of year. I am a little concerned about the clothes that I should take. Does it rain a lot there?</p>
+          <p>Another thing is money. How much money do you think I should take with me? Will you arrange a place where I could keep the money <NS type="RJ"><i>secure</i><c>safe</c></NS> during my stay at the camp?</p>
+          <p>I look forward to hearing from you and I can't wait <NS type="FV"><i>going</i><c>to go</c></NS> to <NS type="MD"><c>the</c></NS> USA.</p>
+          <p> Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable"</p>
+          <p>In my humble opinion, shopping is one of <NS type="SX"><i>he</i><c>the</c></NS> most stressful and boring activities people do in life.</p>
+          <p>If I was asked to choose the least attractive thing that I have to do on <NS type="MD"><c>an</c></NS> everyday basis, shopping would most definitely be placed somewhere <NS type="RT"><i>on</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> top of the list. If it <NS type="TV"><i>would be</i><c>were</c></NS> possible I would rather have someone else doing shopping for me.</p>
+          <p>First of all, I don't like and don't enjoy spending endless hours pushing my trolley (which, by the way, has <NS type="UP"><i>it's</i><c>its</c></NS> own idea of where it <NS type="UP"><i>want's</i><c>wants</c></NS> to go) between other desperate <NS type="MP"><i>people</i><c>people's</c></NS> baskets, just to find that perfect tin of beans or <NS type="CD"><i>a</i><c>some</c></NS> toothpaste. Especially <NS type="R"><i>that</i><c>as</c></NS> it is so hard to find anything in a modern, huge and stuffed with lots of merchandise department <NS type="AGN"><i>stores</i><c>store</c></NS>. Secondly, if you happen to forget something, you will have to force your way back through crowds of other shoppers, and that can take up even more time. But the worst thing comes at the end. Your visit to the shop <NS type="RV"><i><NS type="S"><i>conludes</i><c>concludes</c></NS></i><c>ends</c></NS> in a long queue to the checkout (where you can easily spend another 30 minutes) where they will suck out some money from your account. Where's the fun in that?</p>
+          <p>No. Most definitely<NS type="MP"><c>,</c></NS> shopping is not an enjoyable activity and I can easily think of many<NS type="UP"><i>,</i></NS> nicer ones.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR982*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>12.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ryan</p>
+          <p>Thank you for your letter and I am very pleased to hear from you about my winning <NS type="UT"><i>of</i></NS> the competition. I am writing to inform you <NS type="MT"><c>of</c></NS> my preferences and ask a few questions about the camping.</p>
+          <p>First of all, I would like to travel in July because I can <NS type="W"><i><NS type="RV"><i>apply</i><c>take</c></NS> my holiday only</i><c>only take my holiday</c></NS> in July. I have discussed it with my boss but he allowed me to go on a holiday only in July. And about accommodation, I would like to stay in a tent. I know that staying in a log cabin is more <NS type="S"><i>convinient</i><c>convenient</c></NS> but I just want to <NS type="RV"><i>feel</i><c>have</c></NS> <NS type="MD"><c>a</c></NS> wilder experience. While I am at the camp, I would like to <NS type="RV"><i>enjoy</i><c>take part in</c></NS> swimming and photography. It will be a wonderful experience to swim in a lake and I can relax and enjoy <NS type="MD"><c>the</c></NS> fresh air. Photography is one of my hobbies so I want to take <NS type="W"><i>nice photos in the camp area as many as I can</i><c>as many nice photos as I can in the camp area</c></NS>.</p>
+          <p>I would like to know about the weather in the camp area because I don't know what kinds of clothes I have to bring. And I want to know how much money I have to <NS type="RV"><i>carry</i><c>bring</c></NS> for <NS type="S"><i>personnal</i><c>personal</c></NS> <NS type="S"><i>expences</i><c>expenses</c></NS>. I also want to know if I can have <NS type="UD"><i>a</i></NS> time for shopping.</p>
+          <p>Thank you for your kindness and I look forward to your reply.</p>
+          <p>Yours sincerely,</p>
+          <p>Clark.</p>
+         </coded_answer>
+     </answer1>
+  </text>
+</head></learner>

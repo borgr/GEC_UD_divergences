@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR443*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan</p>
+          <p>I'm writing to reply to your questions about Camp California. First of all, thank you very much for giving me such a good opportunity. I'm very pleased and I'd like to go to the States as soon as possible, however I'm free only in July. Currently I'm studying in England and the school finishes at the end of June. After that I will go back to Japan and continue studying at College, but it <NS type="S"><i>stats</i><c>starts</c></NS> at the beginning of August.</p>
+          <p>As for the accommodation<NS type="MP"><c>,</c></NS> I would prefer log cabins. I'm not <NS type="RD"><i>a</i><c>the</c></NS> kind of person who can easily fall <NS type="RP"><i>a sleep</i><c>asleep</c></NS> and it gets worse when I am in a tent.</p>
+          <p>At the Camp I'd like to do climbing and golf. I belonged to a climbing club at my <NS type="RP"><i>highschool</i><c>high school</c></NS> and I've got a lot of knowledge from my experienced teacher. I often climbed mountains when I was in high school. My golf teacher is my father and I've only played in a <NS type="SA"><i>practicing</i><c>practising</c></NS> centre, but my father and his friends say I have good talent <NS type="RT"><i>of</i><c>for</c></NS> golf.</p>
+          <p>Lastly<NS type="MP"><c>,</c></NS> I'd like to ask you some questions. That is how many and what sort of clothes I need and how much money I should bring.</p>
+          <p>I'm looking forward to your reply.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>I think we should follow our time table if we make a video about daily school life, but we cannot film every <NS type="AGN"><i>lessons</i><c>lesson</c></NS> so I picked <NS type="RY"><i>up</i><c>out</c></NS> some interesting ones.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> we should <NS type="S"><i>defnitely</i><c>definitely</c></NS> put the news review lesson <NS type="MT"><c>in</c></NS>, because we start every morning with that class and it is where we have a lot of discussion.</p>
+          <p>Secondly<NS type="MP"><c>,</c></NS> I think the FCE class should be filmed. Most of us (students) came to our school because they wanted to study English, so it should be the important part. In addition<NS type="MP"><c>,</c></NS> if we film the class, people can see how interesting or funny the lesson is.</p>
+          <p>Then why don't we film our lunch time because it is also important, isn't it? I think we should film it at the very crowded moment so that people can see we have to wait patiently before we reach our <NS type="FN"><i>foods</i><c>food</c></NS>.</p>
+          <p>I think<NS type="MP"><c>,</c></NS> <NS type="DY"><i>nextly</i><c>next</c></NS> we can film either the development class or the society class, because in my opinion they are the most interesting classes apart from the FCE class.</p>
+          <p>For the very last part<NS type="MP"><c>,</c></NS> why not <NS type="FV"><i>filming</i><c>film</c></NS> our faces when all the lessons are finished?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

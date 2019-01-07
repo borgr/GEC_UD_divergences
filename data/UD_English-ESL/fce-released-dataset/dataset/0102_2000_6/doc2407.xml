@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR972*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I recently had a holiday in London and <NS type="TV"><i>had been</i><c>went</c></NS> to your musical show 'Over the Rainbow' but found it very disappointing.</p>
+          <p>It <NS type="TV"><i>is said</i><c>said</c></NS> <NS type="W"><i>that the singers are Danny Brook and Tina Truelove in the advertisement</i><c>in the advertisement that the singers are Danny Brook and Tina Truelove</c></NS>. However, there was a different<NS type="MP"><c>,</c></NS> unknown actor in that. The show started <NS type="FY"><i>later</i><c>late</c></NS><NS type="MP"><c>,</c></NS> at 20:15<NS type="MP"><c>,</c></NS> which was very different <NS type="RT"><i>in</i><c>from</c></NS> '19.30' <NS type="R">as shown</NS>. There was no discount at all<NS type="MP"><c>,</c></NS> which <NS type="TV"><i>is</i><c>was</c></NS> in contrast with 'Discounts <NS type="S"><i>Availabe</i><c>Available</c></NS>'. After the show, I wanted to have something in the theatre restaurant and found it was closed <NS type="RT"><i>because of</i><c>for</c></NS> no reason.</p>
+          <p>The real show <NS type="U"><i>on it owns</i></NS> is really very different to what <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="RV"><i>mentioned</i><c>described</c></NS> in the advertisement. I am unsatisfied and would like to ask for some money back. Please would you also change the advertisement <NS type="R">to the level of</NS> the actual facts.</p>
+          <p>Thank you for your attention.</p>
+          <p>Yours faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>What will clothes be like 100 years from now? It is a very hard thing to predict.</p>
+          <p>The fashion <NS type="RT"><i>of</i><c>in</c></NS> <NS type="DJ">nowaday</NS> <NS type="CN"><i>clothings</i><c>clothing</c></NS> <NS type="UV"><i>is</i></NS> just <NS type="AGV"><i>keep</i><c>keeps</c></NS> on changing. Although some may <NS type="AGV"><i>appears</i><c>appear</c></NS> again after <NS type="MD"><c>a</c></NS> few years<NS type="MP"><c>,</c></NS> different styles are developed.</p>
+          <p><NS type="RT"><i>For</i><c>Concerning</c></NS> the fashion of the future, I think it depends on <NS type="UD"><i>the</i></NS> people's <NS type="UJ"><i>own</i></NS> personalities and <NS type="MA"><c>they</c></NS> <NS type="S"><i>develope</i><c>develop</c></NS> their own styles which <NS type="AGV"><i>suits</i><c>suit</c></NS> them the most. They can wear different kinds of clothing, <NS type="R">like they design for themselves or those like history can wear those of <NS type="RP"><i>victorian</i><c>Victorian</c></NS> <NS type="FN"><i>time</i><c>times</c></NS> and in different countries</NS>.</p>
+          <p><NS type="MT"><i>For</i><c>As for</c></NS> the colours, I think <NS type="UD"><i>the</i></NS> <NS type="DJ"><i>metalic</i><c>metallic</c></NS> colours, especially silver, will be the most popular. As different kinds of <NS type="S"><i>farbics</i><c>fabrics</c></NS> <NS type="R">will be invented <NS type="L"><i>&amp;</i><c>and</c></NS> the clothings will never be just cotton as always been seen</NS>. Maybe paper can also be a <NS type="S"><i>farbic</i><c>fabric</c></NS> <NS type="TV"><i>use</i><c>used</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>make</i><c>to make</c></NS> <NS type="CN"><i>clothings</i><c>clothing</c></NS> and for those who like to wear new clothes <NS type="RP"><i>everyday</i><c>every day</c></NS>. They can be thrown away after wearing <NS type="AGA"><i>it</i><c>them</c></NS> and <NS type="MV"><c>are</c></NS> light enough to be carried around whenever you want to change <NS type="MA"><c>what</c></NS> <NS type="SX"><i>your</i><c>you're</c></NS> wearing.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

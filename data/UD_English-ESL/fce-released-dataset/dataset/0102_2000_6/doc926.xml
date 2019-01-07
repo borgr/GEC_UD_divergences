@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR375*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir,</p>
+          <p>I am writing to inform you about the bad experience I had <NS type="R"><i>last</i><c>yesterday</c></NS> evening going to the theatre.</p>
+          <p>According to the advertisement, one of the <NS type="AGN"><i>actor</i><c>actors</c></NS> who <NS type="RV"><i>had to show</i><c>would perform</c></NS> was Danny Brook but for some unknown reasons, there was another<NS type="MP"><c>,</c></NS> disappointing actor instead of him.</p>
+          <p>By the way, the musical show started at 20:15, when it <NS type="RV"><i>had</i><c>was meant</c></NS> to start at 19:30: it wasn't <NS type="R"><i>in</i><c>just</c></NS> late, it was <NS type="W"><i><NS type="SX"><i>to</i><c>too</c></NS> much</i><c>much too</c></NS> <NS type="UT"><i>in</i></NS> late. We waited an hour to not see what we were waiting for.</p>
+          <p>And what's more, there weren't <NS type="MQ"><c>any</c></NS> <NS type="S"><i>discouts</i><c>discounts</c></NS> available and the theatre restaurant was closed: the only people who could enter <NS type="UT"><i>in</i></NS> were the actors and the staff.</p>
+          <p>Well, it seems that it wasn't my perfect evening and for all these reasons I <NS type="RV"><i>pretend</i><c>demand</c></NS> to have my money back, I <NS type="RV"><i>waisted</i><c>wasted</c></NS> £20 to see a show which doesn't respect the <NS type="S"><i>programm</i><c>programme</c></NS> I <NS type="IV"><i>payed</i><c>paid</c></NS> for.</p>
+          <p>Looking forward to hearing from you soon</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Science and technology have changed man's life: that's true, I don't need to look <NS type="MT"><c>at</c></NS> how they affect the lives of <NS type="UD"><i>the</i></NS> others, I <NS type="W"><i>have only</i><c>only have</c></NS> to see how they have changed my life.</p>
+          <p>Radio, television, stereo, CD, computer: it's hard to believe, but every day I'm using something that <NS type="MV"><c>was</c></NS> <NS type="IV"><i>borns</i><c>born</c></NS> from <NS type="UD"><i>the</i></NS> technology. Science and technology can be useful: see for example the use of <NS type="RP"><i>tv</i><c>TV</c></NS> in the school or the use of the radio to learn a foreign language or the use of the computer to <NS type="RV"><i>have</i><c>get</c></NS> further information about something <NS type="MC"><c>that</c></NS> <NS type="S"><i>intersts</i><c>interests</c></NS> you.</p>
+          <p>But they can also have a bad influence on people's <NS type="AGN"><i>mind</i><c>minds</c></NS>. Since I went to school, I've seen my way of thinking <NS type="FV"><i>has changed</i><c>change</c></NS>: in my mind <NS type="RA"><i>all</i><c>everything</c></NS> must be in order like in <NS type="RD"><i>a</i><c>the</c></NS> CD-rom of a computer. It's incredible but if I think of the key-word of <NS type="MD"><c>the</c></NS> mind, the only one I can think of is ORDER. Then there are television, radio, stereo: another bad aspect is that every day, <NS type="DY"><i>consciousness</i><c>consciously</c></NS>, I'm using these instruments. They are objects which <NS type="RV"><i>take</i><c>make up</c></NS> part of my life. In the afternoon I <NS type="RV"><i>stay</i><c>spend</c></NS> two hours listening to the radio or watching television instead of going to the city centre: it seems I prefer staying with objects without an aim and that can't speak with me, <NS type="R"><i>in order</i><c>rather than</c></NS> <NS type="FV"><i>to meet</i><c>meeting</c></NS> new people, <NS type="FV"><i>to speak</i><c>speaking</c></NS> with them <NS type="MC"><c>and</c></NS> <NS type="RV"><i><NS type="FV"><i>to have</i><c>having</c></NS></i><c>being</c></NS> <NS type="R"><i>a</i><c>in</c></NS> contact with the "human world". Am I crazy? No, I'm only a daughter of <NS type="UD"><i>the</i></NS> technology.</p>
+          <p>Yesterday my grandmother asked me what <NS type="W"><i><NS type="TV"><i>will</i><c>would</c></NS> I</i><c>I would</c></NS> do without the computer. I answered <NS type="UT"><i>to</i></NS> her saying I probably <NS type="TV"><i>will</i><c>would</c></NS> die.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

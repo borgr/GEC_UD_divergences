@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1084*0100*2000*02">
+  <candidate><personnel><language>Thai</language><age>&lt;16</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>Thank you very much for your programme<NS type="MP"><c>,</c></NS> but we have another plan <NS type="MP"><c>-</c></NS> to go to the London Fashion and Leisure Show<NS type="MP"><c>,</c></NS> which <NS type="RY"><i>unluckily</i><c>unfortunately</c></NS> <NS type="MV"><c>is</c></NS> on the same day as the day we would visit the Science Museum<NS type="MP"><i> so</i><c>. So</c></NS> we would like you to change the plan a little. Your programme is very good, especially <NS type="RC"><i>that</i><c>as</c></NS> we can go to visit the Science Museum<NS type="MP"><c>,</c></NS> which I heard is very good<NS type="MP"><c>,</c></NS> but a visit to the London Fashion and Leisure Show would be a good opportunity for us to see the <NS type="DJ"><i>lastest</i><c>latest</c></NS> fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="RP"><i>hair styles</i><c>hairstyles</c></NS> and it is free for students too. So we think we should change your programme by going to the Science Museum on Wednesday afternoon and <NS type="FV"><i>to do</i><c>doing</c></NS> the shopping after the show.</p>
+          <p>Thank you very much and we look forward to hearing from you.</p>
+          <p>With great respect,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. I <NS type="S"><i>climed</i><c>climbed</c></NS> up the tree. My friend was looking at me from below. I went on climbing until I saw my friend's model aeroplane. If I hadn't borrowed it from him, I wouldn't have been <NS type="RY"><i>here</i><c>there</c></NS>. No, it wasn't the time to regret <NS type="MA"><c>it</c></NS>, just get it and it would be all over. I <NS type="RV"><i>stressed</i><c>stretched</c></NS> my arm, the branch I was standing on broke and I fell down on my leg. It was <NS type="RY"><i>very</i><c>badly</c></NS> hurt<NS type="RP"><i>, my</i><c>. My</c></NS> friend rushed to me<NS type="MP"><c>,</c></NS> <NS type="SX"><i>than</i><c>then</c></NS> ran back to my house and called <NS type="SA"><i>Mom</i><c>Mum</c></NS>. I can't remember anything else until I woke up at a hospital, lying on a bed with my leg in plaster. The nurse sitting beside me said to me, 'Your mother would like to have a word with you,' then she went out. <NS type="SA"><i>Mom</i><c>Mum</c></NS> came in, looking very angry<NS type="RP"><i>,</i><c>.</c></NS> I prayed for a short conversation.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

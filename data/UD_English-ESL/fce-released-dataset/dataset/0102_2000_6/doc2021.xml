@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR812*0102*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I recently visited your theatre to see the musical show "over the rainbow". I was very disappointed because the actors <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> Danny Brook and Tina Truelove. Instead of them you had different actors. Then the show <NS type="TV"><i>delayed</i><c>was delayed</c></NS>, it started at 20:15, not at 19.30. I had to wait 45 minutes! Another <NS type="RN"><i>point</i><c>thing</c></NS> is that the discounts <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> available although I <NS type="RV"><i>could</i><c>had</c></NS> <NS type="IV"><i>red</i><c>read</c></NS> <NS type="MT"><c>about</c></NS> <NS type="AGA"><i>it</i><c>them</c></NS> <NS type="RY"><i>before</i><c>earlier</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> your <NS type="RN"><i>notice</i><c>advert</c></NS>.</p>
+          <p>After the show was finished, I decided to drink something, but <NS type="RC"><i>as</i><c>when</c></NS> I arrived <NS type="RT"><i>in</i><c>at</c></NS> the restaurant it had been closed. But in your advertisement you wrote that people can visit the <NS type="S"><i>resaurant</i><c>restaurant</c></NS> after the show. I can't understand <NS type="RD"><i>such</i><c>this</c></NS> kind of <NS type="AGN"><i>mistakes</i><c>mistake</c></NS>.</p>
+          <p>You <NS type="W"><i>wrote also</i><c>also wrote</c></NS> that the evening would be perfect. For me it wasn't and because of that I ask you to give me my money back. If you can't give me all the money back then do it <NS type="RY"><i>particularly</i><c>partially</c></NS>.</p>
+          <p>I <NS type="MV"><c>will</c></NS> give you my phone number, you can reach me from 8 o'clock till 12 o'clock: 08532143251</p>
+          <p>Please call me back soon.</p>
+          <p>Yours faithfully</p>
+          <p>Carolina Schwitt</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Modern technology has changed my daily life in the <NS type="RN"><i>point</i><c>sense</c></NS> that <NS type="RA"><i>all</i><c>everything</c></NS> I do is becoming <NS type="RJ"><i>more comfortable</i><c>easier</c></NS>. For example when I have to write a letter or do my homework, I always write it on the computer. If I search <NS type="MT"><c>for</c></NS> something like a <NS type="S"><i>telefonnumber</i><c>telephone number</c></NS> or an <NS type="S"><i>adress</i><c>address</c></NS> I also look it up <NS type="RT"><i>from</i><c>on</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS>. I <NS type="W"><i>use also</i><c>also use</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS> when I need any <NS type="CN"><i>informations</i><c>information</c></NS><NS type="MP"><c>,</c></NS> for example <NS type="MC"><c>if</c></NS> I need <NS type="R"><i>them</i><c>some information</c></NS> for school or <NS type="DY"><i>private</i><c>privately</c></NS><NS type="MP"><c>,</c></NS> for myself. A few years ago I had to go <NS type="RT"><i>in</i><c>to</c></NS> a library and look <NS type="R"><i>it</i><c>things</c></NS> up in many books. <NS type="UA"><i>Most that</i><c>That</c></NS> took a long time.</p>
+          <p>I think the advantage of modern technology is that <NS type="RA"><i>all</i><c>everything</c></NS> I do goes very fast and I have more time for my <NS type="IN"><i>hobbys</i><c>hobbies</c></NS> or for friends.</p>
+          <p>Another important point for me is that things like listening <NS type="MT"><c>to</c></NS> music or watching TV <NS type="AGV"><i>sounds</i><c>sound</c></NS> better and the pictures on TV are being <NS type="S"><i>impoved</i><c>improved</c></NS>, because the machines become <NS type="IJ"><i>more better</i><c>better</c></NS>. And also a good <NS type="RN">intention</NS> for me is the <NS type="DN"><i>Handy</i><c>mobile</c></NS>, because everywhere I go I can talk to other people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

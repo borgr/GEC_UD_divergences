@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR507*0102*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Jane Clark,</p>
+          <p>The <NS type="RP"><i>organiser</i><c>Organiser</c></NS>,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you to give <NS type="DA"><i>your</i><c>you</c></NS> my opinion about your festival. It was great, but I think it could be even better next year.</p>
+          <p>First, it was an international festival, it was a great idea, but only six countries <NS type="R"><i>were here</i><c>participated</c></NS>. So, if you <NS type="TV"><i>can</i><c>could</c></NS> have more than six countries, it <NS type="RV"><i>could</i><c>would</c></NS> be great. This idea <NS type="AS"><i>is in relation with</i><c>relates to</c></NS> the number of plays and films. If there are more stars and artists from around the world, <NS type="W"><i>there are more plays and films and</i><c>and there are more plays and films</c></NS> it <NS type="TV"><i>is</i><c>would be</c></NS> better.</p>
+          <p>My second <NS type="DN"><i>complain</i><c>complaint</c></NS> is about some <NS type="MT"><c>of</c></NS> <NS type="MD"><c>the</c></NS> concert halls which <NS type="TV"><i>are</i><c>were</c></NS> too small. It would be better if you <NS type="TV"><i>have</i><c>had</c></NS> some <NS type="MQ"><c>more</c></NS> large halls<NS type="UP"><i>,</i></NS> like your "Arena" hall.</p>
+          <p>To conclude, I was very happy to have a ticket for all events at <NS type="R"><i>one</i><c>a</c></NS> <NS type="DJ"><i>reasonally</i><c>reasonable</c></NS> price, because for someone who <NS type="AGV"><i>do</i><c>does</c></NS> not <NS type="W"><i>like especially</i><c>especially like</c></NS> art, it was very attractive.</p>
+          <p><NS type="RD"><i>A</i><c>My</c></NS> <NS type="RJ"><i>least</i><c>last</c></NS> suggestion for next year's festival is to invite some "salsa" <NS type="FN"><i>band</i><c>bands</c></NS><NS type="RP"><i>,</i><c>.</c></NS> It would be great to listen and dance <NS type="RT"><i>in</i><c>at</c></NS> the same time <NS type="MT"><c>to</c></NS> "salsa" music.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Jimmie,</p>
+          <p>I was very happy to receive a letter from you. I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you to answer <NS type="UT"><i>at</i></NS> your question about school rules and what I am (and I am not) allowed to do at home.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> in <NS type="UD"><i>the</i></NS> school it is not permitted to <NS type="FV"><i>smoking</i><c>smoke</c></NS> in the <NS type="MP"><i>no smoking</i><c>no-smoking</c></NS> area or in the classroom. But<NS type="UP"><i>,</i></NS> I think it is the same in England. Secondly, when you want <NS type="AS"><i>to ask a question to the <NS type="S"><i>teatcher</i><c>teacher</c></NS></i><c>to ask the teacher a question</c></NS>, you must <NS type="FV"><i>to put</i><c>put</c></NS> your hand up<NS type="UP"><i>,</i></NS> and speak when the teacher <NS type="AGV"><i>ask</i><c>asks</c></NS> you.</p>
+          <p>In my home, the only things I am not allowed to do are things which <NS type="RV"><i>can</i><c>might</c></NS> <NS type="S"><i>disturbe</i><c>disturb</c></NS> my <NS type="S"><i>familly</i><c>family</c></NS>. For example, <NS type="FV"><i>put</i><c>putting</c></NS> the music <NS type="MY"><c>on</c></NS> too <NS type="RJ"><i><NS type="S"><i>hight</i><c>high</c></NS></i><c>loud</c></NS> when my <NS type="S"><i>syster</i><c>sister</c></NS> is working. But there are also some <NS type="R"><i>life's</i><c>general</c></NS> rules, like do not put <NS type="MD"><c>your</c></NS> <NS type="RN"><i>legs</i><c>feet</c></NS> on the table when we are eating or <NS type="M"><c>do not</c></NS> eat with <NS type="RD"><i>my</i><c>your</c></NS> fingers.</p>
+          <p>There <NS type="AGV"><i>are</i><c>is</c></NS> not really anything that I <NS type="RV"><i>could</i><c>would</c></NS> like to change, because, as you know, in France, there are not really strict rules like in China or other countries. <NS type="AG"><i>It is</i><c>There are</c></NS> just <NS type="W"><i><NS type="RN"><i>polite</i><c>politeness</c></NS>'s rules</i><c>rules of politeness</c></NS>. I hope I answered <NS type="UT"><i>to</i></NS> your question.</p>
+          <p><NS type="R"><i>Big kisses</i><c>Love</c></NS>,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

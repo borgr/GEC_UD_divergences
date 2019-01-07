@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR784*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>13 June 2000</p>
+          <p>Dear Ms. Ryan,</p>
+          <p>I am very pleased to be the <NS type="DN"><i>winer</i><c>winner</c></NS> in your competition. I almost could not believe it when I received the letter you <NS type="TV"><i>had sent</i><c>sent</c></NS>. I have never won a prize like this. Thank you <NS type="MY"><c>very much</c></NS> indeed!</p>
+          <p>I am working as a Mechanical Engineer for a well-known car company and I would like to travel in July because this the only month I can use my annual leave.</p>
+          <p>During this exciting holiday I would prefer staying in a log cabin. The reason for this is that I have <NS type="UV"><i>got</i></NS> <NS type="UD"><i>a</i></NS> difficulty <NS type="UT"><i>in</i></NS> sleeping in tents.</p>
+          <p>When I was at the <NS type="RP"><i><NS type="S"><i>Univercity</i><c>University</c></NS></i><c>university</c></NS> I was very keen on <NS type="RP"><i>basket ball</i><c>basketball</c></NS> and I <NS type="TV"><i>was playing</i><c>played</c></NS> <NS type="RT"><i>in</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i><NS type="S"><i>Univercity's</i><c>University's</c></NS></i><c>university</c></NS> team. In 1998 we were the champion of the First National <NS type="S"><i>Leque</i><c>League</c></NS>. Also I am <NS type="W"><i>a quite</i><c>quite a</c></NS> good swimmer. I think that is because of my long legs. So I would love to <NS type="RV"><i>join</i><c>take part in</c></NS> <NS type="RP"><i>Basketball</i><c>basketball</c></NS> and <NS type="RP"><i>Swimming</i><c>swimming</c></NS> activities while I am at the <NS type="RP"><i>Camp</i><c>camp</c></NS>.</p>
+          <p>There is something I need to ask you<NS type="RP"><i>;</i><c>.</c></NS></p>
+          <p>I <NS type="SX"><i>don</i><c>don't</c></NS> know exactly what <NS type="W"><i>is California's weather</i><c>California's weather is</c></NS> <NS type="SX"><i>lime</i><c>like</c></NS>. What kind of clothes <NS type="MV"><c>do</c></NS> I need to bring with me? Also, what is the currency in California and how much money <NS type="MV"><c>do</c></NS> I need to take with me?</p>
+          <p>I am looking forward to your reply!</p>
+          <p>Yours sincerely </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p><NS type="S"><i>Novadays</i><c>Nowadays</c></NS> our shopping habits seem to <NS type="RV"><i>be</i><c>have</c></NS> changed. I can clearly remember my childhood and our only local shop. Yes! There was only one shop in the area where I used to live until we moved to Oxford. I was really astonished by all these shopping <NS type="SA"><i>centers</i><c>centres</c></NS><NS type="MP"><c>,</c></NS> like ASDA, HOMEBASE, <NS type="S"><i>ex</i><c>etc</c></NS>.</p>
+          <p>One day I decided to go to the shopping <NS type="SA"><i>center</i><c>centre</c></NS> which is only 40 <NS type="SA"><i>meters</i><c>metres</c></NS> from our house. Firstly, I could not find the entrance. I'd walked <NS type="S"><i>arround</i><c>around</c></NS> <NS type="MT"><c>for</c></NS> about 15 minutes until I found the door. I realized that I'd walked so many times in front of the entrance but the door had looked like a window. When I entered <NS type="UT"><i>into</i></NS> the <NS type="S"><i>shope</i><c>shop</c></NS> I was a bit angry.</p>
+          <p>I was holding a <NS type="RN"><i>peace</i><c>piece</c></NS> of paper which my mum gave to me. <NS type="AS"><i>There were written all things I had to buy</i><c>All the things I had to buy were written on it</c></NS>. But no way!</p>
+          <p>I started looking for the food products <NS type="RV"><i>written</i><c>listed</c></NS> on the <NS type="RN"><i>paper</i><c>piece of paper</c></NS> but I found only the eggs, milk and bread. Nothing else. So what was all that about?! I wasted 2 hours <NS type="FV"><i>to buy</i><c>buying</c></NS> food which you can find in every local shop.</p>
+          <p>Later somebody told me that I had to look at the labels on the top.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

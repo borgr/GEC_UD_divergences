@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR988*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>13 of June 2000</p>
+          <p>Dear Helen Ryan:</p>
+          <p>I will be very happy to travel <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RP"><i>july</i><c>July</c></NS> because in that <NS type="RN"><i>date</i><c>month</c></NS> I am going to have my holidays, so I will not have to ask <NS type="S"><i>permition</i><c>permission</c></NS> from my <NS type="RN"><i>work</i><c>boss</c></NS>. At the same time, <NS type="W"><i><NS type="RT"><i>on</i><c>in</c></NS> <NS type="RP"><i>july</i><c>July</c></NS> is my birthday</i><c>my birthday is in July</c></NS>, so it would be nice to <NS type="FV"><i>celebrated</i><c>celebrate</c></NS> <NS type="MA"><c>it</c></NS> there.</p>
+          <p>I <NS type="TV"><i>will</i><c>would</c></NS> prefer to <NS type="R"><i>have my accomodation</i><c>stay</c></NS> in a tent, <NS type="S"><i>couse</i><c>because</c></NS> in that way I can feel <NS type="IJ"><i>more <NS type="S"><i>clouse</i><c>close</c></NS></i><c>closer</c></NS> to <NS type="UD"><i>the</i></NS> nature, and I can remember when I was a <NS type="W"><i>scout girl</i><c>girl scout</c></NS>. Sleeping in <NS type="MD"><c>a</c></NS> tent is much more <NS type="SX"><i>exiting</i><c>exciting</c></NS> and <NS type="RJ">clousy</NS> than <NS type="MT"><c>in</c></NS> a log cabin.</p>
+          <p>At the camp I <NS type="TV"><i>will</i><c>would</c></NS> like to choose two activities, Painting and Singing<NS type="RP"><i>,</i><c>.</c></NS> I love painting<NS type="RT"><i><NS type="RP"><i>, in</i><c>. In</c></NS></i><c>. At</c></NS> <NS type="UD"><i>the</i></NS> university I studied art for two years, but now I don't have much time to paint <NS type="S"><i>couse</i><c>because</c></NS> I work in a bank and I have a baby. So I will be very happy to improve my art <NS type="RT"><i>in</i><c>at</c></NS> the camp. The reason <NS type="RT"><i>of</i><c>for</c></NS> my <NS type="RN"><i>option</i><c>choice</c></NS> <NS type="RT"><i>for</i><c>of</c></NS> singing is <NS type="R"><i><NS type="S"><i>couse</i><c>because</c></NS></i><c>that</c></NS> I feel <NS type="S"><i>embarrest</i><c>embarrassed</c></NS> about my voice, so maybe I could <NS type="RV"><i>get it better</i><c>improve it</c></NS>.</p>
+          <p>I <NS type="TV"><i>will</i><c>would</c></NS> like to have more information about the prices of the clothes and <NS type="S"><i>souvenires</i><c>souvenirs</c></NS>.</p>
+          <p><NS type="S"><i>Thankeaw</i><c>Thank you</c></NS> for <NS type="S"><i>givin</i><c>giving</c></NS> me this <NS type="S"><i>oportunity</i><c>opportunity</c></NS>.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>You are never going to believe what I did last month<NS type="MP"><c>.</c></NS> I was walking with my sister in Oxford circus, when <NS type="S"><i>sudently</i><c>suddenly</c></NS> a man <NS type="TV"><i>stop</i><c>stopped</c></NS> us saying that he was looking for people to help <NS type="RT"><i>in</i><c>at</c></NS> a concert and they <NS type="AGV"><i>was</i><c>were</c></NS> going to pay us five pounds an hour. We <NS type="S"><i>sed</i><c>said</c></NS> yes <NS type="S"><i>inmidiatly</i><c>immediately</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I nearly shouted <NS type="RT"><i>of</i><c>with</c></NS> <NS type="S"><i>happines</i><c>happiness</c></NS> when they told us that<NS type="UP"><i>,</i></NS> Luis Miguel was <NS type="RV"><i>doing</i><c>giving</c></NS> the concert<NS type="RP"><i>, he</i><c>. He</c></NS> is my <NS type="SA"><i>favorite</i><c>favourite</c></NS> singer.</p>
+          <p>The concert was on a <NS type="RP"><i>sunday</i><c>Sunday</c></NS> and we had to work <NS type="RT"><i>on</i><c>at</c></NS> the back of the <NS type="S"><i>stadge</i><c>stage</c></NS>, doing all sorts of things like <NS type="S"><i>colecting</i><c>collecting</c></NS> <NS type="S"><i>rubish</i><c>rubbish</c></NS> and helping other people <NS type="RA"><i>that</i><c>who</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> working there. We <NS type="AGV"><i>was</i><c>were</c></NS> so close to him<NS type="RP"><i>,</i><c>.</c></NS> I didn't have the chance to talk with him but I don't mind<NS type="RP"><i>,</i><c>.</c></NS> I will never forget that day. Since then, <NS type="RA"><i>me</i><c>I</c></NS> and my sister talk about Luis Miguel every day.</p>
+          <p>I <NS type="SX"><i>hop</i><c>hope</c></NS> you write <NS type="MT"><c>to</c></NS> me soon to <NS type="SX"><i>tall</i><c>tell</c></NS> me <NS type="S"><i>youre</i><c>your</c></NS> opinion.</p>
+          <p>lots of love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

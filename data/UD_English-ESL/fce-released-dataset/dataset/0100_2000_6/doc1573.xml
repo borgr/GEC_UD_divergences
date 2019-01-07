@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR613*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>26-30</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I am writing this letter<NS type="UP"><i>,</i></NS> concerning the information you have asked me to give you.</p>
+          <p>First of all, I would like to thank you<NS type="UP"><i>,</i></NS> for giving me the chance to visit Camp California.</p>
+          <p>As far as I am concerned, my exams at school will have finished <NS type="R"><i>up to</i><c>by</c></NS> the middle of June. To be honest, I would like to spend <NS type="RQ"><i>some</i><c>a few</c></NS> days with my family, before I go to California. Therefore, it would be better to go there in July. July should be the <NS type="IJ"><i>hotest</i><c>hottest</c></NS> month! The best season for holidays.</p>
+          <p><NS type="L"><i>About</i><c>Regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would be pleased to stay in a tent, because this reminds me <NS type="MT"><c>of</c></NS> <NS type="RD"><i>the</i><c>my</c></NS> holidays with my family.</p>
+          <p><NS type="RT"><i>According <NS type="RT"><i>on</i><c>to</c></NS></i><c>Concerning</c></NS> the table <NS type="RT"><i>with</i><c>of</c></NS> <NS type="UD"><i>the</i></NS> activities, I <NS type="TV"><i>will choose</i><c>choose</c></NS> singing and swimming because I am a very good swimmer and <NS type="M"><c>have been a</c></NS> very <NS type="RJ"><i>fanatic</i><c>keen</c></NS> singer from <NS type="MD"><c>a</c></NS> very young <NS type="MN"><c>age</c></NS>. I joined my choir<NS type="UP"><i>,</i></NS> when I was eight years old and I have sung solo in two concerts.</p>
+          <p>I would be grateful <NS type="M"><c>if you would</c></NS> <NS type="FV"><i>to tell</i><c>tell</c></NS> me how much money I will need with me.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I am really impressed <NS type="RT"><i>from</i><c>with</c></NS> your interest <NS type="RT"><i>about</i><c>in</c></NS> my experience <NS type="RT"><i>from</i><c>at</c></NS> the concert. I thought that you didn't like pop music and <NS type="R">things have to deal with that</NS>.</p>
+          <p>Anyway, <NS type="TV"><i>I've enjoyed</i><c>I enjoyed</c></NS> it very much! It was the best experience I've ever had in my whole life. I was trying to be with the singers all the time. It was fantastic. I wanted to touch them, as the only way to convince myself that I was with them.</p>
+          <p>I didn't really have to do anything special. I <NS type="TV"><i>should just take</i><c>just had to take</c></NS> care of them, serving some drinks and food during the <NS type="S"><i>rehearshals</i><c>rehearsals</c></NS>.</p>
+          <p>That's the advantage of being a volunteer. You <NS type="RV"><i>get</i><c>have</c></NS> good experiences which you'll never forget!</p>
+          <p>You have to try <NS type="MA"><c>it</c></NS> once in your life and if you don't like <NS type="MA"><c>it</c></NS>, don't do it again.</p>
+          <p>Regards,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

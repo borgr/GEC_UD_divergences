@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR60*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>I'm so happy that I've won 2 weeks at Camp California in the U.S.A. At first I couldn't <NS type="S"><i>belive</i><c>believe</c></NS> that I was a <NS type="S"><i>winer</i><c>winner</c></NS></p>
+          <p>I would like to travel <NS type="RT"><i>at</i><c>to</c></NS> the Camp in July, if <NS type="UV"><i>is</i></NS> possible. This is just one <NS type="AGN"><i>months</i><c>month</c></NS> which <NS type="RV"><i>I've</i><c>I have</c></NS> <NS type="SX"><i>fee</i><c>free</c></NS>.</p>
+          <p> I'm a student. My school <NS type="S"><i>starsts</i><c>starts</c></NS> in September and it finishes in June. July is <NS type="MD"><c>the</c></NS> <NS type="FN"><i>months</i><c>month</c></NS> when I'm having a rest and I'm doing nothing. In August I'm working in <NS type="RD"><i>the</i><c>a</c></NS> shop which is my <NS type="MP"><i>sister</i><c>sister's</c></NS>. If I could go in July <NS type="MA"><c>that</c></NS> would be <NS type="S"><i>greate</i><c>grate</c></NS>.</p>
+          <p>I can sleep in <NS type="MD"><c>a</c></NS> tent, it would <NS type="RV"><i>remain</i><c>remind</c></NS> me <NS type="MT"><c>of</c></NS> a good time which <NS type="UV"><i>I'd</i><c>I</c></NS> <NS type="RV"><i>spent</i><c>had</c></NS> with my friends a few years ago. I'm not scared of darkness, rain, cold or hot <NS type="SX"><i>whether</i><c>weather</c></NS>. I'm sure <NS type="MA"><c>it</c></NS> would be good fun; <NS type="FV"><i>sleep</i><c>sleeping</c></NS> next to each other telling <NS type="RJ"><i>scared</i><c>scary</c></NS> <NS type="FN"><i>story</i><c>stories</c></NS>. <NS type="MA"><i>Is</i><c>It is</c></NS> good for <NS type="FV"><i>make</i><c>making</c></NS> friends, you can know them better doing everything together.</p>
+          <p>Also I know that I have the chance to do two activities while I'm at the Camp. I would like to choose basketball. This is <NS type="MD"><c>a</c></NS> sport which I ,,love". I <NS type="TV"><i>play</i><c>have been playing</c></NS> basketball since I was 12. Some of my friends say that I'm <NS type="MD"><c>a</c></NS> very good player, but I don't think so.</p>
+          <p>Another sport which I'd like to do is swimming. <NS type="W"><i><NS type="RT"><i>In</i><c>At</c></NS> swimming I'm not as good</i><c>I'm not as good at swimming</c></NS> as <NS type="M"><c>I am</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> basketball, but I'd like to practise more and maybe learn something new about it.</p>
+          <p>I would like to ask you, what sort of clothes <NS type="RV"><i>shall</i><c>should</c></NS> I take with me? I don't want <NS type="FV"><i>take</i><c>to take</c></NS> too much; jeans, jumper, swimming <NS type="S"><i>costium</i><c>costume</c></NS>, T-shirt, sports shoes I think should <NS type="S"><i>b</i><c>be</c></NS> O.K.</p>
+          <p><NS type="SX"><i>Know</i><c>Now</c></NS>, I can <NS type="RY"><i>just</i><c>hardly</c></NS> wait for July</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Hi Kim!</p>
+          <p>How are you? I'm fine. I'm so <NS type="SX"><i>exited</i><c>excited</c></NS>. Last month I was helping at a pop concert with a few friends of mine. It was <NS type="MD"><c>a</c></NS> Tina Turner concert! <NS type="RT"><i>To</i><c>At</c></NS> this moment when <NS type="TV"><i>I'm thinking</i><c>I think</c></NS> of it I want <NS type="FV"><i>shout</i><c>to shout</c></NS>.</p>
+          <p>At first I was helping to <NS type="S"><i>seill</i><c>sell</c></NS> the tickets - <NS type="MA"><c>it</c></NS> wasn't difficult. Anyway, four hours<NS type="UP"><i>,</i></NS> before <NS type="MD"><c>the</c></NS> concert had started, I was helping with <NS type="MD"><c>the</c></NS> lights. We had to check <NS type="S"><i>evey</i><c>every</c></NS> plug, switch, <NS type="AGN"><i>lights</i><c>light</c></NS>. I couldn't <NS type="S"><i>belive</i><c>believe</c></NS> how big <NS type="RD"><i>the</i><c>a</c></NS> lamp can be. That's why singers are hot. When <NS type="MD"><c>the</c></NS> concert had started and Tina <NS type="IV"><i>cam</i><c>came</c></NS> out I forget about lights, <NS type="W"><i>just I was</i><c>I was just</c></NS> looking at her. <NS type="RP"><i><NS type="S"><i>fortunetly</i><c>fortunately</c></NS></i><c>Fortunately</c></NS> nothing had <NS type="IV"><i>happend</i><c>happened</c></NS>. <NS type="UP"><i>Every-thing</i><c>Everything</c></NS> was O.K</p>
+          <p>After <NS type="MD"><c>the</c></NS> concert we were invited <NS type="UT"><i>in</i></NS> backstage. <NS type="RP"><i>then</i><c>Then</c></NS> I could see her very, very <NS type="RY"><i>clear</i><c>clearly</c></NS>.</p>
+          <p><NS type="RY"><i>Just</i><c>Only</c></NS> people who <NS type="AGV"><i>was</i><c>were</c></NS> helping and <NS type="DV"><i>organizating</i><c>organizing</c></NS> this concert could meet her. Some of them were speaking with her, I wasn't this lucky person, but still I'm happy, that I could be <NS type="S"><i>thear</i><c>there</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

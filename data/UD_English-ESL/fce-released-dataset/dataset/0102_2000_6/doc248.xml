@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1001*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you, because I would like to disagree with your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the show 'over the Rainbow'.</p>
+          <p>I would like to tell you that I was really disappointed with my evening <NS type="UA"><i>I</i></NS> <NS type="MT"><c>at</c></NS> your theatre. At first when I came I hoped to see Danny Brook on the stage, but there was <NS type="MD"><c>a</c></NS> totally different actor. As it is said in <NS type="MD"><c>the</c></NS> <NS type="S"><i>advertisment</i><c>advertisement</c></NS> the show starts at 19.30 but I had to stay outside for 45 minutes, because <NS type="RT"><i>by</i><c>according to</c></NS> the programme it started at 20.15, but that <NS type="TV"><i>was</i><c>is</c></NS> not the end of the story<NS type="RP"><i>,</i><c>;</c></NS> in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> it is clearly said that you have discounts available on tickets<NS type="RP"><i>, that</i><c>. That</c></NS> was not true! I was <NS type="W"><i>not still</i><c>still not</c></NS> very disappointed, because I hoped that I <NS type="TV"><i>will</i><c>would</c></NS> have a good meal with <NS type="MD"><c>a</c></NS> glass of wine in the restaurant, <NS type="M"><c>which I could have</c></NS> according to your <NS type="S"><i>advertisment</i><c>advertisement</c></NS><NS type="MP"><c>,</c></NS> but what <NS type="W"><i>did I</i><c>I did</c></NS> <NS type="MY"><c>not</c></NS> <NS type="TV"><i>realised</i><c>realise</c></NS>, it was closed, because the chef was in <NS type="UD"><i>the</i></NS> hospital.</p>
+          <p>I did not have a perfect evening at all and I would like to ask you to return my money <NS type="UY"><i>back</i></NS>.</p>
+          <p>Yours faithfully,</p>
+          <p>Sasha Comatova.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p><NS type="RP"><i>Everyday</i><c>Every day</c></NS> we keep in touch <NS type="RT"><i>with</i><c>via</c></NS> technology. We have microwaves that help us to <NS type="RV"><i>do</i><c>make</c></NS> our <NS type="FN"><i>meal</i><c>meals</c></NS> quickly, we have hairdryers to dry our hair in 15 minutes, we have different things that <NS type="TV"><i>made</i><c>make</c></NS> our <NS type="FN"><i>life</i><c>lives</c></NS> easier.</p>
+          <p>I use different technological things <NS type="RP"><i>everyday</i><c>every day</c></NS>. Such as <NS type="MD"><c>a</c></NS> mobile phone that helps me to communicate<NS type="UP"><i>,</i></NS> with anyone in the world, even if I am not at home<NS type="RP"><i>,</i><c>;</c></NS> I use <NS type="MD"><c>a</c></NS> stereo<NS type="UP"><i>,</i></NS> if I want to listen to my favourite music<NS type="RP"><i>,</i><c>;</c></NS> I use tapes, CDs, hairdryers, <NS type="S"><i>ect</i><c>etc</c></NS>. I think that all these things <NS type="TV"><i>made</i><c>have made</c></NS> my life much easier. Many years ago people didn't have an <NS type="S"><i>oppotunity</i><c>opportunity</c></NS> to use all these things and they had to work a lot. I am very happy that with all <NS type="MD"><c>the</c></NS> technology that we have we don't have to work as much as they did, <NS type="M"><c>doing things</c></NS> like <NS type="FV"><i>to wash</i><c>washing</c></NS> plates and cups after meals<NS type="RP"><i>, my</i><c>. My</c></NS> <NS type="DN"><i>dishwashing machine</i><c>dishwasher</c></NS> will do that for me, and I don't have to wash my clothes<NS type="MP"><c>,</c></NS> my washing machine does it better. Of course it is a bit sad that machinery is taking over <NS type="MT"><c>from</c></NS> humans and of course it makes me lazy. However<NS type="MP"><c>,</c></NS> now I have more freedom, free time, and privacy.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

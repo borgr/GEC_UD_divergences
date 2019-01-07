@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR174*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you <NS type="FV"><i>replying</i><c>to reply</c></NS> to your letter asking for some more information about me, to give you all the information you need.</p>
+          <p>First of all you asked when <NS type="W"><i>would I</i><c>I would</c></NS> be able to travel. You ought to know that <NS type="MA"><c>it</c></NS> is possible <NS type="RT"><i>to</i><c>for</c></NS> me to go there only in July because I'm going to work the whole <NS type="MT"><c>of</c></NS> August.</p>
+          <p>Answering the second question<NS type="MP"><c>,</c></NS> I would prefer my <NS type="S"><i>accomodation</i><c>accommodation</c></NS> <NS type="MV"><c>to be</c></NS> in log cabins. The reason is that, in my opinion, they are more comfortable, there's more space and in addition they are warmer.</p>
+          <p>Providing that you give me the chance to chose two activities<NS type="MP"><c>,</c></NS> I would love to do swimming and singing. I attend <NS type="UT"><i>to</i></NS> swimming and singing classes twice a week so I'm really good at both.</p>
+          <p>Finally I would like to ask you about clothes and money. Where will we be able to wash our clothes during the camp? Are we allowed to carry with <NS type="MA"><c>us</c></NS> all the money we wish to?</p>
+          <p>Don't hesitate to contact me <NS type="RT"><i>for</i><c>with</c></NS> any more <NS type="FN"><i>question</i><c>questions</c></NS>.</p>
+          <p>Yours sincerely,</p>
+          <p>Angeles<NS type="UP"><i>.</i></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Nowadays shopping is considered one of the most usual and enjoyable activities, especially if you are a woman and you are out to buy clothes. At first sight it is, but shopping is not always enjoyable.</p>
+          <p>Basing my opinion on my experience<NS type="MP"><c>,</c></NS> I'm going to talk mostly about clothes shopping. There are some points that <NS type="CE">give me the reason</NS>.</p>
+          <p>First of all, who is your companion? If you take <NS type="MD"><c>your</c></NS> mum shopping the <NS type="RJ">right</NS> day<NS type="MP"><c>,</c></NS> she has been <NS type="W"><i>all day doing housework</i><c>doing housework all day</c></NS>, that will probably end in <NS type="RN"><i>discussion</i><c>argument</c></NS>.</p>
+          <p><NS type="ID"><i>In one hand</i><c>On the one hand</c></NS>, there's you. You are feeling sick, <NS type="MC"><c>or</c></NS> angry with your boyfriend. How <NS type="RV"><i>do</i><c>can</c></NS> you <NS type="RV">pretend</NS> to see in a mirror that anything fits <NS type="W"><i>well <NS type="UT"><i>on</i></NS> you</i><c>you well</c></NS>?</p>
+          <p><NS type="RT"><i>In</i><c>On</c></NS> the other, you have always to count on unfriendly shop assistants, <NS type="X"><i>no</i><c>not</c></NS> <NS type="MV"><c>having</c></NS> <NS type="MD"><c>the</c></NS> size for you or too high prices.</p>
+          <p>Who would talk now about enjoyable shopping <NS type="RN"><i>journeys</i><c>trips</c></NS>? I'm sure there would be plenty of people ready to do it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

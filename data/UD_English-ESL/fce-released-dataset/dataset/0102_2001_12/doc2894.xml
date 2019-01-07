@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="OU3*0102*2001*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>40.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear John<NS type="UP"><i>!</i></NS></p>
+          <p>I was very happy to receive your letter. I haven't heard from you for a long time<NS type="RP"><i>, how</i><c>. How</c></NS> are you? How is your sister, Marine?</p>
+          <p>I went on a boat trip with my class last month and it was very exciting and <NS type="RJ"><i>acknowledgeable</i><c>interesting</c></NS>. We were also very lucky with the weather<NS type="RP"><i>,</i><c>;</c></NS> it was warm and sunny so we could admire the picturesque views all day long. I think you should <NS type="S"><i>definetly</i><c>definitely</c></NS> go and I'll try to help in <NS type="R"><i>what</i><c>any way</c></NS> I can.</p>
+          <p>First of all I recommend you <NS type="TV"><i>to go</i><c>go</c></NS> on the 8 a.m. boat. It might mean waking up early but it will be less crowded and more comfortable on the trip. In my opinion a guided tour is essential, because Bourne Castle is a historical place with galleries full of unique works of art and you will need a guide to explain everything thoroughly and answer all <NS type="RD"><i>the</i><c>your</c></NS> questions.</p>
+          <p>I think you should take <NS type="MD"><c>a</c></NS> packed lunch with you, because the restaurant is far too expensive and the portions are too small (you'll get very tired walking around the castle).</p>
+          <p>I advise you to try <NS type="MD"><c>the</c></NS> <NS type="RP"><i>watersports</i><c>water sports</c></NS> as well<NS type="RP"><i>, it's</i><c>. It's</c></NS> a real laugh.</p>
+          <p>I'm not sure how many students <NS type="W"><i>are there</i><c>there are</c></NS> in your class but they give reductions for groups <NS type="MT"><c>of</c></NS> over 15 people so maybe you'll have to invite some friends to join you. By the way, I'd love to come with you, if it's possible! I really enjoyed our trip and I'm eager to see you again!</p>
+          <p>Looking forward to your reply,</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>TV - a powerful force that keeps us glued to <NS type="RA"><i>itself</i><c>it</c></NS> for endless hours every day, unable to press the "Off" button on the remote control. Some say it's evil, it spoils our eyes and personality, others say it's useful, enriches our minds with knowledge and helps teens form their individuality. But can each one of these people answer one simple question<NS type="RP"><i>!</i><c>?</c></NS> "Could you live without television for a week?"</p>
+          <p>I can honestly say: I could. I like TV, I watch it but luckily I haven't become a TV addict yet. Well, maybe only yet. When do we turn on our TV set? When we are bored and lonely or <NS type="ID"><i>on the contrary</i><c>on the other hand</c></NS> when we are tired of doing something we dislike. So if I lived without television for a week I'd find something else to keep me busy: invite some friends around, read a good interesting book, go bowling or to a swimming pool. This summer I lived <NS type="W"><i><NS type="MT"><c>for</c></NS> three weeks in a complete TV vacuum</i><c>in a complete TV vacuum for three weeks</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I forgot it had ever existed. I just didn't have time for it, didn't allow it to enter my life. And no, it wasn't a self-made torture. I was just having a good time and I didn't need television to support me and keep me company in the dark summer evenings.</p>
+          <p>You might ask me a normal question<NS type="MP"><c>:</c></NS> "What about <NS type="MD"><c>the</c></NS> news?" Well, I'm also bothered about what's going on around me but <NS type="UY"><i>why</i></NS> <NS type="TV"><i>did you forget</i><c>have you forgotten</c></NS> about newspapers? And the radio (if you're too lazy to read the news yourself and prefer <NS type="AGA"><i>them</i><c>it</c></NS> to be read to you!)</p>
+          <p>The biggest difference the absence of TV <NS type="TV"><i>had made</i><c>made</c></NS> in my life was that I actually started living. I think everyone can say "no" to TV because humans' will is far <NS type="UY"><i>more</i></NS> stronger than the invisible hands that lure us into their cave. And it'll be good for you as well, after a week without TV you'll begin to <NS type="S"><i>appritiate</i><c>appreciate</c></NS> it and your life a lot more.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR911*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or <NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p>I'm so glad to get the news I've won the prize. Many thanks for giving me a chance to stay at the Camp California in the U.S.A.</p>
+          <p>I think I could leave for the camp in July. Because I'm supposed to attend an English course in Weymouth, England until June and then I'm going to travel in Europe with my sister who came from my country 4 weeks ago for this trip. We are planning to spend 2 weeks travelling. So I can go to the camp in the middle of <NS type="UD"><i>the</i></NS> July.</p>
+          <p>And I'd like to stay in a log cabin. I've had unpleasant <NS type="FN"><i>experience</i><c>experiences</c></NS> <NS type="RT"><i>from</i><c>on</c></NS> my last holidays when I had to stay in a tent. In addition<NS type="MP"><c>,</c></NS> as I haven't stayed in a cabin, I look forward to staying in a cabin.</p>
+          <p>Most of all, I'm so happy that I could choose some activities. I'd like to <NS type="DV"><i>practice</i><c>practise</c></NS> golf and tennis. Both of them are my <NS type="SA"><i>favorite</i><c>favourite</c></NS> sports and I'm quite good.</p>
+          <p>I think I should ask you about something more. How's the weather there? <NS type="RA"><i>Which</i><c>What</c></NS> kind of clothes <NS type="MV"><c>do</c></NS> I have to bring and how much money <NS type="W"><i>I will</i><c>will I</c></NS> need? Could you tell me about them?</p>
+          <p><NS type="TV"><i>I'll</i><c>I would</c></NS> be grateful if you could send me further information. I'll look forward to your reply.</p>
+          <p> <NS type="L"><i>Yours Sincerely</i><c>Yours faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>When I was asked what I do in my free time, I've never hesitated to say, "I enjoy going shopping."</p>
+          <p>I'm very extroverted. So I like spend my energy doing sports or some kinds of energetic activity. I thought going shopping was suitable for me. Especially when I visit somewhere for the first time or I have nothing to do, but lots of time, I naturally and automatically look for a decent shopping centre.</p>
+          <p>But nowadays I <NS type="TV"><i>found</i><c>find</c></NS> shopping is not always enjoyable.</p>
+          <p>Since I started living in England, I've worked two part time jobs as a cleaner. I can't make enough money for my living <NS type="FN"><i>expense</i><c>expenses</c></NS>. I have to control my expenses <NS type="R">on the budget</NS>. It's not easy for me, as I used to depend on my parents before I came here.</p>
+          <p> Anyway<NS type="MP"><c>,</c></NS> I must check and even compare the prices of different supermarkets.</p>
+          <p>What makes me desperate is a nice summer dress I've found in a department store. I really wanted to buy it, but I couldn't afford to buy it.</p>
+          <p>I realised that shopping is not always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

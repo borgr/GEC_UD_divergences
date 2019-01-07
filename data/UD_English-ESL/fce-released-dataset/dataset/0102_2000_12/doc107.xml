@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR433*0102*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Jane,</p>
+          <p>I am writing to you to give you some advice about the International Arts <NS type="RP"><i>festival</i><c>Festival</c></NS>. I think it is a great idea to organise this sort of festival because most <NS type="UT"><i>of</i></NS> people enjoy it.</p>
+          <p>Firstly, concerning <NS type="MD"><c>the</c></NS> stars and artists, they came from only six countries. For <NS type="CN"><i>musics</i><c>music</c></NS> like jazz and rock<NS type="MP"><c>,</c></NS> it was excellent but for classical concerts we had a problem<NS type="UP"><i>. Because</i><c> because</c></NS> some concert halls were too small. If you have any ideas about <NS type="M"></NS> bigger halls, it <NS type="TV"><i>will be</i><c>would be</c></NS> better.</p>
+          <p>Secondly, about <NS type="MD"><c>the</c></NS> plays and films<NS type="MP"><c>,</c></NS> it <NS type="TV"><i>will be</i><c>would be</c></NS> good if you <NS type="TV"><i><NS type="RV"><i>make</i><c>have</c></NS></i><c>had</c></NS> more because the children like <NS type="AGA"><i>it</i><c>them</c></NS>. The dance shows <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="RY"><i>very</i><c>absolutely</c></NS> wonderful<NS type="MP"><c>,</c></NS> like art exhibitions. Do not change <NS type="UT"><i>about</i></NS> <NS type="MD"><c>the</c></NS> talks by writers, because it is a good idea if people can talk about their <NS type="DI"><i>owns</i><c>own</c></NS> books.</p>
+          <p>Finally, <NS type="DT"><i>concerned</i><c>concerning</c></NS> the price <NS type="RT"><i>for</i><c>of</c></NS> the weekend tickets, I think it is excellent because people are less <NS type="DJ"><i>stress</i><c>stressed</c></NS>, <NS type="RC"><i>so</i><c>because</c></NS> they can visit <NS type="MT"><c>for</c></NS> <NS type="IY"><i>more longer</i><c>longer</c></NS>. It <NS type="TV"><i>will be</i><c>would be</c></NS> better<NS type="UP"><i>,</i></NS> if we <NS type="TV"><i>can</i><c>could</c></NS> <NS type="RV"><i>make</i><c>hold</c></NS> this festival at the end of summer. I hope <NS type="MA"><c>I</c></NS> <NS type="TV"><i>to give</i><c>have given</c></NS> you enough information.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>It began when my <NS type="FN"><i>parent</i><c>parents</c></NS> <NS type="SX"><i>sand</i><c>and</c></NS> I were going to the South of France for <NS type="MD"><c>our</c></NS> holidays. We <NS type="RV"><i>took</i><c>went</c></NS> <NS type="UD"><i>a</i></NS> <NS type="MT"><c>by</c></NS> car. When we were near Geneva, my father<NS type="MP"><c>,</c></NS> who was driving the car, <NS type="TV"><i>had been flashed</i><c>was flashed</c></NS> by a radar and the police stopped him. After that, <NS type="MC"><c>as</c></NS> <NS type="AS"><i>it <NS type="IV"><i>maked</i><c>made</c></NS> a long time that he drove</i><c>he had been driving for a long time</c></NS>, <NS type="UC"><i>so</i></NS> we decided to stop <NS type="RT"><i>to</i><c>at</c></NS> <NS type="FD"><i>an</i><c>a</c></NS> <NS type="MN"><c>service</c></NS> area. We <NS type="TV"><i>were going</i><c>went</c></NS> to the toilet and ate something <NS type="RT"><i>to</i><c>in</c></NS> the snack bar. Suddenly, my father realised he <NS type="TV"><i>forgot</i><c>had forgotten</c></NS> to <NS type="RV"><i>close</i><c>lock</c></NS> the car. He ran but it was too late, somebody had stolen the <NS type="CN"><i>luggages</i><c>luggage</c></NS>. We called the police but they said <NS type="MT"><c>to</c></NS> us <NS type="MC"><c>that</c></NS> if <NS type="RA"><i>you</i><c>we</c></NS> didn't <NS type="RV"><i>close</i><c>lock</c></NS> <NS type="RD"><i>your</i><c>our</c></NS> car <NS type="RA"><i>we</i><c>they</c></NS> <NS type="RV"><i>didn't</i><c>couldn't</c></NS> <NS type="RV"><i>make</i><c>do</c></NS> <NS type="RA"><i>something</i><c>anything</c></NS>.</p>
+          <p>It was <NS type="MY"><c>already</c></NS> the <NS type="FJ"><i>worse</i><c>worst</c></NS> holiday in my life but we continued. When we arrived at the flat, it was eleven o'clock. The agency was closed and we hadn't <NS type="MV"><c>got</c></NS> the key.</p>
+          <p>We went to <NS type="FD"><i>an</i><c>a</c></NS> hotel, it was expensive and uncomfortable. Finally, <NS type="M"></NS> <NS type="UD"><i>the</i></NS> life in France <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="S"><i>crasy</i><c>crazy</c></NS>, this is the tradition. This story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

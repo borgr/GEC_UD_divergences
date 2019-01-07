@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR789*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>16.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I saw the musical show <NS type="R">in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS></NS> <NS type="RT"><i>in</i><c>during</c></NS> my holiday. I was disappointed with it. I <NS type="RV"><i>would</i><c>must</c></NS> ask you <NS type="RT"><i>to</i><c>for</c></NS> my money back.</p>
+          <p>First of all, I was really looking forward to seeing Danny Brook but<NS type="MP"><c>,</c></NS> actually, <NS type="AS"><i><NS type="RV"><i>starting</i><c>starring</c></NS> was not</i><c>it did not star</c></NS> Danny Brook but another person.</p>
+          <p>Besides<NS type="MP"><c>,</c></NS> her acting didn't <NS type="R">make me satisfied</NS>.</p>
+          <p>Secondly, <NS type="MD"><c>the</c></NS> starting time was not 19:30 but 20:15. Because of <NS type="RA"><i>it</i><c>that</c></NS>, I <NS type="UV"><i>was</i></NS> waited for a long time<NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>Also, there was no <NS type="R">system that ticket can be discounted</NS>.</p>
+          <p>Finally, I went to <NS type="MD"><c>the</c></NS> restaurant in your theatre but it was closed<NS type="RP"><i>,</i><c>.</c></NS> I couldn't eat anything.</p>
+          <p>That's <NS type="MD"><c>the</c></NS> nub of my complaints.</p>
+          <p>Thus I <NS type="RV"><i>spent</i><c>had</c></NS> <NS type="MD"><c>a</c></NS> terrible time - it was <NS type="MD"><c>a</c></NS> waste of time.</p>
+          <p>I'm expecting <NS type="UT"><i>for</i></NS> your reply soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>'Fashion of the future<NS type="RP"><i>,</i><c>'</c></NS></p>
+          <p>I think after 100 years, at least something will change <NS type="R"><i>in the point that</i><c>as regards</c></NS> design, material, <NS type="SA"><i>color</i><c>colour</c></NS>, etc.</p>
+          <p><NS type="R">If I pick up</NS> <NS type="RD"><i>the</i><c>an</c></NS> example, <NS type="MD"><c>the</c></NS> Kimono (<NS type="W"><i>Japanese traditional</i><c>traditional Japanese</c></NS> <NS type="RN"><i>cloth</i><c>clothing</c></NS>) will <NS type="TV"><i>wear</i><c>be worn</c></NS> <NS type="W"><i><NS type="RT"><i>on</i><c>in</c></NS> not only</i><c>not only in</c></NS> Japan but also <NS type="MT"><c>in</c></NS> <NS type="AGQ"><i>another</i><c>other</c></NS> countries in <NS type="DN"><i>generally</i><c>general</c></NS>.</p>
+          <p>Also <NS type="R">it will be only wear but its design, shape might take in casual cloth</NS>.</p>
+          <p><NS type="CE">If it came true, imagination to make cloth would bigger and could think various design and format</NS>.</p>
+          <p><NS type="RT"><i>By</i><c>Through</c></NS> one country's traditional <NS type="RN"><i>cloth</i><c>clothing</c></NS> <NS type="RV">taking in</NS> <NS type="R">those</NS> of another country, <NS type="R">it can born different type and new kind of fashion</NS>.</p>
+          <p>On the other hand, <NS type="AS"><i>there might vanish <NS type="MD"><c>the</c></NS> personality (character) of each country</i><c>the personality (character) of each country might vanish</c></NS>.</p>
+          <p>However, <NS type="R">thinking way that simple is the best will not change</NS>.</p>
+          <p>Also, <NS type="R">comfortable <NS type="RN"><i>cloth</i><c>clothing</c></NS> for person will maintain in the future. I guess the good things will not change forever</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

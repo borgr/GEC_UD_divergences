@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR743*0102*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="L"><i>Mister</i><c>Mr</c></NS> Muller,</p>
+          <p>I address this letter to you because as the manager of "The Circle Theatre" I hold you responsible for the most disappointing evening in a theatre I <NS type="TV"><i>had</i><c>have had</c></NS> in years. I went to see the evening performance of your production of "Over the Rainbow" on <NS type="RP"><i>saturday</i><c>Saturday</c></NS> the 2nd of June.</p>
+          <p>At first I was irritated that contrary to your announcements no discounts were <NS type="S"><i>availlable</i><c>available</c></NS>. I bought one of the most expensive tickets.</p>
+          <p>Although the show was scheduled to start at 19.30h, it did not begin until 20.15h.</p>
+          <p>To my greatest <NS type="S"><i>disappointement</i><c>disappointment</c></NS> Danny Brooks was not in the show, but his part was played by an actor whose (lack of ) singing and acting skills did not make him a suitable replacement. After the show I <NS type="UV"><i>had</i></NS> <NS type="TV"><i>to find</i><c>found</c></NS> out that the theatre restaurant, <NS type="RA"><i>that</i><c>which</c></NS> had been recommended to me, was closed because it had been booked by a private party. Contrary to your advertisement I <NS type="X"><i>had no</i><c>did not have a</c></NS> "perfect evening out" and I think that you should return to me at least half of the 20 £ I paid for my ticket.</p>
+          <p>faithfully yours</p>
+          <p>....</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Best detective stories of Agatha Christie</p>
+          <p>That exciting stories always describe people in difficult situations is true of Agatha Christie's "Witness for the prosecution".</p>
+          <p>This short story is about a man who is accused of having murdered a rich elderly widow who <NS type="RV"><i>inherited</i><c>left</c></NS> her whole fortune to him. He had befriended her without telling her that he was married.</p>
+          <p>The accused is defended by a famous lawyer who tells his wife that a loving wife's confirmation of her husband's alibi will not convince the jury</p>
+          <p>To help her husband she works out a plan: <NS type="RP"><i>She</i><c>she</c></NS> is willing to be <NS type="MD"><c>a</c></NS> witness for the prosecution and states that her husband <NS type="TV"><i>has not been</i><c>was not</c></NS> with her at the time the crime was committed. She then gives letters to her husband's lawyer that seem to prove that she has been unfaithful to him and that she <NS type="TV"><i>tries</i><c>tried</c></NS> to get rid of him with the help of false accusations. The plan works: <NS type="RP"><i>The</i><c>the</c></NS> jury thinks that the wife is a notorious liar and her husband is found innocent. After the trial the lawyer is told that the man was indeed guilty.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

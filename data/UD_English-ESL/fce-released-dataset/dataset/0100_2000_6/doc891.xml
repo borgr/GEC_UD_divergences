@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR363*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I was very pleased to receive your letter which informed me of my winning the first prize in your competition, namely two weeks at Camp California in the USA.</p>
+          <p>To begin with, I would like to travel in July. This is the only possible time for me, as the school holiday starts on the 29th of June. And from August on I <NS type="IV"><i>planed</i><c>planned</c></NS> to do some part-time job in order to earn some pocket money.</p>
+          <p>Referring to the possibilities of accommodation, I'd prefer log cabins to tents. Firstly, log cabins are more <NS type="S"><i>comportable</i><c>comfortable</c></NS> than tents. Secondly, I do not like tents. <NS type="ID"><i>Last not least</i><c>Last but not least</c></NS>, I always have backache after sleeping in a tent for a couple of days.</p>
+          <p>As I <NS type="TV"><i>had</i><c>have</c></NS> been asked to choose two activities I would like to <NS type="MV"><c>do</c></NS> during my stay at the camp, I chose Golf and singing. I have never played Golf actually, but I would love to try something new. As for singing, I am very keen on singing as I <NS type="RV"><i>get</i><c>take</c></NS> lessons in it. I just love singing.</p>
+          <p>I would like to know whether there <NS type="AGV"><i>is</i><c>are</c></NS> some facilities for washing <NS type="UD"><i>the</i></NS> Clothes. Especially in summer, clothes get dirty very easily.</p>
+          <p>Lastly, does the prize include pocket money? If not, I will have to bring some with me. Is there a possibility of exchanging different <NS type="S"><i>currancies</i><c>currencies</c></NS> to US <NS type="FN"><i>dollar</i><c>dollars</c></NS>? I ask you to <NS type="RV"><i>enclose</i><c>include</c></NS> the answer in your reply.</p>
+          <p>I look forward to hearing from you at your earliest convenience.</p>
+          <p>Yours faithfully</p>
+          <p>Mee-Yon Areum.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>When you think of shopping, it reminds you of going out (mostly) with friends, looking for new things like clothes, <NS type="S"><i>accesoires</i><c>accessories</c></NS> etc. and buying them. It sounds nice and shopping is great fun - or it should be.</p>
+          <p>Nowadays shopping can be very stressful. It all starts with the search <NS type="RT"><i>of</i><c>for</c></NS> an appropriate parking-space which can last annoyingly long, especially at weekends.</p>
+          <p>Nevertheless, the nightmare starts when you enter the shopping mall or the passage, which is terribly crowded. You cannot make a step without "touching" <NS type="UD"><i>the</i></NS> others. It gets enormously unbearable <NS type="RT"><i>in</i><c>on</c></NS> hot summer days, when the temperature increases. In such a situation your friends or the people you are shopping with get lost very easily and looking for them can be very tiring. But the worst moment comes<NS type="UP"><i>,</i></NS> if you cannot find the thing you were looking for, because it is no longer trendy or because it is sold out.</p>
+          <p>Of course, shopping is not always so unpleasant, but sometimes it is simply better to stay at home.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

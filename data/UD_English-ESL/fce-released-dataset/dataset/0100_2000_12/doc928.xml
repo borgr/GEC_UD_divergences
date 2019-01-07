@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR377*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I have heard you organised such a nice programme<NS type="MP"><c>,</c></NS> especially <NS type="MD"><c>the</c></NS> river trip and museum<NS type="MP"><c>,</c></NS> for our class. I would like to thank you for doing that on behalf of my classmates.</p>
+          <p>By the way, our classmates have seen an advertisement for the London Fashion and leisure show. It will show us the latest fashions, leisure and sports wear. In addition, <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="FN"><i>hairstyles</i><c>hairstyle</c></NS> shows will take place at the same time. We think it would be a wonderful chance to have a new experience. What is <NS type="MY"><c>even</c></NS> better, <NS type="M"><c>is that</c></NS> all students can participate without paying. It takes place at Central Exhibition hall in London. And it starts from 10 to 19 on 14th of March. So we would like to suggest you <NS type="FV"><i>to put</i><c>put</c></NS> this <NS type="RN"><i>programme</i><c>event</c></NS> into the morning time on Tuesday instead of <NS type="MD"><c>the</c></NS> Science Museum and put <NS type="MD"><c>the</c></NS> science museum into free time on Wednesday.</p>
+          <p>I hope you will consider our suggestion. I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Much safer but still at home</p>
+          <p>Our homes have <NS type="TV"><i>change</i><c>changed</c></NS> with many comfortable things <NS type="TV"><i>compare</i><c>compared</c></NS> with the past. As many inventors made lots of things, we can live in <NS type="R"><i>good <NS type="S"><i>facilites</i><c>facilities</c></NS></i><c> well-equipped</c></NS> houses: But do you think no more comfortable homes will be built?</p>
+          <p>Our homes will be different in <NS type="R"><i>the way</i><c>order</c></NS> to protect our family from theives. For example, now we have a security <NS type="RN">safety</NS> like a bell or button. But in the future, we'll use our eyes or finger prints through the special space to enter inside. That <NS type="RV"><i>is</i><c>means</c></NS>, our security system will be much stronger. On the other hand, what <NS type="S"><i>migh</i><c>might</c></NS> still be the same is to have good places to take a rest at home, such as a beautiful garden, a small terrace. Because it is <NS type="FD"><i>a</i><c>an</c></NS> instinct that people prefer comfortable <NS type="FN"><i>place</i><c>places</c></NS> and want to take a rest in a peaceful place.</p>
+          <p>To conclude, while our homes in the future will be much safer than before, they will still have good spaces for us to be at home.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

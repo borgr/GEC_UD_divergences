@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR127*0100*2000*02">
+  <candidate><personnel><language>Portuguese</language><age>26-30</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>With reference to our trip <NS type="RT"><i>in</i><c>to</c></NS> London, <NS type="DT"><i>in name of</i><c>on behalf of</c></NS> all of us, <NS type="MD"><c>the</c></NS> English class in this college, we would like to thank you for your special <NS type="S"><i>atention</i><c>attention</c></NS> in <NS type="UV"><i>have</i></NS> <NS type="FV"><i>organised</i><c>organising</c></NS> a good programme to <NS type="RV"><i>know</i><c>learn about</c></NS> <NS type="MD"><c>the</c></NS> interesting and cultural <NS type="RN"><i>points</i><c>places</c></NS> in London.</p>
+          <p>We have been very excited about this and <NS type="S"><i>coincidentely</i><c>coincidentally</c></NS> we have found another option to add <NS type="RT"><i>in</i><c>to</c></NS> our programme, certainly if <NS type="DA"><i>your</i><c>you</c></NS> agree with <NS type="MA"><c>it</c></NS>. We <NS type="TV"><i>have thought</i><c>thought</c></NS> that The London Fashion and Leisure Show would be a great opportunity to give us more information about the main <NS type="FN"><i>transformation</i><c>transformations</c></NS> <NS type="UT"><i>in</i></NS> <NS type="S"><i>nowdays</i><c>nowadays</c></NS> in England <NS type="RT"><i>about</i><c>concerning</c></NS> <NS type="FN"><i>fashions</i><c>fashion</c></NS>, <NS type="RP"><i>Leisure</i><c>leisure</c></NS>, sports and <NS type="DN"><i>style of life</i><c>lifestyle</c></NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> <NS type="M"><c>it is</c></NS> your decision <NS type="UT"><i>in</i></NS> <NS type="FV"><i>changing</i><c>to change</c></NS> <NS type="W"><i>a little bit our programme</i><c>our programme a little bit</c></NS><NS type="RP"><i>, we</i><c>. We</c></NS> would suggest just <NS type="W"><i>on Tuesday afternoon <NS type="X"><i>no</i><c>not</c></NS> <NS type="RV"><i>doing</i><c>going</c></NS> <NS type="RN"><i>shop</i><c>shopping</c></NS></i><c>not going shopping on Tuesday afternoon</c></NS>, <NS type="MC"><c>and</c></NS> everything else could stay the same. We are really satisfied <NS type="RT"><i>in</i><c>with</c></NS> <NS type="MD"><c>the</c></NS> sightseeing by bus, <NS type="MC"><c>and</c></NS> <NS type="RT"><i>in</i><c>with</c></NS> <NS type="FV"><i>go</i><c>going</c></NS> to the National Gallery, but the whole class would like to go to The London Fashion <NS type="MN"><c>Show</c></NS> and <NS type="MA"><c>it</c></NS> will be free.</p>
+          <p>We are looking forward to your answer.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I knew, I could die.</p>
+          <p>It was dangerous, but I <NS type="S"><i>kew</i><c>knew</c></NS> I had to do it. This sad and unlucky day was on Friday 1998, <NS type="MC"><c>but</c></NS> it wasn't 13th even it look <NS type="DT"><i>liked</i><c>like</c></NS> <NS type="MA"><c>it</c></NS>, but it was my 25th birthday. Everything was going so <NS type="DY"><i>bad</i><c>badly</c></NS> and I knew, I could die.</p>
+          <p>Unfortunately, I've got a brother who likes to live in <NS type="MD"><c>a</c></NS> dangerous and <NS type="RJ">poor</NS> way and I don't know how, but he <NS type="TV"><i>could</i><c>was able to</c></NS> persuade me to go with him to get some drugs, <NS type="RT"><i>in</i><c>on</c></NS> my 25th birthday. I was at home <NS type="R"><i>making <NS type="RA"><i>me</i><c>myself</c></NS> up</i><c>putting my makeup on</c></NS> before <NS type="FV"><i>to go</i><c>going</c></NS> to a restaurant with my friends and, <NS type="S"><i>sudenlly</i><c>suddenly</c></NS>, he rang the bell<NS type="RP"><i>, he</i><c>. He</c></NS> was so <NS type="RJ"><i>nervous</i><c>tense</c></NS> with a gun in his hands and <NS type="W"><i>no longer I could speak</i><c>I could no longer speak</c></NS><NS type="MP"><i> he</i><c>. He</c></NS> took me out with him.</p>
+          <p>I had tried to think <NS type="RT"><i>in</i><c>about</c></NS> stopping him, but he was stronger than me and he had used all his power to <NS type="FV"><i>scared</i><c>scare</c></NS> me and he forced me to buy <NS type="S"><i>cocain</i><c>cocaine</c></NS> using my cheques. I didn't want <NS type="MT"><c>to</c></NS>, <NS type="MC"><c>because</c></NS> I've never <NS type="TV"><i>approve</i><c>approved</c></NS> <NS type="MT"><c>of</c></NS> his <NS type="W"><i><NS type="FV"><i>deal</i><c>dealing</c></NS> <NS type="U"><i>with the</i></NS> drug</i><c>drug dealing</c></NS>, but I couldn't do it <NS type="DY"><i>different</i><c>differently</c></NS>.</p>
+          <p>The dangerous man who we'd gone to buy drugs <NS type="MT"><c>off</c></NS> was upset with my brother and had decided to kill him, but I had killed him first. If I didn't do it, I knew I would die<NS type="RP"><i>, my</i><c>. My</c></NS> option was my life, but now I haven't <NS type="RD"><i>any</i><c>a</c></NS> chance to live because I'm in <NS type="UD"><i>the</i></NS> prison.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

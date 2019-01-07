@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR313*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am replying to your letter <NS type="RT"><i>for</i><c>about</c></NS> the first prize <NS type="RT"><i>of</i><c>in</c></NS> the competition<NS type="UP"><i>,</i></NS> that I won and there are a number of <NS type="SX"><i>thinks</i><c>things</c></NS> I would like to make clear.</p>
+          <p>You asked me in your last letter when I would like to travel. I think the best time is the first two weeks of July, because I will be free then. I cannot travel earlier because I <NS type="TV"><i>take</i><c>will take</c></NS> an examination and I have to study for it. In addition, I would prefer to have a log cabin, because I am not used to sleeping in a tent, so it would be very difficult for me<NS type="UP"><i>.</i></NS> at the beginning<NS type="MP"><c>.</c></NS> You state in your last letter that I will have the chance to do two activities. I would prefer basketball and swimming. When I was younger I <NS type="RV"><i><NS type="TV"><i>attend</i><c>attended</c></NS></i><c>was in</c></NS> <NS type="R"><i>I</i><c>a</c></NS> local basketball team and we became local champions, so I am good at basketball and have a lot of experience. I am also good at swimming. Last year I entered a swimming championship and won the silver medal.</p>
+          <p>Finally, there is one <NS type="SX"><i>think</i><c>thing</c></NS> I would like to ask. Could you tell me what sort of clothes and how much money I should have with me?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Many thanks for your last letter. It was great to hear from you again.</p>
+          <p>As you know, I helped <NS type="MY"><c>out</c></NS> at a pop concert last month<NS type="RP"><i>.</i><c>,</c></NS> and I must say it was fantastic. Let's start from the beginning.</p>
+          <p>First of all, I had to prepare the clothes of the pop stars. I had to iron them, <NS type="MC"><c>and</c></NS> put them in order, so that the pop stars, who <NS type="TV"><i>will sing</i><c>sang</c></NS> at the concert, <NS type="MV"><c>would</c></NS> look impressive<NS type="UP"><i>.</i></NS> and handsome. The most exciting things happened later. I saw all the pop stars, talked with them and realized that they are very nice and always helpful.</p>
+          <p>I had a lot of things to do during the concert. I had to look after the <NS type="R">tone that nothing goes wrong</NS>. That was very <NS type="RJ"><i>responsible</i><c>demanding</c></NS> but fortunately I had help from <NS type="RQ"><i>other</i><c>another</c></NS> person.</p>
+          <p>I must say that being <NS type="RT"><i>in</i><c>at</c></NS> a concert is very nice. But helping <NS type="RT"><i>in</i><c>at</c></NS> a concert is much nicer. At the end I realized that all <NS type="DA"><i>your</i><c>you</c></NS> need is co-operation and <NS type="MA"><c>you</c></NS> <NS type="RV"><i>don't</i><c>mustn't</c></NS> think selfishly. Hope to hear from you soon.</p>
+          <p>Yours</p>
+          <p>Pantelis</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

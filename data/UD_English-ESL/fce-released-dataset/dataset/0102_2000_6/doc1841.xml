@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR705*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr,</p>
+          <p>I am a foreign student who is on <NS type="FN"><i>holidays</i><c>holiday</c></NS> here. I am going to stay here <NS type="MT"><c>for</c></NS> a week. I went to your theatre three days ago and it was horrible. I'm sorry but I am very <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> with the <NS type="UJ"><i>musical</i></NS> show. I would like to <NS type="RV"><i>explain</i><c>describe</c></NS> <NS type="MT"><c>to</c></NS> you my experience because I want you to give <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p><NS type="UD"><i>The last</i><c>Last</c></NS> Monday, I went to the theatre with two friends. We arrived on time but the <NS type="UJ"><i>musical</i></NS> show was delayed <NS type="S"><i>untill</i><c>until</c></NS> <NS type="S"><i>half-pass</i><c>half-past</c></NS> eight. Moreover, we <NS type="RV"><i>hadn't</i><c>weren't given</c></NS> any <NS type="S"><i>disscount</i><c>discount</c></NS> for <NS type="IV"><i>beeing</i><c>being</c></NS> students.</p>
+          <p><NS type="ID"><i>On the other hand</i><c>Furthermore</c></NS>, the main actor was changed for another and nobody told us. When there was <NS type="FD"><i>a</i><c>an</c></NS> <NS type="DN"><i>restful</i><c>intermission</c></NS> we went to the restaurant which was closed because it was late. We couldn't have a drink. Well I believe that it was a bad day but I would like you to give <NS type="MA"><c>me</c></NS> my money back because <NS type="RT"><i>on</i><c>in</c></NS> the advertisement there <NS type="AGV"><i>was</i><c>were</c></NS> some things that we <NS type="RV"><i>hadn't</i><c>didn't</c></NS> <NS type="MV"><c>have</c></NS> in the theatre.</p>
+          <p>Finally, <NS type="RA"><i>it</i><c>I</c></NS> would be grateful if you could answer me soon.</p>
+          <p><NS type="DA"><i>Yous</i><c>Yours</c></NS> <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Our lives are changing. When I was a child I had different <NS type="RN"><NS type="CN"><i>entertainments</i><c>entertainment</c></NS></NS> <NS type="M"><c>to those</c></NS> that <NS type="UD"><i>the</i></NS> <NS type="RJ"><i>actually</i><c>modern-day</c></NS> children <NS type="X"><i><NS type="TV"><i>hadn't</i><c>haven't</c></NS></i><c>have</c></NS>. We could play with our toys, dolls and we could enjoy <NS type="MA"><c>ourselves</c></NS> without a computer. We hadn't so many machines <NS type="RC"><i>than</i><c>as</c></NS> they have.</p>
+          <p>The technology is growing and growing.</p>
+          <p>If you have a computer you will be able to have all the information that you want. It's very important but <NS type="RP"><i>some times</i><c>sometimes</c></NS> it is a <NS type="RJ"><i>wrong</i><c>bad</c></NS> thing because the children can see it too. Moreover you can change the TV programme without getting up. We can find information about the weather<NS type="R"><i>,</i><c> and</c></NS> sports on our TV-text.</p>
+          <p>On the other hand, <NS type="UD"><i>the</i></NS> science is changing.</p>
+          <p>We have more researchers than <NS type="RQ"><i>some</i><c>a few</c></NS> years ago and we will be able to find the solution <NS type="RT"><i>of</i><c>to</c></NS> lots of problems. Actually, we can cure <NS type="AGN"><i>illness</i><c>illnesses</c></NS> which were <NS type="RY"><i>very dangerous before</i><c>once very dangerous</c></NS>. I'm sure that in a couple of years we will see <NS type="W"><i>cured some <NS type="AGN"><i>illness</i><c>illnesses</c></NS> like cancer<NS type="R"><i>,</i><c> and</c></NS> UTH</i><c>some illnesses like cancer and UTH cured</c></NS>.</p>
+          <p>The new technology is changing our lives.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

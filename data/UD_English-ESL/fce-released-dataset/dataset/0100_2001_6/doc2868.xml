@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE5*0100*2001*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>as the leader of the conference-organisation, I'm glad if I can help you. My <NS type="RV"><i>wish</i><c>hope</c></NS> is that nothing goes wrong. So you have to know more details about our conference.</p>
+          <p>Your hotel is called Palace Hotel and it is <NS type="RV"><i>placed</i><c>located</c></NS> in the city centre. As far as I know<NS type="MP"><c>,</c></NS> this hotel is very comfortable. There is also a subway-station near Palace Hotel. Our college is not <NS type="RY"><i>much</i><c>very</c></NS> far away. You only have to take the subway-train. After three stations you have arrived <NS type="MT"><c>at</c></NS> Brooklyn street. When you come out of the subway you see our college.</p>
+          <p>The conference starts at 6 o'clock and ends at 8 o'clock. The students have prepared a music <NS type="SA"><i>program</i><c>programme</c></NS> for the end-of-conference party. There will also be an international buffet. So don't eat too much before you come. And please don't worry about clothes. There are not any rules.</p>
+          <p>In our city there is a big adventure swimming park. I think you should visit Water World on your last day. You will have a lot of <NS type="RN"><i>fund</i><c>fun</c></NS>, <NS type="L">I can tell you</NS>. If you need any further information please call me. My number is: 793354</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>The telephone is a very important invention, which has affected our lives. It is a way for people to communicate although they are <NS type="RT"><i>at</i><c>in</c></NS> two different places. People use the telephone every day and it is one of the most important things in daily life.</p>
+          <p>In my opinion people need a telephone. For example a telephone is very important in <NS type="DN"><i>job-life</i><c>professional life</c></NS>. Nowadays<NS type="MP"><c>,</c></NS> there are no companies which do not have a telephone. Also it is <NS type="SX"><i>god</i><c>good</c></NS> for people's safety. You can call the police if you are in danger or the ambulance if you are injured.</p>
+          <p><NS type="UD"><i>The people</i><c>People</c></NS> <NS type="W"><i>use the telephone also</i><c>also use the telephone</c></NS> <NS type="RT"><i>for</i><c>in</c></NS> their personal life. For example<NS type="MP"><c>,</c></NS> when you want to talk to your family or to your friends who live far away. Another aspect is that people have more time if they have a telephone. They are able to give and receive <NS type="CN"><i>informations</i><c>information</c></NS> very quickly.</p>
+          <p>This invention has made our lives easier and <NS type="RJ"><NS type="IJ"><i>quickier</i><c>quicker</c></NS></NS>. The telephone has <NS type="W"><i>made my own life also</i><c>also made my own life</c></NS> easy and <NS type="RJ">quick</NS>. <NS type="R">It makes something possible you <NS type="RP"><i>can not</i><c>cannot</c></NS> do.</NS> Finally<NS type="MP"><c>,</c></NS> I would say that the telephone is very efficient for people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

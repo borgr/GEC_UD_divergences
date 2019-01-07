@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR845*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear sir, I'm writing to express my <NS type="RN"><i>complaint</i><c>displeasure</c></NS> about the organization of the musical show I went to last Saturday evening. According to your advertisement, <NS type="W"><i>there should have been Danny Brook</i><c>Danny Brook should have been there</c></NS>, starring <NS type="MT"><c>in</c></NS> all the scenes. Instead, you changed <NS type="MD"><c>the</c></NS> actor without any warning, so I didn't <NS type="RV"><i>find</i><c>see</c></NS> my favourite Danny Brook, <NS type="R"><i>with</i><c>which was a</c></NS> <NS type="UD"><i>my</i></NS> total disappointment, as his substitute couldn't <NS type="ID"><i>catch him up</i><c>match him</c></NS> at all. And what about the starting time? I had to wait for about an hour, as the show started at 20.15 instead of 19.30. Another thing that made me angry was that I couldn't <NS type="RV"><i>have</i><c>get</c></NS> a discount. I was very annoyed about it: I only expected the discounts you had promised <NS type="RT"><i>on</i><c>in</c></NS> the advertisement and, as I am a university student, I <NS type="RV"><i>would</i><c>should</c></NS> have a right <NS type="RT"><i>on</i><c>to</c></NS> <NS type="RA"><i>it</i><c>one</c></NS>. <NS type="ID"><i>At the top of everything</i><c>On top of everything</c></NS>, your theatre restaurant was closed because it was being <NS type="RV"><i><NS type="IV"><i>restructurated</i><c>restructured</c></NS></i><c>repaired</c></NS>, so I couldn't have my dinner either! It was a terrible evening out, so I ask you for a refund for all the <NS type="FN"><i>troubles</i><c>trouble</c></NS> you caused me. Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Most people think modern technologies aren't <NS type="RT"><i>so</i><c>as</c></NS> positive as they are often <NS type="RV"><i>showed</i><c>presented</c></NS> <NS type="MV"><c>to be</c></NS>.</p>
+          <p>My personal theory is completely different. I <NS type="W"><i>have always</i><c>always have</c></NS> a <NS type="RJ"><i>good</i><c>positive</c></NS> approach with all of the most recent <NS type="S"><i>invenctions</i><c>inventions</c></NS> or any other kind of modern <NS type="RN"><i><NS type="AGN"><i>applications</i><c>application</c></NS></i><c>appliance</c></NS>.</p>
+          <p>We live in the age of personal computers, of <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, of the mobile <NS type="AGN"><i>phones</i><c>phone</c></NS>, and now for me it's impossible to think of a world without them. <NS type="MV"><i>It'</i><c>It's</c></NS> already four years since I bought my first cellular phone (<NS type="MC"><c>since</c></NS> then I <NS type="TV"><i>changed</i><c>have changed</c></NS> it many times) and it is always very useful for me: everyone can speak with me wherever I am. When, for example, I go abroad I feel closer to my <NS type="FN"><i>friend</i><c>friends</c></NS> and to my family than before.</p>
+          <p>Anyway, the thing that has <NS type="W"><i>most changed my daily life</i><c>changed my daily life most</c></NS> is the personal computer and, <NS type="S"><i>expecially</i><c>especially</c></NS>, <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. For example, now I'm writing my thesis, but I use my <NS type="RP"><i>pc</i><c>PC</c></NS> <NS type="RP"><i>everytime</i><c>every time</c></NS> I have to write a document <NS type="R"><i>in a perfect form</i><c>that has to look perfect</c></NS>.</p>
+          <p>Then, surfing <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> is becoming my passion: it's incredible how many unthinkable activities you can do with it. It's simply fantastic!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

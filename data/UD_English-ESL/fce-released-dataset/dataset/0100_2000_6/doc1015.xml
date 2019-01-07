@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR11*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p><NS type="UP"><i><NS type="RP"><i>1th</i><c>1ST</c></NS>, June,</i><c>1ST June</c></NS> 2000</p>
+          <p>Dear Ms Ryan,</p>
+          <p>I am writing to reply <NS type="MT"><c>to</c></NS> your letter and I am so <NS type="RJ"><i>glad</i><c>pleased</c></NS> to <NS type="TV"><i>win</i><c>have won</c></NS> the prize. Thank you very much!</p>
+          <p>In answer <NS type="MT"><c>to</c></NS> your questions: I would like to travel in July. I am a full-time student, my summer holidays begin at the end of June and I have planned to work on my grandfather's farm in August. So July is the only time I will be free. Secondly, I would prefer tents to log cabins. Camping is my <NS type="RN"><i>enthusiasm</i><c>hobby</c></NS> and I sleep in tents every time I go camping. Therefore, I am afraid I can't get used to log cabins easily. Besides camping, I also like painting. My Dad is an amateur painter, and I have <NS type="RV"><i>begun</i><c>been</c></NS> painting for 8 years. I'm good at portraits and landscapes. I would also like to play golf during my holiday, but I have never played it before<NS type="RP"><i>, will</i><c>. Will</c></NS> I get any tuition?</p>
+          <p>Finally, I should like to ask some questions. <NS type="R"><i>How</i><c>What</c></NS> is the weather like in California in July? What kind of clothes should I pack? If I want to buy some gifts, how much money should I take and can I use traveller's cheques in every place?</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Our lives are getting better and better, so people <NS type="TV"><i>began</i><c>have begun</c></NS> to go shopping more frequently. It's always a great <NS type="RN"><i>job</i><c>treat</c></NS> to go home with bags of purchases, but is it doing us <NS type="MQ"><c>any</c></NS> good apart from the temporary satisfaction?</p>
+          <p>Everyone likes <NS type="FN"><i>sale</i><c>sales</c></NS>, but those so-called sale items are not really <NS type="R"><i>of</i><c>good</c></NS> value. In <NS type="MD"><c>the</c></NS> fashion industry, <NS type="FN"><i>sale</i><c>sales</c></NS> <NS type="AGV"><i>begins</i><c>begin</c></NS> at the end of each season and just <NS type="AGV"><i>lasts</i><c>last</c></NS> a short time, because those <NS type="RN"><i>owners</i><c>retailers</c></NS> want to make room for new stock. But you'll find your 'cool bargain' soon <NS type="AGV"><i>get</i><c>gets</c></NS> out of date and you have to keep buying new ones. Also supermarket owners have <NS type="RV"><i>put in</i><c>invested</c></NS> a vast amount of money to find out the best way to place goods in order to get the most profit. Therefore, we become impulsive buyers easily under <NS type="M"><c>the influence of</c></NS> these tricks. The result<NS type="UP"><i>,</i></NS> <NS type="MV"><c>is</c></NS> we feel guilty after spending more than <NS type="TV"><i>we've <NS type="RV"><i>estimated</i><c>expected</c></NS></i><c>we expected</c></NS>, or even suffer from financial difficulty.</p>
+          <p>Shopping does not just <NS type="RV"><i>effect</i><c>affect</c></NS> us mentally, but also physically. It's not hard to realise how exhausted we are after a day of shopping. Think of the awful crowds, the busy car parks, polluted air in the city centres and mile-long queues in front of the cash desks. I don't think anyone <NS type="TV"><i>would really like</i><c>really likes</c></NS> to face them. But once you get there, they're just inevitable, aren't they?</p>
+          <p>Well, now before you go shopping, think again and you'll <NS type="RV"><i>find out</i><c>realise</c></NS> it won't <NS type="W"><i>be always</i><c>always be</c></NS> enjoyable. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

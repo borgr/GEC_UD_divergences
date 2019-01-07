@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR409*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>17/6/2000</p>
+          <p>Saturday </p>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to inform you about my disappointing evening <NS type="MA"><c>which</c></NS> I spent at the play "Over The Rainbow" presented by The Circle Theatre.</p>
+          <p>The problems started at the beginning. Although it <NS type="RV"><i><NS type="TV"><i>was written</i><c>wrote</c></NS></i><c>said</c></NS> 19.30 in the advertisement, the play began at 20.15. In addition, a different actor was starring instead of Danny Brooks and this was the most disappointing thing that evening for me and my friends.</p>
+          <p>I was told <NS type="MA"><c>we</c></NS> <NS type="TV"><i>to be</i><c>would be</c></NS> able to get discounts, however, I could not get any. I also went to your theatre restaurant after the show, but it was closed because it was being redecorated. As a result, I could not have my perfect evening out.</p>
+          <p>For all the reasons I have mentioned above, I would like to get at least half of my money back.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>17/6/2000</p>
+          <p>SECRETS' DAMAGE</p>
+          <p>Unfortunately, Pam wasn't very good at keeping secrets, and this made her lose her friends, her job and everything she had.</p>
+          <p>From the time she began <NS type="UD"><i>the</i></NS> university, the problems began. She was telling <NS type="MD"><c>the</c></NS> secrets of her friends to the others. One day, her friends got fed up with this and ended their friendship. Pam was sorry but there was nothing she could do about this.</p>
+          <p>Then she began to work at a company. One day, she again told the secret formula <NS type="DT"><i>or</i><c>for</c></NS> a <NS type="RN"><i>production</i><c>product</c></NS> to a friend of hers. Unfortunately, this friend told this to some other people and when it was understood that Pam was guilty, she was fired.</p>
+          <p>Life <NS type="DV"><i>and</i><c>was</c></NS> harder than <NS type="RY"><i>anytime</i><c>ever</c></NS> for Pam then. She had no friends. Nobody wanted to talk to her either. One day, she moved to a farm and nobody has heard from her since then.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

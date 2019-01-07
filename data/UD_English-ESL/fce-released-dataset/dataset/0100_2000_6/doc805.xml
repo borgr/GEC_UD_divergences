@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR319*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>31-40</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>18 June 2000</p>
+          <p>Dear Ms Ryan,</p>
+          <p>Thank you very much for your letter. I <NS type="TV"><i>have just received</i><c>just received</c></NS> it yesterday. I am very <NS type="RJ"><i>exciting</i><c>excited</c></NS>.</p>
+          <p>I would like to go to California in the U.S.A. in July. It is the only month that I can have my holiday <NS type="UT"><i>in</i></NS> <NS type="RD"><i>a</i><c>this</c></NS> year and it <NS type="TV"><i>would</i><c>will</c></NS> be nice in the <NS type="RP"><i>summer time</i><c>summertime</c></NS>.</p>
+          <p><NS type="RT"><i>About</i><c>Regarding</c></NS> the accommodation at Camp California, I prefer a log cabin. It would be <NS type="FJ"><i>nice and safe</i><c>nicer and safer</c></NS> for me than the tents. The activities I would like to choose <NS type="R"><i>the</i><c>are</c></NS> swimming and sailing. It could be fun for me because I like swimming<NS type="MP"><c>,</c></NS> and sailing could be exciting too.</p>
+          <p>Lastly, I would like to know about the money and clothes. How about the weather in California in July? Is it hot or raining? <NS type="RC"><i>Then</i><c>And</c></NS> <NS type="W"><i>I can</i><c>can I</c></NS> <NS type="RV">prepare</NS> my clothes, or can we buy some clothes there? <NS type="RV"><i>Are</i><c>Do</c></NS> they accept <NS type="UD"><i>the</i></NS> credit <NS type="FN"><i>card</i><c>cards</c></NS> or only cash<NS type="RP"><i>.</i><c>?</c></NS> I don't want to take money with me.</p>
+          <p>I would be <NS type="S"><i>greatful</i><c>grateful</c></NS> if you could send me the full details. Many thanks.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>In the following <NS type="S"><i>paragraps</i><c>paragraphs</c></NS> I will discuss the advantages and disadvantages <NS type="RT"><i>about</i><c>of</c></NS> shopping.</p>
+          <p>Everyone needs to <NS type="FV"><i>shopping</i><c>shop</c></NS> <NS type="RP"><i>everyday</i><c>every day</c></NS>. It is <NS type="MD"><c>a</c></NS> very important thing for our life. We need food, clothes, <NS type="FN"><i>book</i><c>books</c></NS> etc. There are many kinds of <NS type="R">thing for</NS> shopping and they are different<NS type="MP"><c>,</c></NS> for example the price, the quality</p>
+          <p>In <NS type="MD"><c>a</c></NS> <NS type="S"><i>suppermarket</i><c>supermarket</c></NS>, shop<NS type="R"><i>,</i><c> or</c></NS> department store <NS type="MA"><c>they</c></NS> have many things. We could buy <NS type="RY"><i>mostly</i><c>almost</c></NS> all we need in one store. It is very <NS type="S"><i>convenien</i><c>convenient</c></NS>.</p>
+          <p>On the other hand, shopping is not always easy. <NS type="RY"><i>Sometime</i><c>Sometimes</c></NS>, <NS type="AGV"><i><NS type="RA"><i>it's</i><c>there's</c></NS></i><c>there are</c></NS> so many people and they are not friendly at all or you are <NS type="M"><c>in a</c></NS> hurry while you are in <NS type="RD"><i>the</i><c>a</c></NS> long <NS type="S"><i>queu</i><c>queue</c></NS>.</p>
+          <p>We have seen then<NS type="UP"><i>,</i></NS> <NS type="MC"><c>that</c></NS> shopping is very important for our life. Most people enjoy shopping because it <NS type="MV"><c>is</c></NS> more <NS type="S"><i>convenien</i><c>convenient</c></NS> <NS type="UT"><i>for</i></NS> today but if you found <NS type="RD"><i>the</i><c>a</c></NS> busy place for shopping or it <NS type="TV"><i>is</i><c>was</c></NS> not as good as you <NS type="TV"><i>expect</i><c>expected</c></NS><NS type="RP"><i>. It</i><c>, it</c></NS> would not <NS type="MV"><c>be</c></NS> enjoyable for you.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

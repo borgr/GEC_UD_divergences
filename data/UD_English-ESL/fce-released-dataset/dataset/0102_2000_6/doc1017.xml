@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR12*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>15.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>I'm a person<NS type="UP"><i>,</i></NS> <NS type="MA"><c>who</c></NS> went to see the musical show<NS type="RP"><i>,</i><c>.</c></NS> I would like to know something about <NS type="MD"><c>the</c></NS> "Over the rainbow" programme<NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p><NS type="CE">You have informed the actor, times, discount and the restaurant to people, but actually what did you do?</NS></p>
+          <p><NS type="UD"><i>The first</i><c>First</c></NS>, you have changed the actor.</p>
+          <p><NS type="UD"><i>The second</i><c>Second</c></NS>, <NS type="R">the time is late from 19.30, it started 20.15</NS>.</p>
+          <p><NS type="UD"><i>The third</i><c>Third</c></NS>, <NS type="R">the tickets have not the discount</NS>.</p>
+          <p><NS type="UD"><i>The last</i><c>Last</c></NS>, after <NS type="MD"><c>the</c></NS> show, I couldn't go to the restaurant, because it was closed.</p>
+          <p>What's happened? <NS type="R">This is the good theatre do, or not?</NS> This is <NS type="RD"><i>the</i><c>a</c></NS> famous theatre. <NS type="CE">You know, What did people feel? Everybody attented go to the show, funny, and <NS type="S"><i>happ</i><c>happy</c></NS> in the end, and what have we go then?</NS> <NS type="S"><i>Disapponted</i><c>Disappointed</c></NS>! <NS type="RV"><i>Thank</i><c>Think</c></NS> about that. If you <NS type="TV"><i><NS type="RP"><i>can not</i><c>cannot</c></NS></i><c>could not</c></NS> <NS type="RV"><NS type="FV"><i>managed</i><c>manage</c></NS></NS> the <NS type="S"><i>programe</i><c>programme</c></NS>, why <NS type="MY"><i>did</i><c>didn't</c></NS> you <NS type="S"><i>informe</i><c>inform</c></NS> people before <NS type="MD"><c>the</c></NS> <NS type="S"><i>programe</i><c>programme</c></NS> <NS type="TV"><i>start</i><c>started</c></NS>?</p>
+          <p><NS type="CE">I <NS type="S"><i>tought</i><c>thought</c></NS> you <NS type="S"><i>inderstood</i><c>understood</c></NS>'; please send money back to me, you know why, don't answer me?</NS></p>
+          <p>Thank you,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p><NS type="CE">Now we know, our world <NS type="AGV"><i>have</i><c>has</c></NS> developed to new world, <NS type="S"><i>becase</i><c>because</c></NS> we have high technology to do</NS>.</p>
+          <p><NS type="CE">If we came back to the past, we felt everything, it was so difficult to do, we would have plane and done by <NS type="DA"><i>ourself</i><c>ourselves</c></NS> and last time</NS>.</p>
+          <p><NS type="R"><i>In the present</i><c>Today</c></NS>, <NS type="UD"><i>the</i></NS> <NS type="S"><i>teachnology</i><c>technology</c></NS> is a <NS type="RN"><i>past</i><c>part</c></NS> of life. <NS type="R">It started from got up in the morning, we have the machine help us to cook, iron, <NS type="DN"><i>cleanning</i><c>cleaning</c></NS>, washing, and then we went out to work, there are car, sky train to travel for help us convenience and quickly</NS>.</p>
+          <p>While we <NS type="TV"><i>worked</i><c>work</c></NS> at the office, there are the computer and equipment <NS type="UT"><i>for</i></NS> <NS type="FV"><i>help</i><c>to help</c></NS> <NS type="MA"><c>us</c></NS> to work <NS type="R">and easy</NS><NS type="RP"><i>, after</i><c>. After</c></NS> we have finished work, we come back home, <NS type="MC"><c>and</c></NS> there <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="MD"><c>the</c></NS> television <NS type="R">for get information, news, data by different way and quickly</NS>.</p>
+          <p>How has modern technology changed your <NS type="RJ"><i>daily</i><c>everyday</c></NS> life?</p>
+          <p><NS type="R">We appreciated the <NS type="S"><i>mordern</i><c>modern</c></NS> technology changed my daily life for help every easy and quickly, we have time to do many things</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

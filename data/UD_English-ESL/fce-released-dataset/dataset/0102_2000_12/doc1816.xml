@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR75*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>16/12/2000</p>
+          <p>Dear Jane Clark,</p>
+          <p>First of all, I'd like you to know that the whole organization was <NS type="RY"><i>nearly</i><c>almost</c></NS> excellent. I spent two nice days at the festival full of art.</p>
+          <p>The idea of making the festival "international" was very good. I could find the opportunity to watch <NS type="UD"><i>the</i></NS> artists from different countries, but there could have been stars from more than 6 countries. The jazz, classical and rock concerts were great despite some of the concert halls <NS type="FV"><i>were</i><c>being</c></NS> too small. <NS type="MD"><c>The</c></NS> <NS type="RP"><i>Plays</i><c>plays</c></NS> and films I watched were also excellent, but more could be on the stage next year. I <NS type="RV"><i>joined</i><c>attended</c></NS> the art exhibitions and saw interesting pictures. The dance shows <NS type="RV"><i>made</i><c>were</c></NS> <NS type="MD"><c>a</c></NS> sight for our <NS type="RJ"><i>sour</i><c>sore</c></NS> eyes<NS type="RP"><i>,</i><c>;</c></NS> they were really fascinating. I learned so many things about the writers and their ideas, <NS type="MT"><c>not to mention</c></NS> their <NS type="RP"><i>life styles</i><c>lifestyles</c></NS><NS type="MP"><c>,</c></NS> by talking to them. <NS type="RT"><i>Beyond</i><c>In addition to</c></NS> all <NS type="RA"><i>these</i><c>that</c></NS>, the <NS type="RN"><i>application</i><c>idea</c></NS> of joining <NS type="MY"><c>in</c></NS> all <NS type="MD"><c>the</c></NS> activities <NS type="RT"><i>by</i><c>with</c></NS> one <NS type="UP"><i>nice-priced</i><c><NS type="RY"><i><NS type="DY"><i>nice</i><c>nicely</c></NS></i><c>reasonably</c></NS> priced</c></NS> ticket was excellent<NS type="UP"><i>;</i></NS> because it saved you from <NS type="MV"><c>having</c></NS> <NS type="FV"><i>buying</i><c>to buy</c></NS> one ticket for each activity. Next year, I think you should increase the number of shows, concerts and <NS type="R"><i>others</i><c>other things</c></NS>, <NS type="MC"><c>and</c></NS> also the time spent at the festival (for example: at least 5 days), then everything would be perfect.</p>
+          <p>Thank you for <NS type="RV"><i>making</i><c>holding</c></NS> a great festival which made all the <NS type="RN"><i>art</i><c>arts</c></NS> activities come together.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Jennifer,</p>
+          <p>I'm glad that everything's going on well there. It's the same here. I've got <NS type="RQ"><i>too many</i><c>a lot of</c></NS> exams <NS type="RY"><i>nowadays</i><c>at the moment</c></NS>, but that's all. By the way, it would be better <NS type="RP"><i>If</i><c>if</c></NS> you wrote <NS type="W"><i>quite often to me</i><c>to me quite often</c></NS>.</p>
+          <p>The things you wrote about the rules made me think for a long time and I understood that some really don't make any sense! The more you obey the rules, the better person you are! Our school is really very <NS type="S"><i>diciplined</i><c>disciplined</c></NS>, especially about our clothes and <NS type="FN"><i>behaviours</i><c>behaviour</c></NS>. I understand the second part, but I can't <NS type="RV"><i>get</i><c>understand</c></NS> the reason <NS type="RT"><i>of</i><c>for</c></NS> <NS type="W"><i>wearing <NS type="UT"><i>in</i></NS> white <NS type="SX"><i>an</i><c>and</c></NS> dark blue only</i><c>only wearing white and dark blue</c></NS>. Do we become the "perfect one" then? Then again, we have to obey all these rules. It can be said that I'm much <NS type="IJ"><i>more free</i><c>freer</c></NS> at home. I'm allowed to do whatever I want <NS type="RT"><i>at</i><c>in</c></NS> my room. I can't go out at nights easily, but that is not something that I mind about. There are three main things that are very important for my family: respect, honesty and trust. I think I show these three to them.</p>
+          <p>Don't ever forget to write to me, okay?</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

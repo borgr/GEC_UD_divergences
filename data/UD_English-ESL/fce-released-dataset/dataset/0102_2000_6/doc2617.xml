@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1049*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>31-40</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>To Manager.</p>
+          <p>My name is Sam. I would like to inform you that your advertisement mentions so many different things, so it spoilt a part of my journey. Then I want to receive my money for the ticket.</p>
+          <p>After reading your advertisement. I went to your theatre to see 'Over the rainbow' last night. I was excited to see it. But everything was terrible and different <NS type="RT"><i>from</i><c>to</c></NS> your advertisement. First of all the actor was different. So I was disappointed. I had wanted to see Danny Brook in the show. The movie started 20.15 not 19.30. You wrote '<NS type="S"><i>discouts</i><c>discounts</c></NS> available' but they didn't <NS type="M"><c>offer any</c></NS> discount. After the show, I couldn't have my dinner in your theatre restaurant. The restaurant was closed because of being repaired.</p>
+          <p>You advertised <NS type="UT"><i>for</i></NS> my perfect evening out. But <NS type="RA"><i>I</i><c>it</c></NS> was <NS type="S"><i>unpleasent</i><c>unpleasant</c></NS> because of these things. So I ask you to return some money back.</p>
+          <p>If you have something to ask, please call me. I will stay until the end of this month. The number is 577-6277. (Hotel number).</p>
+          <p>I wait to hear from you soon.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="CE">I think there is nothing not to be influenced by science and technology affects in our daily life nowadays</NS>. I would like to <NS type="RV"><i>answer</i><c>describe</c></NS> how modern technology has changed my daily life as a housewife.</p>
+          <p>I have <NS type="L"><i>much</i><c>a lot of</c></NS> housework to <NS type="TV"><i>be done</i><c>do</c></NS> from early morning until late evening. I always use many electric <NS type="RN"><i>products</i><c>appliances</c></NS>; washing machine, dish-washer, vacuum cleaner, blender, <NS type="RN"><i>juice</i><c>juicer</c></NS>, fridge. I think I can have my spare time <NS type="RJ"><i>owing</i><c>thanks</c></NS> to these <NS type="AGN"><i>thing</i><c>things</c></NS>. For example if I don't have <NS type="MD"><c>a</c></NS> washing machine, I <NS type="TV"><i>will</i><c>would</c></NS> have to wash all <NS type="MD"><c>the</c></NS> clothes myself. Then it takes about 1 hour or one and a half to wash. <NS type="RT"><i>During</i><c>while</c></NS> the washing machine is whirring, I can <NS type="RV"><i>get</i><c>have</c></NS> my time. So I can read my book or do another thing. Also I can't imagine my life without <NS type="MD"><c>a</c></NS> car. It would be terrible. Now I can't live without them.</p>
+          <p>Owing to all of them, I can live very <NS type="S"><i>comfortbly</i><c>comfortably</c></NS>. These things provide me <NS type="MT"><c>with</c></NS> <NS type="RQ"><i>all</i><c>every</c></NS> convenience.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

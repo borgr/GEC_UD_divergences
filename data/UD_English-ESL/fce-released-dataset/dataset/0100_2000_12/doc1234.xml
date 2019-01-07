@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR509*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>DEAR MR ROBERTSON</p>
+          <p>I AM WRITING <NS type="UA"><i>YOU</i></NS> WITH REFERENCE <NS type="RT"><i>IN</i><c>TO</c></NS> THE LONDON TRIP WE ARE <NS type="RV"><i>HAVING</i><c>MAKING</c></NS> <NS type="S"><i>PRERY</i><c>VERY</c></NS> SOON.</p>
+          <p>I AM WRITING <NS type="RT"><i>IN</i><c>ON</c></NS> <NS type="RN"><i><NS type="S"><i>REPRECENTATION</i><c>REPRESENTATION</c></NS></i><c>BEHALF</c></NS> OF MY GROUP, AND ALL OF US WANT TO SAY THANK YOU FOR <NS type="FV"><i>TAKE</i><c>TAKING</c></NS> US ABROAD.</p>
+          <p>WE <NS type="TV"><i>SAW</i><c>HAVE SEEN</c></NS> THE ACTIVITIES <NS type="SA"><i>PROGRAM</i><c>PROGRAMME</c></NS> ALREADY AND WE THINK <NS type="MA"><c>IT</c></NS> IS EXCITING, ESPECIALLY THE VISIT TO THE SCIENCE MUSEUM. AT THE SAME TIME<NS type="MP"><c>,</c></NS> WE WOULD LIKE TO ASK YOU SOMETHING.</p>
+          <p><NS type="AS"><i>THERE IS GOING TO BE THE LONDON FASHION AND LEISURE SHOW</i><c>THE LONDON FASHION AND LEISURE SHOW IS GOING TO BE</c></NS> ON THE 14TH OF MARCH, FROM 10.00 TO 19.00. WE ARE <NS type="DY"><i>REALY</i><c>REALLY</c></NS> <NS type="RJ"><i>INTERESTING</i><c>INTERESTED</c></NS> IN THIS SHOW. <NS type="RP"><i>EVENTHOUGH</i><c>EVEN THOUGH</c></NS> YOUR <NS type="SA"><i>PROGRAM</i><c>PROGRAMME</c></NS> IS PERFECT<NS type="MP"><c>,</c></NS> WE <NS type="TV"><i>WILL</i><c>WOULD</c></NS> PREFER TO GO THERE.</p>
+          <p><NS type="RV"><i>COULD</i><c>WOULD</c></NS> YOU PLEASE BE SO KIND <NS type="R"><i>AND</i><c>AS</c></NS> <NS type="FV"><i>CHANGE</i><c>TO CHANGE</c></NS> SOME OF THE ACTIVITIES THAT <NS type="R"><i>WE WILL HAVE</i><c>ARE PLANNED</c></NS>?</p>
+          <p>WE THINK <NS type="MA"><c>IT</c></NS> IS A <NS type="SX"><i>GRATE</i><c>GREAT</c></NS> <NS type="S"><i>OPORTUNITY</i><c>OPPORTUNITY</c></NS>, BECAUSE AS YOU KNOW, WE DON'T HAVE <NS type="S"><i>ACCES</i><c>ACCESS</c></NS> TO THAT KIND OF <NS type="AGN"><i>SHOWS</i><c>SHOW</c></NS> IN THIS CITY.</p>
+          <p>IN CASE YOU DECIDE TO CHANGE THE <NS type="SA"><i>PROGRAM</i><c>PROGRAMME</c></NS>, WE SUGGEST <NS type="W"><i>ON <NS type="S"><i>TUSDAY</i><c>TUESDAY</c></NS> <NS type="FV"><i>GO</i><c>GOING</c></NS> TO THE SHOW</i><c>GOING TO THE SHOW ON TUESDAY</c></NS> AND ON <NS type="S"><i>WENSDAY</i><c>WEDNESDAY</c></NS><NS type="MP"><c>,</c></NS> <NS type="S"><i>INSTED</i><c>INSTEAD</c></NS> <NS type="MT"><c>OF</c></NS> FREE TIME, <NS type="FV"><i>VISIT</i><c>VISITING</c></NS> THE SCIENCE MUSEUM. <NS type="R">THOUGH WE DONT HAVE SHOPPING AND FREE TIME</NS>.</p>
+          <p>WE ARE LOOKING FORWARD <NS type="RT"><i>FOR</i><c>TO</c></NS> YOUR ANSWER.</p>
+          <p><NS type="DA"><i>YOUR</i><c>YOURS</c></NS> <NS type="DY"><i>SINCERLY</i><c>SINCERELY</c></NS><NS type="RP"><i>;</i><c>,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>"THE RIGHT PERSON"</p>
+          <p>MAY 29, 1997. IT WAS MY FIRST TIME IN LONDON. THAT NIGHT<NS type="MP"><c>,</c></NS> I WENT TO A PUB IN BAYSWATER. WHEN THEY CLOSED<NS type="MP"><c>,</c></NS> I TOOK THE <NS type="MN"><c>NUMBER</c></NS> 7 BUS.</p>
+          <p>I WAS LIVING QUITE <NS type="S"><i>CLOUSE</i><c>CLOSE</c></NS> TO PORTOBELLO ROAD BUT I DIDN'T KNOW <NS type="W"><i>VERY WELL THE AREA</i><c>THE AREA VERY WELL</c></NS> BECAUSE ALL <NS type="MD"><c>THE</c></NS> TIME I JUST HAD TO GET OFF <NS type="RT"><i>IN</i><c>AT</c></NS> THE <NS type="S"><i>COURNER</i><c>CORNER</c></NS> OF MY <NS type="RN"><i>HOUSE</i><c>STREET</c></NS>. BUT THAT DAY, <NS type="RC"><i>LIKE</i><c>AS</c></NS> I WAS KIND OF DRUNK, I DIDN'T REALISE THAT THE BUS TOOK A DIFFERENT <NS type="RN"><i>WAY</i><c>ROUTE</c></NS><NS type="RP"><i>;</i><c>.</c></NS> SO<NS type="MP"><c>,</c></NS> WHEN I NOTICED IT<NS type="MP"><c>,</c></NS> THE DRIVER WAS ALREADY ASKING ME TO GET OFF, BECAUSE WE <NS type="SX"><i>WHERE</i><c>WERE</c></NS> IN THE GARAGE IN PORTOBELLO. I TOLD HIM<NS type="UP"><i>,</i></NS> I DIDN'T KNOW WHERE I WAS<NS type="MP"><c>,</c></NS> BUT HE JUST <NS type="S"><i>SEID</i><c>SAID</c></NS> SORRY.</p>
+          <p>I WAS <NS type="DY"><i>REALY</i><c>REALLY</c></NS> <NS type="DJ"><i>SCARE</i><c>SCARED</c></NS>. THERE WERE SOME PEOPLE <NS type="S"><i>AROUN</i><c>AROUND</c></NS> BUT I WAS AFRAID TO ASK THEM THE WAY <NS type="U"><i>I SHOULD TAKE</i></NS>.</p>
+          <p><NS type="RY"><i>AT <NS type="SX"><i>LEAST</i><c>LAST</c></NS></i><c>FINALLY</c></NS> I ASKED A BOY AND HE SAID "I'LL TELL YOU WHERE <NS type="W"><i>IS THE PLACE YOU ARE LOOKING FOR</i><c>THE PLACE YOU ARE LOOKING FOR IS</c></NS>, JUST FOLLOW ME".</p>
+          <p>IT WAS DANGEROUS, BUT I KNEW I HAD TO DO IT. <NS type="W"><i>10 MINUTES AFTER <NS type="U"><i>I WAS</i></NS> FOLLOWING HIM</i><c>AFTER FILLOWING HIM <NS type="MT"><c>FOR</c></NS> 10 MINUTES</c></NS>, I <NS type="TV"><i>START</i><c>STARTED</c></NS> <NS type="RV"><i><NS type="FV"><i>KNOWING</i><c>TO KNOW</c></NS></i><c>TO RECOGNISE</c></NS> THE PLACE, AND I WAS <NS type="RV"><i>FELLING</i><c>FEELING</c></NS> MORE <NS type="S"><i>CONFORTABLE</i><c>COMFORTABLE</c></NS>.</p>
+          <p>HE TOOK ME RIGHT <NS type="RT"><i>IN</i><c>TO</c></NS> <NS type="MD"><c>THE</c></NS> FRONT OF MY HOUSE. I <NS type="TV"><i>THANK</i><c>THANKED</c></NS> HIM <NS type="RY"><i>SO</i><c>VERY</c></NS> MUCH, AND I WAS SO HAPPY THAT I ASKED <NS type="UT"><i>TO</i></NS> THE RIGHT PERSON AND NOTHING <NS type="RJ"><i><NS type="S"><i>WRON</i><c>WRONG</c></NS></i><c>BAD</c></NS> <NS type="TV"><i>HAPPEN</i><c>HAPPENED</c></NS> TO ME.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

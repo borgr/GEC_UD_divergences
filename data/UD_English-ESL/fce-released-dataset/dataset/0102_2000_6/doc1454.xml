@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR564*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>41-50</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm writing this letter to complain about the show which I saw <NS type="RT"><i>in</i><c>at</c></NS> your theatre.</p>
+          <p>During <NS type="MD"><c>my</c></NS> <NS type="DN"><i>staying</i><c>stay</c></NS> in London, I <NS type="TV"><i>had read</i><c>read</c></NS> your advertisement and planned to enjoy seeing the musical show. I had expected that I <NS type="RV"><i>could</i><c>would</c></NS> have <NS type="UV"><i>spend</i></NS> a wonderful night.</p>
+          <p>But it was completely different <NS type="UA"><i>one</i></NS> <NS type="MT"><c>to</c></NS> <NS type="RA"><i>which</i><c>what</c></NS> I had expected. I had been looking forward to seeing Danny Brook and Tina Truelove. Can you imagine how disappointed I was when I saw <NS type="UD"><i>the</i></NS> different actors on the stage?</p>
+          <p>According to the advertisement the show <NS type="TV"><i>is</i><c>was</c></NS> to start at 19:30. However<NS type="MP"><c>,</c></NS> it <NS type="RV"><i>did</i><c>started</c></NS> at 20:15. We had to wait for 45 minutes! <NS type="TV"><i>Could</i><c>Can</c></NS> you understand how boring it was just sitting with nothing to do<NS type="UP"><i>.</i></NS>? You mention <NS type="UT"><i>about</i></NS> discounts, too. But no discounts were <NS type="RV"><i>accepted</i><c>offered</c></NS>. In addition your theatre restaurant was closed because the chef was sick!</p>
+          <p>I felt so uncomfortable and the night was not perfect at all. I insist you <NS type="UV"><i>should</i></NS> refund all the money that I wasted in your theatre.</p>
+          <p>Yours faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Modern technology has really changed our daily life.</p>
+          <p>For example, we don't have to wash our face with cold water even if it is <NS type="MD"><c>a</c></NS> freezing morning. We can live in a clean and comfortably air-conditioned house. The <NS type="DN"><i>housekeeping work</i><c>housework</c></NS> doesn't take much time thanks to electrical <NS type="CN"><i>equipments</i><c>equipment</c></NS>. And we can speak to anyone at anytime on a phone even if he or she is abroad. Further, we can get <NS type="CQ"><i>many</i><c>a lot of</c></NS> information <NS type="R">as you like at a moment</NS> with <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. In addition, we can travel <NS type="UT"><i>to</i></NS> anywhere in the world <NS type="RT"><i>within</i><c>in</c></NS> a few days.</p>
+          <p>These are <NS type="MD"><c>the</c></NS> advantages which modern technology has brought <NS type="UT"><i>to</i></NS> us. But I must accept that there are some disadvantages <NS type="RV"><i>caused by</i><c>arising from</c></NS> <NS type="UD"><i>the</i></NS> technology, as well.</p>
+          <p>The biggest disadvantage is pollution. <NS type="UT"><i>In these</i><c>These</c></NS> days, many kinds of pollution have been caused by our modern <NS type="RN"><i>life</i><c>lifestyle</c></NS>. Air pollution <NS type="RT"><i>by</i><c>from</c></NS> cars, Soil pollution <NS type="RT"><i>by</i><c>from</c></NS> industrial <NS type="CN"><i>wastes</i><c>waste</c></NS>. The sea is also polluted by oil and <NS type="MD"><c>the</c></NS> chemical <NS type="FN"><i>detergent</i><c>detergents</c></NS> which <NS type="AGV"><i>is</i><c>are</c></NS> used <NS type="RT"><i>at</i><c>in</c></NS> <NS type="MD"><c>the</c></NS> home. Even food is polluted. All these facts mean that our modern life <NS type="RV"><i>gives</i><c>causes</c></NS> <NS type="RJ"><i>big</i><c>great</c></NS> damage to the earth. All of us must notice this fact. And we should <NS type="DV">keep our attention paid</NS> in order <NS type="FV"><i>save</i><c>to save</c></NS> our precious earth.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

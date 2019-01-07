@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR145*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>31-40</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="S">Thuesday</NS> 13th June 2000</p>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I've just received your letter, and I am <NS type="RY"><i>very</i><c>really</c></NS> delighted to be the winner. I thank you.<NS type="UP"><i>.</i></NS></p>
+          <p>As regards <NS type="R"><i>to the time</i><c>when</c></NS> I would like to travel, I would like to make you aware that I can only <NS type="MV"><c>travel</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> July because I am <NS type="RY"><i>very</i><c>really</c></NS> tied up <NS type="MT"><c>at</c></NS> this time owing to <NS type="SX"><i>he</i><c>the</c></NS> exam period<NS type="MP"><c>,</c></NS> which will last until the end of June.</p>
+          <p>I'd rather have accommodation in tents, it would be a good experience for me<NS type="MP"><c>,</c></NS> especially because I haven't <NS type="R">lived it as well as it is more romantic</NS>.</p>
+          <p>As you have informed me, there are a lot of activities that we can do. <NS type="UD"><i>The swimming</i><c>Swimming</c></NS> is my <NS type="RJ"><i>best</i><c>favourite</c></NS> sport. I was born and raised on a Greek island called Crete. The sea is part of <NS type="RA"><i>myself</i><c>me</c></NS>. Furthermore I will have the opportunity to play basketball, despite the fact that I am not <NS type="RY"><i>too</i><c>very</c></NS> tall for this kind of sport. However, I used to play basketball in my school because we <NS type="X"><i>hadn't</i><c>didn't have</c></NS> <NS type="MQ"><c>any</c></NS> other <NS type="RN"><i>sport</i><c>type of</c></NS> <NS type="RN"><i>pitch</i><c>court</c></NS> <NS type="R"><i>except of</i><c>other than</c></NS> the <NS type="RN"><i>basket</i><c>basketball</c></NS> <NS type="RN"><i>pitch</i><c>court</c></NS>.</p>
+          <p>Finally, would you mind <NS type="FV"><i>to send</i><c>sending</c></NS> me more information about the amount of money that I should <NS type="RV"><i>have</i><c>bring</c></NS>. Also, what about the <NS type="RN">life</NS> <NS type="RJ"><i>out</i><c>outside</c></NS> of the camp? Are there other places <NS type="R">for entertainment especially for</NS> the <NS type="RP"><i>night life</i><c>nightlife</c></NS>? Could you send me some brochures for the place where we will stay <NS type="UT"><i>in</i></NS>?</p>
+          <p>Thank you again, and I am looking forward to your reply<NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>The aim of this report is to give some suggestions about the short video which my college is going to make about the daily life of our school. It considers two <NS type="RN"><i>points</i><c>areas</c></NS>: the lessons and <NS type="MD"><c>the</c></NS> activities which should be filmed.</p>
+          <p>I am of the opinion that the morning English lessons with our teacher<NS type="MP"><c>,</c></NS> George<NS type="MP"><c>,</c></NS> are worth filming and showing for many reasons. Above all, they are enjoyable and interesting. All of us participate <NS type="RY">effectively</NS>. Nobody is yawning or feeling bored. I <NS type="R">want this opinion won't imply</NS> that the other lessons of other teachers aren't interesting. I think we are lucky with our competent teachers. <NS type="RY"><i>Besides</i><c>Also</c></NS> the practical lessons of the cooking course level NVQ3 might be interesting with <NS type="RD"><i>the</i><c>their</c></NS> delicious dishes of meat and vegetables. The pictures <NS type="TV"><i>will</i><c>would</c></NS> be amazing and wonderful.</p>
+          <p>There are many activities that <NS type="UA"><i>they</i></NS> could be filmed. We can film our Swimming pool, <NS type="R">despite the artificial sunbathing</NS>. It is clean, neat and tidy with helpful staff. The gym is <NS type="MD"><c>a</c></NS> good choice for filming with the sophisticated <NS type="CN"><i>equipments</i><c>equipment</c></NS> that <NS type="MA"><c>you</c></NS> <NS type="RV"><i><NS type="AGV"><i>owns</i><c>own</c></NS></i><c>have</c></NS>. In addition, we can film the library<NS type="MP"><c>,</c></NS> which possesses thousand of works<NS type="RP"><i>. Books</i><c>, books</c></NS> <NS type="RT"><i>of</i><c>on</c></NS> various <NS type="FN"><i><NS type="RN"><i>interest</i><c>subject</c></NS></i><c>subjects</c></NS>, with up-to-date facilities such as computers<NS type="MP"><c>,</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, <NS type="FN"><i>CD</i><c>CDs</c></NS> and cassettes.</p>
+          <p>We shouldn't <NS type="RV">disregard</NS> and neglect to film the buildings and the gardens of our beautiful college, especially <NS type="RC"><i>when</i><c>if</c></NS> we take into <NS type="UD"><i>our</i></NS> consideration the fact that it is in the city of <NS type="S"><i>Shakespear</i><c>Shakespeare</c></NS>. It will be <NS type="UD"><i>a</i></NS> good advertising, and will help to make the reputation of our college even <NS type="UY"><i>more</i></NS> better.</p>
+          <p>Finally, I hope that my modest report will help the management of our college to achieve their aim.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

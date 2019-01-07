@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1076*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>26-30</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to express my pleasure about the <NS type="RJ">successful</NS> programme that you have prepared for our school, especially the excellent idea to visit the National Art Gallery.</p>
+          <p>In addition, I would like to inform you about an advertisement for the London Fashion and Leisure Show, which my classmates and I have seen. We are really interested in <NS type="MD"><c>the</c></NS> latest fashions and new hairstyles, <NS type="RC"><i>but</i><c>and</c></NS> also we are keen on knowing about leisure and sports clothes and <NS type="MD"><c>the</c></NS> <NS type="W"><i>especially girls</i><c>girls especially</c></NS> enjoy seeing the different kinds of <NS type="DN"><i>making up</i><c>make-up</c></NS>.</p>
+          <p>Furthermore, we have been informed that students are allowed to <NS type="RV"><i>see</i><c>visit</c></NS> this exhibition <NS type="R"><i>without paying money</i><c>free</c></NS>. This event takes place in <NS type="MD"><c>the</c></NS> Central Exhibition Hall in London, on Tuesday <NS type="UT"><i>on</i></NS> <NS type="MD"><c>the</c></NS> 14th of March.</p>
+          <p>I would be grateful if you would consider my suggestion. If you agree to <NS type="MD"><c>a</c></NS> visit <NS type="MT"><c>to</c></NS> this exhibition, we will spend <NS type="RD"><i>our</i><c>the</c></NS> day there, thus we should cancel the shopping, but we will be able to purchase some presents <NS type="MD"><c>the</c></NS> next day, as you have not organised a specific plan.</p>
+          <p>I look forward to your answer.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. I had to hit a human being and unfortunately, although I respect every form of life<NS type="MP"><c>,</c></NS> humans, animals and plants, I managed to hit a burglar.</p>
+          <p>Three months ago, I cannot forget this day, my parents visited my aunt <NS type="RT"><i>at</i><c>in</c></NS> hospital as she was ill. On this day I was really exhausted as I had been studying for 8 hours. I decided to stay at home and listen to music. I switched off the lights and I was sitting in bed.</p>
+          <p>While I was listening to my favourite cassette, I heard a strange noise. Immediately I opened my door and... I could not believe my eyes! A short man <NS type="TV"><i>stood</i><c>was standing</c></NS> in front of me!</p>
+          <p>Without any warning<NS type="MP"><c>,</c></NS> he pushed my arms. I shouted as <NS type="R"><i>I pained</i><c>it hurt</c></NS>. I realised that he was very strong. But I was faster and more intelligent than him. I ran quickly and I managed to escape from him, I found <NS type="R"><i>one</i><c>a</c></NS> hidden wooden spoon and while he was passing in front of me I hit him.</p>
+          <p>To my relief I managed to survive!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

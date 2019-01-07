@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1016*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I <NS type="TV"><i>was</i><c>am</c></NS> <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="RT"><i>as</i><c>in</c></NS> reply <NS type="RT"><i>of</i><c>to</c></NS> your letter<NS type="RP"><i>,</i><c>.</c></NS> I am glad to have won the first prize in your competition for two weeks at Camp California in the USA.</p>
+          <p>About the information that you need, I must tell you that I will be able to travel only in July <NS type="S"><i>becase</i><c>because</c></NS> I <NS type="MV"><c>have</c></NS> got a new job and I can't ask for more than one month <NS type="MT"><c>of</c></NS> holidays each year and <NS type="RT"><i>on</i><c>in</c></NS> the other months I will be very busy <NS type="S"><i>becase</i><c>because</c></NS> my workmates will take holidays <NS type="RT"><i>on</i><c>in</c></NS> these months.</p>
+          <p><NS type="RT"><i>With</i><c>Regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would <NS type="TV"><i><NS type="IV"><i>prefered</i><c>preferred</c></NS></i><c>prefer</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> <NS type="S"><i>becase</i><c>because</c></NS> it is more <NS type="R"><i>according</i><c>appropriate</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> a camp. And <NS type="RT"><i>with</i><c>regarding</c></NS> the activities<NS type="MP"><c>,</c></NS> I must <NS type="TV"><i>chose</i><c>choose</c></NS> Photography and Painting <NS type="S"><i>becase</i><c>because</c></NS> I am not very good <NS type="RT"><i>for</i><c>at</c></NS> sports and I think I <NS type="TV"><i>am doing</i><c>do</c></NS> well <NS type="RT"><i>in</i><c>at</c></NS> these things.</p>
+          <p>Finally I just <NS type="MV"><c>want</c></NS> <NS type="FV"><i>ask</i><c>to ask</c></NS> you <NS type="RP"><i>What</i><c>what</c></NS> kind of clothes <NS type="UV"><i>do</i></NS> I have to bring with me, and <NS type="R"><i>around</i><c>approximately</c></NS> <NS type="RP"><i>How</i><c>how</c></NS> much money do you think I will need<NS type="RP"><i>.</i><c>?</c></NS> Thank you very much for everything.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> Sincerely</p>
+          <p>Juanita Fabiola Martin</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>31 Sea old State</p>
+          <p>Valles Co. Cornel</p>
+          <p>Wales</p>
+          <p>13th June, 2000</p>
+          <p>Dear Kim,</p>
+          <p>Here I am, <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you to tell <NS type="MA"><c>you</c></NS> everything about my wonderful experience at the concert. You can't imagine <NS type="RP"><i>How</i><c>how</c></NS> much <NS type="UV"><i>did</i></NS> I <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> that <NS type="RN">journey</NS>.</p>
+          <p>I started early in the morning<NS type="MP"><c>,</c></NS> helping to carry <NS type="UD"><i>the</i></NS> stuff from the trucks to the place where the band played<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i>help</i><c>helped</c></NS> with the <NS type="DJ"><i>music</i><c>musical</c></NS> stuff like speakers, mics, lights, sound <NS type="MN"><c>equipment</c></NS>, etc. And later the band arrived and played two or three times before the concert started. And I <NS type="TV"><i>was helping</i><c>helped</c></NS> them <NS type="FV"><i>fixing</i><c>fix</c></NS> the last details.</p>
+          <p>When the concert started<NS type="MP"><c>,</c></NS> I was preparing some drinks for the band because <NS type="R"><i>when the concert finished</i><c>after the concert</c></NS> they <NS type="TV"><i>were</i><c>would be</c></NS> very tired and <NS type="S"><i>tersty</i><c>thirsty</c></NS>.</p>
+          <p>After the concert I only <NS type="TV"><i>help</i><c>helped</c></NS> <NS type="UT"><i>with</i></NS> tidy up the place and made sure that everything was under control and clean. Later the band was talking to me, I could get their new album free, and some other souvenirs from the band.</p>
+          <p>But the thing that <NS type="AS"><i>particulary liked me</i><c>I particularly liked</c></NS> was that I could do all <NS type="FN"><i>kind</i><c>kinds</c></NS> of things just in one day and I could feel different emotions.</p>
+          <p>So, that's everything that I can tell you<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> <NS type="MA"><c>it</c></NS> a lot and I hope to have another experience like this.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

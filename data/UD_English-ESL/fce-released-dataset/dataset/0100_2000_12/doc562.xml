@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR236*0100*2000*02">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Firstly, I'm writing to thank you <NS type="MT"><c>for</c></NS> the great opportunity you <NS type="TV"><i>give</i><c>are giving</c></NS> us, especially in <NS type="IV"><i>planing</i><c>planning</c></NS> all this programme in <NS type="W"><i>a such</i><c>such <NS type="FD"><i>a</i><c>an</c></NS></c></NS> <NS type="S"><i>acurate</i><c>accurate</c></NS> way. I think that this programme <NS type="RV"><i>has</i><c>is</c></NS> <NS type="UD"><i>a</i></NS> <NS type="MP"><i><NS type="DY"><i>good</i><c>well</c></NS> <NS type="DJ"><i>organisation</i><c>organised</c></NS></i><c>well-organised</c></NS>, as you know, <NS type="R"><i>due to</i><c>because</c></NS> we have enough time to visit plenty of local interest points. But<NS type="UP"><i>,</i></NS> I was wondering, <NS type="RT"><i>like</i><c>as</c></NS> a student of this college, if we <NS type="RV"><i>would</i><c>could</c></NS> change part of this programme ... we'd like to go to the London Fashion and Leisure Show. It takes place on Tuesday 14th and begins at ten o'clock. In this way, we can go to visit the Science Museum earlier in the morning and <NS type="SX"><i>the</i><c>then</c></NS><NS type="UP"><i>,</i></NS> we can go to the show.</p>
+          <p><NS type="SX"><i>Front</i><c>From</c></NS> my point of view, we are very interested in the latest fashions like <NS type="UD"><i>the</i></NS> leisure <NS type="MN"><c>wear</c></NS>, <NS type="RP"><i>sports wear</i><c>sportswear</c></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS>, hairstyles, you know ... I strongly believe that we will be <NS type="W"><i>at the right time and <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> best city</i><c>in the best city and at the right time</c></NS> to appreciate it. Please let me know if you <NS type="UV"><i>are</i></NS> agree with us! Oh I forgot about <NS type="RA"><i>it</i><c>something</c></NS>! <NS type="RY"><i>Besides</i><c>Also</c></NS>, this show is <NS type="S"><i>gree</i><c>free</c></NS> (another <NS type="S"><i>positiu</i><c>positive</c></NS> point).</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>FANCY GETTING TO KNOW THE FUTURE?</p>
+          <p>Do you think you've <NS type="MV"><c>got</c></NS> the future in your hands? Do you think we're living like <NS type="MT"><c>in</c></NS> <NS type="RJ"><i>old</i><c>olden</c></NS> times? Would you like <NS type="FV"><i>living</i><c>to live</c></NS> in a modern way? What do you expect <NS type="RT"><i>about</i><c>in</c></NS> the future? Can you compare it ...? Are you afraid?</p>
+          <p>Well, you can look at your house ... Nowadays, we have all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of instruments <NS type="RT"><i>to</i><c>for</c></NS> washing up the dishes, <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to cook</i><c>cooking</c></NS> to be more <NS type="RJ"><i>comfortable</i><c>convenient</c></NS>, for example<NS type="MP"><c>,</c></NS> the TV, the video recorder, etc.</p>
+          <p>Maybe, in a few <NS type="MP"><i>years</i><c>years'</c></NS> <NS type="R"><i>later</i><c>time</c></NS> we'll have a bigger TV, a more suitable radio but, <NS type="ID"><i>from my point of view</i><c>in my opinion</c></NS>, I think these facts will not change <NS type="RD"><i>the</i><c>our</c></NS> way of <NS type="UD"><i>our</i></NS> <NS type="FN"><i><NS type="IN"><i>lifes</i><c>lives</c></NS></i><c>life</c></NS>. We will be able to <NS type="RV"><i>accelerate</i><c>speed up</c></NS> the <NS type="RN"><i>process</i><c>running</c></NS> of <NS type="UD"><i>the</i></NS> <NS type="UP"><i>computer's</i><c>computer</c></NS> games<NS type="MP"><c>,</c></NS> for example... But not in <NS type="RQ"><i>the</i><c>any</c></NS> strange way you can imagine...I mean I don't think we'll change cars <NS type="RT"><i>by</i><c>into</c></NS> <NS type="S"><i>aereoplanes</i><c>aeroplanes</c></NS>...</p>
+          <p><NS type="RY"><i>In this way</i><c>Therefore</c></NS>, you have to be calm because<NS type="MP"><c>,</c></NS> as you know<NS type="MP"><c>,</c></NS> <NS type="UD"><i>the</i></NS> things are developing <NS type="MC"><c>and</c></NS> in the same way <NS type="S"><i>you'r</i><c>you're</c></NS> changing, too. In conclusion, I strongly believe that <NS type="UD"><i>the</i></NS> the house of the future will be the house of a new <NS type="DN"><i>mindness</i><c>awareness</c></NS><NS type="MP"><i> it</i><c>. It</c></NS> will be a very <NS type="S"><i>positiu</i><c>positive</c></NS> point for opening <NS type="MY"><c>up</c></NS> our <NS type="IN"><i>lifes</i><c>lives</c></NS>. So, we have the future in our hands! Think about it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

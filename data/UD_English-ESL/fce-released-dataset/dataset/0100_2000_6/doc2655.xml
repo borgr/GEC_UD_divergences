@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1064*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>Thank you <NS type="RP"><i>Very</i><c>very</c></NS> much for the letter you sent me. I am <NS type="RP"><i>Very</i><c>very</c></NS> happy <NS type="UT"><i>in</i></NS> <NS type="FV"><i>winning</i><c>to win</c></NS> this prize and I hope my stay there will be great!</p>
+          <p>First of all, I can only travel in July because I have <NS type="RN"><i>tests</i><c>exams</c></NS> at school and they are <NS type="RP"><i>Very</i><c>very</c></NS> important to me and I hope you <NS type="RP"><i>Will</i><c>will</c></NS> understand my problem. And I <NS type="TV"><i><NS type="RP"><i>Will</i><c>will</c></NS></i><c>would</c></NS> like to <NS type="RV"><i>be accommodated</i><c>stay</c></NS> in a log <NS type="RP"><i>Cabin</i><c>cabin</c></NS>, because I do not like sleeping in tents, because of the bugs and insects.</p>
+          <p>For the activities I would like to <NS type="FV"><i>chose</i><c>choose</c></NS> the <NS type="RP"><i>Tennis</i><c>tennis</c></NS> <NS type="UN"><i>activities</i></NS>, which I am not too bad at, and climbing, <NS type="RP"><i>Which</i><c>which</c></NS> I have never done but <NS type="MA"><c>which</c></NS> must be interesting.</p>
+          <p>I <NS type="RP"><i>Would</i><c>would</c></NS> like to <NS type="RP"><i>Know</i><c>know</c></NS> if I need to take any clothes, and, if <NS type="R"><i>yes</i><c>so</c></NS>, <NS type="RP"><i>What Kind of Clothes</i><c>what kind of clothes</c></NS>? I also <NS type="RP"><i>Want to Know</i><c>want to know</c></NS> if I should take any <NS type="RP"><i>Money</i><c>money</c></NS>, or if all the <NS type="S"><i>expences</i><c>expenses</c></NS> are <NS type="IV"><i>payed</i><c>paid</c></NS> by <NS type="RP"><i>You</i><c>you</c></NS>. I am looking forward to your reply.</p>
+          <p>Yours sincerely,</p>
+          <p>Santiago</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Sometimes people go to the mall to look at products and don't even buy anything. But of course, there are some exceptions. For example, when you buy something, you might lose it and never <NS type="W"><i>again see it</i><c>see it again</c></NS>, or you could be robbed, or <NS type="UY"><i>even</i></NS> if the product has something wrong with it, then you have to swap it and that takes time.</p>
+          <p>And sometimes the <NS type="RN"><i>credit card</i><c>cashpoint</c></NS> machines don't work, or they don't accept your card or <NS type="U"><i>even if</i></NS> you have exceeded the limit <NS type="RT"><i>of</i><c>on</c></NS> your credit card.</p>
+          <p>Another bad thing is that people want <NS type="DN"><i>something</i><c>some things</c></NS> very badly, and they can't afford <NS type="AGA"><i>it</i><c>them</c></NS>. That makes those people frustrated and they don't enjoy <NS type="DA"><i>theirselves</i><c>themselves</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

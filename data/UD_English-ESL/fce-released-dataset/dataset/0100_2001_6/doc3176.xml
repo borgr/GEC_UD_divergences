@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE72*0100*2001*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>Thank you very much for your letter. <NS type="R">As you asked me in the letter</NS>, I am very happy to help you with <NS type="UV"><i>finding out</i></NS> <NS type="MD"><c>the</c></NS> details of the conference.</p>
+          <p>The hotel that your group will be staying at is <NS type="MD"><c>the</c></NS> Palace Hotel. It is reasonably near to the college, so it may be very <NS type="RJ"><i>good</i><c>nice</c></NS> to walk from the hotel along <NS type="MD"><c>the</c></NS> River Thames following <NS type="MD"><c>the</c></NS> yellow signs on sunny days. If it rains, you can take <NS type="MD"><c>the</c></NS> <NS type="W"><i>bus 54</i><c>54 bus</c></NS> that stops in front of the college.</p>
+          <p>The end-of-conference party is designed to give <NS type="MD"><c>a</c></NS> <NS type="ID"><i>rough <NS type="AGN"><i>ideas</i><c>idea</c></NS></i><c>taste</c></NS> <NS type="RT"><i>about</i><c>of</c></NS> many different cultures. So you will enjoy traditional foods, music, dances and games from all over the world. As a part of this, the leader of each group has to wear <NS type="RD"><i>a</i><c>the</c></NS> <NS type="RN"><i>costume</i><c>national dress</c></NS> of her country. Other members of <NS type="MD"><c>the</c></NS> groups can wear <NS type="UD"><i>a</i></NS> normal<NS type="MP"><c>,</c></NS> <NS type="RJ"><i>pretty</i><c>attractive</c></NS> formal dress.</p>
+          <p>On the last day, I recommend that you <NS type="FV"><i>will visit</i><c>visit</c></NS> the place that is located at the centre of our city. It is about 1000 years old, so I am sure that you will find it fascinating to see it.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Can you imagine your life without any computers at all? Well, I am sure that you can hardly do this unless you are living deep in a forest or in a <NS type="RN"><i>dessert</i><c>desert</c></NS>!</p>
+          <p>If you think about how many computers we use every day and how dependent we are on them, it must be clear <NS type="M"><c>to you</c></NS> that <NS type="MD"><c>the</c></NS> invention of computers has certainly had a significant impact on all our lives. For example, all <NS type="RN">infrastructures</NS><NS type="MP"><c>,</c></NS> such as <NS type="MJ"><c>public</c></NS> <NS type="CN"><i>transports</i><c>transport</c></NS> and power stations<NS type="MP"><c>,</c></NS> are <NS type="TV"><i>ran</i><c>run</c></NS> using computers<NS type="M"><c>, the</c></NS> government uses them to organise all sorts of things in a country, and all <NS type="RN"><i>kids</i><c>kinds</c></NS> of <NS type="RN"><i>services</i><c>institutions</c></NS> and businesses<NS type="MP"><c>,</c></NS> such as hospitals and supermarkets<NS type="MP"><c>,</c></NS> use them as essential <NS type="RN">capitals</NS>. In other words, almost all aspects of our lives today rely on computers. <NS type="R">So I am sure from this that it is convincing enough to say that invention of computers is really important</NS>.</p>
+          <p>From my personal experience, I can also say that a personal computer is also an amazing tool. It improves <NS type="MD"><c>the</c></NS> <NS type="RN">productivity</NS> of my homework, <NS type="RA"><i>that</i><c>which</c></NS> <NS type="W"><i><NS type="RV"><i>is</i><c>involves</c></NS> often</i><c>often involves</c></NS> essay writing, and also it allows me to access <NS type="UT"><i>to</i></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS>. Since I live abroad, the <NS type="RP"><i>internet</i><c>Internet</c></NS> is really useful for me <NS type="R">to have a contact</NS> with my <NS type="RP"><i>bestfriend</i><c>best friend</c></NS> and <NS type="M"><c>when I want</c></NS> to know what is going on in my home country.</p>
+          <p>To sum up, I can say that the greatest ever invention is the invention of computers<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> has affected both <NS type="S"><i>indivisuals</i><c>individuals</c></NS> and <NS type="UD"><i>a</i></NS> society as a whole.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

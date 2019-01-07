@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR621*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>59 Gorham Drive</p>
+          <p>St Albans</p>
+          <p>AL1 2HW</p>
+          <p>17th June 2000</p>
+          <p>Dear Sir/Madam</p>
+          <p>I am writing to complain about the musical show <NS type="UT"><i>of</i></NS> "OVER THE RAINBOW" which I saw on 15th of June in your theatre.</p>
+          <p>Firstly, I wanted to see DANN BLOCK <NS type="RV"><i>playing</i><c>performing</c></NS> as your advertisement already said, but there was a different actor instead of him <NS type="RT"><i>at</i><c>on</c></NS> that evening. In addition to this, the show did not start on time, 19:30, so I had to wait for 45 minutes. Another disappointing thing was that you did not explain the reason why it was delayed <NS type="RT"><i>by</i><c>until</c></NS> 20:15.</p>
+          <p>As for the ticket price, you promised to provide discount tickets, but they were not available. Furthermore, when I went to the restaurant after the show, I found it was closed<NS type="RP"><i>. Because</i><c> because</c></NS> its opening time was from 10:00 to 17:00.</p>
+          <p>I do not need to tell <NS type="MA"><c>you</c></NS>, either, that I had <NS type="MD"><c>an</c></NS> awful evening and you are responsible for that. So I am asking <NS type="MA"><c>you</c></NS> to refund all the money.</p>
+          <p>Thanking <NS type="MA"><c>you</c></NS> for your prompt attention.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours Faithfully</p>
+          <p>Tyung Kwa (Miss)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>THE REVOLUTION OF INFORMATION TECHNOLOGY</p>
+          <p>I <NS type="TV"><i>am checking</i><c>check</c></NS> my e-mail <NS type="RP"><i>everyday</i><c>every day</c></NS> using the Internet, I <NS type="TV"><i>am talking</i><c>talk</c></NS> to my friends who <NS type="AGV"><i>is</i><c>are</c></NS> far away <NS type="MT"><c>by</c></NS> connecting to network systems, and I <NS type="RV"><i><NS type="TV"><i>am taking</i><c>take</c></NS></i><c>carry</c></NS> my mobile phone.</p>
+          <p><NS type="RT"><i>For</i><c>In</c></NS> recent years, as Information Technology has been improved <NS type="RY"><i>highly</i><c>greatly</c></NS>, communication methods have been changed to a different way, which is not <NS type="MD"><c>the</c></NS> same as before.</p>
+          <p>A few years ago, I did not know what <NS type="MD"><c>the</c></NS> Internet was, how to use it and so on. But, while <NS type="RA"><i>those</i><c>it</c></NS> <NS type="AGV"><i>have</i><c>has</c></NS> <NS type="TV"><i>been spread</i><c>spread</c></NS> all over the world, I and all the other people who I have known <NS type="RV"><i>became</i><c>started</c></NS> to use them.</p>
+          <p>I can find out some information at home, although I do not go to <NS type="MD"><c>the</c></NS> library. I am able to meet my friends quickly <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> Internet <NS type="MT"><c>by</c></NS> just clicking the mouse. In addition to these <NS type="MN"><c>things</c></NS>, I can contact <NS type="UT"><i>to</i></NS> anyone who I want to talk <NS type="MT"><c>to</c></NS> at any convenient time in case I need him or her, or I am needed.</p>
+          <p>It is causing some changes <NS type="RT"><i>to</i><c>in</c></NS> me. So, now I would rather send <NS type="RD"><i>the</i><c>an</c></NS> e-mail than <NS type="RD"><i>the</i><c>a</c></NS> letter, and I prefer to surf the Internet when I need to find something. As it has given me different kinds of communication systems, my daily life is more comfortable, relaxed and faster.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

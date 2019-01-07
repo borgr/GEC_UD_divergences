@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR884*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>31-40</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>BRASILIA (DF), JUNE 17th 2000</p>
+          <p>Dear Manager,</p>
+          <p>I'm writing this letter to express my disappointment with "Over the rainbow", the musical show which I watched <NS type="RJ"><i>last</i><c>yesterday</c></NS> evening.</p>
+          <p>First of all, according to the advertisement, one of the main actors would be DANNY BROOK<NS type="MP"><c>,</c></NS> who I love. Instead of this, I had to watch the performance of a different and unknown actor who wasn't so great as I expected.</p>
+          <p>Secondly, the show started one hour late and I hate waiting in a queue <NS type="R"><i>more</i><c>longer</c></NS> than <NS type="UA"><i>it's</i><c>is</c></NS> necessary. I felt very upset and my enjoyable night became a <NS type="RJ"><i>stressed</i><c>stressful</c></NS><NS type="MP"><c>,</c></NS> and very expensive one, too.</p>
+          <p>There wasn't <NS type="MQ"><c>any</c></NS> discount <NS type="S"><i>avaiable</i><c>available</c></NS> for the tickets and I went to the theatre with my three cousins from Brazil. In addition to this, after the show, we looked for the theatre restaurant which <NS type="TV"><i>has</i><c>had</c></NS> been closed for <NS type="DN"><i>repairing</i><c>repairs</c></NS> <NS type="UT"><i>since</i></NS> one month ago.</p>
+          <p>In conclusion, last night definitely was the worst <NS type="W"><i>experience about entertainment</i><c>entertainment experience</c></NS> I've ever had in my life and that's why I <NS type="TV"><i>ask</i><c>am asking</c></NS> you <NS type="MT"><c>for</c></NS> my money back as <NS type="UD"><i>a</i></NS> compensation.</p>
+          <p>I'm looking forward to your reply</p>
+          <p><NS type="DY"><i>faithfuly</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Modern technology can affect our daily life transforming our relationship <NS type="MT"><c>to</c></NS> <NS type="MN"></NS> and the ways <NS type="MA"><c>we</c></NS> <NS type="FV"><i>to <NS type="S"><i>comunicate</i><c>communicate</c></NS></i><c>communicate</c></NS> <NS type="RT"><i>to</i><c>with</c></NS> other people as well as our life expectancy. With the introduction of the computer in our civilization we can access <NS type="MD"><c>the</c></NS> Internet to <NS type="S"><i>comunicate</i><c>communicate</c></NS> with our relatives and friends living abroad or far from <NS type="RA"><i>ourselves</i><c>us</c></NS>. Despite <NS type="UT"><i>of</i></NS> the distances, we can keep our friendship <NS type="DJ"><i>closely</i><c>close</c></NS> and <NS type="RT"><i>with</i><c>in</c></NS> a <NS type="DJ"><i>cheaply</i><c>cheap</c></NS> way. Besides <NS type="UT"><i>of</i></NS> this, the information goes faster than it used to <NS type="SX"><i>know</i><c>now</c></NS> and it's <NS type="S"><i>avaiable</i><c>available</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the same time <NS type="RT"><i>to</i><c>in</c></NS> every part of the world. On the one hand, our time is taken <NS type="MY"><c>up</c></NS> <NS type="MT"><c>with</c></NS> <NS type="FV"><i>to learn</i><c>learning</c></NS> how to deal with the new technologies. On the other hand, we can feel more comfortable with them providing us <NS type="MT"><c>with</c></NS> support <NS type="RT"><i>to</i><c>in</c></NS> our hard tasks and <NS type="RV"><i>letting</i><c>setting</c></NS> us free to apply our <NS type="RN"><i>attention</i><c>intelligence</c></NS> and efforts to more important things. For instance, we can research new <NS type="RN"><i>manners</i><c>ways</c></NS> of improving our quality of life. In conclusion, we are able to feel or to recognize the benefits of the modern technologies but we should be aware <NS type="RT"><i>about</i><c>of</c></NS> how they are introduced <NS type="RT"><i>in</i><c>into</c></NS> our lives to avoid the dangerous side of <NS type="UD"><i>the</i></NS> TECHNOLOGY.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

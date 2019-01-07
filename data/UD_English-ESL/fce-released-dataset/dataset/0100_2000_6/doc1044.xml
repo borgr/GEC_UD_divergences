@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR425*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>DEAR HELEN,</p>
+          <p>I AM <NS type="IV"><i>WRITIN</i><c>WRITING</c></NS> TO YOU IN ORDER TO GIVE A REPLY TO THE KIND LETTER I RECEIVED FROM YOU. I CANNOT EXPRESS HOW <NS type="S"><i>THANFUL</i><c>THANKFUL</c></NS> I AM FOR THIS BEAUTIFUL PRIZE.</p>
+          <p><NS type="SX"><i>FIRS</i><c>FIRST</c></NS> OF ALL, I WOULD LIKE TO TELL YOU THAT THE ONLY TIME I WILL BE ABLE TO TRAVEL IS IN JULY, BECAUSE BEFORE <NS type="RA"><i>THAT</i><c>THEN</c></NS> I HAVE TO TAKE SOME EXAMS AT <NS type="UD"><i>THE</i></NS> UNIVERSITY.</p>
+          <p>IN YOUR LETTER YOU ASKED ME WHETHER I WOULD PREFER<NS type="UP"><i>,</i></NS> <NS type="UC"><i>IF</i></NS> A TENT OR A <NS type="SX"><i>LONG</i><c>LOG</c></NS> CABIN. WELL, THE ANSWER IS A <NS type="SX"><i>LONG</i><c>LOG</c></NS> CABIN, BECAUSE I HAVE A PROBLEM WITH MY BACK. THAT IS WHY I CANNOT SLEEP ON THE GROUND OR IN A SLEEPING BAG.</p>
+          <p>BY THE WAY, YOU ALSO MENTION THAT I WILL HAVE THE CHANCE TO DO TWO ACTIVITIES. WELL, THE TWO ACTIVITIES THAT I WOULD <NS type="MV"><c>LIKE</c></NS> TO CHOOSE ARE BASKETBALL AND SINGING. I HAVE <NS type="IV"><i>CHOOSEN</i><c>CHOSEN</c></NS> THOSE BECAUSE I AM QUITE GOOD <NS type="MT"><c>AT</c></NS> PLAYING BASKETBALL AND I SING EVERY WEEKEND IN THE CHOIR OF THE LOCAL CHURCH AS WELL.</p>
+          <p>FINALLY, I WOULD APPRECIATE <NS type="MA"><c>IT</c></NS> IF YOU LET ME KNOW IF I WILL HAVE TO TAKE SOME <NS type="IN"><i>CLOTHE</i><c>CLOTHES</c></NS> OR MONEY. I WOULD LIKE TO KNOW IF I WILL HAVE TO PAY FOR ANY OTHER EXTRA <NS type="FN"><i>ACTIVITY</i><c>ACTIVITIES</c></NS>.</p>
+          <p>I HOPE YOU WILL <NS type="MV"><c>BE</c></NS> ABLE TO ANSWER ALL MY <NS type="S"><i>QUARIES</i><c>QUERIES</c></NS>. I LOOK FORWARD TO HEARING FROM YOU.</p>
+          <p>YOURS SINCERELY,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>DEAR KIM,</p>
+          <p>THANKS FOR THE KIND LETTER YOU <NS type="TV"><i>SEND</i><c>SENT</c></NS> ME <NS type="S"><i>LAS</i><c>LAST</c></NS> WEEK. THE PHOTOGRAPHS ARE VERY NICE AND FUNNY. BY THE WAY<NS type="MP"><c>,</c></NS> YOU ARE A BIT TALLER, AREN'T YOU?</p>
+          <p>WELL, THE FIRST THING I WANT TO TELL YOU IS ABOUT THE POP CONCERT WE HAD, LAST FRIDAY, HERE IN OUR CITY. BUT TO MAKE THE THING BETTER I WAS <NS type="IV"><i>CHOOSEN</i><c>CHOSEN</c></NS> TO HELP THE BAND AND THE ORGANISERS OF THE CONCERT. GREAT!</p>
+          <p>AS YOU KNOW, I AM A SOUND <NS type="S"><i>TECHNICH</i><c>TECHNICIAN</c></NS>, SO I <NS type="TV"><i>HELP</i><c>HELPED</c></NS> THEM TO <NS type="RV"><i>PUT</i><c>SET UP</c></NS> THE SOUND <NS type="CN"><i>EQUIPMENTS</i><c>EQUIPMENT</c></NS> AND THE INSTRUMENTS PROPERLY. THEN SOME HOURS BEFORE THE CONCERT, I MET THE BAND AND THEY LET ME <NS type="FV"><i>STAYED</i><c>STAY</c></NS> <NS type="RT"><i>IN</i><c>FOR</c></NS> THE SOUND <NS type="RN"><i>TEST</i><c>CHECK</c></NS>. <NS type="RA"><i>I</i><c>IT</c></NS> WAS <NS type="MD"><c>A</c></NS> <NS type="RY"><i>ALREADY</i><c>REALLY</c></NS> SPECIAL TIME FOR ME! THE MEMBERS OF THE BAND WERE VERY NICE AND FRIENDLY <NS type="RT"><i>WITH</i><c>TO</c></NS> ME.</p>
+          <p>THEN, WHEN THE CONCERT STARTED<NS type="RP"><i>;</i><c>,</c></NS> THE ORGANISERS GAVE ME AN IDENTITY CARD, <NS type="M"><c>WHICH WAS</c></NS> ONLY FOR MEMBERS OF THE STAFF. THAT CARD WAS THE BEST THING THAT SOMEONE HAD EVER <NS type="TV"><i>GAVE</i><c>GIVEN</c></NS> TO ME, BECAUSE I WAS <NS type="RJ"><i>UNABLE</i><c>ABLE</c></NS> TO BE <NS type="RT"><i>IN</i><c>ON</c></NS> THE <NS type="RN"><i><NS type="S"><i>SCENARY</i><c>SCENERY</c></NS></i><c>STAGE</c></NS> WITH THE WHOLE BAND! IT WAS THE BEST TIME <NS type="RT"><i>IN</i><c>OF</c></NS> MY LIFE. I FELT REALLY LUCKY.</p>
+          <p><NS type="R">SORRY IF MY EXPERIENCE WAS BORING BUT I KNOW YOU WILL ENJOY IT AS MUCH AS I DID</NS>.</p>
+          <p>I LOOK FORWARD TO HEARING FROM YOU. I <NS type="TV"><i>SEND</i><c>HAVE SENT</c></NS> YOU SOME PHOTOGRAPHS OF ME WITH THE BAND.</p>
+          <p><NS type="IQ"><i>LOT</i><c>LOTS</c></NS> OF LOVE,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR996*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>17 June 2000.</p>
+          <p><NS type="ID"><i>Dear Sir and Madam</i><c>Dear Sir or Madam</c></NS></p>
+          <p>I <NS type="TV"><i>am recently spending</i><c>have recently spent</c></NS> a week's holiday in London, and I have just visited your theatre to see a musical show and I would like to complain <NS type="RT"><i>with</i><c>about</c></NS> <NS type="MD"><c>a</c></NS> couple of things.</p>
+          <p>First, I <NS type="MV"><c>would</c></NS> like to complain about the main <NS type="RN"><NS type="AGN"><i>features</i><c>feature</c></NS></NS><NS type="MP"><c>,</c></NS> which is an actor<NS type="RP"><i>, he</i><c>. He</c></NS> might <NS type="FV"><i>have been</i><c>be</c></NS> well known in England, but on the night, he performed abysmally. Secondly<NS type="MP"><c>,</c></NS> a lot of people were not very impressed with the <NS type="RN"><i>time</i><c>delay</c></NS>, because all of us <NS type="RY">at least</NS> <NS type="TV"><i>have</i><c>had</c></NS> to wait for almost an hour <NS type="RT"><i>until</i><c>before</c></NS> the show <NS type="TV"><i>start</i><c>started</c></NS>.</p>
+          <p>Also, a lot of people were <NS type="DV">enitieising</NS> about the facilities<NS type="MP"><c>,</c></NS> which <NS type="TV"><i>said</i><c>were said</c></NS> to be <NS type="DJ">serve</NS> in <NS type="RD"><i>an</i><c>the</c></NS> advertisement. For example, the discount for the tickets <NS type="AGV"><i>were</i><c>was</c></NS> not available, and <NS type="RY"><i>especially</i><c>in particular</c></NS> a lot of people were disappointed that they <NS type="TV"><i><NS type="RP"><i>can not</i><c>cannot</c></NS></i><c>couldn't</c></NS> visit the theatre restaurant because it was closed, due to the cleaner <NS type="FV"><i>forgotten</i><c>forgetting</c></NS> to clean up the mess from the previous party.</p>
+          <p>Lastly, I <NS type="X"><i>think I could not call</i><c>do not think I would call</c></NS> this <NS type="UT"><i>as</i></NS> my perfect evening, so I would like to ask for a refund, and I hope as <NS type="RD"><i>a</i><c>the</c></NS> Manager of London's newest theatre, you <NS type="TV"><i>would</i><c>will</c></NS> handle the situation <NS type="RY"><NS type="DY"><i>favourbly</i><c>favourably</c></NS></NS>.</p>
+          <p>Yours faithfully.</p>
+          <p>Seung Phittikhun.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets<NS type="RP"><i>, although</i><c>. Although</c></NS> he's one of my best <NS type="AGN"><i>friend</i><c>friends</c></NS>, <NS type="UC"><i>but</i></NS> sometimes, he's a real <NS type="ID"><i>pain in a butt</i><c>pain in the butt</c></NS>.</p>
+          <p>Pat and I knew each other very well, because we are neighbours, so since we've met, Pat and I <NS type="TV"><i>always got</i><c>have always got</c></NS> on very well. We always go to the same school, and <NS type="UV"><i>he's</i><c>he</c></NS> often <NS type="AGV"><i>make</i><c>makes</c></NS> more friends than I do, and <NS type="RP"><i>everytime</i><c>every time</c></NS> <NS type="UV"><i>he's</i><c>he</c></NS> <NS type="UY"><i>always</i></NS> <NS type="AGV"><i>introduce</i><c>introduces</c></NS> <NS type="W"><i>them to me</i><c>me to them</c></NS>. Even though Pat has got a great sense of humour and wonderful personality, he'll never be able to keep any <NS type="S"><i>secreats</i><c>secrets</c></NS> <NS type="RT"><i>for</i><c>from</c></NS> anyone, even himself.</p>
+          <p>Although, we are great friends, <NS type="UC"><i>but</i></NS> sometimes people can make such <NS type="UD"><i>a</i></NS> stupid <NS type="FN"><i>mistake</i><c>mistakes</c></NS>, and so there was one time when Pat and I had a fight<NS type="RP"><i>, it</i><c>. It</c></NS> all started when once I <NS type="DY"><i>accidently</i><c>accidentally</c></NS><NS type="UP"><i>,</i></NS> took the wrong bag back to my house, and there <NS type="AGV"><i>was</i><c>were</c></NS> lady's knickers inside<NS type="RP"><i>,</i><c>.</c></NS> I was so nervous and <NS type="RJ"><i><NS type="S"><i>embarassing</i><c>embarrassing</c></NS></i><c>embarrassed</c></NS>, so I <NS type="TV"><i>tell</i><c>told</c></NS> Pat and <NS type="ID"><i>there he <NS type="TV"><i>goes</i><c>went</c></NS></i><c>off he went</c></NS><NS type="RP"><i>,</i><c>:</c></NS> he <NS type="TV"><i><NS type="AGV"><i>tell</i><c>tells</c></NS></i><c>told</c></NS> every single <NS type="AGN"><i>students</i><c>student</c></NS> in the school that <NS type="TV"><i>I've</i><c>I'd</c></NS> stolen <NS type="MD"><c>a</c></NS> <NS type="MP"><i>girl</i><c>girl's</c></NS> knickers, and everyone started to call me a pervert.</p>
+          <p>So that's when we had a fight. Anyway<NS type="MP"><c>,</c></NS> Pat eventually apologized to me and we <NS type="W"><i>still <NS type="TV"><i>being</i><c>are</c></NS></i><c>are still</c></NS> best mates as ever.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

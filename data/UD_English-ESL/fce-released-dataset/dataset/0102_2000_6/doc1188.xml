@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR483*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/<NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p>I am writing to complain about your musical show which <NS type="MV"><c>was</c></NS> performed last Friday.</p>
+          <p>I was interested in your advertisement and I booked the <NS type="RP"><i>friday</i><c>Friday</c></NS> show while I <NS type="TV"><i>had been</i><c>was</c></NS> on holiday.</p>
+          <p>However, this theatre made me <NS type="RJ"><i>disappointing</i><c>disappointed</c></NS> from <NS type="R"><i>starting</i><c>the start of</c></NS> the show until <NS type="MD"><c>its</c></NS> finishing.</p>
+          <p>First of all, I saw that the discounts were available, but there were not any discounts and <NS type="R">advantages</NS> for the audience. Also the show started at 20:15 <NS type="R">delaying for more 45 minutes than the advertise mentioned</NS>.</p>
+          <p><NS type="R">I could bare it by the time</NS>. Moreover<NS type="MP"><c>,</c></NS> the show was awful. I like Danny Brook and Tina Truelove's acting but <NS type="SX"><i>he</i><c>the</c></NS> actors were changed without mentioning, also the restaurant was closed <NS type="RT"><i>by</i><c>with</c></NS> the excuse <NS type="M"><c>that it was</c></NS> <NS type="FV"><i>to be</i><c>being</c></NS> repaired. In fact, the notice had been <NS type="RV"><i>showed</i><c>displayed</c></NS> since last winter. It means that the theatre have not made any efforts for the people.</p>
+          <p>In conclusion, I was very disappointed in <NS type="RD"><i>a</i><c>the</c></NS> whole of the show<NS type="RP"><i>, furthermore</i><c>. Furthermore,</c></NS>, I could not enjoy my holiday after the show. Therefore, I would like <NS type="MA"><c>you</c></NS> to refund some money. I look forward to recieving your prompt reply.</p>
+          <p>Yours faithfully,</p>
+          <p>Sun-Young Lee.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future. Return to <NS type="UD"><i>the</i></NS> Nature.</p>
+          <p>The World is being Changed rapidly by developing technology and <NS type="DN"><i>industrial</i><c>industry</c></NS>. It <NS type="AGV"><i>affect</i><c>affects</c></NS> <NS type="MA"><c>us</c></NS> <NS type="MT"><c>in</c></NS> lots of ways. One of them is <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> <NS type="W"><i>fashion area</i><c>area of fashion</c></NS>.</p>
+          <p><NS type="RP"><i>people</i><c>People</c></NS> think that we will wear <NS type="UD"><i>a</i></NS> simple, practical, light clothes. For instance, we can see that kind of clothes in sci-fi films like Starwars.</p>
+          <p><NS type="RP"><i>however</i><c>However</c></NS>, <NS type="ID"><i>in the other hand</i><c>on the other hand</c></NS>, there is a different idea. People like designer's clothes like Armani, Chanel.. <NS type="MC"><c>and</c></NS> so on. They prefer new original style in order to <NS type="RV"><i>show them</i><c>make them look</c></NS> more attractive. Moreover, most designers prefer to use natural material. They have used animal and fish skins, some plants and herbal things <NS type="MY"><c>rather</c></NS> than chemical <NS type="R">one</NS>.</p>
+          <p>In my opinion, people want to wear special and original clothes to show their own characters. Also countless <NS type="AGN"><i>fashion</i><c>fashions</c></NS> will be <NS type="RV"><i>shown</i><c>seen</c></NS>. People will prefer to use more natural than chemical things and wear more beautiful and attractive clothes.</p>
+          <p>I think that showing their beauty is one of <NS type="RP"><i>animal's</i><c>animals'</c></NS> basic instincts. I <NS type="TV"><i>can't</i><c>couldn't</c></NS> stand wearing a suit or kit like <NS type="MA"><c>that</c></NS> which has been <NS type="TV"><i>showed</i><c>shown</c></NS> in Starwars!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

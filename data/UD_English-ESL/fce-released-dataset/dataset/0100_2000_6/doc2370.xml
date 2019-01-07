@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR953*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>I have just received your letter. I was glad to know I had won first prize in the competition and I am writing to reply <NS type="RT"><i>for</i><c>about</c></NS> the camp.</p>
+          <p>First of all, I would like to travel in July because I have to return to my University in the middle of August.</p>
+          <p><NS type="UD"><i>Your another</i><c>Another</c></NS> consideration was accommodation. I think it is more comfortable to stay in log cabins than in tents, so I would prefer log cabins.</p>
+          <p>According to your letter, I can choose two activities to do at the Camp. I would like to choose painting<NS type="MP"><c>,</c></NS> which I have been doing for 12 years<NS type="MP"><c>,</c></NS> and tennis. However, I am not very good at playing tennis, so could you tell me if I can learn at the camp?</p>
+          <p>Please could you also let me know if I need to take special clothes with me?</p>
+          <p>I would be grateful if you <NS type="MV"><c>could</c></NS> phone me or send me a letter again at your earliest convenience. I look forward to the camp in the U.S.A.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Cry Freedom</p>
+          <p>'Cry Freedom' is about the blacks and whites of South Africa. The main characters of this book are Stephen Biko, a black leader, and Donald Woods who is a white newspaper editor. Woods is thought to stand for all <NS type="UT"><i>of</i></NS> white <NS type="S"><i>peope</i><c>people</c></NS> and this book could have an influence on them.</p>
+          <p>In the first part of this book it can be seen <NS type="MC"><c>that</c></NS> Woods is not on the side of the blacks although he didn't approve of the government's attitude <NS type="RT"><i>to</i><c>towards</c></NS> them. In some ways, he did not agree with "Black Consciousness" which is Biko's organization because it was too much against the whites. Woods thought he knew the black society quite well and understood their ordeals, but after he had met Biko and visited a black township, he realized he had been completely unaware of the way they had to live. The people and the circumstances he experienced in the black township were such a new world to him. Finally he changed his ideas and started to work for the blacks using his skill as a journalist<NS type="RP"><i>, in</i><c>. In</c></NS> other words, he became an activist for the black people of South Africa.</p>
+          <p>Although Biko was killed and Woods himself was declared a banned person, I would dare to say their sacrifices were worthwhile because Woods succeeded in escaping from South Africa which would enable him to publish his book revealing the truth about South Africa to the world.</p>
+          <p>In short, Cry Freedom deserves to be recommended and once you read it, you will want to read it again. Most of all, this book will make you think about the prejudice you have.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

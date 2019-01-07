@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR817*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you for your letter. It was a wonderful surprise! I'm writing to give you the information you <NS type="RV"><i>wanted</i><c>requested</c></NS>.</p>
+          <p>Firstly, you asked me <NS type="R"><i>about the period</i><c>when</c></NS> I'd prefer to travel<NS type="RP"><i>:</i><c>.</c></NS> For me, the only <NS type="RN"><i>solution</i><c>option</c></NS> is July, because I've already something planned in August.</p>
+          <p>Concerning the accommodation, I'd prefer to spend my nights in a log cabin, because I've great difficulty sleeping in a tent.</p>
+          <p>You also <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> the activities I'll be able to do. I chose tennis and golf. <NS type="S"><i>Althoug</i><c>Although</c></NS> I've been playing tennis for five years, I can't say I'm a very good player. And I'm even worse at golf, because I've never <NS type="TV"><i>been playing</i><c>played</c></NS> it before. But I enjoy <NS type="RV"><i>discovering</i><c>finding out</c></NS> <NS type="MT"><c>about</c></NS> new activities! In addition to this, I would be grateful if you could send me <NS type="MQ"><c>some</c></NS> information on these few <NS type="RN"><i>details</i><c>subjects</c></NS>: what kind of clothes <NS type="AGV"><i>is</i><c>are</c></NS> required? <NS type="R"><i>How is the weather</i><c>What is the weather like</c></NS> at <NS type="RD"><i>this</i><c>that</c></NS> <NS type="RN"><i>period</i><c>time</c></NS> of the year? And should I take some money with me? How much?</p>
+          <p>I hope you will be able to answer my questions.</p>
+          <p>I look forward to hearing from you as soon as possible.</p>
+          <p>Yours sincerely</p>
+          <p>Hermine Damien</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>"Cry Freedom"</p>
+          <p>If you are used to reading a lot, you know there are only a few books about which you can say: 'This is such a marvellous book I will want to read it again'. "Cry Freedom", <NS type="RT"><i>from</i><c>by</c></NS> John Briley, is one of these books. But why should we read this book twice?</p>
+          <p>Firstly, the story takes place in South Africa, during the period of <NS type="UD"><i>the</i></NS> <NS type="RP"><i><NS type="S"><i>Appartheid</i><c>Apartheid</c></NS></i><c>apartheid</c></NS>. The political and historical background is very interesting, but also complicated. I think that you can't understand all the links between the events <NS type="S"><i>whitout</i><c>without</c></NS> reading the book more than <NS type="R"><i>one time</i><c>once</c></NS>. And by understanding the book, you'll also be able to better understand what happens nowadays in a lot of countries.</p>
+          <p>However, I think that the main reason why someone has to read this book twice is the strength and depth of the two main characters: Donald Woods and Steve Biko. Both of them symbolize courage, <NS type="MD"><c>the</c></NS> love of justice, <NS type="MD"><c>the</c></NS> fight for freedom, which makes them look like heroes. Just <NS type="RT"><i>as</i><c>like</c></NS> the Greeks and the Romans, our modern society has <NS type="RN"><i><NS type="S"><i>mythes</i><c>myths</c></NS></i><c>legends</c></NS>, and "Cry Freedom" is one of them.</p>
+          <p>To sum up, I think it's worth reading this book twice, both for a better understanding of our world, and for the symbolical meaning of the story.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

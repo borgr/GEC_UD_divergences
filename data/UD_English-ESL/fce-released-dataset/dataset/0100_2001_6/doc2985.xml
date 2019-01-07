@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE18*0100*2001*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>Thank you for your letter.</p>
+          <p>I am writing to <NS type="FV"><i>answering</i><c>answer</c></NS> <NS type="RD"><i>our</i><c>your</c></NS> question.</p>
+          <p>Firstly, I <NS type="W"><i>already have</i><c>have already</c></NS> booked <NS type="MD"><c>the</c></NS> Palace Hotel for the students. <NS type="RA"><i>There</i><c>That</c></NS> is the hotel near my college. It takes five minutes to get <NS type="MT"><c>to</c></NS> my college <NS type="RT"><i>by</i><c>on</c></NS> <NS type="RN"><i>walking</i><c>foot</c></NS>. I will <NS type="R">copy the map around the college</NS>.</p>
+          <p>Secondly, I will tell you about the end-of-conference party. It will start at six o'clock. The party will be held in the <NS type="SX"><i>dinning</i><c>dining</c></NS> room. <NS type="MD"><i>People</i><c>The people</c></NS> who will attend the party <NS type="RV"><i>are</i><c>include</c></NS> many <NS type="S"><i>professers</i><c>professors</c></NS>, <NS type="S"><i>semi-professers</i><c>semi-professors</c></NS> and <NS type="RN">faculties</NS>. So I suggest that the students should wear formal clothes.</p>
+          <p>Finally, I will give you some ideas for <NS type="R">an afternoon free time</NS>. <NS type="R">The city in which there is my college is traditional in my country</NS>. For example, there are many shrines, temples, and castles. I suggest that you should visit these places. You will have a good time. In addition, there are many other colleges. You will be able to <NS type="RV"><i>see</i><c>meet</c></NS> many Japanese students.</p>
+          <p>I am looking forward to seeing you at the conference. If you would like to <NS type="RV"><i>gain</i><c>get</c></NS> more information, you <NS type="R">will ask me <NS type="RP"><i>everytime</i><c>every time</c></NS></NS>.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>I suggest that you should visit one building.</p>
+          <p>My town is the capital of Japan. So there are many <NS type="RJ"><i><NS type="FJ"><i>higher</i><c>high</c></NS></i><c>tall</c></NS> buildings. I think it is like New York. However, <NS type="R"><i>I have</i><c>there is</c></NS> only one building which I want you to visit.</p>
+          <p>The name of the building is 'Sunshine 60'. This is the <NS type="RJ"><i>highest</i><c>tallest</c></NS> building in Tokyo. I recommend <NS type="FV"><i>to visit</i><c>visiting</c></NS> <NS type="MA"><c>it</c></NS>. I have three reasons for my recommendation.</p>
+          <p>Firstly, there is the <NS type="S"><i>acquerium</i><c>aquarium</c></NS> in the building. In addition, <NS type="RA"><i>this</i><c>there</c></NS> is the 60th floor<NS type="RP"><i>, <NS type="MC"><c>when</c></NS></i><c>. When</c></NS> I went there <NS type="MD"><c>the</c></NS> first time I couldn't <NS type="FV"><i>believed</i><c>believe</c></NS> it.</p>
+          <p>Secondly, if you <NS type="RV"><i>visit</i><c>go</c></NS> there, you will see <NS type="SX"><i>everywhere</i><c>everything</c></NS> in Tokyo. The <NS type="RN"><i>scene</i><c>view</c></NS> of Tokyo is not beautiful, but you <NS type="TV"><i>think</i><c>will think</c></NS> that this city is a developing place. On the other hand you may <NS type="R"><i>think</i><c>be surprised at</c></NS> what a small city it is!!</p>
+          <p>Finally, there are many shops inside the building. You will have a good time <NS type="UT"><i>for</i></NS> shopping.</p>
+          <p>I hope when you visit<NS type="UP"><i>,</i></NS> <NS type="R">you will be <NS type="SA"><i>favorite</i><c>favourite</c></NS> place</NS>. You should <NS type="RV"><i>visit</i><c>go</c></NS> there.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR234*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about a <NS type="UJ"><i>musical</i></NS> show that I saw <NS type="RT"><i>in</i><c>at</c></NS> your theatre.</p>
+          <p>First of all, Danny Brook was supposed to act <NS type="UY"><i>there</i></NS>, but he was replaced by another actor. This situation made me feel very disappointed.</p>
+          <p>Secondly, the show should have started at 19:30 p.m., and it began <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes <NS type="FJ"><i>later</i><c>late</c></NS>.</p>
+          <p>Moreover, when I went to buy the tickets no discounts were <NS type="S"><i>avaliable</i><c>available</c></NS>.</p>
+          <p>Furthermore, I wanted to have a <NS type="S"><i>coffe</i><c>coffee</c></NS> after the show, but when I tried to get to the theatre restaurant, it was closed. A police officer who was there told me that the manager of the restaurant was ill and that he <NS type="RV"><i>didn't</i><c>wouldn't</c></NS> <NS type="FV"><i>allowed</i><c>allow</c></NS> anyone to open it.</p>
+          <p>This was the worst night that I had during my stay in London.</p>
+          <p>For all <NS type="AGD"><i>that</i><c>these</c></NS> reasons, I want you to refund the cost of the tickets and to send the money <NS type="UY"><i>back</i></NS> to my house.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Her <NS type="UP"><i>school's</i><c>school</c></NS> <NS type="DN"><i>class-matters</i><c>classmates</c></NS> were going to <NS type="RV"><i>give</i><c>throw</c></NS> their friend Maria a party and it was going to be a surprise <NS type="RT"><i>to</i><c>for</c></NS> her. They organized everything. The event was going to take place in the garden <NS type="RT"><i>of</i><c>at</c></NS> Paula's house. Some of them were in charge of bringing music. The others had to bring food. That <NS type="UN"><i>day</i></NS> afternoon they arrived at Paula's house <NS type="U"><i>in order</i></NS> to decorate the place. <NS type="S"><i>Ballons</i><c>Balloons</c></NS> and coloured lights were put in all the trees. A table was laid with a lot of <NS type="RJ"><i>delightful</i><c>delicious</c></NS> food and a beautiful cake was in the centre of it. Some time later <NS type="R"><i>all the things were</i><c>everything was</c></NS> finally prepared. The garden was wonderful. The children were very enthusiastic because they thought that Maria was going to be very happy with this surprise. But things didn't happen as they <NS type="TV"><i>had been planned</i><c>had planned</c></NS>. Because when Maria reached the house, they realised that she had been told about the party and they supposed that Pat had done this.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

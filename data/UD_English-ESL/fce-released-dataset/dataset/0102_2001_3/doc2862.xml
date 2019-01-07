@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="OU1*0102*2001*03">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Pete,</p>
+          <p>Many thanks for your letter<NS type="MP"><c>,</c></NS> which arrived <NS type="RY"><i>must</i><c>just</c></NS> when I was thinking of you. I hope you and your family are feeling well.</p>
+          <p>I remember that I agreed to look after your flat while you are in New York on holiday. The only problem is that on 4th April I have my graduation. As you know I'm in Ferndown now spending <NS type="MD"><c>the</c></NS> last minutes studying for exams. I would like to ask you if my arrival at 4 o'clock on the 5th April is <NS type="RJ"><i>suitable</i><c>convenient</c></NS> for you. If not, <NS type="SX"><i>pleas</i><c>please</c></NS> let me know. I'm sure we will find another solution.</p>
+          <p>It's very kind of you to let me use things in your flat. I'm over the moon! Can I also "take care" of your computer and CD player and bicycle?</p>
+          <p>Can you also let me know when you are going to come back on the 20th<NS type="RP"><i>.</i><c>?</c></NS> Will it be <NS type="R">or</NS> <NS type="RP"><i>dinner time</i><c>dinnertime</c></NS> <NS type="RY"><i>maybe</i><c>perhaps</c></NS>? If <NS type="R"><i>yes</i><c>so</c></NS>, great! I will be able to see you.</p>
+          <p>You know that helping you <NS type="UA"><i>it's</i><c>is</c></NS> a real pleasure for me<NS type="RP"><i>, you</i><c>. You</c></NS> really don't have to become flat broke <NS type="RT"><i>because of</i><c>from</c></NS> buying things for me but I am interested in American culture. So <NS type="MD"><c>a</c></NS> tiny "Statue of Liberty" will be nice. I will finish now as I have <NS type="MD"><c>a</c></NS> mountain of work to do. I am looking forward to hearing from you.</p>
+          <p>Take Care</p>
+          <p>Yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>"<NS type="RP"><i>junk</i><c>Junk</c></NS> food instead of a carrot"</p>
+          <p>Young man, are you aware of what you eat and drink? Are you sure that your diet is healthy enough to help you grow <NS type="UY"><i>up</i></NS>?</p>
+          <p>In today's <NS type="MP"><i>fast moving</i><c>fast-moving</c></NS> world young people spend less and less time cooking or eating healthy food. When they are at home, <NS type="R">especially children</NS>, parents take care of them and always prepare <NS type="RD"><i>some</i><c>a</c></NS> good dinner with meat or a fresh salad for supper.</p>
+          <p>However, students who never have time for <NS type="MD"><c>a</c></NS> healthy diet full of minerals, vitamins <NS type="RC"><i>or</i><c>and</c></NS> fibre usually <NS type="RV">finish</NS> on "McDonalds"<NS type="R"><i>,</i><c> and</c></NS> hamburgers or <NS type="S"><i>Bic</i><c>Big</c></NS> Macs. Moreover, very often <NS type="MD"><c>the</c></NS> school canteen doesn't offer <NS type="RJ"><i>diversified</i><c>varied</c></NS> <NS type="MN"><c>types of</c></NS> food<NS type="MP"><c>,</c></NS> like different kinds of bread or salads. Usually we don't eat regularly <NS type="RC"><i>and</i><c>or</c></NS> in good <NS type="RN">proportions</NS>. Our grandparents always remembered the value and quality of food. They found time to eat something hot for dinner - the main meal <NS type="MP"><c>-</c></NS> and <NS type="RC"><i>even if</i><c>even though</c></NS> the times were <NS type="RJ"><i>worse</i><c>poorer</c></NS>, people were more sensible.</p>
+          <p>In my opinion people, especially the young, should become more aware of what and when they eat <NS type="RC"><i>as well as</i><c>and</c></NS> they should <NS type="RV">work on</NS> their lifestyles and <NS type="ID">keep their head</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

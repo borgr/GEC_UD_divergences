@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR552*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p><NS type="RT"><i>To</i><c>For</c></NS> the attention of the Circle Theatre Manager:</p>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about your show "Over the rainbow" and the conditions in which it is <NS type="RV"><i>held</i><c>performed</c></NS>.</p>
+          <p>I was having a week's holiday in London when I decided to go to the theatre and see a musical <NS type="UN"><i>show</i></NS>. I had read your advertisement in a <NS type="UN"><i>morning</i></NS> newspaper and the show seemed very attractive to me. Moreover an English friend of mine had told me that it would <NS type="RY"><i>purely</i><c>really</c></NS> be a good show as Danny Brook was a very good actor.</p>
+          <p>So on Saturday, June 7, I was there for the 7:30 pm show and here are my reasons for complaining. Firstly, there were no discounts available <NS type="MQ"><c>such</c></NS> as <NS type="MA"><c>those</c></NS> stated in your advertisement, not even for students, and I had to pay for a full-price ticket. Secondly, we had to wait until 8:00 pm before being able to <NS type="RV"><i>have</i><c>take</c></NS> a seat and the show finally <NS type="IV"><i>beginned</i><c>began</c></NS> at 8:15!</p>
+          <p>No need to say how much I was disappointed to see that another actor was performing instead of Danny Brook and the actor didn't seem to have rehearsed the role very much. At the end of the show, I decided to have dinner in your theatre restaurant and I went there ...<NS type="RY"><i>just</i><c>only</c></NS> to find <NS type="UY"><i>out</i></NS> that it was closed because it was being <NS type="R"><i>newly painted</i><c>repainted</c></NS>.</p>
+          <p>To sum up, it was not the "perfect evening out!" you advertised. So I am asking you to pay me back at least half of the ticket price for the inconvenience that was caused <NS type="UT"><i>to</i></NS> me. I hope that you will understand my request and reply to me in a positive way by sending me a cheque to my address in France (see the letterhead).</p>
+          <p>Looking forward to receiving your reply very soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. That's what I learned from my own experience.</p>
+          <p>We were both in the same class in high school and used to spend a lot of time together; we were actually very good friends and had no secrets <NS type="RT"><i>for</i><c>from</c></NS> each other.</p>
+          <p>At that time, I used to buy a <NS type="S"><i>lotery</i><c>lottery</c></NS> ticket once a week and I sometimes won small amounts. One day, while I was checking my weekly ticket, I found out that I had five numbers out of six so that I would surely get a <NS type="S"><i>substancial</i><c>substantial</c></NS> amount of money.</p>
+          <p>I had to wait ten days before the <NS type="S"><i>lotery</i><c>lottery</c></NS> head office would give me the cheque and one week before I could learn how much I had won. But I was too excited to keep it secret so I told Pat that I had won a prize for five correct numbers and had her swear not to tell anyone.</p>
+          <p>But soon everyone in the class was looking at me <NS type="S"><i>smillingly</i><c>smilingly</c></NS> and I <NS type="TV"><i>find</i><c>found</c></NS> out that I had many unsuspected friends... <NS type="RY"><i>No</i><c>Not</c></NS> <NS type="FY"><i>longer</i><c>long</c></NS> after, they were asking me to <NS type="RV"><i>pay</i><c>buy</c></NS> a coffee or lunch for them; some proposed <NS type="FV"><i>to go</i><c>going</c></NS> shopping, others <NS type="FV"><i>to go</i><c>going</c></NS> to the cinema and <NS type="RD"><i>the</i><c>a</c></NS> restaurant. Well, they all seemed to be so different and behaved in such an unusual way each time they saw me that I began to think that they knew something about me.</p>
+          <p><NS type="DY"><i>Endly</i><c>Finally</c></NS> <NS type="W"><i>came the end of the week</i><c>the end of the week came</c></NS> and I went to the <NS type="S"><i>lotery</i><c>lottery</c></NS> office to <NS type="RV"><i>check</i><c>find out</c></NS> the amount I had won. I was very disappointed to learn that I'd only won three hundred francs <NS type="L"><i>for</i><c>because</c></NS> <NS type="L"><i>many</i><c>a lot of</c></NS> people had <NS type="RV"><i>found</i><c>had</c></NS> five numbers like me. SO I told my friend Pat how much I had won and the following day at school<NS type="UP"><i>,</i></NS> everybody <NS type="AGV"><i>were</i><c>was</c></NS> just the same as they ever were with me...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

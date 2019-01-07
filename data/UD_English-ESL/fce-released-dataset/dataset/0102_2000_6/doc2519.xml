@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1023*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>June 17 2000</p>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you about my complaints <NS type="U"><i>of mine</i></NS> about the musical show <NS type="RT"><i>of</i><c>at</c></NS> your <NS type="SA"><i>theater</i><c>theatre</c></NS><NS type="UP"><i>,</i></NS> that I <NS type="TV"><i>have watched</i><c>watched</c></NS> a week ago, during my stay in London.</p>
+          <p>That evening, the problems started with the tickets... <NS type="RT"><i>On the contrary with</i><c>Unlike</c></NS> <NS type="M"><c>what was stated in</c></NS> the advertisement<NS type="UP"><i>,</i></NS> that was published <NS type="RT"><i>on</i><c>in</c></NS> the Guardian, there were no discounts available, although I had an International <NS type="MP"><i>Student</i><c>Student's</c></NS> Identity <NS type="RP"><i>card</i><c>Card</c></NS>.</p>
+          <p>Secondly, the show <NS type="TV"><i>has started</i><c>started</c></NS> <NS type="RT"><i>with</i><c>after</c></NS> a delay of 45 minutes, and because of this all my arrangements for that night were delayed. Another problem was the <NS type="W"><i>starring male actor</i><c>male actor <NS type="MA"><c>who</c></NS> <NS type="TV"><i>starring</i><c>starred</c></NS></c></NS>: the <NS type="MP"><i>well known</i><c>well-known</c></NS> and talented actor<NS type="UP"><i>,</i></NS> mentioned in the advertisement was replaced <NS type="RT"><i>with</i><c>by</c></NS> another one, who was really very disappointing and after the performance, I visited the <NS type="SA"><i>theater</i><c>theatre</c></NS> restaurant, which was <NS type="RV"><i>said</i><c>supposed</c></NS> to be open and available for meals after the show<NS type="RP"><i>;</i><c>,</c></NS> but it was closed.</p>
+          <p>So, I did not have the "perfect evening out" as stated in your advertisement. I think you owe me an <NS type="RN"><i>excuse</i><c>apology</c></NS> and a full refund.</p>
+          <p>I'm looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Clothes of the Future</p>
+          <p><NS type="TV"><i>Have we ever seen</i><c>Do we ever see</c></NS> a naked person in the streets? Except <NS type="MT"><c>in</c></NS> some very extraordinary cases, no. Tell me, why <NS type="MV"><c>do</c></NS> people care so much about what they wear and what others wear? Because<NS type="UP"><i>,</i></NS> <NS type="UD"><i>the</i></NS> clothes <NS type="RV"><i>have</i><c>play</c></NS> a crucial part in our everyday lives.</p>
+          <p>Maybe because of this, just like living things, <NS type="UD"><i>the</i></NS> clothes <NS type="DV"><i>have evolution</i><c>evolve</c></NS>. This evolution has never stopped and it will continue. <NS type="RA"><i>How</i><c>What</c></NS> about the clothes of people<NS type="UP"><i>,</i></NS> <NS type="RY"><i>a hundred years later</i><c>in a hundred years' time</c></NS>?</p>
+          <p>In my opinion the clothes of the world, <NS type="RT"><i>after</i><c>in</c></NS> a <NS type="MP"><i>century</i><c>century's</c></NS> <NS type="MN"><c>time</c></NS>, will be styled in <NS type="RD"><i>the</i><c>a</c></NS> Japanese way: minimalist and naturalist. Throughout <NS type="UD"><i>the</i></NS> history, we have observed that people get rid of everything that is not natural, such as corsets and in the future belts and ties might be "out".</p>
+          <p>Of course, <NS type="UD"><i>the</i></NS> technology will change too. Maybe<NS type="UP"><i>,</i></NS> new kinds of fabrics<NS type="UP"><i>,</i></NS> that are capable of insulating light<NS type="UP"><i>,</i></NS> or heat will be used. Actually, some clothes like that are being developed today<NS type="RP"><i>;</i><c>,</c></NS> but only as prototypes and it is possible to see that they will be widely used in the future.</p>
+          <p>Finally, it seems to me that<NS type="UP"><i>,</i></NS> the clothes of tomorrow will be quite <NS type="DJ"><i>naturalist</i><c>naturalistic</c></NS> and minimalist and also, the fabrics that are used will change too.</p>
+          <p>In fact, we <NS type="RP"><i>can not</i><c>cannot</c></NS> know<NS type="UP"><i>,</i></NS> what <NS type="W"><i>will <NS type="UD"><i>the</i></NS> time</i><c>time will</c></NS> give and take away, so let's wait and see<NS type="UP"><i>:</i></NS> the clothes of the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

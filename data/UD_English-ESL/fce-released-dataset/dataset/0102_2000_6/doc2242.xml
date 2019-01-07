@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR104*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam<NS type="RP"><i>;</i><c>,</c></NS></p>
+          <p>Yesterday I went to the <NS type="UN"><i>theatre</i></NS> play called "Over the Rainbow"<NS type="MP"><c>,</c></NS> <NS type="MT"><c>for</c></NS> which I saw the advertisement in <NS type="MP"><i>todays</i><c>today's</c></NS> Guardian. I want to tell you that I am very <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> about the play.</p>
+          <p>In the <NS type="S"><i>advirtisement</i><c>advertisement</c></NS> it <NS type="TV"><i><NS type="RV"><i>is written</i><c>is said</c></NS></i><c>said</c></NS> that Danny Brook was in the starring <NS type="MN"><c>role</c></NS>. However I didn't see him all <NS type="UD"><i>the</i></NS> night. There was another actor instead of him. And also it should <NS type="RV"><i>be</i><c>have</c></NS> started at 19.30, as I saw in the <NS type="S"><i>advirtisement</i><c>advertisement</c></NS>, <NS type="MC"><c>but</c></NS> <NS type="RA"><i>which</i><c>it</c></NS> <NS type="TV"><i>has started</i><c>started</c></NS> at 20.15! And <NS type="RY">so far</NS> there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any discounts available which <NS type="TV"><i><NS type="AGV"><i>is</i><c>are</c></NS></i><c>were</c></NS> <NS type="RV"><i>written</i><c>said</c></NS> to be "available" in the <NS type="S"><i>advirtisement</i><c>advertisement</c></NS>. I went to the theatre restaurant after the show but it was closed because of the <NS type="UP"><i>re-decoration</i><c>redecoration</c></NS> <NS type="RN"><i>progress</i><c>works</c></NS> inside. You should have written it in the <NS type="S"><i>advirtisement</i><c>advertisement</c></NS>. And after all <NS type="MA"><c>that</c></NS><NS type="MP"><c>,</c></NS> no one can say that I had a perfect evening out! <NS type="RY">Absolutely</NS> it was very <NS type="S"><i>dissapointing</i><c>disappointing</c></NS><NS type="UP"><i>.</i></NS> so I want my money back.</p>
+          <p>I hope you understand <NS type="UA"><i>me</i></NS> and <NS type="TV"><i>correct</i><c>will correct</c></NS> your mistakes in the next <NS type="S"><i>advirtisement</i><c>advertisement</c></NS> and send me my money soon!</p>
+          <p>Yours <NS type="RP"><i>Faithfully</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Simple Solutions</p>
+          <p>It is over 50 years since the <NS type="RN"><i>production</i><c>invention</c></NS> of the computer and television. Our <NS type="IN"><i>lifes</i><c>lives</c></NS> <NS type="TV"><i>changed</i><c>have changed</c></NS> since then<NS type="MP"><c>.</c></NS></p>
+          <p>Today <NS type="W"><i>every 5 out of</i><c>5 out of every</c></NS> 10 <NS type="AGN"><i>pupil</i><c>pupils</c></NS> can use <NS type="MD"><c>a</c></NS> computer <NS type="RY"><NS type="DY"><i>basicly</i><c>basically</c></NS></NS>. And almost everybody has a television in their homes. These 2 devices make my life easier. I can't go out all the time or be with my friends to have fun. So I watch <NS type="RP"><i>Tv</i><c>TV</c></NS> at home instead of sitting in a chair looking out of a window. I play <NS type="MT"><c>on</c></NS> <NS type="MD"><c>the</c></NS> computer more than watching <NS type="RP"><i>Tv</i><c>TV</c></NS> when I get bored.</p>
+          <p>The <NS type="RP"><i>internet</i><c>Internet</c></NS> is the world's largest communication system <NS type="U"><i>ever made</i></NS>. I can do anything I want<NS type="MP"><c>,</c></NS> such as buy <NS type="RP"><i>Cd's</i><c>CDs</c></NS><NS type="MP"><c>,</c></NS> watch <NS type="MD"><c>a</c></NS> film or even buy food. It is really <NS type="DJ"><i>enjable</i><c>enjoyable</c></NS> when I chat with <NS type="RN"><i>pupil</i><c>people</c></NS>. <NS type="MD"><c>The</c></NS> Internet <NS type="TV"><i>brought</i><c>has brought</c></NS> a new <NS type="RN">way</NS> to my <NS type="DN"><i>live</i><c>life</c></NS> since I started to use it. It is easy and very useful. I can <NS type="R">reach any knowledge</NS> that I want to. <NS type="S"><i>Techology</i><c>Technology</c></NS> is also important in <NS type="RQ"><i>one</i><c>another</c></NS> <NS type="RN"><i>subject</i><c>area</c></NS> for me. Transportation. I <NS type="RV"><i>can't</i><c>don't</c></NS> have to walk to school <NS type="RP"><i>everyday</i><c>every day</c></NS> for 8 months<NS type="RP"><i>,</i><c>.</c></NS> Cars, <NS type="IN"><i>busses</i><c>buses</c></NS> and trains are very useful in daily life.</p>
+          <p>Lots of <NS type="AGN"><i>thing</i><c>things</c></NS> would be hard and boring in my life <NS type="MC"><c>if</c></NS> I was living in a different time than now. I can easily do what I want. Technology <NS type="TV"><i>brought</i><c>has brought</c></NS> simple solutions to my life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

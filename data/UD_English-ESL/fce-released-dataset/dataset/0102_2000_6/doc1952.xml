@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR750*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Jones:</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you because I wanted to tell you what a bad experience I had during my holidays when I went to see the play on <NS type="MT"><c>at</c></NS> your theatre. To begin with, the actor you <NS type="S"><i>publised</i><c>published</c></NS> <NS type="R"><i>was</i><c>as</c></NS> going to perform, didn't. To make things even worse, the play didn't start at 19:30 as it was supposed to but instead it started 45 minutes late, at 20:15, and there weren't even your famous discounts available.</p>
+          <p><NS type="ID"><i>As it wasn't enough</i><c>As if that wasn't enough</c></NS>, after the show, I took the risk of going to your restaurant and <NS type="M"><c>it is</c></NS> not very hard to guess <NS type="MC"><c>that</c></NS> I wasn't able to enjoy it, as <NS type="UT"><i>for</i></NS> it was closed because it wasn't clean enough to <NS type="RV"><i>sell</i><c>serve</c></NS> food<NS type="RP"><i>,</i><c>;</c></NS> the perfect ending <NS type="RT"><i>for</i><c>to</c></NS> the perfect evening.</p>
+          <p>Considering all this, and especially the fact that I didn't get a discount on my ticket, I think the least you can do is give me my money back to make it up to me, and so I can go <NS type="R"><i>an</i><c>and</c></NS> spend the money <NS type="RT"><i>in</i><c>on</c></NS> a good play <NS type="RY"><i>when</i><c>where</c></NS> they do what they've promised.</p>
+          <p>Waiting for <NS type="DA"><i>your</i><c>you</c></NS> to write back</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Modern technology is, nowadays, not only a "tool" for <NS type="RP"><i>every day</i><c>everyday</c></NS> life but also a lifestyle. People are getting more and more <NS type="S"><i>adicted</i><c>addicted</c></NS> to this, because <NS type="MA"><c>it</c></NS> helps <NS type="MV"><c>to make</c></NS> <NS type="RP"><i>every day</i><c>everyday</c></NS> life <NS type="UV"><i>to be</i></NS> easier and more <NS type="S"><i>confortable</i><c>comfortable</c></NS>.</p>
+          <p>In my own personal experience, technology is something I can't live without. <NS type="RT"><i>From</i><c>By</c></NS> a simple domestic appliance, a TV or a radio<NS type="MP"><c>,</c></NS> <NS type="R"><i>to</i><c>or</c></NS> a cell phone or a computer, my life is much better now than it was before. For example, whenever I go out by myself, my father gives me a cell phone, to call him in case I need anything. Another thing I depend on is the computer. Not only to play <NS type="MN"><c>games</c></NS> or use the Internet, but also to write my papers for school.</p>
+          <p>I think that anything that can make our <NS type="IN"><i>lifes</i><c>lives</c></NS> better<NS type="UP"><i>,</i></NS> should be done, because that way we <NS type="TV"><i>wouldn't</i><c>won't</c></NS> have so many things to be concerned about, and we <NS type="TV"><i>would</i><c>will</c></NS> be able to live a happier and more relaxed life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

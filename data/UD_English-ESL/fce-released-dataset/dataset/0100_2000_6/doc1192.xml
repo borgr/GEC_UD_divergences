@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR488*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan</p>
+          <p>I refer to your letter regarding the prize I have won in your competition.</p>
+          <p>I was really pleased to find out that I have an opportunity to spend two weeks at Camp California in the U.S.A.</p>
+          <p>As requested in your letter please find below some additional information about me and my plans.</p>
+          <p>I would like to travel in June as I have already arranged <NS type="W"><i>for a <NS type="MP"><i>part time</i><c>part-time</c></NS> job</i><c>a part-time job for</c></NS> later this summer.</p>
+          <p>I prefer to stay in a tent <NS type="RC"><i>as</i><c>so</c></NS> I go <NS type="S"><i>campping</i><c>camping</c></NS> every summer and am used to <NS type="RV"><i>slipping</i><c>sleeping</c></NS> in tents.</p>
+          <p>From the list of activities, which was provided by you, I'd like to choose photography and swimming. I'm very good at swimming as I have been a member of <NS type="RJ"><i>different</i><c>various</c></NS> swimming clubs since I was 6 and I chose <NS type="S"><i>photograthy</i><c>photography</c></NS> because I have a new camera and want somebody to teach me how to use it.</p>
+          <p><NS type="RY"><i>At the end</i><c>Finally</c></NS> I would like to ask you to let me know how much money &amp; what kind of clothes I have to take with me.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Report</p>
+          <p>Subject: Video about daily life at our school.</p>
+          <p>Introduction: <NS type="R">To support an idea to make</NS> a short video about daily life at our school I have <NS type="TV"><i>spend</i><c>spent</c></NS> some time discussing it with other students, <NS type="MC"><c>and</c></NS> observing and <NS type="S"><i>analaising</i><c>analysing</c></NS> an <NS type="S"><i>avrege</i><c>average</c></NS> day in our <NS type="S"><i>scholl</i><c>school</c></NS> and <NS type="TV"><i>came</i><c>have come</c></NS> up with some suggestions.</p>
+          <p>Places to video: We should try to video not only <NS type="RP"><i>class rooms</i><c>classrooms</c></NS> but also our playground, cafe, <NS type="DJ"><i>sport</i><c>sports</c></NS> hall, art club &amp; library. Most students spend a lot of their time in such places and they are <NS type="MD"><c>a</c></NS> very important part of our school life.</p>
+          <p>Activities to video: We should show students during their formal studies as well as after lessons. I think it is a good idea to include a record of one of our big events such as <NS type="MD"><c>the</c></NS> <NS type="S"><i>anual</i><c>annual</c></NS> <NS type="DJ"><i>sport</i><c>sports</c></NS> <NS type="S"><i>turnament</i><c>tournament</c></NS> or <NS type="S"><i>wellcoming</i><c>welcoming</c></NS> evening for new students.</p>
+          <p><NS type="S"><i>Conclugen</i><c>Conclusion</c></NS>: To sum up the above I'd like to suggest not <NS type="FV"><i>to film</i><c>filming</c></NS> anything longer than 1 or 2 <NS type="S"><i>minuts</i><c>minutes</c></NS> and <NS type="FV"><i>have</i><c>having</c></NS> a nice mixture of places, faces and events.</p>
+          <p>If you have any further comments or questions regarding this <NS type="RN"><i>case</i><c>matter</c></NS> please let me know.</p>
+          <p>King Regards</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

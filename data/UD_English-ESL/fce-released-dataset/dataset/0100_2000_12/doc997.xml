@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR415*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>We would like to thank you for the programme which you have prepared for us. We really like the variety of our trip to London. The programme <NS type="RV"><i>contains</i><c>offers</c></NS> enjoyment and education, <NS type="RA"><i>what</i><c>which</c></NS> is <NS type="UY"><i>very</i></NS> <NS type="S"><i>esencial</i><c>essential</c></NS> for young people.</p>
+          <p>However, we would like to say<NS type="UP"><i>,</i></NS> that recently <NS type="RD"><i>the</i><c>an</c></NS> advertisement for the London Fashion and Leisure Show has been seen by one of your English class <NS type="AGN"><i>student</i><c>students</c></NS>. The show will be about <NS type="MD"><c>the</c></NS> latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles.</p>
+          <p>In our opinion, we should go to the show. Firstly, because we are keen on fashion. <NS type="DY"><i>Secondaly</i><c>Secondly</c></NS>, because we do not have to pay for the tickets.</p>
+          <p>We have already <NS type="S"><i>orgonised</i><c>organised</c></NS> our visit <NS type="M"><c>in a</c></NS> new programme. The show is on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> and we could go to see the show in the afternoon, instead of <NS type="MV"><c>going</c></NS> shopping. We think<NS type="UP"><i>,</i></NS> that we <NS type="RV"><i>may</i><c>can</c></NS> <NS type="MV"><c>go</c></NS> shopping <NS type="MD"><c>the</c></NS> next day, on <NS type="RP"><i>wednesday</i><c>Wednesday</c></NS>, in our free time.</p>
+          <p>We are looking <NS type="S"><i>foraward</i><c>forward</c></NS> to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p><NS type="M"></NS> Students<NS type="UP"><i>.</i></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>The Home of the Future</p>
+          <p>The future is <NS type="DJ"><i>unexpectable</i><c>unpredictable</c></NS> and human beings are <NS type="S"><i>afriad</i><c>afraid</c></NS> of dangers, such as <NS type="FN"><i>tornado</i><c>tornados</c></NS> or <NS type="FN"><i>earthquake</i><c>earthquakes</c></NS>. Thinking about home <NS type="RC"><i>like</i><c>as</c></NS> a place to live<NS type="UP"><i>,</i></NS> <NS type="CE">is not already worth</NS>. We must think about home from <NS type="AGQ"><i>other</i><c>another</c></NS> point of view. We need to make our home a place where we want to come back <NS type="MT"><c>to</c></NS> after <NS type="UD"><i>the</i></NS> work or school. It has to be <NS type="MD"><c>a</c></NS> pleasure to be there for us. What we really need in the next <NS type="S"><i>millenium</i><c>millennium</c></NS> is love, that is what will keep all <NS type="MD"><c>the</c></NS> family together <NS type="UC"><i>and</i></NS> forever. Do we care about a new carpet or <NS type="UD"><i>a</i></NS> fashionable furniture? No<NS type="RP"><i>;</i><c>,</c></NS> I do not think so. <NS type="DN"><i>Live</i><c>Life</c></NS> is too short to think about <NS type="UD"><i>the</i></NS> <NS type="RN"><i><NS type="S"><i>poscesives</i><c>possessives</c></NS></i><c>possessions</c></NS>.</p>
+          <p><NS type="RD"><i>The</i><c>Our</c></NS> houses will change because of new <NS type="S"><i>technologe</i><c>technology</c></NS>, <NS type="RA"><i>what</i><c>which</c></NS> may make our <NS type="FN"><i><NS type="DN"><i>live</i><c>life</c></NS></i><c>lives</c></NS> more comfortable. Everything will be faster. We will <NS type="MV"><c>get</c></NS> used to that. What depends on us, is <NS type="UY"><i>how</i></NS> <NS type="MD"><c>the</c></NS> <NS type="S"><i>atmospher</i><c>atmosphere</c></NS> we will have in our houses. The home of the <NS type="RP"><i>Future</i><c>future</c></NS>, for me, is a place of <NS type="S"><i>hapinest</i><c>happiness</c></NS>.</p>
+          <p>We cannot <NS type="R"><NS type="MV"><c>be</c></NS> aware <NS type="MT"><c>of</c></NS></NS> future <NS type="S"><i>technologe</i><c>technology</c></NS>, but we might still have some feelings <NS type="RT"><i>to</i><c>for</c></NS> <NS type="DA"><i>eachothers</i><c>each other</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

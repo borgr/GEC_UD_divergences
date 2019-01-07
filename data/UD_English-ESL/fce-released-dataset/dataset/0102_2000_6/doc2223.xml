@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR899*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>Further to the <NS type="S"><i>umpleasent</i><c>unpleasant</c></NS> <NS type="RN"><i>fact</i><c>event</c></NS> that took place last week<NS type="MP"><c>,</c></NS> <NS type="RA"><i>I</i><c>it</c></NS> <NS type="AGV"><i>am</i><c>is</c></NS> <NS type="UT"><i>in</i></NS> my right <NS type="UT"><i>of</i></NS> <NS type="FV"><i>complaining</i><c>to complain</c></NS> about the musical show I saw when I was in London.</p>
+          <p>First of all, when we arrived we went to pay and we gave <NS type="M"></NS> a discount ticket. It was not <NS type="RJ"><i>available</i><c>valid</c></NS> but the worst thing was that nobody <NS type="AS"><i>explained us the reason</i><c>explained the reason to us</c></NS>.</p>
+          <p>The show <NS type="RV"><i>had</i><c>was supposed</c></NS> to start at 19:30 and it did not start until 8:15<NS type="RP"><i>, then</i><c>. Then</c></NS> I felt <NS type="S"><i>dissappointed</i><c>disappointed</c></NS> because the main actor had been changed. It <NS type="MV"><c>would</c></NS> <NS type="W"><i><NS type="FV"><i>had</i><c>have</c></NS> not</i><c>not have</c></NS> been such a terrible thing if the new actor <NS type="UV"><i>would have</i></NS> acted as well as the other one.</p>
+          <p>If <NS type="RA"><i>it</i><c>that</c></NS> does not seem enough, after the show <NS type="R"><i>by</i><c>my</c></NS> boyfriend wanted to <NS type="RV"><i>invite</i><c>take</c></NS> me to eat something in the theatre's restaurant but the <NS type="S"><i>umpleasent</i><c>unpleasant</c></NS> surprise was that it was closed because all the waiters were on holiday.</p>
+          <p>After <NS type="AS"><i>explaining you my <NS type="DN"><i>complains</i><c>complaints</c></NS></i><c>explaining my complaints to you</c></NS> I hope you <NS type="UT"><i>to</i></NS> send me some money back.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. It was our last school year, so we decided to organize a trip to celebrate <NS type="M"><c>the fact</c></NS> we had finally finished <NS type="R"><i>it</i><c>school</c></NS>. We knew that our parents wouldn't let us <NS type="FV"><i>to travel</i><c>travel</c></NS> alone so we had to invent a story to avoid <NS type="RA"><i>they</i><c>them</c></NS> <NS type="UV"><i>could</i></NS> <NS type="FV"><i>realize</i><c>realising</c></NS> what <NS type="TV"><i>happened</i><c>had happened</c></NS>. Kim, Kate and Pat told their parents they were going to travel with the school and so<NS type="UP"><i>,</i></NS> did I. We were excited and we started to <NS type="FV"><i>organized</i><c>organise</c></NS> everything. We booked some rooms in a hotel, next to the beach<NS type="MP"><c>,</c></NS> and we bought all the useful things we were going to need. It seemed <NS type="MT"><c>like</c></NS> the perfect holiday but it wasn't. Pat was in love with my eldest brother<NS type="MP"><c>,</c></NS> whose name is Jon (I have never got on well with him). Pat told him our idea. <NS type="SX"><i>Pour</i><c>Poor</c></NS> Pat, she didn't know my brother, she didn't know how he was. Jon told my parents what we wanted to do. We lost our <NS type="FN"><i>holidays</i><c>holiday</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1060*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan<NS type="RP"><i>;</i><c>:</c></NS></p>
+          <p>Thank you very much for your letter and for this competition.</p>
+          <p>First I would like to answer your questions. I am only available <NS type="RT"><i>on</i><c>in</c></NS> July<NS type="RP"><i>, is</i><c>. Is</c></NS> <NS type="RA"><i>it</i><c>that</c></NS> <NS type="RJ"><i>fine</i><c>okay</c></NS> for you? <NS type="M"><i>Because</i><c>This is because</c></NS><NS type="UP"><i>,</i></NS> the only time I can take <NS type="MD"><c>a</c></NS> holiday is July. I would prefer log cabins<NS type="RP"><i>,</i><c>.</c></NS> I think they are more comfortable and safer than tents.</p>
+          <p><NS type="L"><i>About</i><c>Regarding</c></NS> the two activities<NS type="MP"><c>,</c></NS> I choose swimming and painting. I choose swimming because I am very good at swimming and I like it very much. I took swimming <NS type="RN"><i>courses</i><c>lessons</c></NS> for four years. And the reason I choose painting is <NS type="TV"><i>it's being</i><c>it's</c></NS> very exciting <NS type="RT"><i>to</i><c>for</c></NS> me<NS type="RP"><i>,</i><c>.</c></NS> I am not very good at this <NS type="RN">subject</NS> but I <NS type="TV"><i>would</i><c>will</c></NS> improve my painting.</p>
+          <p>I would like to ask <NS type="S"><i>whather</i><c>whether</c></NS> you have competitions or <NS type="RJ">different</NS> activities<NS type="RP"><i>?</i><c>.</c></NS> Do you <NS type="S"><i>reccomend</i><c>recommend</c></NS> me to take only summer clothes or some winter clothes as well? Is it <NS type="MD"><c>a</c></NS> very expensive area? I mean would £700 be enough for me for one week?</p>
+          <p>Thank you very much for your interest<NS type="MP"><c>.</c></NS></p>
+          <p>I look forward to hearing from you<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>It's been a long time <NS type="R"><i>not</i><c>since I</c></NS> <NS type="TV"><i>to write</i><c>wrote</c></NS> to you<NS type="RP"><i>,</i><c>.</c></NS> I'm really sorry but I was very busy. I worked <NS type="S"><i>untill</i><c>until</c></NS> midnight <NS type="RP"><i>everyday</i><c>every day</c></NS>.</p>
+          <p>Actually I don't work, you know<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i>had</i><c>have</c></NS> been decorating a concert hall for a pop concert. It was very important for us because we really wanted people to enjoy it.</p>
+          <p>It was very enjoyable<NS type="MP"><c>.</c></NS> I <NS type="RV"><i>met</i><c>made</c></NS> lots of friends<NS type="MP"><c>.</c></NS> <NS type="TV"><i>We'd been</i><c>We were</c></NS> together all day, painting the walls, cleaning <NS type="MC"><c>and</c></NS> putting <NS type="MY"><c>up</c></NS> some <NS type="S"><i>baloons</i><c>balloons</c></NS> and other <NS type="RN"><i>staff</i><c>stuff</c></NS> everywhere. And at the time of <NS type="MD"><c>the</c></NS> concert we wore <NS type="UD"><i>a</i></NS> big funny <NS type="FN"><i>costume</i><c>costumes</c></NS>, and danced with people. Everybody liked it very much<NS type="RP"><i>,</i><c>.</c></NS> Anyway we worked <NS type="R">for that</NS>.</p>
+          <p><NS type="AS"><i>The most I like</i><c>What I liked most</c></NS> was meeting <NS type="UT"><i>with</i></NS> the band. Guess what the name of the band is; Back Street Boys. Oh, my God<NS type="MP"><c>,</c></NS> they're <NS type="R"><i>so</i><c>such</c></NS> nice, talkative, funny, people. But you know they're a bit spoilt.</p>
+          <p>I have to finish or I'll miss the last post.</p>
+          <p>Bye for now, write to me soon</p>
+          <p>love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

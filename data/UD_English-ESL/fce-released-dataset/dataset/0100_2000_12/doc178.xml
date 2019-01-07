@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR93*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson!</p>
+          <p>Thank you very much for <NS type="MD"><c>your</c></NS> <NS type="RJ"><i>good</i><c>excellent</c></NS> programme! We like it very much! But we would like to go to the London Fashion and Leisure Show. It is on Tuesday. We think<NS type="UP"><i>,</i></NS> that you <NS type="W"><i>also would</i><c>would also</c></NS> like to go there, when <NS type="TV"><i>you'll know</i><c>you know</c></NS> <NS type="W"><i>about it <NS type="RY"><i>better</i><c>more</c></NS></i><c>more about it</c></NS>. <NS type="W"><i>There will be <NS type="TV"><i>showed</i><c>shown</c></NS> the latest fashions</i><c>The latest fashions will be shown there</c></NS>. Also, we will see leisure and sports wear.</p>
+          <p>We know<NS type="UP"><i>,</i></NS> that you <NS type="TV"><i>wanted</i><c>want</c></NS> to have another <unknown/> and <NS type="TV"><i>didn't</i><c>don't</c></NS> know which one. If we go to the show, we will see many hairstyles. Maybe it'll help you choose. Also, you'll be glad to know<NS type="UP"><i>,</i></NS> that for students it is free! So, we think<NS type="UP"><i>,</i></NS> that it is very good <NS type="UT"><i>as</i></NS> for you <NS type="R"><i>as</i><c>and</c></NS> for us.</p>
+          <p>So, we can change your programme a little bit <NS type="R">to the best one</NS>. On Monday afternoon we have the river trip to Greenwich, as you have written <NS type="RT"><i>on</i><c>in</c></NS> your programme. On Tuesday morning we go to the show and after that shopping. And on Wednesday morning we go to the <NS type="RP"><i>national art gallery</i><c>National Art Gallery</c></NS>, <NS type="RC"><i>but</i><c>and</c></NS> after that we can go to the Science Museum, in the afternoon.</p>
+          <p>Our class asks you to think about this programme. We're sure<NS type="UP"><i>,</i></NS> that you <NS type="TV"><i>like</i><c>will like</c></NS> it very much!</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. My best friend told me<NS type="UP"><i>,</i></NS> she <NS type="TV"><i>met</i><c>had met</c></NS> <NS type="RD"><i>one</i><c>a</c></NS> boy. She liked him very much. She was <NS type="RV"><i>speaking</i><c>talking</c></NS> about him <NS type="RQ"><i>every</i><c>all the</c></NS> time. She told me<NS type="UP"><i>,</i></NS> that he was <NS type="SX"><i>hansom</i><c>handsome</c></NS>, kind, <NS type="MC"><c>and</c></NS> <NS type="DJ">well-understanding</NS> (<NS type="R">he understood her from a half of the word</NS>); the main <NS type="MN"><c>thing</c></NS> was he also liked her very much!</p>
+          <p>I <NS type="S"><i>belived</i><c>believed</c></NS> everything she <NS type="TV"><i>has told</i><c>told</c></NS> me. And said just <NS type="FV"><i>to be</i><c>be</c></NS> careful. But <NS type="RT"><i>in</i><c>for</c></NS> three days she <NS type="RV"><i>hasn't been at</i><c>didn't come</c></NS> home. She disappeared! We called the police. They advised us to wait. But we couldn't just sit and wait! We had to do something. <NS type="RT"><i>In</i><c>After</c></NS> three days of <NS type="R">her disappearing</NS> the phone <NS type="TV"><i>has rung</i><c>rang</c></NS>. I <NS type="RV"><i>took</i><c>picked up</c></NS> the phone. Someone told me if I wanted to see my friend, I must <NS type="RV"><i>take</i><c>get</c></NS> 5000$ and <NS type="RV"><i>bring</i><c>take</c></NS> <NS type="AGA"><i>them</i><c>it</c></NS> <NS type="RY"><i>up</i><c>out</c></NS> <NS type="RT"><i>to</i><c>onto</c></NS> the street. I took <NS type="RQ"><i>any</i><c>some</c></NS> <NS type="CN"><i>papers</i><c>paper</c></NS>, put <NS type="AGA"><i>them</i><c>it</c></NS> <NS type="RT"><i>to</i><c>into</c></NS> <NS type="RD"><i>one</i><c>a</c></NS> bag and without saying anything went to my friend to <NS type="RV"><i>take</i><c>get</c></NS> something <NS type="M"><c>that looked</c></NS> like <NS type="MD"><c>a</c></NS> gun. The friend gave me his toy <NS type="MN"><c>gun</c></NS> and I <NS type="TV"><i>gone</i><c>went</c></NS> <NS type="RT"><i>to</i><c>onto</c></NS> the street. There I saw a man and my friend. I showed the man<NS type="UP"><i>,</i></NS> that I had a gun and money. I <NS type="MV"><c>was</c></NS> surprised that he <NS type="S"><i>belived</i><c>believed</c></NS> me. Of course, it was better for us. I gave him the bag<NS type="MP"><c>,</c></NS> took <NS type="RD"><i>the</i><c>my</c></NS> <NS type="MP"><i>friends</i><c>friend's</c></NS> hand and we <NS type="TV"><i>run</i><c>ran</c></NS> away. After that she told me<NS type="UP"><i>,</i></NS> that the man was the boy<NS type="UP"><i>,</i></NS> <NS type="RA"><i>which</i><c>who</c></NS> she <NS type="TV"><i>met</i><c>had met</c></NS>.</p>
+          <p>Don't believe everyone! Better check, if you are not sure!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

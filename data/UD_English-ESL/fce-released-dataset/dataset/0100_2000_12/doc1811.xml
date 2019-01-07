@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR70*0100*2000*02">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I am writing <NS type="RT"><i>in the name of</i><c>on behalf of</c></NS> the whole class. First of <NS type="S"><i>al</i><c>all</c></NS>, I want to thank you for the interesting programme<NS type="UP"><i>,</i></NS> which you <NS type="W"><i>already have</i><c>have already</c></NS> organised. It is very good, especially the <NS type="RP"><i>Sightseeing</i><c>sightseeing</c></NS> tour by bus.</p>
+          <p>However, we <NS type="TV"><i>have seen</i><c>saw</c></NS> an advertisement in yesterday's newspaper for the London Fashion and Leisure Show. It takes place on Tuesday March 14 from 10.00 to 19.00 at Central Exhibition Hall in London. There we <NS type="RV"><i>can</i><c>will be able to</c></NS> see everything <NS type="RT"><i>about</i><c>connected with</c></NS> the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. <NS type="UD"><i>The <NS type="RN"><i>entrance</i><c>entry</c></NS></i><c>Entry</c></NS> for <NS type="FN"><i>student</i><c>students</c></NS> is free.</p>
+          <p>This is a great opportunity because as you know most people <NS type="RT"><i>of</i><c>in</c></NS> our class are going to work in this sector so it <NS type="TV"><i>will be</i><c>would be</c></NS> very interesting for everybody and also a kind of education.</p>
+          <p>Instead of going to the Science Museum on Tuesday morning<NS type="MP"><c>,</c></NS> we thought we could postpone it to Wednesday afternoon. The shopping could be done after the river trip to Greenwich but only if we have enough time.</p>
+          <p>I hope you will agree with our suggestion and if you have any further questions do not <NS type="S"><i>hesistate</i><c>hesitate</c></NS> to contact me.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Will the home of the future really look different? It's quite difficult to say, but of course there will be <NS type="UD"><i>a</i></NS> <NS type="FN"><i>change</i><c>changes</c></NS>.</p>
+          <p>For example<NS type="MP"><c>,</c></NS> if you look back <NS type="RT"><i>into</i><c>to</c></NS> the forties and compare <NS type="UD"><i>the</i></NS> <NS type="FN"><i>home</i><c>homes</c></NS> <NS type="MY"><c>then</c></NS> with nowadays<NS type="MP"><c>,</c></NS> you can see that <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> become more modern, especially the <NS type="RN"><i>facilities</i><c>equipment</c></NS> in the kitchen and in the <NS type="RP"><i>livingroom</i><c>living room</c></NS>.</p>
+          <p><NS type="RP"><i>in</i><c>In</c></NS> the future it <NS type="R"><i>could be</i><c>is possible</c></NS> that you <NS type="TV"><i>don't</i><c>won't</c></NS> have to prepare your breakfast <NS type="UT"><i>by</i></NS> <NS type="SX"><i>your</i><c>yourself</c></NS> <NS type="UA"><i>own</i></NS>, perhaps you <NS type="TV"><i>just have</i><c>will just have</c></NS> to press a button when your alarm clock has gone <NS type="MY"><c>off</c></NS>. In addition to this<NS type="MP"><c>,</c></NS> you may have some <NS type="DN"><i>roboters</i><c>robots</c></NS> bringing the newspaper <NS type="RT"><i>at</i><c>to</c></NS> the table, tidying up the house, <NS type="MC"><c>and</c></NS> doing the shopping<NS type="MP"><c>.</c></NS> <NS type="UC"><i>and maybe</i><c>Maybe</c></NS> they <NS type="TV"><i>are also</i><c>will also be</c></NS> your <NS type="RN"><i>living</i><c>life</c></NS> <NS type="S"><i>patners</i><c>partners</c></NS>.</p>
+          <p>The place to spend the night will still be the bed. The <NS type="RP"><i>livingroom</i><c>living room</c></NS> won't <NS type="RV"><i>get</i><c>see</c></NS> any big changes<NS type="MP"><c>,</c></NS> although <NS type="UD"><i>the</i></NS> televisions, stereos and videos will become more modern and perhaps more <NS type="RJ"><i>difficult</i><c>complicated</c></NS>.</p>
+          <p>In general we can <NS type="RV"><i>say</i><c>see</c></NS> the huge <NS type="FN"><i>change</i><c>changes</c></NS> we <NS type="TV"><i>already had</i><c>have already had</c></NS>, but who knows exactly what the future will bring <NS type="RT"><i>to</i><c>for</c></NS> us?</p>
+          <p>Let's have a surprise<NS type="RP"><i>?</i><c>.</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

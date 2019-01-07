@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR149*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Brown,</p>
+          <p>I went to the Circle Theatre yesterday, to see the play "Over The Rainbow" and I must say that I <NS type="RV"><i>got</i><c>was</c></NS> rather disappointed.</p>
+          <p>First of all, the play was supposed to start at 7:30 P.M. but it actually started <NS type="UY"><i>only</i></NS> at 8:15 P.M. so I had to wait forty-five minutes. Also, your advertisement <NS type="UN"><i>sign</i></NS> says that discounts are available. <NS type="RA"><i>What</i><c>That</c></NS> is <NS type="W"><i>quite not</i><c>not quite</c></NS> true because when I asked for <NS type="RA"><i>it</i><c>one</c></NS>, the woman who sells the tickets replied with a resounding<NS type="MP"><c>,</c></NS> "<NS type="RP"><i>no</i><c>No</c></NS>".</p>
+          <p>When the play finally started, and the two actors entered the stage, I could see that the male one was not Danny Brook, <NS type="RY"><i>differently</i><c>contrary</c></NS> <NS type="RT"><i>from</i><c>to</c></NS> what the advertisement <NS type="UN"><i>sign</i></NS> says, <NS type="RA"><i>what</i><c>which</c></NS> really disappointed me since he was the only reason that I came to this play.</p>
+          <p>But my complaints are not over yet. After the disappointing performance <NS type="MT"><c>of</c></NS> the actor who replaced Danny Brook, I went to the theatre restaurant, and, also <NS type="R"><i>differing from</i><c>in contrast to what was said on</c></NS> the advertisement <NS type="UN"><i>sign</i></NS>, it was closed. There was only a small sign <NS type="RV"><i>stamped</i><c>stuck</c></NS> on the door, saying that it was "closed for repairs".</p>
+          <p>So, unfortunately, I must say that last night was one of the worst nights I ever had, and <NS type="MV"><c>having</c></NS> given the reasons, I expect <NS type="MV"><c>to be</c></NS> <NS type="MJ"><c>able</c></NS> to count <NS type="RT"><i>with</i><c>on</c></NS> your sense of <NS type="S"><i>responsability</i><c>responsibility</c></NS>, so, I feel that I must ask for my 20 pounds <NS type="MA"><c>I</c></NS> spent on that terrible night.</p>
+          <p>yours <NS type="DY"><i>faithful</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>As we all know, technology <NS type="AS"><i>had a gigantic improvement</i><c>has improved gigantically</c></NS> over the last 20 years, and today, it affects us in many ways.</p>
+          <p>First of all, we <NS type="TV"><i>all became</i><c>have all become</c></NS> much more sedentary than in the past. Most of the modern jobs <NS type="AGV"><i>involves</i><c>involve</c></NS> computers, so there is no physical effort, just mental, but, on the other hand, we improved communications with computers and <NS type="MD"><c>the</c></NS> Internet, <NS type="RD"><i>a</i><c>the</c></NS> kind of communication where there is no need to meet personally, to see the other person, just the need to talk.</p>
+          <p>Also, with today's machines, factories have significantly increased their production, <NS type="RA"><i>what</i><c>which</c></NS> brings progress to humanity, but also, with the <NS type="S"><i>continous</i><c>continuous</c></NS> replacement of men by machines, <NS type="UD"><i>the</i></NS> unemployment is increasing too, and today, it worries every single citizen of the world, specially the ones who <NS type="AGV"><i>lives</i><c>live</c></NS> in third world <NS type="FN"><i>country</i><c>countries</c></NS>.</p>
+          <p>So, men have invented machines to help <NS type="AGA"><i>him</i><c>them</c></NS> <NS type="RT"><i>on</i><c>with</c></NS> <NS type="AGQ"><i>his</i><c>their</c></NS> tasks, but nowadays, we <NS type="R"><i>our</i><c>are</c></NS> becoming slaves <NS type="RT"><i>of</i><c>to</c></NS> <NS type="R">them</NS>. The most important thing in the future will be knowing how to deal with machines, so, today's children must be introduced to computers <NS type="RT"><i>since</i><c>from</c></NS> an early age, so that they <NS type="TV"><i>could</i><c>can</c></NS> have a chance to compete with the furious <NS type="DN">emearrence</NS> <NS type="RT"><i>in</i><c>of</c></NS> the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

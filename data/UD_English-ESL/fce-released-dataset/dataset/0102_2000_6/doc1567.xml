@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR610*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about a musical show <NS type="RV"><i>presented</i><c>put on</c></NS> in your theatre. Indeed, I recently spent a week's holiday in London and I went to the theatre to see "Over the Rainbow". It was really a very disappointing evening.</p>
+          <p>I was disappointed to see that Danny Brook, announced on your advertisement, did not act in this show. Indeed, he was replaced by a different actor for this evening. Additionally, the show started at 20:15 instead of 19:30, and I had to pay the full price for my ticket as no discount was available. However, the worst was to come as it was impossible to eat something after the show. Indeed, the theatre restaurant was closed because the chef was ill.</p>
+          <p>I hope you can imagine my great disappointment. Therefore, I would like to ask you <NS type="UT"><i>for</i></NS> <NS type="FV"><i>refunding</i><c>to refund</c></NS> me my entrance fee, as this evening did not correspond to your advertisement.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Science and technology have played an important role for the last twenty years and the development of <NS type="UD"><i>the</i></NS> modern technology has especially affected our lives.</p>
+          <p>To take my personal example, I would <NS type="W"><i>be <NS type="RY"><i>no</i><c>not</c></NS> <NS type="UY"><i>more</i></NS></i><c>not be</c></NS> able to live without some of the most recent discoveries, which make my daily life easier. For instance, I can't imagine living without using a computer to write my <NS type="RN"><i>scholar</i><c>school</c></NS> <NS type="FN"><i>works</i><c>work</c></NS>, to play a game or to order some goods on the Internet. This <NS type="UA"><i>latter</i></NS> is a new <NS type="RN">media</NS> which has changed my life, as it is a marvellous tool <NS type="MT"><c>for</c></NS> <NS type="DN"><i>to communicate</i><c>communication</c></NS>, <NS type="DN"><i>learn</i><c>learning</c></NS> or <NS type="FV"><i>have</i><c>having</c></NS> fun. Another important change related to <NS type="UD"><i>the</i></NS> modern technology are <NS type="UD"><i>the</i></NS> credit cards. Until I <NS type="TV"><i>have had</i><c>had</c></NS> one, I <NS type="TV"><i>was</i><c>would</c></NS> often run out of cash and had to go to the bank. At the present time, thanks to my credit card, I can really buy what I want, when I want and where I want!</p>
+          <p>To sum up, there are many other discoveries <NS type="R"><i>in relation</i><c>related</c></NS> <NS type="RT"><i>with</i><c>to</c></NS> <NS type="UD"><i>the</i></NS> modern technology which affect my daily life. However<NS type="MP"><c>,</c></NS> it would <NS type="RV"><i>be</i><c>take</c></NS> too long to list them all, and I am quite sure that you <NS type="R"><i>also know</i><c>are also familiar with</c></NS> them as they don't change only my life, but everybody's daily life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

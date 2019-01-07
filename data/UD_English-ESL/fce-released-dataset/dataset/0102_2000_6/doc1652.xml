@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR652*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I'm sorry to say <NS type="RA"><i>it</i><c>this</c></NS><NS type="MP"><c>,</c></NS> but your musical show was very disappointing to me. I was very disappointed. <NS type="MD"><i>Lot</i><c>A lot</c></NS> of things that you <NS type="RV"><i>have written</i><c>wrote</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> the advertisement are not true.</p>
+          <p>You <NS type="TV"><i><NS type="DV"><i>writer</i><c>write</c></NS></i><c>wrote</c></NS> that the actor was going to be Danny Brook but he wasn't there. A different actor was <NS type="RV"><i><NS type="FV"><i>played</i><c>playing</c></NS></i><c>performing</c></NS> and this was very disappointing to everyone.</p>
+          <p>Also the show did not start at half past seven <NS type="UY"><i>o'clock</i></NS> as it <NS type="UV"><i>was</i></NS> said but at eight <NS type="UC"><i>and</i></NS> fifteen <NS type="UY"><i>o'clock</i></NS>. Everyone get bored <NS type="MV"><c>waiting</c></NS> <NS type="RT"><i>until</i><c>for</c></NS> the show <NS type="FV"><i>start</i><c>to start</c></NS>.</p>
+          <p>About the discount that we <NS type="TV"><i>are</i><c>were</c></NS> going to have<NS type="RP"><i>. Why</i><c>, why</c></NS> <NS type="R"><i>it does not make to us</i><c>didn't we get it</c></NS>?</p>
+          <p>I am also wondering why you told us to visit your theatre restaurant after the show<NS type="RP"><i>.</i><c>,</c></NS> as it was closed. <NS type="W"><i>Everyone after the show</i><c>After the show everyone</c></NS> <NS type="TV"><i>run</i><c>ran</c></NS> to <NS type="RV"><i>take</i><c>get</c></NS> a good seat <NS type="RT"><i>at</i><c>in</c></NS> the restaurant but everyone <NS type="MV"><c>was</c></NS> disappointed when they <NS type="TV"><i>see</i><c>saw</c></NS> the <NS type="RN"><i>sight</i><c>sign</c></NS> which said "<NS type="RJ"><i>Close</i><c>Closed</c></NS> for today".</p>
+          <p>That evening wasn't <NS type="UD"><i>my</i></NS> perfect and I have to say that I want my money back because the show was a disaster. I'm really sorry <NS type="UA"><i>I</i></NS> <NS type="FV"><i>am saying</i><c>to say</c></NS> this but <NS type="MA"><c>it</c></NS> is the <NS type="DN"><i>true</i><c>truth</c></NS>.</p>
+          <p>I <NS type="TV"><i>am hoping</i><c>hope</c></NS> that you will not make such mistakes again.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Pat is a friend of mine and we <NS type="TV"><i>are</i><c>have been</c></NS> friends for almost a year. She is a very good girl and she can deal with every <NS type="S"><i>promblem</i><c>problem</c></NS> she has.</p>
+          <p>It was Saturday when I called her and <NS type="RV"><i>told</i><c>asked</c></NS> her to go for a walk <NS type="RT"><i>at</i><c>in</c></NS> the park, which was not very far away from our houses. I had never told her a secret before but this time<NS type="UP"><i>,</i></NS> I was going to tell her. The secret was about our friend Maria who was very kind <NS type="RT"><i>with</i><c>to</c></NS> everyone<NS type="MP"><c>.</c></NS> I told her that I <NS type="TV"><i>have heard</i><c>had heard</c></NS> that Maria had <NS type="RN">concern</NS>. Pat told me that she would not <NS type="FV"><i>told</i><c>tell</c></NS> that to anyone but the other day I learnt that all the school <NS type="TV"><i>had known</i><c>knew</c></NS> about Maria.</p>
+          <p>I was sure that <NS type="MA"><c>it</c></NS> was Pat who told <NS type="UA"><i>it</i></NS> <NS type="UT"><i>to</i></NS> everyone. After that I had an argument with Pat and then she told me that she <NS type="RV"><i>said</i><c>told</c></NS> <NS type="UA"><i>it</i></NS> only <NS type="UT"><i>to</i></NS> one person. I was very sad <NS type="RT"><i>with</i><c>about</c></NS> what Pat <NS type="TV"><i>do</i><c>had done</c></NS> and I didn't speak to her for a long time.</p>
+          <p>But now we are friends again but I will never <NS type="RV"><i>say</i><c>tell</c></NS> <NS type="UT"><i>to</i></NS> her a secret <NS type="MY"><c>again</c></NS> in my whole life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

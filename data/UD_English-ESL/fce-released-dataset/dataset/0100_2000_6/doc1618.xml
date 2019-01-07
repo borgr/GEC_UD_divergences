@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR636*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I would like to thank you for your letter! I went in for your competition and I was really anxious about the results. I am surprised that I won the first prize but also very happy about it! Therefore it <NS type="TV"><i>would be</i><c>is</c></NS> my pleasure to reply to your letter.</p>
+          <p>Firstly, I would like to arrive at the Camp in July if that is possible because I am working and I will not have spare time before <NS type="R"><i>this month</i><c>then</c></NS>.</p>
+          <p>Secondly, you <NS type="TV"><i>are mentioning</i><c>mention</c></NS> "tents or log cabins" as the accommodation provided. I would rather <NS type="RV"><i>live</i><c>stay</c></NS> in a tent than a log cabin in order to be close to nature<NS type="MP"><c>.</c></NS> I adore the sound of the wind, trees, animals and everything which <NS type="TV"><i>is surrounding</i><c>surrounds</c></NS> <NS type="MA"><c>me</c></NS>. <NS type="R">I could feel the environment</NS>.</p>
+          <p>Thirdly, <NS type="R"><i>as far as</i><c>regarding</c></NS> the activities I have to choose, I would prefer swimming <NS type="RC"><i>as well as</i><c>and</c></NS> tennis. I have gained some experience in playing tennis due to the tennis court that we used to have at home. I do <NS type="W"><i>sports a lot</i><c>a lot of sports</c></NS><NS type="MP"><c>,</c></NS> so apart from <NS type="MV"><c>playing</c></NS> tennis I am a member <NS type="RT"><i>in</i><c>of</c></NS> our local swimming centre. I can <NS type="RV"><i><NS type="S"><i>reasure</i><c>reassure</c></NS></i><c>assure</c></NS> you that <NS type="W"><i>gradually I am</i><c>I am gradually</c></NS> improving my sports skills.</p>
+          <p>Finally, I would like to ask you <NS type="RD"><i>which</i><c>what</c></NS> kind of clothes <NS type="UV"><i>do</i></NS> I <NS type="RV"><i>have</i><c>should</c></NS> <NS type="FV"><i>to bring</i><c>bring</c></NS> with me. Is the weather changeable? I was also wondering if I will need any money. I would appreciate <NS type="MA"><c>it</c></NS> if you could let me know as soon as possible.</p>
+          <p>I hope the information given will be of use. I have tried to be as helpful as possible.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I am writing to you about my <NS type="RJ"><i>previous</i><c>recent</c></NS> experience. I know how impatient you are <NS type="MV"><c>to hear</c></NS> about it and I just want to let you know that it was <NS type="UA"><i>something</i></NS> amazing!</p>
+          <p>As I've told you, last month I went <NS type="RT"><i>at</i><c>to</c></NS> a pop concert and I really <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> helping with the preparation. It took place in a huge stadium which had over <NS type="RP"><i>4.000</i><c>4,000</c></NS> seats for the "<NS type="S"><i>spactetors</i><c>spectators</c></NS>" if you can call them <NS type="R"><i>like this</i><c>that</c></NS>. Can you imagine?</p>
+          <p>There was a large stage which we had to <NS type="AS"><i>clean by sweeping</i><c>sweep clean</c></NS>. That was a little bit odd but <NS type="UC"><i>and</i></NS> funny at the same time. Another thing we had to do was help the staff to <NS type="RV"><i><NS type="S"><i>tranfer</i><c>transfer</c></NS></i><c>move</c></NS> some equipment. The musicians <NS type="S"><i>brough</i><c>brought</c></NS> it in order to achieve a high standard of <NS type="W"><i>quality sound</i><c>sound quality</c></NS>. We had to be very careful. Have you any idea how much <NS type="UV"><i>does</i></NS> this stuff <NS type="MV"><c>is</c></NS> worth? You don't even want to know.</p>
+          <p>Apart from <NS type="FA"><i>these</i><c>this</c></NS><NS type="MP"><c>,</c></NS> we were mainly helping the singers to <NS type="FV"><i>be prepared</i><c>prepare</c></NS> for the concert. They had to <NS type="FV"><i>chose</i><c>choose</c></NS> their clothes, <NS type="MC"><c>and</c></NS> <NS type="RV"><i>give</i><c>do</c></NS> one last <NS type="RN"><i>performance</i><c>rehearsal</c></NS> before the big night and everything had to be perfect!</p>
+          <p>Even if I could use 100 sheets it wouldn't be enough to describe my experience and the things that <NS type="TV"><i>I've gained</i><c>I gained</c></NS> <NS type="RT"><i>through</i><c>from</c></NS> it! I've learned the meaning of the words "reliability" and "responsibility". Anyway the result of the whole preparation is <NS type="M"></NS> far more enjoyable and relaxing.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

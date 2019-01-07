@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR90*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>Thank you very much for informing that I won the prize. I was very pleased to hear that. I am writing to <NS type="RV"><i>inform</i><c>give</c></NS> you the information you asked me <NS type="MT"><c>for</c></NS>.</p>
+          <p>As for the date to travel, I would like to go there in July. Owing <NS type="SX"><i>toe</i><c>to</c></NS> the summer course I take starting in August, July is the only month I have free time.</p>
+          <p>With regard to <NS type="MD"><c>the</c></NS> place to stay, I would be most grateful if I could stay in a log cabin. I never could sleep in a tent in my life.</p>
+          <p>I was also very pleased to hear that I could do some activities. Since I have studied photography for several years, I would like to take some <NS type="AGN"><i>picture</i><c>pictures</c></NS> of beautiful <NS type="CN"><i><NS type="S"><i>scenaries</i><c>sceneries</c></NS></i><c>scenery</c></NS> in California. <NS type="RT"><i>As</i><c>After</c></NS> photography, swimming is my best <NS type="RN"><i>way</i><c>method</c></NS> of relaxation. It would be <NS type="RJ"><i>grateful</i><c>great</c></NS> if I could go swimming during the <NS type="FN"><i>stays</i><c>stay</c></NS>.</p>
+          <p>Finally, I would like to know what kind of clothes I should take there, and how much money I would need.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Although shopping is one of the most popular ways to reduce your stress, this is not always the case. There are some negative points that I would like to make about shopping.</p>
+          <p>First of all, if you want to buy nice dresses, the first thing you have to do is <NS type="FV"><i>looking</i><c>look</c></NS> around all <NS type="MD"><c>the</c></NS> shops and department stores in a city. If you are lucky enough, you might find them within 30 minutes, but if you don't, you might have to keep walking for several hours and still <NS type="UV"><i>couldn't</i><c>not</c></NS> find <NS type="RA"><i>ones</i><c>any</c></NS>!! <NS type="UV"><i>That's</i><c>That</c></NS> would be so exhausting.</p>
+          <p>Next thing you have to do is <NS type="FV"><i>trying</i><c>try</c></NS> them on. You have to be patient enough to tolerate long queues for fitting rooms. After that what is waiting for you is the struggle with <NS type="DJ"><i>ill-fitted</i><c>ill-fitting</c></NS> clothes<NS type="MP"><c>,</c></NS> taking off and putting on. That's <NS type="UD"><i>a</i></NS> hell!!</p>
+          <p>That's not the end of the story. You need to go home with bulky bags in both of your hands!!</p>
+          <p>To sum up, although there is certainly a good side <NS type="RT"><i>of</i><c>to</c></NS> shopping, such as <NS type="MD"><c>the</c></NS> pleasures of getting new stuff and spending money on something you really wanted for <NS type="MD"><c>a</c></NS> long time, you also have some unpleasant moments to get through.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

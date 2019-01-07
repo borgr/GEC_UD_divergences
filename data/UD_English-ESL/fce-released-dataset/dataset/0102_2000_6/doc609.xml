@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR241*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to make a <NS type="DN"><i>complain</i><c>complaint</c></NS> about your theatre and the musical show <NS type="RP"><i>,,</i><c>"</c></NS>Over the <NS type="RP"><i>rainbow</i><c>Rainbow</c></NS>".</p>
+          <p>Firstly, in your advertisement <NS type="MA"><c>you</c></NS> <NS type="TV"><i>was said</i><c>said</c></NS> that Danny Brook has a part in the show, but there was a different actor in the play. This fact disappointed me a lot. Secondly, <NS type="RA"><i>there</i><c>it</c></NS> <NS type="TV"><i><NS type="RV"><i>was written</i><c>was said</c></NS></i><c>said</c></NS> in the advertisement<NS type="UP"><i>,</i></NS> that the show begins at 19.30, however, it started at 20.15.</p>
+          <p>According to the advertisement, discounts should <NS type="TV"><i>be</i><c>have been</c></NS> available<NS type="UP"><i>,</i></NS> but, in fact, I was refused <NS type="R"><i>to take the payment for tickets in this way</i><c>a discount</c></NS>. It was very <NS type="RJ"><NS type="S"><i>uncamfortable</i><c>uncomfortable</c></NS></NS> for me. In addition to this, your theatre restaurant was closed because it was too late (the show did not start on time). Everybody<NS type="UP"><i>,</i></NS> who came to <NS type="UP"><i>it's</i><c>its</c></NS> doors<NS type="UP"><i>,</i></NS> had to go to the other restaurant in <NS type="MD"><c>a</c></NS> bad mood. I could have <NS type="RV">understood</NS> this if the musical show had been marvellous, but it was not even quite interesting.</p>
+          <p>Furthermore, I would like you to return my money. You promised me <NS type="MD"><c>a</c></NS> perfect evening out, but it was one of the most terrible in my life.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She was <NS type="MD"><c>a</c></NS> <NS type="DJ"><i>25-years-old</i><c>25-year-old</c></NS> secretary in <NS type="DD"><i>one</i><c>a</c></NS> big company. Her boss was <NS type="MD"><c>a</c></NS> rich man, really rich. His name was Timson White. He was one of the most famous <NS type="AGN"><i>person</i><c>people</c></NS> in <NS type="RD"><i>his</i><c>the</c></NS> city, but he wasn't honest with his clients. Pat had worked for him for two years. Certainly she knew a lot of secrets. One of them was about her <NS type="RP"><i>boss'</i><c>boss's</c></NS> private life: he had <NS type="UV"><i>got</i></NS> <NS type="MD"><c>an</c></NS> <NS type="RJ"><i>illegal</i><c>illegitimate</c></NS> son.</p>
+          <p>Timson's wife, who was <NS type="MP"><i>good looking</i><c>good-looking</c></NS> and young, couldn't know about this, but one beautiful day she asked him how his son was and where he was at that moment. Timson was really shocked! He <NS type="W"><i>even couldn't</i><c>couldn't even</c></NS> say a word. He tried to <NS type="RV"><i>make up</i><c>think</c></NS> who could <NS type="RV"><i><NS type="TV"><i>give</i><c>have given</c></NS></i><c>have told</c></NS> his wife <NS type="UV"><i>knows</i></NS>. Of course, only one person <NS type="TV"><i>had known</i><c>knew</c></NS> this <NS type="RT"><i>except</i><c>apart from</c></NS> his best friends. This was his secretary Pat, however, he couldn't be sure and decided to check <NS type="UA"><i>it</i></NS> up.</p>
+          <p><NS type="MD"><i>Next</i><c>The next</c></NS> day<NS type="MP"><c>,</c></NS> he understood that he was right. Timson had a row at home and also needed <NS type="MD"><c>a</c></NS> new secretary. It was the worst <NS type="FN"><i>weekends</i><c>weekend</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> last few years. On the other hand, now everything is <NS type="RP"><i>o.k</i><c>OK</c></NS>. Timson has a good close family, his son lives with them, his company <NS type="TV"><i>makes</i><c>is making</c></NS> a good profit... Only Pat has problems, she <NS type="CE">should earn her living in other company again</NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

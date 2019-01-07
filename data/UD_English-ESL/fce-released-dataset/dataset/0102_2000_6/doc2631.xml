@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1055*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about a musical show called 'Over the <NS type="RP"><i>rainbow</i><c>Rainbow</c></NS><NS type="RP"><i>,</i><c>'</c></NS> that <NS type="RV">took place</NS> in the Circle Theatre. There were some problems that were not <NS type="RV">displayed</NS> in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS>.</p>
+          <p>The first problem was about the actors. In the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> it was clearly written that Danny Brook and Tina Truelove would play <NS type="MD"><c>the</c></NS> main roles. But I was very disappointed when I didn't see them on the stage. The second problem was the time of the play. The <NS type="S"><i>advertisment</i><c>advertisement</c></NS> said that the show would start at 19:30 but it started at 20:15. I was waiting for the show for <NS type="UD"><i>a</i></NS> <NS type="UP"><i>half-an-hour</i><c>half an hour</c></NS>! The third problem <NS type="AGV"><i>were</i><c>was</c></NS> the discounts. The <NS type="S"><i>advertisment</i><c>advertisement</c></NS> said that they would be available but they were not. The last problem was the theatre restaurant. It was written in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> that I could visit your theatre restaurant after the show, but <NS type="DY"><i>unfortunatelly</i><c>unfortunately</c></NS> it was closed.</p>
+          <p>To conclude, I <NS type="TV"><i>am</i><c>was</c></NS> not satisfied with the show I watched in your theatre and I would like a <NS type="DJ"><i>fully</i><c>full</c></NS> refund.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>There are many different creatures on Earth: animals, insects, plants. But the most developed creature is <NS type="RD"><i>a</i><c>the</c></NS> human. He <NS type="TV"><i>lived</i><c>has lived</c></NS> <NS type="MT"><c>for</c></NS> nearly 10 000 years. During this time men <NS type="TV"><i>had developed</i><c>have developed</c></NS> and now are the leading creatures. They built huge cities, destroyed forests, <NS type="RV"><i>got</i><c>went</c></NS> into space. Now, modern technology has changed our life. And, naturally, it has both advantages and disadvantages.</p>
+          <p>The modern technology, on the one hand, <NS type="TV"><i>made</i><c>has made</c></NS> our life easier. <NS type="CE">We use different electric kettle</NS>. We build big cities, there <NS type="AGV"><i>are</i><c>is</c></NS> hot and cold water, electricity, gas in <NS type="RY"><i><NS type="S"><i>particulary</i><c>particularly</c></NS></i><c>practically</c></NS> every home. We use different transport that makes our <NS type="DN"><i>moving</i><c>travel</c></NS> faster, it <NS type="RV"><i>fastens</i><c>speeds up</c></NS> our life. We communicate with other people by telephone<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> mail, we read newspapers, we watch television, <NS type="MC"><c>and</c></NS> get different information from <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>.</p>
+          <p>But, on the other hand modern technology <NS type="TV"><i>destroyed</i><c>is destroying</c></NS> our life. Factories <NS type="TV"><i>polluted</i><c>have polluted</c></NS> the air we breath, <NS type="RN">shops</NS> <NS type="TV"><i>polluted</i><c>have polluted</c></NS> the water we drink. Many different <NS type="DJ"><i>uncureable</i><c>incurable</c></NS> diseases <NS type="TV"><i>appeared</i><c>have appeared</c></NS>. For example<NS type="RP"><i>:</i><c>,</c></NS> cancer <NS type="IV"><i>occured</i><c>occurred</c></NS> in Africa after American nuclear tests<NS type="MP"><c>.</c></NS></p>
+          <p>All in all, technology <NS type="TV"><i>made</i><c>has made</c></NS> our life better by destroying the environment. In future<NS type="MP"><c>,</c></NS> possibly<NS type="MP"><c>,</c></NS> the technology <NS type="TV"><i>wouldn't</i><c>won't</c></NS> destroy the environment, but we have to do something now, because tomorrow <NS type="TV"><i>can</i><c>could</c></NS> be too late.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

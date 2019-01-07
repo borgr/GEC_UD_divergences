@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1100*0100*2000*01">
+  <candidate><personnel><language>German</language><age>41-50</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sirs,</p>
+          <p>Thank you, <NS type="TV"><i>it's</i><c>it was</c></NS> great to hear <NS type="UT"><i>for</i></NS> about my <NS type="R"><i>winning</i><c>prize</c></NS>. You ask me for some <NS type="CN"><i>informations</i><c>information</c></NS> - here <NS type="AGA"><i>they</i><c>it</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS>.</p>
+          <p>First I can <NS type="U"><i>do the</i></NS> travel only in July, because I can't get <NS type="MQ"><c>any</c></NS> <NS type="RP"><i>freetime</i><c>free time</c></NS> in any other month. The next thing is<NS type="UP"><i>,</i></NS> that I would prefer a log <NS type="S"><i>cabine</i><c>cabin</c></NS>. I don't want to sleep in a tent, because I'm afraid of snakes and similar animals.</p>
+          <p>About the activities <NS type="RT"><i>during</i><c>at</c></NS> the <NS type="RP"><i>Camp</i><c>camp</c></NS><NS type="MP"><c>,</c></NS> I can tell you<NS type="UP"><i>,</i></NS> that I like to play <NS type="RP"><i>Tennis</i><c>tennis</c></NS> and I <NS type="RV"><i>do</i><c>play</c></NS> it very <NS type="DY"><i>good</i><c>well</c></NS>. Another thing I want to try, if possible, is to play <NS type="RP"><i>Golf</i><c>golf</c></NS>. It's a very <NS type="RJ"><i>favourite</i><c>popular</c></NS> sport <NS type="W"><i>also in our region (area)</i><c>in our region (area) also</c></NS>, but I <NS type="RV"><i>did</i><c>have</c></NS> never found time to do it. I'm a beginner <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RP"><i>Golf</i><c>golf</c></NS> you have to know.</p>
+          <p>Now a question from me to you: <NS type="RP"><i>Is</i><c>is</c></NS> it possible to pay <NS type="MT"><c>for</c></NS> the different things <NS type="RT"><i>with</i><c>by</c></NS> <NS type="RP"><i>credit-card</i><c>credit card</c></NS>? Another question - what <NS type="FN"><i>sorts</i><c>sort</c></NS> of clothes shall I bring with me? Is July a hot and dry month or <NS type="RV"><i>is</i><c>does</c></NS> it <NS type="FV"><i>raining</i><c>rain</c></NS> sometimes?</p>
+          <p>I think<NS type="UP"><i>,</i></NS> this will be all I want to know. If there <NS type="AGV"><i>is</i><c>are</c></NS> any other <NS type="AGN"><i>question</i><c>questions</c></NS> <NS type="RT"><i>from</i><c>on</c></NS> your part, please call me or write again.</p>
+          <p>I'm looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you,</p>
+          <p>yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Hi Kim,</p>
+          <p><NS type="RP"><i>sorry</i><c>Sorry</c></NS>, I'm late I know, but now I will tell you something about my experience last month.</p>
+          <p>The concert started on the 15th of <NS type="RP"><i>may</i><c>May</c></NS> and it was a <NS type="L"><i>real</i><c>really</c></NS> great session in our valley. I was so happy when they <NS type="RV"><i>told</i><c>asked</c></NS> me to help them with the organisation. I was responsible <NS type="RT"><i>to</i><c>for</c></NS> the <NS type="S"><i>advertisments</i><c>advertisements</c></NS> and I <NS type="W"><i>had also</i><c>also had</c></NS> to invite the "important <NS type="L"><i>persons</i><c>people</c></NS>" from our <NS type="S"><i>governement</i><c>government</c></NS>. It was <NS type="DY"><i>realy</i><c>really</c></NS> a new job for me, but I think<NS type="UP"><i>,</i></NS> I <NS type="TV"><i>have done</i><c>did</c></NS> <NS type="DY"><i>good</i><c>well</c></NS>. I've learned a lot about management and especially <NS type="UP"><i>-</i></NS> how stars <NS type="TV"><i>are living</i><c>live</c></NS>.</p>
+          <p>One evening we <NS type="W"><i>went all</i><c>all went</c></NS> <NS type="UY"><i>together</i></NS> out for <NS type="RN"><i>diner</i><c>dinner</c></NS> and after we <NS type="RV"><i>visited</i><c>went</c></NS> <NS type="MT"><c>to</c></NS> <NS type="R"><i>our</i><c>a</c></NS> new disco. We arrived at home early in the morning - it was great.</p>
+          <p>Now Kim, I will finish my letter but I promise <NS type="UA"><i>you</i></NS> to write again as soon as possible<NS type="RP"><i>, maybe</i><c>.  Maybe</c></NS> if I've developed the photos of the concert and the stars and the ....</p>
+          <p>A good idea <NS type="R">at least</NS> - you come here and I <NS type="TV"><i>tell</i><c>will tell</c></NS> you some other <NS type="IN"><i>story's</i><c>stories</c></NS>.</p>
+          <p><NS type="ID"><i>In the meanwhile</i><c>In the meantime</c></NS> enjoy your life -</p>
+          <p>love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

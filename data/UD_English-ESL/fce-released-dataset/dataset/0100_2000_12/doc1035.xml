@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR423*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson<NS type="RP"><i>!</i><c>,</c></NS></p>
+          <p>Thank you for giving us the chance to visit London. We <NS type="W"><i>all are</i><c>are all</c></NS> <NS type="SX"><i>exited</i><c>excited</c></NS> about the <NS type="S"><i>programm</i><c>programme</c></NS> you've prepared for us, especially about <NS type="UD"><i>the</i></NS> visiting the National Art gallery.</p>
+          <p>We have seen an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the London Fashion and Leisure Show in a newspaper.</p>
+          <p>We think it could be <NS type="MD"><c>a</c></NS> great opportunity for us because we'll see the fashion show <NS type="R">might shop for leisure and sports wear</NS> and all <NS type="MD"><c>the</c></NS> girls in our class are <NS type="S"><i>intrested</i><c>interested</c></NS> in new styles in <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairdressing. And it is free for students!</p>
+          <p>If you don't mind, we'd like to change the programme a little bit. Instead of shopping on Tuesday afternoon we'd like to go to this show, which will continue till 7 o'clock in the evening.</p>
+          <p>We all expect the trip to London to be <NS type="SX"><i>exiting</i><c>exciting</c></NS> and hope to <NS type="RV"><i>get</i><c>return with</c></NS> unforgettable memories</p>
+          <p>Best regards</p>
+          <p>your students</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>The Home of the Future</p>
+          <p>Our life is changing every day. New technological inventions bring us new cars, new planes, new houses. <NS type="MD"><i>Future</i><c>The future</c></NS> is <NS type="RY">almost</NS> unpredictable. But what if <NS type="TV"><i>we'll try</i><c>we try</c></NS> to imagine <NS type="R"><i>how</i><c>what</c></NS> our house will look like in the next 50 or 100 years?</p>
+          <p>Will we all live in <NS type="MD"><c>the</c></NS> countryside in <NS type="FN"><i>house</i><c>houses</c></NS> surrounded by forest full of animal life? Or would <NS type="W"><i>be our house itself</i><c>our house itself be</c></NS> alive? With new computer technology nothing is impossible. <NS type="RD"><i>The</i><c>A</c></NS> <NS type="S"><i>scintist</i><c>scientist</c></NS> could <NS type="RV"><i>invent</i><c>discover</c></NS> the <NS type="UP"><i>4'th</i><c>4th</c></NS> <NS type="S"><i>dimention</i><c>dimension</c></NS> and <NS type="TV"><i>we'll</i><c>we'd</c></NS> get unlimited space inside the house.</p>
+          <p>It is already <NS type="RJ"><i>predictable</i><c>possible</c></NS><NS type="UP"><i>,</i></NS> that very soon all <NS type="RN"><i>house</i><c>household</c></NS> appliances will be <NS type="MP"><i>voice controlled</i><c>voice-controlled</c></NS>. You could tell your wardrobe what clothes you'd like to wear, your hob will cook your <NS type="RJ"><i>preferable</i><c>favourite</c></NS> meals and your <NS type="S"><i>refigerator</i><c>refrigerator</c></NS> will send orders to the supermarkets to buy the food.</p>
+          <p>Lots of changes could <NS type="RV"><i>be done</i><c>occur</c></NS> in the future, but the main purpose of the <NS type="RN"><i>house</i><c>home</c></NS> - to <NS type="RV"><i>keep</i><c>provide</c></NS> comfort and safety, <NS type="R"><i>to</i><c>a</c></NS> place for you to relax and feel at home<NS type="UP"><i>,</i></NS> - will remain.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

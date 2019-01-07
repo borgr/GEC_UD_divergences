@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR274*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan,</p>
+          <p> I am writing in reply to your letter<NS type="UP"><i>,</i></NS> informing me that I have won <NS type="RD"><i>the</i><c>a</c></NS> prize in your competition which is two weeks at Camp California in the U.S.A.</p>
+          <p>I am really pleased to hear that the prize includes accommodation. I would like to stay in a tent, because I have been camping nearly every summer since my childhood and I really love it.</p>
+          <p>I would be really happy if I could <NS type="RV"><i>apply</i><c>choose</c></NS> <NS type="RP"><i>Singing</i><c>singing</c></NS> and <NS type="RP"><i>Photography</i><c>photography</c></NS> <NS type="RT"><i>as</i><c>from</c></NS> <NS type="UD"><i>the</i></NS> activities you have <NS type="RV"><i>written about</i><c>listed</c></NS>. Singing has been my only hobby since I was 5. I could say that I am quite good at it. <NS type="RY"><i>However</i><c>Also</c></NS>, I used to assist my brother, who is a <NS type="S"><i>profecional</i><c>professional</c></NS> photographer<NS type="RP"><i>. So</i><c>, so</c></NS> <NS type="U"><i>that,</i></NS> I consider myself <NS type="W"><i><NS type="S"><i>expirienced</i><c>experienced</c></NS> <NS type="RY"><i>enough</i><c>fairly</c></NS></i><c>fairly experienced</c></NS>.</p>
+          <p>I would like to ask you whether going there in July is possible. I am afraid that July is the only <NS type="RJ"><i>appropriate</i><c>possible</c></NS> month, because I am due to start work in August.</p>
+          <p>Finally, I would like to ask you for further information about <NS type="MD"><c>the</c></NS> spending allowance and the clothes which I <NS type="RV"><i>am supposed</i><c>should</c></NS> <NS type="FV"><i>to take</i><c>take</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm sorry I haven't written for so long<NS type="UP"><i>. But</i><c>but</c></NS> I've been quite busy just recently.</p>
+          <p>Last month, I helped <NS type="MY"><c>out</c></NS> at a pop concert<NS type="MP"><c>,</c></NS> which I really enjoyed. The singer<NS type="UP"><i>,</i></NS> who <NS type="R"><i>took place</i><c>performed</c></NS><NS type="UP"><i>,</i></NS> wasn't one of my favourites, but having the opportunity to experience being <NS type="MD"><c>a</c></NS> <NS type="RN"><i>stuff</i><c>member of staff</c></NS> there<NS type="UP"><i>,</i></NS> was just amazing. I was just behind the stage. I was supposed to help my friend with the lights, so <NS type="U"><i>that</i></NS> I could see all <NS type="RD"><i>that</i><c>the</c></NS> <NS type="W"><i>screaming like <NS type="SX"><i>made</i><c>mad</c></NS> crowd</i><c>crowd screaming like mad</c></NS>. I even saw crying girls<NS type="UP"><i>,</i></NS> who were trying to reach the <NS type="UP"><i>pop-singer</i><c>pop singer</c></NS>.</p>
+          <p>Do you know what Kim, I've never thought before<NS type="UP"><i>,</i></NS> that enjoying yourself like this<NS type="UP"><i>,</i></NS> could be weirdly <NS type="MJ"></NS>. I think you never realize this<NS type="UP"><i>,</i></NS> until you're not a part of the crowd. But I'm really happy<NS type="UP"><i>,</i></NS> that I had even <NS type="MD"><c>a</c></NS> small role in <NS type="RV"><i>making</i><c>helping</c></NS> people <NS type="FV"><i>enjoying</i><c>enjoy</c></NS> themselves. I mean, all <NS type="AGD"><i>that</i><c>those</c></NS> flashing lights, <NS type="MT"><c>with</c></NS> <NS type="W"><i>the changing colours of them</i><c>their changing colours</c></NS>, I believe they helped <NS type="RY"><i>much</i><c>a lot</c></NS>. Even though I was just telling my friend what the next composition of colours was, I consider myself <NS type="TV"><i>being</i><c>to have been</c></NS> very <NS type="RJ">successful</NS>.</p>
+          <p>And finally, the greatest news<NS type="RP"><i>.</i><c>:</c></NS> I was introduced to the singer by my friend, who works for him. This was maybe the best part of being there. He was so nice and he even gave me his picture <NS type="SX"><i>whit</i><c>with</c></NS> his signature on it. I suppose<NS type="UP"><i>,</i></NS> I will never forget that night.</p>
+          <p>That's about all my news, I'm looking forward <NS type="MT"><c>to</c></NS> hearing from you.</p>
+          <p>Lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

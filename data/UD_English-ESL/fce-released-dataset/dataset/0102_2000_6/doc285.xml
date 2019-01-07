@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1137*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear sir or madam,</p>
+          <p>My name is Molly Menbrook. I have seen your new musical, 'Over the rainbow'. I am sorry but I must admit it was a bit disappointing.</p>
+          <p>I bought the ticket for the evening performance to end the day with a nice musical. But the time wasn't kept. I had to wait 45mins to get in! So in order to keep myself occupied for a while, I went to the restaurant <NS type="R"><i>except</i><c>but</c></NS> it wasn't open. I couldn't see anyone inside either. No one.</p>
+          <p>The show <NS type="RP"><i>it self</i><c>itself</c></NS> was quite disappointing. The show was OK though I suggest you hire different actors. I think Danny Brook doesn't suit the role he plays in this musical...</p>
+          <p>Also you mentioned a discount. For tickets. Well no, I didn't get a discount! And the tickets were pretty expensive...</p>
+          <p>Anyway, after watching the musical, I felt a bit peckish so I went to the restaurant again with <NS type="MD"><c>the</c></NS> hope that it might be open, but still, nobody was in. Then a person appeared, walking towards the door to the kitchen, I guessed. I asked him why the restaurant was closed. He said it was because the <NS type="RN"><i>runner</i><c>manager</c></NS> of the restaurant had gone out to arrange the food supply for the next day. They had been closed for 3 days according to him.</p>
+          <p>So you see my point. It wasn't very pleasant. So I am going to ask for a refund... I hope this isn't <NS type="S"><i>affending</i><c>offending</c></NS> you too much... Or asking you for too much.</p>
+          <p>Reply as soon as possible,</p>
+          <p>best regards,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>I think the clothes in future will be similar in shape as the clothes that exist now. Just like sweaters, shoes, t-shirts etc... But maybe not.</p>
+          <p>When it comes down to <NS type="SA"><i>color</i><c>colour</c></NS>, I think it'll be much brighter and maybe glittery. Like shiny and plastic <NS type="R">kind</NS>. Maybe silver and gold, glittery red, purple and blue. As well as bright yellow, orange and green. All suitable for discos!</p>
+          <p>Shoes will be high heeled and modern. <NS type="SA"><i>Colors</i><c>Colours</c></NS> to match the clothes. Still, comfortable. I think they'll be based on some kind of space theme and aliens.</p>
+          <p>But I think I prefer the clothes now. I'll stick to baggy t-shirts, jeans, baseball caps and trainers. They'll do for me instead of all the silvers and golds. Al the spacy theme. I think I'll be fine in the clothes we have now... I mean, I won't get sick <NS type="RT"><i>in</i><c>of</c></NS> them!</p>
+          <p>Though some people may fancy the glitter and the spacy feel, I don't like it and I hope it really isn't the style for the future. It's just not my cup of tea...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

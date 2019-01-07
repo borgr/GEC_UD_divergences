@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR915*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear J. Clark,</p>
+          <p>I'm writing in response to your advertisement about the annual international arts festival. I really think it was a great idea to organize such a festival in our city as there are lots of people fond of art over here. I'm sure they are all very grateful to you now.</p>
+          <p>I've already been to the festival and I think it's really important to let people see artists from all over the world. It would be wonderful if there were stars from more than six countries next year, the festival would be even more interesting then.</p>
+          <p>I also think the places you have chosen for the classical concerts were not good sometimes, some of the halls seemed to be too small. But your idea about the weekend ticket is just excellent, people from the whole country get the opportunity to visit your festival and see all the events you are offering.</p>
+          <p>I've got just one more suggestion for next year's festival. You could probably show a <NS type="RQ"><i>little bit</i><c>few</c></NS> more films and interviews with the most interesting artists. I'm sure it would attract lots of young people.</p>
+          <p>Well, thank you very much for this festival, my friends and I have enjoyed it a lot.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Dave,</p>
+          <p>Thank you so much for your lovely letter, it's always great to get something from you. <NS type="S"><i>Howe</i><c>How</c></NS> are things going over there? It's quite difficult to talk <NS type="SX"><i>bout</i><c>about</c></NS> our school rules actually, but I'll try to help you somehow. Hope it will be interesting for you. <NS type="S"><i>Bu</i><c>By</c></NS> the way, are you allowed to smoke in the school? Our <NS type="SX"><i>teaches</i><c>teachers</c></NS> don't let us smoke<NS type="MP"><c>,</c></NS> of course, but you can always see some students smoking outside, so it's not that strict to be honest. We're not allowed to drink alcohol as well and quarrel with any of the <NS type="SX"><i>teaches</i><c>teachers</c></NS>.</p>
+          <p>As for our rules at home, it's always different and <NS type="W"><i>depends just</i><c>just depends</c></NS> on your family.</p>
+          <p>My parents are not very strict<NS type="MP"><c>,</c></NS> as you know<NS type="MP"><c>,</c></NS> and I appreciate them for giving me freedom. They understand that I can make my own decisions, but I know they will never leave me and they will help me and my brother <NS type="SX"><i>nay</i><c>any</c></NS> time we need it. I think the only rule in my house is to care <NS type="SX"><i>bout</i><c>about</c></NS> each other.</p>
+          <p>I hope to hear from you soon</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

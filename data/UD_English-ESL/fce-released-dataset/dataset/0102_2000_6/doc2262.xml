@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR904*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p><NS type="TV"><i>I've recently visited</i><c>I recently visited</c></NS> London <NS type="RT"><i>for</i><c>on</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS> and during my stay I went to your theatre to see the musical show "Over the Rainbow". I am really sorry to say that I <NS type="TV"><i>am</i><c>was</c></NS> very disappointed <NS type="RT"><i>about</i><c>with</c></NS> the whole organisation of the musical, starting <NS type="RT"><i>from</i><c>with</c></NS> the advertisement. Firstly, in the advertisement it says that the main actor was supposed to be Danny Brook<NS type="RP"><i>. An</i><c>, an</c></NS> actor that I admire and I wanted to see <NS type="UA"><i>him</i></NS> performing. Unfortunately<NS type="MP"><c>,</c></NS> instead of Brook I saw another actor, totally <NS type="R"><i>stranger</i><c>unknown</c></NS> to me. Secondly<NS type="MP"><c>,</c></NS> in the advertisement<NS type="MP"><c>,</c></NS> the starting time of the musical was said to be <NS type="UT"><i>at</i></NS> 19:30, but the <NS type="RN"><i>theatre</i><c>show</c></NS> started at 20:15. I don't want to be rude, but this is not <NS type="S"><i>proffessional</i><c>professional</c></NS> at all. Another thing I would like to mention is the discount that we were supposed to have on the tickets.</p>
+          <p>There wasn't any discount. Lastly I would like to inform you that I wanted to have dinner at <NS type="S"><i>yor</i><c>your</c></NS> restaurant but they told me it was closed because it usually closes at 11:00 o'clock<NS type="RP"><i>.</i><c>,</c></NS> and the musical finished at 11:30. <NS type="RC"><i>And</i><c>So</c></NS> I am asking you: <NS type="RP"><i>Why</i><c>why</c></NS> do you <NS type="S"><i>adverstise</i><c>advertise</c></NS> it if is not going to be available <NS type="RT"><i>for</i><c>to</c></NS> the audience?</p>
+          <p>I am closing this letter by <NS type="RV"><i>saying</i><c>telling</c></NS> you that that night was the most terrible night of my holidays and that I would like to have my money back<NS type="UP"><i>,</i></NS> please<NS type="MP"><c>.</c></NS></p>
+          <p>I hope you will reply to my letter.</p>
+          <p><NS type="L"><i>Regards</i><c>Yours faithfully</c></NS></p>
+          <p>XX</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>We are living in the 21st century <NS type="RC"><i>where</i><c>and</c></NS> everybody is surrounded by advanced <NS type="RN"><i>technological methods</i><c>technology</c></NS>. As a result of all <NS type="AGD"><i>these</i><c>this</c></NS> advanced <NS type="RN"><i>technological methods</i><c>technology</c></NS>, I became one of the daily users of modern technology. Of course using modern technology has both advantages and disadvantages.</p>
+          <p>The first thing that came to my life and changed it completely is the computer. I spend most of my time in front of the computer, either working or playing. Of course this <NS type="W"><i>sometimes is</i><c>is sometimes</c></NS> an advantage, when for example the computer helps me to do my job <NS type="FY"><i>easier</i><c>more easily</c></NS>, but some other times it is a great disadvantage because it keeps me away from my friends. But unfortunately I cannot live without a computer. The first thing I do in the morning is start up my computer, check if I have any new e-mails, check my electronic calendar and then go to work, where I always work with a computer. <NS type="MV"><i>The</i><c>Using the</c></NS> computer has become <NS type="UD"><i>my</i></NS> second nature.</p>
+          <p>And <NS type="M"><c>it's</c></NS> not only the computer. <NS type="RP"><i>Everyday</i><c>Every day</c></NS> I use the microwave for heating my food and of course<NS type="UP"><i>.</i></NS> I always carry with me my mobile phone. <NS type="M"><i>One</i><c>It is one</c></NS> of the greatest technological achievements and I am afraid to say that I cannot live without my mobile phone.</p>
+          <p>In conclusion I would like to say that modern technology <NS type="TV"><i>is offering</i><c>offers</c></NS> <NS type="UT"><i>to</i></NS> <NS type="UD"><i>the</i></NS> humanity <NS type="UT"><i>to</i></NS> many things, some of them are good and some others are not so good. It's up to us if we <NS type="UV"><i>can</i></NS> use those technological achievements in the right way, and make our lives easier. The only thing I really <NS type="RV">support</NS> is that if you know how to use technology<NS type="MP"><c>,</c></NS> <NS type="MA"><c>it</c></NS> is a benefit <NS type="RT"><i>for</i><c>to</c></NS> you. If you don't<NS type="MP"><c>,</c></NS> <NS type="MA"><c>it</c></NS> is going to destroy you.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

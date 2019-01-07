@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR846*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I would like to point out the problems <NS type="M"><c>I encountered</c></NS> when I went to watch your musical show 'Over the Rainbow' at the Circle Theatre.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> your advertisement, you <NS type="TV"><i>have</i><c>had</c></NS> written that Danny Brook and Tina Truelove would be performing. However, I noticed when I was watching it that a different actor was performing. I <NS type="TV"><i>have</i><c>had</c></NS> expected Danny Brook to perform and it was extremely disappointing.</p>
+          <p>Also, the times printed <NS type="RT"><i>on</i><c>in</c></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> 14.30 and 19:30. I went to the 19:30 show, but it did not start until it was 20:15. I had my evening planned out and I was not pleased that the show started forty-five minutes late.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS>, it said that discounts were available for the tickets. However, when I was there to buy a ticket, there were no discounts available.</p>
+          <p>I was rather thirsty and hungry after the show and <NS type="UT"><i>on</i></NS> your <NS type="S"><i>advertisment</i><c>advertisement</c></NS><NS type="U"><i>, it</i></NS> made a cup of tea and some cakes in your restaurant sound rather inviting. However, to my disappointment, the restaurant was closed because it was being redecorated.</p>
+          <p>It was not my 'perfect evening out', as your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> said it would be, and I would like some <NS type="RN"><i>refund</i><c>money</c></NS> back. I hope you <NS type="TV"><i>would</i><c>will</c></NS> give these problems your immediate attention.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. One minute I told her the biggest secret of my life<NS type="RP"><i>,</i><c>;</c></NS> the next she had told someone all about it. I trusted her! How could I have been so stupid, so blind <NS type="MT"><c>as</c></NS> not to see her <NS type="RN"><i>disability</i><c>inability</c></NS> to keep the biggest secret about my biggest crush ever?</p>
+          <p>When I overheard girls from other forms gossiping about me and my latest crush, I was furious. I was seething. <NS type="R"><i>From that day onwards</i><c>On that day</c></NS>, Pat and I stopped being friends.</p>
+          <p>I moved away that year, <NS type="UY"><i>away</i></NS> to a whole new place and a whole new school. Once in a while my old schoolmates came and visited me and we had lots of fun together, just like the old times. However<NS type="MP"><c>,</c></NS> I felt I could not talk to them about the problems I was having, <NS type="R">the one problem about</NS> my parents getting a divorce.</p>
+          <p>When my parents told me the news, I was stunned, dazed. My dad began packing his things the very next day, <NS type="MV"><c>to move</c></NS> to his new apartment where he would live while waiting for the divorce papers <NS type="R">and signing them</NS>. That period of my life was one of the worst. I went into a depression, and <NS type="SX"><i>not</i><c>no</c></NS> matter who tried to make me feel better, I only felt worse.</p>
+          <p>However, the person who helped me through this hard time was, surprisingly, Pat. She showed up on my doorstep just when I was having one of my worst days. She told me she <NS type="TV"><i>heard</i><c>had heard</c></NS> about my parents' divorce and wanted to help. When she was comforting me I noticed she had changed. She was a person I could turn to, I could trust. She let me pour out my feelings, a thing I did not do <NS type="RT"><i>to</i><c>with</c></NS> anyone. Ever since, she <NS type="RV"><i>gained</i><c>has had</c></NS> my trust and <NS type="MA"><c>I</c></NS> <NS type="TV"><i>told</i><c>have told</c></NS> her my feelings and secrets. Unlike a year ago she did not tell a soul. She kept every single one of my secrets well, and<NS type="MP"><c>,</c></NS> not surprisingly, she became my best friend. Eventually, I got over my parents' divorce and lived like a normal, happy teenager.</p>
+          <p>My happiness was <NS type="MP"><i>short lived</i><c>short-lived</c></NS>. When I came home from school one day, I received a phone call from Pat's mum, and in a voice <NS type="S"><i>chocked</i><c>choked</c></NS> with tears she told me that Pat had died in an accident. She had been killed by a speeding car.</p>
+          <p>The news shook me to the very core. I cried for days <NS type="RY"><i>straight</i><c>on end</c></NS>, eating and sleeping very little. I fell into a deep depression, and took an extremely long time to recover.</p>
+          <p>I <NS type="TV"><i>am still missing</i><c>still miss</c></NS> Pat, but my pain is nearly over now. I could only comfort myself by reminding myself that at least she died knowing I had forgiven her for telling my secret.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

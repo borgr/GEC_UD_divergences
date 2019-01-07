@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1140*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to express my dissatisfaction <NS type="RT"><i>about</i><c>with</c></NS> the show you <NS type="RV"><i>presented</i><c>put on</c></NS> two weeks ago at your theatre.</p>
+          <p>As I was spending a <NS type="UP"><i>week-end</i><c>weekend</c></NS> in London<NS type="MP"><c>.</c></NS> I took <NS type="RD"><i>a</i><c>the</c></NS> <NS type="RN"><i>chance</i><c>opportunity</c></NS> <NS type="SX"><i>too</i><c>to</c></NS> see the performance of one of my favourite actors, Danny Brook. Unfortunately as soon as I <NS type="RV"><i>came</i><c>got</c></NS> to the theatre I was told that there had been a change in the cast and Danny Brook was not part of it anymore. Besides, since my girlfriend and I had really to hurry up to reach the theatre on time we hadn't had any dinner, as we had been thinking <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to have</i><c>having</c></NS> it at your restaurant. You cannot imagine our disappointment when we realised that the show had been <NS type="DV"><i>posticipated</i><c>postponed</c></NS> <NS type="RT"><i>at</i><c>to</c></NS> 20.15 instead of 19.30 and that the restaurant was closed because of <NS type="RN"><i>restructuring</i><c>repair work</c></NS>; as a matter of fact, after the show we only ate <NS type="FD"><i>an</i><c>a</c></NS> hamburger in a fast-food <NS type="MN"><c>restaurant</c></NS>.</p>
+          <p>In conclusion, I would like to have the two tickets refunded<NS type="MP"><c>,</c></NS> considering also that there were no discounts available, <NS type="R"><i>as instead it</i><c>in contrast to what</c></NS> was stated in the advertisement.</p>
+          <p>Yours Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. In fact this was the main <NS type="RN"><i>cause of</i><c>reason for</c></NS> Mr White's resignation and suicide. Pat was not a very clever <NS type="UP"><i>teen-ager</i><c>teenager</c></NS> and while she was attending <NS type="UD"><i>the</i></NS> Secondary School she had many <NS type="RN"><i>troubles</i><c>problems</c></NS> with Chemistry. I could actually say that if it hadn't been for Mr. White she would <NS type="W"><i>have never</i><c>never have</c></NS> passed her exam to enter University. Mr White came to our school when he was 40 <NS type="AGN"><i><NS type="UP"><i>year-old</i><c>year old</c></NS></i><c>years old</c></NS> but still <NS type="RJ"><i>well-looking</i><c>good-looking</c></NS> and all my <NS type="R"><i>girls</i><c>female</c></NS> school-mates fell suddenly in love with him; he was always so kind and generous towards his pupils that any <NS type="AGN"><i>girls</i><c>girl</c></NS> felt herself loved by him: Pat certainly was one of them. One day while she was walking in Central Park she saw a man and a young girl sitting under a tree. Immediately she recognized her beloved teacher kissing one of her <NS type="AGN"><i><NS type="RP"><i>class mate</i><c>classmate</c></NS></i><c>classmates</c></NS> and she <NS type="TV"><i>run</i><c>ran</c></NS> away as fast as she could. She was so angry and felt so betrayed by Mr White that without any <NS type="DN"><i>exitation</i><c>hesitation</c></NS> she went to the school Headmaster to report everything she had seen. The next day Mr White was charged <NS type="RT"><i>for</i><c>with</c></NS> <NS type="FN"><i>abuses</i><c>abuse</c></NS> and obliged to resign. The trial was long and <NS type="RV"><i>had</i><c>received</c></NS> <NS type="UD"><i>a</i></NS> wide coverage <NS type="RT"><i>by</i><c>from</c></NS> <NS type="MD"><c>the</c></NS> media. We live in a small and <NS type="MP"><i>old fashioned</i><c>old-fashioned</c></NS> town and Mr. White was considered a monster: <NS type="RV"><i>loosing</i><c>losing</c></NS> his job was hard for him, but even harder was the loss of his beloved pupils who were not allowed to meet him; so, on a bright summer day he took his final decision and died<NS type="MP"><c>,</c></NS> terrified by the darkness which was nearing.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

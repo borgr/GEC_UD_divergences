@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR305*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>I have recently seen "Over the rainbow" and I must tell you that I'm really disappointed! I found the advertisement about this show in a newspaper and thought it would be fun.</p>
+          <p>I like Danny Brook as an actor and when I read that he would be starring, I booked the ticket <NS type="S"><i>imagetly</i><c>immediately</c></NS>. But, instead there was a different actor, who I <NS type="TV"><i>never heard</i><c>had never heard</c></NS> <NS type="RT"><i>about</i><c>of</c></NS> before!</p>
+          <p>The show should <NS type="TV"><i>start</i><c>have started</c></NS> at 19.30, but it didn't start until 20.15! So, because of that, I missed my last bus home!</p>
+          <p>While we were waiting for the show to start, we were thinking of going to the restaurant. <NS type="ID"><i>In fact</i><c>However</c></NS>, it was closed the whole evening, because of some work <NS type="M"><c>being done to it</c></NS>.</p>
+          <p>As I'm a student, I usually get discounts on <NS type="RJ"><i>different</i><c>various</c></NS> things, so I was so disappointed when I couldn't get <NS type="RA"><i>it</i><c>one</c></NS> <NS type="RY"><i>here</i><c>there</c></NS>!</p>
+          <p>I'm really upset and disappointed after all this and <NS type="W"><i>at least I want</i><c>I want at least</c></NS> my money back!</p>
+          <p>It could have been a perfect evening out, but it wasn't!</p>
+          <p>yours sincerely</p>
+          <p>Karol Johannes</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed my daily life?</p>
+          <p>I belong to <NS type="RD"><i>this</i><c>the</c></NS> generation who <NS type="AGV"><i>had</i><c>have</c></NS> grown up with a lot of <NS type="RJ"><i>different</i><c>new</c></NS> <NS type="S"><i>technolgy</i><c>technology</c></NS>. For example<NS type="MP"><c>,</c></NS> TV, telephone, <NS type="DN"><i>micrown</i><c>microwave</c></NS> etc. But <NS type="MT"><c>in</c></NS> the last few years, <NS type="R">it</NS> has <NS type="TV"><i>change</i><c>changed</c></NS> and so many new important things <NS type="AGV"><i>had</i><c>have</c></NS> been <NS type="RV"><i>discovered</i><c>invented</c></NS>. What I'm talking about are the <NS type="AGN"><i>computer</i><c>computers</c></NS>, which now can be found in almost every home<NS type="MP"><c>,</c></NS> and<NS type="MP"><c>,</c></NS> of course, the mobile phone!</p>
+          <p>I <NS type="S"><i>tought</i><c>thought</c></NS> I would never need a mobile phone, but my mum and dad gave me one for Christmas last year and now I can't live without it!</p>
+          <p>But the <NS type="RN"><i>discovery</i><c>invention</c></NS> that I'm most thankful <NS type="RT"><i>to</i><c>for</c></NS> is the <NS type="S"><i>computor</i><c>computer</c></NS> and the Internet! Thanks to <NS type="AGA"><i>it</i><c>them</c></NS>, I can <NS type="DY"><i>easy</i><c>easily</c></NS> communicate with my family and friends at home when I'm here in England. It's so quick and not too expensive either. To use the mobile phone<NS type="MP"><c>,</c></NS> by the way, is very expensive. I usually use it for sending SMS Messages to my friends.</p>
+          <p>So, I start every day<NS type="UP"><i>,</i></NS> <NS type="MT"><c>by</c></NS> <NS type="S"><i>swiching</i><c>switching</c></NS> on my mobile phone, to see if there are any more SMS messages before I go to the library to check my e-mail and that's just the <NS type="S"><i>begining</i><c>beginning</c></NS> of the day...</p>
+          <p>Karol Johannes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

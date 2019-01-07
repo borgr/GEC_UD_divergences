@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR783*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>June 13th, 2000</p>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I am writing concerning the <NS type="RN"><i>journey</i><c>trip</c></NS> I have won in your competition.</p>
+          <p>First of all I will try to answer your questions.</p>
+          <p>For me it is only possible to go to the USA in July. The reason for this is that I have to work in August and from September to June I have to go to school.</p>
+          <p>I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>long cabins</i><c>log cabin</c></NS> and I hope that then I will have enough <NS type="RN"><i>place</i><c>room</c></NS> for all the things I will <NS type="RV"><i>carry</i><c>bring</c></NS> with me.</p>
+          <p>The activities you offer are really interesting. I would like to take part in a painting course and I would like to get to know how to handle a camera.</p>
+          <p>Unfortunately, I do not have <NS type="R"><i>an</i><c>my</c></NS> own camera.</p>
+          <p>In spite of this, I have got all <NS type="MD"><c>the</c></NS> <NS type="S"><i>equipement</i><c>equipment</c></NS> I need for <NS type="U"><i>the activity</i></NS> painting and I <NS type="TV"><i>am painting</i><c>paint</c></NS> very well.</p>
+          <p>Could you please tell me if I will need some extra money for the two activities.</p>
+          <p>Secondly, I want to know if I should take any warm clothes with me.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p>It was nice to hear from you recently.</p>
+          <p>I am writing to tell you about my work at the pop concert.</p>
+          <p>I went there <NS type="R"><i>a</i><c>at</c></NS> 10 o'clock in the morning. Then a young man told me what to do. First of all I had to carry all the bottles into the bar and later I helped some other people to get the instruments in the right position. It was really hard work.</p>
+          <p>At one o'clock I had a break. At this <NS type="RN"><i>time</i><c>point</c></NS> I promised <NS type="MA"><c>myself</c></NS> that I would never do this awful job again. The food was <NS type="S"><i>deligious</i><c>delicious</c></NS> and fortunately I <NS type="TV"><i>do not had</i><c>did not have</c></NS> to pay for it.</p>
+          <p>In the afternoon I was sitting around, waiting for the pop groups. Then at five o'clock my favourite band "Tristania" arrived.</p>
+          <p>I talked to them and to many other groups that arrived later.</p>
+          <p>In the end I was happy that I had done this job. It was really a wonderful day.</p>
+          <p>I think it would be a good idea if we two did this job together <NS type="UD"><i>the</i></NS> next year.</p>
+          <p>Give my regards to your family.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

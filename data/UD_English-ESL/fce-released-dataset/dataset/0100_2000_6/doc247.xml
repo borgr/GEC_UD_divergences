@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR994*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Bernard Moreau</p>
+          <p>place de la Madeleine</p>
+          <p>87022 PARIS</p>
+          <p>Competition Organiser</p>
+          <p>Helen Ryan</p>
+          <p>Dear Mrs. Ryan,</p>
+          <p>You have sent me a letter about the competition <NS type="M"><c>and the</c></NS> first prize I have won. You asked me <NS type="RT"><i>about</i><c>for</c></NS> some further information.</p>
+          <p>First, I'd like to travel <NS type="RT"><i>on</i><c>in</c></NS> July at any time from the first to the <NS type="RP"><i>30st</i><c>30th</c></NS> because of my vacation period. I'd rather have a few days at the beginning of July to prepare <NS type="RA"><i>me</i><c>myself</c></NS>.</p>
+          <p>Second, I'd prefer <NS type="FV"><i>have</i><c>to have</c></NS> a log cabin where I could <NS type="RV"><i>let</i><c>store</c></NS> some <NS type="L"><i>stuff</i><c>things</c></NS>.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS>, I'd like to <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>play</c></NS> tennis and to try climbing. Is <NS type="UA"><i>there</i></NS> any ability required?</p>
+          <p>Could you send me a <NS type="RN">note</NS> about travelling in California which could help me?</p>
+          <p>Yours sincerely</p>
+          <p>Bernard Moreau</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>The Old Man and the Sea</p>
+          <p>This book <NS type="RV"><i>stays</i><c>remains</c></NS> one of the best <NS type="MT"><c>in</c></NS> <NS type="RP"><i>american</i><c>American</c></NS> <NS type="S"><i>litterature</i><c>literature</c></NS> <NS type="UN"><i>book</i></NS>. It is <NS type="RV"><i>classified</i><c>classed</c></NS> as one of the ten books that should <NS type="RV"><i>figure</i><c>be</c></NS> in your own library. But it is also the most famous short story <NS type="RT"><i>from</i><c>by</c></NS> Ernest Hemingway. Based on a very simple story, the story of an old man fishing, it <NS type="RV"><i>allows</i><c>is</c></NS> a deep <NS type="S"><i>reflexion</i><c>reflection</c></NS> <NS type="RT"><i>about</i><c>on</c></NS> <NS type="DN"><i>oldness</i><c>age</c></NS>.</p>
+          <p>A veteran <NS type="DN"><i>fisher</i><c>fisherman</c></NS> takes his boat and goes fishing to <NS type="S"><i>convine</i><c>convince</c></NS> himself and other <NS type="IN"><i>mans</i><c>men</c></NS> that he is still able to do <NS type="RA"><i>that</i><c>it</c></NS>. Then, Hemingway paints a marvellous description of fishing <NS type="UN"><i>act</i></NS> and of the great fight between the fish and the old man. The 24-hour fight is described in <NS type="R"><i>a so</i><c>such a</c></NS> <NS type="S"><i>peacful</i><c>peaceful</c></NS>, faithful way that it <NS type="R">callas a though about life and death</NS>. I <NS type="S"><i>recommand</i><c>recommend</c></NS> this book <NS type="UY"><i>a lot</i></NS> <NS type="M"><c>as a way</c></NS> <NS type="W"><i>both to discover</i><c>to discover both</c></NS> Hemingway and <NS type="RP"><i>american</i><c>American</c></NS> <NS type="S"><i>litterature</i><c>literature</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

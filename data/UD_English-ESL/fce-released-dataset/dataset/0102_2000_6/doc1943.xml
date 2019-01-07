@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR747*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to you to tell <NS type="MA"><c>you</c></NS> that I saw your musical show <NS type="RP"><i>,,</i><c>"</c></NS>Over the <NS type="RP"><i>rainbow</i><c>Rainbow</c></NS>" and there were too many disappointing divergences between the advertisement for the show and the show itself.</p>
+          <p>The main problem was that Danny Brook did not take part in the show. However, I bought a £20 ticket mostly because I saw his name in the advertisement. Furthermore, the show started only at 20:15, although<NS type="UP"><i>,</i></NS> it <NS type="RV"><i>had</i><c>was supposed</c></NS> to start at 19:30. Moreover your theatre restaurant was closed all evening, <NS type="MC"><c>and</c></NS> I think you should know that <NS type="FN"><i>ticket</i><c>tickets</c></NS> were sold without any discounts.</p>
+          <p>It seems to me that all these failures were your <NS type="S"><i>falt</i><c>fault</c></NS>, because you were responsible for the <NS type="RN"><i>arrangement</i><c>organisation</c></NS> of the show. I think you ought to have postponed the show and <NS type="UV"><i>have</i></NS> reimbursed me <NS type="MT"><c>for</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> ticket price. However, <NS type="SX"><i><NS type="S"><i>conserning</i><c>concerning</c></NS></i><c>considering</c></NS> that I saw the show, I would like to get a <NS type="R"><i>half</i><c>50%</c></NS> refund.</p>
+          <p>Please reply at your earliest <NS type="S"><i>convinience</i><c>convenience</c></NS>.</p>
+          <p>I look forward to receiving your reply.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Modern technology <NS type="TV"><i>changed</i><c>has changed</c></NS> my daily life completely. When I <NS type="TV"><i><NS type="RV"><i>saw</i><c>said</c></NS></i><c>say</c></NS> modern technology<NS type="MP"><c>,</c></NS> I mean <NS type="MD"><c>the</c></NS> Internet.</p>
+          <p>For example, I live in Kursk, and I can get a letter from my friend <NS type="W"><i>after some hours</i><c>some hours after</c></NS> <NS type="UC"><i>since</i></NS> he has written it. My friend lives in Kresnodar. My grandmother lives in Orel, which is much closer to Kursk than Kresnodar. And it takes 3 days <NS type="RT"><i>to</i><c>for</c></NS> her letter to get to Kursk. That is because my friend uses e-mail, but my grandmother uses <NS type="MD"><c>the</c></NS> <NS type="DJ"><i>post</i><c>postal</c></NS> service. So with <NS type="MD"><c>the</c></NS> Internet I can make friends all over the world and it does not take lots of time.</p>
+          <p>Another change in my life is that I use <NS type="MD"><c>the</c></NS> Internet as a library when I write my course papers<NS type="UP"><i>. So</i><c> so</c></NS> that I can get books which <NS type="MA"><c>it</c></NS> is impossible to get in <NS type="MD"><c>the</c></NS> libraries of my town.</p>
+          <p>That is why I think that modern <NS type="S"><i>techology</i><c>technology</c></NS> helps me in my daily life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

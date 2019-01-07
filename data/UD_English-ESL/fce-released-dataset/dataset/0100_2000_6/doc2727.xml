@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1109*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>51+</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Sir,</p>
+          <p>I have just <NS type="S"><i>receised</i><c>received</c></NS> your letter and I <NS type="S"><i>thanck</i><c>thank</c></NS> you for your invitation and congratulations. I am really proud to be the winner of your competition and I would like to express my satisfaction <NS type="RT"><i>for</i><c>with</c></NS> your perfect organisation.</p>
+          <p>About the information requested from me<NS type="MP"><c>,</c></NS> I have to say that I can travel only <NS type="MT"><c>in</c></NS> July because of my job; I am busy until the end of June.</p>
+          <p>As regards <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I prefer a longer, Canadian tent in a quiet place because I am fond of nature and I would like to feel free in an informal setting. My favourite <NS type="RP"><i>sports-activities</i><c>sports activities</c></NS> are playing tennis and basketball. I like competitive and <NS type="S"><i>changelling</i><c>challenging</c></NS> sports<NS type="RP"><i>,</i><c>.</c></NS> I enjoy <NS type="UA"><i>myself</i></NS> comparing my skill with other players and, if possible, <NS type="X"><i>I <NS type="MV"><c>would</c></NS> rather <NS type="RV"><i><NS type="FV"><i>practising</i><c>practise</c></NS></i><c>do</c></NS> <NS type="RP"><i>sports-activities</i><c>sports activities</c></NS> not indoor</i><c>I would rather not do indoor sports activities</c></NS>, but open air <NS type="MA"><c>ones</c></NS>.</p>
+          <p>I would like to know if special clothes are needed and <NS type="R"><i>how</i><c>what</c></NS> the weather is <NS type="W"><i><NS type="R"><i>in this period</i><c>at that time of year</c></NS> like</i><c>like that time of year</c></NS>. The one last thing that I would like to know is if I have to bring with me money for expenses not included in your invitation. Let me know this information as soon as possible.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>Ramona</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p> 13 June 2000</p>
+          <p>I have been asked to write a report about the lessons and other activities that should be filmed to make a short video.</p>
+          <p>I have given a questionnaire to other students <NS type="RT"><i>of</i><c>in</c></NS> my class to know their preferences <NS type="RT"><i>about</i><c>regarding</c></NS> this <NS type="S"><i>choise</i><c>choice</c></NS> and we all believe that the first lesson that should be filmed is <NS type="RP"><i>Philosophy</i><c>philosophy</c></NS>. The reason is that all students are interested in it and the teacher is so good <NS type="RT"><i>in</i><c>at</c></NS> <NS type="S"><i>explaing</i><c>explaining</c></NS> problems that the whole class takes part in discussions about specific aspects of the subject. Also the <NS type="RP"><i>sports-activities</i><c>sports activities</c></NS> should be filmed; they express an <NS type="RJ">aggregative</NS> and social way of living <NS type="RP"><i>school-life</i><c>school life</c></NS> and can be useful to <NS type="RV"><i>see</i><c>show</c></NS> <NS type="U"><i>and check out</i></NS> the <NS type="S"><i>moviments</i><c>movements</c></NS> of the <NS type="IN"><i>bodys</i><c>bodies</c></NS> during the <NS type="W"><i><NS type="RP"><i><NS type="S"><i>atletics-school</i><c>athletics-school</c></NS></i><c>athletics school</c></NS> <NS type="RN"><i>games</i><c>events</c></NS></i><c>school athletics events</c></NS>.</p>
+          <p><NS type="W"><i>Also the dancing lessons should</i><c>The dancing lessons should also</c></NS> be filmed, <NS type="RY"><i>specially</i><c>especially</c></NS> <NS type="RT"><i>for</i><c>because of</c></NS> the fascinating beauty of the girls and the elegance of their <NS type="S"><i>moviments</i><c>movements</c></NS>.</p>
+          <p>I hope that these <NS type="UD"><i>my</i></NS> suggestions can be accepted and appreciated.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

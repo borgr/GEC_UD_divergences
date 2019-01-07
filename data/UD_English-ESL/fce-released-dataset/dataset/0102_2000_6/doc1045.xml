@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR426*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Saturday, 17th June, 2000</p>
+          <p>Dear Sir,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you in order to <NS type="RV"><i>obtain</i><c>get</c></NS> <NS type="UA"><i>you</i></NS> my money back, <NS type="R">concerning</NS> the musical show: OVER THE RAINBOW. I live in France and I recently spent a week's holiday in London. I decided to go to <NS type="MD"><c>the</c></NS> theatre to have a nice evening. I saw your advertisement in a newspaper. It seemed to be very <NS type="RJ"><i>attractive</i><c>interesting</c></NS>. But in fact it is not!</p>
+          <p>I had a very disappointing evening. First of all: <NS type="MD"><c>the</c></NS> actors <NS type="MA"><c>who</c></NS> were <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> <NS type="M"><c>in the advert</c></NS> are not the same <NS type="MC"><c>as</c></NS> <NS type="M"><c>the ones on stage</c></NS>. I <NS type="TV"><i>supposed</i><c>was supposed</c></NS> to see the famous Danny Brook, and what a surprise it was <NS type="M"><c>when it was</c></NS> not him. I was very disappointed.</p>
+          <p>Secondly the show <NS type="RV"><i>had</i><c>was meant</c></NS> <NS type="FV"><i><NS type="RV"><i>go</i><c>start</c></NS></i><c>to start</c></NS> <NS type="RT"><i>on</i><c>at</c></NS> 19.30 pm. In fact it started at 20.15 pm without any <NS type="FN"><i>explanations</i><c>explanation</c></NS>.</p>
+          <p>Thirdly <NS type="R"><i>it</i><c>the advert</c></NS> said <NS type="UC"><i>that</i></NS> "discounts available". This is not the truth.</p>
+          <p>After that it <NS type="TV"><i>suggested</i><c>was suggested</c></NS> <NS type="MA"><c>we</c></NS> <NS type="FV"><i>to visit</i><c>visit</c></NS> your theatre restaurant, but the restaurant was closed! It <NS type="TV"><i>is</i><c>was</c></NS> a shame.</p>
+          <p>And you <NS type="TV"><i>write</i><c>wrote</c></NS>, I quote <NS type="M"><c>that it would be</c></NS> "your perfect evening out", excuse me<NS type="MP"><c>,</c></NS> but I do not agree with you. It was awful, the worst evening <NS type="UT"><i>out</i></NS> of my life.</p>
+          <p>So please, it would be fair<NS type="R"><i>, that</i><c> if</c></NS> you <NS type="TV"><i>give</i><c>gave</c></NS> <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>I am looking forward to hearing from you in <NS type="RD"><i>a</i><c>the</c></NS> near future.</p>
+          <p>Yours faithfully.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>"What will clothes be like 100 years from now?"</p>
+          <p>In my opinion, clothes will not change so much, because fashion is an eternal cycle. You will <NS type="W"><i>find always</i><c>always find</c></NS> <NS type="M"><c>the same</c></NS> basic clothes, but I think that it will be the materials which will change.</p>
+          <p>We will find the same kind of clothes with gadgets included. For example: a short<NS type="MP"><c>,</c></NS> very classical <NS type="MN"></NS> <NS type="MC"><c>and</c></NS> inside <NS type="UT"><i>of</i></NS> it could be included a mobile phone, or we could find <NS type="W"><i>too some buttons</i><c>some buttons too</c></NS>, to <NS type="RV"><i>have</i><c>provide</c></NS>.. fresh air, why not? Or special flying shoes, and maybe <NS type="W"><i>on your watch you would have a screen</i><c>you would have a screen on your watch</c></NS> to watch your <NS type="SA"><i>favorite</i><c>favourite</c></NS> soap operas.</p>
+          <p>Everything is possible, but it would be fun to see this type of <NS type="AGN"><i>gadgets</i><c>gadget</c></NS> <NS type="RT"><i>with</i><c>in</c></NS> old clothes, like a dress <NS type="RT"><i>of</i><c>from</c></NS> the <NS type="S"><i>middle-Age</i><c>Middle Ages</c></NS>.</p>
+          <p>Do not worry about this, it will not happen! Fashion is always the same!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

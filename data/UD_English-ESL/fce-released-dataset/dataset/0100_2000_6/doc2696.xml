@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1092*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen:</p>
+          <p>Thank you for sending me this wonderful news. I was really happy when I <NS type="RV"><i>knew</i><c>learned</c></NS> I won the first prize. I am writing to give you my details and ask <NS type="MT"><c>for</c></NS> some more information.</p>
+          <p>Firstly, I would like to travel in July because I need to stay at home in August. I am a college student and I am going to study <NS type="RT"><i>in</i><c>at</c></NS> university this year. I will take my exams in June and have the <NS type="FN"><i>result</i><c>results</c></NS> in August. So I shall stay to prepare for my university.</p>
+          <p>Secondly, I prefer staying in log cabins so that I can have more <NS type="AGN"><i>chance</i><c>chances</c></NS> to be with other people, then I can make more friends. During the camp, I will do <NS type="DN"><i>sing</i><c>singing</c></NS> and climbing activities. I enjoy singing all the time and I want to share my music with <NS type="UD"><i>the</i></NS> others. I also like climbing because I like the view on the top of hills.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS>, I want to know what the weather is like in California in July. Do I need some special clothes for the camp and how much money shall I bring for other expenses<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I am looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours Sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>To: The teacher of <NS type="MD"><c>the</c></NS> English class</p>
+          <p>From: Jolin</p>
+          <p>Subject: The lessons <NS type="MA"><c>that</c></NS> should be filmed</p>
+          <p>Date: 13<NS type="UP"><i>,</i></NS> June<NS type="UP"><i>,</i></NS> 00</p>
+          <p><NS type="RN"><i>Instruction</i><c>Introduction</c></NS>:</p>
+          <p><NS type="MD"><c>The</c></NS> English class is going to make a short video about <NS type="MD"><c>the</c></NS> <NS type="MP"><i>school</i><c>school's</c></NS> daily life. The aim of this report is to give <NS type="RQ"><i>the</i><c>some</c></NS> <NS type="FN"><i>suggestion</i><c>suggestions</c></NS> <NS type="RT"><i>of</i><c>about</c></NS> which lessons and activities should be filmed.</p>
+          <p>Lessons and Activities</p>
+          <p><NS type="MD"><c>The</c></NS> Speaking and Listening class should be filmed because the purpose of this class is to encourage students <NS type="FV"><i>talk</i><c>to talk</c></NS> about some topics they choose and discuss <NS type="MA"><c>them</c></NS> with others in order to <NS type="RV"><i>prove</i><c>improve</c></NS> their speaking and listening skills.</p>
+          <p><NS type="MD"><i>Topical</i><c>The topical</c></NS> class is similar to speaking and listening but the materials are more <NS type="RJ"><i>up-dated</i><c>up to date</c></NS>. The teacher <NS type="AGV"><i>use</i><c>uses</c></NS> video<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> pictures to <NS type="RV"><i>show</i><c>teach</c></NS> students about festivals, sports, museums, <NS type="S"><i>ect</i><c>etc</c></NS>. It is popular <NS type="RT"><i>by</i><c>with</c></NS> the students.</p>
+          <p><NS type="MD"><i>Canteen</i><c>The canteen</c></NS> is the place students <NS type="RV"><i>stay</i><c>get</c></NS> together apart from class. Quite a lot of students spend their free time there <NS type="UT"><i>for</i></NS> relaxing and talking.</p>
+          <p>Basketball is the most popular activity, <NS type="S"><i>whick</i><c>which</c></NS> takes place between 4:30 pm - 6:30 pm from Monday to Friday every week. Not only <NS type="R">the students who have activity play</NS> but also a lot of students watch.</p>
+          <p>Conclusion</p>
+          <p>The lessons and activities above are <NS type="R"><i>the suggestion</i><c>what we suggest</c></NS> should be filmed.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

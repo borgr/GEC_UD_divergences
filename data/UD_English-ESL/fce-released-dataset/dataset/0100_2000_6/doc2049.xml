@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR829*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Tuesday, 13nd June 2000</p>
+          <p>Dear Ms Ryan,</p>
+          <p>I've just received the letter telling me that I've won first prize in your competition. I guess you can imagine how happy and excited I am <NS type="R"><i>at this time</i><c>right now</c></NS>.</p>
+          <p>Here <NS type="AGV"><i>are</i><c>is</c></NS> the <NS type="CQ">few</NS> information about my stay at Camp California<NS type="UP"><i>,</i></NS> that you asked <NS type="DA"><i>my</i><c>me</c></NS> to <NS type="RV"><i>complete</i><c>provide</c></NS>:</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> the <NS type="R"><i>date of the travel</i><c>best dates for my visit</c></NS>, I wonder if it would be possible <NS type="MV"><c>to come</c></NS> in July because I'm going to <NS type="RV"><i>pass</i><c>sit</c></NS> a very important exam at the end of June. Two weeks in the USA would be a great <NS type="RN"><i>occasion</i><c>opportunity</c></NS> for me to relax after that.</p>
+          <p>You asked <NS type="DA"><i>my</i><c>me</c></NS> to <NS type="FV"><i>chose</i><c>choose</c></NS> my accommodation <NS type="RT"><i>between</i><c>from</c></NS> <NS type="MQ"><c>either</c></NS> tents <NS type="RC"><i>and</i><c>or</c></NS> cabins. I prefer sleeping in a log cabin (I <NS type="RV"><i>made</i><c>had</c></NS> a very bad experience with tents while I was camping with friends last year)</p>
+          <p>The activities listed in your letter <NS type="W"><i><NS type="IV"><i>seemded</i><c>seemed</c></NS> to be all interesting</i><c>all seemed to be interesting</c></NS>. I <NS type="IV"><i>choosed</i><c>chose</c></NS> to <NS type="RV"><i>do</i><c>play</c></NS> <NS type="S"><i>baskelball</i><c>basketball</c></NS> (I play in a club, <NS type="R"><i>I have a good level</i><c>I am quite good</c></NS>) and <NS type="MV"><c>to do</c></NS> photography (there must be beautiful pictures to take in California).</p>
+          <p>Talking about California, I suppose that the weather is hot there in <NS type="RP"><i>Summer</i><c>summer</c></NS>. Could you please tell me if I have to take <NS type="MQ"><c>any</c></NS> special clothes with me<NS type="RP"><i>.</i><c>?</c></NS> If it's not <NS type="SX"><i>two</i><c>too</c></NS> much to ask, could you also tell me how much money I should take with me for food or evening activities at the camp<NS type="MP"><c>?</c></NS></p>
+          <p><NS type="CE">Looking for you to receive <NS type="CD">those</NS> information</NS>,</p>
+          <p>Dominique</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Last week I had planned to change my old basketball shoes. So I took the train to Lausanne (I live in Lavaux and it's impossible to find <NS type="RJ"><i>a <NS type="S"><i>corect</i><c>correct</c></NS></i><c>the right</c></NS> pair of sneakers in <NS type="L">this whole damned city</NS>!) to buy a new pair to play <NS type="DY"><i>outdoor</i><c>outdoors</c></NS> <NS type="MT"><c>in</c></NS> this summer.</p>
+          <p>After having <NS type="RV"><i>visited</i><c>looked around</c></NS> <NS type="MD"><c>the</c></NS> shops <NS type="RT"><i>during</i><c>for</c></NS> 10 hours and tried at least 2,000 shoes, I finally found what I was looking for<NS type="RP"><i>. The</i><c> - the</c></NS> shoes of my dreams (well designed and not too expensive)<NS type="MP"><c>.</c></NS> So I went back to the station, very proud of <NS type="RA"><i>me</i><c>myself</c></NS> with my sneakers in a white plastic bag and a great smile on my face.</p>
+          <p>I stayed <NS type="UA"><i>that</i></NS> happy during the <NS type="RN"><i>travel</i><c>journey</c></NS>, thinking of how cool I would look <NS type="RT"><i>on</i><c>in</c></NS> the playground with my <NS type="MP"><i>brand new</i><c>brand-new</c></NS> shoes on.</p>
+          <p>As I jumped off the train, I met a friend of mine. I immediately wanted to show him what I had bought to make him jealous. I took the white plastic bag and... Oh my god! There was no more plastic bag<NS type="RP"><i>,</i><c>. </c></NS> I had <NS type="RV"><i>forgotten</i><c>left</c></NS> it <NS type="RT"><i>in</i><c>on</c></NS> the train!</p>
+          <p>How stupid I am! It seems like I will have to play <NS type="RT"><i>with</i><c>in</c></NS> old shoes for one more summer...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

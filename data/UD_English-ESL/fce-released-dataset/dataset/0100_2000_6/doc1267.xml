@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR525*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Miss Helen Ryan:</p>
+          <p>Last week I <NS type="S"><i>recived</i><c>received</c></NS> your letter in <NS type="S"><i>wich</i><c>which</c></NS> you told me that I won first prize. I am <NS type="IV"><i>writting</i><c>writing</c></NS> in response <NS type="RT"><i>of</i><c>to</c></NS> it.</p>
+          <p>First of all, I would like to travel in July, because I can arrange 2 weeks in July <NS type="RT"><i>with</i><c>during</c></NS> my school holidays, in order not to <NS type="RV"><i>lose</i><c>miss</c></NS> classes.</p>
+          <p>I think I would prefer to be in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because I think it is <NS type="RJ"><i>funnier</i><c>more fun</c></NS> and you can <NS type="RV"><i>be in</i><c>have</c></NS> more contact with nature<NS type="RP"><i>, but</i><c>. But</c></NS> if I don't like the tents can I change my mind?</p>
+          <p>You told me to choose 2 activities and I chose surfing and singing. <NS type="W"><i><NS type="RT"><i>In</i><c>At</c></NS> both of them I am very good</i><c>I am very good at both of them</c></NS>. I did a <NS type="RN"><i>surf</i><c>surfing</c></NS> course last summer and I have gone to singing lessons almost all my life.</p>
+          <p>I have a few questions. How much money should I take to spend in those two weeks? and also what kind of clothes <NS type="W"><i>I should</i><c>should I</c></NS> take?</p>
+          <p>Please, when you <NS type="S"><i>recive</i><c>receive</c></NS> this letter give me a call so we can arrange everything.</p>
+          <p>Looking forward to hearing from you</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>We are going to <NS type="RV"><i>do</i><c>make</c></NS> a video about daily life at school<NS type="RP"><i>, the</i><c>. The</c></NS> following classes are the ones I <NS type="S"><i>recomend</i><c>recommend</c></NS> <NS type="FV"><i>to film</i><c>filming</c></NS>.</p>
+          <p>ENGLISH: the classroom is <NS type="DJ"><i>beautifull</i><c>beautiful</c></NS>, and <NS type="RT"><i>in</i><c>on</c></NS> the same day we do a lot of <NS type="IJ"><i>diferents</i><c>different</c></NS> activities, so it won't be boring watching it because we can have a great time there.</p>
+          <p>CHEMISTRY: We do a lot of experiments and the materials we use are very good. I think that if we film <NS type="RD"><i>that</i><c>this</c></NS> class the people that <NS type="AGV"><i>watches</i><c>watch</c></NS> it will be <NS type="DJ"><i>impress</i><c>impressed</c></NS> with the equipment we have got.</p>
+          <p>SPANISH: We are doing a play now. We could film it and produce it<NS type="RP"><i>, instead</i><c>. Instead</c></NS> of <NS type="AGV"><i>uniform</i><c>uniforms</c></NS> we could wear costumes<NS type="RP"><i>, the</i><c>. The</c></NS> ones <NS type="RA"><i>that</i><c>who</c></NS> are animals could <NS type="RN"><i>pain</i><c>paint</c></NS> their faces. I think that if we do it properly we could have a great <NS type="RP"><i>spanish</i><c>Spanish</c></NS> play.</p>
+          <p>Those three classes are my <NS type="S"><i>choises</i><c>choices</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I hope we <NS type="TV"><i>could</i><c>can</c></NS> do them and make a very good video about our school.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

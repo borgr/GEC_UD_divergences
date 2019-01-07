@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR132*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about the musical show 'OVER THE RAINBOW' I attended three days ago.</p>
+          <p>I was very disappointed with the performance and apart from that there were many <NS type="MQ"><c>other</c></NS> problems.</p>
+          <p>Firstly, the <NS type="UN"><i>start</i></NS> time <NS type="M"><c>of the performance</c></NS> was <NS type="UT"><i>at</i></NS> 19.30 p.m, but the play started at 20.15 p.m. People were fed up with waiting so long and most of them<NS type="MP"><c>,</c></NS> apart from me<NS type="MP"><c>,</c></NS> were rather <NS type="RJ"><i>nervous</i><c>irritable</c></NS>.</p>
+          <p>Secondly, the well-known star Danny Brook wasn't there, but a different actor <NS type="MC"><c>and</c></NS> I had never heard <NS type="RT"><i>from</i><c>of</c></NS> him. From my point of view I think he was such a very bad actor that <NS type="MA"><c>it</c></NS> <NS type="RV"><i>was</i><c>would be</c></NS> impossible to <NS type="RV"><i>fine</i><c>find</c></NS> another with the same <NS type="RN"><i>features</i><c>characteristics</c></NS>.</p>
+          <p>As far as the tickets <NS type="TV"><i><NS type="AGV"><i>is</i><c>are</c></NS></i><c>were</c></NS> concerned no discounts were available, so, <NS type="RY">moreover</NS> I found it expensive.</p>
+          <p>After the show I went to visit the restaurant as it is <NS type="RV"><i>said</i><c>supposed</c></NS> <NS type="R"><i>it is</i><c>to be</c></NS> very famous and apart from that I wanted to have a drink. <NS type="RT"><i>At</i><c>In</c></NS> the end I had to go home as it was closed because the coffee pot did not work. What nonsense!</p>
+          <p>The evening was a disaster and I wonder if I have not the right to ask you <NS type="UT"><i>for</i></NS> <NS type="FV"><i>returning</i><c>to return</c></NS> my money, as I think <NS type="RA"><i>it</i><c>that</c></NS> <NS type="RV"><i>is</i><c>would be</c></NS> fair.</p>
+          <p>I look forward to hearing from you,</p>
+          <p>Yours faithfully,</p>
+          <p>MARIA GARDENT</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>But this time things <NS type="TV"><i>have</i><c>had</c></NS> gone too far.</p>
+          <p>I've <NS type="TV"><i>know</i><c>known</c></NS> Pat since we were kids. Little by little we were growing up and <NS type="IV"><i>becaming</i><c>becoming</c></NS> close friends. I <NS type="IV"><i>relyied</i><c>relied</c></NS> on her and our relationship was excellent. I considered her my best friend and I thought we would never drift apart but now <NS type="MA"><c>I</c></NS> <NS type="W"><i>my mind have changed</i><c>have changed my mind</c></NS>, because she has done something I can't <NS type="RV"><i>approve</i><c>accept</c></NS>. She has given <NS type="MA"><c>it</c></NS> away to my mother that I told her a lie as far as the weekend was concerned.</p>
+          <p>Pat told her I hadn't spent those days with her, but with my boyfriend in the <NS type="FN"><i>mountain</i><c>mountains</c></NS>. My mother was so <NS type="RJ"><i>hungry</i><c>angry</c></NS> and she told <NS type="W"><i>off me</i><c>me off</c></NS> so <NS type="RY"><i>hard</i><c>harshly</c></NS> that I will remember it <NS type="MT"><c>for</c></NS> the rest of my life.</p>
+          <p>Moreover I was punished <NS type="RY"><i>hardly</i><c>harshly</c></NS> by my father and now we don't talk <NS type="MT"><c>to</c></NS> each other.</p>
+          <p>Since then I haven't seen Pat anymore and she <NS type="X"><i>seems not</i><c>doesn't seem</c></NS> <NS type="FV"><i>regret</i><c>to regret</c></NS> <NS type="RA"><i>that</i><c>what</c></NS> happened, so I'll try to forget her and carry on <NS type="MT"><c>with</c></NS> my life<NS type="MP"><c>,</c></NS> that's all.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

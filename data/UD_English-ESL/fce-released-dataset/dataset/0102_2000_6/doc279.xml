@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1132*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir,</p>
+          <p>Last week, I was on holiday in London, and <NS type="TV"><i>reading</i><c>having read</c></NS> the advertisement for your musical show, I had planned (<NS type="RT"><i>like</i><c>as</c></NS> it <NS type="UV"><i>is</i></NS> said) "a perfect evening out".</p>
+          <p>But <NS type="MT"><c>as</c></NS> it turned out, it really wasn't a pleasant evening, and I didn't enjoy myself. On top of this, the advertisement wasn't <NS type="RJ"><i>correct</i><c>right</c></NS> at all, or I must have been to the wrong show!</p>
+          <p>According to the advertisement, the show should have started at 19.30, but it didn't begin before 20.15. That's nearly an hour <NS type="FY"><i>later</i><c>late</c></NS>! The tickets were rather expensive, and the discounts <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> in the advertisement weren't at all available at the theatre. They had never heard of such a thing!</p>
+          <p>The actors were not the ones expected: there was no sign of Danny Brook, and the person who played his part was very disappointing.</p>
+          <p>I was a little hungry after the show, <NS type="ID">but then again</NS>, I had to find another restaurant since the theatre restaurant was closed with no further information <NS type="MV"><c>given</c></NS>.</p>
+          <p>In conclusion, I wasn't at all satisfied, and I would like my money back since the show wasn't worth it.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets..</p>
+          <p>But I found out afterwards and it was too late.</p>
+          <p>Pat was my friend, I trusted her and we got on very well <NS type="S"><i>untill</i><c>until</c></NS> she <NS type="TV"><i>had repeated</i><c>repeated</c></NS> to everyone the secret I had told her. There was only one thing I didn't like <NS type="RT"><i>with</i><c>about</c></NS> her: she <NS type="RV"><i>could</i><c>would</c></NS> do anything to have friends, even betray me.</p>
+          <p>No one knew apart from me and my mother. I kept lying when somebody asked where my dad was. "He's travelling around the world<NS type="MP"><c>,</c></NS>" I would say, and everyone would admire him. But <NS type="MA"><c>I</c></NS> <NS type="TV"><i>know</i><c>knew</c></NS> Pat knew, and because of her, so did everyone else: he was in prison because he had killed a man.</p>
+          <p>Since everyone knew the truth, things weren't the same. Everyone, even my friends, looked at me in a strange kind of way. As if I was guilty. What did I have to do with this? I wasn't the one who had killed the man, but it seemed people didn't want to talk to me anymore.</p>
+          <p>I <NS type="TV"><i>knew</i><c>know</c></NS>, now, why I wanted to hide the truth.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

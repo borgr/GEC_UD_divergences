@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR98*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to you to complain about the show which I saw last Friday at your theatre. The show was called 'Over the <NS type="RP"><i>rainbow</i><c>Rainbow</c></NS>'<NS type="MP"><c>.</c></NS> I was not pleased with the way that <NS type="MA"><c>it</c></NS> was <NS type="RV">set out</NS>.</p>
+          <p>First of all, when I went and bought my ticket, there was no discount<NS type="MP"><c>,</c></NS> but in your advertisement it <NS type="W"><i>said clearly</i><c>clearly said</c></NS> that discounts are available and as a result <NS type="RD"><i>my</i><c>the</c></NS> ticket <NS type="MA"><c>I</c></NS> <NS type="TV"><i>was bought</i><c>bought</c></NS> <NS type="MV"><c>was</c></NS> more expensive.</p>
+          <p>Secondly, the show I went <NS type="MT"><c>to</c></NS> was the evening one, which was supposed to start at 7:30 p.m.<NS type="MP"><c>,</c></NS> but <NS type="R"><i>it had</i><c>there was</c></NS> a <NS type="DJ"><i>41 minutes</i><c>41-minute</c></NS> delay and <NS type="MA"><c>it</c></NS> ended up starting at 8.15 p.m.</p>
+          <p>Furthermore, the <NS type="RJ">original</NS> actor was Danny Brook but <NS type="R">it changed to a different actor</NS> <NS type="AGA"><i>which</i><c>who</c></NS> acted terribly and was very disappointing. Last of all, it <NS type="TV"><i>said</i><c>says</c></NS> in your advertisement that there is a theatre restaurant <NS type="MJ"><c>open</c></NS> after the show but it turned out to be closed because it was <NS type="TV"><i>redecorating</i><c>being redecorated</c></NS> and no <NS type="S"><i>annocement</i><c>announcement</c></NS> was made.</p>
+          <p>I didn't have a perfect evening out and instead I had <NS type="FD"><i>a</i><c>an</c></NS> awful evening out. Therefore I would like <NS type="R">are refund of my ticket</NS> and I would like <NS type="FD"><i>a</i><c>an</c></NS> <NS type="S"><i>apolygists</i><c>apology</c></NS>. <NS type="R">Thank you from you</NS></p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="S"><i>Sincelery</i><c>Sincerely</c></NS>, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>What will clothes be like 100 years from now? What do you think <NS type="S"><i>modles</i><c>models</c></NS> will wear <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>cat walks</i><c>catwalks</c></NS>? Will they wear anything? Who <NS type="AGV"><i>know</i><c>knows</c></NS>? <NS type="S"><i>Nowaday</i><c>Nowadays</c></NS>, people look at <NS type="UP"><i><NS type="S"><i>fashion-magesins</i><c>fashion-magazines</c></NS></i><c>fashion magazines</c></NS> or get opinions from their friends <NS type="M"><c>to help them</c></NS> to decide what to wear <NS type="RT"><i>in</i><c>on</c></NS> different occasions<NS type="MP"><c>.</c></NS></p>
+          <p>Will they still do the same 100 years <NS type="R"><i>later</i><c>from now</c></NS>?</p>
+          <p><NS type="ID"><i>In my opinion, I think</i><c>In my opinion,</c></NS> clothes will be a lot <NS type="S"><i>differente</i><c>different</c></NS> <NS type="MT"><c>in</c></NS> 100 <NS type="MP"><i>years</i><c>years'</c></NS> <NS type="R"><i>later compare to now</i><c>time</c></NS>. <NS type="UC"><i>As new</i><c>New</c></NS> materials <NS type="TV"><i>are</i><c>will be</c></NS> <NS type="RV"><i>made</i><c>invented</c></NS> and new styles <NS type="TV"><i>are</i><c>will be</c></NS> created either by designers or people themselves<NS type="MP"><c>,</c></NS> which <NS type="TV"><i><NS type="AGV"><i>leads</i><c>lead</c></NS></i><c>will lead</c></NS> to changes in fashion<NS type="MP"><c>,</c></NS> but <NS type="ID"><i>on the other hand</i><c>in addition</c></NS> <NS type="UV"><i>come</i></NS> materials will probably still be used such as <NS type="RN"><i>jeans</i><c>denim</c></NS>, which was invented ages ago in America. <NS type="RP"><i>and</i><c>And</c></NS> people nowadays still use <NS type="RN"><i>jeans</i><c>denim</c></NS> <NS type="R">as a common material</NS>. If you walk out <NS type="MT"><c>on</c></NS> to the street now, you will probably see more than half the people wearing clothes that are made <NS type="RT"><i>with</i><c>of</c></NS> <NS type="RN"><i>jeans</i><c>denim</c></NS><NS type="MP"><c>,</c></NS> which is incredibly surprising!</p>
+          <p><NS type="ID">From my point of view</NS>, I think people will wear more clothes that are see-through in particular. As people are wearing thinner and thinner <NS type="CN"><i>clothings</i><c>clothing</c></NS> to show off their figure<NS type="MP"><c>,</c></NS> <NS type="RP"><i>They</i><c>they</c></NS> might as well just wear clothes that are <NS type="MP"><i>see through</i><c>see-through</c></NS> <NS type="R">to give it a better effect</NS>! <NS type="RP"><i>so</i><c>So</c></NS> if you want to know what clothes will be like 100 <NS type="AGN"><i>year</i><c>years</c></NS> <NS type="R"><i>later</i><c>from now</c></NS>, the only thing you can do is to WAIT!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

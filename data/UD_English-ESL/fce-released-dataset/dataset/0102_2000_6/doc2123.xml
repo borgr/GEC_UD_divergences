@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR856*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I'm writing to complain about the show<NS type="UP"><i>,</i></NS> that I <NS type="TV"><i>have recently attended</i><c>recently attended</c></NS> <NS type="UT"><i>to</i></NS> at your theatre. During my visit there <NS type="W"><i>occurred some problems</i><c>some problems occurred</c></NS><NS type="UP"><i>,</i></NS> that made my evening completely disappointing.</p>
+          <p>Firstly, <NS type="RC"><i>as</i><c>when</c></NS> I wanted to buy a ticket, I was informed that no discounts were available. However, the serious problems appeared later. <NS type="W"><i>Not only the play</i><c>The play not only</c></NS> started 45 minutes after it was planned, but <NS type="RC"><i>as</i><c>when</c></NS> the actors eventually appeared <NS type="RT"><i>at</i><c>on</c></NS> the stage, <NS type="AS"><i>have I also seen</i><c>I also saw</c></NS><NS type="UP"><i>,</i></NS> that Danny Brook <NS type="TV"><i>was</i><c>had been</c></NS> replaced by a different actor, who was very disappointing in his role. To make matters even worse, the theatre restaurant was closed after the show, without any information <NS type="MV"><c>being</c></NS> given about the reason <NS type="RT"><i>of</i><c>for</c></NS> <NS type="UP"><i>it's</i><c>its</c></NS> closure.</p>
+          <p>As you see, my evening in your theatre <NS type="RY"><i>absolutely</i><c>really</c></NS> wasn't perfect. I hope I will get a full refund. I am looking forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Have you ever thought of <NS type="RD"><i>a</i><c>the</c></NS> year 2100? Do you think<NS type="UP"><i>,</i></NS> that <NS type="MD"><c>the</c></NS> world will be different from <NS type="MD"><c>the</c></NS> <NS type="RJ"><i>current</i><c>present-day</c></NS> world then? I would answer "yes" <NS type="RT"><i>for</i><c>to</c></NS> both questions. And if I were asked, <NS type="MP"><i>what</i><c>"What</c></NS> will be completely different in <NS type="MD"><c>the</c></NS> year 2100,<NS type="MP"><c>"</c></NS> I would say: clothes.</p>
+          <p>Most of the scientists, when asked about the Earth in a hundred years<NS type="MP"><c>,</c></NS> claim<NS type="UP"><i>,</i></NS> that it is going to be absolutely scorching here then.</p>
+          <p>In my opinion, if the weather is so good people will very quickly forget about any winter clothes. What is more, <NS type="MD"><c>the</c></NS> ground will be so hot<NS type="UP"><i>,</i></NS> that <NS type="RV"><i>going</i><c>walking</c></NS> will only be possible in huge shoes, which <NS type="RV"><i>should</i><c>will</c></NS> be massive, but not heavy at all. Another effect of the scorching weather could be<NS type="UP"><i>,</i></NS> that people won't be allowed to <NS type="RV"><i>get</i><c>go</c></NS> out of the building unless they wear specially designed caps or hats, made of materials<NS type="UP"><i>,</i></NS> that aren't known yet.</p>
+          <p>On the whole, we can only <NS type="RV"><i>predict</i><c>guess</c></NS> what clothes will be like in <NS type="MD"><c>the</c></NS> year 2100. But in case my predictions are right, maybe you should buy a new pair of shorts?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR332*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I am writing to complain about the problems <NS type="M"></NS> <NS type="U"><i>were exist</i></NS> <NS type="RT"><i>on</i><c>at</c></NS> <NS type="RD"><i>the</i><c>your</c></NS> musical show.</p>
+          <p>First of all you said that the <NS type="DN"><i>starring</i><c>star</c></NS> would be Danny Brook but <NS type="RA"><i>there</i><c>it</c></NS> was not. Another actor took his place.</p>
+          <p><NS type="R"><i>After that</i><c>Also</c></NS>, the time that the show <NS type="TV"><i>should start</i><c>should have started</c></NS> was 19:30 but it started <NS type="RP"><i>fortyfive</i><c>forty-five</c></NS> minutes later. People <NS type="UV"><i>have been</i></NS> started to complain.</p>
+          <p>What about the <NS type="UJ"><i>available</i></NS> discounts<NS type="RP"><i>.</i><c>?</c></NS> They <NS type="RV"><i>were</i><c>did</c></NS> not exist.</p>
+          <p><NS type="RT"><i>Except <NS type="RT"><i>of</i><c>for</c></NS></i><c>Apart from</c></NS> this<NS type="MP"><c>,</c></NS> there <NS type="MV"><c>is</c></NS> more. After the show I went to the theatre restaurant but it was closed<NS type="UP"><i>,</i></NS> because the chef of the restaurant was ill. This is not an excuse.</p>
+          <p>You have to excuse me<NS type="MP"><c>,</c></NS> but this was a very disappointing evening. I would like <NS type="MA"><c>you</c></NS> to <NS type="RV"><i>return</i><c>give</c></NS> <NS type="UT"><i>to</i></NS> me my money back.</p>
+          <p>I am very disappointed with you. I did not expect these problems from you. I am waiting <NS type="MV"></NS> your answer as soon as possible.</p>
+          <p>Yours faithfully </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. One day Brian, <NS type="W"><i>the best friend of Pat</i><c>Pat's best friend</c></NS><NS type="MP"><c>,</c></NS> told him a secret. <NS type="M"><i>An</i><c>It was an</c></NS> important secret for Brian. He told him<NS type="UP"><i>,</i></NS> that he was in love with Jane, a girl in their class. Jane was a very good girl and she liked Brian. Pat told this secret to Beth<NS type="MP"><c>,</c></NS> <NS type="W"><i>the best friend of Jane</i><c>Jane's best friend</c></NS>. He didn't <NS type="FV"><i>told</i><c>tell</c></NS> <NS type="MA"><c>her</c></NS> the secret because he wanted to <NS type="SX"><i>heard</i><c>hurt</c></NS> Brian but because he wanted to help him. Brian was very <NS type="RJ"><i><NS type="DJ"><i>shame</i><c>ashamed</c></NS></i><c>embarrassed</c></NS> to ask Jane <NS type="MY"><c>out</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>a</c></NS> date.</p>
+          <p>So, Beth<NS type="UP"><i>,</i></NS> asked Jane if she <NS type="TV"><i>is</i><c>was</c></NS> in love with Brian and she said that she was.</p>
+          <p>When Pat <NS type="IV"><i>heart</i><c>heard</c></NS> the good news he told <NS type="UT"><i>to</i></NS> Brian to <NS type="FV"><i>asked</i><c>ask</c></NS> her <NS type="MY"><c>out</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>a</c></NS> date and he knew that she <NS type="TV"><i>will</i><c>would</c></NS> <NS type="FV"><i>accepted</i><c>accept</c></NS>.</p>
+          <p>Brian <NS type="RV"><i><NS type="TV"><i><NS type="S"><i>learm</i><c>learn</c></NS></i><c>learned</c></NS></i><c>found out</c></NS> what <NS type="RV"><i>was</i><c>had</c></NS> happened and at first he was angry with Pat but then he thanked him. Jane and Brian were very happy.</p>
+          <p>Brian and Pat had a lot of arguments about this because Pat wasn't very good at keeping secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

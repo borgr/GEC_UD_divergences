@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1102*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I am writing to request your permission for us to visit the London Fashion and Leisure Show on 14th March.</p>
+          <p>First of all, I would like to say thank <NS type="UT"><i>to</i></NS> you for this good programme, especially <NS type="MT"><c>for</c></NS> the decision <NS type="UT"><i>of</i></NS> <NS type="UV"><i>going</i></NS> to visit <NS type="UT"><i>in</i></NS> London. All of us <NS type="UV"><i>is</i></NS> <NS type="TV"><i>appreciated</i><c>appreciate</c></NS> <NS type="U"><i>that we could have</i></NS> this opportunity<NS type="RP"><i>. Because</i><c>, because</c></NS> most students have never been to London before<NS type="RP"><i>, also</i><c>. Also</c></NS> we <NS type="TV"><i>could</i><c>can</c></NS> visit some famous places which we <NS type="TV"><i>wanted</i><c>want</c></NS> to go <NS type="MT"><c>to</c></NS>.</p>
+          <p>However, we would be grateful if you would arrange a time to visit the show <NS type="RY"><i>additionally</i><c>as well</c></NS>. This show takes place at <NS type="MD"><c>the</c></NS> Central Exhibition Hall on Tuesday from 10:00 to 19:00. <NS type="RT"><i>In</i><c>At</c></NS> this show, not only can we see <NS type="MD"><c>the</c></NS> latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles, but we <NS type="W"><i>also can</i><c>can also</c></NS> enter for free. Moreover some students think that they would like to do fashion studies in future. If you <NS type="UV"><i>would</i></NS> accept and wouldn't mind this idea, we would like to visit it instead of shopping in the afternoon on Tuesday.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Nowadays, quite a few famous people suffer <NS type="MT"><c>in</c></NS> their private life from disturbers such as journalists or reporters. I would like to <NS type="RV"><i>think</i><c>discuss</c></NS> how <NS type="MD"><c>the</c></NS> media <NS type="RV"><i>effect</i><c>affect</c></NS> <NS type="UT"><i>to</i></NS> famous people.</p>
+          <p><NS type="MD"><i>Few</i><c>A few</c></NS> years ago, we had <NS type="RD"><i>a</i><c>the</c></NS> terrible news of <NS type="MD"><c>the</c></NS> death of Lady Diana. She was always <NS type="FV"><i>been</i><c>being</c></NS> <NS type="DV"><i>aftering</i><c>pursued</c></NS> by <NS type="MD"><c>the</c></NS> media. She had no private life even though she wanted to be alone. Finally, after <NS type="TV"><i>chasing</i><c>being chased</c></NS> for <NS type="MD"><c>a</c></NS> long time, she was <NS type="DV"><i>dead</i><c>killed</c></NS> <NS type="RT"><i>because of</i><c>in</c></NS> <NS type="MD"><c>a</c></NS> car accident. It must be a good example of <NS type="MD"><c>a</c></NS> media disaster. I understand she had a good reason to be chased by it. However<NS type="MP"><c>,</c></NS> she <NS type="S"><i>definetely</i><c>definitely</c></NS> <NS type="TV"><i>deserve</i><c>deserved</c></NS> to have a private life as <NS type="R"><i>one of</i><c>a</c></NS> citizen. Human <NS type="FN"><i>right</i><c>rights</c></NS> must <NS type="FV"><i>be existed</i><c>exist</c></NS> for all people.</p>
+          <p>On the other hand, there are <NS type="MD"><c>a</c></NS> few famous people <NS type="MA"><c>who</c></NS> desire to be watched by <NS type="MD"><c>the</c></NS> media. If <NS type="MD"><c>the</c></NS> media stopped focusing <NS type="MT"><c>on</c></NS> <NS type="RD"><i>the</i><c>these</c></NS> people, they would think <NS type="R"><i>as if</i><c>that</c></NS> they <NS type="TV"><i>are</i><c>have been</c></NS> put in a bin like rubbish. Moreover, many people love to watch a gossip programme on TV or <NS type="M"></NS> in a magazine. It is one <NS type="MN"></NS> of fun in our life.</p>
+          <p>On balance,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

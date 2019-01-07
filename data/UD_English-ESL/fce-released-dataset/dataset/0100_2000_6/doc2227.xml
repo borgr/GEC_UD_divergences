@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR901*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="R"><i>Madam</i><c>Ms</c></NS> Ryan,</p>
+          <p>I am very happy to have won the first prize in your competition. It is a wonderful surprise.</p>
+          <p>I can go to <NS type="UD"><i>the</i></NS> Camp California only in July, because I have school in June and I must work in my father's bookshop in August.</p>
+          <p>At the Camp I want to <NS type="RV"><i>live</i><c>stay</c></NS> in a log cabin. I do not like <NS type="UD"><i>the</i></NS> tents; one can find insects in them and they are not as comfortable as log cabins.</p>
+          <p>For the two activities I can choose, I would like to play tennis: I have some experience <NS type="RT"><i>in</i><c>of</c></NS> this sport, because I played tennis <NS type="RT"><i>during</i><c>for</c></NS> seven years and it is still my favourite activity. I would try to do some painting, too, but I have never painted.</p>
+          <p>I would like to know what sort of clothes I have to take (if it is going to <NS type="MV"><c>be</c></NS> rainy or <NS type="UV"><i>to be</i></NS> sunny) and how much money I must have with me. Could you tell me what sort of <NS type="RN"><i>material</i><c>equipment</c></NS> I will have to bring to do the activities?</p>
+          <p>Yours sincerely</p>
+          <p>Odette Douai Luna</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Do you know<NS type="MP"><c>,</c></NS> last week I <NS type="TV"><i>have been</i><c>went</c></NS> to a pop concert to help my uncle, who is the director of the stadium of Lugano. It was very <NS type="S"><i>interresting</i><c>interesting</c></NS>, because I did different things. I cooked a meal for the artists, I spoke with the <NS type="W"><i>manager of Bruce Springsteen</i><c>Bruce Springsteen's manager</c></NS> and I helped a technician to install his <NS type="RN"><i>material</i><c>equipment</c></NS>: the lights.</p>
+          <p>The best part of the day was after the concert, when I met the group "U2". I was very excited, because this is my favourite group: I'm always <NS type="RV"><i>hearing</i><c>listening</c></NS> <NS type="MT"><c>to</c></NS> their songs. I took some <NS type="DN"><i>photographies</i><c>photographs</c></NS> and I'll show them to you when you come next week</p>
+          <p>I <NS type="R"><i>had a talk</i><c>talked</c></NS> with Santana, the best guitarist in the world, too. He's quite old, but very attractive. I would like <NS type="FV"><i>playing</i><c>to play</c></NS> guitar like him.</p>
+          <p>What a great day it was. The next concert is on 19th June and I will be <NS type="RY"><i>here</i><c>there</c></NS>.</p>
+          <p>See you soon.</p>
+          <p>Yours</p>
+          <p>Odette</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

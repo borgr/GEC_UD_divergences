@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR862*0102*2000*02">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Clark,</p>
+          <p>I am writing to you because, as one of the visitors of the International Arts Festival which took place two weeks ago in our city, I would like to let you know some of my opinions - and suggestions, as well - related <NS type="RT"><i>with</i><c>to</c></NS> what I saw <NS type="RT"><i>in</i><c>at</c></NS> the festival and what I could not see, but I would have liked to find.</p>
+          <p>First of all, I must congratulate the people responsible <NS type="RT"><i>of</i><c>for</c></NS> this good idea. <NS type="AS"><i>It is known of all the lack of art festivals and cultural activities in general that shows our city</i><c>We all know that our city lacks art festivals and cultural activities in general</c></NS>. And what <NS type="UD"><i>a</i></NS> <NS type="SX"><i>belter</i><c>better</c></NS> <NS type="RN"><i>thing</i><c>way</c></NS> to solve this than to give the festival an international character.</p>
+          <p>But including only six countries in the festival does not seem enough, in my opinion. I think next year you should invite more <NS type="UJ"><i>different</i></NS> countries, because the festival would be more multicultural.</p>
+          <p>Secondly, there were some <NS type="W"><i>problems of accommodation</i><c>accommodation problems</c></NS> in the classical concerts because some concert halls were too small. Another important thing is that, despite the number and quality of films, there were, from my point of view, not many plays. In addition, I would like to talk about the success <NS type="W"><i><NS type="RT"><i>among</i><c>with</c></NS> most visitors of the weekend ticket</i><c>of the weekend ticket with most visitors</c></NS>, due to its economical price and because of its <NS type="RN"><i><NS type="S"><i>comodity</i><c>commodity</c></NS></i><c>ease</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> use.</p>
+          <p>Finally, I would like to suggest that, in next year's festival, you include different kinds of music, <NS type="RT"><i>as</i><c>like</c></NS> ska or <NS type="RJ"><i><NS type="DJ"><i>ethnical</i><c>ethnic</c></NS></i><c>world</c></NS> music.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Who doesn't want to earn some money? <NS type="R">The topic</NS> says that young people have a lot of problems, but without any doubt, money is one of the most important of them.</p>
+          <p>If you still don't have <NS type="RJ"><i>economical</i><c>financial</c></NS> <NS type="RN"><i>freedom</i><c>independence</c></NS> from your parents and your studies don't permit you to have a full-time job, these are some suggestions that maybe will help you.</p>
+          <p>One possible thing is to display <NS type="W"><i>in a public place what you can do best</i><c>what you can do best in a public place</c></NS>, and, then, "sell" it to the people. For example, you can <NS type="MV"><c>do</c></NS> <NS type="MD"><c>a</c></NS> <NS type="W"><i>dance folk</i><c>folk dance</c></NS><NS type="MP"><c>,</c></NS> <NS type="RV"><i>be</i><c>do</c></NS> Hamlet in the street, or even sing <NS type="W"><i>with some of your friends a nice song from <NS type="DD"><i>you</i><c>your</c></NS> country</i><c>a nice song from your country with some of your friends</c></NS>. You must be aware, <NS type="RY"><i>anyway</i><c>however</c></NS>, of the <NS type="FN"><i>difficulty</i><c>difficulties</c></NS> <NS type="RT"><i>of</i><c>with</c></NS> <NS type="AG"><i>this kind</i><c>these kinds</c></NS> of things (bad weather, no attention from the people and so on)<NS type="MP"><c>.</c></NS></p>
+          <p>But maybe you are too shy to do this. In this case, you can cook some cakes and sell them near a school or in the centre of the city, as well as other traditional products: cheese, honey ,chocolate...</p>
+          <p>Another thing that can be useful is to make some pottery or do original paintings and sculptures. You don't need to be a Picasso<NS type="RP"><i>,</i><c>:</c></NS> <NS type="W"><i><NS type="UA"><i>it's</i><c>is</c></NS> enough <NS type="UT"><i>with</i></NS> a bit of imagination</i><c>a bit of imagination is enough</c></NS>.</p>
+          <p>If you don't feel like doing any <NS type="AG"><i><NS type="W"><i>thing of this</i><c>of this thing</c></NS></i><c>of these things</c></NS>, you have alternative solutions. If you like fishing, you can try to <NS type="S"><i>colaborate</i><c>collaborate</c></NS> with the local market or some shops, in order to sell them the fish you <NS type="UV"><i>can</i></NS> <NS type="RV"><i>achieve</i><c>catch</c></NS> <NS type="UT"><i>by</i></NS> yourself.</p>
+          <p>Finally, if <NS type="X"><i>anything</i><c>none</c></NS> of the above <NS type="M"><c>achieves a</c></NS> result, you <NS type="TV"><i>can</i><c>could</c></NS> <NS type="RV"><i>prepare</i><c>organise</c></NS> <NS type="UD"><i>the</i></NS> <NS type="RJ">classical</NS> parties in discos or work as a babysitter<NS type="MP"><c>.</c></NS> It doesn't matter how, the aim is always money.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

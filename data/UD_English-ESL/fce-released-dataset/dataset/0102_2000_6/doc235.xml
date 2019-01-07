@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR942*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Sir, <NS type="S"><i>Madame</i><c>Madam</c></NS></p>
+          <p>I <NS type="RV"><i>passed</i><c>spent</c></NS> one week in London and during my visit <NS type="ID"><i>I had the fortune</i><c>I had the good fortune</c></NS> to <NS type="RV"><i>visit</i><c>see</c></NS> "Over the rainbow" <NS type="RT"><i>in</i><c>at</c></NS> your theatre. But I was not very satisfied after my "perfect evening" out. The advertisement for the Musical Show was very good, but the information was not correct. You wrote that the <NS type="RJ"><i>favourite</i><c>main</c></NS> actor <NS type="TV"><i>will</i><c>would</c></NS> be Danny Brook but there was another one who was really disappointing. In the advertisement <NS type="MA"><c>it</c></NS> was written that the show <NS type="TV"><i>will</i><c>would</c></NS> start at 19.30 but it started 45 minutes later, at 20.15! Because of the advertisement I thought that I <NS type="TV"><i>can</i><c>could</c></NS> <NS type="MV"><c>get</c></NS> <NS type="MD"><c>a</c></NS> discount <NS type="MT"><c>on</c></NS> the tickets available but I couldn't. After the show I <NS type="TV"><i>need</i><c>needed</c></NS> to drink something in the theatre restaurant <NS type="RT"><i>like</i><c>as</c></NS> the advertisement <NS type="UA"><i>it</i></NS> <NS type="RV"><NS type="S"><i>concieved</i><c>conceived</c></NS></NS>, but it was closed. And there was no reason why <NS type="M"></NS>.</p>
+          <p>So you can see that it was not a so perfect <NS type="MD"><c>an</c></NS> evening for me <NS type="RC"><i>then</i><c>as</c></NS> I <NS type="TV"><i><NS type="RV"><i>thought</i><c>expected</c></NS></i><c>had expected</c></NS>. Now I hope that you can understand my <NS type="RN"><i>question</i><c>request</c></NS> for some money back because of the trouble I had.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping <NS type="SX"><i>secretes</i><c>secrets</c></NS>. This was the only reason why <NS type="UC"><i>that</i></NS> she had not <NS type="MV"><c>got</c></NS> a lot of friends. When Pat <NS type="MY"><c>first</c></NS> came <NS type="UJ"><i>new</i></NS> into a class or a <NS type="S"><i>groupe</i><c>group</c></NS> of teenagers there were no problems. But after a few <NS type="AGN"><i>time</i><c>times</c></NS> the others <NS type="RV"><i>have</i><c>would</c></NS> <NS type="TV"><i>seen</i><c>see</c></NS> that Pat <NS type="TV"><i>can't</i><c>couldn't</c></NS> keep secrets. So they stopped <NS type="W"><i><NS type="RY"><i>nearly</i><c>almost</c></NS> immediately <NS type="FV"><i>to tell</i><c>telling</c></NS> her <NS type="RA"><i>something</i><c>anything</c></NS> important</i><c>telling her anything important almost immediately</c></NS>. Sometimes it finished <NS type="R"><i>like this that</i><c>with</c></NS> the others only <NS type="FV"><i>said</i><c>saying</c></NS>: "Hello, how are you?" <NS type="RP"><i>and</i><c>And</c></NS> then <NS type="FV"><i>went</i><c>going</c></NS> away without listening <NS type="MT"><c>to</c></NS> the answer. This made Pat sad and she became very quiet. During the day she worked hard <NS type="RC"><i>that</i><c>so</c></NS> she <NS type="RV"><i>had</i><c>would</c></NS> not <NS type="FV"><i>to think</i><c>think</c></NS> too much. But at night, when it became dark the dreams <NS type="TV"><i>were</i><c>would</c></NS> <NS type="FV"><i>coming</i><c>come</c></NS>. She dreamed about good friends, <NS type="MD"><c>the</c></NS> time that <NS type="RV"><i>was</i><c>had</c></NS> long passed by and she dreamed <NS type="RT"><i>from</i><c>of</c></NS> someone who she <NS type="TV"><i>can</i><c>could</c></NS> tell her own secrets.</p>
+          <p>Then one day she met this person. It was Katha, a girl who had the same <NS type="FN"><i>problems</i><c>problem</c></NS> <NS type="RT"><i>like</i><c>as</c></NS> Pat. So they <NS type="W"><i>found both</i><c>both found</c></NS> the person they dreamed <NS type="RT"><i>from</i><c>of</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

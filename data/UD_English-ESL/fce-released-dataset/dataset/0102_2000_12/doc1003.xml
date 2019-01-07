@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR5*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>S</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. <NS type="UN"><i>Jane</i></NS> Clark,</p>
+          <p>Recently I was at the annual international arts festival<NS type="UP"><i>,</i></NS> that you organized. I'm writing this letter to thank you for giving <NS type="M"></NS> <NS type="RD"><i>a</i><c>the</c></NS> <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to know more about modern art.</p>
+          <p>I think<NS type="UP"><i>,</i></NS> it is a wonderful idea to organize such festivals each year, because it is very interesting to learn some news about life in other countries.</p>
+          <p>Unfortunately, only six countries were represented this year at the festival, but I hope that soon there <NS type="TV"><i>would be</i><c>will be</c></NS> <NS type="CQ"><i>much</i><c>many</c></NS> more of them.</p>
+          <p>I <NS type="RY"><i>extremely</i><c>really</c></NS> liked all <NS type="MD"><c>the</c></NS> concerts, shows, <NS type="MC"><c>and</c></NS> exhibitions, but why <NS type="W"><i>there weren't</i><c>weren't there</c></NS> any <NS type="DJ"><i>photograph</i><c>photographic</c></NS> exhibitions? I think<NS type="UP"><i>,</i></NS> you should <NS type="RV"><i>make</i><c>have</c></NS> some next year. <NS type="RY"><i>Then</i><c>Also</c></NS>, I want to <NS type="RV"><i>mark</i><c>point out</c></NS><NS type="UP"><i>,</i></NS> that <NS type="MD"><c>the</c></NS> concert halls were too small, that is why they were overcrowded during some concerts.</p>
+          <p><NS type="RY"><i>Then</i><c>Also</c></NS>, I want to say<NS type="UP"><i>,</i></NS> that <NS type="MD"><c>the</c></NS> plays and films were <NS type="S"><i>exellent</i><c>excellent</c></NS>, but <NS type="RA"><i>it</i><c>there</c></NS> <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> enough of them for me. <NS type="RP"><i>May be</i><c>Maybe</c></NS> you should <NS type="RV"><i>make</i><c>have</c></NS> more next year<NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>And <NS type="RY"><i>at the end</i><c>finally</c></NS>, my opinion is that one weekend ticket for all events is a great idea, because you don't have to <NS type="RV"><i>stay</i><c>wait</c></NS> in queues to buy a ticket for a show<NS type="UP"><i>,</i></NS> you want to go to.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Lucia,</p>
+          <p>I was very pleased to receive your letter. You asked<NS type="UP"><i>,</i></NS> if there are some school rules in my country.</p>
+          <p>As you know, I'm studying at <NS type="RD"><i>the</i><c>a</c></NS> private Academy, so the rules in my institute are different from the rules in state institutes. I'll give you an example. In our <NS type="S"><i>Acadamy</i><c>Academy</c></NS> we are not allowed to smoke. The fine for smoking on the <NS type="MP"><i>Academy</i><c>Academy's</c></NS> <NS type="UV"><i>is</i></NS> <NS type="RN"><i>territory</i><c>premises</c></NS> is 100 dollars. So nobody smokes there. I don't smoke, so I don't care about this rule. But some of my friends really would like to change it. You also wanted to know about what I'm allowed or not allowed to do at home. Well, I have rather modern parents, so they don't <NS type="L"><i>prohibit</i><c>stop</c></NS> me <NS type="FV"><i>to go</i><c>going</c></NS> to <NS type="UD"><i>the</i></NS> <NS type="IN"><i>discoes</i><c>discos</c></NS> or somewhere with my friends. The only rule for me at home is to walk <NS type="UY"><i>out</i></NS> <NS type="UT"><i>with</i></NS> my dog three times a day.</p>
+          <p>I hope it was interesting for you to know about the rules in my life.</p>
+          <p><NS type="MA"><i>Look</i><c>I look</c></NS> forward to hearing from you,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

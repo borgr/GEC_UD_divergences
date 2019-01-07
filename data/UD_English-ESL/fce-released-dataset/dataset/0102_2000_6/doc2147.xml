@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR762*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I'm writing to complain about my horrible evening at The Circle Theatre on 10th June 2000.</p>
+          <p>Last week I was on holiday in London and I went to the theatre for <NS type="DN">entertaining</NS> but I wish I'd not <NS type="TV"><i>go</i><c>gone</c></NS> there because <NS type="IA"><i>everythings</i><c>everything</c></NS> went wrong.</p>
+          <p>I bought a ticket at the box office but there were not any discounts for <NS type="FN"><i>student</i><c>students</c></NS> like you said in the advertisement for the show and also the show <NS type="RV"><i>had</i><c>was meant</c></NS> to start at 19.30 but on that day it <NS type="TV"><i><NS type="IV"><i>delaied</i><c>delayed</c></NS></i><c>was delayed</c></NS> about 45 minutes. During the show I <NS type="TV"><i>was expected</i><c>expected</c></NS> to <NS type="RV"><i>meet</i><c>see</c></NS> Danny Brook<NS type="MP"><c>,</c></NS> who is my favourite actor<NS type="MP"><c>,</c></NS> and Tina Truelove. There <NS type="TV"><i>are</i><c>were</c></NS> Robert Alan and Jack Ruby instead of them. It really disappointed me. After <NS type="AS"><i>finishing the show</i><c>the show finished</c></NS> I wanted to visit your restaurant and I found that it was closed.</p>
+          <p><NS type="RA"><i>It</i><c>There</c></NS> was a sign in front of the restaurant<NS type="MP"><c>:</c></NS> "sorry we <NS type="MV"><c>are</c></NS> closed <NS type="R"><i>because</i><c>for</c></NS> special reasons"<NS type="MP"><i> and</i><c>. And</c></NS> I was wondering what <NS type="W"><i><NS type="AGV"><i>was</i><c>were</c></NS> the reasons</i><c>the reasons were</c></NS> for that.</p>
+          <p>Finally<NS type="MP"><c>,</c></NS> I would like to have <NS type="MD"><c>a</c></NS> refund for my ticket <NS type="UY"><i>back</i></NS> because it was <NS type="MD"><c>a</c></NS> horrible evening.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+          <p>Paya Chuaswee (Miss)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets<NS type="MP"><i> that</i><c>. That</c></NS> <NS type="MV"><c>was</c></NS> why our great plan for <NS type="MD"><c>our</c></NS> <NS type="S"><i>horiday</i><c>holiday</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> not <NS type="R">be real</NS>.</p>
+          <p>It happened <NS type="UT"><i>in</i></NS> last summer<NS type="MP"><i> we</i><c>. We</c></NS> <NS type="IV"><i>planed</i><c>planned</c></NS> to go on holiday in the <NS type="RP"><i><NS type="S"><i>Southen</i><c>Southern</c></NS></i><c>southern</c></NS> part of Thailand by motorbike but we couldn't tell our parents because they wouldn't allow us to go.</p>
+          <p>We started our journey and we arrived at our <NS type="RN"><i>purpose place</i><c>destination</c></NS> by 6 o'clock in the evening. The sun was shining and <NS type="MD"><c>the</c></NS> wind <NS type="AGV"><i>were</i><c>was</c></NS> <NS type="RV"><i>breezing</i><c>blowing</c></NS> like we had <NS type="RV"><i>imaged</i><c>imagined</c></NS>. <NS type="S"><i>Whlile</i><c>While</c></NS> I was standing on the beach<NS type="MP"><c>,</c></NS> suddenly I heard someone <NS type="TV"><i>called</i><c>call</c></NS> my name and <NS type="TV"><i>said</i><c>say</c></NS> that I had to go home<NS type="RP"><i>, that</i><c>. That</c></NS> <NS type="MV"><c>is</c></NS> right, <NS type="RA"><i>she</i><c>it</c></NS> <NS type="TV"><i>is</i><c>was</c></NS> my mum. She told me Pat had phoned her while we were <NS type="RV"><i>going</i><c>leaving</c></NS> and my mum followed us because it was so dangerous to <NS type="FV"><i>went</i><c>go</c></NS> by bicycle. <NS type="R"><NS type="SX"><i><NS type="RP"><i>Eventhrough</i><c>Even through</c></NS></i><c>Even though</c></NS> we could spend our holiday there but with my mum and I just found that it was fantasy time which I had never <NS type="SX"><i>though</i><c>thought</c></NS> about it</NS>.</p>
+          <p>From now on<NS type="MP"><c>,</c></NS> I don't want to <NS type="AS"><i>tell <NS type="RA"><i>something</i><c>anything</c></NS> <NS type="IJ"><i>secrets</i><c>secret</c></NS> to Pat</i><c>tell Pat anything secret</c></NS> because she always <NS type="AGV"><i>tell</i><c>tells</c></NS> someone else but she <NS type="MV"><c>is</c></NS> still my best friend.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

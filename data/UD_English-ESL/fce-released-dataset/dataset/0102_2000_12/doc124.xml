@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR83*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>31-40</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms. ,</p>
+          <p>I am writing this letter to express my thoughts about the International Art Festival of this year. I was so impressed <NS type="MT"><c>with</c></NS> the exhibitions <NS type="RT"><i>of</i><c>at</c></NS> the festival that you <NS type="TV"><i>had organized</i><c>organized</c></NS>. Furthermore, it's <NS type="MD"><c>a</c></NS> <NS type="DJ"><i>worthful</i><c>worthwhile</c></NS> experience for people <NS type="M"><c>who want</c></NS> to know <NS type="MT"><c>about</c></NS> <NS type="UD"><i>the</i></NS> other countries' arts.</p>
+          <p>But I would like to <NS type="RV"><i>suggest</i><c>make</c></NS> some requests <NS type="RT"><i>for</i><c>regarding</c></NS> the festival.</p>
+          <p>Firstly, it <NS type="TV"><i>is</i><c>would be</c></NS> better to invite more artists <NS type="R">not only from six countries</NS>. For example, <NS type="R">the artists or stars from we have rare chance to feel the atmosphere</NS>.</p>
+          <p>Secondly, some concert halls were too small to <NS type="RV"><i>enter</i><c>contain</c></NS> all of the audience. Moreover, plays and films were shown only twice a day so that people <NS type="R">had gathered one time</NS>. I would <NS type="RV"><i>prefer</i><c>like</c></NS> <NS type="W"><i>to be held more performances</i><c>more performances to be held</c></NS> next year in the bigger halls.</p>
+          <p>Finally, <NS type="DT"><i>regards to</i><c>with regard to</c></NS> tickets, it is <NS type="MD"><c>a</c></NS> <NS type="RY"><i>very</i><c>really</c></NS> wonderful idea because it is more <NS type="S"><i>combinient</i><c>convenient</c></NS> to enjoy the festival for one day among a lot of people.</p>
+          <p><NS type="R">You may consider my suggestion to have the art festival for next year</NS>.</p>
+          <p>Yours Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><i>Long</i><c>A long</c></NS> long time ago, there were <NS type="RD"><i>the</i><c>an</c></NS> old man and old woman <NS type="MA"><c>who</c></NS> lived <NS type="RT"><i>in</i><c>at</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> foot of <NS type="MD"><c>a</c></NS> mountain.</p>
+          <p>One day, when the old man went into the <NS type="S"><i>bambo</i><c>bamboo</c></NS> bush, he found <NS type="CQ"><i>one</i><c>some</c></NS> <NS type="S"><i>bambo</i><c>bamboo</c></NS> <NS type="R">gritted white</NS>. He had never seen such <NS type="S"><i>bambo</i><c>bamboo</c></NS> before but decided to cut it down. <NS type="UY"><i>Then there</i><c>There</c></NS> was a lovely baby in it. He was surprised but was pleased because he had no child. He took the baby to his house and explained what had happened in the bush to the old woman. The old woman was glad to have a baby and they decided to bring up the baby. The baby was named 'Kaguya.'</p>
+          <p>She grew very <NS type="RY"><i>quick</i><c>quickly</c></NS> and was so beautiful. A lot of men asked her to marry <NS type="UT"><i>with</i></NS> them but she always refused. One <NS type="DJ">full moon</NS> night she said to her parents sadly, 'I have to return to the Moon tonight.' The old man and woman tried to <NS type="RV"><i>keep</i><c>get</c></NS> her <NS type="FV"><i>staying</i><c>to stay</c></NS> <NS type="MT"><c>in</c></NS> their house, but they couldn't.</p>
+          <p><NS type="RD"><i>The</i><c>Her</c></NS> servants from the Moon <NS type="RV"><i>picked</i><c>carried</c></NS> her up to the Moon. She <NS type="TV"><i>gone</i><c>had gone</c></NS> away. She was the princess of the Moon.</p>
+          <p>This <NS type="UN"><i>story</i></NS> happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

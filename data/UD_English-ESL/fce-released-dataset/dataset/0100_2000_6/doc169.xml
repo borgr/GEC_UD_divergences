@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR668*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I <NS type="S"><i>recived</i><c>received</c></NS> your letter and I'm very happy because I didn't expect it, so first of all I want you <NS type="FV"><i>know</i><c>to know</c></NS> that I really <NS type="L">fancy</NS> going <NS type="RT"><i>at</i><c>to</c></NS> Camp California in the U.S.A<NS type="MP"><c>.</c></NS> <NS type="RT"><i>during</i><c>for</c></NS> two weeks, <NS type="UC"><i>and</i></NS> <NS type="RY"><i>specially</i><c>especially</c></NS> because I've never been <NS type="RT"><i>in</i><c>to</c></NS> this country.</p>
+          <p><NS type="ID"><i>On one hand</i><c>On the one hand</c></NS> I would like to travel in July because I'm working in a school and the lessons finish at the end of June so if I could <NS type="RV"><i>go to</i><c>take</c></NS> this extraordinary opportunity in July it would be better for me because in August I will have to be ready to begin preparing the exams <NS type="RT"><i>of</i><c>for</c></NS> <NS type="RP"><i>september</i><c>September</c></NS>. If it is any problem let me know as soon as possible because I'll try to sort it out.</p>
+          <p><NS type="ID">On the other hand</NS> I think I would rather not sleep in a tent because I had a bad experience once and I would like to try log cabins. <NS type="RP"><i>although</i><c>Although</c></NS> it wouldn't be a problem if I <NS type="RY">finally</NS> <NS type="TV"><i>have</i><c>had</c></NS> to sleep in a tent.</p>
+          <p>Another point is that I have already <NS type="TV"><i>chose</i><c>chosen</c></NS> two activities <NS type="R">that you asked me while I am at the camp</NS> and <NS type="MA"><c>they</c></NS> are basketball and golf<NS type="RP"><i>, they</i><c>. They</c></NS> are the best <NS type="MN"><c>activities</c></NS> for me because I think I am good at both and I used to play them <NS type="RY">before</NS>.</p>
+          <p>Finally I want to find out <NS type="UT"><i>about</i></NS> if <NS type="MA"><c>there</c></NS> is <NS type="RD"><i>any</i><c>a</c></NS> supermarket near the <NS type="RN"><i>camping</i><c>campsite</c></NS> and if there are any facilities <NS type="RT"><i>in</i><c>for</c></NS> washing my <NS type="S"><i>clotches</i><c>clothes</c></NS> <NS type="RT"><i>into</i><c>on</c></NS> the camp.</p>
+          <p>I look forward to <NS type="S"><i>reciving</i><c>receiving</c></NS> a reply from you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Last month I had the most exciting experience in my life<NS type="RP"><i>, as</i><c>. As</c></NS> you know<NS type="MP"><c>,</c></NS> I was helping at the pop concert and it was amazing!</p>
+          <p>The concert was in the <NS type="RP"><i>University</i><c>university</c></NS> in the middle of the field and at the <NS type="S"><i>begining</i><c>beginning</c></NS> when we arrived there weren't many people, only those who had to prepare the stage and the sound <NS type="MN"><c>system</c></NS> and of course us<NS type="MP"><c>,</c></NS> who had the job of serving drinks during the concert.</p>
+          <p>We arrived quite <NS type="RY"><i>soon</i><c>early</c></NS> because we had to <NS type="RV"><i>organise</i><c>work out</c></NS> how we <NS type="TV"><i>went</i><c>were going</c></NS> to serve people <NS type="R">did with which order,</NS> so we started putting all the stuff in <NS type="MD"><c>the</c></NS> <NS type="S"><i>appropiate</i><c>appropriate</c></NS> place.</p>
+          <p>I was very nervous because I'd never been <NS type="RT"><i>in</i><c>to</c></NS> a concert before and an hour before everything <NS type="RV"><i>stated</i><c>started</c></NS> the singer and the musicians were there and I couldn't <NS type="RV"><i>avoid</i><c>help</c></NS> it and I started crying - you can imagine, they were so handsome that I couldn't <NS type="S"><i>belive</i><c>believe</c></NS> it - I tried to calm down because I had to work, and later I began <NS type="FV"><i>feeling</i><c>to feel</c></NS> more comfortable and when the concert started everything was <NS type="R"><i>such</i><c>so</c></NS> exciting that the time <NS type="RV"><i>ran</i><c>went</c></NS> very fast - although I was working - and it was like a dream.</p>
+          <p>Well I think I'm going to remember it all my life and I'm sure that if you had been there you would have enjoyed <NS type="MA"><c>it</c></NS> very much.</p>
+          <p>See you soon.</p>
+          <p>Best wishes.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

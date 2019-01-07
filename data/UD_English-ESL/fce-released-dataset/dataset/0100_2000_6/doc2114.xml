@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR850*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I received your letter congratulating me on having won the first prize in your competition. I am extremely excited about the opportunity to go to your camp in the USA.</p>
+          <p>Firstly, I have to say that I am studying at University and I wonder if I could travel <NS type="RT"><i>on</i><c>in</c></NS> July because of the exams I have <NS type="RT"><i>on</i><c>in</c></NS> May. <NS type="R"><i>Apart from that</i><c>Also</c></NS> I would not be able to travel there until the end of June.</p>
+          <p>It does not matter to me whether I stay in <NS type="MD"><c>a</c></NS> tent or <NS type="MD"><c>a</c></NS> log cabin, but I would prefer <NS type="MD"><c>a</c></NS> tent <NS type="M"><c>so as</c></NS> to be <NS type="R"><i>much more in</i><c>in closer</c></NS> contact with <NS type="MD"><c>the</c></NS> <NS type="RP"><i>wild life</i><c>wildlife</c></NS> and nature.</p>
+          <p>The activities I'd like to do most are playing basketball and Climbing. The first one because I have been <NS type="TV"><i>played</i><c>playing</c></NS> basketball since the age of twelve and the second one because there are not many places <NS type="UC"><i>where</i></NS> to go climbing in my city.</p>
+          <p>Finally, I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>ask</i><c>to ask</c></NS> you if I have to take my own clothes with me or <NS type="MC"><c>if</c></NS> you will provide me with some, and <NS type="MT"><c>about</c></NS> the amount of money needed.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I received your letter last week in which you told me that you want to hear about my experience at the pop concert.</p>
+          <p>It was terrible! We <NS type="TV"><i>have</i><c>had</c></NS> a lot of problems from the <NS type="S"><i>beggining</i><c>beginning</c></NS>. The first one was the security. <NS type="MD"><i>People</i><c>The people</c></NS> in charge of security didn't arrive when they were supposed to. If it <NS type="TV"><i>weren't</i><c>hadn't been</c></NS> a calm and <NS type="SX"><i>quite</i><c>quiet</c></NS> <NS type="RN"><i>public</i><c>crowd</c></NS>, we would have had <NS type="FN"><i>troubles</i><c>trouble</c></NS>. Another problem was the band. They didn't want to play until the <NS type="RN"><i>room</i><c>venue</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> crowded. So <NS type="RD"><i>that</i><c>the</c></NS> concert started an hour and a half <NS type="RY"><i><NS type="SX"><i>latter</i><c>later</c></NS></i><c>late</c></NS>.</p>
+          <p>Everything was all right during the <NS type="W"><i><NS type="DN"><i>perform</i><c>performance</c></NS> of the band</i><c>band's performance</c></NS>, but at the end some <NS type="S"><i>espectators</i><c>spectators</c></NS> came up <NS type="RT"><i>to</i><c>on</c></NS> the stage and <NS type="RV"><i>made</i><c>did</c></NS> some damage to the band's <NS type="FN"><i>instrument</i><c>instruments</c></NS>. The singer and the guitarist were so angry that they <NS type="RV"><i>went out</i><c>left</c></NS> immediately<NS type="MP"><c>,</c></NS> leaving the public without the last part of the show.</p>
+          <p>As you can see, hardly anything went well, but the lights and the sound - <NS type="MT"><c>for</c></NS> both <NS type="RT"><i>in</i><c>of</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> I helped <NS type="FV"><i>carrying</i><c>carry</c></NS> things - were appropriate for the concert. <NS type="R"><i><NS type="S"><i>Althought</i><c>Although</c></NS></i><c>Despite</c></NS> all these things, I gained a lot of experience and I could be near one of my favourite pop stars, which was the <NS type="FJ"><i>better</i><c>best</c></NS> experience I've ever had.</p>
+          <p>Looking forward to hearing from you soon.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

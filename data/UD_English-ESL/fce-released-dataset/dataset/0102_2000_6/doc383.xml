@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR154*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you to complain about a <NS type="UN"><i>theatre</i></NS> play I have seen, called: "Over the rainbow".</p>
+          <p>This show was <NS type="W"><i>for me very disappointing</i><c>very disappointing for me</c></NS> for many reasons<NS type="RP"><i>:</i><c>.</c></NS> First of all, I was very surprised by the <NS type="DN"><i>no presence</i><c>absence</c></NS> of the famous actor, Danny Brook, who was one of my reasons <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to book</i><c>booking</c></NS> a <NS type="SX"><i>sit</i><c>seat</c></NS>. Also, I'm unhappy about the <NS type="RJ"><i>bad</i><c>inaccurate</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> your advertisement, which clearly says<NS type="UP"><i>,</i></NS> the play begins at 19.30<NS type="MP"><c>,</c></NS> instead of 20.15 <NS type="RT"><i>as</i><c>like</c></NS> my <NS type="MP"><i>evening'</i><c>evening's</c></NS> show. At the end of show, unfortunately for me and the <NS type="IQ"><i>others</i><c>other</c></NS> spectators, the worst thing happened: the theatre's restaurant was closed without any reasons <NS type="MV"><c>being given</c></NS> and nobody <NS type="RV"><i>went</i><c>came</c></NS> to us to apologise or <NS type="DV"><i>advice</i><c>advise</c></NS> us <NS type="RT"><i>for</i><c>about</c></NS> <NS type="RP"><i>an other</i><c>another</c></NS> restaurant <NS type="DJ"><i>opened</i><c>open</c></NS> late <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> night.</p>
+          <p>That's why, in <NS type="RN"><i>return</i><c>response</c></NS> <NS type="RT"><i>of</i><c>to</c></NS> all <NS type="RD"><i>those</i><c>these</c></NS> problems, I'm asking you to give back some money. I'm looking forward to <NS type="FV"><i>have</i><c>having</c></NS> an answer from you.</p>
+          <p>Yours faithfully.</p>
+          <p>BOUCHER Jean-Pierre.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. That's why all his friends were angry <NS type="RT"><i>against</i><c>with</c></NS> him and <NS type="RV"><i>let</i><c>left</c></NS> him alone. It was clear that Pat had to change and show <NS type="UT"><i>to</i></NS> his <NS type="AGN"><i>friend</i><c>friends</c></NS> that they <NS type="TV"><i>can</i><c>could</c></NS> believe in him <NS type="S"><i>thrutly</i><c>thoroughly</c></NS>. For those next <NS type="MQ"><c>few</c></NS> days, Pat <NS type="TV"><i>will</i><c>would</c></NS> do his best to be <NS type="R"><i>the most</i><c>as</c></NS> <NS type="DJ"><i>sympathic</i><c>sympathetic</c></NS> as possible. <NS type="ID"><i>To beginning</i><c>To begin with</c></NS>, every morning Pat <NS type="TV"><i>says</i><c>said</c></NS> a pleasant "hello" <NS type="R"><i>in</i><c>and</c></NS> <NS type="TV"><i>adding</i><c>added</c></NS> to that a big <NS type="S"><i>smail</i><c>smile</c></NS>. His mother always says: "If you are <NS type="S"><i>smailing</i><c>smiling</c></NS> and are nice <NS type="RT"><i>with</i><c>to</c></NS> <NS type="UD"><i>the</i></NS> people, <NS type="UD"><i>the</i></NS> <NS type="S"><i>poeple</i><c>people</c></NS> <NS type="TV"><i>would</i><c>will</c></NS> be nice and <NS type="TV"><i>would</i><c>will</c></NS> <NS type="S"><i>smail</i><c>smile</c></NS> <NS type="RT"><i>to</i><c>at</c></NS> you". As Pat <NS type="W"><i>does always</i><c>always does</c></NS> what his mother says his friends began to play <NS type="W"><i>again with him</i><c>with him again</c></NS>, but not just his old friends, <NS type="RP"><i>every body</i><c>everybody</c></NS> wanted to play with <NS type="RA"><i>me</i><c>him</c></NS>. The <NS type="RN"><i>morality</i><c>moral</c></NS> of the story <NS type="W"><i>is here</i><c>here is</c></NS> very clear: be nice <NS type="RT"><i>with</i><c>to</c></NS> <NS type="UD"><i>the</i></NS> people and <NS type="UD"><i>the</i></NS> people will respect you and will appreciate you as a friend.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

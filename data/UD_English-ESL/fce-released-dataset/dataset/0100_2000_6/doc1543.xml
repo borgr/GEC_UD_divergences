@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR596*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>51+</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Madame Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>I've just received your letter and I thank you very much indeed for that. I didn't expect to win the first prize in your competition<NS type="RP"><i>,</i><c>.</c></NS> I am very happy. It <NS type="TV"><i>was always</i><c>has always been</c></NS> my dream to spend two weeks at Camp California in the U.S.A. Now it's become a reality.</p>
+          <p>If I can choose the <NS type="RN"><i>period</i><c>time</c></NS>, I would like to travel only in July because in other months I have a lot of <NS type="AGN"><i>thing</i><c>things</c></NS> to do.</p>
+          <p><NS type="RT"><i>As</i><c>Regarding</c></NS> <NS type="S"><i>accommnodation</i><c>accommodation</c></NS> at Camp California, I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I think it is <NS type="IJ"><i>safier</i><c>safer</c></NS> than <NS type="UT"><i>in</i></NS> a tent.</p>
+          <p>I've <NS type="IV"><i>red</i><c>read</c></NS> that I will have a chance to do two extra activities while I <NS type="TV"><i>will be</i><c>am</c></NS> at Camp.</p>
+          <p>I think it would be a good idea to practise my <NS type="R"><i>photography</i><c>photographic technique</c></NS>, because I'm not so good a photographer and I would like to learn <NS type="R"><i>swimming</i><c>how to swim</c></NS> as I can't do it. Taking part in these two activities would be very useful for me.</p>
+          <p>There is another thing I would <NS type="M"><c>like to</c></NS> know<NS type="RP"><i>, what</i><c>. What</c></NS> kind of clothes <NS type="RV"><i>have</i><c>should</c></NS> I bring with me? And how much money can I take with me?</p>
+          <p>I'm looking forward to hearing from you. <NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely -</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable. This is true.</p>
+          <p><NS type="RQ"><i>Some</i><c>A few</c></NS> days ago my class had a big discussion about shopping.</p>
+          <p><NS type="ID"><i>In that occasion</i><c>On that occasion</c></NS> I hadn't the opportunity <NS type="UT"><i>for</i></NS> <NS type="FV"><i>giving</i><c>to give</c></NS> my opinion <NS type="RT"><i>about</i><c>on</c></NS> this task.</p>
+          <p>Now, my English teacher has asked me to <NS type="S"><i>explane</i><c>explain</c></NS> <NS type="UQ"><i>all</i></NS> what I think.</p>
+          <p>In my opinion, <NS type="S"><i>nowdays</i><c>nowadays</c></NS>, shopping is very easy and <NS type="ID"><i>in the same time</i><c>at the same time</c></NS> very hard.</p>
+          <p>It is very easy because there are a lot of things to buy, shops are <NS type="RJ"><i>plenty</i><c>full</c></NS> of every <NS type="AGN"><i>kinds</i><c>kind</c></NS> of <NS type="AGN"><i>things</i><c>thing</c></NS>. You can <NS type="FV"><i>chose</i><c>choose</c></NS> the price <NS type="FJ"><i>more suitable</i><c>most suitable</c></NS> for you. Choosing from a lot of things and choosing the prices too are very enjoyable for me.</p>
+          <p>Shopping is not enjoyable when you have not enough money to buy what you want, or when you are not sure about what you would like to buy.</p>
+          <p>I remember very well two people who thought very <NS type="DY"><i>different</i><c>differently</c></NS> about shopping.</p>
+          <p>My grandmother thought that shopping was a terrible thing<NS type="RP"><i>, she</i><c>.  She</c></NS> <NS type="W"><i>hadn't enough money to buy even the bread</i><c>hadn't even enough money to buy the bread</c></NS>.</p>
+          <p><NS type="W"><i>My mother, whereas</i><c>Whereas, my mother</c></NS> was very keen on shopping <NS type="MT"><c>for</c></NS> everything.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

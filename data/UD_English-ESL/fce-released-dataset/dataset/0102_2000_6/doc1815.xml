@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR74*0102*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sirs,</p>
+          <p>I refer to your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> in the Herald Tribune where you advertised <NS type="UT"><i>for</i></NS> the Circle Theatre and the recent musical: Over the Rainbow.</p>
+          <p>On Saturday, June 5th, 2000 my wife and I wanted to <NS type="RV"><i>spend</i><c>have</c></NS> a nice and enjoyable evening and decided to go and see the musical.</p>
+          <p>When we arrived at the theatre we <NS type="UV"><i>had</i></NS> <NS type="TV"><i>to realise</i><c>realised</c></NS> that there were no <NS type="RJ"><i>discountable</i><c>discount</c></NS> tickets available as <NS type="MV"><c>were</c></NS> mentioned in your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> so we had to buy the most expensive ones. After that one of the theatre assistants told us that the <NS type="RN"><i>film</i><c>show</c></NS> would <NS type="TV"><i>have began</i><c>begin</c></NS> at 20:15 <NS type="UN"><i>o'clock</i></NS> instead of 19:30 <NS type="UN"><i>o'clock</i></NS> as <NS type="RV"><i>indicated</i><c>advertised</c></NS>. So we had to <NS type="RV"><i>arrest</i><c>rest</c></NS> for a while and had a drink.</p>
+          <p><NS type="ID"><i>To make the matters worse</i><c>To make matters worse</c></NS> Danny Brook<NS type="MP"><c>,</c></NS> who was <NS type="RV"><i>announced</i><c>advertised</c></NS> as one of the starring <NS type="RN"><i><NS type="AGN"><i>person</i><c>persons</c></NS></i><c>actors</c></NS> in the musical<NS type="MP"><c>,</c></NS> was not acting this evening. You can imagine how disappointed we were<NS type="MP"><c>,</c></NS> especially <NS type="MC"><c>as</c></NS> the <NS type="W"><i>acting of Danny Brook</i><c>Danny Brook's acting</c></NS> was the main reason <NS type="UT"><i>for</i></NS> <NS type="RA"><i>us</i><c>we</c></NS> <NS type="MV"><c>went</c></NS> to see the musical.</p>
+          <p>On top of this we <NS type="TV"><i>intend</i><c>intended</c></NS> to go to the theatre restaurant<NS type="MP"><c>,</c></NS> which was closed because of building activities.</p>
+          <p>As you can imagine we were very disappointed and it wasn't a perfect evening out<NS type="MP"><c>.</c></NS> I would like to have 50% of the <NS type="RN"><i>prize</i><c>price</c></NS> of the tickets back.</p>
+          <p>I am looking forward to your <NS type="S"><i>promt</i><c>prompt</c></NS> reply.</p>
+          <p>yours faithfully,</p>
+          <p>Heine Bitz</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>What would we wear in 100 years time?</p>
+          <p>Fashion will always be an interesting and important subject for all ages. Today the fashion <NS type="S"><i>industrie</i><c>industry</c></NS> has a great importance in the commercial market. In the next 100 years there will be no change in that but <NS type="UD"><i>the</i></NS> fashion is going to develop in a special imaginative way.</p>
+          <p>Firstly, the material of which clothes are made <NS type="RV"><i>has</i><c>is</c></NS> <NS type="MT"><c>of</c></NS> a wide <NS type="RN"><i>range</i><c>variety</c></NS>. There are the natural <NS type="AGN"><i>material</i><c>materials</c></NS> on one side whereas on the other side the fashion industry <NS type="AGV"><i>produce</i><c>produces</c></NS> more and more <NS type="DJ"><i>syntetical</i><c>synthetic</c></NS> <NS type="RN"><i>clothes</i><c>materials</c></NS>, which <NS type="RV">relay on</NS> the production cost.</p>
+          <p>In 100 years most <NS type="U"><i>of the</i></NS> clothes <NS type="TV"><i>are</i><c>will be</c></NS> made from <NS type="DJ"><i>syntetical</i><c>synthetic</c></NS> material.</p>
+          <p>Beyond <NS type="MA"><c>that</c></NS> colours will play an important role in the next century for <NS type="UD"><i>the</i></NS> fashion. Light and bright colours will be very common. <NS type="W"><i><NS type="MD"><i>Especially</i><c>The especially</c></NS> contrast will be</i><c>The contrast will be especially</c></NS> <NS type="S"><i>attractiv</i><c>attractive</c></NS>.</p>
+          <p>Furthermore the style of the clothes <NS type="AGV"><i>are</i><c>is</c></NS> going to be more crazy and <NS type="S"><i>individuell</i><c>individual</c></NS> but there will <NS type="W"><i>be still</i><c>still be</c></NS> <NS type="S"><i>enumerous</i><c>numerous</c></NS> clothes for <NS type="UD"><i>the</i></NS> <NS type="RJ"><i>solid</i><c>conservative</c></NS> people.</p>
+          <p><NS type="ID"><i>One balance</i><c>On balance</c></NS> fashion in 100 years time will be <NS type="S"><i>confortable</i><c>comfortable</c></NS> and colourful. The fashion industry will deliver a wide <NS type="UN"><i>range</i></NS> <NS type="W"><i>of <NS type="S"><i>vararity</i><c>variety</c></NS></i><c>variety of</c></NS> <NS type="UT"><i>in</i></NS> <NS type="AGN"><i>style</i><c>styles</c></NS>, <NS type="AGN"><i>material</i><c>materials</c></NS> and <NS type="AGN"><i>colour</i><c>colours</c></NS>. There will be clothes for <NS type="MP"><i>everyones</i><c>everyone's</c></NS> <NS type="S"><i>tast</i><c>taste</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

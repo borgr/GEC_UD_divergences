@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR526*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about some problems I had when I went to the Circle Theatre two weeks ago.</p>
+          <p>Firstly, Danny Brook and Tina Truelove were supposed to perform in the show but instead of them different actors performed <NS type="MP"><c>- </c></NS>badly.</p>
+          <p>Secondly, the show should have <NS type="UV"><i>had</i></NS> started at 19:30 but it started <NS type="FJ"><i>later</i><c>late</c></NS>, at 20:15. The Theatre also promised discounts, which were not available, so I had to pay the full amount.</p>
+          <p>I also wanted to visit the Theatre Restaurant after the show, but <NS type="RA"><i>it</i><c>that</c></NS> was impossible because it closed at 20:30 and the show finished at 21:00</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS>, I would like to ask you <NS type="MT"><c>for</c></NS> £20 back as I was not satisfied with your services. I hope you pay attention to my <NS type="DN"><i>complains</i><c>complaints</c></NS>. I would not like to take legal action, as it would not be convenient for <NS type="RQ"><i>both</i><c>either</c></NS> of us, but I will if I consider it necessary.</p>
+          <p>I will be looking forward to hearing from you.</p>
+          <p>Yours Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets but she was my best friend and I had to tell someone what had happened to me.</p>
+          <p>So I phoned her and told her the whole story. Last weekend <NS type="RT"><i>in</i><c>at</c></NS> the Local Festival, <NS type="RA"><i>that</i><c>which</c></NS> is held every year in our Town, I was walking with my little sister, who is three years old. She started running and got lost. So while I was looking for her I saw the Director of my school, Mr Smythe, stealing money from a small shop. I could not believe my eyes! When Mr Smythe saw me there, he told me: "If you say a word you're going to be in serious trouble."</p>
+          <p>But Pat could not resist the <NS type="S"><i>temptention</i><c>temptation</c></NS> <NS type="UT"><i>of</i></NS> <NS type="FV"><i>calling</i><c>to call</c></NS> the police. We were at school when she told me this and Mr Smythe went to our class and said to me<NS type="MP"><c>,</c></NS> "May I talk to you?". <NS type="RT"><i>In</i><c>At</c></NS> that moment I felt so nervous and terrified that I <NS type="TV"><i>faint</i><c>fainted</c></NS>.</p>
+          <p>When I came <NS type="RY"><i>around</i><c>to</c></NS> Mr Smythe was under arrest and<NS type="MP"><c>,</c></NS> fortunately, <NS type="MD"><c>this</c></NS> thing finished well for me.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

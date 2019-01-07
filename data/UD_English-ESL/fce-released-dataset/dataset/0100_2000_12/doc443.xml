@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR176*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Wawsaw, 12th December 2000</p>
+          <p>Dear Mr Robertson,</p>
+          <p>First of all, we would like to thank you very much for organising such a <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS> trip with an interesting <NS type="SA"><i>program</i><c>programme</c></NS>. We are all extremely excited<NS type="MP"><c>,</c></NS> especially because of the trip to Greenwich, the town we <NS type="TV"><i>were always</i><c>have always been</c></NS> interested in.</p>
+          <p>However, there are <NS type="SX"><i>may</i><c>many</c></NS> other interesting places and exhibitions to see in London. For example, <NS type="RT"><i>in</i><c>at</c></NS> the time of our visit there is going to be "The London Fashion and Leisure Show". It is a <NS type="S"><i>coinsidence</i><c>coincidence</c></NS> which we would be extremely happy to take advantage <NS type="RT"><i>on</i><c>of</c></NS>. This is a great opportunity for us to see the latest fashions and famous fashion models who we would like to have <NS type="S"><i>authograps</i><c>autographs</c></NS> from.</p>
+          <p>We hope changing the excursion <NS type="SA"><i>program</i><c>programme</c></NS> a little will not cause any problems. Our suggestion is to visit <NS type="MD"><c>the</c></NS> Science Museum on Wednesday afternoon instead of Tuesday<NS type="UP"><i>. Because</i><c> because</c></NS> the fashion show lasts a whole day <NS type="UY"><i>long</i></NS>. We are ready to give up our shopping and <NS type="RP"><i>Free</i><c>free</c></NS> time. The show starts on 14th March at 10.00 and ends at 19.00 the same day. We are sorry for any inconvenience caused by our request.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Famous people are living creatures. They breathe, eat, feel and <NS type="RT"><i>beside</i><c>aside from</c></NS> <NS type="M"><c>the fact</c></NS> that they are famous they are just the same as anyone else.</p>
+          <p>Nobody likes to be observed constantly or touched by strangers and pointed out in the streets with no right even <NS type="DT"><i>or</i><c>to</c></NS> just a little privacy. I personally think the best <NS type="MN"></NS> would be to put the celebrities in cages and let people touch them, point and ask for <NS type="S"><i>authopraps</i><c>autographs</c></NS><NS type="RP"><i>. Like</i><c>, like</c></NS> in the zoo. The biggest commercial <NS type="RN">gain</NS> in history<NS type="MP"><c>,</c></NS> I believe, but celebrities are not animals although they may be sometimes treated the same way.</p>
+          <p>On the other hand, they must have done something to become famous. It may<NS type="MP"><c>,</c></NS> in many cases, not be true but we can suspect that most of them wanted to become a celebrity and they had to know <NS type="R">there is no private life <NS type="DY">unseparately</NS> <NS type="S"><i>contected</i><c>connected</c></NS> to it</NS>.</p>
+          <p>To sum up, I believe that everyone has the right to <NS type="RV">keep</NS> <NS type="MD"><c>the</c></NS> privacy of their own homes and even someone extremely famous <NS type="AGV"><i>deserve</i><c>deserves</c></NS> to have a private life. Unfortunately as long as their private life is interesting for ordinary people and it brings commercial gain to publishers, journalists and photographers, famous people will just have to get <NS type="DJ"><i>use</i><c>used</c></NS> to this living "under a microscope".</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

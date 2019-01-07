@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR790*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I have recently received your letter informing <NS type="MA"><c>me</c></NS> <NS type="MC"><c>that</c></NS> I <NS type="TV"><i>won</i><c>have won</c></NS> a <NS type="W"><i><NS type="UP"><i>two-week-holiday</i><c>two-week holiday</c></NS> prize</i><c>prize <NS type="MT"><c>of</c></NS> <NS type="MD"><c>a</c></NS> two-week holiday</c></NS> at <NS type="UD"><i>the</i></NS> Camp California. Enclosing <NS type="MD"><c>the</c></NS> information you asked for, there are some points<NS type="UP"><i>,</i></NS> I want to point out.</p>
+          <p>First of all, I will not have finished my university course until the end of <NS type="UD"><i>the</i></NS> June so I can only travel in July. I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> <NS type="MY"><c>rather</c></NS> than <NS type="MD"><c>a</c></NS> log <NS type="AGN"><i>cabins</i><c>cabin</c></NS>. Since I was a child, I have been <NS type="S"><i>intrested</i><c>interested</c></NS> in camping and sleeping <NS type="RT"><i>under</i><c>in</c></NS> <NS type="UD"><i>the</i></NS> tents.</p>
+          <p>If I can participate <NS type="RT"><i>on</i><c>in</c></NS> swimming and photography groups, I will be grateful. I have been swimming <NS type="W"><i>for 8 years for a club</i><c>for a club for 8 years</c></NS> and <NS type="TV"><i>enjoying</i><c>enjoy</c></NS> <NS type="MA"><c>it</c></NS> a lot. I am afraid<NS type="UP"><i>,</i></NS> I am not good at photography but I want to improve <NS type="UA"><i>it</i></NS>.</p>
+          <p>I need some more information about <NS type="UD"><i>the</i></NS> camp life and also I would like to know what I need to take with me. For <NS type="S"><i>exemple</i><c>example</c></NS>, how much pocket money will be enough and <NS type="R"><i>which</i><c>what</c></NS> kind of clothes I should wear<NS type="UP"><i>.</i></NS>.</p>
+          <p>I hope to receive your reply soon. I am really looking forward to going <NS type="MT"><c>to</c></NS> this camp.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Subject: <NS type="FN"><i>Suggestion</i><c>Suggestions</c></NS> about lessons and activities <NS type="MA"><c>which</c></NS> should be filmed.</p>
+          <p>A - Lessons</p>
+          <p>English</p>
+          <p>It is one of the most popular <NS type="AGN"><i>subject</i><c>subjects</c></NS> in the school. Also, because this video is their project, it should be filmed.</p>
+          <p>Drama</p>
+          <p>Seeing that this is the first year of <NS type="UD"><i>the</i></NS> drama lessons, it is not very well known. Also they are <NS type="RV"><i>showing</i><c>putting on</c></NS> their first play on the 2nd of July. Part of the show <NS type="TV"><i>can</i><c>could</c></NS> be filmed.</p>
+          <p>Maths</p>
+          <p><NS type="RT"><i>Regarding</i><c>Considering</c></NS> that the school's maths team won <NS type="UD"><i>the</i></NS> this year's <NS type="UP"><i>city's</i><c>city</c></NS> maths competition and is going <NS type="MY"><c>on</c></NS> to the national <NS type="RP"><i>school's</i><c>schools'</c></NS> maths championship, it <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="MD"><c>a</c></NS> good idea to film some of their training <NS type="AGN"><i>course</i><c>courses</c></NS> and also ordinary maths <NS type="AGN"><i>lesson</i><c>lessons</c></NS> <NS type="R"><i>where</i><c>which</c></NS> the majority of the students attend.</p>
+          <p>B- Social Activities</p>
+          <p>To show <NS type="UD"><i>the</i></NS> life at the school <NS type="MA"><c>we</c></NS> <NS type="RV"><i>is</i><c>need</c></NS> not only lessons and exams, the video should <NS type="MY"><c>also</c></NS> <NS type="TV"><i>be <NS type="S"><i>inclued</i><c>included</c></NS></i><c>include</c></NS> the annual summer <NS type="RP"><i>Fete</i><c>fete</c></NS>, <NS type="MD"><c>the</c></NS> school's weekend trip which is on Friday 7th of July<NS type="MP"><c>,</c></NS> and also the dance which is organized on the last day of the school year.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

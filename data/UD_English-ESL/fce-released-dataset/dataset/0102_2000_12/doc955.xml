@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR397*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>16.12.2000</p>
+          <p>Dear Jane Clark,</p>
+          <p>I went to the "International Arts Festival" on 21-22 November. The festival was generally good but I have some suggestions for <NS type="UD"><i>the</i></NS> next year's festival.</p>
+          <p>Firstly I want to <NS type="S"><i>congratualate</i><c>congratulate</c></NS> you <NS type="RT"><i>for</i><c>on</c></NS> the festival. It was a great idea. However there were things that I didn't like. You said that stars and artists would come from around the world but there <NS type="AGV"><i>was</i><c>were</c></NS> only <NS type="RN"><i>starts</i><c>stars</c></NS> from six major countries. I suggest you <NS type="TV"><i>to increase</i><c>increase</c></NS> this number for <NS type="UD"><i>the</i></NS> next year. <NS type="RT"><i>By</i><c>In</c></NS> this way we can meet other stars and artists, see different cultures. Another thing that I <NS type="RV"><i>will</i><c>want to</c></NS> point <NS type="RY"><i>on</i><c>out</c></NS> is, the concert halls are too small. Some people couldn't <NS type="RV"><i>enter</i><c>get into</c></NS> the hall and they missed the concerts. There were some plays and films. They were excellent so can you show more plays next year? <NS type="MD"><c>The</c></NS> <NS type="RP"><i>Last</i><c>last</c></NS> thing that I will say is "one reasonably-priced weekend ticket"<NS type="UP"><i>.</i></NS> <NS type="UA"><i>It</i></NS> was <NS type="MD"><c>a</c></NS> very good idea. I hope you will <NS type="RV"><i>make</i><c>do</c></NS> the same thing next year.</p>
+          <p>These are <NS type="UD"><i>the</i></NS> my suggestions. I hope you will listen <NS type="MT"><c>to</c></NS> my suggestions. This will make the festival better. I hope we will meet next year <NS type="RT"><i>in</i><c>at</c></NS> the festival.</p>
+          <p><NS type="MA"><c>Yours</c></NS> <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>16.12.2000</p>
+          <p>Dear Emily,</p>
+          <p><NS type="TV"><i>I'm</i><c>I was</c></NS> glad to see your letter. I'm fine thanks and my parents are also <NS type="RJ"><i>good</i><c>well</c></NS>. How are you and your <NS type="FN"><i>parent</i><c>parents</c></NS>? <NS type="UP"><i>I'</i><c>I</c></NS> hope they are both well.</p>
+          <p>I have a <NS type="S"><i>suprise</i><c>surprise</c></NS> for you. I <NS type="TV"><i>will <NS type="RV"><i>go</i><c>come</c></NS></i><c>am coming</c></NS> to <NS type="MN"><c>England</c></NS> this summer. <NS type="RP"><i>May be</i><c>Maybe</c></NS> we can meet there... You asked some questions about <NS type="MD"><c>the</c></NS> rules in school and homes<NS type="MP"><c>.</c></NS> Let me answer <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="AGN"><i>question</i><c>questions</c></NS>. In schools we aren't allowed to speak in <NS type="FN"><i>classes</i><c>class</c></NS>. Also we must go to school <NS type="RT"><i>by</i><c>in</c></NS> our uniforms. However we are allowed to eat<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> drink during the breaks. <NS type="W"><i>All the time we must be kind to our friends and teachers</i><c>We must be kind to our friends and teachers all the time</c></NS>. We mustn't forget the books for the classes. These are the rules in school. In our home there are some rules too! I must be <NS type="RT"><i>in</i><c>at</c></NS> home <NS type="RT"><i><NS type="S"><i>untill</i><c>until</c></NS></i><c>by</c></NS> 11pm. I am not allowed to listen <NS type="MT"><c>to</c></NS> <NS type="DJ"><i>high volume</i><c>loud</c></NS> music at home. I must be kind to my brother and my parents. When <NS type="UD"><i>the</i></NS> guests come to our home, I must be <NS type="RJ"><i>clear</i><c>clean</c></NS>. Other things are allowed to me. I want to change <NS type="MD"><c>the</c></NS> school uniform rule so everybody can wear what they want. <NS type="MD"><c>The</c></NS> <NS type="RP"><i>Other</i><c>other</c></NS> rules are O.K. I want to hear some rules from you. Next time write the letter <NS type="DY"><i>quick</i><c>quickly</c></NS>! I don't want to wait another 2 months.</p>
+          <p>I'm waiting for your next letter. Take care and be careful not to break any rules.</p>
+          <p>Your friend</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

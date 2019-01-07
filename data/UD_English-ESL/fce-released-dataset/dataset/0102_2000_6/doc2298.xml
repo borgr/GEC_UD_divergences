@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR922*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>31-40</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>June 17, 2000</p>
+          <p>Dear Manager,</p>
+          <p><NS type="RT"><i>As for</i><c>Regarding</c></NS> <NS type="UD"><i>the</i></NS> "Over The Rainbow"<NS type="MP"><c>,</c></NS> presented <NS type="RT"><i>by</i><c>at</c></NS> your theatre last night, I would like to inform you of the following problems.</p>
+          <p>Firstly, the starring actor was different from the one who had been mentioned <NS type="RT"><i>on</i><c>in</c></NS> the advertisement for this musical show as "Danny Brook". As I was so looking <NS type="S"><i>foreward</i><c>forward</c></NS> to seeing Danny's <NS type="RN"><i>stage</i><c>performance</c></NS>, I was very disappointed. I think you should have informed us of <NS type="MD"><c>the</c></NS> <NS type="RN"><i>changing</i><c>change</c></NS> <NS type="MT"><c>of</c></NS> <NS type="DN"><i>starring</i><c>star</c></NS> before starting <NS type="UT"><i>of</i></NS> the show. In addition, I'd like to know the reason why the actor was <NS type="RV"><i>changed</i><c>replaced</c></NS>.</p>
+          <p>Secondly, the show started at 20:15 instead of 19:30 <NS type="MT"><c>as</c></NS> mentioned <NS type="RT"><i>on</i><c>in</c></NS> the advertisement.</p>
+          <p><NS type="UT"><i>As the</i><c>The</c></NS> third point<NS type="R"><i>,</i><c> is</c></NS> our tickets were not <NS type="RV"><i>discounted</i><c>reduced</c></NS> at all! The <NS type="UP"><i>Ad.</i><c>Ad</c></NS> says that <NS type="R">TICKETS: Discounts Available</NS>.</p>
+          <p>Lastly, your theatre restaurant <NS type="TV"><i>had been</i><c>was</c></NS> <NS type="W"><i>closed already</i><c>already closed</c></NS> when the show <NS type="TV"><i>was finished</i><c>finished</c></NS>, because the <NS type="UN"><i>time of</i></NS> <NS type="RN"><i><NS type="S"><i>begining</i><c>beginning</c></NS></i><c>start</c></NS> of the show was late.</p>
+          <p>As <NS type="W"><i>above <NS type="RV"><i>mentioned</i><c>described</c></NS></i><c>described above</c></NS>, it <NS type="TV"><i><NS type="RP"><i>can not</i><c>cannot</c></NS></i><c>could not</c></NS> be a "perfect evening". There are lots of reasons why I was so disappointed, and could not enjoy the show, you see!! Therefore, <NS type="MA"><c>I</c></NS> would be grateful if you could give me back some money.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. She <NS type="AS"><i>told about our plan, indeed our "secret plan", to Sally</i><c>told Sally about our plan, indeed our "secret plan"</c></NS>! How foolish!</p>
+          <p>But, Mark, Pat and I were planning a <NS type="UP"><i>birthday-party</i><c>birthday party</c></NS> for Sally on June 2 at her own home. It should have been "surprising". Sally's husband is now in Singapore on business, so she had to spend her birthday without him. Considering her loneliness, we made every effort to please her and to encourage her; because she was loved by everybody for her gentle, kind and lovely character. She was not so lucky in her life. Her parents <NS type="TV"><i>already died</i><c>had already died</c></NS> when she was in <NS type="UD"><i>the</i></NS> <NS type="UP"><i>high-school</i><c>high school</c></NS>. She has no brothers and sisters. After marriage, Sally and her husband Nigel realized that they would not be able to have <NS type="UD"><i>their</i></NS> children. In spite of such difficulties, she always <NS type="RV"><i>shows</i><c>has</c></NS> a pretty<NS type="MP"><c>,</c></NS> charming smile <NS type="RT"><i>to</i><c>for</c></NS> us.</p>
+          <p>On June 2, because of Pat's <NS type="RN"><i>fault</i><c>mistake</c></NS>, Sally already knew our plan. We were enjoying <NS type="MA"><c>ourselves</c></NS> at <NS type="MD"><c>her</c></NS> home celebrating her birthday.</p>
+          <p>Suddenly, the door was opened.</p>
+          <p>"Good Evening!"</p>
+          <p>"Oh! You came back for me! Nigel<NS type="MP"><c>,</c></NS>" Sally cried with pleasure.</p>
+          <p>Nigel himself was a big "<NS type="RJ"><i>surprising</i><c>surprise</c></NS>" present for Sally. I <NS type="TV"><i>never forget</i><c>will never forget</c></NS> her happy face .....</p>
+          <p>We <NS type="RV"><i>spent</i><c>had</c></NS> a brilliant night.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

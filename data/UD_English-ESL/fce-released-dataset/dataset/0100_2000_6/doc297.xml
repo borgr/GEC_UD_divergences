@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1141*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>8 Jun 2000</p>
+          <p>Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>Dear Sir</p>
+          <p>At the <NS type="S"><i>begining</i><c>beginning</c></NS> I would like to thank You for Your letter - it pleased me much. I have always dreamt about holidays 'in Camp California'</p>
+          <p>However there are some problems that I hope to solve. First of all the only suitable time for me to go is July. It is the only time when I am free from my duties - I am a doctor so you see that I <NS type="RP"><i>can not</i><c>cannot</c></NS> let my patients down. If we are talking about <NS type="S"><i>accomodation</i><c>accommodation</c></NS> then <NS type="S"><i>accomodation</i><c>accommodation</c></NS> in tents would be great - I love being close to <NS type="UD"><i>the</i></NS> nature. I would <NS type="W"><i>like <NS type="RP"><i>You</i><c>you</c></NS> to know also</i><c>also like you to know</c></NS> about my two <NS type="IN"><i>hobbys</i><c>hobbies</c></NS>: swimming and surfing. I am not <NS type="RV"><i>telling</i><c>talking</c></NS> about some kind of <NS type="S"><i>achivements</i><c>achievements</c></NS> in those <NS type="S"><i>discipines</i><c>disciplines</c></NS> but <NS type="AGA"><i><NS type="RP"><i>It</i><c>it</c></NS></i><c>they</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> my big <NS type="S"><i>pasion</i><c>passion</c></NS></p>
+          <p>I hope to have a chance to <NS type="DV"><i>practice</i><c>practise</c></NS> both of <NS type="SX"><i>theme</i><c>them</c></NS> at 'Camp California'.</p>
+          <p>There is also one thing that I would like to ask <NS type="RP"><i>You</i><c>you</c></NS> about. The question is: Do I need some extra money and what kind of clothes should I take for this trip?</p>
+          <p>Yours sincerely</p>
+          <p>Anna Nowak</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="R"><NS type="S"><i>Unconected</i><c>Unconnected</c></NS> part of <NS type="AGQ"><i>every</i><c>all</c></NS> <NS type="MP"><i>people</i><c>people's</c></NS> <NS type="IN"><i>lifes</i><c>lives</c></NS> is shopping.</NS> We buy everything from clothes to food and the only thing that could stop us from this <NS type="AGV"><i>are</i><c>is</c></NS> money.</p>
+          <p>As a teenager I must <NS type="S"><i>addmit</i><c>admit</c></NS> that there is nothing more enjoyable <NS type="RT"><i>from</i><c>than</c></NS> shopping. It's like ,,walking in the clouds,, you feel like <NS type="M"><c>you are</c></NS> <NS type="S"><i>flaing</i><c>flying</c></NS>. Choosing <NS type="TV"><i>gave</i><c>gives</c></NS> me such <NS type="RJ"><i>big</i><c>great</c></NS> pleasure because I never have to worry <NS type="RT"><i>from</i><c>about</c></NS> <NS type="S"><i>vere</i><c>where</c></NS> <NS type="UV"><i>do</i></NS> I <NS type="RV"><i>take</i><c>get</c></NS> money for my wishes. It all comes from my parents. All I <NS type="RV"><i>ought</i><c>have</c></NS> to do is buy and choose. I think that ,,having is a dream'' <NS type="RT"><i>of</i><c>for</c></NS> all of us.</p>
+          <p>It's hard for me even to <NS type="S"><i>emagine</i><c>imagine</c></NS> <NS type="RD"><i>the</i><c>a</c></NS> situation when shopping is not enjoyable. Probably it is one of the moments when you want something <NS type="S"><i>baddly</i><c>badly</c></NS> and you can't have it. Another situation is when you have to buy somebody a present. Everybody <NS type="AGV"><i>know</i><c>knows</c></NS> that ,,present presents a problem'' You know your own <NS type="RN"><i>task</i><c>taste</c></NS> but what <NS type="RT"><i><NS type="S"><i>vith</i><c>with</c></NS></i><c>about</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> <NS type="RN"><i>task</i><c>taste</c></NS> of the other person?</p>
+          <p>However I can't agree with <NS type="MD"><c>the</c></NS> opinion that ,,Shopping is not always enjoyable'' I think that everybody <NS type="AGV"><i>like</i><c>likes</c></NS> to buy but not everybody <NS type="AGV"><i>like</i><c>likes</c></NS> to <NS type="RV"><i>see</i><c>take</c></NS> pleasure in it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

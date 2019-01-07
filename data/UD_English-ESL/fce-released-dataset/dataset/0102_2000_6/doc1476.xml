@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR573*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I have just returned from my holiday in London. During my stay I went to see a musical show <NS type="RT"><i>in</i><c>at</c></NS> the Circle Theatre and I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="MD"><c>a</c></NS> very disappointing evening.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> I expected Danny Brook and Tina Truelove but I felt very angry when I saw <NS type="S"><i>diffrent</i><c>different</c></NS> actors. What is more<NS type="MP"><c>,</c></NS> you <NS type="TV"><i><NS type="S"><i>advertize</i><c>advertise</c></NS></i><c>advertised</c></NS> there were discounts available but <NS type="RA"><i>it</i><c>there</c></NS> were not.</p>
+          <p>You said that the <NS type="S"><i>musicial</i><c>musical</c></NS> show started at 19.30 but <NS type="RY">recently</NS> it began at 20.15. I was very bored because I did not have anything to do when I was waiting for your show.</p>
+          <p>Additionally I felt very hungry and uncomfortable because your theatre restaurant was closed and you did not give us any reason why.</p>
+          <p>You promised us a big show and <NS type="MD"><c>a</c></NS> perfect evening but it was only an average show with unknown actors.</p>
+          <p>In my opinion<NS type="MP"><c>,</c></NS> you are not very <NS type="RJ">respectful</NS> and responsible. I will never trust you again. I would like you <NS type="FV"><i>give</i><c>to give</c></NS> me my money back as soon as possible.</p>
+          <p>I am looking <NS type="S"><i>foward</i><c>forward</c></NS> to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. As I remember<NS type="MP"><c>,</c></NS> I have known her for ever. She had always been my best friend and I had <NS type="RV"><i>said</i><c>told</c></NS> her everything. We lived in the same street and <NS type="W"><i>the weekends we spent together</i><c>we spent the weekends together</c></NS>.</p>
+          <p>When I <NS type="RV"><i>had</i><c>was</c></NS> 16 years old I fell in love with the most <NS type="S"><i>hundsom</i><c>handsome</c></NS> boy in our school. Paul was older than me and he <NS type="TV"><i>was playing</i><c>played</c></NS> basketball. Only Pat knew about my lover.</p>
+          <p>One day he invited us <NS type="RT"><i>for</i><c>to</c></NS> his party. I was very happy and nervous. Everything was great. But when Pat drank some beer she told him everything about me. Everybody started to <NS type="S"><i>laught</i><c>laugh</c></NS> at me. I was angry and I <NS type="TV"><i>run</i><c>ran</c></NS> away to the forest.</p>
+          <p>'She was my best friend, how can she do it to me<NS type="MP"><c>?</c></NS>' - - I was crying. When I was walking through the forest I saw a very tall man who was <NS type="RV"><i>staying</i><c>standing</c></NS> in front of me. 'My name is Jon' - he whispered - 'Don't be afraid'. We started to talk. This <NS type="RN"><i>alien</i><c>stranger</c></NS> was so intelligent and funny that I forgot about my troubles. We talked <NS type="UT"><i>for</i></NS> all night and I <NS type="TV"><i>fall</i><c>fell</c></NS> in love with him. We met again and again and now Jon is my husband. Maybe it was good that Pat was so talkative.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

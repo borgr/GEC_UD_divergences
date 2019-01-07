@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR648*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Mr. <NS type="S"><i>Maneger</i><c>Manager</c></NS>,</p>
+          <p>In this <NS type="S"><i>unconfortable</i><c>uncomfortable</c></NS> situation I am <NS type="IV"><i>writting</i><c>writing</c></NS> to tell you about some <NS type="RJ"><i><NS type="S"><i>irratable</i><c>irritable</c></NS></i><c>irritating</c></NS> problems. I went today to see Over the Rainbow, and I am very disappointed with the organisation of your theatre.</p>
+          <p>First of all, when I went to buy my tickets I discovered that the advertisement was saying false things because there wasn't any discount available, but <NS type="UT"><i>in</i></NS> <NS type="W"><i>anyway I bought the ticket</i><c>I bought the ticket anyway</c></NS>.</p>
+          <p>Then, the time <NS type="RV"><i>marked</i><c>stated</c></NS> <NS type="RT"><i>to</i><c>as</c></NS> the beginning <NS type="M"><c>of the show</c></NS> was 19:30 and <NS type="DY"><i>unfortunatly</i><c>unfortunately</c></NS> <NS type="RA"><i>he</i><c>it</c></NS> began at 20:15.</p>
+          <p>I have already<NS type="UP"><i>,</i></NS> <NS type="TV"><i>saw</i><c>seen</c></NS> <NS type="IQ"><i>others</i><c>other</c></NS> versions of this musical and Danny Brook is a bad actor, <NS type="R">who ended with the musical</NS>.</p>
+          <p><NS type="ID">Closing <NS type="AGD"><i>this</i><c>these</c></NS> facts</NS>, when the musical finished I was very <unknown/>, <NS type="R"><i>in the fact of the</i><c>after</c></NS> <NS type="S"><i>wainting</i><c>waiting</c></NS> for the start of the musical and <NS type="M"><c>I was</c></NS> <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> with this version of Over the Rainbow<NS type="RP"><i>, every body</i><c>. Everybody</c></NS> went to the restaurant<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> <NS type="TV"><i>is</i><c>was</c></NS> closed without any explanation.</p>
+          <p>I am very <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> with this evening and with <NS type="RD"><i>the</i><c>this</c></NS> <NS type="S"><i>desorganized</i><c>disorganised</c></NS> way of <NS type="FV"><i>deal</i><c>dealing</c></NS> with problems so I am asking <NS type="MT"><c>for</c></NS> my money back.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. He has a <NS type="RP"><i>bestfriend</i><c>best friend</c></NS>, <NS type="RA"><i>that</i><c>who</c></NS> was more like a brother <NS type="RT"><i>for</i><c>to</c></NS> him. They always <NS type="TV"><i>done</i><c>did</c></NS> <NS type="AGN"><i>thing</i><c>things</c></NS> together, and they were the most popular boys in school<NS type="RP"><i>, both</i><c>. Both</c></NS> were very <NS type="S"><i>hanson</i><c>handsome</c></NS>, played football<NS type="MP"><c>;</c></NS> they were <NS type="RD"><i>the</i><c>an</c></NS> example for everybody. <NS type="M"><i>Before</i><c>That was before</c></NS> <NS type="RD"><i>one</i><c>the</c></NS> day<NS type="UP"><i>,</i></NS> when Pat discovered that his brother was gay<NS type="RP"><i>, after</i><c>. After</c></NS> <NS type="RA"><i>this</i><c>that</c></NS> their relationship <NS type="TV"><i>has change</i><c>changed</c></NS>. Pat was very frightened <NS type="RT"><i>with</i><c>by</c></NS> this situation.</p>
+          <p>Pat and Ted<NS type="UP"><i>,</i></NS> <NS type="W"><i>had always</i><c>always had</c></NS> competition, and Ted used to be the best<NS type="RP"><i>, he</i><c>. He</c></NS> <NS type="W"><i>never had</i><c>had never</c></NS> failed and people in general <NS type="UN"><i><NS type="S"><i>constums</i><c>customs</c></NS></i></NS> <NS type="TV"><i>to like</i><c>liked</c></NS> <NS type="W"><i>more Ted</i><c>Ted more</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I don't <NS type="SX"><i>now</i><c>know</c></NS> why.</p>
+          <p>This secret was an opportunity for Pat <NS type="FV"><i>be</i><c>to be</c></NS> the best without <NS type="MQ"><c>any</c></NS> competition but it <NS type="TV"><i>is</i><c>was</c></NS> a secret <NS type="RA"><i>who</i><c>that</c></NS> involved his best <NS type="MP"><i>friend</i><c>friend's</c></NS> sexuality, and if Ted <NS type="TV"><i>was</i><c>had been</c></NS> a normal person it <NS type="TV"><i>will be</i><c>would have been</c></NS> fine but he was <NS type="RD"><i>the</i><c>an</c></NS> example for all <NS type="MD"><c>the</c></NS> school.</p>
+          <p>Unable to keep a secret he told <NS type="UT"><i>for</i></NS> everyone, ended his friendship with Ted<NS type="RP"><i>, now</i><c>. Now</c></NS> Ted is <NS type="DJ"><i>rejective</i><c>rejected</c></NS> <NS type="RT"><i>for</i><c>by</c></NS> everyone, no one talks to him and Pat is the example, but without his best friend and his <NS type="S"><i>honestity</i><c>honesty</c></NS>.</p>
+          <p>I <NS type="MV"><c>would</c></NS> prefer <NS type="FV"><i>be</i><c>to be</c></NS> nothing than <NS type="RV"><i>bun</i><c>to be</c></NS> like Pat</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

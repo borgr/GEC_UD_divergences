@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR287*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I am so pleased to know that I have won such <NS type="MD"><c>an</c></NS> amazing prize in your competition. I <NS type="MV"><c>would</c></NS> like to answer the questions you <NS type="TV"><i><NS type="RV"><i>request from</i><c>ask</c></NS></i><c>have asked</c></NS> me.</p>
+          <p>Firstly, I should say that I would like to travel in July because <NS type="UT"><i>of</i></NS> <NS type="RA"><i>this</i><c>that</c></NS> is the month <NS type="S"><i>wich</i><c>which</c></NS> I could <NS type="FY"><i>more</i><c>most</c></NS> likely have off <NS type="RT"><i>at</i><c>from</c></NS> work <NS type="UT"><i>for</i></NS> <NS type="FV"><i>going</i><c>to go</c></NS> on holiday.</p>
+          <p>Secondly, I would prefer to stay <NS type="RT"><i>at</i><c>in</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> rather than <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>. That is because<NS type="MP"><c>,</c></NS> I do not want to seem <NS type="S"><i>fuzy</i><c>fussy</c></NS><NS type="MP"><c>,</c></NS> but I like to have some <NS type="RN"><i><NS type="S"><i>comodities</i><c>commodities</c></NS></i><c>luxuries</c></NS> when I am going on holiday and I think <NS type="S"><i>slepping</i><c>sleeping</c></NS> <NS type="RT"><i>over</i><c>on</c></NS> the floor without electricity <NS type="UA"><i>it</i></NS> may annoy me.</p>
+          <p>Finally, I <NS type="MV"><c>would</c></NS> like to choose swimming as <NS type="MD"><c>my</c></NS> activity in the Camp. I love swimming and also I should say that I am very good at this sport because I have been doing <NS type="RA"><i>that</i><c>it</c></NS> for <NS type="MD"><c>a</c></NS> long time. <NS type="ID"><i>On the contrary</i><c>Conversely</c></NS>, painting is an activity <NS type="S"><i>wich</i><c>which</c></NS> I have never <NS type="IV"><i>tryied</i><c>tried</c></NS> before, so <NS type="UA"><i>that</i></NS> I have not any skill in drawing but I <NS type="MV"><c>would</c></NS> like <NS type="FV"><i>start</i><c>to start</c></NS> doing that <NS type="SX"><i>know</i><c>now</c></NS> when I have the chance. So that is my second choice.</p>
+          <p><NS type="ID">On the other hand,</NS> I would like to know some <NS type="S"><i>imformation</i><c>information</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> could be useful <NS type="RT"><i>in</i><c>on</c></NS> my holiday like: <NS type="RQ"><i>which</i><c>what</c></NS> type of clothes <NS type="RV"><i>could</i><c>would</c></NS> be more suitable for me in the Camp? Could I need some extra money? Do I need to bring <NS type="RA"><i>something</i><c>anything</c></NS> else? If <NS type="UV"><i>is</i></NS> so, please let me know as soon as possible.</p>
+          <p><NS type="FV"><i>to look</i><c>looking</c></NS> forward to getting your Reply</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear friend.</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to tell you about my experience <NS type="RT"><i>in</i><c>at</c></NS> the <NS type="W"><i>last month pop concert</i><c>pop concert last month</c></NS>, where I was helping my friend Nick<NS type="MP"><c>,</c></NS> who was the bouncer <NS type="RT"><i>of</i><c>at</c></NS> the <NS type="RN"><i>place</i><c>venue</c></NS>.</p>
+          <p><NS type="RA"><i>That</i><c>It</c></NS> was a pop concert with lots of famous singers like Madona, Julio Iglesias, and people like them</p>
+          <p><NS type="RA"><i>That</i><c>It</c></NS> was a charity concert to <NS type="RV"><i>save</i><c>raise</c></NS> money <NS type="RT"><i>to</i><c>for</c></NS> poor people <NS type="RT"><i>of</i><c>in</c></NS> AFRICA.</p>
+          <p>My job <NS type="UA"><i>it</i></NS> was to <NS type="CE"><NS type="S"><i>accomodate</i><c>accommodate</c></NS> to the people of the main sit of the <NS type="S"><i>theathre</i><c>theatre</c></NS></NS>. Of course those places were reserved just for <NS type="W"><i>people <NS type="DJ"><i>well-knowed</i><c>well-known</c></NS></i><c>well-known people</c></NS> who wanted to help by <NS type="RV"><i><NS type="FV"><i>joined</i><c>joining</c></NS></i><c>attending</c></NS> the concert.</p>
+          <p>So I had to ask them for their <NS type="CN"><i>identifications</i><c>identification</c></NS> and for their invitations. After that, I <NS type="TV"><i>have</i><c>had</c></NS> to take them to their respective <NS type="DN"><i><NS type="SX"><i>sit</i><c>seat</c></NS></i><c>seats</c></NS>.</p>
+          <p>At first, I was a bit <NS type="DJ"><i>scare</i><c>scared</c></NS>, I mean<NS type="MP"><c>,</c></NS> I was afraid <NS type="MT"><c>of</c></NS> not <NS type="FV"><i>be</i><c>being</c></NS> good enough to <NS type="RV"><i>have</i><c>do</c></NS> <NS type="R"><i>a good performance</i><c>well</c></NS> as <NS type="MD"><c>an</c></NS> assistant; but finally <NS type="RP"><i>every thing</i><c>everything</c></NS> went well.</p>
+          <p>I should say that it was the easiest and <NS type="RY"><i>more</i><c>most</c></NS> interesting job that I have ever done. I really enjoyed it and also I did not miss the opportunity to ask the artist to <NS type="R"><i>take a <NS type="S"><i>photho</i><c>photo</c></NS></i><c>have his photo taken</c></NS> with me.</p>
+          <p>So, I hope to see you <NS type="R"><i>earliest</i><c>soon</c></NS> to show <NS type="MA"><c>you</c></NS> all my <NS type="S"><i>phothos</i><c>photos</c></NS>.</p>
+          <p>I think<NS type="UP"><i>,</i></NS> it was very <NS type="SX"><i>cleaver</i><c>clever</c></NS> of me to record that moment <NS type="S"><i>wich</i><c>which</c></NS> I will never ever forget, and that was the <NS type="SX"><i>think</i><c>thing</c></NS> that I <NS type="W"><i><NS type="RY"><i>more</i><c>most</c></NS> liked</i><c>liked most</c></NS> <NS type="RT"><i>of</i><c>about</c></NS> that experience.</p>
+          <p>Looking forward to getting your reply and to seeing you soon</p>
+          <p>lots of love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

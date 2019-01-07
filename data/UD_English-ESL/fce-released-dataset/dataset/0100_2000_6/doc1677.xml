@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR663*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>51+</age></personnel><score>29.0</score></candidate>
+
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am writing in reply to your letter in which you <NS type="TV"><i><NS type="RV"><i>communicate</i><c>tell</c></NS></i><c>told</c></NS> <NS type="MA"><c>me</c></NS> I have won first prize in your <NS type="S"><i>competion</i><c>competition</c></NS>. I am glad. Thank you very much. Now I am answering your questions and then I would like to know <NS type="MQ"><c>some</c></NS> further information about travel and <NS type="S"><i>accomodation</i><c>accommodation</c></NS>.</p>
+          <p>I would like to travel in July because in June I am going to take some exams at <NS type="RP"><i>University</i><c>university</c></NS> and at the moment I do not know the exact date. I can tell you I am only free in July.</p>
+          <p>I would prefer <NS type="R"><i>an <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>to stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I am not keen on tents and I think that a log cabin is more comfortable than a tent.</p>
+          <p><NS type="ID"><i>As regard as</i><c>As regards</c></NS> the chance to do two activities while I am at the Camp I would like to <NS type="RV"><i>practise</i><c>do</c></NS> painting and photography. I <NS type="R"><i>am a painter</i><c>paint</c></NS> in oils from life and my subjects are landscapes, people, animals. I <NS type="W"><i>like also</i><c>also like</c></NS> taking photographs, for example during my journeys or trips. So when I go back home I can use my best pictures to reproduce them as a painting.</p>
+          <p>Would you give me some information about <NS type="MQ"><c>me</c></NS> clothes to wear there? I would <NS type="W"><i>like also</i><c>also like</c></NS> to know how much money I can bring. Looking forward to hearing from you</p>
+          <p>Yours sincerely,</p>
+          <p>Billy Esposito</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>There is somebody who says that 'Shopping is not always enjoyable<NS type="MP"><c>,</c></NS>' and who is happy only when <NS type="MA"><c>he</c></NS> can go shopping.</p>
+          <p><NS type="ID"><i>In the first</i><c>First</c></NS> I do not think that shopping is enjoyable when you must do <NS type="R"><i>so</i><c>it</c></NS> in a hurry or <NS type="R"><i>for</i><c>as a</c></NS> duty. If you have to run from one shop to another<NS type="R"><i> and</i><c>,</c></NS> always looking at <NS type="R"><i>the</i><c>your</c></NS> watch, <NS type="RV"><i>doing</i><c>going</c></NS> shopping is a terrible activity.</p>
+          <p>On the other hand if you can walk <NS type="MT"><c>around</c></NS> without <NS type="RP"><i>anytime</i><c>any time</c></NS> problem with a good friend I think that shopping is very enjoyable. For <NS type="S"><i>istance</i><c>instance</c></NS>, it is <NS type="RJ"><i>funny</i><c>fun</c></NS> <NS type="FV"><i>enter</i><c>to enter</c></NS> a clothes shop and try on a skirt or a <NS type="RP"><i>t-shirt</i><c>T-shirt</c></NS> although you do not buy anything.</p>
+          <p>To sum up I enjoy wasting money <NS type="RC"><i>and</i><c>whether</c></NS> buying useful things or not. I often like <NS type="RV"><i>getting</i><c>buying</c></NS> gifts for my relatives and friends. In my opinion, shopping is relaxing<NS type="MP"><c>,</c></NS> above all on Saturdays when you have finished a <NS type="DJ"><i>work</i><c>working</c></NS> week and you are expecting a wonderful Sunday.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

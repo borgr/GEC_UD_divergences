@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR726*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>17.6.2000</p>
+          <p>Dear Sir,</p>
+          <p>I am writing <NS type="UT"><i>for</i></NS> <NS type="FV"><i>explaining</i><c>to explain</c></NS> some problems your theatre has got and <NS type="FV"><i>asking</i><c>to ask</c></NS> for some money back.</p>
+          <p>I saw your advertisement and I expected a discounted ticket for students. But in <NS type="RD"><i>a</i><c>the</c></NS> ticket office I realised I couldn't get it. Another problem was the time. The play was supposed to start at 19.30 but it was delayed<NS type="MP"><c>,</c></NS> so at 20.15 <NS type="RD"><i>a</i><c>the</c></NS> curtain of the stage was <NS type="RV"><i>pulled up</i><c>raised</c></NS>. As soon as the play had started I noticed another problem. I am a big fan of Danny Book and <NS type="RA"><i>it</i><c>that</c></NS> was why I chose 'over the rainbow'. When I saw a different actor playing his role I was really disappointed.</p>
+          <p><NS type="MD"><i><NS type="S"><i>Las</i><c>Last</c></NS></i><c>The last</c></NS> problem I would like to tell you <NS type="MT"><c>about</c></NS> is <NS type="MT"><c>about</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> <NS type="S"><i>restaraunt</i><c>restaurant</c></NS> there. After the show I went to the restaurant according to your advertisement but it was closed <NS type="RT"><i>because of</i><c>for</c></NS> decoration.</p>
+          <p>When I booked the ticket I really <NS type="RV"><i>expected</i><c>looked forward to</c></NS> the show. Unlike my expectation it was so disappointing and annoying. So I would like to ask for some money back.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+          <p>TA HYUN PHAT</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I remember some <NS type="W"><i><NS type="S"><i>sientific</i><c>scientific</c></NS> cartoons when I was younger I watched on television</i><c>I watched on television when I was younger</c></NS>. They <NS type="TV"><i>describe</i><c>described</c></NS> the future world where people would travel to the moon. But it is coming true now. Modern technology has been changing even my daily life in positive and negative ways at the same time.</p>
+          <p>First it helps <NS type="MV"><c>to make</c></NS> my social life <NS type="UV"><i>to be</i></NS> <NS type="S"><i>convinient</i><c>convenient</c></NS>. I have got my own computer so it is easy for me to send e-mails to my friends very often. Second<NS type="MP"><c>,</c></NS> I can save time. If there was no public transport like <NS type="MD"><c>the</c></NS> underground in a big city I couldn't imagine travelling on time.</p>
+          <p>On the other hand, modern technology could affect my life in a bad way. Because of <NS type="S"><i>computeres</i><c>computers</c></NS> or telephones I could have less <NS type="RN"><i>chances</i><c>opportunities</c></NS> to meet my friends than before. It could make my emotions fade. Another problem is pollution. I think <NS type="RD"><i>a</i><c>the</c></NS> car is one of the most common products of modern technology. The more cars there are on the street, the more difficult it is for me to keep myself fit.</p>
+          <p>To sum it up, as technology is improving my life itself is becoming <NS type="S"><i>convinient</i><c>convenient</c></NS>. In spite of its good sides<NS type="MP"><c>,</c></NS> I think my life could get worse. To live in this world needs somebody else to contact and health. But I am loosing chances to meet my friend face to face and I feel I am getting weaker. I suppose people<NS type="MP"><c>,</c></NS> including me<NS type="MP"><c>,</c></NS> should <NS type="R">keep themselves in a limited their own space in near future.</NS> It will be caused by technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

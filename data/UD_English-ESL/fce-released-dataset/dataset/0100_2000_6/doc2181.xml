@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR880*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="R"><i>Hello</i><c>Dear Sir or Madam</c></NS>,</p>
+          <p>Firstly I would like to thank you for <NS type="RD"><i>your</i><c>my</c></NS> prize. This <NS type="RN"><i>travel</i><c>trip</c></NS> <NS type="RV"><i>enjoys</i><c>pleases</c></NS> me because <NS type="TV"><i>I never go</i><c>I've never been</c></NS> to <NS type="MD"><c>the</c></NS> USA.</p>
+          <p>Secondly I am going to answer your questions. I can travel only <NS type="MT"><c>in</c></NS> July because I study <NS type="RT"><i>in</i><c>at</c></NS> an <NS type="S"><i>ingenior's</i><c>engineer's</c></NS> school in France and in <NS type="RP"><i>Summer</i><c>summer</c></NS> we have <NS type="MD"><c>our</c></NS> holidays <NS type="RT"><i>since</i><c>from</c></NS> July.</p>
+          <p>I prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in tents, where it is easier to <NS type="RV"><i>make contacts with</i><c>meet</c></NS> other people than in log cabins. When I travel I don't often sleep in <NS type="MD"><c>a</c></NS> hotel, I prefer tents and also I can meet people<NS type="UP"><i>,</i></NS> who <NS type="AGV"><i>lives</i><c>live</c></NS> in the country.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> the activities I would be very happy if I could play golf. <NS type="RA"><i>That</i><c>This</c></NS> is a sport that <NS type="TV"><i>I always want</i><c>I have always wanted</c></NS> to <NS type="RV"><i>practise</i><c>play</c></NS> but in France it is <NS type="SX"><i>to</i><c>too</c></NS> <NS type="RJ"><i>expansive</i><c>expensive</c></NS>. So if I have this opportunity, I don't want to <NS type="RV"><i>fail</i><c>miss</c></NS> it. I would like to <NS type="R"><i>photograph</i><c>try</c></NS> <NS type="MN"><c>photography</c></NS> too. There are so <NS type="CQ"><i>much</i><c>many</c></NS> monuments in California and so I will remember <NS type="FN"><i>these holidays</i><c>this holiday</c></NS> with my <NS type="S"><i>photographies</i><c>photographs</c></NS>.</p>
+          <p>Could you send me more <NS type="CN"><i>informations</i><c>information</c></NS> about <NS type="MQ"><c>what</c></NS> clothes to take with <NS type="MA"><c>me</c></NS>? Finally I would like to ask you<NS type="UP"><i>,</i></NS> if I need <NS type="RQ"><i>some</i><c>any</c></NS> money<NS type="MP"><c>,</c></NS> because you say all <NS type="S"><i>accomodation</i><c>accommodation</c></NS> and travel costs are paid for.</p>
+          <p>Thank you for your answer.</p>
+          <p>Charles Dumaux</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Hello Kim,</p>
+          <p>Last month, I enjoyed helping at a pop concert. It was marvellous!!!</p>
+          <p>I was <NS type="U"><i>in the</i></NS> backstage, so I could speak with the singer before the concert. During half an hour he explained <NS type="MT"><c>to</c></NS> me<NS type="UP"><i>,</i></NS> how he <NS type="AGV"><i>feel</i><c>feels</c></NS> in France.</p>
+          <p>I had to serve glasses of water to the group before and during the concert, so I had a lot of contact with them. They are very <NS type="RJ"><i>gentle</i><c>nice</c></NS>. After the concert, I went to eat with them in a restaurant near the stadium<NS type="UP"><i>,</i></NS> where they had played.</p>
+          <p>What I particularly liked about this experience is that I saw that famous people are like us and have the same <NS type="FN"><i>interest</i><c>interests</c></NS>.</p>
+          <p>I think that this experience is something that you have to live too. Perhaps <NS type="RT"><i>in</i><c>at</c></NS> the next concert we will go together. I will <NS type="R"><i>give you news</i><c>keep you informed</c></NS> about it.</p>
+          <p>I hope you will answer my letter and <NS type="RV"><i>say</i><c>tell</c></NS> me if you are <NS type="RJ"><i>interesting</i><c>interested</c></NS> in my proposition. <NS type="TV"><i>I send</i><c>I'm sending</c></NS> you with my letter a photo of the singer<NS type="UP"><i>,</i></NS> <NS type="RA"><i>what</i><c>that</c></NS> he <NS type="TV"><i>give</i><c>gave</c></NS> me.</p>
+          <p>See you later.</p>
+          <p>Charles</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

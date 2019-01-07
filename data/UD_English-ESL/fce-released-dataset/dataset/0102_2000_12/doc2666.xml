@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1071*0102*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Miss Clark,</p>
+          <p>I went to your annual international arts festival. I really enjoyed it, although I feel it could have been better. But firstly<NS type="MP"><c>,</c></NS> I want to congratulate you <NS type="RT"><i>for</i><c>on</c></NS> organizing such a huge festival, people need this kind of <NS type="AGN"><i>events</i><c>event</c></NS>. Secondly<NS type="MP"><c>,</c></NS> I would like to make some remarks about your festival so that you can improve it. As it <NS type="RV"><i><NS type="TV"><i>was written</i><c>wrote</c></NS></i><c>said</c></NS> <NS type="MY"><c>so</c></NS> in your advertisement, artists should have come from around the world but only six countries were represented<NS type="RP"><i>,</i><c>.</c></NS> I was quite disappointed. However the concerts were great, but unfortunately, some concert halls were too small and it was as hot as <NS type="RN"><i>a <NS type="UP"><i>micro-wave</i><c>microwave</c></NS></i><c>an oven</c></NS> inside.</p>
+          <p><NS type="MD"><i>Plays</i><c>The plays</c></NS> and <NS type="RP"><i>Films</i><c>films</c></NS> were good and I liked them, but there were only a few, I hope there will be many more next year.</p>
+          <p>One of the most positive <NS type="AGN"><i>aspect</i><c>aspects</c></NS> of your festival is the price of your weekend ticket. As a student, the low priced ticket certainly <NS type="DV"><i>athacted</i><c>attracted</c></NS> me a lot and gave me the opportunity to see and hear wonderful artists.</p>
+          <p>Finally, I would like to make one <NS type="RJ">big</NS> suggestion: you should find a place for a <NS type="RN"><i>camping</i><c>campsite</c></NS> so that people who come <NS type="UT"><i>from</i></NS> a long way don't have to spend money on <NS type="S"><i>accomodation</i><c>accommodation</c></NS>. Anyway, I'm looking forward to coming to your festival next year.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Money, Money, Money</p>
+          <p>Young people always need money, <NS type="RY"><i>specially</i><c>especially</c></NS> students who don't earn their <NS type="RN"><i>life</i><c>living</c></NS>. They need money to pay <NS type="MT"><c>for</c></NS> their studies or for going out, but how to find a job which is good and not <NS type="UP"><i>under-paid</i><c>underpaid</c></NS>?</p>
+          <p>One of the best is working in a big supermarket. Some can find it boring but it is well-paid and not too tiring. Furthermore<NS type="MP"><c>,</c></NS> <NS type="S"><i>departement</i><c>department</c></NS> stores are always looking for students who would like to work.</p>
+          <p>Another solution could be working as a barman, the problem is that you go to bed very late, but it's very exciting because you meet a lot of people and enjoy your night. Unfortunately<NS type="MP"><c>,</c></NS> it's not possible unless you can rest in the morning.</p>
+          <p>If you are a really good student in one subject, you can provide private lessons<NS type="MP"><c>,</c></NS> which is one of the most <NS type="RJ">prolific</NS> <NS type="AGN"><i>job</i><c>jobs</c></NS><NS type="MP"><c>,</c></NS> but do it only if you like teaching. Otherwise you should try to find another job.</p>
+          <p>The main thing to remember is that there <NS type="MV"><c>are</c></NS> many possibilities but you have to try to find them and not just say: "I want to work and earn money".</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

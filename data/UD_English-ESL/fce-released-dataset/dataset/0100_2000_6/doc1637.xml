@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR644*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am glad to hear that I have won first prize, two weeks at Camp California in the U.S.A.</p>
+          <p>I would like to travel in July because I will have my <NS type="R"><i>off</i><c>holiday</c></NS> in July. I would rather stay in a log cabin than a tent. I think it would be more comfortable than a tent. I want to <NS type="RV"><i>join</i><c>attend</c></NS> swimming and tennis courses. I have been swimming <NS type="RT"><i>from</i><c>since</c></NS> <NS type="DA"><i>my</i><c>I</c></NS> <NS type="MV"><c>was</c></NS> five years of age <NS type="MC"><c>and</c></NS> until 1993 <NS type="MA"><c>I</c></NS> <NS type="SX"><i>as</i><c>was</c></NS> a member of <NS type="MD"><c>the</c></NS> school team. I am good at <NS type="CE">timing on swim</NS>. I am also good at playing tennis. I won a prize in a competition in 1999.</p>
+          <p>I would like to ask about <NS type="UD"><i>the</i></NS> money. Is everything free? Do I need to bring money for anything extra? <NS type="RC"><i><NS type="RP"><i>but</i><c>But</c></NS></i><c>And</c></NS> also I would like to <NS type="RV"><i>learn</i><c>know</c></NS> about clothes. Do I need any special <NS type="DN"><i>clothe</i><c>clothes</c></NS>? Will you provide <NS type="AGA"><i>it</i><c>them</c></NS>? <NS type="RP"><i>and Do</i><c>And do</c></NS> I have to pay for clothes?</p>
+          <p>If you <NS type="MV"><c>could</c></NS> reply <NS type="MT"><c>to</c></NS> my letter <NS type="RT"><i>until</i><c>by</c></NS> <NS type="MD"><c>the</c></NS> 28th of June <NS type="TV"><i>I'll</i><c>I'd</c></NS> be <NS type="RJ"><i>pleased</i><c>grateful</c></NS> <NS type="U"><i>with it</i></NS> because I have to give information about my holiday dates to my company.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>- SHOPPING -</p>
+          <p>Who doesn't like shopping? Everybody likes <NS type="MA"><c>it</c></NS><NS type="MP"><c>,</c></NS> from a child to an old lady in <NS type="MD"><c>her</c></NS> sixties<NS type="MP"><c>,</c></NS> but it is not always enjoyable.</p>
+          <p>When you get home tired after spending all your morning and afternoon <NS type="UT"><i>at</i></NS> shopping <NS type="TV"><i>you'll want</i><c>you want</c></NS> to go to bed because you <NS type="R"><i>were looking for only a suit during all day</i><c>spent the whole day just looking for a suit</c></NS> and you couldn't find the perfect one.</p>
+          <p>The only thing is<NS type="MP"><c>,</c></NS> we need to know what kind of thing <NS type="UV"><i>do</i></NS> we want to buy and where <NS type="W"><i><NS type="TV"><i>could</i><c>can</c></NS> we</i><c>we can</c></NS> buy cheaper and <NS type="R"><i>more</i><c>better</c></NS> quality stuff.</p>
+          <p>We have <NS type="MD"><c>a</c></NS> few possibilities. We can look <NS type="RT"><i>up</i><c>in</c></NS> a magazine or a <NS type="RN">booklet</NS> which <NS type="TV"><i>deliver</i><c>is delivered</c></NS> with <NS type="MD"><c>the</c></NS> newspaper weekly. We can order a free <NS type="RN"><i>book</i><c>catalogue</c></NS> from big shops or companies monthly. We can also watch some special channels on the television. The easiest and latest way is <NS type="UD"><i>the</i></NS> internet <NS type="RN"><i>shops</i><c>shopping</c></NS><NS type="MP"><i> <NS type="UY"><i>recently</i></NS> so</i><c>. So</c></NS> you don't need to see <NS type="DJ"><i>long-face</i><c>long-faced</c></NS> <NS type="IN"><i>staffs</i><c>staff</c></NS> in the shops. You won't wait in the <NS type="S"><i>quee</i><c>queue</c></NS>. You don't need to go out to buy something. You can order everything on the computer.</p>
+          <p>I think you won't be tired and bored <NS type="MT"><c>at</c></NS> <NS type="MD"><c>the</c></NS> end of your shopping on the computer. Think about <NS type="M"></NS> that way for enjoyable shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

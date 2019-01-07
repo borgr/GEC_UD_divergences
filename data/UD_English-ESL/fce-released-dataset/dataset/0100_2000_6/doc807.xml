@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR321*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Ryan,</p>
+          <p><NS type="RV"><i>I'm</i><c>I've</c></NS> just <NS type="TV"><i>finish</i><c>finished</c></NS> reading the letter from you about <NS type="FV"><i>won</i><c>winning</c></NS> first prize in your competition <NS type="MP"><c>-</c></NS> two weeks at Camp California in the U.S.A. You <NS type="UV"><i>had</i></NS> <NS type="TV"><i>ask</i><c>asked</c></NS> me <NS type="MT"><c>for</c></NS> some further information.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> <NS type="UD"><i>the</i></NS> July only <NS type="RP"><i>Because</i><c>because</c></NS> I'll be free for the whole month. So any date <NS type="RT"><i>on</i><c>in</c></NS> <NS type="UD"><i>the</i></NS> July. I'd like to <NS type="DV"><i>accommodation</i><c>stay</c></NS> at Camp California in tents<NS type="RP"><i>. Because</i><c>, because</c></NS> <NS type="RP"><i>i</i><c>I</c></NS> like to sleep in <NS type="MD"><c>a</c></NS> tent when <NS type="RP"><i>i</i><c>I</c></NS> go camping. Also I would like to choose the two activities <NS type="AS"><i>that you <NS type="TV"><i>had</i><c>have</c></NS> <NS type="TV"><i>gave</i><c>given</c></NS> me on the list</i><c>from the list that you have given me</c></NS>. I would like to choose Swimming and Photography. I'm good <NS type="RT"><i>in</i><c>at</c></NS> swimming. I used to swim for the school team. But I <NS type="TV"><i>never do</i><c>have never done</c></NS> photography before. I love to take <NS type="UD"><i>a</i></NS> <NS type="FN"><i>photo</i><c>photos</c></NS> but never have <NS type="MD"><c>a</c></NS> chance to do so. But I have <NS type="MD"><c>a</c></NS> chance to choose.</p>
+          <p>Also I would like to ask you some questions. Do I have to bring <NS type="UD"><i>a</i></NS> lots of money? I mean do I have to pay for the tent? What about the clothes<NS type="MP"><i> do</i><c>? Do</c></NS> I have to bring a lot? That is all <NS type="RP"><i>i</i><c>I</c></NS> want to know. Thank you</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+          <p>LINDSAY WATTANA</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>10/05/2000</p>
+          <p>Dear Kim,</p>
+          <p>Hi, how are you? I'm fine. I just got your letter yesterday. You <NS type="UV"><i>had</i></NS> <NS type="TV"><i>ask</i><c>asked</c></NS> me a question about my experience <NS type="MT"><c>of</c></NS> helping at a pop concert. You wanted me to tell you about it<NS type="MP"><c>,</c></NS> right?</p>
+          <p>Well, it <NS type="MV"><c>was</c></NS> quite fun while <NS type="RP"><i>i</i><c>I</c></NS> <NS type="MV"><c>was</c></NS> helping them to do the stuff before the concert <NS type="TV"><i><NS type="MV"><c>was</c></NS> gonna start</i><c>started</c></NS>. I <NS type="TV"><i>have</i><c>had</c></NS> to get <NS type="IA"><i>everythings</i><c>everything</c></NS> that they <NS type="TV"><i>need</i><c>needed</c></NS> up <NS type="UT"><i>to</i></NS> the <NS type="FN"><i>stair</i><c>stairs</c></NS>. <NS type="TV"><i>It's</i><c>It was</c></NS> so <NS type="SX"><i>tried</i><c>tiring</c></NS>. Then after that I <NS type="TV"><i>have</i><c>had</c></NS> to help them carry all the clothes for the singer to wear from the bus down <NS type="RP"><i>in to</i><c>into</c></NS> the <NS type="RN"><i>stuff</i><c>staff</c></NS> room. I saw Westlife too<NS type="MP"><i> you</i><c>. You</c></NS> know they are so cute. Then I <NS type="TV"><i>can</i><c>could</c></NS> take <NS type="MD"><c>a</c></NS> rest <NS type="MT"><c>for</c></NS> about 30 mins. After that <NS type="RP"><i>i</i><c>I</c></NS> <NS type="TV"><i>have</i><c>had</c></NS> to go <NS type="RP"><i>in to</i><c>into</c></NS> the <NS type="RN"><i>stuff</i><c>staff</c></NS> room again because they wanted me to go and buy some drink for the singer. After <NS type="RP"><i>i</i><c>I</c></NS> came back <NS type="RP"><i>i</i><c>I</c></NS> <NS type="TV"><i>have</i><c>had</c></NS> to help them clean all the <NS type="MP"><i>make up</i><c>make-up</c></NS> stuff. The concert <NS type="TV"><i>begin</i><c>began</c></NS>... <NS type="RP"><i>that</i><c>That</c></NS> <NS type="TV"><i>mean</i><c>meant</c></NS> <NS type="RP"><i>i</i><c>I</c></NS> <NS type="TV"><i>can</i><c>could</c></NS> take <NS type="MD"><c>a</c></NS> rest until the concert <NS type="TV"><i>finish</i><c>finished</c></NS>. After the concert had <NS type="TV"><i>finish</i><c>finished</c></NS> <NS type="RP"><i>i</i><c>I</c></NS> <NS type="TV"><i>have</i><c>had</c></NS> to help them again to clean all the stuff<NS type="RP"><i>.</i><c>,</c></NS> <NS type="R"><i>the</i><c>I had</c></NS> <NS type="FV"><i>carry</i><c>to carry</c></NS> <NS type="IA"><i>everythings</i><c>everything</c></NS> that I <NS type="TV"><i>can</i><c>could</c></NS> carry back to the bus. We were so <NS type="SX"><i>tried</i><c>tired</c></NS> but <NS type="TV"><i>it's</i><c>it was</c></NS> good fun. I think this experience was quite interesting. If somebody <NS type="TV"><i>ask</i><c>asked</c></NS> me to go and help again I would like to go for sure.</p>
+          <p>That's all <NS type="RP"><i>i</i><c>I</c></NS> did <NS type="RT"><i>in</i><c>at</c></NS> the pop concert for my <NS type="RN">experience</NS>. What about your experience? Don't forget to tell me about yours<NS type="MP"><c>,</c></NS> okay... Better go to sleep now. Bye</p>
+          <p>Antonia.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

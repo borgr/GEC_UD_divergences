@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE91*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>41-50</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Smith,</p>
+          <p>Thank you for your letter. I am very pleased to give you the information you requested.</p>
+          <p>We are holding the conference party at the Royal Lancaster Hotel - banqueting room at 2.00 pm on Sat. 24 June. The nearest tube station is Lancaster Gate.</p>
+          <p>As you know, we've been working very hard all this term. So we've decided at the end-of-conference party<NS type="UP"><i>,</i></NS> we will have a buffet and a disco party. Our students<NS type="UP"><i>,</i></NS> then will get to know each other well. I would suggest everybody <NS type="FV"><i>to wear</i><c>wear</c></NS> <NS type="UD"><i>a</i></NS> casual <NS type="FN"><i>dresses</i><c>dress</c></NS>.</p>
+          <p>Finally, I would recommend you and your group <NS type="RV"><i><NS type="TV"><i>to enjoy</i><c>enjoy</c></NS></i><c>try</c></NS> shopping and sightseeing around Oxford Street and nearby.</p>
+          <p>I look forward to <NS type="FV"><i>see</i><c>seeing</c></NS> you and your group soon.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>To: The group leader</p>
+          <p>From:</p>
+          <p>Re: The Barbican Centre.</p>
+          <p>As you <NS type="RV"><i>requested</i><c>asked</c></NS> which is the <NS type="FJ"><i>interesting</i><c>most interesting</c></NS> building to visit<NS type="RP"><i>.</i><c>,</c></NS> I would strongly recommend the Barbican Centre building in the city.</p>
+          <p>It <NS type="TV"><i>located</i><c>is located</c></NS> in the city and the nearest tube station is Moorgate Station. The Barbican Centre <NS type="TV"><i>built</i><c>was built</c></NS> in 1975. Apart from Banks and important offices<NS type="RP"><i>. There</i><c>, there</c></NS> are also <NS type="MD"><c>the</c></NS> world <NS type="MP"><i>stock market</i><c>stock-market</c></NS> exchange, an opera theatre, shopping arcades, <NS type="MC"><c>and</c></NS> <NS type="FN"><i>books</i><c>book</c></NS> and <NS type="FN"><i>records</i><c>record</c></NS> stores. It also <NS type="TV"><i>held</i><c>holds</c></NS> an <NS type="DJ"><i>internation</i><c>international</c></NS> exhibition all year round. Recently, the <NS type="W"><i>exhibition of <NS type="RP"><i>africa</i><c>Africa</c></NS></i><c>African exhibition</c></NS> just finished. <NS type="R"><i>The opening time starts</i><c>It is open</c></NS> from 7.30 AM. till late at night when the theatre <NS type="TV"><i>is closed</i><c>closes</c></NS>. The building is huge with <NS type="RJ"><i>high</i><c>modern</c></NS> technology and construction and <NS type="UD"><i>a</i></NS> tight security. <NS type="AS">It <NS type="MV"><c>is</c></NS> upgraded the building</NS> every year.</p>
+          <p>The Barbican Centre is a very important building in London. You and your group will visit one building which has <NS type="RY"><i>so</i><c>very</c></NS> many <NS type="RN">places</NS> in this building. So <NS type="UC"><i>that</i></NS> you can <NS type="R">spend your time in one go</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

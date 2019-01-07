@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR822*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Sir,</p>
+          <p>I'm writing to you because I want you to give the money back<NS type="MP"><c>,</c></NS> <NS type="R"><i>for</i><c>which I spent on</c></NS> your <NS type="MN"><c>show</c></NS> <NS type="MP"><c>- </c></NS>"London's newest and best musical show: Over the rainbow", presented in the Circle Theatre.</p>
+          <p>In fact, unlike the perfect evening out that you promised <NS type="RT"><i>on</i><c>in</c></NS> your advertisement, I had a very <NS type="S"><i>disapointing</i><c>disappointing</c></NS> evening.</p>
+          <p>Firstly, I expected to see Danny Brook in the show, but he was replaced by another actor. Why was he not <NS type="RY"><i>here</i><c>there</c></NS>?</p>
+          <p>Moreover I had to wait <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes <NS type="R"><i>to see</i><c>for</c></NS> the beginning of the show. And I hate to wait! There <NS type="AGV"><i>was</i><c>were</c></NS> also the discounts <NS type="S"><i>wich</i><c>which</c></NS> weren't available.</p>
+          <p>And to finish, the restaurant was closed, for <NS type="UQ"><i>any</i></NS> reasons you didn't <NS type="RV"><i>take</i><c>tell</c></NS> <NS type="UT"><i>to</i></NS> us. So I couldn't eat <NS type="RD"><i>this</i><c>that</c></NS> evening.</p>
+          <p>Hoping you'll <NS type="RV"><i>satisfy</i><c>comply with</c></NS> my request.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. So the surprise we prepared for <NS type="UD"><i>the</i></NS> Leon's birthday had failed. However, <NS type="TV"><i>we've</i><c>we'd</c></NS> started to <NS type="RV"><i>search</i><c>plan</c></NS> <NS type="U"><i>an idea</i></NS> for it <NS type="UT"><i>for</i></NS> one <NS type="AGN"><i>months</i><c>month</c></NS> <NS type="MY"><c>before</c></NS>. <NS type="ID"><i>In the beginning</i><c>To start with</c></NS>, I wanted to bring him <NS type="RT"><i>in</i><c>to</c></NS> my house where everybody would wait for him. But he wanted to stay at <NS type="UA"><i>his</i></NS> home. So Sigone <NS type="RV"><i>found</i><c>thought of</c></NS> the greatest idea. We would pretend to have bought <NS type="W"><i>for him a dog</i><c>a dog for him</c></NS>. Leon <NS type="AGV"><i>hate</i><c>hates</c></NS> <NS type="AGN"><i>dog</i><c>dogs</c></NS>, and I don't know why. So we had to find a dog that Leon wouldn't <NS type="FV"><i>recognized</i><c>recognise</c></NS>. And I found one. I had a friend who had just <NS type="RV"><i>received</i><c>got</c></NS> a little dog. But he was <NS type="UD"><i>a</i></NS> Pat's friend too, and Pat explained everything to Leon. No luck.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

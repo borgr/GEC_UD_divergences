@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1124*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I would like to thank you for <NS type="RD"><i>your</i><c>the</c></NS> first prize in your competition<NS type="MP"><c>:</c></NS> two weeks at Camp California in the USA. I <NS type="TV"><i>would be</i><c>am</c></NS> <NS type="RJ"><i>grateful</i><c>pleased</c></NS> to <NS type="SX"><i>except</i><c>accept</c></NS> this prize.</p>
+          <p>As you said, you need some further information. First of all, I would like to travel in July<NS type="RP"><i>, at</i><c>. At</c></NS> present, I am doing an art course at college. So I won't be able to have a holiday until then.</p>
+          <p>I would rather stay in log cabins than tents. I have some <NS type="RN"><i>pain</i><c>trouble</c></NS> <NS type="RT"><i>on</i><c>with</c></NS> my back<NS type="MP"><i> therefore</i><c>. Therefore</c></NS> I can't sleep in <NS type="RD"><i>the</i><c>a</c></NS> sleeping bag on the ground.</p>
+          <p>Furthermore, I would love to do <NS type="RP"><i>Basketball</i><c>basketball</c></NS> and <NS type="RP"><i>Painting</i><c>painting</c></NS> activities while I am at the <NS type="RP"><i>Camp</i><c>camp</c></NS>. I am a member of <NS type="MD"><c>the</c></NS> college <NS type="RP"><i>Basketball Team</i><c>basketball team</c></NS><NS type="MP"><c>,</c></NS> which became the best <NS type="RP"><i>Basketball Team</i><c>basketball team</c></NS> of last year. Secondly, I want to do painting<NS type="MP"><c>,</c></NS> which I am really interested in <NS type="UC"><i>and</i></NS> as a student <NS type="RT"><i>of</i><c>at</c></NS> <NS type="RP"><i>Art College</i><c>art college</c></NS>.</p>
+          <p>Lastly, I would like to learn <NS type="UA"><i>that</i></NS> what kinds of clothes I have to bring with me and how much money (American currency - dollars) I'll need to have while I'm there.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I would like to thank you for your letter<NS type="MP"><c>,</c></NS> which I received yesterday<NS type="MP"><c>,</c></NS> and I wanted to reply as soon as possible.</p>
+          <p>I know you want to <NS type="RV"><i>learn</i><c>hear about</c></NS> what I did and how I helped people at the pop concert last month.</p>
+          <p>As you know, our college was chosen to be there and help the singers and the musicians out. When I first arrived there I was pretty nervous and excited. My friends and I <NS type="TV"><i>have been</i><c>were</c></NS> taken <NS type="U"><i>to the</i></NS> backstage where we met the members of West Life, Elton John and Robie Williams. I even <NS type="RV"><i>go</i><c>got</c></NS> a bunch of flowers from them with a "thank you" letter.</p>
+          <p>What we all did was <NS type="FV"><i>making</i><c>make</c></NS> many cups of <NS type="FN"><i>coffees</i><c>coffee</c></NS> and help to find their missing socks or any other <NS type="CN"><i>clothings</i><c>clothing</c></NS>. What I realised was they were not different from any of us but they were called <NS type="S"><i>celebreties</i><c>celebrities</c></NS>.</p>
+          <p>I particularly liked listening <NS type="MT"><c>to</c></NS> their musicians when they played the piano, clarinet, drums, <NS type="S"><i>violen</i><c>violin</c></NS> etc<NS type="RP"><i>. Which</i><c>, which</c></NS> was <NS type="RY"><i>unbelievably</i><c>really</c></NS> great<NS type="MP"><c>,</c></NS> and also to be able to meet these famous singers made me realise we can achieve whatever we want.</p>
+          <p>Lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

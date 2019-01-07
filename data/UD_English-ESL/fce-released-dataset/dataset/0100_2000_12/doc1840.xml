@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR704*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson<NS type="RP"><i>:</i><c>,</c></NS></p>
+          <p>I'm writing <NS type="MT"><c>to</c></NS> you <NS type="R"><i>representing</i><c>on behalf of</c></NS> all the <NS type="RP"><i>english</i><c>English</c></NS> class in order to let you know how <NS type="RJ"><i>exciting</i><c>excited</c></NS> we are about the trip to London and to give you some ideas of other things we are <NS type="RJ"><i><NS type="S"><i>interresting</i><c>interesting</c></NS></i><c>interested</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> doing in London while we're there.</p>
+          <p>First of all, we'd like to thank you for the programme you <NS type="TV"><i><NS type="DY"><i>all ready</i><c>already</c></NS> arrange</i><c>have already arranged</c></NS><NS type="MP"><i> it's</i><c>. It's</c></NS> wonderful<NS type="UP"><i>,</i></NS> because it covers most of our <NS type="S"><i>interrests</i><c>interests</c></NS>. But also we would like to visit The London Fashion and Leisure <NS type="RP"><i>show</i><c>Show</c></NS> that will be held at the Central <NS type="S"><i>kExhibition</i><c>Exhibition</c></NS> <NS type="RP"><i>hall</i><c>Hall</c></NS> on Tuesday March 14 from 10:00 - 19:00. So we suggest <NS type="RV"><i><NS type="FV"><i>to put</i><c>putting</c></NS></i><c>doing</c></NS> <NS type="RA"><i>it</i><c>things</c></NS> this way on Tuesday 14<NS type="RP"><i>,</i><c>:</c></NS> in the morning go to the Science Museum and<NS type="MP"><c>,</c></NS> instead of shopping, we could attend the London Fashion <NS type="RP"><i>show</i><c>Show</c></NS>, because <NS type="MA"><c>there</c></NS> will be the latest <NS type="FN"><i>fashion</i><c>fashions</c></NS>, leisure <NS type="MN"><c>wear</c></NS><NS type="MP"><c>,</c></NS> <NS type="UC"><i>and</i></NS> <NS type="RP"><i>sports wear</i><c>sportswear</c></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS>, and hair styles, and as you know <NS type="UA"><i>us</i></NS>, we love all those topics, and it's a great opportunity while we are <NS type="MT"><c>in</c></NS> London.</p>
+          <p>Thank you for your time<NS type="RP"><i>,</i><c>.</c></NS> <NS type="UC"><i>and</i></NS> We're looking forward to hearing from <NS type="DA"><i>your</i><c>you</c></NS> <NS type="R"><i>opion</i><c>soon</c></NS>.</p>
+          <p><NS type="W"><i><NS type="RY"><i>faithfully</i><c>sincerely</c></NS> <NS type="RP"><i>yours</i><c>Yours</c></NS></i><c>Yours sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>IT WAS DANGEROUS, BUT I KNEW I HAD TO DO IT ...BECAUSE</p>
+          <p><NS type="R"><i>Since always I'd gotten the idea of</i><c>I had always wanted</c></NS> <NS type="FV"><i>travel</i><c>to travel</c></NS> abroad and <NS type="S"><i>experiece</i><c>experience</c></NS> <NS type="IQ"><i>others</i><c>other</c></NS> people's <NS type="AGN"><i>life</i><c>lives</c></NS> and cultures, so I decided to go to Paris as soon as I finished university.</p>
+          <p>I arrived in Paris <NS type="RT"><i>for</i><c>on</c></NS> New <NS type="MP"><i>Years</i><c>Year's</c></NS> Eve 2000 without a place to stay, not speaking any French, alone and with a <NS type="RJ"><i>little</i><c>small</c></NS> amount of money. But <NS type="R"><i><NS type="RP"><i>eventhough</i><c>even though</c></NS></i><c>in spite of</c></NS> all of these <NS type="S"><i>desadventages</i><c>disadvantages</c></NS> <NS type="UY"><i>above</i></NS>, I was <NS type="RV"><i><NS type="S"><i>folling</i><c>following</c></NS></i><c>pursuing</c></NS> my dreams and objectives and <NS type="RP"><i>inspite</i><c>in spite</c></NS> of everything I was going to do it.</p>
+          <p>So suddenly, a week later I found <NS type="RA"><i>me</i><c>myself</c></NS> a job as an au pair, taking care of two little girls that only spoke <NS type="RP"><i>french</i><c>French</c></NS> at that <NS type="RN"><i>moment</i><c>time</c></NS>. It took me three months to <NS type="RV"><i><NS type="FV"><i>overcame</i><c>overcome</c></NS></i><c>learn</c></NS> the <NS type="FN"><i>languages</i><c>language</c></NS> and <NS type="RT"><i>after</i><c>by</c></NS> this time the whole <NS type="S"><i>familly</i><c>family</c></NS> <NS type="TV"><i><NS type="IV"><i>falled</i><c>fell</c></NS></i><c>had fallen</c></NS> in love with me, <NS type="MY"><c>so</c></NS> that when they decided to move to London, they invited me and now we all live here and I feel like part of the <NS type="S"><i>familly</i><c>family</c></NS>, <NS type="RP"><i>eventhough</i><c>even though</c></NS> <NS type="RP"><i>It</i><c>it</c></NS> was very hard at the <NS type="S"><i>beggining</i><c>beginning</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

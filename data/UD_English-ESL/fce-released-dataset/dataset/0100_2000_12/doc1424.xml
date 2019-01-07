@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR54*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I am writing on behalf <NS type="MT"><c>of</c></NS> my English class.</p>
+          <p>We have just <NS type="RV"><i>known</i><c>seen</c></NS> the programme you prepared for our three-day trip to London.</p>
+          <p>Thank you very much for <NS type="MD"><c>the</c></NS> many interesting <NS type="RN">positions</NS> in this schedule, especially the river trip to Greenwich, which, we are <NS type="S"><i>shure</i><c>sure</c></NS>, will be very exciting.</p>
+          <p>I would like to inform you<NS type="UP"><i>,</i></NS> that we have seen an advertisement for the "London Fashion and <NS type="S"><i>Laisure</i><c>Leisure</c></NS> Show" and we have found it very interesting. There will <NS type="MV"><c>be</c></NS> a lot of <NS type="R">show for instance</NS> latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. I would like to say that it is very important for us to be there and it could be <NS type="MD"><c>a</c></NS> great opportunity, because <NS type="UD"><i>the</i></NS> entrance is free for students. The <NS type="SX"><i>even</i><c>event</c></NS> is planned <NS type="RT"><i>on</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> 14th of March between <NS type="ID"><i>10.00 am and 19.00 p.m.</i><c>10.00 and 19.00.</c></NS> If it is possible we would like to ask you to change your programme. We <NS type="TV"><i>will</i><c>would</c></NS> be able to visit the Science Museum on <NS type="UP"><i>Wednesday's</i><c>Wednesday</c></NS> afternoon. We have checked that it is open every day. As you know we are the best students in our school and it would be <NS type="MD"><c>a</c></NS> nice <NS type="RN"><i>prize</i><c>reward</c></NS> for our work during this year.</p>
+          <p>I would <NS type="S"><i>b</i><c>be</c></NS> grateful if you <NS type="MV"><c>would</c></NS> consider our suggestions.</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. It was night and I was alone in my house.</p>
+          <p>Suddenly I heard a <NS type="S"><i>noice</i><c>noise</c></NS> from my garden and I wanted to know what it was, but it was impossible to <NS type="R">do it</NS>.</p>
+          <p>The outside lights were <NS type="RJ"><i>broken down</i><c>broken</c></NS> and I couldn't see anything.</p>
+          <p>My dog was very angry. I was <NS type="S"><i>affraid</i><c>afraid</c></NS> that someone was near my house and wanted to get <NS type="RT"><i>to</i><c>into</c></NS> my house.</p>
+          <p>After a few minutes I heard steps near my <NS type="UP"><i>kitchen's</i><c>kitchen</c></NS> window.</p>
+          <p>I was very <NS type="S"><i>frethend</i><c>frightened</c></NS>, but I knew<NS type="UP"><i>,</i></NS> that I <NS type="TV"><i>should do</i><c>had to do</c></NS> something. I had no time to call <NS type="RA"><i>someone</i><c>anyone</c></NS> and I had to go to my kitchen to <NS type="RV"><i>check</i><c>see</c></NS> what it was.</p>
+          <p>I stood against the window and I started to listen. I was <NS type="S"><i>shure</i><c>sure</c></NS> there <NS type="AGV"><i>were</i><c>was</c></NS> someone on the other side of the wall.</p>
+          <p>It was terrible<NS type="RP"><i>,</i><c>.</c></NS> I thought that it was the last day of my life.</p>
+          <p>Suddenly someone broke my window. I had no time to think<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="RV"><i>kept</i><c>grabbed</c></NS> one of the pots and hit him <NS type="RT"><i>in</i><c>on</c></NS> his head. One moment later I called <NS type="MD"><c>the</c></NS> police.</p>
+          <p>He was a thief, who <NS type="TV"><i>were</i><c>had been</c></NS> looked for for many years.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR615*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I'm really happy to know that I won <NS type="UT"><i>in</i></NS> your competition. And first of all, before <NS type="MA"><c>I</c></NS> <NS type="FV"><i>to ask</i><c>ask</c></NS> for <NS type="CN"><i>informations</i><c>information</c></NS> about the <NS type="RN"><i>travel</i><c>trip</c></NS>, I want to <NS type="RV"><i>tell</i><c>say</c></NS> <NS type="UA"><i>you</i></NS> thanks a lot.</p>
+          <p>I would like to travel in July because <NS type="MA"><c>it</c></NS> is the best <NS type="RN"><i>period</i><c>time</c></NS> to take a break from my work.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, if <NS type="UV"><i>is</i></NS> possible I would like to stay in <NS type="MD"><c>a</c></NS> <NS type="RN"><i>camping</i><c>tent</c></NS> because I think <NS type="MA"><c>it</c></NS> is a relaxing place <NS type="UY"><i>where</i></NS> to stay. <NS type="RY"><i>Further</i><c>Furthermore</c></NS> because I like to live in contact with <NS type="UD"><i>the</i></NS> nature. Also <NS type="MA"><c>it</c></NS> is possible to meet a lot of people, and <NS type="FV"><i>chatting</i><c>to chat</c></NS> during the night, <NS type="RY"><i>might</i><c>perhaps</c></NS> around the fire, playing a <NS type="DN">clutone</NS> and singing<NS type="MP"><c>.</c></NS> I think <NS type="MA"><c>it</c></NS> is a nice way to have fun.</p>
+          <p>I'm really happy to know that <NS type="MA"><c>it</c></NS> is possible to play sports. I would like to play <NS type="RP"><i>Tennis,</i><c>tennis</c></NS> and <NS type="MV"><c>go</c></NS> swimming. I choose tennis because <NS type="MA"><c>it</c></NS> is a sport that you can play with <NS type="IQ"><i>others</i><c>other</c></NS> people, also because I like <NS type="R"><i>the competition in the sport</i><c>competitive sports</c></NS>. The other sport that I would like to do is swimming. Swimming is my favourite sport because you can relax your body and your mind.</p>
+          <p>I would like to ask you for further <NS type="CN"><i>informations</i><c>information</c></NS> about this <NS type="RN"><i>travel</i><c>trip</c></NS>.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes <NS type="MV"><c>do</c></NS> I have to bring with me? How much money <NS type="MV"><c>do</c></NS> I need <NS type="R"><i>to do</i><c>for</c></NS> this <NS type="RN"><i>travel</i><c>trip</c></NS>?</p>
+          <p>Also, if <NS type="UV"><i>is</i></NS> possible I want to know if there is <NS type="R"><i>the</i><c>any</c></NS> possibility <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to organise</i><c>organising</c></NS> a trip around the most important cities near the camp? And if during the nights there are <NS type="MQ"><c>any</c></NS> <NS type="S"><i>entrotenements</i><c>entertainments</c></NS>?</p>
+          <p>Thanks for all <NS type="R"><i>these</i><c>the</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I'm looking forward to hearing <NS type="MT"><c>from</c></NS> you again.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>After the discussion that we had in the <NS type="RP"><i>english</i><c>English</c></NS> class, I understood that a lot of people sometimes don't enjoy <NS type="U"><i>during the</i></NS> shopping.</p>
+          <p>I can't understand these people because this <NS type="UN"><i>situation</i></NS> never <NS type="TV"><i>happen</i><c>happens</c></NS> to me. By the way<NS type="MP"><c>,</c></NS> usually the people <NS type="RA"><i>that</i><c>who</c></NS> don't like shopping are men or children. I think <NS type="MA"><c>it</c></NS> is difficult to find a woman <NS type="RA"><i>that</i><c>who</c></NS> doesn't like shopping. But I have to admit that sometimes I don't really like shopping<NS type="MP"><c>,</c></NS> above all when I'm tired or when I'm not in the right mood. In fact if I'm not in the right mood I become <NS type="RJ"><i>nervous</i><c>irritable</c></NS> because I can't find anything.</p>
+          <p>For me, <NS type="R">the best moments for the shopping are two opposite situations</NS>.</p>
+          <p><NS type="R">For the first situation happen to me,</NS> when I'm <NS type="RJ"><i>hungry</i><c>angry</c></NS> with somebody really close to me like my boyfriend or a <NS type="RN"><i>component</i><c>member</c></NS> of my family, so <NS type="UT"><i>for</i></NS> <NS type="FV"><i>relaxing</i><c>to relax</c></NS> <NS type="U"><i>my mind</i></NS> I go <NS type="UT"><i>to</i></NS> shopping and usually I enjoy <NS type="MA"><c>it</c></NS> a lot.</p>
+          <p>The opposite situation is when I pass my exams and I really need to buy something <NS type="U"><i>for me</i></NS> as a <NS type="S"><i>preseant</i><c>present</c></NS> for myself.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

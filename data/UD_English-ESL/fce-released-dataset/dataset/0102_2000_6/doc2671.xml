@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1075*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>11.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Now all the town <NS type="TV"><i>knew</i><c>knows</c></NS> my secret. This is a very <NS type="RJ"><i>embarrassed</i><c>embarrassing</c></NS> situation. I have to leave this town. My god, I never should have told my sister this secret.</p>
+          <p>This story started when I arrived <NS type="RT"><i>to</i><c>in</c></NS> this town with <NS type="MD"><c>my</c></NS> family. We <NS type="TV"><i>come</i><c>came</c></NS> here to build our own house because my father had been fired and we had to sell our house in Buenos Aires. My mother suggested <NS type="FV"><i>to come</i><c>coming</c></NS> here because one of her brothers was established here and he could help us.</p>
+          <p>I hadn't <NS type="RV"><i>known</i><c>met</c></NS> all of <NS type="R"><i>us</i><c>the family</c></NS> (my uncle, my aunt and my beautiful cousin) <NS type="RT"><i>up to</i><c>before</c></NS> that day. My uncle, called Paul, <NS type="RV"><i>offered</i><c>invited</c></NS> us to stay with his family <NS type="RT"><i>up to</i><c>until</c></NS> we <NS type="RV"><i>could</i><c>had</c></NS> <NS type="TV"><i>build</i><c>built</c></NS> our house.</p>
+          <p><NS type="RY"><i><NS type="S"><i>Cassually</i><c>Casually</c></NS></i><c>Coincidentally</c></NS> my cousin <NS type="RV"><i>had</i><c>was</c></NS> the same age as me, sixteen, that's the reason <NS type="UT"><i>for</i></NS> we started <NS type="R"><i>a</i><c>our</c></NS> friendly relationship. We <NS type="TV"><i>spend</i><c>spent</c></NS> all <NS type="R"><i>the</i><c>our</c></NS> time together. This "friendly" relationship was starting to <NS type="RV"><i>make</i><c>get</c></NS> hot. I <NS type="MV"><c>had</c></NS> never had a boyfriend and I <NS type="RV"><i>felt</i><c>fell</c></NS> in love with him. One day in the <unknown/>, he kissed me. It was wonderful. I felt that I had discovered <NS type="R">other ways</NS>. In fact, I <NS type="RV"><i>did</i><c>had</c></NS>. We made love... But one month later, something surprised me, I was pregnant.</p>
+         </coded_answer>
+     </answer1>
+  </text>
+</head></learner>

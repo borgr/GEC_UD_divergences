@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR344*0100*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan</p>
+          <p>I would like to thank you for your letter you recently sent me concerning the <NS type="S"><i>competiton</i><c>competition</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> two weeks at Camp California in the U.S.A.</p>
+          <p>This <NS type="RP"><i>august</i><c>August</c></NS> I will start a new job so the only possible month for me to join <NS type="UT"><i>in</i></NS> the <NS type="RP"><i>Camp</i><c>camp</c></NS> is July. I hope this will cause no problems.</p>
+          <p>I am glad that you offer <NS type="UT"><i>for</i></NS> accommodation not only <NS type="MT"><c>in</c></NS> tents but also <NS type="MT"><c>in</c></NS> log cabins. Because I am a light sleeper and have problems with my back I prefer to sleep in a log cabin with a comfortable bed.</p>
+          <p>Although it was not easy to choose two activities from your list I decided to do <NS type="RP"><i>Singing and Surfing</i><c>singing and surfing</c></NS>. It is difficult to say how <NS type="DY"><i>good</i><c>well</c></NS> I can sing but I really like it and I think I am not too bad. I <NS type="TV"><i><NS type="RV"><i>never did</i><c>never tried</c></NS></i><c>have never tried</c></NS> <NS type="RP"><i>Surfing</i><c>surfing</c></NS> in my life but I am a very good <NS type="RP"><i>Snowboarder</i><c>snowboarder</c></NS> and this could be an advantage.</p>
+          <p>I hope I <NS type="TV"><i>gave</i><c>have given</c></NS> you all <NS type="MD"><c>the</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> you need. There is something I <NS type="MV"><c>would</c></NS> like to know from you.</p>
+          <p>Should I bring some special clothes (surfing) with me? How much money do you think I have to change and <NS type="R"><i>is there a</i><c>is it</c></NS> possible to get more (bank)?</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+          <p>Rosalinde Schulz</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>Last <NS type="RP"><i>saturday</i><c>Saturday</c></NS> evening I <NS type="RV"><i>spent</i><c>had</c></NS> a wonderful time. The <NS type="RP"><i>motor bike</i><c>motorbike</c></NS> club <NS type="RT"><i>of</i><c>in</c></NS> our town organized a pop concert. A girlfriend of a member of the club asked me if I would like to help at the information desk. I did not hesitate one moment.</p>
+          <p>The only thing I had to do was <NS type="FV"><i>solving</i><c>to solve</c></NS> the different problems of the <NS type="RN"><i>guests</i><c>audience</c></NS> and just <NS type="FV"><i>being</i><c>be</c></NS> there if they <NS type="TV"><i>have</i><c>had</c></NS> any questions. Some people came from Germany<NS type="MP"><c>,</c></NS> some from Austria and some came from England or the U.S.A.</p>
+          <p>Talking English with the people from England or the U.S.A. was wonderful. They were all very kind and with some of them I spent the rest of the evening and also the following day.</p>
+          <p><NS type="W"><i>That I <NS type="RV"><i>reached</i><c>earned</c></NS> a lot of money for doing something I like very much was very nice</i><c>It was very nice that I earned a lot of money for doing something I like very much</c></NS> but the most important thing for me was meeting people, having fun and using the English language. I will never forget this evening.</p>
+          <p>Love,</p>
+          <p>Rosalinde Schulz</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

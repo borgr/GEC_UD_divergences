@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR917*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I have recently been to the Circle Theatre and watched the musical show - <NS type="RP"><i>over the rainbow</i><c>Over the Rainbow</c></NS>. I am writing to you because there were deviations from the advertisement which <NS type="TV"><i>is</i><c>was</c></NS> published <NS type="RT"><i>on</i><c>in</c></NS> the newspaper.</p>
+          <p><NS type="AS"><i>According to the advert, it says clearly</i><c>The advert clearly says</c></NS> that discounts are available, but when I was buying the tickets, I <NS type="R">did not have this offer</NS>. As a result, I had to pay the full price of £15. The second point is that the show <NS type="R">had a delay of</NS> about 30 minutes. Although I believe there must have been problems, I expect your company managed to sort it out in the quickest way. Apart from that, the most disappointing fact is that there were different actors instead of Danny brook and Tina Truelove, <NS type="RT"><i>for</i><c>because of</c></NS> whom I <NS type="R">was coming</NS>. After the show we went to the <NS type="RP"><i>Theatre</i><c>theatre</c></NS> restaurant, but it was closed <NS type="RT"><i>due to</i><c>for</c></NS> <NS type="UD"><i>the</i></NS> refurbishment.</p>
+          <p>I <NS type="TV"><i>am</i><c>was</c></NS> not really satisfied <NS type="RT"><i>about</i><c>with</c></NS> the show and I certainly believe that it was not a perfect evening out. I therefore would like to have a <NS type="RN"><i>compensation</i><c>refund</c></NS> of <NS type="MD"><c>the</c></NS> £30 which I spent on the tickets.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="RY"><i>Sincerely</i><c>Faithfully</c></NS> </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. My story had already been spread <NS type="UY"><i>out</i></NS> the next day. Although failing in the exams wasn't really a big deal, it was awful that people kept mentioning it. I <NS type="X"><i>thought I was not</i><c>didn't think I was</c></NS> going to survive after failing the exams and my best friend had been <NS type="DJ"><i>untrustful</i><c>untrustworthy</c></NS>. <NS type="RP"><i>but</i><c>But</c></NS> <NS type="R">this idea was soon be put off</NS> since I noticed <NS type="RT"><i>on</i><c>in</c></NS> the newspaper that I had won the writing competition. I couldn't believe my luck<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="R">was really sure that I won</NS> a return ticket to the <NS type="S"><i>Meditarenian</i><c>Mediterranean</c></NS> Sea. During the trip, I made friends with other people who had also won the competition in their towns. They were so kind to me that we soon became good friends. <NS type="MT"><i>The</i><c>For the</c></NS> last few days, we spent our time <NS type="UT"><i>on</i></NS> sightseeing and shopping. I must admit that it was the greatest time I have ever had in my life. On the last day when I was packing and getting ready to leave, I realised I had lost my passport and tickets. A horrible thought suddenly came into my mind. My bad luck had never left me. It had only hidden away from me and when there was a chance, it was going to give me a 'surprise'.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

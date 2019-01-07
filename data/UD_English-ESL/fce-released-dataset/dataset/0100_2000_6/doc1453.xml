@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR563*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p><NS type="RY"><i>At first</i><c>Firstly</c></NS>, I am very happy to win this first prize and as expected I'm following your <NS type="FN"><i>instruction</i><c>instructions</c></NS>.</p>
+          <p>I can enjoy this <NS type="UJ"><i>gifted</i></NS> prize only after <NS type="MD"><c>the</c></NS> 7th of <NS type="RP"><i>july</i><c>July</c></NS>, because before this date I will be in Jamaica doing <NS type="FD"><i>a</i><c>an</c></NS> English course. I have been <NS type="IV"><i>traveling</i><c>travelling</c></NS> around Jamaica for a year without any <NS type="R">conpert</NS> due to an inclination for adventure, so I would rather you provided a <NS type="SX"><i>tend</i><c>tent</c></NS>, I don't mind.</p>
+          <p>From the 10 <NS type="S"><i>opitions</i><c>options</c></NS> that I have to <NS type="FV"><i>chose</i><c>choose</c></NS> <NS type="MT"><c>from</c></NS> I will <NS type="FV"><i>chose</i><c>choose</c></NS> two, climbing, <NS type="S"><i>wich</i><c>which</c></NS> I have been <NS type="RV"><i><NS type="S"><i>praticing</i><c>practising</c></NS></i><c>doing</c></NS> for three years <NS type="UC"><i>and</i></NS> because <NS type="UA"><i>that</i></NS> I know <NS type="ID"><i>by heart how to do it</i><c>it by heart</c></NS>, and swimming <NS type="S"><i>wich</i><c>which</c></NS> I have also been doing every day <NS type="R"><i>in</i><c>as part of</c></NS> my daily <NS type="S"><i>rotine</i><c>routine</c></NS> in Portugal.</p>
+          <p>I would like to know about <NS type="RQ"><i><NS type="S"><i>wich</i><c>which</c></NS></i><c>what</c></NS> sort of <NS type="SX"><i>close</i><c>clothes</c></NS> I have got to take? And I also would like to ask how much money I have got to take. I hope that <NS type="MV"><c>coming</c></NS> after <NS type="RP"><i><NS type="S"><i>jully</i><c>july</c></NS></i><c>July</c></NS> won't disturb <NS type="UD"><i>the</i></NS> Camp California's plans for me.</p>
+          <p><NS type="ID"><i>All<NS type="S"><i>reggards</i><c>regards</c></NS></i><c>Best regards</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>School days</p>
+          <p><NS type="R">As known</NS>, <NS type="RP"><i>every body</i><c>everybody</c></NS> <NS type="AGV"><i>have</i><c>has</c></NS> to spend all <NS type="RD"><i>the</i><c>their</c></NS> childhood and youth at <NS type="UD"><i>the</i></NS> school, because <NS type="MT"><c>of</c></NS> that everybody <NS type="AGV"><i>have</i><c>has</c></NS> a similar daily life such as, wake up, got to the school, study and the best, meet all the friends.</p>
+          <p>A survey has been done, and the issue is<NS type="UP"><i>,</i></NS> <NS type="S"><i>wich</i><c>which</c></NS> subjects (lessons) and activities the students <NS type="AGV"><i>thinks</i><c>think</c></NS> are the most <NS type="IJ"><i>enjoyables</i><c>enjoyable</c></NS>. Someone says it is maths<NS type="RP"><i>,</i><c> - </c></NS> <NS type="S"><i>pratical</i><c>practical</c></NS>, <NS type="DJ"><i>usefull</i><c>useful</c></NS> <NS type="MP"><c> - </c></NS> but the majority <NS type="AGV"><i>says</i><c>say</c></NS> it is boring, unless you're <NS type="TV"><i>chose</i><c>choosing</c></NS> a job which <NS type="RV"><i>charges</i><c>demands</c></NS> all your <NS type="RP"><i>math's</i><c>maths</c></NS> knowledge <NS type="MQ"><c>such</c></NS> as accounting, otherwise you can use a calculator or a computer. The <NS type="S"><i>majorite</i><c>majority</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> chosen History, which means a big journey around the world, <NS type="CE">either at the Roman life style, or in the <NS type="S"><i>midle</i><c>middle</c></NS> <NS type="FN"><i>age</i><c>ages</c></NS>, when a revolution happened with deaps and new lands</NS>. People must get some rest often, and as a result they look forward <NS type="MT"><c>to</c></NS> some happiness <NS type="R">at the</NS> free time <NS type="R">such as, party, games, and every one loves party</NS> <NS type="RA"><i><NS type="RP"><i>, it</i><c>.  It</c></NS></i><c>.  That</c></NS> should <NS type="TV"><i>have been</i><c>be</c></NS> filmed.</p>
+          <p>At all schools there is a similar daily life <NS type="S"><i>wich</i><c>which</c></NS> must be filmed<NS type="RP"><i>, this</i><c>.  This</c></NS> is <NS type="FD"><i>a</i><c>an</c></NS> important part of our life, <NS type="S"><i>wich</i><c>which</c></NS> is full of <NS type="CE">emotions in development</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

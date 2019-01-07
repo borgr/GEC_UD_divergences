@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR458*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>I am so glad. I have won first prize in your competition! It was a really big surprise for me. I will join The Camp California in the U.S.A. with pleasure.</p>
+          <p>I would like to travel there in July, because <NS type="W"><i>only in July I can have holiday</i><c>I can only have holiday in July</c></NS>. In June and in August I will have to work, so it would be rather impossible for me to join Camp California then. I would like to have <NS type="UD"><i>an</i></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS> in <NS type="MD"><c>a</c></NS> log cabin because I think it is more comfortable than a tent. So if I could choose I would like to stay in a log cabin. Being at the Camp I would like to swim and to play tennis. I have <NS type="TV"><i>swam</i><c>been swimming</c></NS> for 10 years and I have played tennis since I was 9 years old and <NS type="W"><i>those activities I like</i><c>I like those activities</c></NS> best.</p>
+          <p>I <NS type="SX"><i>thin</i><c>think</c></NS> I am <NS type="UD"><i>the</i></NS> best in horse riding; I even have my own horse, so if it is possible I would like to ride horses at Camp California.</p>
+          <p>I am looking forward <NS type="RT"><i>for</i><c>to</c></NS> hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>Felicia Zajac</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>It was a bright, <NS type="DJ"><i>shinny</i><c>sunny</c></NS> day. I woke up early in the morning and I decided to go shopping.</p>
+          <p>Warsaw's ,, Clif'' is my favourite shopping centre so I went there. I saw a beautiful, long dress. I decided to try it on.</p>
+          <p>- What is your size - said <NS type="MD"><c>the</c></NS> shop-assistant.</p>
+          <p>- 36 - I said.</p>
+          <p>- Och, I am very sorry, but we have run out of <NS type="W"><i>36 size</i><c>size 36</c></NS>.</p>
+          <p>I was going to the chemist to buy some eye-shadow, when I saw black, suede shoes. Those shoes must be mine! - I thought. I went in and I asked the shop assistant if I could try <NS type="AGA"><i>it</i><c>them</c></NS> on.</p>
+          <p>- Yes, of course- she replied- but what is your size?</p>
+          <p>- 38 - I said.</p>
+          <p>- <NS type="UP"><i>I'am</i><c>I am</c></NS> very sorry but we do not have 38.</p>
+          <p>I was very angry. I had some money, I wanted to spend <NS type="AGA"><i>them</i><c>it</c></NS>, but?! Everything did not suit me! It was enough! I came back home - tired and angry. Surely it was not the best day for shopping. I did not buy anything, although I tried.</p>
+          <p>So as we can see - shopping is not always <NS type="DJ"><i>enjoable</i><c>enjoyable</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

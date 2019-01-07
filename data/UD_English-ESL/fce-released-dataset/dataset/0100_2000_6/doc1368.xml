@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR558*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan</p>
+          <p>With reference to the letter from you<NS type="RP"><i>.</i><c>,</c></NS> I would like to inform <NS type="M"><c>you of</c></NS> some further information<NS type="MP"><c>,</c></NS> as <NS type="AGV"><i>follow</i><c>follows</c></NS>.</p>
+          <p>First of all, I am able to <NS type="SX"><i>joy</i><c>join</c></NS> the camp only in July because <NS type="R"><i>then</i><c>that month</c></NS> <NS type="TV"><i>will be</i><c>is</c></NS> my school holiday. I would prefer tents to <NS type="SX"><i>long</i><c>log</c></NS> cabins because I think it will be more interesting and exciting <NS type="UC"><i>than</i></NS> <NS type="RV"><i><NS type="FV"><i>live</i><c>to live</c></NS></i><c>to stay</c></NS> in <NS type="SX"><i>long</i><c>log</c></NS> cabins. I am also interested in swimming and sailing<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="UV"><i>am</i></NS> always go to <NS type="MD"><c>the</c></NS> swimming pool when I have time<NS type="RP"><i>, our</i><c>. Our</c></NS> family used to live near the <NS type="UP"><i>sea side</i><c>seaside</c></NS><NS type="RP"><i>, we</i><c>. We</c></NS> would go sailing on the weekend and I miss it very much</p>
+          <p>Finally, I don't know much about <NS type="R">there</NS><NS type="RP"><i>, is</i><c>. Is</c></NS> there anything <NS type="W"><i>should I</i><c>I should</c></NS> bring with me? What is the weather going to be like<NS type="RP"><i>? Because</i><c>, because</c></NS> I want to know what kind of clothes <NS type="W"><i>should I</i><c>I should</c></NS> bring with me? And how much <NS type="S"><i>meney</i><c>money</c></NS> <NS type="W"><i>should I</i><c>I should</c></NS> <NS type="RV"><i>have</i><c>take</c></NS>?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>yours sincerely</p>
+          <p>RATTANAKOSIN AREVA</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Most people believe that shopping is the most entertaining <NS type="RN">way</NS>. Some people <NS type="W"><i>when they are <NS type="U"><i>in a</i></NS> <NS type="DJ"><i>sadness</i><c>sad</c></NS>, <NS type="UA"><i>they</i></NS> will go shopping</i><c>will go shopping when they are sad</c></NS> to forget <NS type="RP"><i>every thing</i><c>everything</c></NS> and the fact is that <NS type="RP"><i>every body</i><c>everybody</c></NS> knows how to <NS type="FV"><i>shopping</i><c>shop</c></NS>. If you have <NS type="S"><i>chilldren</i><c>children</c></NS>, you will know <NS type="UA"><i>it</i></NS> very well <NS type="MC"><c>that</c></NS> when you are busy doing something and the <NS type="S"><i>chilldren</i><c>children</c></NS> see something they want to have, they will do everything they can do to make you buy it for them, <NS type="RY"><i>sometime</i><c>sometimes</c></NS> they even cry or shout <NS type="RT"><i>to</i><c>at</c></NS> you and it is really <NS type="DJ"><i><NS type="S"><i>anoy</i><c>annoy</c></NS></i><c>annoying</c></NS> <NS type="UA"><i>you</i></NS>. However<NS type="MP"><c>,</c></NS> they are happy <NS type="RY"><i>after</i><c>once</c></NS> they have it. Anyway, <NS type="UY"><i>even</i></NS> in families they <NS type="S"><i>usauly</i><c>usually</c></NS> have this problem that when they <NS type="TV"><i>bought</i><c>buy</c></NS> a new <NS type="R">one</NS>, suddenly they have a problem <NS type="R"><i>that</i><c>about</c></NS> where the old one is going to be and that is the <NS type="S"><i>begining</i><c>beginning</c></NS> of <NS type="MD"><c>an</c></NS> argument between mother and <NS type="SX"><i>farther</i><c>father</c></NS> or parents and <NS type="S"><i>chilldren</i><c>children</c></NS>. <NS type="RY">Eventually</NS> I like shopping <NS type="SX"><i>to</i><c>too</c></NS> and I <NS type="S"><i>beleive</i><c>believe</c></NS> <NS type="RP"><i>every body</i><c>everybody</c></NS> <NS type="AGV"><i>like</i><c>likes</c></NS> shopping, but before you buy something think <NS type="RY"><i>before</i><c>first</c></NS> <NS type="MC"><c>and</c></NS> you will not have any problems after that and the most important thing is make sure you have enough <NS type="S"><i>meney</i><c>money</c></NS> <NS type="UT"><i>for</i></NS> <NS type="FV"><i>survive</i><c>to survive</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

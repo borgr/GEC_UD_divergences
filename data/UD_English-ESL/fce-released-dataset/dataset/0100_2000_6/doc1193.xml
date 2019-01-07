@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR489*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Miss/Mrs. Ryan,</p>
+          <p>I have just received the excellent news about the prize I have won and I am writing to you in order to give you all the details you need.</p>
+          <p>Firstly, I can only travel in July, as it is then <NS type="R"><i>when</i><c>that</c></NS> I <NS type="RV"><i>get</i><c>am</c></NS> <NS type="R"><i>my</i><c>on</c></NS> holiday from my present job.</p>
+          <p>Secondly, I would rather stay in a tent, because when I was a child I used to go to a campsite and stay in a tent with my family for two weeks every summer and I thoroughly enjoyed it.</p>
+          <p>About the activities I can choose from, I would be delighted if I could sing, because it is something that I have always loved and, although perhaps I should not say <NS type="RA"><i>that</i><c>it</c></NS> myself, I think I have a nice voice.</p>
+          <p>I am also very fond of photography, so when I <NS type="TV"><i>have seen</i><c>saw</c></NS> that it is among your options it <NS type="TV"><i>has been</i><c>was</c></NS> a wonderful surprise.</p>
+          <p>Finally, I would like to ask you <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes are more suitable for that time of the year at the camp, the amount of money that<NS type="MP"><c>,</c></NS> more or less<NS type="MP"><c>,</c></NS> I would need to bring with me and if there is any cooking equipment to cook the meals ourselves.</p>
+          <p>I am looking forward to receiving your prompt reply.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thanks very much for your last letter. Because I could see how anxious you are to know about my experience at the Radiohead concert last month, I'll tell you something: it was fantastic.</p>
+          <p>I friend of mine had been helping at a few concerts before, so that time the agency rang him and asked him if he could bring someone else, because they'd run out of <NS type="RN"><i>stuff</i><c>staff</c></NS>. He asked <NS type="UT"><i>to</i></NS> me to go and when he told me the group was Radiohead I felt <NS type="MT"><c>like</c></NS> the luckiest person in the world (you know I've always been an enthusiastic fan of them, so you can imagine how excited I was). I couldn't wait for it.</p>
+          <p>When we arrived there we had to prepare the stage, clean everything and put a number on each seat.</p>
+          <p>But the most amazing thing happened later, when<NS type="MP"><c>,</c></NS> ten minutes before the concert began, my friend told me we could see it from <NS type="R"><i>the backside of the stage</i><c>backstage</c></NS>. For a while I thought it was a dream. The <NS type="RN"><i>playing</i><c>music</c></NS> was excellent, the <NS type="RN"><i>public</i><c>audience</c></NS> enjoyed it very much but, above all, I was there, <NS type="UT"><i>at</i></NS> ten metres from my favourite group. I even got a few friendly words from the singer <NS type="RT"><i>in</i><c>on</c></NS> a piece of paper: I hope you've enjoyed it. And his signature. I'll always <NS type="ID"><i>keep it like a treasure</i><c>treasure it</c></NS>.</p>
+          <p>I'll show you the photographs I took next time you come to visit me, <NS type="UP"><i>O.K</i><c>OK</c></NS>? Till then, take care <NS type="MT"><c>of</c></NS> yourself.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

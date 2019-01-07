@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR4*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>To Mr. Robertson</p>
+          <p>I am writing to tell you something about the three-day trip to London.</p>
+          <p>I have seen your programme for the trip and I think it is going to be a great trip. Thank you very much for organising this trip and putting all your spare time and effort into it. Personally, I enjoy looking <NS type="MT"><c>at</c></NS> and learning about new inventions and all the science. That is why I think the trip to the science museum is a good idea. However, my class and I have seen an advertisement <NS type="RT"><i>about</i><c>for</c></NS> a fashion and leisure show. We are attracted to this show and would like to go. Unfortunately, it is on 14th March, which is the day we will be visiting the science museum.</p>
+          <p>This show is on the 14th March. It is in the Central Exhibition Hall and will start <NS type="R"><i>and</i><c>at</c></NS> ten o'clock and finish at five o'clock in the evening. Apparently, this show is free to all students, which means if we went, the cost of the trip <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="RV"><i>cut down</i><c>reduced</c></NS>.</p>
+          <p>I think it is a great opportunity because it is based on fashion. We like to keep up with the <NS type="RN"><i>rage</i><c>trends</c></NS> but I think it will help those who want to become <NS type="UD"><i>a</i></NS> fashion <NS type="FN"><i>designer</i><c>designers</c></NS> later on.</p>
+          <p>I have a suggestion on how the programme could be changed. The shopping time could be after the show and the free time exchanged for the science museum. If we go to the show, we can do without the free time.</p>
+          <p>Please give this your careful consideration..</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>In a country like the UK, we are all bound to have houses. We either own it, or we simply borrow it from other people. We take our homes for granted. Think about the people in the poor countries! They struggle to survive. However, as we approach the future, our homes will start to change.</p>
+          <p>Have you ever thought about how the changes will affect our lives? I doubt it.</p>
+          <p>There will be lots of differences in our homes of the future from our homes now, but there may also be a lot of similarities. For one, the future <NS type="FN"><i>homes</i><c>home</c></NS> might not be built out of bricks at all! It may be built out of a stronger substance or a more attractive one, such as glass. Non-breakable glass. Also, due to global warming, sea levels might rise and <NS type="MD"><c>the</c></NS> risk of flooding will also rise. Therefore, houses will be built on high supports. All domestic appliances such as showers, kettles, lights, TV and curtains may be voice activated. Incredibly high security will prevent robbery.</p>
+          <p>The future homes will also have many similarities, such as having a separate bathroom, and not having one in a bedroom, or having two floors or having garages.</p>
+          <p>It has been a pleasure sharing my thoughts with you. What do you think will happen in the future?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

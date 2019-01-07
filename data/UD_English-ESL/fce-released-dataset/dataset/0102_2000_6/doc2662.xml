@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1067*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir:</p>
+          <p>I'm writing to you to complain about last <NS type="MP"><i>evening</i><c>evening's</c></NS> musical show. I was very happy to see your musical show but I have to say that it has been a very disappointing evening. At first my favourite actor Danny Brook didn't perform<NS type="MP"><c>,</c></NS> without any <NS type="S"><i>explictions</i><c>explanations</c></NS> <NS type="MV"><c>being given</c></NS>, and the show should <NS type="TV"><i>started</i><c>have started</c></NS> at 19:30 instead of 20:15!! I was sure that <NS type="S"><i>discouts</i><c>discounts</c></NS> were available because I <NS type="TV"><i>have</i><c>had</c></NS> read <NS type="RA"><i>it</i><c>that</c></NS> <NS type="M"><c>they were</c></NS>, but at the <NS type="FN"><i>tickets</i><c>ticket</c></NS> office they didn't <NS type="RV"><i>accept</i><c>offer</c></NS> them. What a terrible evening! So I <NS type="IV"><i>payed</i><c>paid</c></NS> <NS type="MT"><c>for</c></NS> the ticket. After the show I was hungry so I went to the restaurant but it was closed!</p>
+          <p>It wasn't my perfect evening out so I'd like to have my money back!</p>
+          <p>Yours Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets so he told his mother how his brother Jim lost her suit suitcase on the train. Jim's mum didn't want him to take her suitcase, but he did <NS type="UA"><i>it</i></NS>. So <NS type="RQ"><i>a</i><c>one</c></NS> morning he reached Victoria Station with the suitcase and <NS type="TV"><i>take</i><c>took</c></NS> the train for the countryside where he had to work. But when he walked out <NS type="MT"><c>of</c></NS> the station he realised that he <NS type="TV"><i>have</i><c>had</c></NS> <NS type="RV"><i>lost</i><c>left</c></NS> the suitcase on the train. Then he waited for the next train to London and he caught it. He was worried about his mother's reaction, but when he arrived he went to the Station Manager's office and he found it on the table. He was so happy! All this story was a secret but Pat <NS type="DV"><i>realived</i><c>revealed</c></NS> <NS type="MA"><c>it</c></NS> to his mother. She was so angry and confused because Jim <NS type="TV"><i>haven't</i><c>hadn't</c></NS> told her the truth.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

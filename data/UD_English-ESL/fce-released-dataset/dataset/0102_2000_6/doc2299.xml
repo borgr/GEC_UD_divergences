@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR765*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>17th - June - 2000</p>
+          <p>Auda. Lolas 44</p>
+          <p>MADRID 23456</p>
+          <p>SPAIN</p>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about the show "Over the rainbow"<NS type="MP"><c>,</c></NS> <NS type="RV"><i>taking part</i><c>taking place</c></NS> <NS type="MT"><c>on</c></NS> the 15th of June</p>
+          <p><NS type="UD"><i>The last</i><c>Last</c></NS> week I <NS type="RV"><i>have been</i><c>went</c></NS> to London for a holiday. There <NS type="R"><i>is</i><c>I</c></NS> saw the advertisement for this show and I decided to go <NS type="UY"><i>there</i></NS>.</p>
+          <p>I went to buy the tickets but when I paid there was not any discount <NS type="S"><i>avaible</i><c>available</c></NS>. In the advertisement you told me I would <NS type="RV"><i>have</i><c>get</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>discounts</i><c>discount</c></NS>.</p>
+          <p>This was not the worst thing because when I arrived at the theatre I <NS type="TV"><i>was waiting</i><c>waited</c></NS> <NS type="MP"><i><NS type="S"><i>fourty five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes because the show should start at 19:30 and it started at 20:15. When it started the main actor Danny Brook was not in <NS type="MA"><c>it</c></NS>, another<NS type="MP"><c>,</c></NS> worse actor <NS type="RV"><i>was</i><c>had</c></NS> taken his part. In my opinion when the main actor <NS type="RP"><i>can not</i><c>cannot</c></NS> do the show it is better not <NS type="FV"><i>do</i><c>to do</c></NS> the show than <NS type="FV"><i>do</i><c>to do</c></NS> it with a horrible actor.</p>
+          <p>When it finished<NS type="MP"><c>,</c></NS> I <NS type="RV"><i>arrived at</i><c>went to</c></NS> the theatre restaurant but it was closed because they are going to <NS type="RV"><i>do</i><c>open</c></NS> a new<NS type="MP"><c>,</c></NS> better restaurant.</p>
+          <p>In my opinion you should <NS type="RV"><i>refuse</i><c>refund</c></NS> my money because the evening and the show were so terrible.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>But I did not know it, and I told her my secret: I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="TV"><i>fell</i><c>fallen</c></NS> in love with Paul<NS type="MP"><c>,</c></NS> a friend of <NS type="RA"><i>us</i><c>ours</c></NS>. No one <NS type="TV"><i>know</i><c>knew</c></NS> it <NS type="R"><i>else</i><c>but</c></NS> her.</p>
+          <p><NS type="RD"><i>The</i><c>That</c></NS> <NS type="RP"><i><NS type="S"><i>wendsday</i><c>wednesday</c></NS></i><c>Wednesday</c></NS> Pat phoned me and told me that Sally also <NS type="TV"><i>love</i><c>loved</c></NS> Paul. I had also told Sally my secret. <NS type="MT"><i>The</i><c>On the</c></NS> <NS type="RP"><i>thursday</i><c>Thursday</c></NS> Sally phoned me, because we are also friends, but she did not tell me anything about Paul.</p>
+          <p>The weekend <NS type="RV"><i>started</i><c>came</c></NS> and <NS type="RD"><i>this</i><c>that</c></NS> Friday we went to the <NS type="S"><i>dyscoteque</i><c>discotheque</c></NS>. I <NS type="RV"><i>spent</i><c>had</c></NS> <NS type="W"><i>there a good time</i><c>a good time there</c></NS> but<NS type="MP"><c>,</c></NS> at the end <NS type="M"><c>of the night</c></NS>, when we were going to <NS type="RV"><i>come</i><c>go</c></NS> back home, I saw Sally kissing Paul!! It was terrible!!</p>
+          <p>When Sally came out <NS type="MT"><c>of</c></NS> the <NS type="S"><i>dyscotheque</i><c>discotheque</c></NS> I was very <NS type="RJ"><i>nervous</i><c>angry</c></NS> and I started to shout <NS type="MT"><c>at</c></NS> her. She hit me and I decided <NS type="R"><i>in this moment</i><c>then</c></NS> that I <NS type="W"><i>never should</i><c>should never</c></NS> speak <NS type="RT"><i>with</i><c>to</c></NS> her <NS type="MY"><c>again</c></NS>.</p>
+          <p>Paul <NS type="TV"><i>ask</i><c>asked</c></NS> Pat what had happened and she told him my secret. One friend of mine told me that Pat had told Paul my secret and I went to speak with her. Now we are friends but I know that I <NS type="RP"><i>can not</i><c>cannot</c></NS> tell her any <NS type="AGN"><i>secret</i><c>secrets</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

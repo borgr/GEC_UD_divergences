@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR239*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>31-40</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>Thank you for the programme you have organised for our visit to London. We think it will be a very interesting trip, especially the sightseeing by bus.</p>
+          <p>In our class, we have read an advertisement for the "London Fashion and Leisure Show", which will take place at the Central Exhibition Hall in London on Tuesday 14 March from 10:00 to 19:00. As we are going to be in London on this date, we think<NS type="UP"><i>,</i></NS> it could be a great <NS type="S"><i>oppurtunity</i><c>opportunity</c></NS> for us to go there because we are very interested in the latest fashions, make up, etc. and it is free for students.</p>
+          <p>Because of this <NS type="UN"><i><NS type="AGN"><i>reasons</i><c>reason</c></NS></i></NS>, we would <NS type="DY"><i>kindy</i><c>kindly</c></NS> ask you to change the programme<NS type="UP"><i>,</i></NS> so that we could go to this <NS type="RJ"><i>especial</i><c>particular</c></NS> event. We suggest visiting the Science Museum in the afternoon on Wednesday 15 March and <NS type="IV"><i>canceling</i><c>cancelling</c></NS> the <NS type="RP"><i>Shopping</i><c>shopping</c></NS> on Tuesday 14 March.</p>
+          <p>Hoping <NS type="RT"><i>on</i><c>for</c></NS> your agreement and looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p><NS type="FD"><i>An</i><c>A</c></NS> <NS type="RJ"><i><NS type="S"><i>especiall</i><c>especial</c></NS></i><c>special</c></NS> invitation</p>
+          <p>It was dangerous, but I knew I had to do it. I was having <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>holidays</i><c>holiday</c></NS> with my parents and some friends in India and we were enjoying talking to people and eating the local food. One day we were invited <NS type="RT"><i>from</i><c>by</c></NS> <NS type="MQ"><c>some</c></NS> locals to visit a little town five hours away from New Dehli. Although my parents were very happy <NS type="RT"><i>of</i><c>about</c></NS> having such <NS type="FD"><i>an</i><c>a</c></NS> <NS type="RJ"><i>especial</i><c>special</c></NS> opportunity <NS type="MT"><c>of</c></NS> visiting a place with no tourists, I was a little bit scared.</p>
+          <p>In this country my parents used to buy water in bottles to have it clean, but in the little town we didn't <NS type="TV"><i>had</i><c>have</c></NS> <NS type="R"><i>this possibility</i><c>the chance to do this</c></NS> and the family where we were staying <NS type="UT"><i>with</i></NS><NS type="UP"><i>,</i></NS> kindly boiled the water for us.</p>
+          <p>We spent 2 weeks with the family. The first week was <NS type="SX"><i>find</i><c>fine</c></NS>, but <NS type="RT"><i>on</i><c>in</c></NS> the second week I got very <NS type="SX"><i>seek</i><c>sick</c></NS>. I think it was the water. My mother tried to get a doctor, but they said there was no one.</p>
+          <p>Some days later we went back to Dehli and<NS type="MP"><c>,</c></NS> having <NS type="TV"><i>being</i><c>been</c></NS> to the doctor and having again <NS type="MV"><c>drunk</c></NS> bottled water, I was feeling healthy again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

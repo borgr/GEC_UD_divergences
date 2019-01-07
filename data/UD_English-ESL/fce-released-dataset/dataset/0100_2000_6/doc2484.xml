@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1004*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Mrs Helen RYAN</p>
+          <p>Competition Organiser</p>
+          <p>USA</p>
+          <p>13th <NS type="RP"><i>JUNE.2000</i><c>June, 2000</c></NS></p>
+          <p>Dear Mrs Ryan,</p>
+          <p>I received your letter <NS type="UT"><i>in</i></NS> this morning<NS type="MP"><i> <NS type="UC"><i>and</i></NS> thank</i><c>. Thank</c></NS> you very much for your kind letter and <NS type="MT"><c>for</c></NS> <NS type="IV"><i>chosing</i><c>choosing</c></NS> me.</p>
+          <p>I can only travel in July because I <NS type="TV"><i>had already booked</i><c>have already booked</c></NS> and fully paid for a <NS type="W"><i><NS type="RP"><i>middle-east</i><c>Middle East</c></NS> holiday</i><c>holiday <NS type="M"><c>in the</c></NS> Middle East</c></NS>, from 25th <NS type="UT"><i>of</i></NS> July till <NS type="MD"><c>the</c></NS> end of August. If you can arrange my departure time <NS type="RT"><i>from</i><c>for</c></NS> 1st of July it <NS type="RV"><i>should</i><c>would</c></NS> be <NS type="DJ"><i>convenience</i><c>convenient</c></NS> for me.</p>
+          <p>I would like to stay in <NS type="MD"><c>a</c></NS> <NS type="FN"><i>tents</i><c>tent</c></NS><NS type="MP"><c>,</c></NS> because I had <NS type="CQ"><i>much</i><c>many</c></NS> great times in tents during my previous holidays, if it <NS type="R"><i>is suitable for you</i><c>can be arranged</c></NS>.</p>
+          <p>I want to do <NS type="AGD"><i>this</i><c>these</c></NS> two activities while I am at the camp: <NS type="RP"><i>Sailing</i><c>sailing</c></NS> and photography. I have great experience <NS type="RT"><i>for</i><c>of</c></NS> sailing. I used to work for a sailing company in Turkey. And I have <NS type="UV"><i>done</i></NS> <NS type="MD"><c>a</c></NS> certificate <NS type="RT"><i>for</i><c>in</c></NS> using <NS type="MD"><c>a</c></NS> radio (VHF). I have <NS type="S"><i>knowladge</i><c>knowledge</c></NS> <NS type="RT"><i>about</i><c>of</c></NS> navigation, engine <NS type="MN"></NS>, ropes and knots<NS type="MP"><c>,</c></NS> and <NS type="M"></NS> sails as well.</p>
+          <p>My other passion is photography, <NS type="W"><i>especially I</i><c>I especially</c></NS> like black and white photography. I have a camera<NS type="MP"><c>,</c></NS> <NS type="RA"><i>which</i><c>it</c></NS> is a <NS type="UV"><i>called</i></NS> Minolta X300. <NS type="RA"><i>That</i><c>It</c></NS> is a manual camera. I know <NS type="MY"><c>how</c></NS> to develop films and print <NS type="R"><i>them</i><c>photographs</c></NS>.</p>
+          <p>I <NS type="R"><i>have doubt</i><c>am not sure</c></NS> about clothes, money and <NS type="MD"><c>the</c></NS> immigration rules of the USA. <NS type="RP"><i>please</i><c>Please</c></NS> could you <NS type="RV"><i>write</i><c>tell</c></NS> me <NS type="R"><i>how</i><c>what</c></NS> <NS type="W"><i>is the weather</i><c>the weather is</c></NS> like there, what kind of clothes I need and how much money I should <NS type="RV"><i>have</i><c>bring</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>I like shopping but I had a bad experience <NS type="RT"><i>about</i><c>on</c></NS> <NS type="RD"><i>my</i><c>a</c></NS> recent shopping <NS type="MN"><c>trip</c></NS>. I went out <NS type="R"><i>for</i><c>to get some</c></NS> shopping and to get some ideas about new <NS type="UN"><i>brand</i></NS> computers and <NS type="M"></NS> products. First of all<NS type="MP"><c>,</c></NS> I went to a local shop but <NS type="R"><i>I couldn't find</i><c>they didn't have a big</c></NS> enough selection of products.</p>
+          <p>Then I visited another one, in Cambridge Street. It was very crowded, I could hardly <NS type="RV"><i>walk</i><c>move</c></NS> in the shop. I decided to <NS type="SX"><i>by</i><c>buy</c></NS> a <NS type="MP"><i>CD <NS type="SX"><i>room</i><c>ROM</c></NS></i><c>CD-ROM</c></NS> <NS type="RN"><i>driver</i><c>drive</c></NS> for my old computer. When I approached <NS type="UT"><i>to</i></NS> the cashier I suddenly noticed my wallet had gone. My money, travel card and credit card <NS type="MV"><c>had gone</c></NS>. It was a nightmare<NS type="MP"><c>,</c></NS> there were <NS type="S"><i>pickpokets</i><c>pickpockets</c></NS> in the shop. I went to the <NS type="MP"><i>shop</i><c>shop's</c></NS> <NS type="RN"><i>assistance</i><c>customer services</c></NS> but it was useless.</p>
+          <p>As soon as possible<NS type="MP"><c>,</c></NS> I phoned <NS type="UT"><i>to</i></NS> my bank <NS type="UT"><i>for</i></NS> <NS type="DV"><i><NS type="S"><i>cancelation</i><c>cancellation</c></NS></i><c>to cancel</c></NS> <NS type="UT"><i>of</i></NS> my credit card but they had already used it. <NS type="RP"><i>it</i><c>It</c></NS> <NS type="AGV"><i>costs</i><c>cost</c></NS> me about £500. This experience has changed my shopping <NS type="FN"><i>habit</i><c>habits</c></NS>, now I do all my shopping on the <NS type="RP"><i>internet</i><c>Internet</c></NS>. But I'm not sure <NS type="R"><i>how</i><c>whether</c></NS> it is safe. But you must <NS type="W"><i>be always</i><c>always be</c></NS> <NS type="R"><i>award</i><c>on your guard</c></NS> against <NS type="UT"><i>to</i></NS> <NS type="S"><i>pickpokets</i><c>pickpockets</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

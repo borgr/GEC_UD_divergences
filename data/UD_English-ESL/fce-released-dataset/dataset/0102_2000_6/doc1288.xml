@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR530*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am Carlos Gregore and during my last holiday I stayed in London for a week. <NS type="M"><i>Then</i><c>It was then</c></NS><NS type="UP"><i>,</i></NS> I read the advertisement for the show <NS type="RT"><i>of</i><c>at</c></NS> your theatre and I decided to see it.</p>
+          <p>Unfortunately, I <NS type="RV"><i>noted</i><c>noticed</c></NS> <NS type="W"><i>on the advertisement<NS type="UP"><i>,</i></NS> a lot of <NS type="R"><i>wrong points</i><c>inaccuracies</c></NS></i><c>a lot of inaccuracies on the advertisement</c></NS>:</p>
+          <p>An actor was changed and the <NS type="S"><i>pubblic</i><c>public</c></NS> were <NS type="RY"><i>no</i><c>not</c></NS> <NS type="IV"><i>informated</i><c>informed</c></NS>.</p>
+          <p>The show started 45 <NS type="S"><i>minuts</i><c>minutes</c></NS> late without <NS type="MQ"><c>any</c></NS> valid reasons!</p>
+          <p>There were no discounts available like the <NS type="MA"><c>ones</c></NS> <NS type="M"><c>in the</c></NS> advertisement <NS type="UV"><i>had written</i></NS>.</p>
+          <p><NS type="RY"><i>At the end</i><c>Finally</c></NS>, the theatre <NS type="S"><i>resturant</i><c>restaurant</c></NS> was closed for <NS type="MD"><c>the</c></NS> holiday!</p>
+          <p>At the bottom of the advertisement was <NS type="TV"><i>wrote</i><c>written</c></NS>:</p>
+          <p>"YOUR PERFECT EVENING OUT" but I think I had a very disappointing evening!</p>
+          <p>So I decided to write you this letter to <NS type="R"><i>note that wrong</i><c>complain about the inaccurate</c></NS> <NS type="CN"><i>informations</i><c>information</c></NS> and to ask for <NS type="RD"><i>the</i><c>a</c></NS> <NS type="RN"><i>restitution</i><c>refund</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> the price of <NS type="MD"><c>the</c></NS> ticket or a part of that. I hope you read this and write <NS type="MT"><c>to</c></NS> me to <NS type="MV"><c>let</c></NS> <NS type="MA"><c>me</c></NS> know <NS type="IA"><i>somethings</i><c>something</c></NS> about my money</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>I think <NS type="UD"><i>the</i></NS> modern <NS type="S"><i>tecnology</i><c>technology</c></NS> is very important <NS type="RT"><i>to</i><c>in</c></NS> my life. I also think I am lucky, because I live in a period of <NS type="S"><i>tecnologic</i><c>technological</c></NS> boom.</p>
+          <p>In the last fifty years <NS type="UD"><i>the</i></NS> human <NS type="S"><i>tecnologies</i><c>technologies</c></NS> <NS type="TV"><i>are growed</i><c>have grown</c></NS> <NS type="UY"><i>up</i></NS> <NS type="S"><i>exponensially</i><c>exponentially</c></NS>. First the <NS type="S"><i>conquist</i><c>conquest</c></NS> of <NS type="UD"><i>the</i></NS> space, then <NS type="UD"><i>the</i></NS> computers, and now the new <NS type="S"><i>biotecnologies</i><c>biotechnologies</c></NS> have changed, and are changing, the face of the <NS type="RN"><i>word</i><c>world</c></NS>.</p>
+          <p>My daily life should be changed by these innovations! <NS type="RT"><i>At</i><c>In</c></NS> the present day, for <NS type="S"><i>ecsample</i><c>example</c></NS>, a lot of people have a personal computer at home, and a very <NS type="RJ"><i>big</i><c>large</c></NS> <NS type="RN"><i>part</i><c>proportion</c></NS> of <NS type="AGA"><i>that</i><c>those</c></NS> <NS type="W"><i>have also</i><c>also have</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, the new frontier of <NS type="FN"><i>computers</i><c>computer</c></NS> evolution.</p>
+          <p>If I look back <NS type="RT"><i>in</i><c>to</c></NS> the past I <NS type="UV"><i>can</i></NS> find that <NS type="MD"><c>the</c></NS> computer is following the same <NS type="RN"><i>street</i><c>route</c></NS> <NS type="RT"><i>of</i><c>as</c></NS> television, <NS type="MD"><c>the</c></NS> <NS type="S"><i>telephon</i><c>telephone</c></NS> and a lot of other things<NS type="UP"><i>,</i></NS> that now the <NS type="RJ"><i>biggest</i><c>largest</c></NS> part of <NS type="MD"><c>the</c></NS> population have at home.</p>
+          <p>So, in my opinion, new <NS type="S"><i>tecnology</i><c>technology</c></NS> has changed, is <NS type="IV"><i>changeing</i><c>changing</c></NS> and will change my daily life<NS type="RP"><i>,</i><c>;</c></NS> I hope that <NS type="RY"><i>after</i><c>afterwards</c></NS> my life <NS type="TV"><i>is</i><c>will be</c></NS> better.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR839*0100*2000*02">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>The reason <NS type="RT"><i>of</i><c>for</c></NS> my letter<NS type="UP"><i>,</i></NS> is that our class would like to suggest a few changes <NS type="RT"><i>on</i><c>to</c></NS> our programme <NS type="RT"><i>of</i><c>for</c></NS> London, because we have seen an advertisement about an interesting activity that we could include in our programme.</p>
+          <p>First of all, we want to say thanks to you because we know the effort you have <NS type="RV"><i>done</i><c>made</c></NS> organising <NS type="RD"><i>our</i><c>this</c></NS> <NS type="RJ"><i>good</i><c>excellent</c></NS> programme, but we would really like to go to the London fashion and leisure show we saw in the advertisement. We think that perhaps <NS type="RT"><i>in</i><c>on</c></NS> Tuesday March 14<NS type="UP"><i>,</i></NS> we could change the time <NS type="R"><i>of</i><c>when we</c></NS> <NS type="TV"><i>going</i><c>go</c></NS> to <NS type="MD"><c>the</c></NS> Science Museum, and <NS type="U"><i>(we)</i></NS> go <NS type="W"><i>earlier to the Museum</i><c>to the Museum earlier</c></NS>, <NS type="R"><i>such as</i><c>perhaps at</c></NS> half past eight <NS type="RT"><i>on</i><c>in</c></NS> the morning, so we could go <NS type="RY"><i>after</i><c>later</c></NS>, at ten o'clock<NS type="MP"><c>,</c></NS> to the show, and we could also delay going shopping on that afternoon, because the show lasts <NS type="S"><i>til</i><c>till</c></NS> seven o'clock <NS type="RT"><i>on</i><c>in</c></NS> the evening. And we <NS type="TV"><i>have thought</i><c>thought</c></NS> that we could go shopping the next day, because we <NS type="X"><i>do not have nothing</i><c>do not have anything</c></NS> to do on that afternoon.</p>
+          <p>Finally, we would like to <NS type="RV"><i>say</i><c>ask</c></NS> you to think about our suggestion<NS type="RP"><i>, the</i><c>. The</c></NS> show would be fantastic<NS type="RP"><i>, we</i><c>. We</c></NS> would <NS type="RV"><i>know</i><c>learn</c></NS> about the latest fashions, <NS type="UD"><i>the</i></NS> Leisure and sports wear, and also learn about how to <NS type="RV">make up</NS>. It's a great opportunity to <NS type="RV"><i>know</i><c>learn</c></NS> more about fashion. Please, let us go to the show, <NS type="L"><i>for</i><c>because</c></NS> students are <NS type="MV"><c>admitted</c></NS> free.</p>
+          <p>I Look forward to hearing from you<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>I think that the home of the Future would probably be better than <NS type="R"><i>it</i><c>a home</c></NS> is now.</p>
+          <p>In the future, our homes will <NS type="RV"><i>have</i><c>incorporate</c></NS> the most advanced technologies. <NS type="FN"><i>Computer</i><c>Computers</c></NS> will <NS type="RV"><i>take</i><c>play</c></NS> <NS type="FD"><i>a</i><c>an</c></NS> important part in our daily life, so that we won't go shopping, because <NS type="RT"><i>in</i><c>via</c></NS> the computer we <NS type="TV"><i>would buy</i><c>will be able to buy</c></NS> whatever we want. Books will gradually disappear, and instead we will read all the things we want <NS type="RT"><i>in</i><c>on</c></NS> our computer. We won't have <NS type="RQ"><i>the</i><c>any</c></NS> <NS type="RN"><i>necessity</i><c>need</c></NS> <NS type="UT"><i>of</i></NS> <NS type="FV"><i><NS type="RV"><i>going out</i><c>leaving</c></NS></i><c>to leave</c></NS> <NS type="UT"><i>from</i></NS> home, because <NS type="MD"><c>the</c></NS> computer will give us everything.</p>
+          <p>Although computers will give us all the material things, <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="RV"><i>could</i><c>will</c></NS> not give us things like the feeling of being in your home, <NS type="R">have</NS>, etc. <NS type="AGD"><i>That</i><c>Those</c></NS> things won't change in our home. We will live in our homes with our family, who will give us love ...<NS type="UP"><i>,</i></NS> that kind of <NS type="AGN"><i>things</i><c>thing</c></NS> will never change.</p>
+          <p>In conclusion, in the future home our <NS type="ID"><i>conditions of life</i><c>living conditions</c></NS> will <NS type="RV"><i>approve</i><c>improve</c></NS>, and <NS type="MD"><c>the</c></NS> computer will be very important for us, but <NS type="SX"><i>is</i><c>it</c></NS> won't control us, because we still have the most important thing <NS type="RT"><i>of</i><c>in</c></NS> a home <NS type="R">= have</NS><NS type="RP"><i>, that</i><c>. That</c></NS> will be the same as now.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

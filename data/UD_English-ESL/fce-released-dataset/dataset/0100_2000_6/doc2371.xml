@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR954*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan, I am writing to you<NS type="UP"><i>,</i></NS> in reply <NS type="RT"><i>for</i><c>to</c></NS> your letter. Firstly, I would like to travel in July, because it is summer <NS type="UN"><i>season</i></NS>, and <NS type="RA"><i>it</i><c>there</c></NS> <NS type="TV"><i>is</i><c>will be</c></NS> nice weather to enjoy in California. Secondly, I would prefer <NS type="U"><i>my <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i></NS> to <NS type="RV"><i>be</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>, because I am <NS type="S"><i>alergic</i><c>allergic</c></NS> to some insects that might <NS type="RV"><i>go</i><c>get</c></NS> in <NS type="RD"><i>the</i><c>a</c></NS> tent. <NS type="ID"><i>In regard to</i><c>As regards</c></NS> the activities, I would <NS type="RV"><i>like</i><c>enjoy</c></NS> tennis, because I have some experience playing, and my spin and volley are very good, and painting, because I have <NS type="MV"><c>learnt</c></NS> some techniques<NS type="UP"><i>,</i></NS> that I would like to <NS type="ID"><i>put on practise</i><c>put into practice</c></NS>. Lastly, I would like to know if I need to bring any special clothes, and where <NS type="W"><i>can I</i><c>I can</c></NS> change my money to American dollars <NS type="DY"><i>cheaper</i><c>cheaply</c></NS>. I would <NS type="MV"><c>like</c></NS> <NS type="FV"><i>ask</i><c>to ask</c></NS> for your prompt reply, so I can start organizing myself. Thanking you, Yours sincerely, Carmen Dolores Rossell</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I hope you are doing fine<NS type="RP"><i>,</i><c>.</c></NS> I am writing this letter<NS type="UP"><i>,</i></NS> to tell you about my experience <NS type="UT"><i>of</i></NS> helping <NS type="MV"><c>organise</c></NS> a pop concert.</p>
+          <p>Firstly, you need to know<NS type="U"><i>, and be <NS type="S"><i>counscious</i><c>conscious</c></NS> of</i></NS> what you are doing. I <NS type="TV"><i>spend</i><c>spent</c></NS> two weeks preparing <NS type="UQ"><i>all</i></NS> the stage, speakers, <NS type="RN"><i>background</i><c>backdrop</c></NS>, <NS type="S"><i>michrophones</i><c>microphones</c></NS>, everything<NS type="MP"><c>,</c></NS> with all the staff, and every night<NS type="UP"><i>,</i></NS> the artists came to <NS type="DV"><i>rehearsal</i><c>rehearse</c></NS> their show<NS type="RP"><i>,</i><c>.</c></NS> I could see how they really improved, and how nice they were with the staff. The day of the concert, everyone, including the artists and managers were nervous and were tired<NS type="RP"><i>, however</i><c>. However</c></NS>, when the concert started, we saw that all our efforts <NS type="TV"><i>were</i><c>had been</c></NS> <NS type="RJ"><i>worthy</i><c>worthwhile</c></NS><NS type="RP"><i>, the</i><c>. The</c></NS> <NS type="SX"><i>crow</i><c>crew</c></NS> and artists thanked the staff.</p>
+          <p>What I personally liked the most was all our teamwork. I could see the staff, managers, artists and even the director, all <NS type="RT"><i>like</i><c>as</c></NS> a big team, working together. That was what made it <NS type="RY"><i>mostly</i><c>really</c></NS> special. Try it, I recommend it.</p>
+          <p>Write back soon,</p>
+          <p>Love,</p>
+          <p>Carmen Dolores Rossell.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

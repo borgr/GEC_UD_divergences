@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR185*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I am writing about <NS type="MD"><c>the</c></NS> International Arts Festival<NS type="MP"><c>,</c></NS> which I went to recently. I had a great time there because <NS type="R">taking a place the kind of festival in my town</NS> is very unusual. I think that <NS type="MD"><c>the</c></NS> International Arts Festival was absolutely fantastic and successful. I was also pleased with the weekend ticket because I tend to go out <NS type="RT"><i>in</i><c>at</c></NS> the weekend due to my <NS type="RN"><i>work</i><c>working</c></NS> <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="FN"><i>weekday</i><c>weekdays</c></NS> <NS type="R">so that</NS> I had time to go and did not have to <NS type="RV"><i>care</i><c>worry</c></NS> about the ticket price.</p>
+          <p>In spite of having a great time, there were some things I would like to give you my opinion about. Firstly, there <NS type="AGV"><i>was</i><c>were</c></NS> a few stars and artists from only six countries although the advertisement <NS type="TV"><i><NS type="AGV"><i>mention</i><c>mentions</c></NS></i><c>mentioned</c></NS> that stars and artists would come from around the world. Secondly, some concerts took <NS type="UD"><i>a</i></NS> place in really small halls. I suggest that concerts should be held in bigger halls than this year's <NS type="UT"><i>in</i></NS> next year. <NS type="RY"><i>Therefore</i><c>Then</c></NS>, there <NS type="TV"><i>will</i><c>would</c></NS> be more people coming <NS type="MT"><c>to</c></NS> the concerts. Finally, <NS type="DN">food shops</NS> should be added <NS type="RT"><i>in</i><c>to</c></NS> this festival <NS type="UT"><i>in</i></NS> next year because <NS type="R">only plays and films were not <NS type="S"><i>atrractive</i><c>attractive</c></NS> <NS type="S"><i>enought</i><c>enough</c></NS> to get audiences</NS>.</p>
+          <p>I would be grateful if you could consider my opinion <NS type="UT"><i>above</i></NS><NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>Yours <NS type="S"><i>sencirely</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Karrie,</p>
+          <p>Hello. How are you doing? I've <NS type="W"><i>been also</i><c>also been</c></NS> <NS type="RV"><i>considering</i><c>thinking about</c></NS> rules at home with my friends. Isn't it quite interesting to talk about rules? At home I'm not allowed to talk on the phone more than ten minutes, which annoys me very much. I really want to change this. However, I can go out <NS type="S"><i>wheneve</i><c>whenever</c></NS> I want, even <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> <NS type="UP"><i>mid-night</i><c>midnight</c></NS>. I'm also allowed to come home anytime so that I can chat with my friends for a long time instead of talking on the phone at home.</p>
+          <p>There <NS type="AGV"><i>is</i><c>are</c></NS> a lot of rules at my school. Firstly, we're allowed to drive a car to school, which is quite <NS type="MD"><c>an</c></NS> unusual rule in <NS type="MD"><c>a</c></NS> Japanese school because students might crash a car on the way to school or home. I actually love this rule because I don't have to get up early if I have a car. <NS type="S"><i>Secoundly</i><c>Secondly</c></NS>, boys are not allowed to have long <NS type="RN"><i>hire</i><c>hair</c></NS>. They have to cut their hair once a month. Girls can't <NS type="MV"><c>have</c></NS> <NS type="MP"><i>make up</i><c>make-up</c></NS> on at school at all. I want to at least put <NS type="DN"><i>lip <NS type="S"><i>coluor</i><c>colour</c></NS></i><c>lipstick</c></NS> on. I wish I could change this rule.</p>
+          <p>I'll be <NS type="DJ"><i>grade</i><c>glad</c></NS> if you let me know about your rules at school and at home. I'm looking forward to hearing from you soon.</p>
+          <p>Best wishes.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

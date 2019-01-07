@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1139*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Smith<NS type="RP"><i>;</i><c>,</c></NS></p>
+          <p>I am writing this letter to <NS type="RV"><i>make</i><c>let</c></NS> you know <NS type="MT"><c>about</c></NS> the bad points of the theatre.</p>
+          <p>First, it didn't start at 19.30. It started at 20.15. We had to wait for 45 minutes. I got bored. Not only me but also the others got bored.</p>
+          <p>It was <NS type="TV"><i>wrote</i><c>written</c></NS> in the newspaper that Danny Brock <NS type="RV"><i>took place</i><c>performed</c></NS> in the play. But it was not Danny Brock, it was a different actor. If there had been a problem, <NS type="AS"><i>it <NS type="RV"><i>would</i><c>should</c></NS> have been told us</i><c>we should have been told</c></NS>. I wanted to see him but I couldn't see <NS type="MA"><c>him</c></NS>. This was very disappointing for me.</p>
+          <p>When I was buying a ticket, there was no discount. But in the newspaper <NS type="RA"><i>it</i><c>there</c></NS> was <NS type="RV"><i>wrote</i><c>said</c></NS> to be a discount. I paid £20 to the cashier. I was hungry and I thought I could eat something at the theatre restaurant after the show. But it was closed without any reason. It was very rude. For this, I want my money back<NS type="UP"><i>. Because</i><c> because</c></NS> I didn't enjoy <NS type="MN"></NS> at the theatre.</p>
+          <p>I hope you <NS type="TV"><i>would not continue</i><c>will not continue</c></NS> like this.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>TECHNOLOGICAL ADVANTAGES</p>
+          <p>Technology is the thing that makes our life easy. Technology is in every part of our life.</p>
+          <p>We use cars, trains, ships or planes when we want to go somewhere. But if they weren't made, we would have to walk or go by <NS type="UD"><i>a</i></NS> horse or donkey. With the help of technology, we do our <NS type="CN"><i>works</i><c>work</c></NS> in less time. For example<NS type="RP"><i>;</i><c>,</c></NS> in the past<NS type="MP"><c>,</c></NS> people used horses to go <NS type="MT"><c>to</c></NS> another place. And their life passed <NS type="CE">in the ways</NS>. But now we use planes to go <NS type="MT"><c>to</c></NS> far <NS type="MY"><c>away</c></NS> places. It takes less time than going by horse.</p>
+          <p>And computers<NS type="UP"><i>,</i></NS> <NS type="MV"><c>are</c></NS> the most important product of technology. In the world, people spend the whole day <NS type="UT"><i>by</i></NS> playing <NS type="MT"><c>with</c></NS> computers. Not only as a hobby. They use computers for their <NS type="CN"><i>works</i><c>work</c></NS>. They <NS type="RV"><i>connect</i><c>communicate</c></NS> with other businessmen and do their jobs with the help of computers. Sometimes they don't go to their offices. They write their secret notes <NS type="RT"><i>into</i><c>on</c></NS> <NS type="UD"><i>the</i></NS> computers. Computers hold them in their memory. But in the past people had to use lots of <NS type="RP"><i>note books</i><c>notebooks</c></NS> and they also had to find places to hide them.</p>
+          <p>But it <NS type="W"><i>has also</i><c>also has</c></NS> bad points. For example<NS type="RP"><i>;</i><c>,</c></NS> wars. Using technology<NS type="MP"><c>,</c></NS> scientists make lots of powerful guns. It is bad for <NS type="UD"><i>the</i></NS> <NS type="UP"><i>world's</i><c>world</c></NS> <NS type="RN"><i>piece</i><c>peace</c></NS>.</p>
+          <p>I think we should use <NS type="UD"><i>the</i></NS> technology for <NS type="UD"><i>the</i></NS> <NS type="RN"><i>piece</i><c>peace</c></NS> and use it for our <NS type="RN"><i>fortune</i><c>benefit</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

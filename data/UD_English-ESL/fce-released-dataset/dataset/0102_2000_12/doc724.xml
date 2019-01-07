@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR284*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark</p>
+          <p>With <NS type="RN"><i>attendance</i><c>regard</c></NS> to the annual international arts festival which <NS type="UA"><i>you</i></NS> took place on 21 and <NS type="RP"><i>22th</i><c>22nd</c></NS> November 2000, I <NS type="TV"><i>spend</i><c>spent</c></NS> <NS type="MD"><c>a</c></NS> tremendous two days enjoying some <NS type="RN">features</NS>. Then, I discovered some <NS type="RN">points</NS> and I am writing to <NS type="RV"><i>express</i><c>give</c></NS> my <NS type="FN"><i>suggestion</i><c>suggestions</c></NS> and recommendations.</p>
+          <p>Firstly, the title 'International Arts Festival' is very suitable for the festival, because there <NS type="AGV"><i>were</i><c>was</c></NS> some variety of <NS type="RN">features</NS> <NS type="R"><i>in it</i><c>there</c></NS>. Next, <NS type="RP"><i>One</i><c>one</c></NS> reasonably-priced weekend ticket for all events is also <NS type="MD"><c>a</c></NS> fantastic idea, because everyone could enjoy everything <NS type="RT"><i>by</i><c>with</c></NS> <NS type="RD"><i>the</i><c>that</c></NS> ticket.</p>
+          <p>However, according to my notes, there are some <NS type="FN"><i>doubt</i><c>doubts</c></NS> <NS type="RT"><i>in</i><c>about</c></NS> the festival. While you stated that there were stars and artists from around the world, they were <NS type="W"><i>from only six countries in fact</i><c>in fact only from six countries</c></NS>. The number of plays and films <NS type="AGV"><i>were</i><c>was</c></NS> also very <NS type="RJ"><i>few</i><c>small</c></NS>. In addition to that some concert halls were too small <NS type="M"><c>for the audience</c></NS> to enjoy the concerts.</p>
+          <p>On balance, I feel that this annual festival can be even better next year. Therefore, I strongly recommend that you should <NS type="RV">collect</NS> artists and stars <NS type="MT"><c>from</c></NS> more than six countries and <NS type="RV"><i>rebuild</i><c>build</c></NS> larger concert halls. I also suggest that more plays and films should <NS type="RV"><NS type="FV"><i>be taken</i><c>take</c></NS> place</NS>. I would be <NS type="RJ"><i>grateful</i><c>happy</c></NS> to support you providing that you <NS type="UV"><i>would</i></NS> <NS type="RV"><i>like</i><c>want</c></NS> to make the festival more successful.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Albert</p>
+          <p>Thanks for your letter<NS type="RP"><i>, it</i><c>. It</c></NS> was great to hear from you. I know you're <NS type="RJ"><i>fine</i><c>well</c></NS>, but I've been very busy studying because I have to take <NS type="MD"><c>an</c></NS> exam next month. So this is <NS type="MD"><c>a</c></NS> quick note to tell you what you want to know, as you asked about school rules and house ones.</p>
+          <p>At school, the most horrible one is <NS type="M"><c>about the</c></NS> school uniform. I really hate it, because we're not allowed to wear casual and <NS type="S"><i>fashonable</i><c>fashionable</c></NS> clothes, colourful shoes <NS type="RC"><i>and</i><c>or</c></NS> colourful socks. <NS type="W"><i>We can't also</i><c>Also we can't</c></NS> <NS type="RV"><i>turn</i><c>change</c></NS> our hair colour <NS type="SX"><i>an</i><c>and</c></NS> have to keep <NS type="MD"><c>our</c></NS> hair length above <NS type="MD"><c>our</c></NS> <NS type="RP"><i>eye <NS type="RN"><i>blows</i><c>brows</c></NS></i><c>eyebrows</c></NS>. Next, we're not allowed to get <NS type="MP"><i>driver</i><c>driver's</c></NS> licences which are for a motorbike and car as long as <NS type="RV"><i>we've</i><c>we're</c></NS> students. We're also not allowed to get part-time jobs. If possible, I want to change all of them.</p>
+          <p>However, at home I'm quite free. <NS type="W"><i>Just I</i><c>I just</c></NS> can't go out after 9 o'clock <NS type="R"><i>in the</i><c>at</c></NS> night and I'm not allowed to play computer games <NS type="MT"><c>for</c></NS> over two hours. These <NS type="MN"><c>rules</c></NS> are not so strict that I <NS type="MY"><i>can</i><c>can't</c></NS> stand them. I don't think I want to change them.</p>
+          <p>Anyway, that's all <NS type="W"><i>about <NS type="DA"><i>my</i><c>me</c></NS> <NS type="MD"><c>the</c></NS> information</i><c>the information about me</c></NS> which you want.</p>
+          <p>Write soon<NS type="RP"><i>,</i><c>.</c></NS> I look forward to hearing from you.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

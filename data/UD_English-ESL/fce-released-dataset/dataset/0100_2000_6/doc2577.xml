@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR118*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, I want to say how <NS type="W"><i>I am happy</i><c>happy I am</c></NS> to have won this prize and I want to thank you.</p>
+          <p>Concerning the information you want<NS type="MP"><c>,</c></NS> I will give <NS type="AGA"><i>them</i><c>it</c></NS>.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because this is the only month <NS type="MY"><c>off</c></NS> given to me by my employer. I would prefer to have a log cabin because I <NS type="RP"><i>can not</i><c>cannot</c></NS> sleep in a tent (it is too hot and the floor is too hard for my back). Concerning the two activities I have to choose, I would prefer to swim and play tennis (I have a good level <NS type="M"><c>of proficiency</c></NS> in each <NS type="AGN"><i>sports</i><c>sport</c></NS>).</p>
+          <p>Finally I would like to know how much money I have to <NS type="RV"><i>prepare</i><c>bring</c></NS> and <NS type="RQ"><i>which</i><c>what</c></NS> sorts of clothes are usually <NS type="IV"><i>weared</i><c>worn</c></NS> in California.</p>
+          <p>Yours faithfully</p>
+          <p>Pablo Fernandez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Many classes and activities are important in our school<NS type="MP"><c>.</c></NS> But I have to make a choice in order to select <NS type="M"><c>from among</c></NS> them<NS type="MP"><c>.</c></NS> The <NS type="W"><i>class of <NS type="RN"><i><NS type="S"><i>mecanics</i><c>mechanics</c></NS></i><c>engineering</c></NS></i><c>engineering class</c></NS> <NS type="AGV"><i>seem</i><c>seems</c></NS> to be the <NS type="R"><i>more</i><c>most</c></NS> important lesson. It <NS type="AGV"><i>use</i><c>uses</c></NS> a lot of <NS type="S"><i>technics</i><c>techniques</c></NS> that we learn in other classes. It gives us <NS type="UD"><i>the</i></NS> knowledge  <NS type="DJ"><i>usefull</i><c>useful</c></NS> for many school <NS type="AGN"><i>club</i><c>clubs</c></NS><NS type="MP"><c>,</c></NS> like the "marathon shell" club or the <NS type="S"><i>robotich</i><c>robotics</c></NS> club. Besides it <NS type="RV">gives</NS> all the areas covered by a <NS type="DN"><i>mecanic ingenier</i><c>mechanical engineer</c></NS> and it is very important in a school where you will probably become a <NS type="DN"><i>mecanic ingenier</i><c>mechanical engineer</c></NS><NS type="MP"><c>.</c></NS> It lets us <NS type="RV"><i>specify</i><c>identify</c></NS> our abilities <NS type="R"><i>in</i><c>and</c></NS> the part of <NS type="S"><i>mecanics</i><c>mechanics</c></NS> that we prefer. But there are other <NS type="W"><i>lessons very important</i><c>very important lessons</c></NS> (like English of course!) Actually, I have a regret<NS type="RP"><i>,</i><c> - </c></NS> there is no <NS type="FN"><i>ethic</i><c>ethics</c></NS> <NS type="AGN"><i>lessons</i><c>lesson</c></NS><NS type="RP"><i>,</i><c>.</c></NS> It would show us how <NS type="FV"><i>use</i><c>to use</c></NS> our knowledge.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR263*0102*2000*01">
+  <candidate><personnel><language>French</language><age>&lt;16</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>16th November 2000</p>
+          <p>Dear Sir</p>
+          <p>I'm writing to complain about an evening I spent in your theatre <NS type="FV"><i>to see</i><c>seeing</c></NS> a musical show. According to your brochure, it was supposed to be the perfect evening out; instead of that I had a very disappointing evening.</p>
+          <p>Firstly, the actors weren't those announced. Indeed, instead of Danny Brook and Tina Truelove<NS type="RP"><i>;</i><c>,</c></NS> we had <NS type="RJ"><i>mean</i><c>poor</c></NS> actors.</p>
+          <p>As for the <NS type="FN"><i>times</i><c>time</c></NS>, the show was supposed to begin at 19.30 whereas in reality it began at 20.15.</p>
+          <p>Likewise, there were no discounts <NS type="S"><i>avalaible</i><c>available</c></NS>.</p>
+          <p>To end, <NS type="ID"><i>in spite of</i><c>instead of</c></NS> being <NS type="DJ"><i>opened</i><c>open</c></NS>, the restaurant was closed for <NS type="RN"><i>reparations</i><c>renovation</c></NS>.</p>
+          <p>Because of all <NS type="RD"><i>those</i><c>these</c></NS> <NS type="AGN"><i><NS type="DN"><i>inconvenients</i><c>inconvenience</c></NS></i><c>inconveniences</c></NS>, I ask you <NS type="MT"><c>for</c></NS> a total refund. I'm sure you will accept my request; if not I intend to take legal <NS type="FN"><i>actions</i><c>action</c></NS> against your company. You may contact me at my home address whenever you wish.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>So when Caroline, his girlfriend, told him something personal and very important<NS type="RP"><i>;</i><c>,</c></NS> because she trusted in him<NS type="RP"><i>;</i><c>,</c></NS> <NS type="DY"><i>immediatly</i><c>immediately</c></NS> he <NS type="RV"><i>came</i><c>went</c></NS> to see one of his <NS type="AGN"><i>friend</i><c>friends</c></NS> to tell him the secret. When poor Caroline arrived at school on Wednesday morning all the students <NS type="RT"><i>of</i><c>in</c></NS> her class knew about what she had <NS type="W"><i>just said</i><c>said just</c></NS> the day before to Pat.</p>
+          <p>So <NS type="DY"><i>immediatly</i><c>immediately</c></NS> she went <NS type="RT"><i>towards</i><c>to</c></NS> Pat, angry, in order to argue with him, saying that she was annoyed by the way he behaved, and that it wasn't the first time that he wasn't capable of keeping a secret. After a long conversation they eventually decided to split up.</p>
+          <p>Because of his behaviour, <NS type="W"><i>now Pat is</i><c>Pat is now</c></NS> alone and nobody <NS type="AGV"><i>trust</i><c>trusts</c></NS> <NS type="UT"><i>in</i></NS> him.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

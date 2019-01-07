@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR27*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Ms Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>I have just <NS type="S"><i>recieved</i><c>received</c></NS> the letter, which lets me know that I have won the first prize. I am proud of winning it and would like to say how <NS type="RJ"><i>thankful</i><c>grateful</c></NS> I am. I am therefore writing to give you my further information.</p>
+          <p>First of all, I am a student and would like to travel in July. <NS type="M"><i>Because</i><c>This is because</c></NS> I intend to take <NS type="MD"><c>an</c></NS> examination in <NS type="S"><i>Septenber</i><c>September</c></NS>. So I can afford to go on holiday only in July. Secondly, I would prefer to stay <NS type="RT"><i>at</i><c>in</c></NS> log cabins rather than tents. It will be my first time <NS type="FV"><i>to experience</i><c>experiencing</c></NS> <NS type="FV"><i>to stay</i><c>staying</c></NS> there and I am interested in trying new things which I have not tried.</p>
+          <p>The next consideration is the activities. Actually, I used to play basketball for 6 years and am quite confident <NS type="RT"><i>of</i><c>at</c></NS> it. And <NS type="RY"><i>nowadays</i><c>recently</c></NS>, I have been <NS type="SA"><i>practicing</i><c>practising</c></NS> tennis as <NS type="MD"><c>a</c></NS> school activity. Therefore I would like to choose basketball and tennis.</p>
+          <p>Finally, I am <NS type="RV"><i>considering</i><c>wondering</c></NS> about what kind of clothes I should wear and how much I need. I would be most grateful if you could give me further <NS type="DJ">advicable</NS> information.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hello! I hope everything around you is alright. You might not believe <NS type="MA"><c>it</c></NS> but actually I helped at a pop concert last month and I really enjoyed it so much. So I'm now writing to let you know how <NS type="RJ"><i>grateful</i><c>great</c></NS> it was. All <NS type="MD"><c>the</c></NS> work I needed to do wasn't very interesting. <NS type="UA"><i>which</i></NS> I must have set thousands <NS type="MT"><c>of</c></NS> chairs correctly and after finishing I put them back nicely. The reason I enjoyed it very much is that I could meet the vocalist <NS type="RT"><i>on</i><c>during</c></NS> setting chairs just before they started <NS type="SA"><i>practicing</i><c>practising</c></NS>. I was asked if I wanted to sit down in front of <NS type="MD"><c>the</c></NS> stage. Naturally I agreed and I could enjoy their gig as <NS type="M"><c>a member of the</c></NS> audience. It was absolutely fantastic. I had ever never <NS type="TV"><i>sit</i><c>sat</c></NS> down there. Additionally, you <NS type="RV"><i>couldn't</i><c>won't</c></NS> believe <NS type="MA"><c>it</c></NS>, but the vocalist said "All the chairs you are sitting <NS type="UY"><i>down</i></NS> <NS type="MT"><c>on</c></NS> were set <NS type="MY"><c>out</c></NS> <NS type="RT"><i>from</i><c>by</c></NS> him," pointing at me!! Actually I was a bit ashamed but it will be my brilliant memory.</p>
+          <p>Anyway it was so interesting <NS type="MD"><c>a</c></NS> time that I didn't even feel tired after that. Finally, I suggest you should try as I did if you have any opportunity. You <NS type="RV"><i>must</i><c>are sure to</c></NS> like it.</p>
+          <p>I'm looking forward to seeing you soon. Can you send me <NS type="RD"><i>the</i><c>a</c></NS> letter back writing what <NS type="IV"><i>happend</i><c>happened</c></NS> to you recently<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Bye!</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

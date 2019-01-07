@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR554*0100*2000*02">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I'm writing to you <NS type="RT"><i>on</i><c>in</c></NS> the name of all the students who will go <NS type="RT"><i>to</i><c>on</c></NS> the <NS type="UP"><i>London's</i><c>London</c></NS> trip.</p>
+          <p>First of all thank you very much for your programme, <NS type="UV"><i>it's</i><c>it</c></NS> sounds very interesting and everybody is looking forward to it.</p>
+          <p> However, we do all have a request to <NS type="RV"><i>ask</i><c>put to</c></NS> you.</p>
+          <p>We saw an advertisement about the "London Fashion and Leisure Show" in the Central Exhibition Hall in London.</p>
+          <p>This show is going on all day on March 14th.</p>
+          <p>As teenagers we're all very keen on fashion so it will be a great opportunity to go because in our <NS type="RN">countryside</NS>, we'll never get a chance to see a show like that.</p>
+          <p>What we are suggesting <NS type="UA"><i>you</i></NS> is to change the programme on the afternoon of March the 14th. Instead of going shopping, we could go to the show. Anyway, as students we don't have much money to spend on shopping and the good thing is that it won't affect your budget at all as the entrance fees are free for students.</p>
+          <p>We hope you consider our request which would be <NS type="RY"><i>very</i><c>much</c></NS> <NS type="DJ"><i>appreciate</i><c>appreciated</c></NS> <NS type="RT"><i>in</i><c>by</c></NS> the class.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Why <NS type="W"><i><NS type="MD"><c>the</c></NS> <NS type="CN"><i>medias</i><c>media</c></NS> are</i><c>are the media</c></NS> so <NS type="RJ"><i>interesting</i><c>interested</c></NS> in famous people?</p>
+          <p>Because of us!</p>
+          <p>I know that everyone is excited about what happened <NS type="RT"><i>to</i><c>at</c></NS> Michael Douglas' wedding or what kind of life the President of <NS type="RP"><i>The</i><c>the</c></NS> United States is living but sometimes it's going a bit <NS type="SX"><i>to</i><c>too</c></NS> far.</p>
+          <p>Those movie stars or politicians may have a lot of money, may do whatever they want but what is the price to pay? Would you like to live a life like that, every time you make a wrong step, the whole world is looking at you, judging you<NS type="RP"><i>.</i><c>?</c></NS> It must be very <NS type="RJ"><i>exhausted</i><c>exhausting</c></NS> to have the <NS type="CN"><i>medias</i><c>media</c></NS> around you <NS type="ID"><i>days and nights</i><c>day and night</c></NS> because you can't be yourself, you have to show your best side and character.</p>
+          <p>In my opinion <NS type="RA"><i>it</i><c>there</c></NS> should be a rule which <NS type="AGV"><i>let</i><c>lets</c></NS> the <NS type="CN"><i>medias</i><c>media</c></NS> approach famous people almost anywhere except in their private home to leave them at least one place to feel safe.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

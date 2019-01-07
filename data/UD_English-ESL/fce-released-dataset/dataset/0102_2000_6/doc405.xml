@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR162*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Madam/Sir,</p>
+          <p>I am writing to say I am not satisfied with your musical show.</p>
+          <p>Recently I <NS type="TV"><i>am</i><c>have been</c></NS> interested in musical shows, because I have never seen <NS type="AGA"><i>it</i><c>them</c></NS> in my country. When I saw your advertisement for the show, it was so attractive <NS type="RT"><i>for</i><c>to</c></NS> me. So I went to London to see the show.</p>
+          <p>As I arrived there after 5 P.M., I missed the first performance, so I decided to see the 19:30 p.m performance. <NS type="RC"><i>However</i><c>But</c></NS> it started <NS type="MT"><c>at</c></NS> 20:15! Furthermore there were no student discounts!</p>
+          <p>The worst <NS type="R"><i>one</i><c>thing</c></NS> was that the actor and actress were not the <NS type="AGN"><i>person</i><c>people</c></NS> who had been written <NS type="MT"><c>about</c></NS> in the advertisement, because of that I was extremely disappointed. So, I could not concentrate on the show.</p>
+          <p>After the show, when I went to the restaurant it was closed, because it usually opens between afternoon and evening shows.</p>
+          <p>It was a really disappointing evening! So I am asking for some money back.</p>
+          <p>I look forward to receiving your prompt reply.</p>
+          <p>Yours faithfully</p>
+          <p>Chu Jin-Sun.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life? It could be difficult to feel how many things <NS type="AGV"><i>has</i><c>have</c></NS> been changed in our daily life. But if you thought <NS type="MY"><c>back</c></NS> <NS type="MT"><c>to</c></NS> 10 years <NS type="RY"><i>before</i><c>ago</c></NS> you <NS type="TV"><i>can</i><c>could</c></NS> easily notice.</p>
+          <p><NS type="R">I would like to see the change in an advantage and a disadvantage view,</NS> <NS type="RT"><i>In</i><c>As</c></NS> an advantage<NS type="RP"><i>. The</i><c>, the</c></NS> modern technology is developing toward convenience for <NS type="FN"><i>human</i><c>humans</c></NS>.</p>
+          <p>So, <NS type="RA"><i>we</i><c>you</c></NS> can <NS type="RV"><i>be connected</i><c>contact</c></NS> other people with a mobile phone no matter where you are and you can correspond <NS type="RT"><i>to</i><c>with</c></NS> <NS type="R"><i>other <NS type="S"><i>contry</i><c>country</c></NS> people</i><c>people in other countries</c></NS> in real time by using <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. How <NS type="S"><i>incredable</i><c>incredible</c></NS> it is!</p>
+          <p>However <NS type="M"><c>there is</c></NS> not only this advantage but <NS type="W"><i>also there are</i><c>there are also</c></NS> lots of disadvantages. Although <NS type="MD"><c>the</c></NS> mobile phone is very useful <NS type="MT"><c>in</c></NS> our life, it might be harmful for our <NS type="AGN"><i>brain</i><c>brains</c></NS> because of <NS type="FN"><i><NS type="RP"><i>micro wave</i><c>microwave</c></NS></i><c>microwaves</c></NS> it can cause <NS type="UD"><i>the</i></NS> cancer or traffic accidents. In addition<NS type="MP"><c>,</c></NS> the side <NS type="FN"><i>effect</i><c>effects</c></NS> of artificial farm products also can't be ignored in our daily life.</p>
+          <p>So I would like to say <NS type="MC"><c>that</c></NS> <NS type="UD"><i>the</i></NS> science and techology changed our daily life <NS type="M"><c>by giving us</c></NS> more convenience <NS type="MC"><c>but</c></NS> it also could be dangerous.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

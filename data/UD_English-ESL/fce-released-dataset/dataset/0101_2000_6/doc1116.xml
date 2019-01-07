@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR454*0101*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Brown,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you because my class want to give a surprise birthday party for your husband Mr Brown. We need your help <NS type="RT"><i>for</i><c>with</c></NS> the details.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> could you let us know if the date of June 16th is all right with his timetable <NS type="UN"><i>program</i></NS><NS type="RP"><i>.</i><c>?</c></NS> We have organised <NS type="FV"><i>to <NS type="RV"><i>do</i><c>hold</c></NS></i><c>holding</c></NS> the party between three <NS type="R"><i>to</i><c>and</c></NS> six o'clock in <NS type="MD"><c>the</c></NS> afternoon in <NS type="MD"><c>the</c></NS> <NS type="RP"><i>College Canteen</i><c>college canteen</c></NS>, about <NS type="MD"><c>the</c></NS> food<NS type="MP"><c>,</c></NS> we <NS type="TV"><i>organised</i><c>have organised</c></NS> a buffet, but could you also help us with the music which he <NS type="AGV"><i>prefer</i><c>prefers</c></NS>, if <NS type="MA"><c>he</c></NS> <NS type="AGV"><i>prefer</i><c>prefers</c></NS> something <NS type="RY"><i><NS type="DY"><i>especialy</i><c>especially</c></NS></i><c>in particular</c></NS>. We have <NS type="TV"><i>invite</i><c>invited</c></NS> the <NS type="FN"><i>student</i><c>students</c></NS>, the teachers and the Principal of <NS type="MD"><c>the</c></NS> school but we <NS type="TV"><i>appreciate</i><c>would appreciate</c></NS> <NS type="MA"><c>it</c></NS> if you <NS type="TV"><i>are coming</i><c>came</c></NS>. <NS type="RY"><i>At last</i><c>Finally</c></NS> would you tell us which is the best present for him<NS type="MP"><c>,</c></NS> a compact disk or a book<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>We want <NS type="FV"><i>say</i><c>to say</c></NS> thanks again for your help and you must be sure that your opinion <NS type="UA"><i>it</i></NS> would be valuable to us.</p>
+          <p>I am looking forward to receiving your answer and don't forget that it is a <NS type="S"><i>surprice</i><c>surprise</c></NS> birthday party.</p>
+          <p>Yours <NS type="RY"><i><NS type="DY"><i>faithfuly</i><c>faithfully</c></NS></i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Family life <NS type="DY"><i>in our days</i><c>nowadays</c></NS> is very important because both <NS type="UT"><i>of</i></NS> parents work and they haven't any time for <NS type="MD"><c>the</c></NS> children. In addition <NS type="IN"><i>childrens</i><c>children</c></NS> have so <NS type="AGQ"><i>much</i><c>many</c></NS> lessons at school that they <NS type="AGV"><i>doesn't</i><c>don't</c></NS> have enough spare time to see their parents, when they are <NS type="RT"><i>in</i><c>at</c></NS> home.</p>
+          <p>In <NS type="S"><i>spide</i><c>spite</c></NS> <NS type="MT"><c>of</c></NS> that fact there are of course many families <NS type="DY"><i>especialy</i><c>especially</c></NS> in small towns <NS type="RA"><i>which</i><c>who</c></NS> eat lunch all together and <NS type="SX"><i>they</i><c>then</c></NS> they solve their problem all together. Parents play with <NS type="MD"><c>their</c></NS> children and have fun. And the difference <NS type="SX"><i>in</i><c>is</c></NS> that <NS type="MD"><c>those</c></NS> children <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="DJ"><i><NS type="DY"><i>effectivily</i><c>effectively</c></NS></i><c>effective</c></NS> when they <NS type="TV"><i>grown</i><c>grow</c></NS> up and want to <NS type="RV"><i>make</i><c>have</c></NS> a family<NS type="MP"><c>,</c></NS> they do the same <NS type="RT"><i>with</i><c>as</c></NS> their parents and <NS type="RV"><i>make</i><c>have</c></NS> a happy family.</p>
+          <p>Besides that the most <NS type="S"><i>importand</i><c>important</c></NS> <NS type="MN"><c>thing</c></NS> is that <NS type="AGD"><i>this</i><c>these</c></NS> children have an easy <NS type="DN"><i>teenaties</i><c>adolescence</c></NS> and they haven't <NS type="RV"><i>go</i><c>got</c></NS> <NS type="S"><i>pshycological</i><c>psychological</c></NS> problems and they are useful in <NS type="S"><i>sociaty</i><c>society</c></NS>.</p>
+          <p>To sum up<NS type="MP"><c>,</c></NS> family life is the most important <NS type="SX"><i>think</i><c>thing</c></NS> for <NS type="MP"><i>childrens</i><c>children's</c></NS> <NS type="S"><i>phycological</i><c>psychological</c></NS> <NS type="RN"><i>wold</i><c>world</c></NS> which <NS type="AGV"><i>help</i><c>helps</c></NS> them in their education, job and their <NS type="DN"><i>married</i><c>marriage</c></NS> in future. So we also try to make our time creative when we are with our children.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

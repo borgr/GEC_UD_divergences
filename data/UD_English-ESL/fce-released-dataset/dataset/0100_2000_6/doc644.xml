@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR252*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen:</p>
+          <p>I've <NS type="S"><i>recived</i><c>received</c></NS> your letter and I am pleased to have won because I needed some days to relax <NS type="UA"><i>myself</i></NS> and to leave the city, which is very <NS type="DJ"><i>extressing</i><c>stressful</c></NS>.</p>
+          <p>I <NS type="W"><i>only can travel <NS type="RT"><i>on</i><c>in</c></NS> July</i><c>can travel in July only</c></NS> because I am working in an office and I must ask my boss for a holiday and it's the <NS type="S"><i>mounth</i><c>month</c></NS> he can give me <NS type="MA"><c>one</c></NS>, so I hope <NS type="RA"><i>it</i><c>that</c></NS> isn't a problem for you.</p>
+          <p><NS type="W"><i>To spend the two weeks I would prefer</i><c>I would prefer to spend the two weeks</c></NS> <NS type="UV"><i>to live</i></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, that's<NS type="MP"><c>,</c></NS> in my opinion<NS type="MP"><c>,</c></NS> a way to be nearer the <NS type="S"><i>enviroment</i><c>environment</c></NS> and the animals, although I don't mind <NS type="RV"><i>living</i><c>staying</c></NS> in log cabins.</p>
+          <p>In spite of liking all the sports you wrote <NS type="MT"><c>about</c></NS> in your letter<NS type="MP"><c>,</c></NS> I am only good at climbing and sailing, because I <NS type="R"><i>am used to</i><c>used to</c></NS> <NS type="RV"><i>practise</i><c>do</c></NS> them with my father <NS type="R"><i>since</i><c>when</c></NS> I was a child.</p>
+          <p>I have got a doubt, it is not very important, but I would like to know if I need any money or <NS type="MC"><c>if</c></NS> <NS type="RA"><i>all</i><c>everything</c></NS> is <NS type="IV"><i>payed</i><c>paid</c></NS> <NS type="MT"><c>for</c></NS>, the kind of clothes I should wear, if the weather is good or bad... and all the extra information you can send me.</p>
+          <p>Thank you very much for the prize.</p>
+          <p>Yours faithfully.</p>
+          <p>Eliza Vasquez.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Why <NS type="MV"><c>do</c></NS> people <NS type="AS"><i>like so much go shopping</i><c>like to go shopping so much</c></NS>?</p>
+          <p>In my opinion the majority of <NS type="UD"><i>the</i></NS> people <NS type="RA"><i>that</i><c>who</c></NS> go shopping are women who must buy food and other <NS type="AGN"><i>kind</i><c>kinds</c></NS> of things for <NS type="RD"><i>her</i><c>their</c></NS> <NS type="FN"><i>family</i><c>families</c></NS>, so<NS type="MP"><c>,</c></NS> for them, shopping is a very boring activity that is repeated <NS type="RP"><i>everyday</i><c>every day</c></NS> and that <NS type="AGV"><i>drive</i><c>drives</c></NS> them crazy when they have to choose the best product and the cheapest price to save some money.</p>
+          <p><NS type="R"><i><NS type="S"><i>Othrewise</i><c>Otherwise</c></NS></i><c>On the other hand</c></NS>, there are people who think the opposite<NS type="RP"><i>;</i><c>,</c></NS> such as: children, teenagers, men; but not always, because they <NS type="W"><i>go <NS type="R"><i>to buy</i><c>shopping</c></NS> hardly ever</i><c>hardly ever go shopping</c></NS><NS type="RP"><i>,</i><c> - </c></NS> only when they need clothes<NS type="MP"><c>,</c></NS> or something for their job or school. In that way shopping can be as <NS type="MQ"><c>much</c></NS> <NS type="RJ"><i>funny</i><c>fun</c></NS> as you want, although if you do it very often, it will <NS type="R">be as an obligation in the future</NS>.</p>
+          <p>To sum up, <NS type="RA"><i>all</i><c>everything</c></NS> you <NS type="RV"><i>make</i><c>do</c></NS> in small <NS type="S"><i>cuantities</i><c>quantities</c></NS> is good and <NS type="RJ"><i>funny</i><c>fun</c></NS>, but don't <NS type="S"><i>encrease</i><c>increase</c></NS> <NS type="R"><i>them</i><c>the amount you do</c></NS> if you don't want to feel uncomfortable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

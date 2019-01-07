@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR431*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan,</p>
+          <p>I am very glad to hear that I have won the prize and thank you very much <NS type="RT"><i>about</i><c>for</c></NS> that. Here is the information you want, I hope <NS type="AGA"><i>they</i><c>it</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> useful.</p>
+          <p>First of all, July is the only month I can travel, because I have got exams at school and I won't finish them until the last day of June. And in August, I have to go back to school to do some <NS type="FN"><i>classes</i><c>class</c></NS> work and I have got a camp to organise. So I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July. Secondly, I would prefer the accommodation <NS type="MV"><c>to be</c></NS> in tents. Since I haven't been camping in tents <NS type="UY"><i>so</i></NS> I would like to take this chance to feel and experience what <NS type="AS"><i>will it be</i><c>it is like</c></NS>.</p>
+          <p>About the activities, I chose swimming and climbing. I am in <NS type="MD"><c>the</c></NS> swimming <NS type="RN"><i>term</i><c>team</c></NS> <NS type="R"><i>a</i><c>at</c></NS> school and I won a prize last month. Although I'm not good at climbing, I want to <NS type="FV"><i>experienced</i><c>experience</c></NS> <NS type="M"><c>it for</c></NS> myself.</p>
+          <p>I would like to ask what is the weather in <NS type="MD"><c>the</c></NS> USA like and what kind of clothes should I wear<NS type="RP"><i>?</i><c>.</c></NS> And I was wondering how much money <NS type="UV"><i>do</i></NS> I have to take<NS type="RP"><i>?</i><c>.</c></NS> Also, if I can <NS type="RV"><i>join</i><c>go</c></NS> climbing, what do I have to bring? <NS type="RY"><i>At last</i><c>Lastly</c></NS> thank you very much for answering my questions.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>It was lovely to hear that you want to hear about my experience. I helped <NS type="MT"><c>at</c></NS> the concert<NS type="MP"><c>,</c></NS> which was my <NS type="S"><i>favour</i><c>favourite</c></NS> singer's concert.</p>
+          <p>I helped with the piano part in that concert. At the concert, I had to play 4 songs and I had never played in a concert before, so I felt very nervous before the concert.</p>
+          <p>But it was a good experience for me because I learnt how to <NS type="RV"><i>claim</i><c>calm</c></NS> down and play well in front of the audience <NS type="MT"><c>at</c></NS> the concert. And also I have never played the piano with <NS type="UD"><i>the</i></NS> singers before, and <NS type="UY"><i>after</i></NS> that <NS type="UA"><i>it</i></NS> makes me more confident and <NS type="TV"><i>improved</i><c>has improved</c></NS> my skills a lot. When the concert finished my <NS type="SX"><i>favour</i><c>favourite</c></NS> singer talked to me &amp; they invited me to play the piano in their next concert and they said that because I performed <NS type="SX"><i>will</i><c>well</c></NS> in that concert. They taught me a lot about playing piano as well.</p>
+          <p><NS type="RY"><i>At last</i><c>Lastly</c></NS><NS type="MP"><c>,</c></NS> thank you for sharing my experience. I am looking forward to hearing from you.</p>
+          <p>Best wishes</p>
+          <p><NS type="L">Yours sincerely,</NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

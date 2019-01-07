@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR101*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Satomi Fukao</p>
+          <p>12 Dover Street</p>
+          <p>AS3 7GH, London</p>
+          <p>13, Jun, 2000</p>
+          <p>Mrs. Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>Dear Madam</p>
+          <p>I have received the letter which tells me that <NS type="MA"><c>I</c></NS> have won first prize in your competition. I am going to write about <NS type="MD"><c>the</c></NS> information which you want to know.</p>
+          <p>First, I would like to travel in <NS type="W"><i>only July</i><c>July only</c></NS>, because I have got a job and <NS type="W"><i>only July is the</i><c>July is the only</c></NS> time I can have a vacation.</p>
+          <p>Secondly, I would like to choose a tent for accommodation, because I have never spent time in a tent, that's why, I think it is a good <NS type="S"><i>oppotunity</i><c>opportunity</c></NS> for me.</p>
+          <p>I would like to choose swimming and photography <NS type="RT"><i>for</i><c>as</c></NS> activities. I have <NS type="UD"><i>a</i></NS> <NS type="S"><i>planty</i><c>plenty</c></NS> of experience and knowledge of both <NS type="R">aspect of part</NS>.</p>
+          <p>Lastly, I would like to ask you two questions. One of them is <NS type="UC"><i>that</i></NS> what kind of clothes <NS type="MV"><c>are</c></NS> suitable on this camp. Another one is <NS type="UC"><i>that</i></NS> how much money I have to <NS type="RV"><i>prepare</i><c>bring</c></NS>.</p>
+          <p>I <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="S"><i>greatfull</i><c>grateful</c></NS> if you could inform me.</p>
+          <p><NS type="L"><i><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</i><c>Yours faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Hi! How are you doing? I had a wonderful time last month. I helped <NS type="MT"><c>at</c></NS> a pop concert as a <NS type="RN"><i>charity</i><c>volunteer</c></NS>. My jobs were collecting <NS type="UD"><i>a</i></NS> <NS type="FN"><i>ticket</i><c>tickets</c></NS>, <NS type="DV"><i>saling</i><c>selling</c></NS> goods and <NS type="FN"><i>refreshment</i><c>refreshments</c></NS>, guiding people to <NS type="RD"><i>a</i><c>the</c></NS> right seat and cleaning up the concert <NS type="RN"><i>hole</i><c>hall</c></NS> after <NS type="W"><i><NS type="TV"><i>finish</i><c>finished</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> concert</i><c>the concert finished</c></NS>. I wasn't allowed to help <NS type="MV"><c>do</c></NS> <NS type="UD"><i>a</i></NS> heavy work, even though I wanted to <NS type="UV"><i>do</i></NS>, because I'm <NS type="MD"><c>a</c></NS> woman. What I particularly liked about the experience was the concert <NS type="RV"><i>had</i><c>was</c></NS> <NS type="S"><i>achived</i><c>achieved</c></NS> <NS type="RT"><i>by</i><c>through</c></NS> our <NS type="CN"><i>supports</i><c>support</c></NS>. It seemed that all people, <NS type="MD"><c>the</c></NS> audience, the band and <NS type="MD"><c>the</c></NS> <NS type="RN"><i>stuffs</i><c>staff</c></NS> were delightful. If I have <NS type="MD"><c>the</c></NS> chance, I want to help <NS type="MT"><c>at</c></NS> a concert again. I have never felt such <NS type="UT"><i>as</i></NS> satisfaction. I really <NS type="S"><i>recomend</i><c>recommend</c></NS> you to help them, I think this is a good <NS type="S"><i>oppotunity</i><c>opportunity</c></NS> and I want you <NS type="FV"><i>understand</i><c>to understand</c></NS> my feeling well. I've got lots of things about the concert to talk to you <NS type="MT"><c>about</c></NS>. I want to know your <NS type="S"><i>openion</i><c>opinion</c></NS>.</p>
+          <p>If you have time, drop me a line, please.</p>
+          <p>Bye</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

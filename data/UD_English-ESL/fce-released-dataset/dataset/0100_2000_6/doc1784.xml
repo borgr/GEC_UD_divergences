@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR61*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>&lt;16</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Madam</p>
+          <p>I am writing to <NS type="RV"><i>answer</i><c>provide</c></NS> the <NS type="CN"><i>informations</i><c>information</c></NS> that you need from me.</p>
+          <p>First I would like to thank you for <NS type="RV"><i>doing</i><c>organising</c></NS> this competition and I would also like to thank you for the prize.</p>
+          <p>Answering your questions, I would like to travel only <NS type="SX"><i>en</i><c>in</c></NS> July because this is the month of my <NS type="FN"><i>vacations</i><c>vacation</c></NS>. In July I will be free to travel anywhere I please.</p>
+          <p>According to your letter<NS type="MP"><c>,</c></NS> I have two options <NS type="RT"><i>of</i><c>regarding</c></NS> accommodation, <NS type="RC"><i>or</i><c>either</c></NS> in tents or log cabins. I would prefer <NS type="R"><i>in</i><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I think that is something more exciting and new for me. I <NS type="TV"><i>never stayed</i><c>have never stayed</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> in the middle of nowhere<NS type="UP"><i>,</i></NS> in my life so I would prefer something more realistic and new. Log cabins may be more <NS type="S"><i>confortable</i><c>comfortable</c></NS><NS type="RP"><i>, on</i><c>.  On</c></NS> the other hand I think that I will be able to "survive" in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>. Looking <NS type="RT"><i>to</i><c>at</c></NS> your letter, I can see many options <NS type="RT"><i>of</i><c>for</c></NS> activities and I <NS type="TV"><i>realized</i><c>realize</c></NS> that I like most of them. I think I would prefer Climbing and Painting. The reason <NS type="RT"><i>of</i><c>for</c></NS> choosing <NS type="AGQ"><i>this</i><c>these</c></NS> two activities is that they contrast <NS type="MC"><c>with</c></NS> <NS type="R"><i><NS type="S"><i>itselves</i><c>themselves</c></NS></i><c>each other</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I want one <NS type="M"><c>that is</c></NS> more exciting and that asks for more agility and another <NS type="M"><c>that is</c></NS> <NS type="IJ"><i>more calm</i><c>calmer</c></NS> and relaxing, that asks only for my ability to paint. Climbing is something new for me and I am not so good <NS type="RT"><i>on</i><c>at</c></NS> <NS type="RA"><i>that</i><c>it</c></NS>, however<NS type="MP"><c>,</c></NS> I <NS type="RV"><i>wish</i><c>hope</c></NS> that I can learn about it <NS type="RT"><i>on</i><c>at</c></NS> the Camp. Painting is something that I love and I am very good <NS type="R"><i>doing</i><c>at</c></NS> it.</p>
+          <p>I have some <NS type="RN"><i>doubts</i><c>worries</c></NS> about my prize and travel. Is there <NS type="R"><i>a</i><c>any</c></NS> possibility that you <NS type="MV"><c>could</c></NS> send me a list of <NS type="RN"><i>material</i><c>equipment</c></NS> and clothes that I have to take?</p>
+          <p>Is <NS type="RA"><i>all</i><c>everything</c></NS> <NS type="MT"><c>on</c></NS> the <NS type="RN"><i>travel</i><c>trip</c></NS> already paid <NS type="MT"><c>for</c></NS><NS type="MP"><c>,</c></NS> including food and meals, or <NS type="MV"><c>do</c></NS> I have to bring some money?</p>
+          <p>Do I have to bring something <NS type="RJ"><i>especial</i><c>special</c></NS> for the <NS type="FN"><i>tents</i><c>tent</c></NS> and camping?</p>
+          <p>Please answer my letter as soon as <NS type="UV"><i>is</i></NS> possible.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+          <p>GUSTAV SOARES.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? Is everything good in <NS type="MD"><c>the</c></NS> USA?</p>
+          <p>I'm writing to you because I had a wonderful experience last month.</p>
+          <p>There was a concert <NS type="RT"><i>of</i><c>with</c></NS> a famous band here in my city. I <NS type="S"><i>vish</i><c>wish</c></NS> you <NS type="TV"><i>were</i><c>had been</c></NS> here with me. So, I went with my friend to the concert with a lot of fans. We bought tickets to the show and also to the <NS type="RP"><i>fan's</i><c>fans'</c></NS> bus. Yes, there is a bus that <NS type="AGV"><i>take</i><c>takes</c></NS> you to the concert and <NS type="AGV"><i>bring</i><c>brings</c></NS> you back.</p>
+          <p>The concert was going to start at 22:00 and the bus arrived at my house at 18:00. When we <NS type="RV"><i>entered</i><c>got</c></NS> inside <NS type="UT"><i>of</i></NS> it, we saw a lot of fans <NS type="RV"><i>using</i><c>wearing</c></NS> T-shirts, caps and shouting, "Almendegos, Almendegos..." (that is the name of the band).</p>
+          <p>AT 20:00, we stopped <NS type="RT"><i>in</i><c>at</c></NS> a coffee house to eat. <NS type="SX"><i>The</i><c>They</c></NS> shouted: "20:30 you all have to be back because the bus will leave."</p>
+          <p>We sat and started to eat and talk. Suddenly a man came and started to tell us his adventures. They were very interesting and we liked him <NS type="RY"><i>so</i><c>very</c></NS> much. After a few minutes (I <NS type="RV"><i>fought</i><c>thought</c></NS> <NS type="MY"><c>they</c></NS> were <NS type="MD"><c>a</c></NS> few) I realized that the coffee house was empty. I looked <NS type="RT"><i>to</i><c>at</c></NS> my watch: 20:45. The bus had left about fifteen minutes <NS type="MY"><c>before</c></NS>. The man offered <NS type="MA"><c>us</c></NS> a ride. We <NS type="TV"><i>accept</i><c>accepted</c></NS>. You <NS type="RP"><i>can not</i><c>cannot</c></NS> imagine how <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> I <NS type="TV"><i>were</i><c>was</c></NS> with <NS type="DA"><i>my ownself</i><c>myself</c></NS>.</p>
+          <p>When we arrived the concert had already <NS type="TV"><i>began</i><c>begun</c></NS>. When we were running to enter a man called us. He was helping to put the <NS type="W"><i><NS type="RN"><i>materials</i><c>equipment</c></NS> of the <NS type="FN"><i>concerts</i><c>concert</c></NS></i><c>concert equipment</c></NS> (microphone...) on the stage. He asked if we could help. We answered: "Yes!"</p>
+          <p>We started to put <NS type="S"><i>everthing</i><c>everything</c></NS> on the stage and after this we realized that the band was <NS type="RV"><i>entering</i><c>coming</c></NS> <NS type="RT"><i>into</i><c>onto</c></NS> the stage near us.</p>
+          <p><NS type="W"><i>By my side the <NS type="DN"><i>vocal</i><c>vocalist</c></NS> of the Almendegos was</i><c>The vocalist of the Almendegos was by my side</c></NS> and he touched my arm. I will never wash my arm again. After all of this we saw the show <NS type="RT"><i>in</i><c>from</c></NS> the best place, near <NS type="UT"><i>of</i></NS> the stage and <NS type="R"><i>after</i><c>afterwards</c></NS>, the thing that I most liked, we were <NS type="DV"><i>convidated</i><c>invited</c></NS> to see the group and <NS type="RV"><i>had</i><c>got</c></NS> their signatures.</p>
+          <p>That was the best night of my life.</p>
+          <p>I <NS type="RV"><i>wish</i><c>hope</c></NS> that you liked my experience.</p>
+          <p>Kisses,</p>
+          <p>GUSTAV.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

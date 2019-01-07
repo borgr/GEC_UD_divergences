@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR251*0100*2000*01">
+  <candidate><personnel><language>German</language><age>26-30</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan</p>
+          <p>I am <NS type="RY"><i>very</i><c>really</c></NS> astonished that I won this competition! It is great and I <NS type="RV"><i>will</i><c>want to</c></NS> say thank you for the two weeks at Camp California <NS type="UY"><i>already</i></NS>. I have never been <NS type="RT"><i>in</i><c>to</c></NS> California <NS type="RY"><i>yet</i><c>before</c></NS>.</p>
+          <p>Now I will give you <NS type="R"><i>the</i><c>some</c></NS> further information: I have to travel in July because I <NS type="TV"><i>had</i><c>have</c></NS> to make sure that I can have <NS type="MD"><c>a</c></NS> holiday this year and it is <NS type="R"><i>the</i><c>my</c></NS> only <NS type="RN"><i><NS type="S"><i>possebility</i><c>possibility</c></NS></i><c>option</c></NS>! I am sure you can <NS type="DV"><i>take attention on</i><c>understand</c></NS> this.</p>
+          <p>I decided <NS type="R"><i>to have the</i><c>that my</c></NS> accommodation at Camp California <NS type="MV"><c>should be</c></NS> in a tent, because there you will have lots of fun. You can feel the fresh air and listen to <NS type="MD"><c>the</c></NS> animals<NS type="RP"><i>, this</i><c>.  This</c></NS> will be a great <NS type="S"><i>oportunety</i><c>opportunity</c></NS>!</p>
+          <p>I am pleased to choose two activities, because now I will be able to learn SINGING and SURFING! I am <NS type="X"><i>not <NS type="RJ"><i>well</i><c>good</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> both activities</i><c>not good at either activity</c></NS>, but it will be a pleasure to try <NS type="AGA"><i>it</i><c>them</c></NS><NS type="MP"><c>,</c></NS> <NS type="S"><i>espacially</i><c>especially</c></NS> surfing<NS type="RP"><i>,</i><c>.</c></NS> I would like to feel the <NS type="RN"><i>air</i><c>wind</c></NS> in my hair, and enjoy how <NS type="RY"><i>quick</i><c>quickly</c></NS> the board goes over the sea.</p>
+          <p><NS type="W"><i>Another question I have</i><c>I have another question</c></NS>; the <NS type="DN"><i>live</i><c>life</c></NS> there, is it as expensive as I think? And the weather<NS type="MP"><c>?</c></NS> <NS type="RP"><i>are</i><c>Are</c></NS> <NS type="RA"><i>they</i><c>there</c></NS> only sunshiny days?</p>
+          <p><NS type="ID"><i>In the other hand</i><c>On the other hand</c></NS> it is not as important, the main reason is I really look forward to <NS type="FV"><i>go</i><c>going</c></NS> <NS type="RT"><i>at</i><c>to</c></NS> this <NS type="RP"><i>Camp</i><c>camp</c></NS> and<NS type="MP"><c>,</c></NS> one more time, thanks a lot!</p>
+          <p>Yours sincerely</p>
+          <p>L. Schwartz</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>We have recently had a discussion in our class about this statement<NS type="RP"><i>, we</i><c>.  We</c></NS> have had a great <NS type="M"><c>deal of</c></NS> <NS type="S"><i>argueing</i><c>arguing</c></NS>. Certainly it is great to buy new clothes and have a great variety at home<NS type="UP"><i>,</i></NS> to wear, but mostly you will <NS type="X"><i>have <NS type="S"><i>allways</i><c>always</c></NS> not enough</i><c>never have enough</c></NS>.</p>
+          <p>When I <NS type="TV"><i>decided</i><c>decide</c></NS> to go <NS type="U"><i>for a</i></NS> shopping, first I will make sure that I have enough time. I am not a typical <NS type="AGN"><i>women</i><c>woman</c></NS> because I hate shopping! I am lucky if I <NS type="TV"><i>will find</i><c>find</c></NS> something which fits.</p>
+          <p>The main reason I hate <NS type="M"><c>it is that</c></NS><NS type="UP"><i>,</i></NS> there are too many people who are always standing in my way (or maybe I <NS type="R">think in that way</NS>) and I begin to <NS type="RV"><i>be</i><c>get</c></NS> angry<NS type="RP"><i>, normally</i><c>.  Normally</c></NS> <NS type="ID">I am looking those people with evil eyes</NS>!</p>
+          <p>I mean, it is too <NS type="DJ"><i>crowdy</i><c>crowded</c></NS>, you have to wait such a long time before you can pay, and <NS type="RY"><i>mostly</i><c>most</c></NS> <NS type="R"><i>all</i><c>of</c></NS> the things are too expensive! Even before you <NS type="TV"><i>will find</i><c>find</c></NS> a color you like or the right size of <NS type="UD"><i>the</i></NS> trousers, you <NS type="TV"><i>were</i><c>have been</c></NS> looking for it a long time, <NS type="R"><i>has</i><c>then it's</c></NS> gone!</p>
+          <p>Lastly, you can see, my opinion about shopping is not very good, <NS type="R"><i>then</i><c>because</c></NS> I think shopping is never enjoyable!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

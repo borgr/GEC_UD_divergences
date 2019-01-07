@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR816*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Helen</i></NS> Ryan,</p>
+          <p>I am writing in reply to your letter that I have just received. I am very happy to win first prize in your competition<NS type="UP"><i>.</i></NS> - two weeks at Camp California in the U.S.A. I am also very excited about it.</p>
+          <p>If it is possible<NS type="MP"><c>,</c></NS> I would like to travel in July. This is the only month that I will be free<NS type="UP"><i>. Because</i><c> because</c></NS> I am studying <NS type="UD"><i>the</i></NS> Management and Finance at university and it will finish at the end of June. I will be in <NS type="RP"><i>italy</i><c>Italy</c></NS> in August<NS type="UP"><i>. Because</i><c> because</c></NS> I need to improve my <NS type="RP"><i>italian</i><c>Italian</c></NS> <NS type="RC"><i>and</i><c>as</c></NS> I am taking a very important exam next year.</p>
+          <p>I would <NS type="UV"><i>be</i></NS> appreciate it if I could stay in <NS type="MD"><c>a</c></NS> <NS type="FN"><i>tents</i><c>tent</c></NS> at <NS type="MD"><c>the</c></NS> Camp<NS type="UP"><i>. Because</i><c> because</c></NS> I usually go on <NS type="UN"><i><NS type="UP"><i>camping-site</i><c>camping site</c></NS></i><c>camping</c></NS> <NS type="FN"><i>holiday</i><c>holidays</c></NS><NS type="UP"><i>,</i></NS> with my friends. It is great fun. I really like <NS type="RV"><i>staying</i><c>sleeping</c></NS> in tents.</p>
+          <p><NS type="RA"><i>It</i><c>You</c></NS> <NS type="UV"><i>is</i></NS> also <NS type="RV"><i>written</i><c>said</c></NS> in your letter that we will have <NS type="UT"><i>to</i></NS> <NS type="MD"><c>the</c></NS> chance to do two activities. I am really good at playing tennis and singing. I have been playing tennis for five years and I love it. I play the <NS type="S"><i>classicial</i><c>classical</c></NS> guitar and I also sing <NS type="UN"><i>songs</i></NS>. I have been playing the <NS type="S"><i>classicial</i><c>classical</c></NS> guitar for three years. It is quite difficult but I like difficult things.</p>
+          <p>I wonder if you could tell me about the <NS type="S"><i>wheather</i><c>weather</c></NS> and what kind of clothes I <NS type="RV"><i>have</i><c>ought</c></NS> to bring with me. I would also like to know how much money I need.</p>
+          <p>I look forward to receiving your reply<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><c>THE</c></NS> RIGHT TIME FOR SHOPPING</p>
+          <p>Why do people like shopping? <NS type="MD"><i>First</i><c>The first</c></NS> answer is that they need <NS type="MV"><c>to go</c></NS> shopping. <NS type="MD"><i>Second</i><c>The second</c></NS> answer is that <NS type="UD"><i>the</i></NS> shopping makes everyone happy. If I get bored I can't stay at home and I feel <NS type="MC"><c>like</c></NS> going shopping. When I <NS type="RV"><i>do</i><c>go</c></NS> shopping I don't think about any problems I have. It's very relaxing for me but <NS type="MY"><c>only</c></NS> if it is possible to do <NS type="MD"><c>the</c></NS> shopping. Sometimes it can be nightmare if you can't find something that you are looking for.</p>
+          <p>I think the weekends are not the right time to go shopping. I went shopping last week with my friend<NS type="MP"><c>,</c></NS> she needed to buy a nightdress. We spent <NS type="UT"><i>for</i></NS> three hours and we couldn't buy anything. It was incredibly crowded. We couldn't even move and <NS type="UD"><i>the</i></NS> most people were just looking and <NS type="UV"><i>were</i></NS> wasting <NS type="UT"><i>of</i></NS> their time.</p>
+          <p>If you are in a hurry, don't go shopping! It is not really <NS type="MD"><c>a</c></NS> good idea to go shopping if you don't have enough time.</p>
+          <p>Imagine you have three children and you are going shopping with them. I can tell you how bad <NS type="MD"><c>a</c></NS> situation you are in because when I was a child I always had <NS type="UD"><i>an</i></NS> <NS type="FN"><i>argument</i><c>arguments</c></NS> with my mother about shopping. I can remember how upset I was if my mother didn't buy what I wanted and how much I cried. It was very <NS type="DJ"><i>ashameful</i><c>shameful</c></NS> for my mum. She was also very angry<NS type="UP"><i>. Because</i><c> because</c></NS> she never managed to get me out <NS type="RT"><i>from</i><c>of</c></NS> the toy shop.</p>
+          <p>As you see<NS type="MP"><c>,</c></NS> shopping is not always enjoyable. Always make sure that <NS type="MA"><c>it</c></NS> is <NS type="MD"><c>the</c></NS> right time to go shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

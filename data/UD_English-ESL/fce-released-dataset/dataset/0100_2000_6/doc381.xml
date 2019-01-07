@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR153*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Helen</p>
+          <p>I'm writing <NS type="UY"><i>back</i></NS> to answer the questions that you <NS type="TV"><i>send</i><c>sent</c></NS> me in the <NS type="RJ"><i>past</i><c>last</c></NS> letter, so <NS type="IV"><i>refering</i><c>referring</c></NS> to the question of when I would like to travel, I would like to go anytime during <NS type="RP"><i>july</i><c>July</c></NS>, because I have to be <NS type="W"><i>in <NS type="RP"><i>august</i><c>August</c></NS> back home</i><c>back home in August</c></NS>, because I need to apply and get <NS type="S"><i>everithing</i><c>everything</c></NS> <NS type="IV"><i>sortted</i><c>sorted</c></NS> out, to go <NS type="RT"><i>into</i><c>to</c></NS> college next <NS type="RP"><i>september</i><c>September</c></NS>.</p>
+          <p>And <NS type="R"><i>according</i><c>referring</c></NS> to the question <NS type="RT"><i>of</i><c>about</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> type of accommodation I prefer, I choose a log cabin, because I think that <NS type="RD"><i>the</i><c>a</c></NS> tent is <NS type="IJ"><i>more messy</i><c>messier</c></NS>, so I would appreciate <NS type="MA"><c>it</c></NS> if you give me <NS type="RD"><i>the</i><c>a</c></NS> cabin. And my answer to the question <NS type="RT"><i>of</i><c>about</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> activities I would like to choose, well I choose swimming<NS type="MP"><c>,</c></NS> <NS type="SX"><i>cause</i><c>because</c></NS> <NS type="MA"><c>it</c></NS> is my daily <NS type="S"><i>excercise</i><c>exercise</c></NS><NS type="MP"><c>,</c></NS> and surfing. Anyway I'm not very good <NS type="R"><i>doing</i><c>at</c></NS> surfing but with a little bit of help I know I can <NS type="RV"><i>make</i><c>do</c></NS> it.</p>
+          <p>Oh, <NS type="UT"><i>for</i></NS> last I just would like to ask you how <NS type="CQ"><i>many</i><c>much</c></NS> <NS type="RN"><i>clothes</i><c>clothing</c></NS><NS type="UP"><i>,</i></NS> and money I have to bring with me. And well<NS type="MP"><c>,</c></NS> Mrs Helen<NS type="MP"><c>,</c></NS> I would really <NS type="S"><i>apprecciatte</i><c>appreciate</c></NS> <NS type="MA"><c>it</c></NS> if you <NS type="TV"><i>send</i><c>sent</c></NS> me back a letter with all the answers <NS type="RT"><i>of</i><c>to</c></NS> my <NS type="FN"><i>question</i><c>questions</c></NS><NS type="UY"><i>, anyway</i></NS>.</p>
+          <p>Thank you very very much and please keep in contact by e-mail, <NS type="RC"><i>as</i><c>or</c></NS> normal mail.</p>
+          <p>Yours <NS type="DY"><i>trully</i><c>truly</c></NS></p>
+          <p>Alvaro Ramirez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>I hope you <NS type="TV"><i>keep</i><c>are keeping</c></NS> in great <NS type="RN"><i>form</i><c>shape</c></NS>, like you were the last time I saw you<NS type="RP"><i>, how</i><c>. How</c></NS> is your family<NS type="RP"><i>,</i><c>?</c></NS> I hope everyone is <NS type="RP"><i>ok</i><c>OK</c></NS>.</p>
+          <p>Well here in Dublin things <NS type="MV"><c>are</c></NS> still the same, but I think somebody told you that I went to the <NS type="RP"><i>moby</i><c>Moby</c></NS> concert here at the <NS type="RP"><i>point</i><c>Point</c></NS><NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> is the big <NS type="RN"><i>theatre</i><c>venue</c></NS> for events and concerts<NS type="RP"><i>,</i><c>.</c></NS> I guess it was the best concert I've ever been to, but the coolest thing is that, well do you remember my friend Luke, the one that works as a security guard<NS type="RP"><i>, well</i><c>? Well</c></NS> he told me that they needed people to put everything on the stage, so I went to help them and <NS type="S"><i>everithing</i><c>everything</c></NS> else, and when I <NS type="TV"><i>get</i><c>got</c></NS> <NS type="RT"><i>into</i><c>to</c></NS> the <NS type="RP"><i>point</i><c>Point</c></NS>, do you <NS type="MV"><c>know</c></NS> who was there? <NS type="ID"><i>just imagine</i><c>Can you believe it</c></NS>, it was <NS type="RP"><i>moby</i><c>Moby</c></NS><NS type="RP"><i>, so</i><c>. So</c></NS> I went to say hello to him, and he <NS type="RV"><i>told</i><c>asked</c></NS> me<NS type="MP"><i> would you give me a hand with my decks, so</i><c>, 'Would you give me a hand with my decks?'  So</c></NS> I went, and when we finished he gave me a T-shirt and a gold pass to see the concert from the first row<NS type="RP"><i>, oh</i><c>. Oh</c></NS> my <NS type="RP"><i>god</i><c>God</c></NS><NS type="MP"><c>,</c></NS> Kim<NS type="MP"><c>,</c></NS> that <NS type="MV"><c>was</c></NS> the best thing that ever happened to me<NS type="RP"><i>, well</i><c>. Well</c></NS> Kim<NS type="MP"><c>,</c></NS> I hope to <NS type="S"><i>recieve</i><c>receive</c></NS> a letter from you soon, and please tell everybody about the <NS type="RP"><i>moby</i><c>Moby</c></NS> concert and everything, thank you.</p>
+          <p>See you soon</p>
+          <p>love</p>
+          <p>Alvaro</p>
+          <p>XXXX</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

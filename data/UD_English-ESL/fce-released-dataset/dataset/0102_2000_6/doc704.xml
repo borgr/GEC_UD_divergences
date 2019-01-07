@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR275*0102*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>Last week I spent my holiday in London and <NS type="TV"><i>I've seen</i><c>I saw</c></NS> your musical "Over the rainbow' in the Circle Theatre and I was really disappointed. When I read the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the show I was really excited but after the show I was not very happy because of the following problems.</p>
+          <p>The <NS type="S"><i>advertisment</i><c>advertisement</c></NS> says that Danny Brook and Tina Truelove would play but in this show there were totally different actors and that was really disappointing because I was looking forward to them. The times were also not alright, actually the show starts at 19.30 but <NS type="RT"><i>in</i><c>on</c></NS> this evening it started at 20.15. The <NS type="S"><i>advertisment</i><c>advertisement</c></NS> also says that there are discounts available but this is not true, there were none.</p>
+          <p>Usually I go to a restaurant after theatre but this was also not possible because your theatre restaurant was closed because of <NS type="MD"><c>the</c></NS> holiday. Why do you give <NS type="CD"><i>those</i><c>this</c></NS> information in an <NS type="S"><i>advertisment</i><c>advertisement</c></NS><NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p><NS type="W"><i>For me it was really not a perfect evening</i><c>It was really not a perfect evening for me</c></NS>, I was expecting a nice evening but in fact it was terrible.</p>
+          <p>Because of these problems I had I would like to ask for <NS type="UD"><i>a</i></NS> compensation, maybe to get my money back. I hope you understand my <NS type="DN"><i>complains</i><c>complaints</c></NS>. I <NS type="RV"><i>wish</i><c>hope</c></NS> you answer me soon.</p>
+          <p>Yours sincerely</p>
+          <p>Sandra Eichmann</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>In my opinion <NS type="UD"><i>the</i></NS> modern technology has <NS type="W"><i>changed my daily life not really</i><c>not really changed my daily life</c></NS> a lot because I am just 20 years old and I used to play <NS type="MT"><c>with</c></NS> <NS type="MD"><c>a</c></NS> computer when I was young or wash my clothes in the washing machine.</p>
+          <p>I grew up in a world <NS type="UT"><i>with</i></NS> full of technology and for me the <NS type="MJ"><c>recent</c></NS> development in <NS type="UD"><i>the</i></NS> technology is not very <NS type="RJ"><i>big</i><c>great</c></NS>. Of course, it changes, it became normal to have a mobile phone or <NS type="W"><i>to use <NS type="RY"><i>mainly</i><c>frequently</c></NS></i><c>frequently to use</c></NS> the computer and the <NS type="RP"><i>internet</i><c>Internet</c></NS>. It becomes <NS type="IJ"><i>more and more easier</i><c>easier and easier</c></NS> to use the computer for everything. You don't have to go to the shop to buy clothes or to the restaurant to order some food. I can just switch on my computer and order everything. <NS type="W"><i>I also</i><c>Also I</c></NS> don't write letters anymore because I write e-mails to my friends. <NS type="AGA"><i>That</i><c>They</c></NS> <NS type="AGV"><i>goes</i><c>go</c></NS> quicker and it is easier for me.</p>
+          <p>But I think <NS type="RT"><i>in</i><c>for</c></NS> my generation <NS type="RA"><i>it</i><c>there</c></NS> is not a really big difference<NS type="RP"><i>. In</i><c>, in</c></NS> comparison to my grandparents <NS type="RA"><i>they</i><c>who</c></NS> have <NS type="DJ"><i>really</i><c>real</c></NS> problems <NS type="FV"><i>to accept</i><c>accepting</c></NS> these changes in modern technology. Because the biggest developments were in the last 50 years.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

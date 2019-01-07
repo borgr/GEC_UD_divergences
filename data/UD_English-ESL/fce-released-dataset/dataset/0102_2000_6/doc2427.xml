@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR768*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Monday, the 5th of June 2000</p>
+          <p>To the Circle Theatre's manager</p>
+          <p>Dear <NS type="RN"><i>Mister</i><c>Sir</c></NS>,</p>
+          <p>I recently had the opportunity to see "over the rainbow"<NS type="MP"><c>,</c></NS> which was <NS type="RV"><i>played</i><c>performed</c></NS> last week in the Circle theatre.</p>
+          <p>I'm writing to you because I'm very disappointed by the bad evening I <NS type="RV"><i>spent</i><c>had</c></NS> there. Actually, I read the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> for the show and there were a few mistakes <NS type="RT"><i>on</i><c>in</c></NS> it.</p>
+          <p>In fact, Danny Brook didn't <NS type="RV"><i>play</i><c>perform</c></NS> or appear on stage last Tuesday, <NS type="R"><i>the</i><c>his</c></NS> role was played by another - a quite bad - actor, less famous than Danny Brook.</p>
+          <p>I'm also <NS type="RJ"><i>sorry</i><c>annoyed</c></NS> because I had to wait 45 <NS type="L"><i>mn</i><c>minutes</c></NS> before the <NS type="RN"><i>pieces</i><c>play</c></NS> started. I can't accept waiting so long for the result I had. I was in London with some friends (we <NS type="TV"><i>were</i><c>are</c></NS> students) and no discount was <NS type="RV"><i>proposed</i><c>offered</c></NS> or <NS type="RV"><i>made</i><c>given</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> us. We had to pay £15 each <NS type="UT"><i>for</i></NS> <NS type="FV"><i>seeing</i><c>to see</c></NS> a miserable <NS type="RN"><i>pieces</i><c>play</c></NS>.</p>
+          <p>After the <NS type="RN"><i>piece</i><c>play</c></NS>, we <NS type="RV"><i>waned</i><c>wanted</c></NS> to eat at the <NS type="SA"><i>theater</i><c>theatre</c></NS> restaurant but we couldn't. It was apparently closed and I'm asking you why.</p>
+          <p>As you can see, there are some (<NS type="RJ"><i><NS type="S"><i>volontary</i><c>voluntary</c></NS></i><c>deliberate</c></NS>?) mistakes <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> you made. We didn't have a "perfect evening out" at all. That's why I'm asking you <NS type="UT"><i>for</i></NS> <NS type="FV"><i>giving</i><c>to give</c></NS> us <NS type="MD"><c>our</c></NS> money back.</p>
+          <p>I'm sure we'll find a compromise and I'm really looking forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>An unusual part of life.</p>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets, and half a week later, all the school knew about me.</p>
+          <p>I had a strange feeling then because it was just amazing to <NS type="RV"><i>notice</i><c>see</c></NS> how money can attract so <NS type="CQ"><i>much</i><c>many</c></NS> people.</p>
+          <p>I started to have a lot of new friends, they all wanted to be my best friend.</p>
+          <p>Actually, <NS type="W"><i>my best friend would still remain Pat</i><c>Pat would still remain my best friend</c></NS>, even if he failed me. It's not easy to keep such an enormous secret and I couldn't keep it inside <NS type="UT"><i>of</i></NS> me.</p>
+          <p>I <NS type="W"><i>became quickly</i><c>quickly became</c></NS> bored by this <NS type="S"><i>hypocrital</i><c>hypocritical</c></NS> attention they <NS type="RV"><i>had for</i><c>gave</c></NS> me. They didn't stop giving me advice or telling me what to do with my money. I always <NS type="AGV"><i>has</i><c>have</c></NS> been involved in many <NS type="IJ"><i>differents</i><c>different</c></NS> associations, which are fighting against AIDS or cancer. I knew at this moment <NS type="W"><i>what to do exactly</i><c>exactly what to do</c></NS> and<NS type="MP"><c>,</c></NS> finally, I could <NS type="RV"><i>refind</i><c>recover</c></NS> my ordinary life as an unpopular student.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

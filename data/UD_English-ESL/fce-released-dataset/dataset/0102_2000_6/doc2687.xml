@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1087*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing this letter to <NS type="DV"><i>complaint</i><c>complain</c></NS> about the musical show that <NS type="MD"><c>the</c></NS> Circle Theatre company <NS type="RV"><i>played</i><c>put on</c></NS> <NS type="MD"><c>a</c></NS> few days ago. <NS type="RA"><i>Anything</i><c>Nothing</c></NS> the advertisement said was <NS type="W"><i><NS type="RY"><i>correctly</i><c>properly</c></NS> done</i><c>done properly</c></NS>.</p>
+          <p>The first thing that annoyed me were the forty-five minutes we were waiting for the <NS type="R"><i>beginning</i><c>show to begin</c></NS>. It is a great <NS type="RN"><i>fault</i><c>failing</c></NS> of <NS type="S"><i>responsability</i><c>responsibility</c></NS> for a theatre like yours to have a delay like this one.</p>
+          <p>Secondly, <NS type="RP"><i>an other</i><c>another</c></NS> <NS type="RN"><i>point</i><c>thing</c></NS> that disappointed me was the actor that played the main role. He was not Danny Brook, and the main reason that I <NS type="RV"><i>came</i><c>went</c></NS> to see this show was the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to see him acting. I am a fan of <NS type="RA"><i>him</i><c>his</c></NS>.</p>
+          <p>When I went to get the ticket, and the <NS type="FN"><i>women</i><c>woman</c></NS> <NS type="RV"><i>said</i><c>told</c></NS> me that the discounts were not available I knew that it wouldn't be a good night.</p>
+          <p>Finally, the <NS type="S"><i>restarant</i><c>restaurant</c></NS> <NS type="SX"><i>were</i><c>where</c></NS> I would <NS type="TV"><i>like</i><c>have liked</c></NS> to have dinner with friends after the show was closed<NS type="MP"><c>,</c></NS> <NS type="R"><i>against</i><c>contrary to</c></NS> what was announced in the advertisement. Nobody told us <NS type="UT"><i>about</i></NS> the <NS type="FN"><i>reasons</i><c>reason</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> <NS type="AGD"><i>the</i><c>these</c></NS> problems.</p>
+          <p>These are the reasons why I am complaining, and I would like to know if there will be <NS type="RQ"><i>some</i><c>any</c></NS> <NS type="DN"><i>money back</i><c>refunds</c></NS>.</p>
+          <p>I will be waiting <NS type="MT"><c>for</c></NS> news from you.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Perhaps, modern technology has changed my <NS type="RP"><i>life style</i><c>lifestyle</c></NS> but I don't think so because I was born in the period of modern developments.</p>
+          <p>Since I was born I have lived <NS type="R"><i>involved of</i><c>with</c></NS> technological instruments like personal computers, mobile phones, television, etc. And the development of them doesn't <NS type="FV"><i>worries</i><c>worry</c></NS> me, <NS type="R"><i>like</i><c>as it does</c></NS> people <NS type="M"><c>who are</c></NS> against technology.</p>
+          <p>The only thing I can say about technology is that <NS type="MA"><c>it</c></NS> has driven my life. Modern technology <NS type="ID"><i>attracts my <NS type="S"><i>atention</i><c>attention</c></NS></i><c>captures my imagination</c></NS>, and this is the reason why I have chosen <NS type="W"><i>an electronic <NS type="S"><i>caree</i><c>career</c></NS></i><c>a career in electronics</c></NS>. I <NS type="X"><i>think technology doesn't</i><c>don't think technology</c></NS> <NS type="AGV"><i>change</i><c>changes</c></NS> <NS type="UD"><i>the</i></NS> <NS type="RP"><i>life style</i><c>lifestyle</c></NS>. <NS type="MA"><i>Is</i><c>It is</c></NS> the <NS type="RP"><i>life style</i><c>lifestyle</c></NS> or <NS type="RN"><i>necessities</i><c>needs</c></NS> <NS type="RT"><i>from</i><c>of</c></NS> people <NS type="RA"><i>what</i><c>that</c></NS> make technology develop. All <NS type="AGN"><i>kind</i><c>kinds</c></NS> of industrial machines are created to solve problems, improve other machines or to <NS type="R"><i>don't waste</i><c>save</c></NS> <NS type="U"><i>so many</i></NS> time. But these <NS type="R"><i>ones</i><c>machines</c></NS> bring new problems that must be solved by others.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

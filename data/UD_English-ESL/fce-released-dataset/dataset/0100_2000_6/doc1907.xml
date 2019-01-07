@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR733*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have seen your letter <NS type="RT"><i>for</i><c>about</c></NS> Camp California in the U.S.A and I would like to travel in July because I am pretty busy with my studies and I am working with my dad in his office now.</p>
+          <p>First of all, you state in the letter that the accommodation at Camp California is in tents or log cabins. I would prefer to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I like being in contact with <NS type="UD"><i>the</i></NS> nature <NS type="UN"><i>life</i></NS>.</p>
+          <p>Secondly, from the list of activities that you <NS type="R"><i>are also state</i><c>provide</c></NS> in the letter I would prefer swimming because when I was a child I <NS type="RV"><i>practised</i><c>did</c></NS> this sport for 8 years. In addition, I would prefer photography too because I love taking photos.</p>
+          <p>Finally, <NS type="RA"><i>it</i><c>I</c></NS> would be grateful if you could clarify what kind of clothes I must <NS type="TV"><i>be taken</i><c>take</c></NS> and how much I will spend during the stay at the Camp.</p>
+          <p>I look forward to hearing from you</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Many thanks for your last letter. I'm sorry I haven't written for so long but as you can imagine I've been pretty busy with my studies.</p>
+          <p>Anyway, the reason I'm writing is that you asked me about my experience with the most famous pop group in America: "Mana"</p>
+          <p>Jane's grandfather was the organiser of the pop concert and Jane had invited me to help <NS type="RT"><i>in</i><c>at</c></NS> the event. First I didn't accept but finally she <NS type="S"><i>conviced</i><c>convinced</c></NS> me. It was the most <NS type="RJ"><i>excited</i><c>exciting</c></NS> experience I have ever had! I helped with the lights and I was in charge of the food and <NS type="FN"><i>drinks</i><c>drink</c></NS>. I did hamburgers and hot dogs and I <NS type="TV"><i>prepare</i><c>prepared</c></NS> orange juices.</p>
+          <p>It was <NS type="RJ"><i>grateful</i><c>great</c></NS> because I <NS type="RV"><i>knew</i><c>got to know</c></NS> a lot of people and the most important person was Alex, the <NS type="DN"><i>baterist</i><c>drummer</c></NS> of the group. You know he is my love! He's <NS type="UP"><i>good-looking</i><c>good looking</c></NS>.</p>
+          <p>I enjoyed <NS type="MA"></NS> very much.</p>
+          <p>Give my love to your family</p>
+          <p>Write soon</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

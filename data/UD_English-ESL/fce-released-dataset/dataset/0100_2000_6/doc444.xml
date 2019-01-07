@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR177*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>11.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan:</p>
+          <p>I have just received your letter telling me I have won the first prize in your competition, and I am glad <NS type="RT"><i>for</i><c>about</c></NS> it. I am <NS type="IV"><i>writting</i><c>writing</c></NS> to give the information you asked me <NS type="MT"><c>for</c></NS> and also I would like to <NS type="RV"><i><NS type="FV"><i>required</i><c>require</c></NS></i><c>request</c></NS> some information about the prize.</p>
+          <p>First of all I <NS type="RV"><i>would</i><c>want to</c></NS> let you know I could travel only <NS type="RT"><i>on</i><c>in</c></NS> July because it is the <NS type="RN"><i>time</i><c>month</c></NS> that I have holidays from my school. Furthermore I would like to choose <NS type="R"><i>for accomodation</i><c>to stay</c></NS> <NS type="MT"><c>in</c></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> instead of <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>cabins</i><c>cabin</c></NS> because I think <NS type="MA"><c>it</c></NS> could be more exciting and <NS type="MV"><c>could provide</c></NS> more contact with the <NS type="S"><i>enveiroment</i><c>environment</c></NS>.</p>
+          <p>Also I would like to <NS type="DV"><i>response</i><c>respond</c></NS> <NS type="R"><i>for</i><c>to your question about</c></NS> the activities I <NS type="TV"><i>had</i><c>have</c></NS> to choose from your list: I would prefer painting and photography because <NS type="W"><i>for the <NS type="DI"><i>others</i><c>other</c></NS> sports I am not healthy <NS type="MY"><c>enough</c></NS></i><c>I am not healthy enough for the other sports</c></NS> at the moment, and I <NS type="RV"><i>consider</i><c>think</c></NS> I used to do painting and photography very <NS type="DY"><i>good</i><c>well</c></NS> at <NS type="UD"><i>the</i></NS> school.</p>
+          <p>Finally I would like to ask if I need <NS type="R"><i>a</i><c>any</c></NS> special clothes and <NS type="RP"><i>Do</i><c>do</c></NS> I need <NS type="MQ"><c>any</c></NS> money? How much?</p>
+          <p>Please<NS type="MP"><c>,</c></NS> if you require extra information do not hesitate to contact me.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>0</exam_score>
+         <coded_answer>
+          <p>Dear Kim: I am sorry, I haven't written <NS type="MT"><c>to</c></NS> you <NS type="FY"><i>soon</i><c>sooner</c></NS> but I <NS type="MV"><c>am</c></NS> still excited <NS type="RT"><i>for</i><c>about</c></NS> the experience I had helping Will Smith on the freeway <NS type="UD"><i>the</i></NS> last month. Anyway<NS type="MP"><c>,</c></NS> now I am going to tell you everything about it.</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> I have always taken the freeway on Sundays to go to my grandparents' house, but that Sunday I was driving when suddenly I saw in the lay-by one excellent car. It was a Jaguar with Will Smith <NS type="RT"><i>on</i><c>in</c></NS> it<NS type="RP"><i>,</i><c>.</c></NS> I stopped and I was going to ask if he needed some help and he said<NS type="RP"><i> "of</i><c>, "Of</c></NS> course".</p>
+          <p>He had a puncture <NS type="UN"><i>wheel</i></NS> and he didn't know how to <NS type="FV"><i><NS type="S"><i>repeared</i><c>repaired</c></NS></i><c>repair</c></NS> <NS type="MA"><c>it</c></NS><NS type="MP"><i> then</i><c>. Then</c></NS> I <NS type="SX"><i>chanced</i><c>changed</c></NS> the <NS type="RN"><i>wheel</i><c>tyre</c></NS> and during this time he was asking me <NS type="RT"><i>for</i><c>about</c></NS> my hobbies, studies, everything. He was really kind and friendly but really what I really <NS type="W"><i>most enjoyed</i><c>enjoyed most</c></NS> <NS type="RT"><i>of</i><c>about</c></NS> it<NS type="UP"><i>,</i></NS> was when he invited me <NS type="MY"><c>out</c></NS> <NS type="RD"><i>this</i><c>that</c></NS> night for a drink <NS type="RT"><i>in</i><c>at</c></NS> the most <NS type="RJ"><i>luxury</i><c>luxurious</c></NS> pub I have ever been <NS type="MT"><c>to</c></NS>. <NS type="TV"><i>Could</i><c>Can</c></NS> you believe my luck?</p>
+          <p>All right that's about all my news, <NS type="R">then writte</NS> soon and tell me about you.</p>
+          <p>Lots of love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

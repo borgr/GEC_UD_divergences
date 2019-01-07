@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR315*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam<NS type="UP"><i>!</i></NS></p>
+          <p>Thank you very much for your letter. I was surprised because I didn't expect that I could win.</p>
+          <p>Now I <NS type="TV"><i>study</i><c>am studying</c></NS> and I'll continue my <NS type="FN"><i>study</i><c>studies</c></NS> <NS type="S"><i>untill</i><c>until</c></NS> the end of June. Then I'll have <NS type="MD"><c>a</c></NS> holiday which <NS type="TV"><i><NS type="AGV"><i>finish</i><c>finishes</c></NS></i><c>will finish</c></NS> in August. That's why I'd like to travel only in July.</p>
+          <p>I prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> log cabin because I think it's more comfortable. <NS type="RA"><i>There</i><c>They</c></NS> are warmer and drier and I'm afraid of insects and spiders.</p>
+          <p>It's really great that you can suggest how to spend the rest <NS type="M"><c>of the</c></NS> time, because I enjoy swimming and it doesn't matter where <NS type="MP"><c>-</c></NS> in the lake or <NS type="UP"><i>swimming-pool</i><c>swimming pool</c></NS>. I think it's <NS type="MD"><c>a</c></NS> very <NS type="S"><i>usefull</i><c>useful</c></NS> and helpful thing for my health<NS type="MP"><c>,</c></NS> especially when I do it with pleasure. The second <NS type="MT"><c>of</c></NS> my <NS type="S"><i>favorit</i><c>favourite</c></NS> <NS type="AGN"><i>sport</i><c>sports</c></NS> is tennis. I've played tennis for ten years<NS type="MP"><c>.</c></NS> I'm a <NS type="S"><i>profesional</i><c>professional</c></NS> and I have to be good at it, <NS type="R">in any</NS> time.</p>
+          <p>I want to ask you about money. How much money <NS type="MV"><c>do</c></NS> I need and <NS type="R"><i>if</i><c>do</c></NS> I have to have <NS type="AGA"><i>them</i><c>it</c></NS> in cash or <NS type="W"><i>I can</i><c>can I</c></NS> use a credit card<NS type="RP"><i>.</i><c>?</c></NS> Could you let me know about the weather because I don't know what kind of clothes I should take. Would you send me your answer as <NS type="RY"><i>fast</i><c>quickly</c></NS> as it <NS type="MV"><c>is</c></NS> possible. I look forward to seeing you soon. Thank you</p>
+          <p>Yours faithfully</p>
+          <p>Katerina Petrov</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Hi, Kim!</p>
+          <p>How are you? I'm fine<NS type="MP"><i> soon</i><c>. Soon</c></NS> I'll have my holiday and I look forward <NS type="RT"><i>for</i><c>to</c></NS> <NS type="AGA"><i>them</i><c>that</c></NS> but now I have a lot of exams and if I want to pass them I have to learn a lot.</p>
+          <p>Now I want to tell you about a pop concert<NS type="MP"><i> as</i><c>. As</c></NS> you <NS type="TV"><i>have already <NS type="IV"><i>knowen</i><c>known</c></NS></i><c>already know</c></NS> I helped my father to organize this concert. I was doing a lot of things like redecorating, drawing. Sometimes I gave some <NS type="CN"><i>advices</i><c>advice</c></NS> about suits and dresses. Often we <NS type="RV"><i>looked</i><c>saw</c></NS> <NS type="RN"><i>repetitions</i><c>rehearsals</c></NS> and if something didn't <NS type="RV"><i>like</i><c>appeal to</c></NS> us we tried to correct it. The most <NS type="DJ"><i>enjoable</i><c>enjoyable</c></NS> thing was to <NS type="DV"><i>smart</i><c>dress</c></NS> people. We have a good and rich sponsor<NS type="RP"><i>, that's</i><c>. That's</c></NS> why we could buy a lot of different materials with different colours and we tried to be polite with actors even if they didn't want to wear that <NS type="RN"><i>part</i><c>piece</c></NS> of <NS type="RN"><i>cloth</i><c>clothing</c></NS> which we thought was <NS type="FJ"><i>more <NS type="RJ"><i>similar</i><c>suitable</c></NS></i><c>most suitable</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> their style. We always explained <NS type="M"><c>things to</c></NS> them and <NS type="ID"><i>at the end</i><c>in the end</c></NS> they agreed with us. These days were so busy. But when we saw our show and heard how <NS type="RY"><i>loud</i><c>loudly</c></NS> <NS type="MD"><c>the</c></NS> audience <NS type="RV"><i><NS type="IV"><i>claped</i><c>clapped</c></NS></i><c>applauded</c></NS> them we were proud and understood that we <NS type="R">spent a good time</NS>. You should try it and <NS type="RV"><i>feel</i><c>see</c></NS>. I'll be waiting for your answer.</p>
+          <p>Best wishes.</p>
+          <p>Katerina.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

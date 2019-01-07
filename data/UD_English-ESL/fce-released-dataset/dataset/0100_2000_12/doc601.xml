@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR38*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson</p>
+          <p>First of all, I want to thank you <NS type="RT"><i>in the name of</i><c>on behalf of</c></NS> the class for your <NS type="RJ"><i>good</i><c>excellent</c></NS> <NS type="RN">organisation</NS> and programme, <NS type="MC"><c>and</c></NS> <NS type="RP"><i>Especially</i><c>especially</c></NS> for the fact that you are giving us some free time. We really appreciate this.</p>
+          <p>However, we have seen an advertisement for the London Fashion and Leisure Show. The show is on Tuesday the 14th of March, from <NS type="ID"><i>10 oo to 19 oo o'clock</i><c>10 to 7 o'clock</c></NS> in the Central Exhibition Hall. <NS type="W"><i>There will be shown the latest fashions <NS type="RT"><i>about</i><c>in</c></NS> leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles</i><c>The latest fashions in leisure and sports wear, make-up and hairstyles will be shown there</c></NS>.</p>
+          <p>This is a great opportunity for us, because we haven't <NS type="W"><i>been ever before</i><c>ever before been</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> this kind of show. As well as this, <NS type="UD"><i>the</i></NS> entrance for students is free.</p>
+          <p>As you can see this is the best time to go there. We have some suggestions about how to change the programme. Instead of visiting the Science Museum on Tuesday we could go there on Wednesday afternoon and instead of going shopping on Tuesday afternoon we could maybe stop at some places during the sightseeing tour and buy <NS type="W"><i>there something</i><c>something there</c></NS>.</p>
+          <p>To sum up, this is a really great opportunity for us and I don't think that the changes are so big. I look forward to hearing from you.</p>
+          <p>Yours <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p><NS type="UD"><i>The man</i><c>Man</c></NS> is a being that <NS type="AGV"><i>need</i><c>needs</c></NS> to live close to other human beings and to create a society around <NS type="RA"><i>him</i><c>himself</c></NS>. As well as this he needs his own free space and privacy. This is also <NS type="MT"><c>as</c></NS> important to him as friendship and family<NS type="MP"><c>.</c></NS></p>
+          <p>In our society some people are treated like animals in the zoo by the press<NS type="RP"><i>. Just</i><c>, just</c></NS> because they are famous and well known to a high number of other people. The newspapers print everything about them. The <NS type="DN">yellow press</NS> is searching for every little <NS type="MQ"><c>bit of</c></NS> information they can get. The photographers are chasing these people<NS type="UP"><i>,</i></NS> just to take a picture of them <NS type="R"><i>on</i><c>to show</c></NS> how they eat or with <NS type="RA"><i>who</i><c>whom</c></NS> <NS type="R"><i>the</i><c>they</c></NS> <NS type="SX"><i>meat</i><c>meet</c></NS>. The photos will be <NS type="RT"><i>on</i><c>in</c></NS> tomorrow's press and so rumours are born.</p>
+          <p>On the other hand <NS type="RD"><i>the</i><c>these</c></NS> people have <NS type="TV"><i>choose</i><c>chosen</c></NS> to walk <NS type="UT"><i>on</i></NS> this path. Everything in life has a price. The price for fame and money is the <NS type="DN"><i>lost</i><c>loss</c></NS> of privacy. First of all you have to give up something <NS type="UT"><i>for</i></NS> <NS type="FV"><i>getting</i><c>to get</c></NS> something else.</p>
+          <p>However, the press shouldn't create rumours and hunt those people like animals. As well as this, the stars shouldn't <NS type="DV"><i>complaint</i><c>complain</c></NS> at any time about their fans and their <NS type="DN"><i>lost</i><c>loss</c></NS> of privacy. They wanted to be famous and <NS type="R"><i>the</i><c>they</c></NS> <NS type="TV"><i>had known</i><c>knew</c></NS> the price <NS type="RY"><i>before</i><c>beforehand</c></NS>. The fans and the press are those who have made them rich and famous.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

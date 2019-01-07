@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR19*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p><NS type="R"><i>Mr.</i><c>Dear</c></NS> Manager<NS type="UP"><i>:</i></NS></p>
+          <p>I am writing this letter to you because when I went to your <NS type="RP"><i>Musical</i><c>musical</c></NS> show I had a very bad time.</p>
+          <p>Firstly when I went to the show it was <NS type="TV"><i>writing</i><c>written</c></NS> that the <NS type="DN"><i>starting</i><c>start</c></NS> time was 19.30 but it started at quarter past eight<NS type="MP"><c>.</c></NS> I had <NS type="IV"><i>waitted</i><c>waited</c></NS> for <NS type="MP"><i><NS type="S"><i>fourthey</i><c>forty</c></NS> five</i><c>forty-five</c></NS> minutes. Secondly the stars were going to be DANNY BROOK and TINA TRUELOVE but different people came to the show. It was the first time I <NS type="TV"><i>was going</i><c>had been</c></NS> <NS type="UV"><i>to go</i></NS> to a musical show but I guess it will be the last one too. Anyway after the show I felt hungry so I went to the restaurant but it was closed because they were having the inside altered.</p>
+          <p>And <NS type="UT"><i>as</i></NS> <NS type="RY"><i>last</i><c>lastly</c></NS> that was the <NS type="FJ"><i>worse</i><c>worst</c></NS> night I had ever had so I asked for my money back but they wouldn't give <NS type="MA"><c>me</c></NS> it so I had an argument with the people <NS type="RP"><i>Who</i><c>who</c></NS> worked <NS type="SX"><i>their</i><c>there</c></NS> but I couldn't get my money back.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Because last year I started smoking and nobody knew that I was smoking but one day as I was smoking at the back of the school <NS type="RP"><i>some one</i><c>someone</c></NS> came <NS type="RY"><i>next</i><c>up</c></NS> to me and I noticed that it was Pat. She saw me as I was smoking so that wasn't going to be very good. She said that she wouldn't tell <NS type="U"><i>it to</i></NS> anyone but I knew she might say it to someone so I <NS type="W"><i>always was</i><c>was always</c></NS> with her <NS type="SX"><i>very</i><c>every</c></NS> minute<NS type="MP"><c>,</c></NS> <NS type="SX"><i>ever</i><c>every</c></NS> second. But one day as I was walking home like every night I saw Pat <NS type="RT"><i>at the front of</i><c>in front of</c></NS> our house door talking to my dad. I just knew I <NS type="RV"><i>couldn't</i><c>shouldn't</c></NS> have trusted <NS type="UT"><i>to</i></NS> her but as I went in the house my dad <NS type="RV"><i>offered</i><c>asked</c></NS> <NS type="RP"><NS type="SX"><i>pot</i><c>Pat</c></NS></NS> to stay for <NS type="MD"><c>a</c></NS> meal<NS type="MP"><c>.</c></NS> I was in <NS type="UD"><i>a</i></NS> <NS type="S"><i>schock</i><c>shock</c></NS><NS type="MP"><c>,</c></NS> thinking why isn't anyone getting angry <NS type="RT"><i>to</i><c>with</c></NS> me<NS type="MP"><i> after</i><c>? After</c></NS> a while we sat <NS type="MY"><c>down</c></NS> for dinner and Pat just <NS type="RV"><i><NS type="TV"><i>talk</i><c>talked</c></NS></i><c>told</c></NS> my parents that I was smoking and when my family heard they got ever so angry. I couldn't go out of the house for a month so now I know how Pat is and <NS type="M"><c>that she</c></NS> can't keep any secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

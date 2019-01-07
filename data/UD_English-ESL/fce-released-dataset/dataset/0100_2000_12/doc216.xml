@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR872*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>30.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am a student <NS type="RT"><i>of</i><c>in</c></NS> the English class. All my <NS type="RP"><i>class mates</i><c>classmates</c></NS> are looking forward to <NS type="FV"><i>go</i><c>going</c></NS> to London. Thank you so much for organising such a great <NS type="SA"><i>program</i><c>programme</c></NS>.</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you about changing our plan on Tuesday 14 March. The students in my class have seen an advertisement for the London Fashion and Leisure Show and we would all like to go to the show.</p>
+          <p>The advertisement <NS type="IV"><i>saids</i><c>said</c></NS> it is taking place on Tuesday 14 March from 10am to 7pm.</p>
+          <p>Since the London Fashion and Leisure Show <NS type="RV"><i>is</i><c>does</c></NS> not <NS type="FV"><i>taken</i><c>take</c></NS> place so often and also they will <NS type="R">offer the students for free entrance fee this time</NS>, if we <NS type="TV"><i><NS type="RV"><i>joined in</i><c>attended</c></NS></i><c>attend</c></NS> this show, it would be <NS type="MD"><c>a</c></NS> great opportunity for us.</p>
+          <p>For these reasons, we would like to suggest you <NS type="FV"><i>to go</i><c>go</c></NS> to the show instead of going shopping on Tuesday afternoon.</p>
+          <p>I hope I will hear from you soon.</p>
+          <p>I am sure that our <NS type="RN"><i>travel</i><c>trip</c></NS> is going to be great.</p>
+          <p>Thank you very much</p>
+          <p>Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p> Otherwise I had to keep walking <NS type="S"><i>untill</i><c>until</c></NS> the train <NS type="TV"><i>start</i><c>started</c></NS>.</p>
+          <p>Have you stayed <NS type="RT"><i>at</i><c>in</c></NS> a park during the night?</p>
+          <p>When I did that, I was <NS type="IV"><i>traveling</i><c>travelling</c></NS> around Japan. It was the very last day of my trip and at that time I was in Kyoto.</p>
+          <p>Although I intended to stay at <NS type="MD"><c>a</c></NS> youth hostel, I could not find any place to stay, and also it was too late to buy a train ticket to go back home.</p>
+          <p>It was a windy spring day.</p>
+          <p>I was sitting under a full-bloomed cherry <NS type="S"><i>blossam</i><c>blossom</c></NS> tree. Inside the dark, I was alone and only the <NS type="RP"><i>moon light</i><c>moonlight</c></NS> helped me to see <NS type="UD"><i>the</i></NS> things. I was regretting <NS type="UA"><i>I</i></NS> <NS type="TV"><i>risked</i><c>having risked</c></NS> staying <NS type="RT"><i>at</i><c>in</c></NS> the park alone.</p>
+          <p>Suddenly, <NS type="MD"><c>a</c></NS> strong wind blew up <NS type="UD"><i>the</i></NS> thousands and thousands <NS type="MT"><c>of</c></NS> <NS type="RN"><i>pieces of flowers</i><c>petals</c></NS>.</p>
+          <p>It was like a dream.</p>
+          <p>I saw the pink <NS type="UJ"><i><NS type="SA"><i>colored</i><c>coloured</c></NS></i></NS> snow there.</p>
+          <p>Sometimes when we risk a great danger, it turns into a great experience. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

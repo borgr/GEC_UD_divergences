@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR286*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I learnt from <NS type="DD"><i>you</i><c>your</c></NS> letter that I've won the first prize. I <NS type="R">felt how <NS type="DJ"><i>luck</i><c>lucky</c></NS> I was</NS>. I <NS type="TV"><i>understood</i><c>understand</c></NS> you want to know when <NS type="W"><i>am I</i><c>I am</c></NS> available to set off and where I'd like to stay.</p>
+          <p>First of all I will be able to go <NS type="MT"><c>to</c></NS> <NS type="MD"><c>the</c></NS> U.S.A <NS type="MY"><c>only</c></NS> in July because of my university. I am studying Economics and I am very busy nowadays. My exams will have finished at the end of June. I will only be able to set off in July and <NS type="W"><i>I also</i><c>also I</c></NS> will give my thesis to my teacher in August. This holiday will help me to think <NS type="MT"><c>about</c></NS> <NS type="MA"><c>it</c></NS> and prepare it. I'd prefer <NS type="FV"><i>staying</i><c>to stay</c></NS> in <NS type="MD"><c>a</c></NS> log <NS type="FN"><i>cabins</i><c>cabin</c></NS> because I need a proper place to <NS type="RV"><i>say</i><c>stay</c></NS> and study <NS type="MT"><c>in</c></NS>. Basically, I don't like staying in a small tent. When I get <NS type="MT"><c>to</c></NS> the camp, I'd like to swim and climb. I used to climb mountains and am good at climbing. I am fond of swimming but unfortunately I am not a good swimmer.</p>
+          <p>I'd like to ask some questions <NS type="M"></NS> which I want to know. Is there <NS type="R"><i>any</i><c>a</c></NS> toilet and shower in the log cabins or somewhere nearby? Do I have to bring any special clothes? Do you have any idea what <NS type="W"><i>is the weather</i><c>the weather is</c></NS> going to be <NS type="MT"><c>like</c></NS>? How much <NS type="S"><i>mone</i><c>money</c></NS> do you recommend me to bring with me? Is the camp close to <NS type="MD"><c>a</c></NS> town or city? Will you provide me <NS type="MT"><c>with</c></NS> an instructor when I climb and swim?</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I haven't written <NS type="MT"><c>to</c></NS> you for ages. I do apologise for this. How are you? How is your new school and <NS type="MD"><c>your</c></NS> parents? I hope we can catch up with each other's news.</p>
+          <p>Last month I helped the service crew at a pop concert. It was unbelievable<NS type="MP"><c>,</c></NS> and tiring as well. I saw all the pop bands and singers. I heard them talking <NS type="R"><i>behind the stage</i><c>backstage</c></NS>. They signed my diary and <NS type="AS"><i>took a photo</i><c>had their photo taken</c></NS> with me. Being a security guard was the hardest task. Carrying big speakers <NS type="MT"><c>from</c></NS> place to place was extremely tiring but we had loads of <NS type="FN"><i>laugh</i><c>laughs</c></NS>. Believe it or not<NS type="MP"><c>,</c></NS> I put <NS type="MP"><i>make up</i><c>make-up</c></NS> on one famous singer's face. I was just walking down by <NS type="MD"><c>the</c></NS> dressing room <NS type="MC"><c>and</c></NS> <NS type="MD"><c>the</c></NS> manager <NS type="RV"><i>said</i><c>asked</c></NS> <NS type="UC"><i>that</i></NS> if I could help them. I couldn't believe my <NS type="RN"><i>eyes</i><c>ears</c></NS>. I was in her room <NS type="UC"><i>and</i></NS> helping her. <NS type="W"><i>Especially I</i><c>I especially</c></NS> liked that time. I advise you to do something like that. I'm going to help them again.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

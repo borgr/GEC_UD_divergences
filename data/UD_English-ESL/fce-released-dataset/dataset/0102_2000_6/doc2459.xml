@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR989*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Saturday, June 17th, 2000.</p>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the musical show "Over the Rainbow" that has been <NS type="RV"><i>presented</i><c>performed</c></NS> in the Circle Theatre. As I was very anxious to see that show, I planned to go to the theatre <NS type="RT"><i>in</i><c>on</c></NS> <NS type="R"><i>the</i><c>my</c></NS> last holiday, and I am completely disappointed with <NS type="RA"><i>that</i><c>it</c></NS>.</p>
+          <p>First of all, I have to say that the advertisement <NS type="R"><i>was</i><c>promised something</c></NS> totally different <NS type="RT"><i>of</i><c>from</c></NS> what I saw there. For example, the actors that were announced <NS type="MT"><c>as</c></NS> <NS type="FV"><i>to take</i><c>taking</c></NS> part in the show were not Danny Brook and Tina Truelove, the discounts were not available and<NS type="MP"><c>,</c></NS> the principal point: it started <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes <NS type="FY"><i>later</i><c>late</c></NS>. Then, to complete this terrible night, the restaurant was closed. I wonder <NS type="MC"><c>if</c></NS> you could explain <NS type="MT"><c>to</c></NS> me why.</p>
+          <p>Due to my huge dissatisfaction, I would like my money back, as you do not <NS type="RV"><i>make</i><c>provide</c></NS> what was advertised.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>MANUELA REVES RAVERNO</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>The influence of modern technology</p>
+          <p>Every day, the growth of <NS type="UD"><i>the</i></NS> modern technology increases in the whole world and it is becoming essential in everybody's life. Today, almost no one can live without, for example, a television, a radio or electricity in their homes.</p>
+          <p>The huge growth of technology has brought lots of good <NS type="RN"><i>aspects</i><c>things</c></NS> <NS type="RT"><i>to</i><c>into</c></NS> my life, like the <NS type="RN"><i>facility</i><c>potential</c></NS> to be informed about everything that is happening around the world with the best image <NS type="RT"><i>in</i><c>on</c></NS> my cab TV and <NS type="RT"><i>in</i><c>on</c></NS> my computer. Without leaving my bedroom, I can go anywhere using the Internet. On the other hand, the excess of <NS type="RN"><i><NS type="AGN"><i><NS type="S"><i>comodity</i><c>commodity</c></NS></i><c>commodities</c></NS></i><c>convenience</c></NS> can <NS type="FV"><i>led</i><c>lead</c></NS> us, in the future, to a completely "cold" world, because of the distance <NS type="W"><i>between people that can be <NS type="RV"><i>caused</i><c>created</c></NS></i><c>that can be created between people</c></NS>. <NS type="AGQ"><i>Another</i><c>Other</c></NS> bad points can be mentioned, like <NS type="UD"><i>the</i></NS> <NS type="S"><i>polution</i><c>pollution</c></NS> for example.</p>
+          <p>Despite the bad <NS type="RN"><i>aspects</i><c>things</c></NS> that <NS type="UD"><i>the</i></NS> modern technology can bring, in my opinion, if the governments <NS type="IV"><i>tryed</i><c>tried</c></NS> to do <NS type="RD"><i>the</i><c>their</c></NS> best, and if everybody <NS type="TV"><i>contribute</i><c>contributed</c></NS> <NS type="UT"><i>with</i></NS> a little bit, we <NS type="TV"><i>can</i><c>could</c></NS> solve the main problems and only take advantage of the benefits to our <NS type="IN"><i>lifes</i><c>lives</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

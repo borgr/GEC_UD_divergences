@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE15*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>12th June 2001</p>
+          <p>Dear Mrs Smith,</p>
+          <p>I am writing to <NS type="RV"><i>inform</i><c>give</c></NS> you some information about an international student conference.</p>
+          <p>First of all, the hotel which the group has been booked into is The Princes Hotel. It is very near York Railway Station<NS type="MP"><c>,</c></NS> <NS type="MT"><c>from</c></NS> which you can get there easily. By rail: get off at York station and you can walk from the station<NS type="MP"><i> turn</i><c>. Turn</c></NS> left and the hotel is on your <NS type="MP"><i>left hand</i><c>left-hand</c></NS> side. By bus: most of the buses in York City Centre pass the station, or you can take a taxi.</p>
+          <p>Secondly, the conference is <NS type="MD"><c>a</c></NS> very important event for all of us<NS type="RP"><i>, we</i><c>. We</c></NS> <NS type="RV">agree</NS> to wear formal <NS type="FN"><i>dresses</i><c>dress</c></NS>. For example, men should wear suits, ties and <NS type="UD"><i>the</i></NS> so on. In addition, at the end-of-conference party, we also have a country dancing show. It could be very special because all the dancers are from our group.</p>
+          <p>Finally, on the last day we have an afternoon free. It would be <NS type="RJ"><i>grateful</i><c>great</c></NS> <NS type="RP"><i>If</i><c>if</c></NS> we could go for a walk around the city of York and visit the historic buildings. If you could think of any other ideas <NS type="RA"><i><NS type="RP"><i>It</i><c>it</c></NS></i><c>that</c></NS> would be very kind of you. I <NS type="TV"><i>would</i><c>will</c></NS> be <NS type="RJ"><i>grateful</i><c>pleased</c></NS> if my idea and all <NS type="RD"><i>the</i><c>this</c></NS> information <NS type="TV"><i>could</i><c>can</c></NS> help you.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Inventions have affected all our lives!</p>
+          <p>Nowadays, a lot of things are invented and make our lives <NS type="UV"><i>are</i></NS> more convenient than <NS type="ID"><i>those days</i><c>in the old days</c></NS>. A car is one of the <NS type="AGN"><i>invention</i><c>inventions</c></NS> which <NS type="AGV"><i>is</i><c>are</c></NS> very useful.</p>
+          <p>I think a car is very important to me because it's very convenient for everyday life. For example, I can travel to <NS type="L"><i>many</i><c>a lot of</c></NS> places in the U.K. Especially<NS type="UP"><i>,</i></NS> <NS type="MC"><c>since</c></NS> I live in Whitwell-on-the-Hill (a village near Malton in North Yorkshire). Can you imagine <NS type="W"><i>if I hadn't got a car how could I go shopping, go to college and so on</i><c>how I could go shopping, go to college and so on if I hadn't got a car</c></NS>?</p>
+          <p>In fact, there are buses (number 843 and 845) which go <NS type="DY"><i>pass</i><c>past</c></NS> my village but the bus fares <NS type="AGV"><i>is</i><c>are</c></NS> very expensive for me. Apart from that it takes <NS type="MD"><c>a</c></NS> long time to go somewhere.</p>
+          <p>The car has <NS type="RY"><i>largely</i><c>significantly</c></NS> affected my <NS type="UJ"><i>own</i></NS> life. I can go anywhere by car a lot quicker than <NS type="MT"><c>by</c></NS> <NS type="FV"><i>use</i><c>using</c></NS> public <NS type="CN"><i>transports</i><c>transport</c></NS>. I can listen to the radio and sometimes can listen to Thai music<NS type="MP"><c>,</c></NS> <NS type="R"><i>which</i><c>as</c></NS> I brought some <NS type="S"><i>cassets</i><c>cassettes</c></NS> with me from Thailand. I took a <NS type="UN"><i>car</i></NS> <NS type="MP"><i>driving theory</i><c>driving-theory</c></NS> test last October and I passed it and I will take a <NS type="DJ"><i>pratice</i><c>practical</c></NS> driving test very soon. I think I have to drive the car myself, so that <NS type="RA"><i>it</i><c>I</c></NS> will know more about the advantages of using <NS type="RD"><i>the</i><c>a</c></NS> car.</p>
+          <p>In conclusion, I think <NS type="MD"><c>a</c></NS> car is very important to me and it has affected my own life. If I <NS type="TV"><i>have</i><c>had</c></NS> more money I <NS type="TV"><i>will</i><c>would</c></NS> buy another car. I think it has more advantages than disadvantages. So, we should say many thanks to the person who invented <NS type="RD"><i>a</i><c>the</c></NS> car!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

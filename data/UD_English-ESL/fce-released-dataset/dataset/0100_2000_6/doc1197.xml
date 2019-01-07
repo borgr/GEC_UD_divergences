@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR491*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen</p>
+          <p>I have just received the letter with the result of your competition. I feel really enthusiastic about spending a couple of weeks at Camp California. Unfortunately, as I will be on <NS type="RN">traineeship</NS> in August, I hope this <NS type="TV"><i>could</i><c>can</c></NS> occur in July.</p>
+          <p><NS type="R">Besides</NS> I would prefer staying in a tent. It <NS type="RV"><i>provides</i><c>gives</c></NS> me a feeling of adventure<NS type="MP"><c>,</c></NS> which is very exciting. I'm also very glad to see such a variety of activities <NS type="M"><c>on offer</c></NS> at the camp. It's quite difficult to say <NS type="S"><i>wether</i><c>whether</c></NS> I prefer painting or sailing. <NS type="R">All in all</NS> I have never <NS type="RV"><i>practised</i><c>tried</c></NS> <NS type="RP"><i>Golf</i><c>golf</c></NS> <NS type="X"><i>nor</i><c>or</c></NS> surfing, so let's try it!</p>
+          <p><NS type="RY"><i>Eventually</i><c>Finally</c></NS>, I would like to know where the camp is located. Will I have the opportunity to visit San Franscico or Los Angles? I would love it! Moreover, how much money will I need if I want to go out at night? These are some further details I keep wondering about. I'm <NS type="RV"><i>looking</i><c>waiting</c></NS> for your answer.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></p>
+          <p>Ignace Cloutier.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Daily life at school:</p>
+          <p>What should be filmed.</p>
+          <p>First of all, I would like to lay the emphasis on the fact that this report can be seen by the <NS type="RN"><i>director of the school</i><c>Headmaster</c></NS>. Therefore it must be objective. Then it may improve our <NS type="R"><i>day</i><c>daily</c></NS> life at school.</p>
+          <p>It would be interesting to film a math lesson. As it is very boring, everybody would understand how difficult it is to get good marks <NS type="RT"><i>at</i><c>in</c></NS> the final examination.</p>
+          <p>Then I would like to film the computer rooms. Sometimes there <NS type="AGV"><i>is</i><c>are</c></NS> so <NS type="CQ"><i>much</i><c>many</c></NS> people that you have to wait half an hour to get <NS type="RD"><i>one</i><c>a</c></NS> computer. If only we could get some new ones.</p>
+          <p><NS type="RY">Eventually</NS>, it would be nice to <NS type="RV"><i>make</i><c>film</c></NS> a sequence with lots of sports activities. It would bring some rhythm to the video. Moreover it will <NS type="RY"><i>show of</i><c>show off</c></NS> <NS type="MC"><c>how</c></NS> healthy the students are.</p>
+          <p>These are some ideas we could discuss <NS type="UT"><i>over</i></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

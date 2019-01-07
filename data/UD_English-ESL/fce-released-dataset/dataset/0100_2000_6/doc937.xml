@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR385*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>Thank you very much for your letter telling me about the first prize. It seems so exciting. I really look forward to taking part <NS type="RT"><i>at</i><c>in</c></NS> Camp California.</p>
+          <p>I would like to travel in July because my <NS type="FN"><i>examination</i><c>examinations</c></NS> will be finished on June 15th. And I have a plan to go to visit my parents in Bangkok, Thailand, in the middle of August. So, I think July is the best time to go <NS type="RT"><i>for</i><c>to</c></NS> the Camp. In addition, the weather may be nice at that <NS type="RN"><i>period of time</i><c>time of year</c></NS>. For accommodation, I would prefer tents because I <NS type="RV"><i>get</i><c>am</c></NS> used to <NS type="AGA"><i>it</i><c>them</c></NS>. Because I'm not good at <NS type="DN"><i>sporting</i><c>sport</c></NS>, <NS type="UC"><i>so</i></NS> I will choose singing and photography as my activities. When I was studying <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> university I joined the Photo Club where I <NS type="R">got the knowledge <NS type="R"><i>a</i><c>as</c></NS> well as a wide variety of <NS type="MP"><i>knowhow</i><c>know-how</c></NS> in</NS> taking <NS type="FN"><i>photo</i><c>photos</c></NS>. As I love singing and always spend my free time <NS type="R"><i>in</i><c>doing</c></NS> Karaoke to practise, I think my singing is not too bad.</p>
+          <p>I also have a couple of things to ask you. What type of clothes and how much money do I need to <NS type="RV"><i>prepare</i><c>bring</c></NS>? I would be <NS type="RJ"><i>delightful</i><c>delighted</c></NS> if you could <NS type="RV"><i>recommend</i><c>advise</c></NS> me.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable". I strongly agree with this sentence. I used to <NS type="RV"><i>do</i><c>go</c></NS> shopping a lot when I was <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> university. I was 19 years old but I <NS type="TV"><i>spend</i><c>spent</c></NS> over 200 pounds <NS type="UT"><i>in</i></NS> some weeks just to <NS type="RV"><i>make</i><c>keep</c></NS> myself <NS type="RJ"><i>up-to-date</i><c>fashionable</c></NS> all the time. I bought lots of new<NS type="MP"><c>,</c></NS> <NS type="DJ"><i>fashion</i><c>fashionable</c></NS> clothes, bags and shoes. <NS type="MT"><i>Four</i><c>For four</c></NS> years <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> university I never had <NS type="MQ"><c>any</c></NS> <NS type="RN"><i>saving money</i><c>savings</c></NS>.</p>
+          <p>Now, I hate shopping because I spent a lot when I was young<NS type="MP"><c>,</c></NS> as mentioned<NS type="MP"><i> so</i><c>. So</c></NS> <NS type="RA"><i>it</i><c>I</c></NS> came to the conclusion that shopping is a way to waste <NS type="UD"><i>the</i></NS> time and money. I found that it's not <NS type="RJ"><i>worth</i><c>worthwhile</c></NS> when I went to the southern part of Thailand 3 years ago where I met an old man and his little grandson. They <NS type="TV"><i>are</i><c>were</c></NS> very poor. The money that I spent on shopping <NS type="TV"><i>can</i><c>could</c></NS> <NS type="TV"><i>help</i><c>have helped</c></NS> them a lot if I <NS type="RV"><i>would</i><c>had</c></NS> not <NS type="RV"><i>do</i><c>spent</c></NS> it <NS type="RY"><i>before</i><c>already</c></NS>. <NS type="MD"><i>Little</i><c> His little</c></NS> grandson tried to help his grandfather<NS type="MP"><c>,</c></NS> who was 70 years<NS type="MP"><c>,</c></NS> old by <NS type="RV"><i>hiring himself out</i><c>working</c></NS> as a gardener after school, though he was only 10 years old. This thing <NS type="TV"><i>tell</i><c>told</c></NS> me shopping <NS type="TV"><i>is</i><c>was</c></NS> not enjoyable any more.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

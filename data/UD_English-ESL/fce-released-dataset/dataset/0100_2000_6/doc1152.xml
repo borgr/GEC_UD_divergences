@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR468*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I have received a letter from you <NS type="IV"><i>saing</i><c>saying</c></NS> that I have won the first prize in your competition and you need some information from me.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because my <NS type="S"><i>hollydays</i><c>holidays</c></NS> are only <NS type="RT"><i>on</i><c>in</c></NS> <NS type="R"><i>it</i><c>that month</c></NS> and the <NS type="S"><i>wheather</i><c>weather</c></NS> in California is better <NS type="MY"><c>then</c></NS>. I am that kind of person who <NS type="AGV"><i>enjoy</i><c>enjoys</c></NS> <NS type="FV"><i>to have</i><c>having</c></NS> a wild and simple life, so I prefer to <NS type="RV"><i>be accommodated</i><c>stay</c></NS> in tents.</p>
+          <p>About the activities, the first one I would like to do is play basketball<NS type="MP"><c>,</c></NS> which I have a lot of experience <NS type="MV"><c>playing</c></NS>. The second one is sailing, but I am not so good <NS type="RT"><i>in</i><c>at</c></NS> this sport.</p>
+          <p>I would like to know some more information about the Camp, before I <NS type="TV"><i>left</i><c>leave</c></NS><NS type="RP"><i>, <NS type="RQ"><i>which</i><c>what</c></NS></i><c>.  What</c></NS> clothes are <NS type="FY"><i>more</i><c>most</c></NS> appropriate and how much money should I take with me<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>Yours sincerely</p>
+          <p>Augusto Roy</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How is everything? Is your dog better? Well here I'm very fine. I bought a new T.V.<NS type="RP"><i>, it's</i><c>.  It's</c></NS> very big and I love it!</p>
+          <p>In your last letter <NS type="MA"><c>you</c></NS> said that you want to know about my experience at the pop concert. I <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> it very much<NS type="RP"><i>, it</i><c>.  It</c></NS> was great! There I helped with the special effects and the sound. They liked me so much and invited me to be <NS type="UD"><i>the</i></NS> <NS type="S"><i>responsable</i><c>responsible</c></NS> <NS type="RT"><i>with</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> lights and sound. I told <NS type="SX"><i>then</i><c>them</c></NS> that I will think about it but I <NS type="S"><i>belive</i><c>believe</c></NS> I will accept the job.</p>
+          <p>The most <NS type="S"><i>increible</i><c>incredible</c></NS> part was the laser show. They were <NS type="S"><i>drowing</i><c>drawing</c></NS> a lot of things in the sky during the concert.</p>
+          <p>Next time I'll take you and your friend Monica. I'm <NS type="S"><i>shure</i><c>sure</c></NS> that you are going to love it.</p>
+          <p>Please write back</p>
+          <p>Love and Peace</p>
+          <p>Augusto.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

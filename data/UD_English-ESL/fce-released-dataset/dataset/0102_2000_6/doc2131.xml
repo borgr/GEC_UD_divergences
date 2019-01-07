@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR861*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to you because of the latest musical show you <NS type="RV"><i>played</i><c>put on</c></NS> in <NS type="MD"><c>the</c></NS> Circle Theatre.</p>
+          <p>I am keen on musicals and I have seen many of them in different parts of the world. Unfortunately<NS type="MP"><c>,</c></NS> the one I saw a week ago in the Circle Theatre was one of the worst.</p>
+          <p>Here are some <NS type="RN"><i><NS type="S"><i>argeuments</i><c>arguments</c></NS></i><c>facts</c></NS> <NS type="RV"><i>telling</i><c>explaining</c></NS> why me and many other people from the audience are so disappointed.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> the musical should have started at 19.30 but unfortunately we had to wait <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes. It <NS type="TV"><i>is</i><c>was</c></NS> a <NS type="DN"><i>wasting</i><c>waste</c></NS> of time.</p>
+          <p>Moreover<NS type="MP"><c>,</c></NS> the advertisement for the show says that the main role in the musical <NS type="TV"><i>plays</i><c>is played by</c></NS> <NS type="MD"><c>the</c></NS> great Danny Brook. I must admit I'd been looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> him. In fact <NS type="RT"><i>at</i><c>on</c></NS> the stage appeared <NS type="MD"><c>a</c></NS> <NS type="S"><i>compleatly</i><c>completely</c></NS> different person.</p>
+          <p>Also<NS type="MP"><c>,</c></NS> discounts for tickets <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> available.</p>
+          <p>After the show<NS type="MP"><c>,</c></NS> together with my friends I went to the theatre restaurant to have a romantic supper<NS type="RP"><i>, unfortunately</i><c>. Unfortunately</c></NS> it was closed <NS type="R"><i>without any sensible</i><c>for no good</c></NS> reason.</p>
+          <p>At the end of my letter I would like to ask if it is possible to have some money back.</p>
+          <p>I would be very pleased if you answered my request soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Besides this little thing she is actually perfect. But to make everything clear I'll start from the <NS type="S"><i>beggining</i><c>beginning</c></NS>. It was two years ago.</p>
+          <p><NS type="UD"><i>The school</i><c>School</c></NS> finished and we, I mean Pat, Tim and me, didn't know what to do with <NS type="R"><i>plenty of</i><c>so much</c></NS> spare time. I didn't <NS type="FV"><i>wanted</i><c>want</c></NS> to spend that holiday with my parents in the country. I was old enough to go somewhere only with my friends. Tim <NS type="RV"><i>gave</i><c>made</c></NS> a <NS type="RN"><i>proposition</i><c>suggestion</c></NS> about going <NS type="RT"><i>at</i><c>to</c></NS> the <NS type="RN"><i>sea</i><c>seaside</c></NS> <NS type="RT"><i>by</i><c>in</c></NS> his new car. It seemed fantastic but we knew our parents would never agree. We had to find another way out. We planned to tell them that we were going <NS type="RT"><i>for</i><c>to</c></NS> a summer camp in the mountains where we would practise French. <NS type="MD"><i>Parents</i><c>Our parents</c></NS> were very pleased and happy we <NS type="TV"><i>are</i><c>were</c></NS> so <NS type="S"><i>ambisious</i><c>ambitious</c></NS>. Of course<NS type="MP"><c>,</c></NS> we didn't <NS type="FV"><i>wanted</i><c>want</c></NS> to go there, it was just a "cover". We prepared tents and other relevant equipment and we <NS type="TV"><i>were waiting</i><c>waited</c></NS>. We promised to keep it <NS type="UT"><i>in</i></NS> secret.</p>
+          <p>Two days before going<NS type="MP"><c>,</c></NS> Pat was packing her luggage and asked her mother to help her. During <NS type="MD"><c>their</c></NS> chat Pat mentioned <NS type="UT"><i>about</i></NS> <NS type="MD"><c>the</c></NS> <NS type="RN"><i>sea</i><c>seaside</c></NS> and her mother found out that something was wrong. Pat started to cry and told <NS type="UT"><i>about</i></NS> everything.</p>
+          <p>As a result we were <NS type="S"><i>grouded</i><c>grounded</c></NS> for all <NS type="MD"><c>the</c></NS> holidays and all because <NS type="MT"><c>of</c></NS> our almost perfect Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

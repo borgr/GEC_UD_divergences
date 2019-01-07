@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR487*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>In reply to your letter <NS type="S"><i>recieved</i><c>received</c></NS> <NS type="MT"><c>on</c></NS> the <NS type="RP"><i>13rd</i><c>13th</c></NS> of June, I first would like to say that it is a great pleasure for me to have been <NS type="IV"><i>choosed</i><c>chosen</c></NS>.</p>
+          <p>First of all, you've asked me when I <NS type="TV"><i>wanted</i><c>want</c></NS> to travel. In fact <NS type="SX"><i>their</i><c>there</c></NS> would be only one possibility in July because I will <NS type="RV"><i>end</i><c>finish</c></NS> <NS type="UT"><i>with</i></NS> my exams <NS type="UN"><i>session</i></NS> at the end of <NS type="RD"><i>this</i><c>that</c></NS> month and <NS type="S"><i>beginn</i><c>begin</c></NS> <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>practical</i><c>vocational</c></NS> <NS type="DN"><i>trainning</i><c>training</c></NS> the <NS type="RP"><i>1rst</i><c>1st</c></NS> of August.</p>
+          <p>To continue with the <NS type="IQ"><i>others</i><c>other</c></NS> information you need, I would prefer to sleep in <NS type="MD"><c>a</c></NS> tent because of <NS type="R"><i>the</i><c>its</c></NS> proximity to <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>Furthermore, I've <NS type="IV"><i>choosed</i><c>chosen</c></NS> two activities<NS type="MP"><c>,</c></NS> <NS type="RA"><i>whose</i><c>which</c></NS> are <NS type="RP"><i>Sailing and Climbing</i><c>sailing and climbing</c></NS>. <NS type="TV"><i>I've climbed</i><c>I climbed</c></NS> for 3 years <NS type="R"><i>as</i><c>while</c></NS> I was at school and I think that my <NS type="RN"><i>level</i><c>standard</c></NS> is still not too bad. <NS type="ID"><i>In contrary</i><c>Conversely</c></NS>, I've never sailed in my life and would enjoy <NS type="FV"><i>to start</i><c>starting</c></NS> <NS type="UT"><i>with</i></NS> at Camp California. To end <NS type="UT"><i>with</i></NS>, I would like to know how much money we will need for the free time and what kind of clothes and <NS type="RN"><i>materials</i><c>equipment</c></NS> do I need to <NS type="RV"><i>practise</i><c>do</c></NS> the activities I've <NS type="IV"><i>choosed</i><c>chosen</c></NS>.</p>
+          <p>I would like to thank you for <NS type="RA"><i>all</i><c>everything</c></NS>, and am looking forward to hearing from you in the near future.</p>
+          <p>Yours sincerely</p>
+          <p>Victoire Bouchard</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you?</p>
+          <p>I've <NS type="UY"><i>well</i></NS> received your last letter and want to thank <NS type="DA"><i>your</i><c>you</c></NS> for the pictures <NS type="R"><i>you've joined with</i><c>you enclosed</c></NS>. You've asked me <NS type="W"><i>how was the Leysin Rock Festival</i><c>how the Leysin Rock Festival was</c></NS>, but I still cannot find the words to explain how fabulous and <NS type="RJ">unexpectable</NS> it was.</p>
+          <p>As you know, I was there to help <NS type="RT"><i>for</i><c>with</c></NS> the <NS type="UJ"><i>good</i></NS> running of the concert and there <NS type="AGV"><i>was</i><c>were</c></NS> a lot of different things to do.</p>
+          <p>First, I had <NS type="RV"><i>to control</i><c>to check</c></NS> the tickets at the <NS type="RN"><i>entry</i><c>entrance</c></NS>. In addition, there were some <NS type="RP"><i>VIP's</i><c>VIPs</c></NS> to place. Then, during the concert<NS type="MP"><c>,</c></NS> <NS type="TV"><i>I've helped</i><c>I helped</c></NS> to serve the beers at the bar. <NS type="TV"><i>I've met</i><c>I met</c></NS> a lot of <NS type="S"><i>interresting</i><c>interesting</c></NS> people while I was serving <NS type="MN"><c>drinks</c></NS>.</p>
+          <p>Furthermore, I had to make announcements <NS type="RT"><i>at</i><c>over</c></NS> the loudspeaker for the children who <NS type="SX"><i>where</i><c>were</c></NS> lost.</p>
+          <p><NS type="RA"><i>All</i><c>Everything</c></NS> was very <NS type="S"><i>interresting</i><c>interesting</c></NS>, but what I particularly liked about the experience <NS type="TV"><i>is</i><c>was</c></NS> the <NS type="R">human relations</NS>.</p>
+          <p><NS type="TV"><i>I've met</i><c>I met</c></NS> a lot of different people and they all <NS type="TV"><i><NS type="RV"><i>have learned</i><c>have taught</c></NS></i><c>taught</c></NS> me something new about behaviour or <NS type="S"><i>compation</i><c>compassion</c></NS>. I hope we will see <NS type="RA"><i>us</i><c>each other</c></NS> as soon as possible and <NS type="MA"><c>I</c></NS> am waiting for your <NS type="RN"><i>answer</i><c>reply</c></NS>.</p>
+          <p>Love</p>
+          <p>Victoire</p>
+          <p>xxx</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

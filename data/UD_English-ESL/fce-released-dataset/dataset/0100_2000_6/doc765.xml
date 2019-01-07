@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR302*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>26-30</age></personnel><score>11.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>. I would like to travel only in July because I will <NS type="RV"><i>take</i><c>have</c></NS> some <NS type="FN"><i><NS type="S"><i>hollydays</i><c>holidays</c></NS></i><c>holiday</c></NS> at <NS type="RD"><i>this</i><c>that</c></NS> time.</p>
+          <p>. I prefer to stay in log cabins <NS type="MY"><c>rather</c></NS> than in <NS type="S"><i>tentes</i><c>tents</c></NS>, because log cabins <NS type="AGV"><i>has</i><c>have</c></NS> <NS type="CE">much esctructure</NS>, that I need to stay for a few days.</p>
+          <p>. I can play <NS type="W"><i>well basketball</i><c>basketball well</c></NS>, because I <NS type="TV"><i>use to</i><c>used to</c></NS> <NS type="RV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>play</c></NS> basketball, when I <NS type="TV"><i>go</i><c>went</c></NS> to the club every Saturday.</p>
+          <p>Now I am planning to be a good photographer. I will use some photographs to put <NS type="RT"><i>in</i><c>on</c></NS> <NS type="RD"><i>one</i><c>a</c></NS> website<NS type="UP"><i>,</i></NS> that belongs <NS type="RT"><i>of</i><c>to</c></NS> <NS type="RD"><i>one</i><c>a</c></NS> magazine, <NS type="RA"><i>that</i><c>which</c></NS> <NS type="R">I had projected. last year</NS>.</p>
+          <p>. How much money would <NS type="MA"><c>you</c></NS> like to pay me for <NS type="W"><i>five hours a day <NS type="RT"><i>in</i><c>for</c></NS> two weeks working with children</i><c>working with children for five hours a day for two weeks</c></NS>?</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2+3+4</question_number>
+       <exam_score>1.1</exam_score>
+         <coded_answer>
+          <p>2 Most <NS type="U"><i>part of</i></NS> students are very shy when the teachers ask them if they have <NS type="RD"><i>one</i><c>any</c></NS> <NS type="AGN"><i>doubt</i><c>doubts</c></NS> <NS type="RT"><i>in</i><c>about</c></NS> <NS type="R">some subjects at the classes</NS>. The students at school shoudn't be shy, because <NS type="CE">they have <NS type="S">estercotipie</NS> inside in some issues, that confuses them the means of things</NS>.</p>
+          <p>3 When you are ready to <NS type="S"><i>shopp</i><c>shop</c></NS>, <NS type="RP"><i>some times</i><c>sometimes</c></NS> you know <NS type="RY"><i>before</i><c>beforehand</c></NS> what is your priority <NS type="UV"><i>to buy</i></NS>, because <NS type="S"><i>probaly</i><c>probably</c></NS> you need one thing <NS type="MY"><c>rather</c></NS> than <NS type="AGA"><i>others</i><c>another</c></NS>. But the best thing that we do, when we <NS type="RV"><i>make</i><c>go</c></NS> <NS type="FV"><i><NS type="S"><i>shopp</i><c>shop</c></NS></i><c>shopping</c></NS> is spend <NS type="UD"><i>the</i></NS> time having lunch at <NS type="MD"><c>a</c></NS> snack bar, watching <NS type="RN"><i>cinema</i><c>movies</c></NS> and <NS type="FV"><i>play</i><c>playing</c></NS> <NS type="W"><i>games computer</i><c>computer games</c></NS>.</p>
+          <p>4 Hello Kim,</p>
+          <p>Last month, I <NS type="TV"><i>work</i><c>worked</c></NS> <NS type="RT"><i>like</i><c>as</c></NS> <NS type="MD"><c>a</c></NS> roadie at <NS type="MD"><c>a</c></NS> Rolling Stones <NS type="RP"><i>Pop Concert</i><c>pop concert</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I was <NS type="S"><i>responsable</i><c>responsible</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> <NS type="MD"><c>the</c></NS> sound <NS type="U"><i>that comes from the stage</i></NS>. Now, I have some experience <NS type="MT"><c>in</c></NS> <NS type="FV"><i>to produce</i><c>producing</c></NS> <NS type="W"><i>CDs <NS type="RJ"><i>alive</i><c>live</c></NS></i><c>live DCs</c></NS> of famous <NS type="AGN"><i>band</i><c>bands</c></NS>, <NS type="RA"><i>that</i><c>I</c></NS> would like to do it. I hope <NS type="UY"><i>so</i></NS> to be <NS type="MD"><c>a</c></NS> producer of shows, as soon as possible.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

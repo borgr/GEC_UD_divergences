@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR69*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>I am writing to you regarding the letter you sent me<NS type="UP"><i>,</i></NS> about the two weeks at Camp California that I won.</p>
+          <p>Firstly, I would like to travel in July because I have 2 weeks off <NS type="RT"><i>in</i><c>at</c></NS> the beginning of the month.</p>
+          <p>For the accommodation, I would prefer <NS type="UT"><i>in</i></NS> <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I like adventure and simplicity.</p>
+          <p>Concerning the available activities, firstly, I would choose climbing because I have <NS type="RV"><i>practised</i><c>done</c></NS> it for many years. <NS type="S"><i>Secondely</i><c>Secondly</c></NS>, I am interested in <NS type="RV"><i>discovering</i><c>trying</c></NS> something that I have never done, so I would like to do sailing.</p>
+          <p>Finally, I was wondering if <NS type="RQ"><i>some</i><c>any</c></NS> special clothes are required and how much pocket money I need for this trip?</p>
+          <p>I thank you <NS type="ID"><i>in advanced</i><c>in advance</c></NS> and <NS type="FV"><i>looking</i><c>look</c></NS> forward to your reply.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm writing to you to <NS type="L"><i>relate</i><c>tell you about</c></NS> my experience <NS type="UT"><i>in</i></NS> helping at a pop concert last month.</p>
+          <p>First of all, I would like to tell you that I've never had <NS type="W"><i>a such</i><c>such a</c></NS> good time in my life!</p>
+          <p>The <NS type="R"><i>day one</i><c>first day</c></NS> <NS type="CE">consisted in surrounding</NS> the <NS type="UN"><i>festival's</i></NS> <NS type="RN"><i>place</i><c>site</c></NS> with fences.</p>
+          <p>The second <NS type="MP"><i>day</i><c>day's</c></NS> objective was to install the <NS type="R"><NS type="RN"><i>scene</i><c>stage</c></NS><NS type="UP"><i>,</i></NS> <NS type="UC"><i>with</i></NS> lights, loudspeakers and all <NS type="M"><c>the other</c></NS>stuff</NS>. This job was quite hard, but we took <NS type="R"><i>enough</i><c>our</c></NS> time <NS type="R">to be not exhausted</NS>!</p>
+          <p>The last day, <NS type="R"><i>in fact</i><c>which was</c></NS> <NS type="W"><i>the concert day</i><c>day of the concert</c></NS><NS type="MP"><c>,</c></NS> was absolutely fantastic. The <NS type="RN"><i>public</i><c>audience</c></NS> was so excited to see the concert that we had to place some <NS type="AGN"><i>bouncer</i><c>bouncers</c></NS> <NS type="MT"><c>in</c></NS> front of the <NS type="RN"><i>scene</i><c>stage</c></NS><NS type="UP"><i>,</i></NS> to <NS type="RV"><i>avoid</i><c>stop</c></NS> <NS type="UD"><i>the</i></NS> people <NS type="R">coming on the concert floor</NS>. Finally, the concert was exactly <NS type="RA"><i>that</i><c>what</c></NS> the people were <NS type="TV"><i>expected</i><c>expecting</c></NS>.</p>
+          <p>I <NS type="SX"><i>hop</i><c>hope</c></NS> that the next time you will come with me!</p>
+          <p>I'm looking forward to hearing <NS type="R"><i>your impressions</i><c>what you think</c></NS> about this!</p>
+          <p>See you soon.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

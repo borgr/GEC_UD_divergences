@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1121*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>17th of June of 2000 Dear Sir, I am writing <NS type="UT"><i>for</i></NS> <NS type="FV"><i>complaining</i><c>to complain</c></NS> about <NS type="RJ"><i>different</i><c>various</c></NS> <NS type="RN"><i>points</i><c>things</c></NS> which I am very <NS type="RJ"><i>disappointing</i><c>disappointed</c></NS> <NS type="MT"><c>with</c></NS>. I <NS type="RV"><i>was</i><c>went</c></NS> to the theatre to see the musical show called 'Over the Rainbow'. There I <NS type="RV"><i>was</i><c>met</c></NS> <NS type="MT"><c>with</c></NS> many problems. <NS type="RP"><i>first</i><c>First</c></NS> of all, I bought four tickets for £20 each and discounts were not available. Secondly, I arrived at the theatre at 9:15 because the <NS type="RN"><i>start time</i><c>time of the performance</c></NS> was <NS type="UT"><i>at</i></NS> 9:30. However, the show started at 20:15. I was fed up <NS type="MT"><c>with</c></NS> <NS type="FV"><i>to wait</i><c>waiting</c></NS>. The worst thing of all was that at the <NS type="S"><i>beggining</i><c>beginning</c></NS> of the show I realized that the actors were totally different <NS type="M"><c>from the ones advertised</c></NS>. They were <NS type="FJ"><i>worst</i><c>worse</c></NS> than the <NS type="DJ"><i>previst</i><c>previous</c></NS> actors. After the show, my friends and I were very furious <NS type="R"><i>in spite of that</i><c>because of all this</c></NS>. We decided to go to the theatre restaurant to eat something and to relax. The surprise was that the restaurant was closed. I am <NS type="RY"><i>absolutely</i><c>really</c></NS> annoyed. In my opinion, you have to give <NS type="MA"><c>us</c></NS> back <NS type="MD"><c>us</c></NS> money because everything <NS type="R"><i>what</i><c>that</c></NS> you wrote in your advertisement was not true. I hope <NS type="MV"><c>to get</c></NS> your answer soon. Finally, I want to <NS type="RV"><i>say</i><c>tell</c></NS> you this is the last time <NS type="R"><i>which</i><c>that</c></NS> I come to your theatre. Thank you. Yours sincerely CAROLINA RODRIGEZ.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>FASHION OF THE FUTURE</p>
+          <p>I am going to write about what clothes will be worn in the future.</p>
+          <p>I have gone out <NS type="RT"><i>to</i><c>onto</c></NS> the street and I have asked <NS type="UT"><i>to</i></NS> people <NS type="UT"><i>for</i></NS> this question. I have <NS type="RV">recollected</NS> all <NS type="MD"><c>the</c></NS> answers and I have <NS type="RV"><i>made</i><c>written</c></NS> this article.</p>
+          <p>Most <NS type="UT"><i>of</i></NS> people think that character<NS type="MP"><c>,</c></NS> <NS type="FN"><i>people</i><c>person</c></NS> and clothes are <NS type="R"><i>together</i><c>of a piece</c></NS>. They believe that people in the future will wear <NS type="S"><i>confortable</i><c>comfortable</c></NS> clothes because they will be outgoing, <NS type="RJ"><i>amused</i><c>amusing</c></NS>, etc.</p>
+          <p>I really think that living in the future will be like living <NS type="RT"><i>in</i><c>on</c></NS> the moon<NS type="RP"><i>,</i><c> -</c></NS> very exciting. And people will wear <NS type="S"><i>cibernetic</i><c>cybernetic</c></NS> clothes but <NS type="RT"><i>in</i><c>at</c></NS> the same time comfortable clothes. I believe that they will wear colourful jeans, T-shirts, mountain boots, etc. And all of this with a lot of colour. From my point of view, they will <NS type="R"><i>be more enjoyable</i><c>enjoy themselves more</c></NS> than people <NS type="MV"><c>do</c></NS> now because they will have many things to do.</p>
+          <p>On the other hand, most <NS type="UT"><i>of</i></NS> people in the future will wear glasses. <NS type="RA"><i>It</i><c>That</c></NS> is because sunlight is very bad. <NS type="RT"><i>At</i><c>In</c></NS> the end <NS type="R"><i>all people</i><c>everyone</c></NS> will be <NS type="DJ"><i>short-sight</i><c>short-sighted</c></NS>.</p>
+          <p>In conclusion, I would like <NS type="FV"><i>living</i><c>to live</c></NS> in the future to <NS type="RV"><i>check</i><c>see</c></NS> <NS type="W"><i><NS type="RQ"><i>which</i><c>what</c></NS> clothes exactly</i><c>exactly what clothes</c></NS> they will wear. It is a <NS type="W"><i><NS type="RN"><i>point</i><c>subject</c></NS> very interesting</i><c>very interesting subject</c></NS>. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

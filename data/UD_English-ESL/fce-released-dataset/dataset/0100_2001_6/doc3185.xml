@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE73*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Smith,</p>
+          <p>I am writing in reply to your enquiry about this <NS type="MP"><i>year</i><c>year's</c></NS> international conference.</p>
+          <p>The conference will be held at The Palace Hotel on Old Street. There will be signs to follow from <NS type="MD"><c>the</c></NS> <NS type="RP"><i>Central</i><c>central</c></NS> train station. The conference <NS type="TV"><i>is <NS type="S"><i>commensing</i><c>commencing</c></NS></i><c>commences</c></NS> on 31st June 2001 from 10.00-15.00. <NS type="MD"><i>Light</i><c>A light</c></NS> lunch will be provided.</p>
+          <p>After the conference, there will be a relaxing party. There is no <NS type="DN"><i>dressed-code</i><c>dress code</c></NS> for the party. However<NS type="MP"><c>,</c></NS> I suggest you <NS type="UV"><i>could</i></NS> wear the same outfit <NS type="RC"><i>as</i><c>that</c></NS> you <NS type="TV"><i>wear</i><c>will wear</c></NS> for the conference.</p>
+          <p>I have included <NS type="RD"><i>the</i><c>a</c></NS> local map<NS type="RP"><i>, there</i><c>. There</c></NS> are some <NS type="RN">ideas</NS> <NS type="RT"><i>at</i><c>on</c></NS> the back of the map. Please let me know if you would like to book one of the city-walk tours<NS type="RP"><i>,</i><c>.</c></NS> We have <NS type="TV"><i>arrange</i><c>arranged</c></NS> <NS type="S"><i>spacial</i><c>special</c></NS> discounts for the conference <NS type="RN"><i>attendance</i><c>attendees</c></NS>. <NS type="DY"><i>Personly</i><c>Personally</c></NS> I recommend the <NS type="UP"><i>Dicken's</i><c>Dickens</c></NS> tour because it is a good length <NS type="UT"><i>of</i></NS> <NS type="RN"><i>walking</i><c>walk</c></NS> and very historical.</p>
+          <p>I hope that I have covered all <NS type="MD"><c>the</c></NS> information you <NS type="TV"><i>would</i><c>will</c></NS> need and look forward to seeing you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+          <p>P.S. Please find the <NS type="W"><i>enclosed map</i><c>map enclosed</c></NS>.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>There are several interesting buildings in the city of London. I believe Liverpool Street Station is at the top <NS type="M"><c>of the</c></NS> list.</p>
+          <p>The building itself looks grand and elegant. Despite the fact that this building <NS type="TV"><i>has served</i><c>serves</c></NS> <NS type="UP"><i>half-a</i><c>half a</c></NS> million commuters in a day, it <NS type="MV"><c>is</c></NS> always clean and functional.</p>
+          <p>There are two parts of Liverpool Street Station that make it so interesting <NS type="MD"><c>a</c></NS> building. The newly decorated section is fairly modern <NS type="MT"><c>in</c></NS> style with escalators and <NS type="DN"><i>touched-screen</i><c>touch-screen</c></NS> ticket <NS type="FN"><i>machine</i><c>machines</c></NS>. It is also very well linked <NS type="RT"><i>into</i><c>to</c></NS> the old underground station<NS type="MP"><c>,</c></NS> which <NS type="UA"><i>it</i></NS> is such a contrast in <NS type="RN">transformation</NS>. The old bit is rather unique and charming. You <NS type="TV"><i>could</i><c>can</c></NS> really imagine <NS type="R"><i>how</i><c>what</c></NS> it looked like in <NS type="ID"><i>the old day</i><c>the old days</c></NS>.</p>
+          <p>There is another surprising section in this building. At the far <NS type="RN"><i>back</i><c>side</c></NS> of the station <NS type="MA"><c>it</c></NS> is <NS type="UY"><i>also</i></NS> connected to a spacious<NS type="MP"><c>,</c></NS> <NS type="MP"><i>well designed</i><c>well-designed</c></NS> <NS type="RN"><i><NS type="MP"><i>pedestrians</i><c>pedestrians'</c></NS></i><c>public</c></NS> park. It is a good example of <NS type="UD"><i>a</i></NS> great architecture that was designed to provide services <NS type="RT"><i>to</i><c>for</c></NS> the public.</p>
+          <p>Finally, it is in the heart of <NS type="MD"><c>the</c></NS> city and <NS type="W"><i>everyone <NS type="TV"><i>would</i><c>will</c></NS> be able to find <NS type="MA"><c>it</c></NS> without doubt</i><c>without doubt everyone will be able to find it</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

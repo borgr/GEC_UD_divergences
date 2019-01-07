@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR225*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you to complain about ,,Over the Rainbow"<NS type="M"><c>, the</c></NS> musical show which took <NS type="UD"><i>a</i></NS> place in The Circle Theatre several weeks ago.</p>
+          <p>First of all, <NS type="MD"><c>the</c></NS> advertisement for the shows provided absolutely <NS type="RJ"><i>WRONG</i><c>FALSE</c></NS> information about <NS type="MD"><c>the</c></NS> <NS type="RN"><i>actors</i><c>cast</c></NS>. Danny BROOK, who should <NS type="TV"><i><NS type="RV"><i>play</i><c>appear</c></NS></i><c>have appeared</c></NS> according <NS type="MT"><c>to</c></NS> your advertisement<NS type="MP"><c>,</c></NS> was replaced by <NS type="UD"><i>an</i></NS> another actor and <NS type="RA"><i>it</i><c>that</c></NS> disappointed me. The show should start at 19.30<NS type="RP"><i>, however</i><c>. However</c></NS>, the audience <NS type="TV"><i>have been waiting</i><c>waited</c></NS> for <NS type="MP"><i><NS type="S"><i>fourty</i><c>forty</c></NS> five</i><c>forty-five</c></NS> minutes. Also, in the advertisement you <NS type="TV"><i>have mentioned</i><c>mentioned</c></NS> discounts which were not provided. The theatre restaurant was closed that evening and I <NS type="TV"><i>had not <NS type="S"><i>recieved</i><c>received</c></NS></i><c>did not receive</c></NS> <NS type="RD"><i>the</i><c>an</c></NS> <NS type="AGN"><i>explanations</i><c>explanation</c></NS> why. On the whole, the evening was boring and disappointing.</p>
+          <p>Based on everything listed above, I would like to <NS type="RV"><i><NS type="S"><i>recieve</i><c>receive</c></NS></i><c>get</c></NS> <NS type="MD"><c>the</c></NS> £10<NS type="UP"><i>,</i></NS> which I <NS type="TV"><i>have paid</i><c>paid</c></NS><NS type="UP"><i>,</i></NS> back. The ticket for the show is <NS type="RJ"><i>included</i><c>enclosed</c></NS>.</p>
+          <p>Look forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How has <NS type="S"><i>morden</i><c>modern</c></NS> technology changed my life<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>New technologies have become <NS type="RD"><i>the</i><c>a</c></NS> part of our lives. There are a lot of arguments about <NS type="UD"><i>the</i></NS> <NS type="SX"><i>weather</i><c>whether</c></NS> this influence is negative or positive. Nevertheless, it has affected every person and hopefully in a good way.</p>
+          <p>Personally, I consider modern technologies <NS type="R"><i>as</i><c>to be</c></NS> a positive innovation. Using <NS type="MD"><c>a</c></NS> microwave oven or vacuum cleaner saves me a lot of time.</p>
+          <p><NS type="MD"><i>Computer</i><c>A computer</c></NS> is <NS type="S"><i>extrrmely</i><c>extremely</c></NS> <NS type="RJ"><i>convenient</i><c>helpful</c></NS> <NS type="RT"><i>in</i><c>with</c></NS> writing reports and essays. And, of course, I <NS type="RP"><i>can not</i><c>cannot</c></NS> forget about cars and planes that <NS type="RV"><i>deliver</i><c>take</c></NS> us to all parts of the Earth.</p>
+          <p>However, many people<NS type="UP"><i>,</i></NS> insist that new technologies affect people in a negative way. I would <NS type="UY"><i>better</i></NS> prefer seeing my father talking to his family instead of staring at <NS type="R">blue screen of TV</NS>. But also<NS type="UP"><i>,</i></NS> I <NS type="TV"><i>would not be</i><c>am not</c></NS> able to imagine my life without <NS type="RD"><i>the</i><c>this</c></NS> nice way of <NS type="S"><i>reciving</i><c>receiving</c></NS> news with <NS type="R">help of it</NS>.</p>
+          <p>Counting <NS type="MD"><c>the</c></NS> pros and cons, I tend to think that there are more positive points <NS type="RT"><i>in</i><c>to</c></NS> <NS type="RV">working out</NS> and manufacturing new technologies than negative ones anyway. <NS type="MD"><i>Modern</i><c>A modern</c></NS> girl or boy <NS type="X"><i>already would not be able</i><c>is already unable</c></NS> to imagine life without them.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

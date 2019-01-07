@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR702*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Last week I <NS type="RV"><i>stayed in</i><c>went to</c></NS> London for <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>holidays</i><c>holiday</c></NS>. During my stay in that beautiful city, I thought it was a good idea to go to the theatre to enjoy a Musical <NS type="UN"><i>show</i></NS>, so I decided to go to your theatre to see "over the Rainbow".</p>
+          <p>It was a very disappointing evening not just for me but for most of the people who <NS type="AGV"><i>was</i><c>were</c></NS> in the theatre.</p>
+          <p>First of all, I was looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> one of my favourite actors, Danny Brook, and it was very disappointing for me to see a <NS type="S"><i>diferent</i><c>different</c></NS> actor instead of him in spite of his name <NS type="FV"><i>was</i><c>being</c></NS> <NS type="IV"><i>writen</i><c>written</c></NS> in the advertisement.</p>
+          <p>In the advertisement for the show I also read that it was going to begin at half past seven p.m. but, <NS type="R"><i>in fact</i><c>actually</c></NS>, it began at eight fifteen. I also<NS type="UP"><i>,</i></NS> found out that no discounts were available. In spite of it <NS type="FV"><i>was</i><c>being</c></NS> said in the advertisement <NS type="M"></NS>.</p>
+          <p>Another disappointing thing I found was that the restaurant was closed because the <NS type="RN"><i>cooker</i><c>cook</c></NS> <NS type="TV"><i>has</i><c>had</c></NS> had an accident with hot water when he was boiling some vegetables.</p>
+          <p>In the advertisement there's no mention <NS type="RT"><i>about</i><c>of</c></NS> getting any money back but I think it was such a disappointing evening that you should give <NS type="RA"><i>it</i><c>some</c></NS> back to me.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>Last summer, I was spending my holidays in a little village <NS type="RT"><i>in</i><c>on</c></NS> the southern <NS type="RN"><i>cost</i><c>coast</c></NS> of Spain with my friend Pat.</p>
+          <p>We usually went to the beach to have a <NS type="RN"><i>bath</i><c>swim</c></NS> and to enjoy the fantastic <NS type="SX"><i>whether</i><c>weather</c></NS> in that part of Spain during the summer.</p>
+          <p>One day we found <NS type="UY"><i>out</i></NS> a beautiful little beach next to the big one where some people were <NS type="DV"><i>taking a sunbath</i><c>sunbathing</c></NS> and some children were playing football in the sand.</p>
+          <p><NS type="RT"><i>At</i><c>As</c></NS> it was so beautiful, we decided to <NS type="RV"><i>come</i><c>go</c></NS> back to the beach at night to see the moon, the <NS type="SX"><i>see</i><c>sea</c></NS> and the stars.</p>
+          <p>When we arrived at the beach, we saw a suspicious light and two <NS type="L"><i>persons</i><c>people</c></NS> doing something we couldn't see very well. In order to see it, we got closer to them and, <NS type="RT"><i>at</i><c>in</c></NS> the end, we saw that they had <NS type="RV"><i>robbed</i><c>stolen</c></NS> a lot of money and they were trying to put it in a safe place. As it seemed dangerous we agreed that we shouldn't <NS type="AS"><i>tell it to anybody</i><c>tell anybody about it</c></NS>. It was our secret.</p>
+          <p>Unfortunately Pat <NS type="RV"><i>explained</i><c>told</c></NS> the story to a friend of <NS type="RA"><i>us</i><c>ours</c></NS> and<NS type="MP"><c>,</c></NS> I don't know how, but the robbers knew that we had seen all they had been doing. So, now we are in danger because of that.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

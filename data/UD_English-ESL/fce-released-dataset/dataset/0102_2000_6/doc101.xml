@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR9*0102*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir,</p>
+          <p>I would like to complain about a musical show. I was very <NS type="RJ"><i>disappointing</i><c>disappointed</c></NS> <NS type="MT"><c>during</c></NS> a <NS type="MP"><i>week</i><c>week's</c></NS> holiday <NS type="U"><i>for me</i></NS> because I had <NS type="UV"><i>got</i></NS> a lot of <NS type="AGN"><i>problem</i><c>problems</c></NS> with the show.</p>
+          <p>I had seen <NS type="MT"><c>from</c></NS> the advertisement that the actors were Danny Brook and Tina Truelove, but it was not Danny Brook. I was really <NS type="RJ"><i>disappointing</i><c>disappointed</c></NS> because he is my <NS type="RJ"><i>famous</i><c>favourite</c></NS> actor.</p>
+          <p>The musical should <NS type="TV"><i>started</i><c>have started</c></NS> at 19.30, but it started at 20.15. When I went to <NS type="FV"><i>asked</i><c>ask</c></NS> for the discount <NS type="RT"><i>of</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> ticket <NS type="RT"><i>in</i><c>at</c></NS> the cashier desk they told me no discount <NS type="MV"><c>was</c></NS> available <NS type="U"><i>for this</i></NS>. I had seen the advertisement <NS type="FV"><i>say</i><c>saying</c></NS> that <NS type="MD"><c>a</c></NS> discount <NS type="MV"><c>was</c></NS> available.</p>
+          <p>After the show I <NS type="TV"><i>decide</i><c>decided</c></NS> to <NS type="FV"><i>had</i><c>have</c></NS> dinner in your theatre restaurant, but I couldn't because it <NS type="MV"><c>was</c></NS> closed. It closed at 10 pm but the show finished at 10.30 pm.</p>
+          <p>This was not <NS type="MD"><c>a</c></NS> perfect evening for me, so if you don't give <NS type="MA"><c>me</c></NS> my money back, I will tell <NS type="UT"><i>to</i></NS> the newspaper about it.</p>
+          <p>I am looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> <NS type="CQ"><i>a</i><c>some</c></NS> good <NS type="DN"><i>new</i><c>news</c></NS>.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS>,</p>
+          <p>Boo Sersuwan.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>I think in the next 100 years people will wear <NS type="UD"><i>the</i></NS> <NS type="DN">space clothes</NS> with <NS type="MD"><c>a</c></NS> small engine in the back<NS type="RP"><i>.</i><c>,</c></NS> because of the atmosphere. The atmosphere <NS type="RT"><i>in</i><c>of</c></NS> the earth <NS type="MV"><c>is</c></NS> now <NS type="RV"><i>starting</i><c>deteriorating</c></NS> badly every <NS type="AGN"><i>years</i><c>year</c></NS>.</p>
+          <p>The <NS type="MN"><c>level of</c></NS> carbon dioxide <NS type="AGV"><i>are</i><c>is</c></NS> growing very fast and people cut <NS type="MY"><c>down</c></NS> more trees, therefore <NS type="M"><c>there are</c></NS> not enough trees to <NS type="R"><i>such</i><c>absorb the</c></NS> carbon dioxide and produce oxygen.</p>
+          <p>The <NS type="FN"><i>designer</i><c>designers</c></NS> will have a lot of <NS type="AGN"><i>idea</i><c>ideas</c></NS> <NS type="RT"><i>for</i><c>about</c></NS> how to make very nice and useful clothes. <NS type="R">I think if we wear <NS type="AGD"><i>this</i><c>these</c></NS> clothes we will travel <NS type="UT"><i>to</i></NS> <NS type="RP"><i>every where</i><c>everywhere</c></NS> easier than we use cars, ships, planes and <NS type="RP"><i>space ships</i><c>spaceships</c></NS></NS>. <NS type="CE">This <NS type="AGV"><i>mean</i><c>means</c></NS> the engineering will find the way to useless petrol for it, so it must useful in the future</NS>.</p>
+          <p>I think somebody will <NS type="RV">make</NS> a very big area to grow <NS type="FN"><i>plant</i><c>plants</c></NS> <NS type="RC"><i>because</i><c>so</c></NS> they can sell the oxygen. This <NS type="TV"><i>is</i><c>will be</c></NS> a new business.</p>
+          <p>I think I can win this <NS type="RN"><i>price</i><c>prize</c></NS>, because <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="RN"><i>clothe</i><c>clothes</c></NS> will <NS type="TV"><i>produce</i><c>be produced</c></NS> in <NS type="W"><i>the future soon</i><c>soon in the future</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

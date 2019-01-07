@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR522*0100*2000*02">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>1/3/2000</p>
+          <p>Dear Mr. Robertson.</p>
+          <p>I'm a student in <NS type="MD"><c>an</c></NS> English class which <NS type="MV"><c>is</c></NS> going to spend three days in London (13th-14th March) and I'm <NS type="RD"><i>a</i><c>the</c></NS> <NS type="W"><i>representative student</i><c>student representative</c></NS> from my class <NS type="M"></NS> to <NS type="DV"><i>thanks</i><c>thank</c></NS> you <NS type="RT"><i>about</i><c>for</c></NS> <NS type="RD"><i>your</i><c>the</c></NS> programme that you've <NS type="RY">already</NS> organised for us. It's really wonderful<NS type="MP"><c>,</c></NS> especially the River trip to Greenwich. We feel <NS type="MA"><c>we</c></NS> can't wait until that time.</p>
+          <p>However, the students in my class<NS type="U"><i>, we</i></NS> have seen an advertisement for the London Fashion and Leisure Show<NS type="MP"><c>,</c></NS> which will be on 14th March between 10.00 to 19.00 at the Central Exhibition Hall, London. The show has many interesting <NS type="RN">parts</NS> such as <NS type="MD"><c>the</c></NS> latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and Hairstyles and we are all agreed that it's a great opportunity for us because most of us are going to study <NS type="M"><c>on a</c></NS> Fashion and Design course <NS type="UT"><i>in</i></NS> next term and the other students are also <NS type="RJ"><i>interesting</i><c>interested</c></NS> in new <NS type="FN"><i>fashion</i><c>fashions</c></NS>. So we think that it will be useful for all of us.</p>
+          <p>Anyway, we still want to go to the Science Museum and <NS type="FV"><i>shopping</i><c>to shop</c></NS> as well but we think we can go shopping on the last <NS type="UN"><i>day</i></NS> afternoon of our trip. So we will have <NS type="MQ"><c>some</c></NS> free time on the afternoon of the 14th March and we can spend this time <NS type="FV"><i>enjoy</i><c>enjoying</c></NS> the show. I'm also <NS type="FV"><i>include</i><c>including</c></NS> the show's leaflet on the back of this letter. What do you think about this plan?</p>
+          <p>I'm looking forward to <NS type="RV"><NS type="FV"><i>see</i><c>seeing</c></NS></NS> your programme.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>I believe that everyone in this world <NS type="AGV"><i>have</i><c>has</c></NS> curiosity. <NS type="UV"><i>We're</i><c>We</c></NS> always want to know about others' <NS type="FN"><i>life</i><c>lives</c></NS><NS type="MP"><c>,</c></NS> especially the famous<NS type="MP"><c> -</c></NS> <NS type="UA"><i>one</i></NS> even the <NS type="FA"><i>one</i><c>ones</c></NS> that we hate. But we have to accept that everyone has their private life<NS type="MP"><i> for</i><c>. For</c></NS> example<NS type="MP"><c>,</c></NS> when we get married or when <NS type="MD"><c>a</c></NS> policeman <NS type="AGV"><i>stop</i><c>stops</c></NS> us on the highway, we don't want any stranger <NS type="FV"><i>notice</i><c>to notice</c></NS> <NS type="UC"><i>that</i></NS> what is happening to us.</p>
+          <p>Famous people are also <NS type="UD"><i>the</i></NS> normal people like us<NS type="MP"><i> just</i><c>. Just</c></NS> because their <NS type="R">jobs are known</NS> by <NS type="R"><i>every people</i><c>everybody</c></NS>, it doesn't mean that we can invade their privacy. They also want to have <NS type="MQ"><c>some</c></NS> special time with their family or their friends. It's not fair for them to have journalists following them and <NS type="FV"><i>take</i><c>taking</c></NS> their photographs<NS type="MP"><c>,</c></NS> and some journalists write <NS type="UD"><i>the</i></NS> <NS type="RN"><i>news</i><c>reports</c></NS> that <NS type="MV"><c>are</c></NS> not true. We also can't deny that the journalists' job is to know what's going on with these famous people. But it doesn't mean that they have to follow these stars all the time<NS type="RP"><i>, they</i><c>. They</c></NS> should give them some privacy.</p>
+          <p>On the other hand, these stars should accept that they are famous people so everyone wants to know about their life. The best way is <NS type="MC"><c>if</c></NS> they, the famous stars and the journalists, <NS type="UV"><i>should</i></NS> compromise and respect each other's rights.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

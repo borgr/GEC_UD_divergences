@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR718*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing with reference to your letter, which I have just received. I am very happy to hear that I have won the first prize in your competition.</p>
+          <p>I am really excited to travel <NS type="RT"><i>at</i><c>to</c></NS> Camp California in the USA because I like to <NS type="RV"><i>know</i><c>get to know</c></NS> people <NS type="RT"><i>of</i><c>from</c></NS> other countries.</p>
+          <p>As I only have holidays <NS type="RT"><i>on</i><c>in</c></NS> July I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> this month.</p>
+          <p>I would prefer to <NS type="RV"><i>have</i><c>stay</c></NS> <NS type="UN"><i>accommodation</i></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I like to be comfortable and I don't like to <NS type="TV"><i><NS type="RV"><i>be lied</i><c>be lain</c></NS></i><c>lie</c></NS> down on the floor inside a tent.</p>
+          <p>I would like to play basketball because I love this game. I used to play when I was at high school. I think that I am a very competitive player, as well <NS type="MY"><i>or</i><c>as</c></NS> a <NS type="MJ"><c>good</c></NS> technical player. Also I would like to do swimming. I think that I am <NS type="MD"><c>a</c></NS> very fast <NS type="RN"><i>swimming</i><c>swimmer</c></NS> but I don't have good style <NS type="RC"><i>and</i><c>or</c></NS> <NS type="S"><i>technic</i><c>technique</c></NS>.</p>
+          <p>I would be grateful if you could send me more information about what clothes and money I must take.</p>
+          <p>I look forward to hearing from you as soon as possible.</p>
+          <p>Yours sincerely,</p>
+          <p>RAEL MEDINAH</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I have been helping to organise a pop concert in Dublin. As you know I love <NS type="RP"><i>irish</i><c>Irish</c></NS> music so I was very happy when the organisers of the concert <NS type="TV"><i>phone</i><c>phoned</c></NS> me to help them.</p>
+          <p>The organisers paid for my <NS type="S"><i>acommodation</i><c>accommodation</c></NS> and <NS type="RN"><i>travel</i><c>flight</c></NS> to Ireland.</p>
+          <p>I arrived <NS type="RT"><i>at</i><c>in</c></NS> Ireland on <NS type="RP"><i>2th</i><c>2nd</c></NS> July. On my first day I didn't work. On the next day I helped them to <NS type="SX"><i>built</i><c>build</c></NS> the <NS type="S"><i>scenary</i><c>scenery</c></NS> and I had enough time to visit a museum in Dublin in the evening. On my third day I helped them to install the sound system. While we were installing the sound system we listened <NS type="MT"><c>to</c></NS> <NS type="RP"><i>irish</i><c>Irish</c></NS> music and suddenly we saw <NS type="UT"><i>to</i></NS> U2, which is my favourite group, going inside the stadium and they played music for us.</p>
+          <p>I could speak to my favourite singer 'Bono'<NS type="RP"><i>,</i><c>.</c></NS> I could meet him and I helped him to repair his guitar because it didn't sound very <NS type="RJ"><i>well</i><c>good</c></NS>.</p>
+          <p><NS type="R"><i>The rest of the</i><c>For the remaining</c></NS> days I wasn't doing anything <NS type="RJ"><i>especial</i><c>special</c></NS>, <NS type="W"><i>just I</i><c>I just</c></NS> helped to organise the rehearsals of the <NS type="IJ"><i>differents</i><c>different</c></NS> <NS type="AGN"><i>group</i><c>groups</c></NS> who were going to play in the concert.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

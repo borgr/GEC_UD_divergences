@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR157*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Ryan</p>
+          <p>I am writing to reply <NS type="RT"><i>for</i><c>to</c></NS> your letter about <NS type="MD"><c>the</c></NS> competition.</p>
+          <p>First of all I would like to say that I am very happy that I won first prize in your competition.</p>
+          <p>Secondly<NS type="MP"><c>,</c></NS> you asked me<NS type="UP"><i>,</i></NS> when I have time for travel, so I can <NS type="W"><i>go only</i><c>only go</c></NS> in July, because <NS type="W"><i>only in July I have holiday</i><c>I only have holiday in July</c></NS>. And I would like to go in the first part of this month, <NS type="MD"><c>the</c></NS> <NS type="S"><i>socond</i><c>second</c></NS> part I spend with my <NS type="S"><i>familly</i><c>family</c></NS>.</p>
+          <p>If you do not mind I would prefer <NS type="MD"><c>a</c></NS> tent, because in <NS type="MD"><c>a</c></NS> tent I will be <NS type="SX"><i>along</i><c>alone</c></NS>.</p>
+          <p>While I will be at the Camp I would like sailing, because it is my <NS type="SA"><i>favorite</i><c>favourite</c></NS> sport. I am good at it - I <NS type="TV"><i>am</i><c>have been</c></NS> sailing <NS type="RT"><i>from</i><c>since</c></NS> childhood. The second <NS type="AGN"><i>activities</i><c>activity</c></NS> which I would like to do is surfing - I have never <NS type="TV"><i>do</i><c>done</c></NS> it.</p>
+          <p>I would like to know<NS type="UP"><i>,</i></NS> how much money I must have with me? And what clothes I should take with me.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours <NS type="S"><i>faitfully</i><c>faithfully</c></NS></p>
+          <p>Aniela Chmielewski</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5b</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>"The Old Man and the Sea"</p>
+          <p>'This is such a marvellous book you will want to read it again'</p>
+          <p>In my <NS type="S"><i>opininion</i><c>opinion</c></NS> this book 'The Old Man and the sea' is the best book which Ernest Hemingway <NS type="TV"><i>had <NS type="IV"><i>writen</i><c>written</c></NS></i><c>wrote</c></NS>.</p>
+          <p>Thise book is about <NS type="MD"><c>a</c></NS> <NS type="FN"><i>men</i><c>man</c></NS> who <NS type="AGV"><i>know</i><c>knows</c></NS> that he will die soon, he <NS type="AGV"><i>know</i><c>knows</c></NS> that he didn't <NS type="FV"><i>made</i><c>make</c></NS> his dream <NS type="S"><i>coom</i><c>come</c></NS> <NS type="S"><i>tru</i><c>true</c></NS>. So he <NS type="S"><i>decidet</i><c>decided</c></NS> to go for <NS type="MD"><c>a</c></NS> last trip in his life. <NS type="DD"><i>Hes</i><c>His</c></NS> <NS type="RN"><i><NS type="S"><i>destenation</i><c>destination</c></NS></i><c>goal</c></NS> is <NS type="FV"><i>get</i><c>to get</c></NS> <NS type="MD"><c>a</c></NS> Marlin. He is very old, and he isn't so strong <NS type="RT"><i>that</i><c>as</c></NS> he should be. He <NS type="AGV"><i>need</i><c>needs</c></NS> to rest, but he <NS type="AGV"><i>don't</i><c>doesn't</c></NS> <NS type="S"><i>geve</i><c>give</c></NS> up. <NS type="SX"><i>I</i><c>In</c></NS> the end he <NS type="AGV"><i>make</i><c>makes</c></NS> his <NS type="S"><i>drems</i><c>dreams</c></NS> <NS type="S"><i>coom</i><c>come</c></NS> <NS type="S"><i>tru</i><c>true</c></NS>, he <NS type="RV"><i><NS type="AGV"><i>get</i><c>gets</c></NS></i><c>catches</c></NS> <NS type="MD"><c>a</c></NS> vast Marlin.</p>
+          <p>In <NS type="S"><i>thise</i><c>this</c></NS> book Hemingway is trying to tell us, that if we want something, we can get it, it <NS type="RV"><i>can</i><c>might</c></NS> be <NS type="S"><i>deficult</i><c>difficult</c></NS> and take <NS type="MD"><c>a</c></NS> long time but we can do it. We must believe in <NS type="DA"><i>our selfs</i><c>ourselves</c></NS>.</p>
+          <p>People <NS type="ID">in our ages</NS> should think about this. Sometimes they <NS type="S"><i>geve</i><c>give</c></NS> up, <NS type="S"><i>befor</i><c>before</c></NS> they get something,</p>
+          <p> To sum up I must say that <NS type="UP"><i>every-one</i><c>everyone</c></NS> should read this book.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

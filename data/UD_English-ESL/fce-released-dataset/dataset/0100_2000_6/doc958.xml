@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR399*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>13<NS type="UP"><i>.</i></NS> June<NS type="UP"><i>.</i></NS> 00</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>I have been the happiest woman since I <NS type="TV"><i>have got</i><c>got</c></NS> your letter. I could not believe my eyes. This was the first competition which I took part <NS type="MT"><c>in</c></NS> and I have won the first prize. It is incredible!</p>
+          <p>I would like to give you some information. First of all, I would like to travel on <NS type="MD"><c>the</c></NS> 19th of July and come back on <NS type="MD"><c>the</c></NS> 2nd of August, because I have to work until 19th of July.</p>
+          <p>Secondly, I would prefer to stay at Camp California, because I have <NS type="RV"><i>been</i><c>stayed</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> log cabins before and I didn't enjoy it. This time I want to try something different.</p>
+          <p>I would also like to tell you about my free-time activities. I like painting and climbing. I am actually not so good at climbing, but I like the fear of risks and <NS type="FN"><i>dangers</i><c>danger</c></NS>. My painting is not bad, but many people don't like the way I paint, because I use only <NS type="R"><NS type="MD"><c>a</c></NS> pencil</NS>. I am happy`,, because I will have the chance to do <NS type="AGD"><i>this</i><c>these</c></NS> two activities.</p>
+          <p>Finally, I would like to ask you if I should take a lot of clothes with me, because I do not know <NS type="W"><i><NS type="RP"><i>what's</i><c>what is</c></NS> the weather</i><c>what the weather is</c></NS> like there. My last question <NS type="TV"><i><NS type="AGV"><i>were</i><c>was</c></NS></i><c>is</c></NS><NS type="RP"><i>;</i><c>:</c></NS> how much money do I need? I hope<NS type="UP"><i>,</i></NS> I have answered all <NS type="MD"><c>your</c></NS> questions.</p>
+          <p> I am looking forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always <NS type="S"><i>enjeyable</i><c>enjoyable</c></NS>.</p>
+          <p>If I had the <NS type="RN"><i>possibility</i><c>choice</c></NS>, I would never go shopping <NS type="RT"><i>to</i><c>in</c></NS> the big supermarkets. You can lose your way if you do not follow the signs, or you <NS type="RP"><i>can not</i><c>can't</c></NS> find the items <NS type="RA"><i>what</i><c>that</c></NS> you want to buy.</p>
+          <p>When I was at <NS type="MD"><c>the</c></NS> supermarket last week<NS type="MP"><c>,</c></NS> I suddenly decided not <NS type="FV"><i>buying</i><c>to buy</c></NS> from a supermarket at all. First of all<NS type="MP"><c>,</c></NS> you need a lot of time, because the <NS type="RN"><i>market</i><c>shop</c></NS> is so big. Secondly, you have a lot of <NS type="S"><i>choises</i><c>choices</c></NS> and you do not know <NS type="R"><i>which one</i><c>what</c></NS> to buy. Lastly, there is a <NS type="S"><i>recyling</i><c>recycling</c></NS> problem<NS type="MP"><c>,</c></NS> which many people do not care about. You buy a lot of items without thinking where <NS type="W"><i>should go so much rubbish</i><c>so much rubbish should go</c></NS>. <NS type="U"><i>For instance,</i></NS> I think a lot about this issue, and sometimes I do not even want to <NS type="RV"><i>spend</i><c>use</c></NS> water, although I should <NS type="U"><i>do it</i></NS>. I think I am too sensible.</p>
+          <p><NS type="UV"><i>I'd</i><c>I</c></NS> prefer to go <NS type="MT"><c>to</c></NS> <NS type="R"><i>the markets which are open and outside</i><c>street markets</c></NS>. <NS type="UC"><i>So you</i><c>You</c></NS> can ask about the <NS type="FN"><i>qualities</i><c>quality</c></NS> and prices and get <NS type="W"><i>immediately <NS type="RD"><i>your</i><c>an</c></NS> <NS type="FN"><i>answers</i><c>answer</c></NS></i><c>an answer immediately</c></NS>.</p>
+          <p>In my opinion, small <NS type="MN"><c>shops</c></NS> and the <NS type="W"><i>markets <NS type="R"><i><NS type="IJ"><i>outsides</i><c>outside</c></NS></i><c>street</c></NS></i><c>street markets</c></NS> should be supported<NS type="RP"><i>, on</i><c>. On</c></NS> the other hand<NS type="MP"><c>,</c></NS> the big supermarkets should think more about the <NS type="S"><i>recyling</i><c>recycling</c></NS> problem, which will be the most important problem in the near future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

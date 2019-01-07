@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE3*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Maria</p>
+          <p>First at all, I am sorry about <NS type="MP"><i>Richard</i><c>Richard's</c></NS> illness. Please remember me to him and give him my best wishes. <NS type="L"><i>About</i><c>concerning</c></NS> your request, I'm going to give you all the information that I think you <NS type="RV"><i>must</i><c>will</c></NS> need<NS type="RP"><i>, however</i><c>. However</c></NS><NS type="MP"><c>,</c></NS> you can call me if you consider it necessary<NS type="RP"><i>, (my</i><c>. (My</c></NS> phone number is 2496 9731<NS type="RP"><i>).</i><c>.)</c></NS></p>
+          <p>Your group has been booked into the Palace Hotel. Because it is a <NS type="S"><i>wellkown</i><c>well-known</c></NS> hotel it should be easy to find it. Moreover, it is really <NS type="UP"><i>well-located</i><c>well located</c></NS> so it will allow you to move around the city without any problem. <NS type="RY"><i>Even more</i><c>More importantly</c></NS> the conference is going to take place in the Exhibition Centre, which is located only five <NS type="MP"><i>minutes</i><c>minutes'</c></NS> <NS type="RN"><i>walking</i><c>walk</c></NS> <NS type="UJ"><i>far</i></NS> from the <NS type="RP"><i>Hotel</i><c>hotel</c></NS>.</p>
+          <p>We haven't <NS type="R">asked for any special clothes</NS> so I would wear casual and comfortable clothes, although you can come <NS type="UP"><i>well-dressed</i><c>well dressed</c></NS>, if you feel better <NS type="M"><c>that way</c></NS>. After the conference we are going to have an informal dinner <NS type="R">with a previous snack time</NS> in order to introduce <NS type="M"><c>ourselves to</c></NS> each <NS type="AGA"><i>others</i><c>other</c></NS>.</p>
+          <p>Finally<NS type="MP"><c>,</c></NS> in my opinion, you should visit the Art Gallery. It will take you two or three hours but it's a gorgeous place. I look forward <NS type="MT"><c>to</c></NS> hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>"Sagrada Familia"<NS type="MP"><c>,</c></NS> a real <NS type="SX"><i>holly</i><c>holy</c></NS> building.</p>
+          <p>If you are looking for a special building in Barcelona, which you <NS type="RV"><i>can</i><c>will</c></NS> like whatever your tastes are, you should visit the "Sagrada Familia". Among the <NS type="RJ"><i>big</i><c>large</c></NS> number of choices, this unfinished church offers a gorgeous view <NS type="SX"><i>fro</i><c>from</c></NS> the top of its towers, a charming story and one of the most representative examples of <NS type="UD"><i>the</i></NS> <NS type="DJ"><i>Catalonia</i><c>Catalonian</c></NS> <NS type="S"><i>modernisme</i><c>modernist</c></NS> art.</p>
+          <p>Gaudi conceived <NS type="MT"><c>of</c></NS> this church <NS type="S"><i>n</i><c>in</c></NS> 1912, though it wasn't until 1920 they started to build it. Since the beginning the work <NS type="TV"><i>was</i><c>has been</c></NS> interrupted <NS type="RT"><i>in</i><c>at</c></NS> different <NS type="RN"><i>periods</i><c>times</c></NS> and started again. After <NS type="MP"><i>Gaudi</i><c>Gaudi's</c></NS> death <NS type="R">it was critical stop which was fortunately solved</NS> three years later. Nowadays, <NS type="UD"><i>a</i></NS> hard work is being done in order to finish <NS type="MA"><c>it</c></NS> as soon as possible.</p>
+          <p>The visitor can <NS type="RV"><i>wonder</i><c>wander</c></NS> around <NS type="RQ"><i>all the</i><c>the whole</c></NS> building or follow a guided <NS type="RN"><i>visit</i><c>tour</c></NS>. There is <NS type="FD"><i>a</i><c>an</c></NS> exhibition room where maps and <NS type="RN"><i>projects</i><c>plans</c></NS> can be <NS type="RV">consulted</NS>. And, unless you suffer from <NS type="RD"><i>your</i><c>a</c></NS> heart <NS type="MN"><c>problem</c></NS>, you should climb the 350 steps which carry you to the top. There you can enjoy a terrific view<NS type="RP"><i>, not</i><c>. Not</c></NS> only will you see almost all the city but also you will discover another perspective of this <NS type="S"><i>magnific</i><c>magnificent</c></NS> building.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

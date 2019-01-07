@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR311*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear manager</p>
+          <p>My name is Lisa and I'm 21 years old. I went to the theatre last Friday to see Over the Rainbow and I felt disappointed about the musical. I expected more from it. First of all the actor was the same <NS type="R"><i>since</i><c>as</c></NS> last semester. I would really like to see a new one such as Markin Davis, he is a great actor and he would fit well <NS type="MT"><c>in</c></NS> this musical. Then I was <NS type="IV"><i>sitted</i><c>sat</c></NS> with my friend just waiting for the start <NS type="MC"><c>and</c></NS> that lasted forever and <NS type="MA"><c>it</c></NS> was supposed to start at 19:30. After the show I felt really hungry, so I <NS type="RV"><i>meant</i><c>intended</c></NS> to go to the restaurant<NS type="MP"><c>,</c></NS> which <NS type="RY">occasionally</NS> was closed. By <NS type="RD"><i>the</i><c>this</c></NS> time I thought: "I want my money back." <NS type="RA"><i>That</i><c>What</c></NS> was supposed to be a perfect evening turned out to be the most hateful musical I've ever seen.</p>
+          <p><NS type="DY">Attencionally</NS></p>
+          <p>Straussburg 17th June 2000</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Despite the fact that she was my best friend I could never count on her or she would tell everybody in high school all my secrets.</p>
+          <p>Once, when we first met<NS type="MP"><c>,</c></NS> I was about 15 and she was the same age, we started talking and by the time <NS type="M"><c>we had finished</c></NS> we found out <NS type="M"><c>that we had formed</c></NS> a very good friendship <NS type="RT"><i>on</i><c>through</c></NS> our conversation.</p>
+          <p>One day she came over to my house and we <NS type="RV"><i>spoke</i><c>talked</c></NS> all night about our lives. Then I told her about my first kiss (it was terrible, the guy didn't know how to do it) and things like that.</p>
+          <p>The next morning when I got to the high school I heard what I wasn't expecting, Pat had told everybody about my first experience <NS type="RT"><i>in</i><c>of</c></NS> kissing. People <NS type="TV"><i>would be</i><c>were</c></NS> <NS type="IV"><i>starring</i><c>staring</c></NS> at me and laughing.</p>
+          <p>I got really mad at her, but nowadays we are friends, not as close as we used to <NS type="MV"><c>be</c></NS>. I don't tell her my secrets anymore.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

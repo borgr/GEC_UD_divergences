@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR721*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>To: the manager of The Circle Theatre</p>
+          <p>From:</p>
+          <p>Subject: complaint</p>
+          <p>Dear Sir or Madam,</p>
+          <p>I was at the show <NS type="RT"><i>of</i><c>at</c></NS> your theatre three days ago. Unfortunately, my expectations <NS type="TV"><i>have not been</i><c>were not</c></NS> realized because of <NS type="MD"><c>the</c></NS> many problems I had during the show.</p>
+          <p>First of all, there was another actor instead of Danny Brook (<NS type="R">as it was written in the advertisement</NS>). Secondly, the show was delayed and started at 20.15 so I had to wait 45 minutes<NS type="MP"><c>,</c></NS> doing absolutely nothing and wasting my time. No discounts were given and, what is more, your theatre restaurant was closed <NS type="RQ"><i>all the</i><c>the whole</c></NS> time. I was not able to have <NS type="UD"><i>a</i></NS> dinner after the show. On the whole, I was very disappointed <NS type="MT"><c>on</c></NS> <NS type="FV"><i>having left</i><c>leaving</c></NS> the Circle Theatre. <NS type="R">All the impressions were destroyed by many problems</NS>.</p>
+          <p>I ask you <NS type="UT"><i>for</i></NS> <NS type="FV"><i>returning</i><c>to return</c></NS> my money <NS type="UY"><i>back</i></NS>. Or I will have <NS type="R"><i>nothing to do</i><c>no option</c></NS> except <NS type="UT"><i>for</i></NS> <NS type="FV"><i>going</i><c>to go</c></NS> to <NS type="UD"><i>the</i></NS> court.</p>
+          <p>Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future</p>
+          <p>Three hundred years ago fashion changed <NS type="R"><i>up one time in each</i><c>once every</c></NS> hundred years. One hundred years ago it was <NS type="RY"><i>one time</i><c>once</c></NS> in 50-25 years. And now we have to change some of our clothes every 6 months because they are not so fashionable any more. Fashion is one of the most important parts of our image and everyday life now. Fashion is becoming more useful<NS type="RP"><i>, all</i><c>. All</c></NS> the new inventions and <NS type="FN"><i>technologies</i><c>technology</c></NS> are going to play an important part in the fashion industry of the future.</p>
+          <p>It is very difficult to predict but let us try to imagine what <NS type="W"><i>will clothes</i><c>clothes will</c></NS> be like 100 years from now. With no doubt, the influence of modern <NS type="FN"><i>technologies</i><c>technology</c></NS> will be great. <NS type="MT"><i>Future</i><c>In future</c></NS> clothes will be very useful and incredibly comfortable<NS type="RP"><i>, we</i><c>. We</c></NS> can see the progress in <NS type="UD"><i>the</i></NS> fashion even now. It seems that the decorative role of clothes will have disappeared by the year <NS type="UT"><i>of</i></NS> 2050.</p>
+          <p>So <NS type="RQ"><i>all the</i><c>the whole</c></NS> fashion industry will work to make clothes more useful, practical and comfortable. What will we have? Breathing jackets and shirts with air conditioning.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

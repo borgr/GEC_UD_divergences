@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR336*0101*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Brown,</p>
+          <p>I am writing to give you information about Mr Brown's surprise party.</p>
+          <p>First of all, the reason that we decided to <NS type="RV"><i>do</i><c>have</c></NS> this party was because Mr Brown helped <NS type="RT"><i>to</i><c>with</c></NS> the organisation of our trip to France. And we <NS type="TV"><i><NS type="S"><i>preciate</i><c>appreciate</c></NS></i><c>would appreciate</c></NS> <NS type="MD"><c>your</c></NS> <NS type="FV"><i>to not tell</i><c>not telling</c></NS> him about our party.</p>
+          <p>Secondly, the party <NS type="UA"><i>it</i></NS> is on Tuesday 16th <NS type="RY"><i>pm</i><c>in the evening</c></NS> at the <NS type="RP"><i>College Canteen</i><c>college canteen</c></NS>. As <NS type="RV"><i>concerned</i><c>regards</c></NS> the food, our mothers <NS type="UA"><i>they</i></NS> will help <NS type="RT"><i>about</i><c>with</c></NS> that. Also, <NS type="W"><i>the drinks we will take</i><c>we will take the drinks</c></NS> <NS type="UA"><i>them</i></NS> from our canteen and there will be a group of <NS type="S"><i>mucisians</i><c>musicians</c></NS> for our entertainment.</p>
+          <p>Moreover, <NS type="W"><i><NS type="RT"><i>at</i><c>to</c></NS> the party <NS type="UA"><i>they</i></NS> will <NS type="UV"><i>be</i></NS> come of course all the class, our teachers and the Principal <NS type="RT"><i>at</i><c>of</c></NS> our school</i><c>all the class, our teachers and the Principal will come to the party of course</c></NS>. Finally, I would like to ask you about our present. <NS type="W"><i>We should</i><c>Should we</c></NS> buy a book or a <NS type="RP"><i>Cd player.</i><c>CD-player?</c></NS></p>
+          <p>I hope that <NS type="MA"><c>I</c></NS> <NS type="TV"><i>to have</i><c>have</c></NS> been of some help <NS type="MT"><c>to</c></NS> you <NS type="RT"><i>about</i><c>with</c></NS> the party. I look forward to seeing you there.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>It was Friday morning when I saw John and <NS type="MA"><c>he</c></NS> said <NS type="MT"><c>to</c></NS> me he had some good news to tell me. And it was <NS type="DY"><i>real</i><c>really</c></NS> good news. It was about a job which I wanted very much. He also <NS type="TV"><i><NS type="RV"><i>tell</i><c>say</c></NS></i><c>said</c></NS> that I must be <NS type="W"><i>the next day at 7:00 p.m. in the <NS type="RN"><i>company</i><c>office</c></NS></i><c>in the office at 7.00 pm the next day</c></NS>.</p>
+          <p>All <NS type="UD"><i>the</i></NS> night I did not <NS type="TV"><i>sleeping</i><c>sleep</c></NS> at all. I was <NS type="W"><i><NS type="R"><i>draw</i><c>by</c></NS> 6:30 <NS type="UP"><i>p.m</i><c>pm</c></NS> in the <NS type="RN"><i>company</i><c>office</c></NS></i><c>in the office by 6.30 pm</c></NS>. The executive <NS type="TV"><i>calls</i><c>called</c></NS> me <NS type="RT"><i>on</i><c>into</c></NS> the office, and he <NS type="TV"><i>has <NS type="TV"><i>show</i><c>shown</c></NS></i><c>showed</c></NS> me my office.</p>
+          <p>From, that day, every day I <NS type="TV"><i>was gone</i><c>went</c></NS> to the office 30 minutes <NS type="RY"><i>before</i><c>early</c></NS>. When I <NS type="TV"><i>complete</i><c>completed</c></NS> a month <NS type="RT"><i>to</i><c>in</c></NS> this job my executive <NS type="UA"><i>he</i></NS> <NS type="TV"><i>tell</i><c>told</c></NS> <NS type="UT"><i>to</i></NS> John to go to the office. I was <NS type="S"><i>surpised</i><c>surprised</c></NS> because I did not know what he wanted. When I went <NS type="DA"><i>his</i><c>he</c></NS> <NS type="TV"><i>wants</i><c>wanted</c></NS> to tell me that from the next month I <NS type="TV"><i>will</i><c>would</c></NS> be his personal <NS type="S"><i>secratary</i><c>secretary</c></NS> and my salary <NS type="UA"><i>it</i></NS> <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="DY"><i>the double</i><c>twice</c></NS> <NS type="RA"><i>how</i><c>what</c></NS> <NS type="M"><c>it was</c></NS> <NS type="UD"><i>the</i></NS> <NS type="DY"><i>previous</i><c>previously</c></NS>. I <NS type="TV"><i>cannot</i><c>could not</c></NS> believe it.</p>
+          <p>Now, my life <NS type="UA"><i>it</i></NS> is <NS type="UT"><i>in</i></NS> the best <NS type="UN"><i>way</i></NS> <NS type="R"><i>it</i><c>that</c></NS> <NS type="RV"><i>would</i><c>could</c></NS> be <NS type="RV"><i>thought about</i><c>imagined</c></NS>. And every day when I wake up I think that I <NS type="TV"><i>live</i><c>am living</c></NS> in <NS type="RD"><i>the</i><c>a</c></NS> dream which I never want to finish.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

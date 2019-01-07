@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR121*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I would like to say "thank you" for this <NS type="R"><i>London trip plan</i><c>plan for a trip to London</c></NS>. We are really excited about it<NS type="RP"><i>. Especially</i><c>, especially</c></NS> the boat trip on <NS type="MD"><c>the</c></NS> river<NS type="MP"><i> <NS type="MA"><c>this</c></NS></i><c>. This</c></NS> is a good idea because we all want to see Greenwich. We also <NS type="RV"><i>enjoy</i><c>like</c></NS> the idea of going to the National Art Gallery and sightseeing by bus. It seems it's going to be <NS type="UD"><i>a</i></NS> great fun.</p>
+          <p>I do not know if it is possible to make any <NS type="AGN"><i>change</i><c>changes</c></NS> <NS type="RT"><i>in</i><c>to</c></NS> this plan but we saw an ad in "Time Out" magazine last week about a fashion show which we would like to see. The show's date is very <NS type="S"><i>convinient</i><c>convenient</c></NS> - March 14 -, and it is on <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> Central Exhibition Hall so I do not think it would be a problem to get there.</p>
+          <p>As you know, we all come from different countries and we are keen <NS type="UT"><i>on</i></NS> <NS type="FV"><i>learning</i><c>to learn</c></NS> some other things about English culture besides the language itself. <NS type="RV"><i>Joining</i><c>Attending</c></NS> this fashion and leisure show, we will get the chance to see a lot of enjoyable and different things, such as new hair styles and <NS type="MP"><i>make up</i><c>make-up</c></NS> <NS type="UN"><i>ways</i></NS>, or what <NS type="W"><i><NS type="AGV"><i>is</i><c>are</c></NS> <NS type="MD"><c>the</c></NS> <NS type="FN"><i>fashion</i><c>fashions</c></NS> in London</i><c>what the fashions in London are</c></NS> <NS type="RY"><i>recently</i><c>at the moment</c></NS>.</p>
+          <p>Briefly, we would be happy if we could see this show instead of the Science Museum. We can find another <NS type="RN"><i>chance</i><c>time</c></NS> to go to the Science Museum <NS type="RT"><i>in</i><c>on</c></NS> any other day, but this show is just <NS type="RT"><i>for</i><c>on</c></NS> this Tuesday. Also, it's free for students. I hope<NS type="UP"><i>,</i></NS> it <NS type="TV"><i>wouldn't</i><c>won't</c></NS> cause a <NS type="RN"><i>trouble</i><c>problem</c></NS> to change the programme. I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Although <NS type="FN"><i>human</i><c>humans</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="UD"><i>a</i></NS> social <NS type="AGN"><i>creature</i><c>creatures</c></NS>, all people need an area <NS type="M"><c>in which they</c></NS> <NS type="TV"><i>to be able</i><c>can</c></NS> <NS type="RV"><i><NS type="FV"><i>to stay</i><c>stay</c></NS></i><c>be</c></NS> <NS type="RY"><i>away</i><c>apart</c></NS> from other people. This is essential to renew the energy which is necessary for daily life. Also we all like to have some special things and people in our lives to help us to feel different from others. It can be a lover, a hobby or a habit.</p>
+          <p>Thinking about famous people, we generally tend to ignore this need. I believe this feeling <NS type="CE">sources from a strange though</NS>; when somebody gets famous, whatever the job is they do, we think we have some kind of right over them. Consequently we demand to know every single detail about them and their lives. <NS type="MD"><i>Press</i><c>The press</c></NS> takes this demand as an order, and "but <NS type="MD"><c>the</c></NS> public wants to know" becomes a nightmare for famous people.</p>
+          <p>In fact, what is a need for ordinary people is a more important need for famous people. Because they have to spend <NS type="RY"><i>too</i><c>so</c></NS> much time in front of other people, they are even more sensitive about their privacy. I am <NS type="SX"><i>quiet</i><c>quite</c></NS> sure<NS type="UP"><i>,</i></NS> <NS type="MC"><c>that</c></NS> even the ones<NS type="UP"><i>,</i></NS> who have chosen their <NS type="DN"><i>occupies</i><c>occupations</c></NS> just to be famous, don't like to be <NS type="RV"><i>pictured</i><c>photographed</c></NS> when they believe they are alone. The situation <NS type="SX"><i>much</i><c>must</c></NS> be much worse for the ones who have become famous without desiring <NS type="RA"><i>this</i><c>it</c></NS>.</p>
+          <p>Obviously, there is no point in saying "famous people have a right to their own <NS type="AGN"><i><NS type="DN"><i>live</i><c>life</c></NS></i><c>lives</c></NS>." Although this statement is <NS type="S"><i>absuletely</i><c>absolutely</c></NS> true, it seems there is no way to stop public attention, so they will <NS type="MV"><c>have</c></NS> <NS type="FV"><i>keep</i><c>to keep</c></NS> living with journalists.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

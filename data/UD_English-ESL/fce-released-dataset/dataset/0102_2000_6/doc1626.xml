@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR640*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>17 June, 2000</p>
+          <p>Dear Sir or Madam,</p>
+          <p>I visited your theatre a couple of days ago in order to see the musical show titled 'Over The Rainbow'. I was not <NS type="S"><i>satified</i><c>satisfied</c></NS> with the show at all because it was very different from the <NS type="RN"><i>information</i><c>description</c></NS> your advertisement had <NS type="RV"><i>stated</i><c>given</c></NS>.</p>
+          <p>First, I expected to see Danny Brook but a different actor appeared without any explanation <NS type="MV"><c>being given</c></NS>. Secondly, although the show started at 20:15, your theatre restaurant closed at the usual time and I was not able to eat dinner. I had planned to have dinner there after the show. What is worse, the ticket price was not reduced despite the fact that I showed my student ID. Visiting your theatre should have been the most pleasant <NS type="RN"><i>time</i><c>event</c></NS> during my holiday in London. I do hope you will understand my feelings and send <NS type="M"><i>some</i><c>me some of my</c></NS> money back.</p>
+          <p>Faithfully yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I had known that but I <NS type="AS"><i>told my secret to her</i><c>told her my secret</c></NS>, which was a big mistake.</p>
+          <p>It was just an <NS type="RJ"><i>usual</i><c>ordinary</c></NS> day. Somehow I felt like sharing my secret with her and told her that the new pop singer who was very popular among girls was my cousin. Pat was very surprised but soon she began asking me lots of questions about him. I didn't mind telling her about my cousin<NS type="RP"><i>, actually</i><c>. Actually</c></NS> he isn't different from other boys at all<NS type="RP"><i>, he</i><c>. He</c></NS> <NS type="W"><i>just <NS type="RV"><i>has</i><c>is</c></NS></i><c>is just</c></NS> sweet-looking. <NS type="MD"><i>Next</i><c>The next</c></NS> day, I went to school as usual and <NS type="RV"><i>got</i><c>was</c></NS> agog at <NS type="RD"><i>a</i><c>the</c></NS> large number of girls waiting for me around my <NS type="RN"><i>rocker</i><c>locker</c></NS>. They all seemed to want to be my best friend, and only Pat seemed to be happy to be my best friend.</p>
+          <p>Now I'm asking my cousin either to meet my friends, or to quit being a singer right now.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

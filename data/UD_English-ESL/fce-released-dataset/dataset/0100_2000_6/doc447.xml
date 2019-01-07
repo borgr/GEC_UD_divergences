@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR178*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Ms Helen</p>
+          <p>Thank you very much for your letter letting me know that I have won your first prize.</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to you in order to give you some details you asked me for in your letter.</p>
+          <p>First of all, I need to tell you that it is only possible for me to travel in July, because I am going to move to Spain in August.</p>
+          <p>About my accommodation <NS type="DN"><i>prefers</i><c>preferences</c></NS>, I would really like to be in a tent. <NS type="RP"><i>Everytime</i><c>Every time</c></NS> I travel around, I sleep in nice rooms with nice beds; that is why I think it is a good <NS type="RN"><i>option</i><c>choice</c></NS> to sleep in <NS type="DN"><i>sleep-bags</i><c>sleeping bags</c></NS>.</p>
+          <p>From the activities I can choose to do in these two weeks, I would enjoy playing basketball and climbing. I think it would be <NS type="RJ"><i>funny</i><c>fun</c></NS> to play basketball after <NS type="M"><c>not playing for</c></NS> five years; and since I go out to the mountains once a month, I don't think I would have any problem with climbing.</p>
+          <p>I would like to ask you some questions: Could you tell me what kind of clothes would be <NS type="RJ"><i><NS type="S"><i>addecuate</i><c>adequate</c></NS></i><c>suitable</c></NS> for these two weeks? How much money do you think I should bring with me?</p>
+          <p>Thank you once again for your attention and interest.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>Gloria Ortega</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>You are going to be jealous when you hear this.</p>
+          <p>As I told you in my last letter, I worked two weeks ago in Edinburgh helping at a pop concert. The pop <NS type="RN"><i>group</i><c>stars</c></NS> were all young people (between 23 - 30 years old), and all of them were really nice.</p>
+          <p>Our main tasks during those three days (I worked with 10 other young people)<NS type="UP"><i>,</i></NS> consisted in carrying <NS type="DJ"><i>music</i><c>musical</c></NS> instruments and loudspeakers, checking the lights and microphones, cleaning everything,...</p>
+          <p>The job was hard, but<NS type="MP"><c>,</c></NS> from my point of view, it was <NS type="DJ"><i>worthful</i><c>worthwhile</c></NS>. I have learned lots of things, earned some money for the summer, and the most important thing: I have had fun.</p>
+          <p>Every five working hours, we had <NS type="RP"><i>thirty-minutes</i><c>thirty minutes'</c></NS> break to eat something. We also had time to tell jokes and play with water balloons.</p>
+          <p>The most <NS type="S"><i>exhiting</i><c>exciting</c></NS> thing was when we removed all the stuff the day after the concert, and we went to the Highlands to spend the whole day <NS type="MY"><c>there</c></NS>. That was <NS type="S"><i>fantactic</i><c>fantastic</c></NS>! If you have never been there, I <NS type="RY"><i>enormous</i><c>really</c></NS> <NS type="S"><i>recemmend</i><c>recommend</c></NS> you to go. <NS type="W"><i>Even I</i><c>I even</c></NS> played the drums there!</p>
+          <p>I hope your exams are <NS type="RV"><i>doing</i><c>going</c></NS> well, and you write <NS type="UA"><i>me</i></NS> back when you finish them.</p>
+          <p>Lots of love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

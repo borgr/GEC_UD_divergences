@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR417*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I went to your show called "Over The Rainbow" and I was really <NS type="RJ"><i>disappointing</i><c>disappointed</c></NS> <NS type="RT"><i>in</i><c>by</c></NS> many <NS type="RN"><i>points</i><c>things</c></NS>.</p>
+          <p>Firstly, you spoke about two actors<NS type="MP"><c>,</c></NS> Danny Brook and Tina Truelove, <NS type="MC"><c>but</c></NS> instead of them we had two others and they were really bad. So I was really surprised. In addition to this you started the show 45 minutes late. It was boring for everybody. How could we appreciate the show properly.</p>
+          <p>Moreover, in your advert you <NS type="RV"><i>spoke</i><c>wrote</c></NS> <NS type="R"><i>about</i><c>that there were</c></NS> discounts available but it was not the case. No discounts were available. Then you <NS type="RV"><i>offered</i><c>invited</c></NS> people to visit your theatre restaurant after the show but it was closed because there <NS type="TV"><i>is</i><c>were</c></NS> no staff to welcome <NS type="UD"><i>the</i></NS> people. You offered something <NS type="R"><i>impossible to do</i><c>you could not possibly provide</c></NS>. I did not have a good time for all of <NS type="AGD"><i>this</i><c>these</c></NS> reasons and I would like you to give <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>I hope <NS type="DA"><i>your</i><c>you</c></NS> understand my request and you are going to reply as soon as possible. Thank you.</p>
+          <p>yours sincerely</p>
+          <p>O. Labro</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. The nightmare started <NS type="R">at this time</NS>. I <NS type="SX"><i>though</i><c>thought</c></NS> she was a really good friend but I made a mistake. She couldn't keep my secret and everybody knew which boy I was in love with. She didn't tell me <NS type="UY"><i>yet</i></NS> but when I came <NS type="RT"><i>in</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> class everybody was looking at me and this boy as well. I looked at her and she became pale and <NS type="S"><i>suddently</i><c>suddenly</c></NS> left the class. I followed her and caught her to push her <NS type="RT"><i>on</i><c>to</c></NS> the ground. I was ready to fight but somebody stopped me. I couldn't go back to the class so I went home. My Mum was at home and I told her <NS type="W"><i><NS type="RJ"><i>all the</i><c>whole the</c></NS></i><c>the whole</c></NS> story. She said that I had to be strong and <NS type="UV"><i>didn't</i><c>not</c></NS> care about them. So I went to the class and everybody was laughing at me and the boy told them to <NS type="FV"><i>stopped</i><c>stop</c></NS> because he loved me and wanted to be with me. <NS type="R"><i>At this time</i><c>Then</c></NS> all the girls became jealous and stopped <NS type="FV"><i>to laugh</i><c>laughing</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

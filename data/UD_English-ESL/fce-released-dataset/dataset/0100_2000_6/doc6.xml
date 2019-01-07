@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR37*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Dir</i><c>Dear</c></NS> Madam</p>
+          <p>I'm writing to you in reply to your letter. I was really <NS type="S"><i>suprised</i><c>surprised</c></NS> when I opened it. I look <NS type="S"><i>forword</i><c>forward</c></NS> to going to the Camp California in the USA. I would like to travel only in July because my family is going to visit me <NS type="RT"><i>on</i><c>in</c></NS> August and I will have to look after them. I prefer staying in <NS type="SX"><i>tens</i><c>tents</c></NS> to staying in log cabins<NS type="RP"><i>. Because</i><c>, because</c></NS> it <NS type="S"><i>remainds</i><c>reminds</c></NS> me <NS type="MT"><c>of</c></NS> my childhood. I used to <NS type="FV"><i>going</i><c>go</c></NS> with my friends to <NS type="RD"><i>the</i><c>a</c></NS> camp, <NS type="S"><i>wich</i><c>which</c></NS> was <NS type="S"><i>situeded</i><c>situated</c></NS> <NS type="RT"><i>on</i><c>by</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> seaside.</p>
+          <p>We <NS type="UV"><i>had</i></NS> always <NS type="TV"><i>enjoying</i><c>enjoyed</c></NS> ourselves. Never had I <NS type="RV"><i>got</i><c>had</c></NS> such a great time. From <NS type="DD"><i>your's</i><c>your</c></NS> list of activities I choose sailing and climbing. I'm keen on sailing, it is my favourite sport. I find it very <NS type="RJ"><i><NS type="S"><i>atractive</i><c>attractive</c></NS></i><c>appealing</c></NS>. I have been sailing since my father <NS type="UV"><i>had</i></NS> bought a boat in 1980, when I was only five years old. However, I have never taken part in any competitions connected with this sport. For me it is only a hobby. Last year I took up climbing and I want to carry on learning this sport.</p>
+          <p>I would like to ask what kinds of clothes <NS type="W"><i>should I</i><c>I should</c></NS> take with me<NS type="RP"><i>.</i><c>,</c></NS> and I wonder if <NS type="RN"><i>prizes</i><c>prices</c></NS> are high there.</p>
+          <p>Yours faithfully</p>
+          <p>Angelina</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>I used to like shopping, but recently I came across many <NS type="AGN"><i>disadvantage</i><c>disadvantages</c></NS> of this activity. Most people think that if they have got money they will buy everything <NS type="UA"><i>what</i></NS> they want. It isn't true. <NS type="S"><i>Nowdays</i><c>Nowadays</c></NS> we have many big shopping <NS type="SA"><i>centers</i><c>centres</c></NS>. We like them because everything is <NS type="RT"><i>on</i><c>in</c></NS> one place. The most suitable time for shopping is <NS type="MD"><c>the</c></NS> <NS type="S"><i>weekand</i><c>weekend</c></NS> when parents don't work and children haven't got <NS type="UD"><i>a</i></NS> school. Because of that<NS type="MP"><c>,</c></NS> shopping <NS type="SA"><i>centers</i><c>centres</c></NS> are <NS type="RP"><i>over crowded</i><c>overcrowded</c></NS>. You can't buy something in <NS type="MD"><c>a</c></NS> <NS type="S"><i>peacful</i><c>peaceful</c></NS> and calm <NS type="S"><i>athmospher</i><c>atmosphere</c></NS>. In addition<NS type="MP"><c>,</c></NS> in <NS type="RD"><i>such</i><c>this</c></NS> kind of shops <NS type="RN"><i>prizes</i><c>prices</c></NS> are very high, of course not all of them. However such <NS type="SA"><i>centers</i><c>centres</c></NS> are very useful and necessary. <NS type="SX"><i>I</i><c>In</c></NS> my opinion the worst thing which may <NS type="FV"><i>happened</i><c>happen</c></NS> is <NS type="MD"><c>an</c></NS> <NS type="DY"><i>extremly</i><c>extremely</c></NS> <NS type="RJ"><i><NS type="S"><i>hugh</i><c>huge</c></NS></i><c>long</c></NS> <NS type="S"><i>queu</i><c>queue</c></NS> <NS type="RT"><i>to</i><c>for</c></NS> the changing room. It is really exhausting. Afterwards you are all in. Nevertheless sometimes shopping <NS type="TV"><i>could</i><c>can</c></NS> be enjoyable. If you bought something <NS type="S"><i>goregous</i><c>gorgeous</c></NS>, you <NS type="TV"><i>would</i><c>will</c></NS> be very happy. On balance I think that shopping should be a nice thing so if you <NS type="RV"><i>have</i><c>are in</c></NS> <NS type="MD"><c>a</c></NS> bad mood don't go shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

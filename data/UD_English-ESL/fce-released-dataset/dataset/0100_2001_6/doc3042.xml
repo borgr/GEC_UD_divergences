@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE35*0100*2001*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Smith,</p>
+          <p>In reply to your letter, I would like to answer your questions and give you more information.</p>
+          <p>Firstly, the hotel in which the group is going to stay is <NS type="MD"><c>the</c></NS> 'Palace Hotel'. Secondly, the easiest way to travel from the hotel to the conference is by a local bus. There is a bus stop in front of the hotel and <NS type="MD"><c>a</c></NS> no.31 or 3 will take you directly to the conference. Thirdly, the end-of-conference party <NS type="TV"><i>would</i><c>will</c></NS> be a small disco, with a variety of drinks and food provided. Therefore, you <NS type="TV"><i>could</i><c>can</c></NS> wear something quite casual.</p>
+          <p>Lastly, on the last day, I would suggest you <NS type="FV"><i>to visit</i><c>visit</c></NS> the Edinburgh Castle and the National Scottish Museum, as both of them are very interesting and have <NS type="RD"><i>the</i><c>a</c></NS> student discount.</p>
+          <p>I hope this letter <NS type="RV"><i>should</i><c>can</c></NS> help you with enough information.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Could modern people live without a light bulb? Well, I don't think so. <NS type="MD"><i>Only</i><c>The only</c></NS> people who could live without <NS type="RA"><i>it</i><c>one</c></NS><NS type="UP"><i>,</i></NS> <NS type="RV"><i>must</i><c>would</c></NS> be extremely weird or <NS type="UA"><i>somebody</i></NS> in a very difficult situation!</p>
+          <p>We are nearly always surrounded by <NS type="UD"><i>the</i></NS> 'man-made' light. With it, we read, study, walk, and so on. In the past people relied on the sunlight, moonlight and the light from fire. These were, however, very unreliable when the weather was bad and when the fuel ran out. They had to read, study and walk in the dark. Today, this kind of thing hardly <NS type="MY"><c>ever</c></NS> happens! Well, unless there <NS type="X"><i>wasn't</i><c>is</c></NS> <NS type="RA"><i>anything</i><c>something</c></NS> wrong with the power supply.</p>
+          <p>I remember when I was about 5, I visited a museum with my family. While I was in <NS type="MD"><c>the</c></NS> toilet, all the <NS type="AGN"><i>light</i><c>lights</c></NS> <NS type="RV"><i>was turned</i><c>went</c></NS> off! I screamed and cried since I'd never experienced being in <NS type="UD"><i>a</i></NS> complete darkness before. When the light was turned on again, I realised how important even a single light bulb <NS type="RV"><i>would</i><c>can</c></NS> be, and I was sure I <NS type="TV"><i>can</i><c>could</c></NS> never, ever live without <NS type="RA"><i>it</i><c>one</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE23*0100*2001*01">
+  <candidate><personnel><language>Spanish</language><age>41-50</age></personnel><score>21.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith</p>
+          <p>With reference to the information that you <NS type="TV"><i>had requested</i><c>have requested</c></NS>, the hotel that <NS type="TV"><i>had been booked</i><c>has been booked</c></NS> is the Holiday Inn, in New Port and to get to the University of Wales<NS type="MP"><c>,</c></NS> <NS type="S"><i>wich</i><c>which</c></NS> is not far from the hotel, you only need to <NS type="CE">take a <NS type="S"><i>divertion</i><c>diversion</c></NS> where clearly indicate Carleon</NS> and once <NS type="UC"><i>that</i></NS> you are on the main road<NS type="MP"><c>,</c></NS> all you need to do is to follow the country road which <NS type="AGV"><i>take</i><c>takes</c></NS> you <NS type="RY"><i>direct</i><c>directly</c></NS> to the place. Concerning <NS type="UT"><i>to</i></NS> the <NS type="RP"><i>Party</i><c>party</c></NS> at the end of the <NS type="RP"><i>Conference</i><c>conference</c></NS>, this will be formal<NS type="MP"><c>,</c></NS> <NS type="RP"><i>there fore</i><c>therefore</c></NS> you will need formal <NS type="SX"><i>clouding</i><c>clothing</c></NS><NS type="MP"><c>,</c></NS> as you know there will be <NS type="RP"><i>Company</i><c>company</c></NS> directors, <NS type="RP"><i>Managers</i><c>managers</c></NS> etc <NS type="MY"><c>there</c></NS>.</p>
+          <p>As for the last day<NS type="MP"><c>,</c></NS> I would suggest you <NS type="RV"><i><NS type="TV"><i>to take</i><c>take</c></NS></i><c>make</c></NS> a visit to the <NS type="S"><i>locall</i><c>local</c></NS> museum and the <NS type="UP"><i>ruin's</i><c>ruins</c></NS> <NS type="MT"><c>of</c></NS> <NS type="MD"><c>the</c></NS> Castle. In the <NS type="SX"><i>fist</i><c>first</c></NS> you will find a very <NS type="S"><i>intresting</i><c>interesting</c></NS> collection of Roman <NS type="RN"><i><NS type="RP"><i>Vestiges</i><c>vestiges</c></NS></i><c>remains</c></NS>, also you can visit another section <NS type="S"><i>wich</i><c>which</c></NS> <NS type="SX"><i>it</i><c>is</c></NS> <NS type="S"><i>supoused</i><c>supposed</c></NS> to be a Roman <NS type="SX"><i>cite</i><c>site</c></NS>.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>I always had <NS type="TV"><i>consider</i><c>considered</c></NS> myself <NS type="FV"><i>been</i><c>to be</c></NS> very <NS type="S"><i>looky</i><c>lucky</c></NS> to be born in the <NS type="M"></NS> <NS type="RP"><i>Century</i><c>century</c></NS> because <NS type="MT"><c>of</c></NS> all the <NS type="S"><i>amaizing</i><c>amazing</c></NS> human inventions.</p>
+          <p>As an example let's have a look and we will see <NS type="UT"><i>of</i></NS> this nation <NS type="MC"><c>and</c></NS> how it has developed. We just need to think about the first world <NS type="S">wold</NS> and all the inventions created thanks to the industrial revolution <NS type="R">to <NS type="AGD"><i>these</i><c>this</c></NS> day</NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> I feel that at the moment there should emerge more <NS type="S"><i>grups</i><c>groups</c></NS> to control this development because <NS type="MT"><c>of</c></NS> the industrial <NS type="S"><i>polution</i><c>pollution</c></NS> that <NS type="UA"><i>it</i></NS> has been created and it seems that <NS type="MP"><i>its</i><c>it's</c></NS> very little<NS type="MP"><c>,</c></NS> what <NS type="TV"><i>has been done</i><c>is being done</c></NS> at the moment in relation to our <NS type="S"><i>embiroment</i><c>environment</c></NS>.</p>
+          <p>I hope in the future there will be more and more people interested in this important issue.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR700*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I'm writing to you to complain about my <NS type="RJ"><i><NS type="DJ"><i>deceiveful</i><c>deceitful</c></NS></i><c>disappointing</c></NS> experience at your theatre last Saturday night.</p>
+          <p>What I thought <NS type="UA"><i>it</i></NS> was going to be a wonderful night became <NS type="UT"><i>into</i></NS> the worst night at the theatre I've ever had.</p>
+          <p>Firstly, I must admit that when we realised the main <NS type="RN"><i>character</i><c>actor</c></NS> had been changed we felt really disappointed. This is because I had been waiting to enjoy Danny Brook's performance since I saw him the first time on television.</p>
+          <p>Secondly, despite <NS type="UT"><i>of</i></NS> your <NS type="RV"><i>advertisement</i><c>advertising</c></NS> <NS type="UT"><i>of</i></NS> the possibility of discounts, when I showed my student identity card to one of your <NS type="S"><i>employes</i><c>employees</c></NS> she angrily told me that I had to pay the <NS type="R"><i>whole</i><c>full</c></NS> <NS type="RN"><i>prize</i><c>price</c></NS>.</p>
+          <p>Moreover, not only had the actor been changed but also the <NS type="UJ"><i>musical</i></NS> show started <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes late.</p>
+          <p>In my opinion you ought to be more serious because of the <NS type="RN"><i><NS type="S"><i>commitent</i><c>commitment</c></NS></i><c>responsibility</c></NS> you have <NS type="MV"><c>to entertain</c></NS> <NS type="UT"><i>with</i></NS> the people who <NS type="AGV"><i>comes</i><c>come</c></NS> to your theatre.</p>
+          <p>Finally, at the end of the night we felt a bit hungry but we couldn't eat until <NS type="MA"><c>we</c></NS> <NS type="RV"><i><NS type="TV"><i>arriving</i><c>arrived</c></NS></i><c>got back</c></NS> home due to your <NS type="MP"><i>restaurant</i><c>restaurant's</c></NS> new <NS type="RN"><i>cooker</i><c>cook</c></NS> <NS type="R"><i>illness</i><c>being ill</c></NS>.</p>
+          <p>The truth is the night wasn't my perfect night out as you <NS type="RV"><i><NS type="TV"><i>have announced</i><c>had announced</c></NS></i><c>had advertised</c></NS> so I would appreciate <NS type="MA"><c>it</c></NS> if you could give <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>I wait to <NS type="FV"><i>receiving</i><c>receive</c></NS> a prompt answer from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>I had always thought that I could rely on her whatever my problem was. Yet, one <NS type="DY"><i>extremly</i><c>extremely</c></NS> hot day while I was <NS type="S"><i>pacefully</i><c>peacefully</c></NS> walking by the sea and thinking about my own problems<NS type="MP"><c>,</c></NS> I discovered my elder brother's girlfriend with another boy.</p>
+          <p>At first I felt really annoyed and disappointed so I <NS type="TV"><i>run</i><c>ran</c></NS> to my brother in order to <NS type="RV"><i>explain</i><c>tell</c></NS> him what I had seen.</p>
+          <p>Nevertheless, when I found him studying <NS type="FY"><i>harder</i><c>hard</c></NS> for his final exams I realised I would rather <NS type="RD"><i>her</i><c>his</c></NS> girlfriend <NS type="RV"><i>explained</i><c>told</c></NS> my poor brother the truth.</p>
+          <p>But the thing is I needed to speak to someone about <NS type="RD"><i>the</i><c>this</c></NS> <NS type="RN"><i>fact</i><c>event</c></NS> so I could feel more relaxed.</p>
+          <p>I didn't know who <NS type="FV"><i><NS type="RV"><i>explain</i><c>tell</c></NS></i><c>to tell</c></NS> <NS type="UA"><i>it</i></NS> <NS type="UT"><i>to</i></NS> but <NS type="RY"><i>actually</i><c>eventually</c></NS> I decided that if I needed to tell someone a secret I <NS type="RV"><i>would</i><c>could</c></NS> trust <NS type="UD"><i>an</i></NS> my best friend Pat.</p>
+          <p>So, the next day, I nervously came to Pat's <NS type="S"><i>appartment</i><c>apartment</c></NS> where she had been living on her own since she was eighteen.</p>
+          <p>After that, she felt <NS type="RY"><i>completely</i><c>very</c></NS> sad because of the love she had been feeling for my brother for several years and she swore <NS type="MT"><c>to</c></NS> me that she was going to <NS type="AS"><i>tell it to nobody</i><c>tell nobody about it</c></NS>.</p>
+          <p>However, the truth was that <NS type="RD"><i>not</i><c>no</c></NS> sooner had I arrived home than my brother asked me<NS type="MP"><c>,</c></NS> crying<NS type="MP"><c>,</c></NS> why I had <NS type="AS"><i>told his girlfriend's affair to Pat</i><c>told Pat about his girlfriend's affair</c></NS> instead of <NS type="AS"><i><NS type="RV"><i>discovering</i><c>revealing</c></NS> him the truth</i><c>revealing the truth to him</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

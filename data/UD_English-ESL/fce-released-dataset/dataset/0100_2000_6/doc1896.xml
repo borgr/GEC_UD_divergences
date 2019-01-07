@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR728*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> about <NS type="R"><i>this</i><c>the</c></NS> letter that I recently received from you, which is about a competition <NS type="R"><i>that</i><c>in which</c></NS> I have won the first prize.</p>
+          <p>I would like to know if <NS type="MA"><c>it</c></NS> is possible for me <NS type="FV"><i>going</i><c>to go</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> July, because I have school <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="IQ"><i>others</i><c>other</c></NS> months, and it is impossible for me <NS type="FV"><i>going</i><c>to go</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> December or January.</p>
+          <p>About the accommodation, I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> <NS type="S"><i>instand</i><c>instead</c></NS> of <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because <NS type="MA"><c>it</c></NS> is safer and more <NS type="S"><i>confortable</i><c>comfortable</c></NS>.</p>
+          <p>The two activities that I prefer <NS type="TV"><i>will be</i><c>are</c></NS> Basketball, because I <NS type="U"><i>had the experience</i></NS> <NS type="TV"><i>to play</i><c>played</c></NS> in my school's <NS type="DN"><i>big</i><c>team</c></NS> for <NS type="S"><i>almoust</i><c>almost</c></NS> a year, and Photography, which is a hobby that I am good at and I <NS type="RV"><i><NS type="TV"><i><NS type="DV"><i>practice</i><c>practise</c></NS></i><c>have practised</c></NS></i><c>have done</c></NS> since I was ten.</p>
+          <p>On top of everything, I would like to ask how much money <NS type="W"><i>should I</i><c>I should</c></NS> take, and <NS type="RQ"><i>which</i><c>what</c></NS> type of clothes are the best to wear in the competition.</p>
+          <p>Yours sincerely</p>
+          <p>Elisa F.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>If you are used to <NS type="FV"><i>go</i><c>going</c></NS> <NS type="U"><i>to the</i></NS> Shopping very often, maybe <NS type="MA"><c>it</c></NS> is because you don't know about all the <NS type="IQ"><i>others</i><c>other</c></NS> good things you can do on your weekend.</p>
+          <p>People are used to <NS type="FV"><i>go</i><c>going</c></NS> to the <NS type="RN"><i>shopping</i><c>shopping centre</c></NS> because it is <NS type="FJ"><i>easier</i><c>easy</c></NS> and <NS type="S"><i>familiare</i><c>familiar</c></NS><NS type="RP"><i>, it</i><c>.  It</c></NS> is one place where you can have lunch or dinner, watch <NS type="R"><i>some</i><c>a</c></NS> movie after that, and<NS type="MP"><c>,</c></NS> if you want<NS type="MP"><c>,</c></NS> buy something at the shops.</p>
+          <p>On the other hand, everything at the <NS type="RN"><i>shopping</i><c>shopping centre</c></NS> is more expensive, because the people that <NS type="RV"><i>buy</i><c>shop</c></NS> <NS type="R"><i>on it</i><c>there</c></NS> usually don't compare prices or look for cheaper shops, because all they need <NS type="UA"><i>it</i></NS> is already at this place.</p>
+          <p><NS type="S"><i>Instand</i><c>Instead</c></NS> of going to the <NS type="S"><i>theather</i><c>theatre</c></NS>, which is more cultural, or even <NS type="FV"><i><NS type="RV"><i>do</i><c>have</c></NS></i><c>having</c></NS> a picnic <NS type="RT"><i>on</i><c>at</c></NS> <NS type="UD"><i>the</i></NS> Ikurapiura park, people prefer <NS type="FV"><i>spends</i><c>spending</c></NS> all their money at <NS type="RN"><i>Shoppings</i><c>shopping centres</c></NS>.</p>
+          <p>So, why don't we try to change our <NS type="RN"><i>customs</i><c>habits</c></NS> and start to do <NS type="SX"><i>knew</i><c>new</c></NS> things to enjoy ourselves.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

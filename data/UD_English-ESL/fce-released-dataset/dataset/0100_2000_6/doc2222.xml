@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR898*0100*2000*01">
+  <candidate><personnel><language>French</language><age>&lt;16</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I received your letter and would be glad to <NS type="RV"><i>travel</i><c>spend</c></NS> two weeks at Camp California in the U.S.A. but I will only be able to go in July <NS type="L"><i>for</i><c>because</c></NS> in June I will be in Austria with a friend and <NS type="RT"><i>in</i><c>for</c></NS> August I have rented an <NS type="S"><i>appartment</i><c>apartment</c></NS> with my family.</p>
+          <p>I would rather be accommodated in a tent because I already have the necessary <NS type="RN"><i>material</i><c>equipment</c></NS> for camping. While I am at the <NS type="RP"><i>Camp</i><c>camp</c></NS> I would like to play tennis and do photography. I play <NS type="W"><i>very well tennis</i><c>tennis very well</c></NS> since I have played it since I was a child but I am a novice <NS type="RT"><i>in</i><c>at</c></NS> photography and I would like to try it as I have always been interested in it.</p>
+          <p>I would like to ask you a few questions:</p>
+          <p>What kind of clothes should I bring?</p>
+          <p>Will you <NS type="RV"><i>give</i><c>provide</c></NS> clothes for <NS type="MD"><c>the</c></NS> activities?</p>
+          <p>How much money should I bring there?</p>
+          <p>Faithfully <NS type="RP"><i>Yours</i><c>yours</c></NS>,</p>
+          <p>Pascal Fritz</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Although many people enjoy shopping, shopping is not always enjoyable. You can <NS type="RV"><i>fall on</i><c>come across</c></NS> a very <NS type="S"><i>disagreable</i><c>disagreeable</c></NS> <NS type="RN"><i><NS type="S"><i>sellor</i><c>seller</c></NS></i><c>shop assistant</c></NS> and if you find what you wanted, you will not want to pay him or her for it.</p>
+          <p>Sometimes the <NS type="RN"><i>seller</i><c>assistant</c></NS> might even ignore you as he or she is talking to another <NS type="RN"><i><NS type="S"><i>sellor</i><c>seller</c></NS></i><c>assistant</c></NS>.</p>
+          <p>For example, you walk into a shoe store. Two <NS type="RN"><i>sellers</i><c>assistants</c></NS> are talking and<NS type="MP"><c>,</c></NS> although they saw you enter, they continue their discussion so you have to interrupt them. Then, one of them serves you but half listens to you because he or she is still talking to the other <NS type="RN"><i><NS type="S"><i>sellor</i><c>seller</c></NS></i><c>assistant</c></NS>. There is nothing more <NS type="S"><i>disagreable</i><c>disagreeable</c></NS> than that.</p>
+          <p>Also, when you find a nice <NS type="RN"><i><NS type="S"><i>sellor</i><c>seller</c></NS></i><c>assistant</c></NS> and he shows you lots of objects, <NS type="RY"><i>when</i><c>then</c></NS> you don't find what you want, you feel sad for him or her because you made him or her <NS type="RV"><i>lose</i><c>waste</c></NS> his or her time<NS type="MP"><c>,</c></NS> so you feel obliged to buy something. All this <NS type="MV"><c>is</c></NS> to say that shopping may seem enjoyable but often is not.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

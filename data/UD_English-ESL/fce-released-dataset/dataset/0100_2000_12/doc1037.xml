@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR424*0100*2000*02">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>It is a pleasure to write to you and we want to <NS type="FV"><i>thanks</i><c>thank</c></NS> <NS type="MA"><c>you</c></NS> for organising a school trip to London. We have seen the programme <NS type="UN"><i>list</i></NS> and we all think it will be enjoyable. <NS type="R">Especially to</NS> the science museum because we <NS type="MV"><c>are</c></NS> all doing science in school.</p>
+          <p>Recently, some students have seen an <NS type="S"><i>advertisment</i><c>advertisement</c></NS> about a fashion and leisure show in London. <NS type="RP"><i>it</i><c>It</c></NS> will be on the 14th and we all want to go. So, it would be <NS type="RJ"><i><NS type="S"><i>greatful</i><c>grateful</c></NS></i><c>great</c></NS> if you <NS type="TV"><i>can</i><c>could</c></NS> give us this opportunity to watch the show.</p>
+          <p>This is a great opportunity to learn something <NS type="R"><i>else</i><c>new</c></NS> because most of us have not been to this kind of show <NS type="RP"><i>And</i><c>and</c></NS> it is free for students. <NS type="RP"><i>it</i><c>It</c></NS> will be incredible if we have a chance to watch the show. So could you give us permission to go?</p>
+          <p>We <NS type="W"><i>also can</i><c>can also</c></NS> suggest how the <NS type="DJ"><i>originally</i><c>original</c></NS> programme can be changed. We will have free time on Wednesday afternoon. So we can <NS type="RV"><i>do</i><c>go</c></NS> shopping instead. Then, we can go to the show during that period<NS type="MP"><c>.</c></NS></p>
+          <p>We are all looking forward <NS type="RT"><i>for</i><c>to</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> answer.</p>
+          <p><NS type="RY"><i><NS type="DY"><i>faithful</i><c>faithfully</c></NS></i><c>sincerely</c></NS></p>
+          <p>12-12-00</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it<NS type="RP"><i>. Because</i><c>, because</c></NS> there was a man <NS type="MA"><c>who</c></NS> <NS type="TV"><i>had</i><c>had had</c></NS> a serious car accident and I was walking <NS type="SX"><i>pass</i><c>past</c></NS> him. Nobody had noticed him because it happened at night and the car had actually crashed into the bushes.</p>
+          <p>I was thinking 'what should I do?' I <NS type="TV"><i>haven't</i><c>hadn't</c></NS> got my mobile phone with me <NS type="RP"><i>And</i><c>and</c></NS> I was <NS type="RP"><i>half way</i><c>halfway</c></NS> between my school and home. At that time he was <NS type="S"><i>unconcious</i><c>unconscious</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I kept asking myself '<NS type="RP"><i>should</i><c>Should</c></NS> I wake him up or try to use my <NS type="RJ"><i>unsure</i><c>dubious</c></NS> first aid <NS type="FN"><i>skill</i><c>skills</c></NS> to <NS type="RV"><i>deal</i><c>help</c></NS> with him.<NS type="MP"><c>"</c></NS> I was struggling because I knew if I didn't help him, he would die in a short time.</p>
+          <p>I decided to do something <NS type="RT"><i>to</i><c>for</c></NS> this man<NS type="RP"><i>, my</i><c>. My</c></NS> first move was to check <NS type="MC"><c>whether</c></NS> <NS type="W"><i>was there</i><c>there was</c></NS> any solid or liquid which could <NS type="TV"><i>blocked</i><c>have blocked</c></NS> his <NS type="RN"><i><NS type="DN"><i>breathe</i><c>breathing</c></NS></i><c>airways</c></NS>. And <NS type="MA"><c>I</c></NS> <NS type="TV"><i>checking</i><c>checked</c></NS> his <NS type="R">body condition</NS>. After that I turned on the <NS type="MP"><i>car</i><c>car's</c></NS> <NS type="FN"><i>light</i><c>lights</c></NS> in order to <NS type="RV"><i>tell</i><c>warn</c></NS> the passing cars.</p>
+          <p>I ran back home for help. I phoned <NS type="UT"><i>to</i></NS> <NS type="MD"><c>the</c></NS> police <NS type="RP"><i>And</i><c>and</c></NS> told <NS type="MA"><c>them</c></NS> the whole story. <NS type="RD"><i>The</i><c>A</c></NS> strange thing happened to me, when I got back to that man. The car and the man were not there anymore. Where could they be? I was wondering.</p>
+          <p>Oh, sorry they were not <NS type="RT"><i>in</i><c>on</c></NS> this road<NS type="RP"><i>, they</i><c>. They</c></NS> were <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="RJ">next</NS> road.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

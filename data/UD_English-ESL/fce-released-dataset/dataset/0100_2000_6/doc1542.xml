@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR595*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Mrs Helen Ryan,</p>
+          <p>I have just received your letter where you stated that I won the first prize <NS type="RT"><i>of</i><c>in</c></NS> the competition<NS type="MP"><c>,</c></NS> <NS type="RT"><i>of</i><c>about</c></NS> which I need more information.</p>
+          <p>To begin with, in your letter you asked me when I would like to <NS type="S"><i>travell</i><c>travel</c></NS>. Well, I would <NS type="W"><i>be only</i><c>only be</c></NS> available in July, because at that time I would be <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>my</c></NS> winter holidays. Also, I prefer sleeping in a tent <NS type="RT"><i>than</i><c>to</c></NS> <NS type="MV"><c>sleeping</c></NS> in a <NS type="SX"><i>long</i><c>log</c></NS> cabin because it is easier to clean.</p>
+          <p>You mentioned the chance to choose two activities from <NS type="DD"><i>you</i><c>your</c></NS> list. I would like to do tennis, because I used to play when I was at school<NS type="MP"><c>,</c></NS> and <NS type="S"><i>swiming</i><c>swimming</c></NS> because I like water sports and because I am good at it. Could you also let me know what kind of clothes and how much money I would have to take.</p>
+          <p>Thanking you in <NS type="RN"><i>anticipation</i><c>advance</c></NS> for your help, I look forward to <NS type="S"><i>hearin</i><c>hearing</c></NS> from you.</p>
+          <p>Yours sincerely,</p>
+          <p>KA. FELIPA MUNOZ</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>To: The Teacher</p>
+          <p>From: Ka. Felipa Munoz</p>
+          <p>Subject: Suggest lessons and activities to be <NS type="TV"><i>film</i><c>filmed</c></NS>.</p>
+          <p>INTRODUCTION</p>
+          <p>The aim of this report is to suggest which lessons and other activities should be filmed to make a short video about daily life at school.</p>
+          <p>HISTORY</p>
+          <p>It is <NS type="MD"><c>a</c></NS> very interesting lesson where you can learn about the <NS type="UJ"><i>past</i></NS> things that happened in your country. Also you can <NS type="FV"><i>compared</i><c>compare</c></NS> the <NS type="IJ"><i>differents</i><c>different</c></NS> cultures of all the countries and sometimes there are <NS type="IJ"><i>planed</i><c>planned</c></NS> <NS type="IN"><i>visities</i><c>visits</c></NS> to historical places.</p>
+          <p>French</p>
+          <p>In this lesson you can learn how to speak, write and read this <NS type="S"><i>foreing</i><c>foreign</c></NS> language with <NS type="S"><i>teachears</i><c>teachers</c></NS> that are well <NS type="S"><i>prepeared</i><c>prepared</c></NS>.</p>
+          <p>GYM</p>
+          <p>There is a <NS type="MP"><i><NS type="DJ"><i>well equipated</i><c>well equipped</c></NS></i><c>well-equipped</c></NS> gym where students of all ages can practise any kind of sport in their free time.</p>
+          <p><NS type="SA"><i>theater</i><c>theatre</c></NS></p>
+          <p>This is an <NS type="RJ"><i>extra</i><c>extra-curricular</c></NS> activity where you can take part in a play. You can sing, act or just help <NS type="U"><i>with the</i></NS> backstage.</p>
+          <p>CONCLUSION</p>
+          <p>To sum up, it is a big school where you have a lot of interesting lessons and some <NS type="DJ"><i>optionaly</i><c>optional</c></NS> activities to do in your free time.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

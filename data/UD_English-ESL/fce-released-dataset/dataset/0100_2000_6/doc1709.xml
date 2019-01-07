@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR676*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>13 of June, 2000</p>
+          <p>Dear Helen</p>
+          <p>I am really happy to receive <NS type="MD"><c>a</c></NS> letter about Camp California from you. I am <NS type="RJ"><i>exciting</i><c>excited</c></NS> and looking forward to <NS type="UV"><i>doing</i></NS> <NS type="FV"><i>camp</i><c>camping</c></NS> there.</p>
+          <p>I would like to travel in July because I have an important exam in September. Plus, it may be lovely weather at that time in <NS type="MD"><c>the</c></NS> U.S.A.</p>
+          <p>I would prefer log cabins. To tell the truth, I want to stay in both, but I have never stayed in log cabins before, so I <NS type="RV"><i>would</i><c>want to</c></NS> try <NS type="MD"><c>a</c></NS> new style for me!</p>
+          <p>I would like to choose singing and tennis. I used to go to KARAOKE with my <NS type="L"><i><NS type="RN"><i>meats</i><c>mates</c></NS></i><c>friends</c></NS> in Japan as I really like to do that, anytime. On the other hand, I have played tennis for nearly 7 years and it is also one of my hobbies.</p>
+          <p>If possible, could you please let me know information about the way of getting there, e.g. airport information??</p>
+          <p>Thank you very much.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>Hello, Kim! <NS type="R">It's been ages to write letters to you.</NS> How was your exam? I believe it went well!</p>
+          <p>By the way, last month I was in that pop concert which you mentioned in your last letters. Can you believe it? Actually<NS type="MP"><c>,</c></NS> I helped <NS type="U"><i>and support</i></NS> to sell tickets at the reception. I've sold tickets before but not in that kind of big pop concert. Before it was packed into by <NS type="MD"><c>the</c></NS> audience, we had to clean around the reception, but <NS type="RY">totally</NS> it was really exciting although I was just a <NS type="M"><c>member of</c></NS> staff in the small reception, because I felt great excitement (especially girls!) from people <NS type="IV"><i>queing</i><c>queueing</c></NS>.</p>
+          <p>I liked that especially. I don't like to tidy up, you know!! I like to face people whom <NS type="W"><i>even I don't</i><c>I don't even</c></NS> know. Foremost, after finishing my work, I could meet singers by chance!!</p>
+          <p>That night was brilliant and class!</p>
+          <p>I keep that in my mind, <NS type="MT"><c>for</c></NS> ever!</p>
+          <p>Anyway, hope to hear from you shortly.</p>
+          <p>See you.</p>
+          <p>Love</p>
+          <p>From</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1003*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>20.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Madam,</p>
+          <p>I am sending you this reply with the <NS type="CN"><i>informations</i><c>information</c></NS> that you need.</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> <NS type="RP"><i>july</i><c>July</c></NS> because I am a <NS type="S"><i>studant</i><c>student</c></NS> <NS type="RC"><i>therefore</i><c>so</c></NS> I only have holidays in this part of the year.</p>
+          <p>About the <NS type="CN"><i><NS type="S"><i>acomodations</i><c>accommodations</c></NS></i><c>accommodation</c></NS><NS type="MP"><c>,</c></NS> I would like to stay in a log cabin because I am used to <NS type="FV"><i>stay</i><c>staying</c></NS> in <NS type="AGA"><i>it</i><c>them</c></NS> when I travel.</p>
+          <p>The activities that I want to do <NS type="RT"><i>in</i><c>at</c></NS> the camp are Basketball and Surfing. Basketball is the sport that I really like because I am very tall <NS type="RC"><i>as well as</i><c>and</c></NS> I <NS type="RV"><i>use</i><c>used</c></NS> to play it very well. On the other hand I <NS type="X"><i>don't know almost <NS type="S"><i>nothin</i><c>nothing</c></NS></i><c>know almost nothing</c></NS> about <NS type="RN"><i>surf</i><c>surfing</c></NS> but I would like to learn and to <NS type="RV"><i>practise</i><c>do</c></NS> the sport because I think it <NS type="MV"><c>is</c></NS> cool.</p>
+          <p>There is one thing I would like to ask you. It's about how much money I will need to go out at night, to spend <NS type="R"><i>with</i><c>on</c></NS> food and <NS type="RD"><i>this</i><c>that</c></NS> kind of thing.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS></p>
+          <p>Adriano Tudela</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>There are people that <NS type="AGV"><i>loves</i><c>love</c></NS> going <NS type="U"><i>to the</i></NS> shopping. They live, work and only think about it. They are addicted <NS type="RT"><i>in</i><c>to</c></NS> buying things. Some doctors say that <NS type="RV"><i><NS type="FV"><i>buy</i><c>buying</c></NS></i><c>shopping</c></NS> without control is a disease and I agree with them because I have a friend who is a <NS type="RJ"><i>compulsory</i><c>compulsive</c></NS> <NS type="RN"><i>buyer</i><c>shopper</c></NS>. He can't stop buying things<NS type="RP"><i>, he</i><c>.  He</c></NS> <NS type="AGV"><i>spend</i><c>spends</c></NS> all his money buying things that he sometimes <NS type="AGV"><i>don't</i><c>doesn't</c></NS> use. I think this <NS type="MV"><c>is</c></NS> one bad side of shopping and many people have this problem.</p>
+          <p>Sometimes, shopping can be really <NS type="DJ"><i>bore</i><c>boring</c></NS><NS type="MP"><c>,</c></NS> especially <NS type="RT"><i>in</i><c>on</c></NS> important dates when the <NS type="AGN"><i>shop</i><c>shops</c></NS> are <NS type="S"><i>absolutaly</i><c>absolutely</c></NS> crowded and you can't see <NS type="RA"><i>somethings</i><c>anything</c></NS> <NS type="UT"><i>as</i></NS> you wanted <NS type="R">with <NS type="DJ"><i>carefull</i><c>careful</c></NS></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR51*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>26-30</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I'm writing to complain about the musical show which I've recently seen at your theatre.</p>
+          <p>I was enthusiastic about <NS type="RD"><i>the</i><c>this</c></NS> special event. The advertisement <NS type="IV"><i>shew</i><c>showed</c></NS> two actors but I was surprised to see <NS type="W"><i>as the main <NS type="S"><i>caracter</i><c>character</c></NS> a different person</i><c>a different person as the main character</c></NS>. As well as this, to my horror, the performance didn't start at 19.30 but <NS type="MP"><i><NS type="S"><i>forthy five</i><c>forty five</c></NS></i><c>forty-five</c></NS> minutes later. In addition to this, the theatre restaurant was closed for lack of <NS type="RN"><i>servants</i><c>waiters</c></NS>. No discounts were available!</p>
+          <p>So, I'm sure you will understand why I'm feeling so annoyed by the whole incident. I hope you will give me back the <NS type="RN"><i>prize</i><c>price</c></NS> of my ticket!</p>
+          <p>I look forward to hearing from you in the near future.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.</exam_score>
+         <coded_answer>
+          <p>Introduction: It seems to me that modern technology has <NS type="RY"><i>deeply</i><c>profoundly</c></NS> changed our daily life. The computer is everywhere and it's available for everyone.</p>
+          <p><NS type="FD"><i>An</i><c>A</c></NS> <NS type="DJ"><i>usefull</i><c>useful</c></NS> <NS type="RN"><i>help</i><c>helper</c></NS>: <NS type="RP"><i>The</i><c>the</c></NS> personal computer can <NS type="DY"><i>fastly</i><c>quickly</c></NS> help you in lots of situations. Moreover, a variety of <NS type="MP"><i>micro computers</i><c>micro-computers</c></NS> are now everywhere such as in your car, on your radio and so on.</p>
+          <p><NS type="ID"><i>Have a good feeling with it</i><c>Feel good about it</c></NS>!: <NS type="ID"><i><NS type="RP"><i>On</i><c>on</c></NS> one side</i><c>on the one hand</c></NS>, <NS type="UD"><i>the</i></NS> modern technology is extremely important, on the other hand you shouldn't abuse <NS type="UT"><i>of</i></NS> it.</p>
+          <p>Conclusion: I do think, however, <NS type="SX"><i>the</i><c>that</c></NS> modern technology is essential for human <NS type="AGN"><i>being</i><c>beings</c></NS> nowadays. Although the world of computers will develop day by day, I <NS type="RY">lively</NS> hope we (human <NS type="AGN"><i>being</i><c>beings</c></NS>) <NS type="TV"><i>could</i><c>can</c></NS> <NS type="S"><i>mantain</i><c>maintain</c></NS> our <NS type="RN"><i>personality</i><c>way</c></NS> of seeing things.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

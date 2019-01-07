@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR111*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>13.06.2000</p>
+          <p>Dear Mrs Ryan</p>
+          <p>Thank you very much for your letter. You would like to have some further information from me. I am writing to answer your letter.</p>
+          <p>I would like to travel only in July because I <NS type="TV"><i>have been</i><c>am</c></NS> working in a bank and I can only go on <NS type="UD"><i>a</i></NS> holiday in July.</p>
+          <p>I would prefer to stay in a tent because I used to go camping and stay in <NS type="RD"><i>the</i><c>a</c></NS> tent. Therefore I would like to <NS type="R">try some kind of experience</NS>.</p>
+          <p>I am interested in tennis but I am not so good <NS type="MD"><c>a</c></NS> tennis player. However<NS type="MP"><c>,</c></NS> I would like to <NS type="R">attend tennis activity</NS>. In addition swimming would be <NS type="MD"><c>a</c></NS> good activity for me. While I was studying at the high school and the university, I was in the swimming team <NS type="U"><i>of the school</i></NS>.</p>
+          <p>I would like to ask you about clothes and <NS type="UD"><i>the</i></NS> money. Could you tell me what kind of clothes I should bring? When I go there, can I use <NS type="MD"><c>a</c></NS> credit card or should I have cash?</p>
+          <p>I look forward to your answer.</p>
+          <p>Yours sincerely, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>I think all people like shopping. When you ask some people to <NS type="RV"><i>learn</i><c>express</c></NS> their opinions about shopping they <NS type="RV"><i>can</i><c>might</c></NS> tell you they don't like shopping but I <NS type="X"><i>suppose it is not true</i><c>don't suppose it is true</c></NS>. For example <NS type="UA"><i>me</i></NS>, when someone asked me about shopping I would say that I <NS type="TV"><i>hadn't liked</i><c>didn't like</c></NS> it. However<NS type="MP"><c>,</c></NS> now if someone asks me the same question my answer will be<NS type="MP"><c>,</c></NS> "<NS type="RP"><i>yes</i><c>Yes</c></NS>, I like it". When people hear this word shopping they only think about <NS type="FV"><i>to go</i><c>going</c></NS> <NS type="MT"><c>to</c></NS> some stores and <NS type="FV"><i>try</i><c>trying</c></NS> <NS type="MY"><c>on</c></NS> new clothes or shoes and <NS type="FV"><i>search</i><c>searching</c></NS> for their size and so on. They don't think about other <NS type="FN"><i>kind</i><c>kinds</c></NS> of shopping which are <NS type="R">liked by themselves</NS>. Maybe they like shopping on <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> or window shopping<NS type="MP"><c>;</c></NS> <NS type="MA"><c>it</c></NS> doesn't matter what kind of shopping they like. There are a lot of shopping <NS type="AGN"><i>style</i><c>styles</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the world<NS type="MP"><c>.</c></NS> I am sure everybody <NS type="RV"><i><NS type="AGV"><i>prefer</i><c>prefers</c></NS></i><c>likes</c></NS> one of them.</p>
+          <p>In my opinion, even though people say shopping is not always enjoyable, there <NS type="AGV"><i>are</i><c>is</c></NS> always some fun you can <NS type="RV"><i>find</i><c>have</c></NS>. You only need to discover what you like, and how you can have fun with shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

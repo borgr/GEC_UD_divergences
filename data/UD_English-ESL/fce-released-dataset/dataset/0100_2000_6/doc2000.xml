@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR799*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Helen Ryan,</p>
+          <p>I am writing to you about the first prize I won in your competition. I am very pleased and I include the information you asked for.</p>
+          <p>I prefer <NS type="FV"><i>travelling</i><c>to travel</c></NS> in July because I am taking some important exams in September and I have planned to study in August. With reference to the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would rather stay in <NS type="MD"><c>a</c></NS> tent because I think it is the best way to socialize.</p>
+          <p><NS type="R"><i>For what <NS type="S"><i>concernes</i><c>concerns</c></NS></i><c>Concerning</c></NS> the activities<NS type="MP"><c>,</c></NS> I think that swimming and climbing are the most suitable for me. I have been swimming since I was three and I did a lot of courses. On the other hand I have never <NS type="RV"><i>had</i><c>taken</c></NS> a course <NS type="RT"><i>of</i><c>in</c></NS> climbing even though I would like to take up this hobby.</p>
+          <p>I would like to ask you something about the weather and clothes I should bring <NS type="M"><c>so as</c></NS> not to have to buy anything there. In addition I need to know whether meals are included or not <NS type="R"><i>in</i><c>with</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> so that I <NS type="TV"><i>could</i><c>can</c></NS> decide how much I must have with me.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+          <p>Mafalda D'Accatino</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I bet you want to know everything about my great experience at Luna Pop's concert last month. Before that I had never thought I would play with a famous group. But maybe you want to hear the story from the beginning.</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> Luna Pop is not my favourite group and I went to their concert only because Ake needed <NS type="FV"><i>being</i><c>to be</c></NS> accompanied. When we arrived she persuaded me to go <NS type="UD"><i>the</i></NS> backstage because her boyfriend was the <NS type="W"><i>electrician of the band</i><c>band's electrician</c></NS>. It didn't sound very exciting to me but I accepted <NS type="R"><i>above all</i><c>anyway</c></NS> because I was curious. Unfortunately what I found wasn't what I expected. Everyone was upset, worried or angry and Lucre, Ake's boyfriend, explained that it was because their pianist had broken his arm and couldn't play.  <NS type="ID"><i>In that moment</i><c>Just then</c></NS> Ake <NS type="S"><i>exlaimed</i><c>exclaimed</c></NS> that I could play the piano. After that I tried to tell them I had just begun <NS type="MV"><c>to learn</c></NS> but within five minutes I was on the stage and I was playing that, luckily, easy tune.</p>
+          <p><NS type="X"><i>I think you can't believe</i><c>I don't think you can believe</c></NS> <NS type="UT"><i>in</i></NS> what I've told you but I won't forget this experience. This has been the first time I have realized that, maybe, playing the piano could be my future and, even though I was really frightened, I enjoyed <NS type="RV"><i>staying</i><c>being</c></NS> on the stage with all those eyes on me.</p>
+          <p>I wish you had been with me but I'm sure you understand what I felt.</p>
+          <p>Love</p>
+          <p>Mafalda</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

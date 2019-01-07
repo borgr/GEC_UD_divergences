@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR380*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Saturday 17th June</p>
+          <p>Dear Sir,</p>
+          <p>I am writing to complain about your musical show. I am not really satisfied <NS type="RT"><i>about</i><c>with</c></NS> it. Lots of information in your advertisement <NS type="AGV"><i>are</i><c>is</c></NS> not correct. Some problems of organisation seem to <NS type="RV"><i>be</i><c>have</c></NS> appeared.</p>
+          <p>Firstly, I hoped to have a relaxing <NS type="RN"><i>entertainment</i><c>evening</c></NS> <NS type="RT"><i>with</i><c>at</c></NS> your <NS type="UJ"><i>musical</i></NS> show but <NS type="RA"><i>it</i><c>that</c></NS> <NS type="R"><i>was not the case</i><c>didn't happen</c></NS>. In your advertisement you announced the actors were Danny Brook and Tina Truelove. They were replaced by less famous actors. Unfortunately, the musical <NS type="UN"><i>show</i></NS> was <NS type="RJ"><i>annoying</i><c>boring</c></NS>. I was terribly disappointed. Moreover, it started at 20.15 instead of 19.30 as you had written <NS type="U"><i>on it</i></NS>. I had to wait for 45 minutes <NS type="UT"><i>without</i></NS> <NS type="W"><i>nothing doing</i><c>doing nothing</c></NS>. I <NS type="RV"><i>would</i><c>wish</c></NS> you <NS type="TV"><i>informed</i><c>had informed</c></NS> us <NS type="RY"><i>before</i><c>beforehand</c></NS>.</p>
+          <p>Secondly, <NS type="UY"><i>furthermore</i></NS> I had to pay full price whereas you <NS type="RV"><i>granted</i><c>guaranteed</c></NS> us some discount prices. I was very interested in visiting your theatre restaurant after the show but it seemed to me it was closed. Your assistant prevented us from visiting it because it was too late and he was so busy.</p>
+          <p>Finally, you thought that you could <NS type="RV"><i>grant</i><c>give</c></NS> us a perfect evening but <NS type="RA"><i>it</i><c>that</c></NS> was not true. Consequently, I would like you <NS type="FV"><i>refund</i><c>to refund</c></NS> my <NS type="RN"><i>bill</i><c>ticket</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Nowadays, we need modern technology to improve <NS type="UT"><i>on</i></NS> daily life. In my opinion, science and technology will have consequences on my <NS type="CN"><i>behaviours</i><c>behaviour</c></NS>.</p>
+          <p>First of all, as you <NS type="UY"><i>also</i></NS> know, lots of technology <NS type="AGV"><i>have</i><c>has</c></NS> <NS type="RV"><i>boosted</i><c>advanced</c></NS> <NS type="RT"><i>since</i><c>in</c></NS> <NS type="MD"><c>a</c></NS> few years. For example, without using <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> I could not <NS type="RV"><i>put</i><c>get</c></NS> <NS type="UA"><i>me</i></NS> through to foreign people. This interactive <NS type="RN"><i>way</i><c>method</c></NS> of communication allows me to reach everybody everywhere without restrictions. I feel free as <NS type="FD"><i>a</i><c>an</c></NS> eagle. I can take advantage of <NS type="RQ"><i>those</i><c>such</c></NS> technologies as mobile <NS type="AGN"><i>phone</i><c>phones</c></NS>, lap top <NS type="AGN"><i>computer</i><c>computers</c></NS>, <NS type="AGN"><i>television</i><c>televisions</c></NS>, to have <NS type="FN"><i>contacts</i><c>contact</c></NS> with different cultures.</p>
+          <p>Secondly, technology has changed my daily life because it allows me to do <NS type="CQ"><i>much</i><c>many</c></NS> more things than before. Unfortunately, it could <NS type="RV"><i>have</i><c>be</c></NS> an <NS type="DN"><i>inconvenient</i><c>inconvenience</c></NS> for me because of pollution from cars<NS type="R"><i>,</i><c> and</c></NS> factories. I can't go to the <NS type="RP"><i>towncentre</i><c>town centre</c></NS> of <NS type="MD"><c>a</c></NS> big city. There are links between the <NS type="MN"><i>greenhouse</i><c>greenhouse effect</c></NS>, technology and me.</p>
+          <p>To conclude, we must not forget that science and technology is a tool <NS type="MV"><c>to help</c></NS> <NS type="MA"><c>us</c></NS> to live better. Be <NS type="DJ"><i>carefull</i><c>careful</c></NS>, my own technology can kill me. I can use it but <NS type="R"><i>with some</i><c>only within</c></NS> limits.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

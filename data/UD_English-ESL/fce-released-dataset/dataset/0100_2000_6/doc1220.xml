@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR502*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>41-50</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Madam:</p>
+          <p>I just <NS type="TV"><i>receive</i><c>received</c></NS> your letter with the good news. I am very happy <NS type="RT"><i>for</i><c>about</c></NS> winning the first prize in your competition and I am glad to tell you that I am planning to go<NS type="MP"><c>,</c></NS> but I can only travel <NS type="RT"><i>on</i><c>in</c></NS> July because I have to work until the end of June.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> the accommodation<NS type="MP"><c>,</c></NS> I would like to have <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> rather than <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because two weeks is quite a long time and I think they are more comfortable and give you more privacy.</p>
+          <p>I enjoy swimming and singing and I would like to join others in these activities. I am an average swimmer and as a singer I am not a <NS type="RN"><i>start</i><c>beginner</c></NS> <NS type="RC"><i>but</i><c>and</c></NS> it would be fun to share my songs with the holiday makers.</p>
+          <p>Can you please give me some <NS type="S"><i>recomendations</i><c>recommendations</c></NS> about the clothes I will need and also the cost of the food there to <NS type="RV"><i>make</i><c>plan</c></NS> my budget.</p>
+          <p>Thank you for these wonderful two weeks at Camp California.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>In my opinion shopping <NS type="W"><i>sometimes is</i><c>is sometimes</c></NS> really boring<NS type="MP"><c>,</c></NS> <NS type="RY"><i>specially</i><c>especially</c></NS> when you buy <NS type="W"><i>at the supermarkets almost all the time the same things</i><c>the same things at the supermarkets almost all the time</c></NS><NS type="MP"><c>,</c></NS> like cleaning products and the ingredients for <NS type="RP"><i>every day</i><c>everyday</c></NS> <NS type="RN"><i>food</i><c>recipes</c></NS>.</p>
+          <p>On the other hand everything looks different if I have to <NS type="RV"><i>make</i><c>get</c></NS> a present for someone in my family. I start thinking <NS type="MT"><c>about</c></NS> what she or he <NS type="AGV"><i>prefer</i><c>prefers</c></NS> and I try my best <NS type="FV"><i>buying</i><c>to buy</c></NS> something <NS type="S"><i>apropiate</i><c>appropriate</c></NS> <NS type="R"><i>doesn't</i><c>no</c></NS> matter how much money <NS type="UV"><i>does</i></NS> it <NS type="AGV"><i>cost</i><c>costs</c></NS>.</p>
+          <p>In conclusion most of the time that you spend shopping you put a lot of effort <NS type="MT"><c>into</c></NS> choosing things and making <NS type="S"><i>decissions</i><c>decisions</c></NS> and they are more or less important, or more or less enjoyable <NS type="FV"><i>depends</i><c>depending</c></NS> on what, why, where and who is the person that you are interested <NS type="MT"><c>in</c></NS> <NS type="FV"><i>to please</i><c>pleasing</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

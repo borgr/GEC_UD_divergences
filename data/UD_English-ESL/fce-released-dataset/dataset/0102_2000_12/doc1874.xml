@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR717*0102*2000*02">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Madam,</p>
+          <p>I'm writing to <NS type="RP"><i>You</i><c>you</c></NS> in order to express my feelings about the International Arts Festival. I spent two days there, and I think it was the best Arts Festival I have ever been <NS type="RT"><i>at</i><c>to</c></NS>. I also hope<NS type="UP"><i>,</i></NS> that the festival could be even better next year. The great idea of making it "international" was unfortunately not brought to life, because the artists (<NS type="RV"><i>mentioned</i><c>said</c></NS> to be "from around the world") were from only six countries. Maybe the <NS type="S"><i>eason</i><c>reason</c></NS> for that is very simple: lack of money? It would explain<NS type="UP"><i>,</i></NS> why some concert halls were simply too small - you just couldn't afford bigger ones.</p>
+          <p>On the other hand, the wide range of plays and films to choose <NS type="MT"><c>from</c></NS> impressed me <NS type="MD"><c>the</c></NS> most. I thank you for organizing it, and hope to see more next year.</p>
+          <p>I also thank you for the excellent idea of <NS type="MV"><c>having</c></NS> one ticket for all events, which allowed me to see all the things I was interested in.</p>
+          <p>My suggestion for next year's festival is simple - please make it a few days longer!</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Friend,</p>
+          <p>Thank you for your last letter - I was very pleased to receive it. If you really want to hear about school rules in my country, I'll try to write about them <NS type="RY"><i>in a nutshell</i><c>briefly</c></NS>.</p>
+          <p>We do not have many school rules, and the teachers are rather liberal. We don't have to wear any special uniforms <NS type="SX"><i>on</i><c>or</c></NS> <NS type="RN">signs</NS> of our school. Some rules are really simple: we must be at school on time, and we must not disturb others during <NS type="UD"><i>the</i></NS> classes. We are not allowed to smoke cigarettes or drink alcohol of course! In <NS type="FN"><i>winters</i><c>winter</c></NS> we are to change our shoes. It may sound funny, but mud, gravel and snow lying on the <NS type="UP"><i>school's</i><c>school</c></NS> floors is not a nice sight, so we change our <NS type="S"><i>schoes</i><c>shoes</c></NS> without questioning that rule. I am also used to <NS type="FV"><i>write</i><c>writing</c></NS> exams which are <NS type="W"><i>in <NS type="RP"><i>polish</i><c>Polish</c></NS> schools very often</i><c>very often in Polish schools</c></NS>.</p>
+          <p>At home I don't have many rules either. I must wash the dishes from time to time (I sometimes try to avoid this unpleasant duty) and clean our house.</p>
+          <p>I don't think there is anything I'd like to change. I'm very pleased with my situation and I hope you are pleased with yours!</p>
+          <p><NS type="L"><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully</NS>,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

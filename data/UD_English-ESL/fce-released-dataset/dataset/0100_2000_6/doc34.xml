@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR140*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>Thanks for your letter<NS type="RP"><i>,</i><c>.</c></NS> I am so glad that I have won first prize in your competition. And thanks again for <NS type="FV"><i>offer</i><c>offering</c></NS> me two weeks at Camp California in the U.S.A.</p>
+          <p>As you asked, I think I'd like to travel only in July, because I am quite busy with my job. July is the only free time that I have. And I prefer tents to log cabins, as I know tents better than log cabins. I used to sleep in <NS type="MD"><c>a</c></NS> tent once on my holiday, and <NS type="MD"><c>a</c></NS> tent is more suitable for camping.</p>
+          <p>It is very kind <NS type="RT"><i>for</i><c>of</c></NS> you to give me the chance to do two activities while I am at the Camp. I'd like to <NS type="RV"><i>have</i><c>do</c></NS> climbing and sailing. Actually I am quite good at climbing. I often go climbing in my town. <NS type="ID"><i>For</i><c>As for</c></NS> sailing, well, I haven't <NS type="TV"><i>try</i><c>tried</c></NS> it before<NS type="RP"><i>, that</i><c>. That</c></NS> is why I want to have a <NS type="RV"><i>try</i><c>go</c></NS>. I think it must be fun.</p>
+          <p>As you said, all accommodation and travel costs are paid <NS type="UT"><i>for</i></NS>, but I am sure I still need <NS type="MV"><c>to take</c></NS> some money with me. How much do you think that I will need<NS type="RP"><i>.</i><c>?</c></NS> By the way<NS type="MP"><c>,</c></NS> what kinds of clothes do you think I have to <NS type="RV"><i>get</i><c>take</c></NS> with me? And is there anything <NS type="S"><i>eles</i><c>else</c></NS> I have to <NS type="RV"><i>get</i><c>take</c></NS> with me?</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>I think most people will agree <NS type="R"><i>with</i><c>that</c></NS> "shopping is not always enjoyable"<NS type="RP"><i>. Because</i><c>, because</c></NS> so far as I know nothing is enjoyable all the time.</p>
+          <p>Some people might say women just love shopping, they couldn't stop thinking about <NS type="RV"><i>doing</i><c>going</c></NS> shopping. Yes, it is true<NS type="RP"><i>, this</i><c>. This</c></NS> is only because nowadays people have more money than <NS type="RY"><i>even</i><c>ever</c></NS> before, and some women don't earn money<NS type="RP"><i>, they</i><c>. They</c></NS> have no idea how <NS type="S"><i>diffcult</i><c>difficult</c></NS> <NS type="M"><c>it is</c></NS> to earn <NS type="UD"><i>the</i></NS> money. Women just love spending money in shops. Just imagine if one day their husbands lost their jobs<NS type="RP"><i>, will</i><c>. Will</c></NS> those women still <NS type="TV"><i>thinking</i><c>think</c></NS> shopping is enjoyable! So it <NS type="UV"><i>is</i></NS> <NS type="AGV"><i>depend</i><c>depends</c></NS> on <NS type="R"><i>different</i><c>the</c></NS> case.</p>
+          <p><NS type="ID"><i>For</i><c>As for</c></NS> me, I don't think shopping is enjoyable at all. I even hate shopping. I <NS type="RY"><i>only</i><c>never</c></NS> go <NS type="FV"><i>to shop</i><c>shopping</c></NS> unless I really need something. Shopping is just like a nightmare to me<NS type="RP"><i>,</i><c>.</c></NS> I think I will never understand why people love shopping. How can you <NS type="RV"><i>face</i><c>look</c></NS> <NS type="MT"><c>at</c></NS> the same goods at the same shop all the time. I think most men have the same opinion as I do.</p>
+          <p>Some women spend their whole life <NS type="UV"><i>doing</i></NS> shopping, and most of <NS type="MD"><c>the</c></NS> <NS type="FN"><i>times</i><c>time</c></NS>, they don't buy many things. In my eyes they are wasting their <NS type="IN"><i>lifes</i><c>lives</c></NS>, they are hopeless.</p>
+          <p>Those are only my opinions<NS type="RP"><i>, you</i><c>. You</c></NS> don't need to agree with <NS type="AGA"><i>it</i><c>them</c></NS>, but one day you might <NS type="FV"><i>found</i><c>find</c></NS> out that what I have said is not totally wrong.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

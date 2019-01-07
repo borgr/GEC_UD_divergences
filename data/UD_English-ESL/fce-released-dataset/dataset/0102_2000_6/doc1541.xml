@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR594*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to complain about the musical show, which <NS type="R">gave me</NS> a very disappointing evening, while I was staying in London.</p>
+          <p>Firstly, there was a different actor instead of the famous actor<NS type="UP"><i>,</i></NS> Danny Brook. That <NS type="RV"><i>made</i><c>left</c></NS> me so disappointed. Secondly, I <NS type="RV"><i><NS type="TV"><i>suppose</i><c>supposed</c></NS></i><c>thought</c></NS> the show <NS type="TV"><i>will</i><c>would</c></NS> start at 19:30, but it started <NS type="S"><i>t</i><c>at</c></NS> 20:15. It caused me <NS type="FV"><i>missed</i><c>to miss</c></NS> the train and I went back to the hotel <NS type="M"><c>when it was</c></NS> nearly <NS type="U"><i>in the</i></NS> <NS type="UP"><i>mid-night</i><c>midnight</c></NS>. Another problem is<NS type="UP"><i>,</i></NS> I <NS type="RV"><i>realised</i><c>thought</c></NS> that <NS type="UD"><i>the</i></NS> discounts were available. However, there wasn't any discount. Additionally, the advertisement said I <NS type="TV"><i>can</i><c>could</c></NS> visit the <NS type="S"><i>threatre</i><c>theatre</c></NS> restaurant after the show. When I arrived, it was closed. <NS type="RA"><i>That</i><c>It</c></NS> is so annoying that everything <NS type="TV"><i>had been</i><c>was</c></NS> changed without any notice.</p>
+          <p>I <NS type="TV"><i>expected</i><c>expect</c></NS> to receive <NS type="RD"><i>the</i><c>my</c></NS> money back within <NS type="UD"><i>these</i></NS> two days. Otherwise I <NS type="R">would like</NS> to take <NS type="UD"><i>the</i></NS> <NS type="R"><i>other</i><c>further</c></NS> action.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+          <p>Silvie.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping <NS type="S"><i>secrects</i><c>secrets</c></NS>. I told Pat everything even my <NS type="S"><i>secrects</i><c>secrets</c></NS> when we were still friendly. However, we are not friends anymore because of a <NS type="S"><i>secrect</i><c>secret</c></NS> <NS type="R">in the past</NS>.</p>
+          <p>It <NS type="TV"><i>was</i><c>is</c></NS> a very long time since I was in Year 7. I told Pat that my father and mother were going to <NS type="S"><i>seperate</i><c>separate</c></NS>. I told her because I wanted somebody to share my <NS type="FN"><i>feeling</i><c>feelings</c></NS>. <NS type="RP"><i>May be</i><c>Maybe</c></NS> it was <NS type="RD"><i>a</i><c>the</c></NS> wrong decision to tell her<NS type="RP"><i>, she</i><c>. She</c></NS> began to <NS type="RV"><i>spread</i><c>share</c></NS> that <NS type="S"><i>secrect</i><c>secret</c></NS> <NS type="RT"><i>to</i><c>with</c></NS> everybody<NS type="MP"><c>,</c></NS> including the teachers. They tried to contact <NS type="UT"><i>with</i></NS> my parents. My parents were very angry when they realised what <NS type="TV"><i>happened</i><c>had happened</c></NS>. All my friends were trying to <NS type="FV"><i>kept</i><c>keep</c></NS> <NS type="RD"><i>a</i><c>their</c></NS> distance <NS type="RT"><i>with</i><c>from</c></NS> me. That was all because of Pat.</p>
+          <p><NS type="RY"><i>At last</i><c>Finally</c></NS>, I decided to go to <NS type="RQ"><i>the other</i><c>another</c></NS> school and I will not tell any <NS type="S"><i>secrect</i><c>secret</c></NS> to <NS type="RA"><i>the others</i><c>anyone</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

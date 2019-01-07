@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1027*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir, I am writing to complain about the arrangements for the musical show "Over the Rainbow". I was spending some days in London and <NS type="RV"><i>enjoyed</i><c>liked</c></NS> <NS type="W"><i>a lot the idea of seeing this show</i><c>the idea of seeing this show a lot</c></NS>. <NS type="UQ"><i>All my</i><c>My</c></NS> disappointment started when we noticed that there were no discounts available for the tickets, but as we wanted to see Danny Brook's performance, we decided to buy them anyway. We got really upset when we realized he <NS type="TV"><i>was being</i><c>had been</c></NS> substituted. The show was scheduled for 19:30 but it only started at 20:15. Besides the boredom of having <NS type="FV"><i>waited</i><c>to wait</c></NS> for forty-five minutes, we were not allowed to visit the restaurant after the show, since it was already closed by the time the show finished. As it was not our perfect evening out, as you <NS type="RV"><i>suggested</i><c>promised</c></NS> in your advertisement, we would like to know if it would be possible for us to get a refund. I look forward to your response. Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Best Detective Stories of Agatha Christie</p>
+          <p>Dear Ted,</p>
+          <p>I'm writing to tell you about a great book I've just finished reading, and which I'm sure you would like to read too. Its name is "Best Detective Stories of Agatha Christie", and I really <NS type="RV"><i>got</i><c>was</c></NS> <NS type="DJ"><i>impressioned</i><c>impressed</c></NS> with the coherence of the stories.</p>
+          <p>Agatha Christie presents situations that <NS type="ID">make us break up our minds</NS>. The crimes she describes seem so perfect that we <NS type="RV"><i>brainstorm</i><c>think</c></NS> a lot trying to find out who is the criminal.</p>
+          <p>I thought about you while reading the book because I remembered you have booked a place <NS type="RT"><i>in</i><c>on</c></NS> a Detective course. I'm sure you'll find this book an interesting object of study. Agatha <NS type="MP"><i>Christies</i><c>Christie's</c></NS> stories are simple, but very well written, and, as I told you, very coherent. It's <NS type="S"><i>estimulating</i><c>stimulating</c></NS> to read them.</p>
+          <p>One of the stories will be read on the radio next week. I'm sure that if you listen to it you will start reading the book immediately, and find out there <NS type="MV"><c>are</c></NS> many challenges <NS type="RT"><i>for</i><c>in</c></NS> your new <NS type="S"><i>carreer</i><c>career</c></NS>.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Best wishes,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

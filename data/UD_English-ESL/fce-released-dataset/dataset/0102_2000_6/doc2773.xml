@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1127*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear sir,</p>
+          <p>I am writing to draw your attention to the musical show that <NS type="RV"><i>was</i><c>took</c></NS> place <NS type="RJ"><i>last</i><c>yesterday</c></NS> evening. None of <NS type="MD"><c>the</c></NS> conditions <NS type="AGV"><i>was</i><c>were</c></NS> fulfilled: firstly, Danny Brook, who was going to perform in the show, was changed <NS type="RT"><i>by</i><c>for</c></NS> another actor. As a result it was a disappointing performance. Furthermore, the show started at 20:15 while the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> said that it was going to begin at 19:30.</p>
+          <p><NS type="ID"><i>On the other hand</i><c>Furthermore</c></NS>, <NS type="UA"><i>it</i></NS> there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any discounts <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="R"><i>sell</i><c>price</c></NS> of the tickets.</p>
+          <p>To make matters worse, when the show finished we couldn't visit the theatre restaurant because of the fact that it was closed (since it was being painted).</p>
+          <p>I am very surprised that such a reputable theatre like yours has been able to break all <NS type="MD"><c>the</c></NS> promises that <NS type="RV"><i>appeared</i><c>were made</c></NS> in the <NS type="S"><i>advertisment</i><c>advertisement</c></NS>. Of course, what <NS type="UA"><i>it</i></NS> was going to be a perfect evening out turned into a very disappointing evening, and I would <NS type="MV"><c>be</c></NS> very <NS type="S"><i>greatful</i><c>grateful</c></NS> if you <NS type="MV"><c>could</c></NS> refund me <NS type="R"><i>a compensation</i><c>the price of my ticket</c></NS>.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>What will clothes be like 100 years from now?</p>
+          <p>I imagine <NS type="RA"><i>it</i><c>they</c></NS> will be very different. <NS type="AGN"><i><NS type="S"><i>Sciencist</i><c>Scientist</c></NS></i><c>Scientists</c></NS> will <NS type="FV"><i>invented</i><c>invent</c></NS> new materials that will keep the <NS type="MN"><c>body's</c></NS> temperature in a suitable range. In that way people won't feel cold or hot, they will <NS type="W"><i>be always</i><c>always be</c></NS> at the same temperature. In addition these new <NS type="AGN"><i>material</i><c>materials</c></NS> <NS type="X"><i>won't</i><c>will</c></NS> <NS type="DV"><i>weight</i><c>weigh</c></NS> hardly anything.</p>
+          <p><NS type="ID"><i>As well</i><c>As well as that</c></NS>, people won't be as worried about fashion as <NS type="S"><i>nowaday</i><c>nowadays</c></NS>, however<NS type="MP"><c>,</c></NS> it will be very important that clothes are comfortable and suitable for your work and daily duties as well as sport <NS type="RC"><i>or</i><c>and</c></NS> everything you have to do. For that reason clothes will be <NS type="IJ"><i>simplier</i><c>simpler</c></NS> and more <NS type="DJ"><i>practise</i><c>practical</c></NS>.</p>
+          <p>Besides, everybody will be able to afford to buy <NS type="MA"><c>them</c></NS> then <NS type="MP"><i>that's</i><c>. That's</c></NS> <NS type="RC"><i>why</i><c>because</c></NS> the <NS type="RN"><i>prize</i><c>price</c></NS> of this sort of material will be very <NS type="RJ"><i>available</i><c>affordable</c></NS>.</p>
+          <p>Of course, the resources used and <NS type="MD"><c>the</c></NS> manufacturing <NS type="MN"></NS> will be completely harmless for the <NS type="S"><i>enviroment</i><c>environment</c></NS> because people will be more aware of the <NS type="S"><i>neccesity</i><c>necessity</c></NS> of taking care of the world we live in.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

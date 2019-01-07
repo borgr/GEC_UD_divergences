@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR432*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Circle <NS type="SA"><i>Theater</i><c>Theatre</c></NS></p>
+          <p>To Mr. Smith, Circle <NS type="SA"><i>Theater</i><c>Theatre</c></NS>'s manager</p>
+          <p>20th June 2000</p>
+          <p>Dear Mr Smith,</p>
+          <p><NS type="ID">By the following</NS>, I would like to inform you that <NS type="TV"><i><NS type="RV"><i>I've assisted</i><c>I've attended</c></NS></i><c>I attended</c></NS> your new musical show, <NS type="MD"><c>the</c></NS> <NS type="W"><i>which name</i><c>name of which</c></NS> is "Over the rainbow", last Saturday evening, 10th June. I'm writing <NS type="MT"><c>to</c></NS> you to make a complaint <NS type="RT"><i>on</i><c>about</c></NS> your advertisement, which I consider <NS type="UT"><i>like</i></NS> a lying advertisement. Let me explain <NS type="MT"><c>to</c></NS> you why I'm now so disappointed. <NS type="RV"><i><NS type="TV"><i>I've spent</i><c>I spent</c></NS></i><c>I had</c></NS> one <NS type="MP"><i>week</i><c>week's</c></NS> holiday in London with my husband for our honeymoon. We had <NS type="S"><i>preparred</i><c>prepared</c></NS> <NS type="MA"><c>this</c></NS> <NS type="SX"><i>quiet</i><c>quite</c></NS> a long time ago, this <NS type="RN"><i>travel</i><c>trip</c></NS> to the capital and <NS type="RV"><i>spared</i><c>saved</c></NS> a lot of money as well.</p>
+          <p>We are both very keen on <NS type="RN"><i>musical shows</i><c>musicals</c></NS>. We've already <NS type="RV"><i>attended</i><c>seen</c></NS> "Cats", the "Phantom of the Opera", "les Miserables", "Grease", and so many others. When we saw your leaflet <NS type="MA"><c>that</c></NS> <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> "London's newest and best musical show", we were so enthusiastic and curious that we <NS type="W"><i>bought immediately</i><c>immediately bought</c></NS> the tickets. On the <NS type="UV"><i>waiting</i></NS> evening, <NS type="W"><i>at the entrance stood people</i><c>people stood at the entrance</c></NS><NS type="UP"><i>,</i></NS> who were shouting at you because there <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> any discounts available. One thing that you promised on your leaflet. We didn't have trouble <NS type="FV"><i>to find</i><c>finding</c></NS> our seats, but we found <NS type="MA"><c>it</c></NS> very annoying to <NS type="FV"><i>have waited</i><c>wait</c></NS> 45 minutes before the show <NS type="TV"><i><NS type="RV"><i>goes on</i><c>starts</c></NS></i><c>started</c></NS> and more <NS type="MC"><c>than</c></NS> that your famous actors <NS type="W"><i>weren't <NS type="RY"><i>absolutely</i><c>definitely</c></NS></i><c>definitely weren't</c></NS> Mr Brook and Mrs Truelove and we can also add that your restaurant wasn't opened because of <NS type="DN"><i>hygienic</i><c>hygiene</c></NS> <NS type="RN"><i>troubles</i><c>problems</c></NS>. I can say now that "It wasn't my perfect evening out" and I <NS type="W"><i>request now</i><c>now request</c></NS> some money back for all these <NS type="RN"><i>disagreements</i><c>annoyances</c></NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>To International Post magazine</p>
+          <p>Application for the shopping trip to New York</p>
+          <p>Dear Sir or Madam,</p>
+          <p>Please find enclosed my <NS type="RN"><i>thinking</i><c>thoughts</c></NS> about the fashion of the future. First of all, I think we should consider the <NS type="RN"><i>manner</i><c>way</c></NS> <NS type="W"><i><NS type="RY"><i>actually</i><c>at present</c></NS> <NS type="U"><i>how the</i></NS> people are dressing</i><c>people are dressing at present</c></NS> to see how it's going to be <NS type="IV"><i>developped</i><c>developed</c></NS> <NS type="RT"><i>into</i><c>in</c></NS> the future. Everyone has <NS type="SX"><i>is</i><c>his</c></NS> own style but it's obvious that many of us <NS type="AGV"><i>is</i><c>are</c></NS> wearing the same clothes <NS type="RT"><i>like</i><c>as</c></NS> others. We all follow the new collection on the market. Today it's wearing <NS type="UP"><i>short-trousers</i><c>short trousers</c></NS> and yesterday <NS type="MA"><c>it</c></NS> was wearing <NS type="RJ"><i><NS type="UP"><i>broken-jeans</i><c>broken jeans</c></NS></i><c>torn jeans</c></NS>. What we wear is also influenced by models, <NS type="MD"><c>the</c></NS> <NS type="CN"><i>medias</i><c>media</c></NS>, or new <NS type="AGN"><i>collection</i><c>collections</c></NS>, which come from Paris, London, or New York. These new clothes are often very expensive<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that's</i><c>which's</c></NS> <NS type="W"><i><NS type="MY"><c>why</c></NS> maybe</i><c>maybe why</c></NS> not everyone can afford to buy himself the newest clothes on the market. In 100 years, it's possible that <NS type="R"><i>each people</i><c>everyone</c></NS> will <NS type="S"><i>developp</i><c>develop</c></NS> his own style using all the new materials like plastic, latex<NS type="MP"><c>,</c></NS> everything possible, <NS type="RT"><i>in</i><c>as</c></NS> a way to create <NS type="MD"><c>their</c></NS> own clothes.</p>
+          <p>In my opinion, I think that people will <NS type="X"><i>wear no</i><c>not wear</c></NS> clothes anymore, just <NS type="FV"><i>being</i><c>be</c></NS> natural, <NS type="MV"><c>being</c></NS> nude and feeling free, like many many years before. Because, I think that people need to find <NS type="W"><i>again their authenticity</i><c>their authenticity again</c></NS>.</p>
+          <p>I <NS type="RV"><i>wish</i><c>hope</c></NS> that my article <NS type="RV"><i>comes</i><c>appears</c></NS> in your magazine.</p>
+          <p>With Best regards.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

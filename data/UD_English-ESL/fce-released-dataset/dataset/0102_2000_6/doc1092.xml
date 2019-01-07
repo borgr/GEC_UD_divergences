@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR441*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I'm writing in order to complain about your current musical show<NS type="MP"><c>,</c></NS> which I saw last week. It didn't go <NS type="UT"><i>on</i></NS> as I had expected and I was really <NS type="R"><i>let down</i><c>disappointed</c></NS> when it finished.</p>
+          <p>Firstly, it was <NS type="MV"><c>meant</c></NS> to start at 19:30 <NS type="R"><i>a</i><c>and</c></NS> I bought my ticket for the evening <NS type="RN"><i>session</i><c>performance</c></NS>. However, it began at 20:15. I would have understood a little bit of waiting time, but everybody agreed that this was too long.</p>
+          <p>Second, instead of <NS type="RV"><i>being starred</i><c>starring</c></NS> <NS type="UT"><i>by</i></NS> Danny Brook, the musical was <NS type="FV"><i>starred</i><c>starring</c></NS> <NS type="UT"><i>by</i></NS> another actor, who I found really disappointing. Although he sung quite well he danced terribly and that spoiled part of the show.</p>
+          <p>I asked <NS type="RT"><i>for</i><c>about</c></NS> the discounts available as we were a group of 15 people, but the answer I was given was that nobody had ever heard of them.</p>
+          <p>In addition, we had planned to have dinner at the theatre restaurant but it was closed as it closes every Thursday. I think that there's no point in having a restaurant which closes the day <NS type="UT"><i>of</i></NS> <NS type="R"><i>main</i><c>the</c></NS> audience <NS type="M"><c>is largest</c></NS>.</p>
+          <p>Finally, I just want to say that the perfect evening that the advertisement <NS type="RV"><i>said</i><c>promised</c></NS> and that we all <NS type="RV"><i>wished</i><c>wanted</c></NS> turned out to be <NS type="UD"><i>a</i></NS> <NS type="DJ"><i>regret</i><c>regrettable</c></NS> <NS type="RT"><i>for</i><c>because of</c></NS> the wasted money. That's why I'd like to ask if you could give me some money back. I'm <NS type="RV"><i>including</i><c>enclosing</c></NS> my ticket and this list of complaints <NS type="R">as the reason for returning</NS> some money.</p>
+          <p>I'm looking forward to receiving your decision.</p>
+          <p>Yours Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>My daily life has changed quite a lot with modern technology. I live more comfortably and <NS type="M"><c>I am</c></NS> even more carefree than <NS type="RQ"><i>some</i><c>a few</c></NS> years ago. I've been able to improve some things that <NS type="RV"><i>could</i><c>would</c></NS> have annoyed me <NS type="R"><i>some</i><c>a little</c></NS> <NS type="RN"><i>time</i><c>while</c></NS> ago, and although they're mainly little changes they make me notice that my life is easier.</p>
+          <p>At home, for example, my <NS type="RN"><i>waking up</i><c>alarm</c></NS> is no <NS type="RJ"><i>more</i><c>longer</c></NS> a <NS type="RJ"><i>surrounding</i><c>deafening</c></NS> sound that breaks the silence and peace of my dreams, it is now the good-morning of my favourite radio <NS type="SA"><i>program</i><c>programme</c></NS>, set to start at seven o'clock. Then, when I was younger I would have to put the milk on the <NS type="RN"><i>fire</i><c>hob</c></NS> and wait until it was warm enough to drink. Nowadays, almost everybody <NS type="AGV"><i>have</i><c>has</c></NS> a <NS type="FN"><i>microwaves</i><c>microwave</c></NS> oven, where you put your milk <NS type="MT"><c>for</c></NS> less than two <NS type="S"><i>minuts</i><c>minutes</c></NS> and it is ready to delight your mouth. Another thing <NS type="AGV"><i>are</i><c>is</c></NS> the fifty-two steps which take me to the street. They have become as easy as calling <NS type="RD"><i>the</i><c>a</c></NS> lift, without <NS type="M"><c>making me</c></NS> <NS type="FV"><i>feeling</i><c>feel</c></NS> tired or <NS type="UD"><i>even</i></NS> breathless<NS type="UP"><i>,</i></NS> when I <NS type="TV"><i>was</i><c>am</c></NS> in a hurry.</p>
+          <p>Thanks to my mobile phone I can go out <NS type="UY"><i>until</i></NS> later at night, as my parents can know where I am whenever they want. Also, with the development of <NS type="MD"><c>the</c></NS> Internet and its <NS type="RN"><i>arriving</i><c>arrival</c></NS> <NS type="RT"><i>to</i><c>at</c></NS> a great number of homes, I can have any information I need at any time I want.</p>
+          <p>In brief, <NS type="R"><i>my life is</i><c>I am</c></NS> <NS type="ID"><i>taking the most out of</i><c>making the most of</c></NS> the discoveries <NS type="RT"><i>in</i><c>of</c></NS> science and technology and <NS type="ID"><i>it can't be hidden</i><c>I can't conceal</c></NS> that I'm really glad of that.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

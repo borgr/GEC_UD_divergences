@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR182*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am shocked that I won first prize in this competition. It will be a great adventure to visit Camp California.</p>
+          <p>I am writing to inform you that I would like to travel in July. The reason is that I am a full-time student <NS type="RT"><i>on</i><c>at</c></NS> Cracow University and I have many exams at the end of <NS type="MD"><c>the</c></NS> semester, which is in June. I hope that it is not a problem.</p>
+          <p>I would like you to know that I prefer a tent. I think it is much better than a log cabin. <NS type="S"><i>Aspecially</i><c>Especially</c></NS> in the summer when <NS type="MD"><c>the</c></NS> <NS type="S"><i>tempereture</i><c>temperature</c></NS> and humidity are very high.</p>
+          <p>From the list of all <NS type="MD"><c>the</c></NS> activities I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> photography and golf. Since secondary school I <NS type="TV"><i>am</i><c>have been</c></NS> very interested in taking pictures and I have <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>big</i><c>broad</c></NS> experience <NS type="RT"><i>in</i><c>of</c></NS> it. I have <NS type="IV"><i>choosen</i><c>chosen</c></NS> golf because I have never played <NS type="UT"><i>in</i></NS> this game.</p>
+          <p>Please, send me any information <NS type="RT"><i>of</i><c>about</c></NS> what <NS type="W"><i>should I</i><c>I should</c></NS> take with me. Should I bring my camera, warm clothes or any pocket money? I am waiting for your reply.</p>
+          <p>Yours sincerely</p>
+          <p>Rafael Szymanski</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>Thank you for your latest letter. It was really very nice. I know that you're waiting for any information about <NS type="RD"><i>a</i><c>the</c></NS> concert. Here it comes...</p>
+          <p>My friend offered me a job as a member of <NS type="MD"><c>the</c></NS> <NS type="S"><i>techical</i><c>technical</c></NS> staff <NS type="RT"><i>on</i><c>at</c></NS> Sting's concert. I love his music and I collect his albums so I was very happy that I helped his crew.</p>
+          <p>Our job was to prepare the <NS type="RN"><i>scene</i><c>stage</c></NS>. We've built it using ready metal and <NS type="S"><i>wodden</i><c>wooden</c></NS> parts. It was really big and impressive. Then we had to plug <NS type="MY"><c>in</c></NS> all electric instruments, speakers, lights and microphones. I was working with a specialist who had to connect all <NS type="MD"><c>the</c></NS> lights together to one computer and prepare a <NS type="SA"><i>colorful</i><c>colourful</c></NS> show. It was a totally new experience for me and a real pleasure <NS type="UT"><i>of</i></NS> working with <NS type="DN"><i>professionalists</i><c>professionals</c></NS>.</p>
+          <p>It was a hard and complicated job but we all had a lot of satisfaction during the concert. Even Mr. Sting came to us to thank <NS type="MA"><c>us</c></NS> for our help.</p>
+          <p>I hope that you liked my story. Send me your opinion about that.</p>
+          <p>I <NS type="RV"><i>wish</i><c>hope</c></NS> to see your letter soon</p>
+          <p>Rafael</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

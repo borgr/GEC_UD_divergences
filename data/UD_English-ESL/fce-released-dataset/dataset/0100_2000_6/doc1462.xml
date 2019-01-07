@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR567*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing this letter to let you know my decision <NS type="RT"><i>about</i><c>in</c></NS> <NS type="M"><c>reply to</c></NS> your letter, which I have received recently. I would like to thank you for <NS type="MD"><c>the</c></NS> competition which was organised by your agency and I must say that I was very surprised when I received the result of the competition.</p>
+          <p>I think<NS type="UP"><i>,</i></NS> I could have <NS type="FD"><i>an</i><c>a</c></NS> holiday <NS type="RY"><i>just</i><c>only</c></NS> in July because I will have been working <NS type="RT"><i>in</i><c>for</c></NS> my <NS type="UJ"><i>previous</i></NS> company for one year by the end of the June and I will have a <NS type="MP"><i>one month</i><c>one-month</c></NS> holiday <NS type="UN"><i>period</i></NS> from my company. I would <NS type="UY"><i>rather</i></NS> prefer to stay in <NS type="RD"><i>the</i><c>a</c></NS> tent than <NS type="FV"><i>to stay</i><c>stay</c></NS> in the log cabin because <NS type="RD"><i>the</i><c>a</c></NS> tent is more enjoyable.</p>
+          <p>I might say that I am really good at swimming and <NS type="S"><i>sailling</i><c>sailing</c></NS> because I have been <NS type="RV"><i>joining</i><c>doing</c></NS> these kinds of activities for five <NS type="AGN"><i>year</i><c>years</c></NS> and I <NS type="TV"><i>had</i><c>have had</c></NS> <NS type="MD"><c>a</c></NS> really good training <NS type="RT"><i>about</i><c>in</c></NS> <NS type="DN"><i>sea-sports</i><c>water sports</c></NS>.</p>
+          <p>Should I take my clothes with me or are they <NS type="RV"><i>arranged</i><c>provided</c></NS> in the camp <NS type="RN">placement</NS>? Also, how much does it cost<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>I am looking <NS type="MY"><c>forward</c></NS> to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>I hope you and all your family are well and everything is <NS type="RP"><i>ok</i><c>OK</c></NS>. I'd like to tell you about <NS type="R"><i>what</i><c>the</c></NS> exciting experience I had last month during a pop concert. I wish you <NS type="TV"><i>were</i><c>had been</c></NS> there and <NS type="TV"><i>saw</i><c>seen</c></NS> the concert, it was really brilliant.</p>
+          <p>As you know<NS type="MP"><c>,</c></NS> I'd never been to any activities <NS type="RT"><i>like</i><c>as</c></NS> <NS type="UV"><i>to be</i></NS> a <NS type="S"><i>valunteer</i><c>volunteer</c></NS> before. The concert tickets were very expensive and I'd seen an <NS type="S"><i>adversitement</i><c>advertisement</c></NS> on <NS type="UD"><i>the</i></NS> <NS type="RP"><i>tv</i><c>TV</c></NS>. It said, "<NS type="RP"><i>be</i><c>Be</c></NS> a <NS type="S"><i>valunteer</i><c>volunteer</c></NS> <NS type="RT"><i>for</i><c>at</c></NS> our concert and get a free ticket<NS type="RP"><i>".</i><c>."</c></NS> After that I applied and they accepted my application.</p>
+          <p>You should have seen <NS type="MA"><c>it</c></NS>, there was <NS type="MD"><c>a</c></NS> really terrible rush before <NS type="MD"><c>the</c></NS> concert and everybody was <NS type="IV"><i>runing</i><c>running</c></NS> around <NS type="FV"><i>to do</i><c>doing</c></NS> something. I helped to carry huge speakers to the concert venue. <NS type="SX"><i>Than</i><c>Then</c></NS> I was told to stay in front of the entrance <NS type="UN"><i>door</i></NS> and check the tickets. Some people tried to enter without <NS type="R"><i>any</i><c>a</c></NS> ticket but they weren't allowed <NS type="M"></NS> by <NS type="MD"><c>the</c></NS> police.</p>
+          <p>Finally, I helped them<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> in return I had <NS type="MD"><c>a</c></NS> good experience as well as <NS type="FV"><i>enjoyed</i><c>enjoying</c></NS> listening <NS type="MT"><c>to</c></NS> <NS type="MD"><c>the</c></NS> music.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

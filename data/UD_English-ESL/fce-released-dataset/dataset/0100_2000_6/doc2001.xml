@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR800*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan:</p>
+          <p>I am so happy to know that I have won first prize in your competition.</p>
+          <p>As you asked me to send you further information about three points, I am sending you my preferences as follows:</p>
+          <p>1. - I would prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i><NS type="SX"><i>long</i><c>log</c></NS> cabins</i><c>log cabin</c></NS> rather than <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS>, because it is much more comfortable.</p>
+          <p>2. - I have chosen singing and painting as activities, because I love painting<NS type="MP"><c>,</c></NS> moreover, I am very good at it, and singing because <NS type="MA"><c>it</c></NS> is one of my talents.</p>
+          <p>3. - I would prefer to travel only in July because at the moment I am alone at home and I have to take care of my little sister.</p>
+          <p>I would like to know<NS type="UP"><i>,</i></NS> what kind of clothes <NS type="UV"><i>do</i></NS> I have to take with me and <NS type="RP"><i>How</i><c>how</c></NS> much money will I need <NS type="U"><i>as well</i></NS>?</p>
+          <p>Thanks in advance for <NS type="DD"><i>you</i><c>your</c></NS> advice.</p>
+          <p>yours <NS type="S"><i>sinicrely</i><c>sincerely</c></NS></p>
+          <p>Bety</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>I am writing to you to tell you what an <NS type="DJ"><i>impressing</i><c>impressive</c></NS> experience I have had<NS type="UP"><i>,</i></NS> helping at a pop concert.</p>
+          <p>I will start <NS type="MT"><c>by</c></NS> telling you how crowded it was, <NS type="UD"><i>the</i></NS> people <NS type="AGV"><i>was</i><c>were</c></NS> so excited that they were screaming from the beginning to the end. I couldn't even hear my own voice.</p>
+          <p>I cleared the stage before the concert, but you <NS type="RV"><i>don't</i><c>can't</c></NS> imagine <NS type="R"><i>how</i><c>what</c></NS> it looked like after it?!!! full of flowers, <NS type="RP"><i>T. shirts</i><c>T-shirts</c></NS>, hats, underwear, etc etc etc. I <NS type="RV"><i>didn't</i><c>couldn't</c></NS> feel my feet the next day, I was very tired.!! Anyway, I also laughed a lot, the music was fantastic, and the stars were really nice to <NS type="RP"><i>every one</i><c>everyone</c></NS>.</p>
+          <p>I tried to take a photo of everyone, but sometimes it was not possible. I will send you a copy of the best pictures the next time.</p>
+          <p>bye-bye.</p>
+          <p>Bety</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

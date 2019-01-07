@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR358*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have happily received your reply <NS type="UN"><i>letter</i></NS> and I want to thank you for this <NS type="SA"><i>marvelous</i><c>marvellous</c></NS> prize you have given me. Now to answer your questions, I can only travel in July because that's the only <NS type="RN"><i>period</i><c>month</c></NS> of the year I can get out of working for more than two weeks. I would like a log cabin because I think you should <NS type="RV"><i>give</i><c>provide</c></NS> me <NS type="R"><i>a</i><c>with</c></NS> good accommodation and not just a tent to sleep in, with no electricity <NS type="RC"><i>and</i><c>or</c></NS> entertainment. I would like to play basketball and tennis <NS type="U"><i>for you</i></NS>. I am a regular basketball player. Most of the time I play as a slammer and I do feel that I'm reasonably good <NS type="RT"><i>in</i><c>at</c></NS> it. <NS type="R"><i>At</i><c>As to</c></NS> tennis I'm the best player <NS type="RT"><i>of</i><c>in</c></NS> my whole school and<NS type="MP"><c>,</c></NS> once, I got <NS type="RT"><i>to</i><c>into</c></NS> the top 10 of my <NS type="MP"><i>country</i><c>country's</c></NS> <NS type="UT"><i>in</i></NS> tennis <NS type="MN"><c>players</c></NS>.</p>
+          <p>I would like to ask you what type of clothes <NS type="W"><i>should I</i><c>I should</c></NS> bring? <NS type="W"><i>Money, how much should I bring</i><c>How much money should I bring</c></NS><NS type="RP"><i>.</i><c>?</c></NS> Would $200 be enough? Well that's all for now and I hope to hear from you soon.</p>
+          <p>Yours sincerely</p>
+          <p>Basilio Romero</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? I have just received your letter and let me tell you what you missed over here. You should have been here, it was amazing. The concert began at 8:00 p.m but my friends and I had to be there by 2:00 pm to help set up the stage. We started by putting up the lights. We had to climb up to 15m to put up those lights and afterwards the band didn't even use them. Well, we also had to carry all the instruments up <NS type="RT"><i>to</i><c>onto</c></NS> the stage and<NS type="MP"><c>,</c></NS> believe me, that was the hardest bit of all. They were extremely heavy and there were a lot of them on the bus. After helping to do that and many other things, my friends and I watched the concert and before Green day (the group) left, they came up to us an thanked us for all the hard work we did, and <NS type="IV"><i>shoke</i><c>shook</c></NS> our hands. I'll never wash my <NS type="FN"><i>hands</i><c>hand</c></NS> again. Well that's all the time I've got for you now. Hope to hear from you soon.</p>
+          <p>Basilio Romero</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

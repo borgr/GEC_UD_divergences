@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR196*0102*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Clark,</p>
+          <p>I am writing in response to your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> in <NS type="RP"><i>Today's</i><c>today's</c></NS> newspaper. I recently spent two days at the International <NS type="RP"><i>arts festival</i><c>Arts Festival</c></NS> and I found it very entertaining. It was <NS type="W"><i>really a</i><c>a really</c></NS> good idea to organize a festival containing such different shows.</p>
+          <p>The idea that I <NS type="RV"><i><NS type="IV"><i>prefered</i><c>preferred</c></NS></i><c>liked</c></NS> the most was <NS type="UV"><i>to suggest</i></NS> <NS type="RD"><i>a</i><c>the</c></NS> <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> weekend ticket for all events because a lot of <NS type="AGN"><i>student</i><c>students</c></NS> <NS type="RC"><i>or</i><c>and</c></NS> unemployed people could not afford to pay too much money.</p>
+          <p>I went to see a classical concert and, although the music played was excellent, <NS type="R"><i>he</i><c>the</c></NS> concert hall was too small. Furthermore, I had expected stars and artists from around the world, but they came from only six countries.</p>
+          <p>A friend of mine went to see the play "Hamlet" and the film "Gladiators". He told me how great <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> and I was thinking that it would be <NS type="UD"><i>a</i></NS> good to have more plays and films next year. In addition to this, I was wondering if you could organize the same festival in <NS type="MD"><c>the</c></NS> <NS type="S"><i>sommer</i><c>summer</c></NS>.</p>
+          <p>I am looking forward to hearing from you in the near future.</p>
+          <p>Yours <NS type="DY"><i>sincerly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Two sisters, Alex and Daniela<NS type="MP"><c>,</c></NS> were sitting in front of the fireplace thinking <NS type="RT"><i>of</i><c>about</c></NS> what they could do. That year, the winter in France was very cold. It was near Christmas and the two girls hadn't found <NS type="RD"><i>any</i><c>a</c></NS> present for their mother. <NS type="RV"><i>Offering</i><c>Giving</c></NS> Christmas presents was a tradition not <NS type="FV"><i>be</i><c>to be</c></NS> forgotten and <NS type="M"><c>there were</c></NS> only four days left. Alex suggested that it would be a good idea to go to the city to buy that present. Daniela agreed but she knew that it was snowing and that it was dangerous to walk <NS type="RT"><i>with</i><c>in</c></NS> this kind of weather. Anyway, Alex was too stubborn to give up and it was like talking to a brick wall: she didn't listen to her sister.</p>
+          <p>After forty minutes, the weather became very bad. It was such a pain to walk in the snow. However, Alex was not worried at all despite the fact that her sister was tired and cold. <NS type="UT"><i>In deep</i><c>Deep</c></NS> <NS type="RT"><i>of</i><c>within</c></NS> herself, Alex knew they were lost in the middle of nowhere, but she didn't want to admit it.</p>
+          <p><NS type="S"><i>Unfortuneatly</i><c>Unfortunately</c></NS>, Daniela fainted. She was so cold that she couldn't move her legs. Alex began to cry and to pray and when Daniela was about to die an <NS type="RN"><i>angle</i><c>angel</c></NS> appeared. He asked Alex if it was more important to <NS type="AS"><i><NS type="RV"><i>bring</i><c>take</c></NS> back a present at home</i><c>take a present back home</c></NS> or to save her sister. The answer was obvious and the angel saved Daniela.<NS type="UP"><i>.</i></NS> This story <NS type="IV"><i>happend</i><c>happened</c></NS> a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

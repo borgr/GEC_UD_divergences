@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR980*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam:</p>
+          <p>I am writing to ask about your advertisement and theatre show. I am a student in Liverpool, and recently I had a week's holiday in London. <NS type="M"><i>First</i><c>On my first</c></NS> day in London, I saw your advertisement which was very interesting to me. But I was really disappointed <NS type="MT"><c>by</c></NS> it.</p>
+          <p>First of all, there was only one actor that was different from your advertisement. Also, it was certain <NS type="RT"><i>to</i><c>for</c></NS> me <NS type="M"><c>to be able</c></NS> to <NS type="FV"><i>bought</i><c>buy</c></NS> a discount <NS type="AGN"><i>tickets</i><c>ticket</c></NS> <NS type="SX"><i>cause</i><c>because</c></NS> I am a student. But, it was not <NS type="RJ"><i><NS type="S"><i>availiable</i><c>available</c></NS></i><c>possible</c></NS>.</p>
+          <p>Second, I went to the theatre <NS type="MT"><c>at</c></NS> exactly seven thirty in the evening. However<NS type="MP"><c>,</c></NS> the show started 45 minutes later. I wasted <NS type="W"><i>time too much</i><c>too much time</c></NS> <NS type="UT"><i>for</i></NS> waiting. It was not good <NS type="RT"><i>to</i><c>for</c></NS> me, <NS type="SX"><i>cause</i><c>because</c></NS> I had only one <NS type="MP"><i>week</i><c>weeks</c></NS> holiday in London. Moreover<NS type="MP"><c>,</c></NS> the theatre restaurant was closed with the word "<NS type="RN"><i>Stuff</i><c>Staff</c></NS> vacation" on the front door after the show. It was <NS type="RY"><i>absolutely</i><c>totally</c></NS> different from your leaflet.</p>
+          <p>On the whole, I was really disappointed at that time. Could you <NS type="RV"><i>do</i><c>give</c></NS> me <NS type="W"><i>my half of</i><c>half of my</c></NS> money back<NS type="RP"><i>.</i><c>?</c></NS> I enclose my phone number and address.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Yours faithfully</p>
+          <p>Lo Son Lin. </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Fashion of the Future.</p>
+          <p>Have you ever seen the film star wars?</p>
+          <p>And did you notice something about fashion of the future?</p>
+          <p>I think the people will wear convenient clothes with <NS type="MD"><c>a</c></NS> simple design in the future. Because the people will stay at home more than now with their computer. And they will use soft cozy <NS type="RN"><i>cloths</i><c>fabrics</c></NS> like cotton and silk.</p>
+          <p>However, if they have some special day <NS type="UY"><i>when</i></NS> like <NS type="MD"><c>an</c></NS> important public day or special day of their life, they will wear very different kinds of clothes which <NS type="UV"><i>was</i></NS> you <NS type="MV"><c>have</c></NS> never seen before. Some of that will be very strange to our eyes, but some of <NS type="MD"><c>the</c></NS> others will be familiar to us. And they will use <NS type="UD"><i>the</i></NS> most kinds of things <NS type="R">like small stone to diamond etc.</NS> Maybe some <NS type="IN"><i>peoples</i><c>people</c></NS> <NS type="TV"><i>are</i><c>will be</c></NS> <NS type="S"><i>nakid</i><c>naked</c></NS>.</p>
+          <p>It will be very interesting...</p>
+          <p>Just imagine the <NS type="W"><i>way of future people's life</i><c>future people's way of life</c></NS><NS type="RP"><i>. And</i><c>, and</c></NS> you can see <NS type="UD"><i>the</i></NS> their clothes also. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

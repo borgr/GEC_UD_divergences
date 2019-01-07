@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR722*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Miss Ryan,</p>
+          <p>I am very glad <NS type="TV"><i>received</i><c>to have received</c></NS> your letter, and very happy <NS type="TV"><i>won</i><c>to have won</c></NS> first prize in your competition. I am writing to answer your question and ask <NS type="MT"><c>for</c></NS> further information.</p>
+          <p>First of all, I am a high school student, so I only have four <NS type="MP"><i>weeks</i><c>weeks'</c></NS> vacation <NS type="RT"><i>on</i><c>in</c></NS> July. I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July. Secondly, for me, the best way to live in <NS type="MD"><c>the</c></NS> <NS type="DN"><i>outdoor</i><c>outdoors</c></NS> is in tents, because that <NS type="TV"><i>will be</i><c>is</c></NS> a good chance to <NS type="RV"><i>learn</i><c>acquire</c></NS> a lot of knowledge about <NS type="MD"><c>the</c></NS> planets and <NS type="MD"><c>the</c></NS> animals as well.</p>
+          <p>Moreover, I am good at <NS type="FV"><i>play</i><c>playing</c></NS> basketball<NS type="RP"><i>, in</i><c>. In</c></NS> fact, I am the captain in <NS type="MD"><c>the</c></NS> basketball team<NS type="MP"><c>,</c></NS> which is one of the best <NS type="DJ"><i>teenagers</i><c>teenage</c></NS> <NS type="AGN"><i>team</i><c>teams</c></NS> in my city, and I also like singing. I play piano very well. Two of my friends and I have a band<NS type="RP"><i>, we</i><c>. We</c></NS> sometimes perform in my school club.</p>
+          <p>Could you tell me something about <NS type="MD"><c>the</c></NS> clothes and money which <NS type="UV"><i>is</i></NS> I need to take with me.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Suitable lessons and activities</p>
+          <p>To: Mrs Oliviar</p>
+          <p>From: HUA TANG</p>
+          <p>date: 13th June</p>
+          <p>Introduction: The aim of this report is to <NS type="S"><i>summerize</i><c>summarize</c></NS> the <NS type="RJ"><i>suitable</i><c>right</c></NS> lessons and activities <NS type="FV"><i>be</i><c>to be</c></NS> filmed.</p>
+          <p>Lessons: 1 Music</p>
+          <p>Music is <NS type="MD"><c>a</c></NS> traditional <NS type="RN"><i>lesson</i><c>subject</c></NS> in our school<NS type="RP"><i>, everyone</i><c>. Everyone</c></NS> in our school can play at least one <NS type="AGN"><i>instruments</i><c>instrument</c></NS>, so music <NS type="FN"><i>lesson</i><c>lessons</c></NS> should be <NS type="TV"><i>film</i><c>filmed</c></NS> <NS type="UC"><i>and</i></NS> to <NS type="RV"><i>express</i><c>show</c></NS> music is <NS type="R"><i>one</i><c>part</c></NS> of our <NS type="MP"><i>school</i><c>school's</c></NS> daily <NS type="RN"><i><NS type="RP"><i>life style</i><c>lifestyle</c></NS></i><c>life</c></NS>.</p>
+          <p>2. Maths</p>
+          <p>According to <NS type="RD"><i>some</i><c>a</c></NS> survey which <NS type="AGV"><i>have</i><c>has</c></NS> <NS type="RV"><i>done</i><c>been conducted</c></NS> by <NS type="AGQ"><i>another</i><c>other</c></NS> students<NS type="RP"><i>. Every</i><c>, every</c></NS> student in our school has one <NS type="SA"><i>math</i><c>maths</c></NS> class <NS type="RP"><i>everyday</i><c>every day</c></NS>. So, maths <NS type="FN"><i>lesson</i><c>lessons</c></NS> <NS type="RV"><i>would</i><c>should</c></NS> be filmed.</p>
+          <p>activities. Basketball</p>
+          <p>Our school basketball team is one of the best <NS type="DJ"><i>teenagers</i><c>teenage</c></NS> <NS type="AGN"><i>team</i><c>teams</c></NS> in our city, and every afternoon students are all <NS type="FV"><i>play</i><c>playing</c></NS> basketball in <NS type="MD"><c>the</c></NS> playground. So, basketball should be filmed.</p>
+          <p><NS type="S"><i>Conclution</i><c>Conclusion</c></NS></p>
+          <p><NS type="FV"><i>Sum</i><c>To sum</c></NS> up, <NS type="R">the daily life in our school should film</NS> music class, maths class and <NS type="FN"><i>student</i><c>students</c></NS> playing basketball.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

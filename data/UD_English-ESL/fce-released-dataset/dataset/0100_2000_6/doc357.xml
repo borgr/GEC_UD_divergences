@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR146*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>To Whom It May Concern,</p>
+          <p>I'd like to say thank you for choosing me and sending me the letter. I am extremely excited about the camp! For the camp, you need some information from me, don't you? Therefore I am going to write <NS type="AGA"><i>them</i><c>it</c></NS> down.</p>
+          <p>First, I'd like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because my friend, who is French, is coming to Toronto <NS type="RT"><i>on</i><c>in</c></NS> August. Therefore, I'd like to show her around and spend time with her as much as possible.</p>
+          <p>Second, I prefer log cabins <NS type="RT"><i>than</i><c>to</c></NS> tents. The reason is that the camp will be two weeks and log cabins are more comfortable than tents. However, if the log cabins are not available at the moment, I can stay in the tents.</p>
+          <p>Third, I'd like to choose painting and surfing for the activities. <NS type="M"><i>Because</i><c>This is because</c></NS> I've <NS type="RV"><i>started</i><c>been</c></NS> surfing since 1998 and I'm keen on surfing. Also, painting is one of my <NS type="SA"><i>favorite</i><c>favourite</c></NS> things! And I always wanted to learn how to paint.</p>
+          <p>Lastly, I'd like to ask you some questions. I know everything is included and I don't need to pay anything<NS type="MP"><c>,</c></NS> but <NS type="W"><i>in case should I bring some money</i><c>should I bring some money in case</c></NS> or not? And if I need to bring some money could you suggest <NS type="UA"><i>me</i></NS> the amount?</p>
+          <p>Also, could you suggest <NS type="UA"><i>me</i></NS> what kind of clothes I should bring, please?</p>
+          <p>Thank you very much for reading this letter. I really appreciate your choosing me. I am really looking forward <NS type="MT"><c>to</c></NS> this camp. Thank you.</p>
+          <p>Truly,</p>
+          <p>Yoshiko Murasaki</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Hi! How are you? I'm fine, thanks.</p>
+          <p>Anyway, I really enjoyed <NS type="S"><i>helpying</i><c>helping</c></NS> at a pop concert last month so that I'd like to write <NS type="R"><i>them down</i><c>about it</c></NS>!</p>
+          <p>First, we went to this office to apply for this job. The interview was OK and my friend and I <NS type="AGV"><i>was</i><c>were</c></NS> hired!</p>
+          <p>Then, the day of the concert came! Can you imagine how excited we were? Our <NS type="AGN"><i>heart</i><c>hearts</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="RV"><i>bumping</i><c>thumping</c></NS> and we were kind of nervous, however, there were a lot of things to do<NS type="MP"><c>,</c></NS> so we started working.</p>
+          <p>After working 30 <NS type="AGN"><i>minute</i><c>minutes</c></NS>, a singer appeared. While we were organizing the concert, she was singing on a stage. We could listen for free! I just imagined what it was like to be a singer. If only I could sing beautifully!</p>
+          <p>Anyway, by the time we finished everything, <NS type="S"><i>thusands</i><c>thousands</c></NS> of <NS type="SX"><i>funs</i><c>fans</c></NS> came <NS type="RT"><i>in</i><c>into</c></NS> this concert hall. Everybody looked very excited about the concert.</p>
+          <p>During the concert, we had to stand to protect this singer. We saw some very strange fans but most of them were quite nice. Actually, they were well-behaved.</p>
+          <p>Finally, the concert finished and we were thanked by this singer. Also, we got some <NS type="S"><i>posteres</i><c>posters</c></NS> as well.</p>
+          <p>It was a great experience for me and my friend. I wish you <NS type="TV"><i>were</i><c>had been</c></NS> there with us! Maybe next time!</p>
+          <p>By the way, I think I should go. Please take care and please write to me, right?</p>
+          <p>Love,</p>
+          <p>Yoshiko.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

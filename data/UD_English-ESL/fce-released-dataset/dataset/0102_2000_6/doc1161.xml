@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR474*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir, or Madam,</p>
+          <p>Your advertisement for the musical <NS type="UN"><i>show</i></NS><NS type="UP"><i>,</i></NS> Over the rainbow<NS type="UP"><i>,</i></NS> said it was London's newest and best musical show<NS type="RP"><i>,</i><c>.</c></NS> I agree with that because it is a <NS type="DJ"><i>wonderfull</i><c>wonderful</c></NS> show but<NS type="UP"><i>,</i></NS> it said that Danny Brook would be starring in it. I was really excited, but it turned out to be a different actor and I thought that was quite disappointing.</p>
+          <p>The show started at 20:15 when it actually should have started at 19:30. While I was waiting I thought I should inform myself about the discounts available<NS type="RP"><i>, the</i><c>. The</c></NS> shocking thing was there weren't any!</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> it also said<NS type="UP"><i>,</i></NS> you could visit <NS type="RD"><i>our</i><c>your</c></NS> restaurant after the show, and that is what I did, but when I got there it was shut for no reason.</p>
+          <p>What I'm trying to say is that this wasn't my perfect evening out and that I should get at least some money back!</p>
+          <p>Yours Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. As we know, Carla and Pat were good friends so Carlotta would tell Pat anything. This time she told Pat that she thought her dog, Churls, was going to die.</p>
+          <p>Pat couldn't resist <NS type="UA"><i>herself</i></NS> and told her brother Jacob<NS type="RP"><i>, he</i><c>. He</c></NS> was quite shocked about the news because<NS type="UP"><i>,</i></NS> he <NS type="DV"><i>missunderstood</i><c>misunderstood</c></NS>. He understood that 'Carlotta wants to kill Charles but she is still thinking about it.' Jacob runs as fast as sound to get to Charles's house. There, Jacob <NS type="S"><i>aproaches</i><c>approaches</c></NS> <NS type="UT"><i>to</i></NS> him slowly and tells him.</p>
+          <p>"Charles, you can't be with Carlotta anymore, she's evil<NS type="RP"><i>.</i><c>,</c></NS>" Jacob whispers</p>
+          <p>"What, you're crazy<NS type="RP"><i>.</i><c>!</c></NS>" Charles responds.</p>
+          <p>"She said she was going to kill you!" Jacob shouts.</p>
+          <p>"I'll talk to her<NS type="RP"><i>.</i><c>,</c></NS>" Charles exclaims.</p>
+          <p>When Charles told Carlotta what he knew, Carlotta started crying.</p>
+          <p>It was all a <NS type="DN"><i>missunderstanding</i><c>misunderstanding</c></NS>. They managed to sort everything out and Carlotta never had anymore secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

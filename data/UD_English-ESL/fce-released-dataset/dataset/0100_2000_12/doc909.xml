@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR369*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>31-40</age></personnel><score>19.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing, on behalf of the students in my class, to thank you very much for the trip to London. Besides <NS type="M"></NS> , we would like to go to the London Fashion <NS type="RP"><i>And</i><c>and</c></NS> Leisure Show, which was advertised in the <NS type="W"><i>newspaper "Metro"</i><c>"Metro" newspaper</c></NS> yesterday.</p>
+          <p>This show takes place at <NS type="MD"><c>the</c></NS> Central Exhibition Hall in London on Tuesday 14th March from 10:00 to 19:00 <NS type="UY"><i>o'clock</i></NS>. All my classmates are very interested in this show, which includes <NS type="MD"><c>the</c></NS> latest fashions, <NS type="RP"><i>Leisure</i><c>leisure</c></NS> and sports wear, <NS type="RP"><i>Make up</i><c>make-up</c></NS>, and <NS type="RP"><i>Hair</i><c>hair</c></NS> styles. Moreover, one of the important <NS type="AGN"><i>thing</i><c>things</c></NS> for us is that entrance <NS type="UN"><i>fee</i></NS> is free for students, because students are generally short of money.</p>
+          <p>We would like to suggest you change <NS type="MD"><c>the</c></NS> shopping <NS type="RN"><i>date</i><c>trip</c></NS> to Wednesday afternoon, because we have <NS type="MQ"><c>some</c></NS> free time on Wednesday afternoon.</p>
+          <p>We would be very pleased if you <NS type="RV"><i>could</i><c>would</c></NS> consider our recommendation.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>1.3</exam_score>
+         <coded_answer>
+          <p><NS type="MD"><i>Private</i><c>A Private</c></NS> Life For Everyone.</p>
+          <p>Everyone <NS type="AGV"><i>deserve</i><c>deserves</c></NS> <NS type="MD"><c>a</c></NS> private life. However<NS type="MP"><c>,</c></NS> most famous people, for example football <NS type="FN"><i>player</i><c>players</c></NS> and film stars, have not got <NS type="R"><i>any</i><c>a</c></NS> <NS type="SX"><i>privet</i><c>private</c></NS> life.</p>
+          <p>They feel exhausted <NS type="FV"><i>to be</i><c>being</c></NS> followed by journalists <NS type="MY"></NS><NS type="MP"><c>.</c></NS></p>
+          <p><NS type="W"><i>Even they</i><c>They even</c></NS> have <NS type="UD"><i>an</i></NS> <NS type="DN"><i>argue</i><c>arguments</c></NS> with journalists as they sometimes write <NS type="RJ"><i>unreal</i><c>inaccurate</c></NS> <NS type="RN"><i>news</i><c>reports</c></NS>.</p>
+          <p>On the other hand, some people need journalists to <NS type="RV"><i>be</i><c>become</c></NS> more famous, because people <NS type="W"><i>can <NS type="RV"><i>have</i><c>get</c></NS> <NS type="RN"><i>news</i><c>publicity</c></NS> who are famous</i><c>who are famous can get publicity</c></NS> through journalists.</p>
+          <p><NS type="RY"><i>As a result</i><c>In conclusion</c></NS>, journalists should respect their <NS type="FN"><i>life</i><c>lives</c></NS> and always write <NS type="RJ"><i>real</i><c>accurate</c></NS> <NS type="RN"><i>news</i><c>reports</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

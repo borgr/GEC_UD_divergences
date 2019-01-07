@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR955*0102*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> this letter because I had a week in London last month and I decided to see your show called "Over the rainbow" with my wife and children. We were disappointed because your advertisement was a misleading one.</p>
+          <p>First of all, the most important singer, Danny Brook, was not singing. You should have at least informed the public because most of the people <NS type="MY"><c>there</c></NS> came to see him. However<NS type="MP"><c>,</c></NS> the man who took his place <NS type="RV"><i>made</i><c>gave</c></NS> a good performance, we <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> listening to him because his voice was amazing.</p>
+          <p>The <NS type="FN"><i>times</i><c>time</c></NS> <NS type="AGV"><i>were</i><c>was</c></NS> not respected: the show began 45 minutes late. The children could not stand waiting outside in the cold. As it started later, it finished later and people missed the train they wanted to take. Furthermore you did not apologise<NS type="MP"><c>,</c></NS> as if it was usual!</p>
+          <p>In my opinion, the tickets were a little bit expensive and not many people could afford the price. We did not see any discounts!</p>
+          <p>Finally your restaurant was closed because too few people <NS type="TV"><i>came</i><c>had been coming</c></NS> <NS type="UY"><i>before</i></NS>. I understand them. After such a bad show you don't want to eat in the same place.</p>
+          <p>For these reasons I would like to have my money back because it was not a "perfect evening" as you said. But I think that if you <NS type="TV"><i>take</i><c>took</c></NS> <NS type="W"><i>care more</i><c>more care</c></NS> of the public, your show would catch on because the singers and songs are really impressive.</p>
+          <p>Yours Faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Modern technology is everywhere in our society. We use it daily and sometimes don't realize that things are changing in our daily life.</p>
+          <p>The ways <NS type="R"><i>of</i><c>we</c></NS> <NS type="RN"><i>transport</i><c>travel</c></NS> are improving a lot <NS type="R"><i>this times</i><c>at present</c></NS>. <NS type="UD"><i>The cars</i><c>Cars</c></NS> are really useful and a lot <NS type="IJ"><i>more faster</i><c>faster</c></NS> than <NS type="RV"><i>waking</i><c>walking</c></NS> or cycling. But cars <NS type="TV"><i>created</i><c>create</c></NS> pollution: for <NS type="S"><i>exemple</i><c>example</c></NS> the <NS type="RP"><i>green house</i><c>greenhouse</c></NS> effect. But it is also <NS type="UD"><i>the</i></NS> technology which <NS type="AGV"><i>try</i><c>tries</c></NS> to resolve this problem with new <NS type="RN"><i><NS type="AGN"><i>way</i><c>ways</c></NS></i><c>means</c></NS> of transport <NS type="MQ"><c>such</c></NS> as subways or busses so as to have less cars in the cities.</p>
+          <p>Technology allows us to improve our knowledge in <NS type="MD"><c>the</c></NS> sciences like <NS type="S"><i>medecine</i><c>medicine</c></NS> so as to cure more illnesses or to make people live <NS type="RY"><i>older</i><c>longer</c></NS>. I think there is a link between technology and <NS type="MD"><c>the</c></NS> sciences because they need each other: <NS type="MD"><c>the</c></NS> sciences discover technologies and technologies make <NS type="W"><i>possible new <NS type="RN"><i>searches</i><c>research</c></NS> in <NS type="MD"><c>the</c></NS> sciences</i><c>new research in the sciences possible</c></NS>.</p>
+          <p>Technology also improved <NS type="UD"><i>the</i></NS> communications with the phone of course and also with <NS type="MD"><c>the</c></NS> Internet. Every evening when I come back home I go on the <NS type="RP"><i>internet</i><c>Internet</c></NS>. I chat with other people in order to exchange our points of view or I look for <NS type="CN"><i>informations</i><c>information</c></NS> I need for my studies. In my opinion it's a lot better than the <NS type="S"><i>dictionnary</i><c>dictionary</c></NS> because it's faster and you really find what you need. Furthermore we can find everything all the time.</p>
+          <p>Technology is necessary to our society but I think it could <NS type="W"><i>be also</i><c>also be</c></NS> dangerous if we don't use it in <NS type="RD"><i>the</i><c>a</c></NS> good way. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

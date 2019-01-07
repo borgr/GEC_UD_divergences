@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1130*0102*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs <NS type="UN"><i>Jane</i></NS> Clark,</p>
+          <p>With regard to your International Arts Festival <NS type="RN"><NS type="S"><i>advertisment</i><c>advertisement</c></NS></NS>, I would like to share with you the pleasure I had to be part of the event and <NS type="MV"><c>make</c></NS> some suggestions for next year's festival that you might take <NS type="RT"><i>in</i><c>into</c></NS> consideration.</p>
+          <p>The International Arts Festival is a <NS type="RJ"><i>beautiful</i><c>wonderful</c></NS> idea. I enjoyed most of the events and I found your prices excellent<NS type="MP"><c>,</c></NS> considering that I am a student and that I do not have much money.</p>
+          <p>In your <NS type="S"><i>advertisment</i><c>advertisement</c></NS> you <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> that there <NS type="TV"><i>is</i><c>would be</c></NS> artists and stars <NS type="W"><i>from all around the world coming</i><c>coming from all around the world</c></NS>, unfortunately I found out only six countries were represented. I would like to suggest that more countries should be part of the <NS type="RP"><i>Festival</i><c>festival</c></NS> if it is possible. It is a very good opportunity to listen to different <NS type="FN"><i>kind</i><c>kinds</c></NS> of music and to discover different <NS type="FN"><i>culture</i><c>cultures</c></NS>.</p>
+          <p>Hoping that I <NS type="TV"><i>did not offend</i><c>have not offended</c></NS> you in any <NS type="FN"><i>ways</i><c>way</c></NS> and that you might take <NS type="RT"><i>in</i><c>into</c></NS> consideration my <NS type="FN"><i>suggestion</i><c>suggestions</c></NS>, I wish you all the best for next year's festival organisation.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>It's a story of a special person who was born in my country and who is now known worldwide. The night he came into this world<NS type="UP"><i>,</i></NS> was one of <NS type="SX">grater</NS> <NS type="UC"><i>even if</i></NS> for the <NS type="RN"><i>habitants</i><c>inhabitants</c></NS> of the country <NS type="RC"><i>or</i><c>and</c></NS> <NS type="RY"><i>even</i><c>also</c></NS> of the town where he was born, it was <NS type="FD"><i>a</i><c>an</c></NS> <NS type="RJ"><i>casual</i><c>ordinary</c></NS> night. The sky was so clear that the moon and the stars <NS type="TV"><i>were lighting up</i><c>lit up</c></NS> all the land. Only the <NS type="FA"><i>one</i><c>ones</c></NS> who knew how to read stars could actually tell that a great king <NS type="TV"><i>was</i><c>had been</c></NS> born. When the three men saw him<NS type="MP"><c>,</c></NS> they fell on their knees to worship him. The mother was <NS type="DJ"><i>pride</i><c>proud</c></NS> because she knew he was sent from above and he was going to be the one to set people free from their sins. This little man from Israel died as the <NS type="MJ"></NS> hero of all times. His message is still as <NS type="DJ">impacting</NS> today and will always be<NS type="MP"><c>,</c></NS> even if this story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

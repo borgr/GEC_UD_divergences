@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1138*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I would like to thank you for <NS type="R"><i>the perfect organisation of</i><c>doing such a good job organising</c></NS> the competition which I <NS type="DY"><i>luckely</i><c>luckily</c></NS> won<NS type="RP"><i>,</i><c>.</c></NS> I have been really very impressed.</p>
+          <p>Unfortunately I <NS type="RV"><i>became</i><c>received</c></NS> your letter <NS type="UC"><i>with</i></NS> two weeks late so I can travel only between the 5th and the 20th July. In fact I will finish my <NS type="RP"><i>university's</i><c>university</c></NS> exams only on the first <NS type="MT"><c>of</c></NS> July and after the 20th <NS type="MA"><c>it</c></NS> is impossible because I am going to do four <NS type="MP"><i>weeks</i><c>weeks'</c></NS> <NS type="S"><i>volontary</i><c>voluntary</c></NS> <NS type="MN"><c>work</c></NS> in India for UNICEF.</p>
+          <p>If it is possible I would prefer to stay in a <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>, because, in spite of my love for nature, I am terribly allergic to <NS type="S"><i>pollins</i><c>pollen</c></NS>. So <NS type="MD"><c>a</c></NS> stay in a <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> will probably <NS type="DV"><i>evite</i><c>save</c></NS> me a lot of problems.</p>
+          <p><NS type="FV"><i>Choose</i><c>Choosing</c></NS> two activities from the list has been very difficult but I think I would like to do climbing, <NS type="MD"><c>a</c></NS> sport in which I have many years of experience, and surfing<NS type="MP"><c>,</c></NS> <NS type="X"><i>despite I really have any experience</i><c>despite not really having any experience</c></NS>.</p>
+          <p>Unfortunately <NS type="X"><i>I had ever been <NS type="RT"><i>in</i><c>to</c></NS> the US so I have any idea about</i><c>I have never been to the US so I don't have any idea about</c></NS> how much money I will probably need <NS type="RC"><i>and</i><c>or</c></NS> about what kind of clothes I have to take with me.</p>
+          <p>Thank you very much for your <NS type="S"><i>attencion</i><c>attention</c></NS> <NS type="ID"><i>on my regard</i><c>on my behalf</c></NS></p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>If you ask <NS type="UT"><i>at</i></NS> twenty <NS type="IN"><i>womans</i><c>women</c></NS> what <NS type="W"><i><NS type="AGV"><i>is</i><c>are</c></NS> their <NS type="SA"><i>favorite</i><c>favourite</c></NS> hobbies</i><c>their favourite hobbies are</c></NS> probably <NS type="UD"><i>the</i></NS> most of them will answer "shopping".</p>
+          <p>But why is shopping so popular and loved by so many people all over the world? Why <NS type="W"><i>so many people have been</i><c>have so many people been</c></NS> <NS type="RV"><i>contaged</i><c>infected</c></NS> by this "<NS type="DJ"><i>psychologic</i><c>psychological</c></NS> virus"?</p>
+          <p>The verb "have" is probably the most used and loved by the human species. We are always trying to have more things, <NS type="RA"><i>that</i><c>which</c></NS> <NS type="R"><i>in spite of care after</i><c>lead us to neglect</c></NS> <NS type="DD"><i>us</i><c>our</c></NS> family, <NS type="DD"><i>us</i><c>our</c></NS> future, <NS type="RC"><i>or</i><c>and</c></NS> other things which are probably more important than a new <NS type="S"><i>perfum</i><c>perfume</c></NS>.</p>
+          <p><NS type="UY"><i>Always more</i><c>More and more</c></NS> people, everywhere, are becoming <NS type="RP"><i>shopping-addicts</i><c>shopping addicts</c></NS>. Maybe you <NS type="UV"><i>can</i></NS> think I am <NS type="R"><i>excessive</i><c>exaggerating</c></NS> but recent studies <NS type="AGV"><i><NS type="S"><i>prouves</i><c>proves</c></NS></i><c>prove</c></NS> that this mania can be really dangerous.</p>
+          <p><NS type="S"><i>Certenly</i><c>Certainly</c></NS> <NS type="W"><i>the only fact of</i><c>only the fact of</c></NS> <NS type="FV"><i>have</i><c>having</c></NS> something can <NS type="FV"><i>helps</i><c>help</c></NS> people to be more sure of <NS type="RA"><i>himself</i><c>themselves</c></NS>. In fact if you have the new Kalvin Klein <NS type="RN"><i>model</i><c>product</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> a certain kind of <NS type="AGN"><i>people</i><c>person</c></NS> you are cool, but <NS type="W"><i>it is</i><c>is it</c></NS> really so important?</p>
+          <p>Probably when Oscar Wilde said: "Superficiality is the <NS type="S"><i>suprem</i><c>supreme</c></NS> vice" he was right. We still look at what people look like and not at what they really are.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

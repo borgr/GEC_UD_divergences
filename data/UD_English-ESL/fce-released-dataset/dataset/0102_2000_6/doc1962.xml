@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR754*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about the musical show<NS type="RP"><i>.</i><c>,</c></NS> Over the Rainbow, which you advertised. I saw the show at your theatre with my friend on 6th June. However, I was disappointed with <NS type="R">something which did not match your advertisement</NS>.</p>
+          <p>First of all, I would like to have seen Danny Brook as I am keen on his <NS type="RN"><i>play</i><c>acting</c></NS>. He did not <NS type="RV"><i>play</i><c>perform</c></NS> <NS type="UT"><i>in</i></NS> <NS type="RD"><i>the</i><c>that</c></NS> evening. It made me sad. Secondly, the starting time has been changed from 19:30 to 20:15. We waited for ages because we had not been informed. In addition, although you advertised <NS type="R"><i>the</i><c>that</c></NS> <NS type="IJ"><i>discounts</i><c>discount</c></NS> tickets <NS type="MV"><c>were</c></NS> available, they do not <NS type="DV"><i>sale</i><c>sell</c></NS> them any more according to your staff. Finally, we went to the restaurant in your <NS type="SA"><i>theater</i><c>theatre</c></NS> after the show. It was closed because of the staff <NS type="S"><i>trainning</i><c>training</c></NS>.</p>
+          <p>I am sure you can understand my disappointment. I must insist that you refund the cost of the show. Unless I hear from you within ten days, I shall have to take legal advice on <NS type="RD"><i>the</i><c>this</c></NS> matter.</p>
+          <p>I look forward to hearing from you in the near future.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>It is believed that our <NS type="RP"><i>life style</i><c>lifestyle</c></NS> has been changed by <NS type="S"><i>mordern</i><c>modern</c></NS> technology such as computers and washing <NS type="FN"><i>machine</i><c>machines</c></NS> etc<NS type="RP"><i>. Especially</i><c>, especially</c></NS> for families. I have found <NS type="MA"><c>it</c></NS> very expensive to buy them but there are <NS type="MD"><c>a</c></NS> number of advantages.</p>
+          <p>First of all, dishwashers are very <NS type="RJ"><i><NS type="S"><i>effecient</i><c>efficient</c></NS></i><c>convenient</c></NS> for me because I work <NS type="MP"><i>full time</i><c>full-time</c></NS> and look after my children. It is very difficult to cook and wash dishes after working. Before buying my dishwasher I asked my son to wash them. He complained about <NS type="MA"><c>that</c></NS> a lot. Secondly, computers are useful for us as well, because we do not need to go somewhere if we want to <NS type="RV"><i>have</i><c>get</c></NS> information, for example <NS type="MT"><c>about</c></NS> <NS type="IV"><i>traveling</i><c>travelling</c></NS>.</p>
+          <p>However<NS type="MP"><c>,</c></NS> my <NS type="UP"><i>family's</i><c>family</c></NS> members do <NS type="W"><i>less communicate with each other</i><c>communicate with each other less</c></NS> than <NS type="RA"><i>we</i><c>they</c></NS> used to, because my children are keen on playing computer games.</p>
+          <p>In my opinion, <NS type="UD"><i>the</i></NS> <NS type="S"><i>morden</i><c>modern</c></NS> technology <NS type="AGV"><i>make</i><c>makes</c></NS> our <NS type="RJ"><i><NS type="RP"><i>life style</i><c>lifestyle</c></NS></i><c>life</c></NS> <NS type="RJ"><i><NS type="S"><i>combinient</i><c>convenient</c></NS></i><c>easier</c></NS>. It is very good for us but I think we should think <NS type="UT"><i>about</i></NS> more carefully when we buy something for our children.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

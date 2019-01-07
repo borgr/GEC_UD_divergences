@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR218*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>41-50</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>London, 20th may, 2000</p>
+          <p>Circle Theatre</p>
+          <p>Dear Sir/Madam,</p>
+          <p>I am just writing this letter in order to complain about the musical show I <NS type="TV"><i>have seen</i><c>saw</c></NS> last Sunday<NS type="MP"><c>,</c></NS> <NS type="RT"><i>at</i><c>in</c></NS> the evening.</p>
+          <p>Firstly, I <NS type="RV"><i><NS type="TV"><i>become</i><c>became</c></NS></i><c>was</c></NS> very disappointed because of the actor, who was different from <NS type="M"><c>the one advertised in</c></NS> your advertisement, <NS type="W"><i>not Danny Brook was starring</i><c>Danny Brook was not starring</c></NS>.</p>
+          <p>Secondly, I was ready at 19:30 <NS type="UN"><i>time</i></NS>, as you <NS type="TV"><i>have</i><c>had</c></NS> <NS type="RV"><i>announced</i><c>advertised</c></NS>, and I had to stay waiting in front of the theatre until 20:15, when <NS type="W"><i>finally the show</i><c>the show finally</c></NS> began.</p>
+          <p><NS type="R"><i>Besides</i><c>Worst</c></NS> of all, at the end of the Musical, I went to <NS type="UD"><i>the</i></NS> your Theatre Restaurant, in order <NS type="UT"><i>of</i></NS> <NS type="FV"><i><NS type="RV"><i>taking</i><c>having</c></NS></i><c>to have</c></NS> <NS type="UD"><i>a</i></NS> dinner, because I <NS type="TV"><i>have</i><c>had</c></NS> <NS type="IV"><i>leaft</i><c>left</c></NS> home without eating and so I was hungry at that time.</p>
+          <p><NS type="RY"><i>Thus</i><c>So</c></NS>, you <NS type="S"><i>cann't</i><c>can't</c></NS> believe <NS type="R"><i>what was my disappointment</i><c>how disappointed I was</c></NS> when I <NS type="RV"><i>noted</i><c>saw</c></NS> that it was closed, <NS type="X"><i>without no</i><c>with no</c></NS> explanation.</p>
+          <p>Finally, I would like to <NS type="RV"><i>say</i><c>tell</c></NS> you that I am asking for <NS type="MD"><c>my</c></NS> money back, because I had <NS type="W"><i>an evening totally <NS type="RJ"><i><NS type="S"><i>despleased</i><c>displeased</c></NS></i><c>unpleasant</c></NS></i><c>a totally unpleasant evening</c></NS>, completely different <NS type="MT"><c>from</c></NS> <NS type="RA"><i>that</i><c>what</c></NS> you <NS type="TV"><i>have</i><c>had</c></NS> <NS type="RV"><i><NS type="S"><i>anouced</i><c>announced</c></NS></i><c>promised</c></NS> in your advertisement.</p>
+          <p>So, I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>First of all, modern technology <NS type="AGV"><i>have</i><c>has</c></NS> changed my daily life <NS type="MT"><c>in</c></NS> the last five years more quickly than in <NS type="UD"><i>the</i></NS> <NS type="S"><i>anchient</i><c>ancient</c></NS> <NS type="AGN"><i>time</i><c>times</c></NS>, or even than a <NS type="RN"><i>ten years</i><c>decade</c></NS> ago.</p>
+          <p>I <NS type="RV"><i>became</i><c>came</c></NS> to notice the difference <NS type="RT"><i>in</i><c>at</c></NS> <NS type="UD"><i>my</i></NS> work, since <NS type="UY"><i>when</i></NS> all tasks <NS type="RV"><i><NS type="TV"><i>have</i><c>had</c></NS> changed to</i><c>were performed on</c></NS> the computer and I needed to learn how to use that machine.</p>
+          <p>In addition, at <NS type="UD"><i>the</i></NS> University teachers <NS type="X"><i>not accepted</i><c>do not accept</c></NS> <NS type="W"><i><NS type="MQ"><c>any</c></NS> more written tasks done by hand</i><c>written tasks done by hand any more</c></NS>, but only <NS type="RA"><i>they</i><c>those</c></NS> <NS type="UV"><i>should be</i></NS> written <NS type="RT"><i>by</i><c>on</c></NS> <NS type="MD"><c>a</c></NS> computer. <NS type="RY"><i>Besides</i><c>Also</c></NS>, teachers began <NS type="FV"><i>asking</i><c>to ask</c></NS> us <NS type="MT"><c>for</c></NS> a lot of <NS type="AGN"><i>article</i><c>articles</c></NS> <NS type="M"><c>which were</c></NS> to be copied <NS type="RT"><i><NS type="S"><i>throught</i><c>through</c></NS></i><c>of</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS>.</p>
+          <p><NS type="RT"><i>From</i><c>At</c></NS> that time, I decided to buy my own computer and every day I was improving my knowledge. <NS type="RY"><i>Firstly</i><c>First</c></NS> I <NS type="RV"><i><NS type="TV"><i>become</i><c>became</c></NS></i><c>came</c></NS> to write letters and articles, next I learned several <NS type="FN"><i>computers</i><c>computer</c></NS> <NS type="RN"><i>plays</i><c>games</c></NS>. <NS type="MT"><i>When</i><c>From when</c></NS> I learned how to use <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, I <NS type="RV"><i>didn't</i><c>haven't</c></NS> <NS type="TV"><i>stop</i><c>stopped</c></NS> until now.</p>
+          <p>Nowadays, I <NS type="S"><i>cann't</i><c>can't</c></NS> <NS type="RV"><i>stay</i><c>go</c></NS> one day without consulting <NS type="FN"><i>computers</i><c>computer</c></NS> communications <NS type="RT"><i><NS type="S"><i>throught</i><c>through</c></NS></i><c>via</c></NS> e-mail or <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>. I <NS type="RV"><i>change</i><c>exchange</c></NS> <NS type="FN"><i><NS type="S"><i>corespondecies</i><c>correspondences</c></NS></i><c>correspondence</c></NS> with all my family <NS type="RT"><i>by</i><c>via</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, <NS type="MT"><c>with</c></NS> my mother and 2 brothers who live in Curitilra City and <NS type="SX"><i>so</i><c>also</c></NS> with a brother who <NS type="AGV"><i>live</i><c>lives</c></NS> in Italy and another who is living in New Zealand.</p>
+          <p>On balance, I can affirm that I couldn't <NS type="MV"></NS> without this modern technology today. My life wouldn't be the same <NS type="U"><i>another time</i></NS> without <NS type="AGD"><i>these</i><c>this</c></NS> progress.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

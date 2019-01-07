@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR410*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>&lt;16</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing to explain to you what the problems were at the musical show "Over the rainbow" at your theatre.</p>
+          <p>On your <NS type="DN"><i>announcement foil</i><c>flyer</c></NS> I read that the actor was Danny Brook, but in the show there was a different actor: this is the first disappointing thing.</p>
+          <p>The second problem was that the show should have started at 19:30; but it did not; it started at 20:15!</p>
+          <p>On the <NS type="DN"><i>announcement foil</i><c>flyer</c></NS> I read that we could <NS type="RV"><i>have <NS type="RV"><i>had</i><c>got</c></NS></i><c>get</c></NS> some discounts, but it was not true.</p>
+          <p>This is a very disappointing thing!</p>
+          <p>Then <NS type="W"><i>your theatre restaurant after the show</i><c>after the show your theatre restaurant</c></NS> was closed because the staff were not there; so we could not visit it.</p>
+          <p>I expected you to <NS type="RV"><i>prepare</i><c>provide</c></NS> "our perfect evening out" for us; but you did not<NS type="MP"><c>,</c></NS> for unknown reasons.</p>
+          <p>So, now I ask you to send my money back, because I really did not enjoy that night.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>Kim, her friend, used to go camping at Sunset Village every year, and that year Kim<NS type="UP"><i>,</i></NS> asked Pat to come with her. She accepted.</p>
+          <p>In the evening Pat and Kim used to walk along the beach and they used to stop and turn at the Main Rock, a very big rock.</p>
+          <p>But one night, with the <NS type="RP"><i>moon light</i><c>moonlight</c></NS>, they felt encouraged to continue their walk. Pat was a little bit afraid, but Kim convinced her to follow her saying that she knew the street. But, when they heard a scream, they stopped and, when they saw a shadow coming <NS type="RT"><i>forward</i><c>toward</c></NS> them, they started running, hearing a voice saying: "Our secret!"</p>
+          <p>When they returned to Caan, their town, they promised to keep <NS type="DJ"><i>silence</i><c>silent</c></NS> about <NS type="RA"><i>that</i><c>it</c></NS>. But Pat, coming back <NS type="S"><i>hom</i><c>home</c></NS>, told her mother everything. That night Kim heard another scream and the day after she ran to Pat to tell her what she heard. But <NS type="X"><i>Kim, and no one</i><c>neither Kim nor anyone</c></NS> else found Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR485*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>Thank you very much for the prize <NS type="MT"><c>of</c></NS> two weeks at Camp California in the USA. <NS type="RT"><i>On</i><c>In</c></NS> the following there is some further information from me.</p>
+          <p>I would like to travel only in July, because I have so many assignments to finish before the end of June. I do not think I have enough time to prepare <NS type="R"><NS type="RP"><i>somethings</i><c>some things</c></NS></NS> to travel before <NS type="UT"><i>of</i></NS> July. <NS type="RY">In fact</NS>, I really do not mind <NS type="FV"><i>to stay</i><c>staying</c></NS> in log cabins, but I have never stayed in a tent before. I think <NS type="DA"><i>its</i><c>it</c></NS> might be fun to try to stay in <NS type="RD"><i>the</i><c>a</c></NS> tent this time. I would prefer to choose tennis and swimming. I used to be a tennis player when I was fifteen. I won first prize two years ago. The other activity is swimming. I started to <NS type="FV"><i>learnt</i><c>learn</c></NS> when I was five years old. I was a swimming teacher for a year in a sports club. Now I own a swimming school and <NS type="TV"><i>have trained</i><c>train</c></NS> the <NS type="IN"><i>staffs</i><c>staff</c></NS> every week. I think both activities I have chosen are suitable for me and I am sure I can do well.</p>
+          <p>What type of clothes <NS type="W"><i>I should</i><c>should I</c></NS> bring with me? <NS type="RP"><i>and</i><c>And</c></NS> is there any equipment I need to bring with me<NS type="RP"><i>.</i><c>?</c></NS> I would like to know how much money I need to spend <NS type="R"><i>during</i><c>while</c></NS> <NS type="UD"><i>a</i></NS> camping.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>(Mali Ratana)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>13th July 2000</p>
+          <p>Dear Kim</p>
+          <p>Thank you very much for your letter<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> I just got last week. How are you? I hope you <NS type="TV"><i>have</i><c>are having</c></NS> a nice <NS type="RN"><i><NS type="RP"><i>summer time</i><c>summertime</c></NS></i><c>summer</c></NS> now. I wondered who had told you <NS type="R"><i>about</i><c>that</c></NS> I <NS type="TV"><i>had helped</i><c>helped</c></NS> <NS type="MT"><c>at</c></NS> a pop concert last month. Anyway, it <NS type="UV"><i>is</i></NS> doesn't matter now who <NS type="TV"><i>had told</i><c>told</c></NS> you, but I was very happy and enjoyed it. Well, I am going to tell you about it.</p>
+          <p>First of all, I had to <NS type="FV"><i>been</i><c>be</c></NS> <NS type="TV"><i>train</i><c>trained</c></NS> by the <NS type="UP"><i>concert's</i><c>concert</c></NS> staff for a day. Before the concert started I had to help the staff <NS type="FV"><i>prepared</i><c>prepare</c></NS> a stage, <NS type="M"><c>doing things</c></NS> like <NS type="FV"><i>put</i><c>putting</c></NS> the instruments where they should be on the stage<NS type="UP"><i>,</i></NS>. And then, I had to help the singer to <NS type="RV"><i>do</i><c>put on</c></NS> some <NS type="MP"><i>make up</i><c>make-up</c></NS>. I was very <NS type="RJ"><i>frightening</i><c>frightened</c></NS> I might put too much <NS type="MP"><i>make up</i><c>make-up</c></NS> on their faces, but everything was <NS type="RP"><i>allright</i><c>all right</c></NS>. After that, I had to help them to prepare some lunch when the concert <NS type="TV"><i>had started</i><c>started</c></NS>. I was running around to find something I could do, like serving some drinks for <NS type="MD"><c>the</c></NS> <NS type="IN"><i>staffs</i><c>staff</c></NS> or the singers.</p>
+          <p>After the concert finished I had to help them <NS type="FV"><i>cleaned</i><c>clean</c></NS> up everything. I was so tired, but <NS type="DJ"><i>enjoyed</i><c>happy</c></NS>. I really like to help people without <NS type="MV"><c>getting</c></NS> something back. <NS type="W"><i>This experience I was so <NS type="S"><i>prond</i><c>proud</c></NS> <NS type="MT"><c>of</c></NS></i><c>I was so proud of this experience</c></NS> and very <NS type="DJ"><i>enjoyed</i><c>happy</c></NS>. <NS type="X"><i>I think I didn't waste</i><c>I don't think I wasted</c></NS> my time at all. I spent my free time <NS type="UT"><i>to</i></NS> helping them <NS type="MC"><c>and</c></NS> <NS type="TV"><i><NS type="UP"><i>its</i><c>it's</c></NS> made</i><c>it made</c></NS> my life a little bit busy. I think I have learnt a lot from this experience. <NS type="R"><i>To</i><c>When</c></NS> helping people you should not expect anything back <NS type="U"><i>to you</i></NS>, except happiness and <NS type="DN"><i>enjoyable</i><c>enjoyment</c></NS>.</p>
+          <p>Well, I think I must stop writing now. I hope you <NS type="TV"><i>are enjoying</i><c>enjoyed</c></NS> <NS type="R"><i>with</i><c>hearing about</c></NS> my experience. I hope to see you sometime next month.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

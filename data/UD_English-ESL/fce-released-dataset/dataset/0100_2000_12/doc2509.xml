@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1018*0100*2000*02">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>40.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Robertson,</p>
+          <p>I was asked by my class to write to you. First of all, we want to thank you for having organised a very good programme for the <NS type="DJ"><i>three days</i><c>three-day</c></NS> trip to London. Indeed, we are especially interested in the sightseeing <NS type="MN"><c>tour</c></NS> by bus. The river trip to Greenwich is also a marvellous idea! Moreover, we couldn't go there without visiting the Science Museum and the National Art Gallery.</p>
+          <p>However, could we make a suggestion? Having seen an advertisement for the London Fashion and Leisure Show, at the Central Exhibition Hall on Tuesday 14th, we would particularly like to go and visit it. How wonderful it could be to see the latest fashions and leisure and sports wear in this city, so famous for <NS type="RA"><i>it</i><c>that</c></NS>! Besides, as there are more girls than boys in the class, they would certainly enjoy attending <NS type="R">on live make-up and hairstyles</NS>. Lastly, it is free for students, which is fantastic!</p>
+          <p>So, instead of going shopping on Tuesday afternoon, we <NS type="RV"><i>might</i><c>could</c></NS> go to the <NS type="RP"><i>Show</i><c>show</c></NS>. We <NS type="RV"><i>may</i><c>could</c></NS> go shopping on Wednesday afternoon, as we should <NS type="TV"><i>have had</i><c>have</c></NS> <NS type="MQ"><c>some</c></NS> <NS type="RP"><i>freetime</i><c>free time</c></NS>. What do you think of this suggestion?</p>
+          <p>We are looking forward to receiving your reply.</p>
+          <p>Yours <NS type="RY"><i>Faithfully</i><c>Sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>For famous people, having a private life is difficult, especially because we are all interested in their lives.</p>
+          <p>On the one hand, I think that some famous people are looking for <NS type="UD"><i>the</i></NS> media attention. Indeed, it can be useful for their career. The more they are in the media, the more <NS type="W"><i>they will be famous</i><c>famous they will be</c></NS>. <NS type="ID"><i>According to me</i><c>In my opinion</c></NS>, some of them need to be appreciated by fans, they need to be loved and see themselves on television. However, some others only use the media to come back, because they cannot find a job anymore. They need to be famous again. Besides, I <NS type="RV"><i>consider</i><c>think</c></NS> that some stars sometimes call <NS type="AGN"><i>journalist</i><c>journalists</c></NS> to tell them where they will be, in order to have free <NS type="RN"><i>advertisement</i><c>publicity</c></NS>. Moreover, <NS type="ID"><i>according to me</i><c>in my opinion</c></NS>, it is also a good way for them to earn money. Famous people are so often asked to give <NS type="FN"><i>interview</i><c>interviews</c></NS><NS type="W"><i> that the outcome is that they want to be paid for it, either in the newspapers or on television</i><c>, either in the newspapers or on television, that the outcome is that they want to be paid for it</c></NS>.</p>
+          <p>On the other hand, for other famous people, being followed by journalists is the worst element of the fame. In my opinion, it must be so stressful to endure the pressure they <NS type="R"><i>have</i><c>are under</c></NS> to be perfect all the time because they could be followed by a <NS type="RN"><i>photograph</i><c>photographer</c></NS>. They cannot go to public places, unless they <NS type="RV"><i><NS type="UP"><i>make-up</i><c>make up</c></NS></i><c>disguise</c></NS> themselves and they are ready to sign autographs. They would really like a normal life, either because <NS type="R"><i>it is</i><c>of</c></NS> their temper<NS type="R"><i>, a regarding to</i><c> or out of regard for</c></NS> their children. Nevertheless, they are never <NS type="RV"><i>let</i><c>left</c></NS> alone, which is a shame. We have to respect them as human beings, <NS type="RA"><i>what</i><c>which</c></NS> we often forget they are. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

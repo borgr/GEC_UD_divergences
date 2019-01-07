@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR825*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I would like to thank you for the letter I have just received. First of all I would like to point out that it is a great pleasure for me to take part in your competition.</p>
+          <p>I would like to assure you that I <NS type="TV"><i>would</i><c>will</c></NS> do my best to be <NS type="UD"><i>the</i></NS> one of the winners in your competition. Now, <NS type="UC"><i>If</i></NS> I would like to <NS type="RV"><i>state</i><c>provide</c></NS> some of the information that you may need.</p>
+          <p>Firstly, I have to say that I can <NS type="W"><i>travel only</i><c>only travel</c></NS> in July this year. This is mostly because I have a job and I have made further arrangements for the other summer months.</p>
+          <p><NS type="S"><i>Secoundly</i><c>Secondly</c></NS>, I would be very grateful if you <NS type="TV"><i>can</i><c>could</c></NS> accommodate me in tents rather than <NS type="SX"><i>long</i><c>log</c></NS> cabins. It is mostly because I like fresh air at night. From the list of activities in which I will have a chance to compete I have <NS type="IV"><i>choosen</i><c>chosen</c></NS><NS type="UP"><i>:</i></NS> basketball and swimming. I am very good at those kinds of sports and think that I could be the winner.</p>
+          <p>Finally, I would like to ask you how many clothes and how much money <NS type="W"><i>should I</i><c>I should</c></NS> take with me. I will wait to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you, soon.</p>
+          <p>Yours sincerely,</p>
+          <p>Piotr Kaczmarski</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>I do agree with the opinion that shopping is not always enjoyable. Nowadays many young people like to do their shopping. But, isn't it a kind of <NS type="S"><i>entertaintment</i><c>entertainment</c></NS>?</p>
+          <p>In the first place, I would like to point out that to go shopping does not always mean to buy something. A lot of people, especially women, go to do their shopping only for <NS type="RN"><i>fan</i><c>fun</c></NS>. In such a situation they are looking for something that they might buy.</p>
+          <p>But, what about real shopping<NS type="RP"><i>.</i><c>?</c></NS> I mean shopping with a real purpose.</p>
+          <p>For example, <NS type="S"><i>emagine</i><c>imagine</c></NS> that you are a bride and you have to buy an appropriate <NS type="RN"><i>suit</i><c>outfit</c></NS>. It's a real nightmare when you try to match everything: from the size, the colour to the <NS type="DN">sawings</NS> of the suit that is acceptable for everyone.</p>
+          <p>On the other hand it is a great achievement for you when you buy the suit that is perfect for everyone.</p>
+          <p>To sum up, I would like to say that shopping is enjoyable when you are going only for <NS type="RN"><i>fan</i><c>fun</c></NS>. But, when you want to buy something special it's a real nightmare.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1041*0102*2000*02">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms Jane Clark,</p>
+          <p>I am writing to you to tell you that I enjoyed the International Arts Festival held on 21-22 November this year.</p>
+          <p>I liked the plays and the films most. Some films were really wonderful. You had picked <NS type="UY"><i>up</i></NS> unknown but talented directors' films and they were really worth watching. And the concerts were also excellent. <NS type="RY"><i>Especially</i><c>In particular</c></NS>, I enjoyed the jazz concerts and could see some famous jazz musicians I adore.</p>
+          <p>However, I <NS type="RV">found</NS> some things which I think I should point out. Some concert halls were not big enough to <NS type="RV"><i>have</i><c>hold</c></NS> the audience. For next year, I think you should take this matter into consideration<NS type="RP"><i>,</i><c>.</c></NS> And I think it would be much better if you had more plays and films.</p>
+          <p>I will definitely go to the festival next year, too. To make it more enjoyable, I would be grateful if you could <NS type="RV">welcome</NS> my comments <NS type="RT"><i>on</i><c>about</c></NS> it.</p>
+          <p>Best regards.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>A Japanese folk story<NS type="MP"><c>:</c></NS> "<NS type="RP"><i><NS type="RD"><i>a</i><c>the</c></NS> bamboo princess</i><c>The Bamboo Princess</c></NS>"</p>
+          <p>There was an old married couple. They had no children. One day, the lady went to a river to wash <NS type="MD"><c>their</c></NS> clothes and the man went to a mountain to cut trees. In a bamboo forest, he found a shining <NS type="MQ"><c>piece of</c></NS> bamboo. When he cut it, he found a beautiful baby girl in it. She was named <NS type="MD"><c>the</c></NS> bamboo princess.</p>
+          <p>The princess grew up <NS type="MV"><c>to be</c></NS> <NS type="DJ"><i>beautifully</i><c>beautiful</c></NS>. Some princes proposed <NS type="MT"><c>to</c></NS> her. But she said to them, "<NS type="RP"><i>if</i><c>If</c></NS> you want me, you have to do this<NS type="RP"><i>.</i><c>,</c></NS>" and asked them to do impossible things because she didn't want to get married. One day, the old couple saw the princess crying. When they asked her <NS type="M"><c>about this</c></NS>, she said<NS type="MP"><c>,</c></NS> "I am from the moon and I will have to go back soon". They really loved her and they asked a prince who loved the princess to protect her. But, one <NS type="UD"><i>the</i></NS> day, the princess went back to the moon with guards from the moon although the prince and his army tried hard to protect her.</p>
+          <p>This story happened a long time ago.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

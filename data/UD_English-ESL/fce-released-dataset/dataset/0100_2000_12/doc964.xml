@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR402*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>Our class is looking forward to going to London next week. <NS type="W"><i>The programme which you've organised we find</i><c>We find the programme which you've organised</c></NS> very interesting<NS type="MP"><c>,</c></NS> especially the river trip to Greenwich. Thank you very much for it.</p>
+          <p>There is only one thing that we'd like to change, if you wouldn't mind. We've read an advertisement about <NS type="MD"><c>the</c></NS> London Fashion and Leisure Show which will take place on Tuesday, March 14 from <NS type="RP"><i>10 oo</i><c>10.00</c></NS> to <NS type="RP"><i>19 oo</i><c>19.00</c></NS>. The latest fashions will be shown there and many useful tips about make-up and hairstyles will be given.</p>
+          <p>According <NS type="R"><i>over</i><c>to your</c></NS> programme we have <NS type="CQ"><i>a</i><c>some</c></NS> free time on Wednesday, March 15. So we'd like to go to a disco and this fashion show would be a great opportunity for us to learn something about styling. As we are from <NS type="RD"><i>the</i><c>a</c></NS> small town we don't have any <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to learn about this.</p>
+          <p>We suggest <NS type="FV"><i>to visit</i><c>visiting</c></NS> the Science Museum on Monday after the sightseeing tour by bus. We think we'll <NS type="RV"><i>find</i><c>have</c></NS> one free hour <NS type="S"><i>befor</i><c>before</c></NS> the River trip. It would be a good solution. We hope you <NS type="UV"><i>are</i></NS> agree with us.</p>
+          <p>Your class</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>In every country there are <NS type="UD"><i>the</i></NS> famous people who are <NS type="UT"><i>in</i></NS> the <NS type="RN"><i>middle</i><c>centre</c></NS> of <NS type="UD"><i>the</i></NS> public attention. They are always expected to be beautiful, intelligent, good-looking. This is very stressful.</p>
+          <p>That's why it's very important for these people to have a private life without journalists where they can relax and where they don't need to be superstars.</p>
+          <p>To have a private life is the natural desire of everyone and the famous film stars <NS type="RC"><i>or</i><c>and</c></NS> politicians have a right <NS type="RT"><i>for</i><c>to</c></NS> <NS type="RA"><i>it</i><c>one</c></NS>. Otherwise they can <NS type="RV"><i>get</i><c>suffer</c></NS> <NS type="RN">soul</NS> problems, <NS type="MC"><c>and</c></NS> fall <NS type="RT"><i>in</i><c>into</c></NS> deep <NS type="CN"><i>depressions</i><c>depression</c></NS>.</p>
+          <p>I think that it must be awful to know that you are observed by journalists or other people, your fans for example<NS type="MP"><c>,</c></NS> <NS type="UQ"><i>all</i></NS> 24 hours <NS type="UT"><i>in</i></NS> a day, and <NS type="W"><i>the all</i><c>all the</c></NS> things you do in your life are published and the whole world knows who <NS type="W"><i><NS type="AGV"><i>is</i><c>are</c></NS> your <NS type="FN"><i>friend</i><c>friends</c></NS></i><c>your friends are</c></NS>, where you go shopping, who you love <NS type="UT"><i>in</i></NS> and who you sleep with. <NS type="ID"><i>On my opinion</i><c>In my opinion</c></NS> this is the worst thing that can ever happen.</p>
+          <p>I think we should have a little bit <NS type="MT"><c>of</c></NS> respect for <NS type="UD"><i>the</i></NS> famous people and <NS type="RV"><i>let</i><c>leave</c></NS> them some time for their private <NS type="FN"><i>life</i><c>lives</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

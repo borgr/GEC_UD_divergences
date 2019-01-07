@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE19*0100*2001*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>12.06.2001</p>
+          <p>Dear Mrs Smith, Thank you for your letter <NS type="UT"><i>of</i></NS> asking for my help <NS type="RT"><i>to</i><c>with</c></NS> the conference. I would like <NS type="R"><i>to help you with my best</i><c>to do my best to help you</c></NS>.</p>
+          <p>Firstly, Palace Hotel has been booked <NS type="UT"><i>into</i></NS> for the <NS type="MP"><i>group</i><c>group's</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS> and I spoke with the hotel manager <NS type="RT"><i>for</i><c>about</c></NS> <NS type="IV"><i>traveling</i><c>travelling</c></NS> to the conference. The hotel has <NS type="AGD"><i>their</i><c>its</c></NS> own buses, they will <NS type="RV"><i>pick</i><c>take</c></NS> us from <NS type="MD"><c>the</c></NS> hotel to the conference <NS type="RN">saloon</NS>.</p>
+          <p>Secondly, I would like to tell <NS type="MA"><c>you</c></NS> more about <NS type="MD"><c>the</c></NS> end-of-conference party. I booked <NS type="MD"><c>the</c></NS> Palace Hotel's restaurant for our party and it is big enough for your students. It is going to be very <NS type="RJ">lovely</NS> and enjoyable because I have lots of surprises for <NS type="MD"><c>the</c></NS> students. <NS type="RY">In addition</NS>, I suggest that they should wear <NS type="RJ">sporty</NS> and comfortable clothes.</p>
+          <p>Finally, you would like to know <NS type="MT"><c>about</c></NS> some activities for three hours <NS type="MT"><c>of</c></NS> free time. I think you can go to the 'Dreamland'. In this place there <NS type="AGV"><i>is</i><c>are</c></NS> video games, some little competitions and <NS type="MD"><c>a</c></NS> small zoo available. Students can enjoy their time in this place and it is on the way <NS type="RT"><i>of</i><c>to</c></NS> the airport.</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>To: American <NS type="MP"><i>students</i><c>students'</c></NS> group leader</p>
+          <p>From: ...</p>
+          <p>Re: Information on an interesting building to visit</p>
+          <p>Introduction</p>
+          <p>Here is my report for American students who want information on an interesting building to visit in Ankara. I would like to describe 'Anitkabir'</p>
+          <p>Findings</p>
+          <p>1. This building's name is 'Anitkabir' and it is the biggest building in Ankara. It <NS type="TV"><i>built</i><c>was built</c></NS> in 1953. It is <NS type="RV"><i>placed</i><c>located</c></NS> in the middle of the forest. There <NS type="AGV"><i>is</i><c>are</c></NS> different <NS type="FN"><i>kind</i><c>kinds</c></NS> of <NS type="FN"><i>bird</i><c>birds</c></NS> and different <NS type="FN"><i>kind</i><c>kinds</c></NS> of trees present.</p>
+          <p>2. <NS type="RA"><i>It</i><c>There</c></NS> <NS type="RV"><i>has</i><c>is</c></NS> <NS type="MD"><c>a</c></NS> very big museum inside the building and all <NS type="MD"><c>the</c></NS> building <NS type="TV"><i>made</i><c>is made</c></NS> from stone.</p>
+          <p>3. This building's security guards are very special soldiers. Their aim is to protect the building from <NS type="UD"><i>the</i></NS> enemies because there is also <NS type="MD"><c>a</c></NS> very big army museum available.</p>
+          <p>4. <NS type="RA"><i>It</i><c>There</c></NS> <NS type="RV"><i>has</i><c>is</c></NS> no charge for entrance and it has a good view for tourists to <NS type="FV"><i>seeing</i><c>see</c></NS> Ankara from the hill. It opens <NS type="RT"><i>at</i><c>from</c></NS> 8.00 am to 5.00 pm<NS type="MP"><c>.</c></NS></p>
+          <p>Recommendations</p>
+          <p>I <NS type="RV"><i>recommend</i><c>think</c></NS> that it is the best building in Ankara to visit because it <NS type="RV">includes</NS> <NS type="UQ"><i>all</i></NS> Turkish history and very good <NS type="RP"><i>sight seeing</i><c>sightseeing</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR505*0100*2000*02">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing <NS type="MV"><c>to let</c></NS> you <NS type="FV"><i>to know</i><c>know</c></NS> about some comments and suggestions from some students about the trip you have <NS type="UY"><i>already</i></NS> organized to London.</p>
+          <p>First of all, we would like to go to the London Fashion and Leisure <NS type="RP"><i>show</i><c>Show</c></NS> which takes place from Monday 13th to Wednesday 15th. It is <NS type="DJ"><i>opened</i><c>open</c></NS> from 10:00 to 19:00 and it is for free for students.</p>
+          <p>This is a great opportunity because we can <NS type="RV"><i>know</i><c>learn</c></NS> more about leisure and fashion <NS type="RT"><i>from</i><c>in</c></NS> this city. If you allow us to go we could change the programme in <NS type="RD"><i>this</i><c>the</c></NS> <NS type="MJ"><c>following</c></NS> way.</p>
+          <p>Firstly, on Monday morning we can visit the presentation of the latest fashions and in the afternoon we could take a sightseeing <NS type="UT"><i>by</i></NS> bus. Secondly, on Tuesday morning we can <NS type="RV"><i>watch</i><c>see</c></NS> the <NS type="RP"><i>Leisure</i><c>leisure</c></NS> <NS type="MN"><c>wear</c></NS> and <NS type="RP"><i>Sports wear</i><c>sportswear</c></NS> and in the afternoon we can go to the Science Museum and finally, on Wednesday, we can go and see the presentation of different hairstyles and <NS type="DN"><i>makes up</i><c>make-up</c></NS><NS type="MP"><c>,</c></NS> spending the afternoon in the National Art Gallery.</p>
+          <p>We hope you <NS type="TV"><i>consider</i><c>will consider</c></NS> our suggestions <NS type="MC"><c>and</c></NS> <NS type="FV"><i>letting</i><c>let</c></NS> us know your answer.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>The home of the Future</p>
+          <p>If you think <NS type="RT"><i>in</i><c>of</c></NS> the future you <NS type="RV"><i>could</i><c>might</c></NS> think <NS type="RT"><i>in</i><c>of</c></NS> faster and better machines, advanced technology or <NS type="MD"><c>a</c></NS> better life. All this will happen in the next 50 years, how can we be prepared to receive all these things in our homes?</p>
+          <p>The next 50 years.</p>
+          <p>Nowadays, our home life <NS type="AGV"><i>allow</i><c>allows</c></NS> us to have more free time to spend doing leisure activities like practising sports or going out. In the <NS type="RJ"><i>close</i><c>near</c></NS> future we will be able to do nothing because everything will be done by computers and machines<NS type="UP"><i>,</i></NS> (<NS type="MD"><c>the</c></NS> washing-up, <NS type="SX"><i>hovering</i><c>hoovering</c></NS>, ironing, gardening, cooking, etc. ) The question is, will it be <NS type="MD"><c>a</c></NS> better life?</p>
+          <p>On the one hand, we will be able to spend more time with our family and not <NS type="FV"><i>to be</i><c>be</c></NS> worried about anything. No more housework, no more stress, <NS type="SX"><i>nor</i><c>no</c></NS> more illnesses; everything will be perfect.</p>
+          <p>On the other hand, life will be boring, a large amount of workers will be <NS type="UV"><i>have</i></NS> redundant and housewives will not have anything to do<NS type="MP"><c>,</c></NS> which will be extremely boring and tedious.</p>
+          <p>What do you prefer? Do you enjoy doing nothing or do you really enjoy what you do? It is your <NS type="S"><i>desicion</i><c>decision</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

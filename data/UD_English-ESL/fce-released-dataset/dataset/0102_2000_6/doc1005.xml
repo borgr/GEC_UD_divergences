@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR6*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I <NS type="RV"><i>was</i><c>went</c></NS> to <NS type="MD"><c>the</c></NS> Circle Theatre to watch <NS type="MD"><c>the</c></NS> 'Over the rainbow' musical show, recently. I was <NS type="DY"><i>trully</i><c>truly</c></NS> <NS type="S"><i>dissapointed</i><c>disappointed</c></NS> by it. My expectations were high after <NS type="TV"><i>I've</i><c>I'd</c></NS> read your leaflet in which it was advertised as 'London's newest and best musical show'. Now, I can assure you it wasn't. Firstly, it was Danny Brook who was supposed to star. The substitute was far worse. Secondly, I had to wait <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes before the show finally began. Another unkept promise <NS type="TV"><i><NS type="AGV"><i>are</i><c>is</c></NS></i><c>was</c></NS> the discounts. There weren't any! Lastly, when I got hungry after the delay it appeared that the theatre restaurant <NS type="TV"><i>is</i><c>was</c></NS> closed. You can believe me it wasn't 'my perfect evening out' and I have no other choice than <NS type="FV"><i>asking</i><c>to ask</c></NS> <NS type="MA"><c>you</c></NS> to give <NS type="MA"><c>me</c></NS> my money back. I paid for something I didn't get so it is obvious that I want my money back. I got the £15 ticket. I'd like you to send the money to this <NS type="S"><i>adress</i><c>address</c></NS><NS type="RP"><i>;</i><c>:</c></NS> ul Taklowa 10</p>
+          <p>Skoclow 43-430</p>
+          <p>POLAND</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. After two days<NS type="MP"><c>,</c></NS> the whole school knew. When Paul entered the school gate, other children began to tease him and laugh. Paul couldn't stand it. He ran out quickly, leaving everyone behind. He felt very ashamed and didn't know what to do. Normally, he would go and talk to Pat but Pat betrayed him. They were no longer friends. 'How could he,' Paul thought 'Now the whole school knows Jean attracts me'. As he was sitting there, he heard someone walking towards him. He turned around and saw... Jean. 'What are you <NS type="SX"><i>dong</i><c>doing</c></NS> here<NS type="RP"><i>, why</i><c>? Why</c></NS> aren't you at school?' she asked. Paul was <NS type="UT"><i>like</i></NS> paralyzed. He couldn't reply. 'I <NS type="TV"><i>had heard</i><c>heard</c></NS> what you've said about me', she said, I think it's sweet'. Paul couldn't believe his ears. While he was thinking how to reply, Jean took his hand and led him to the school. When they entered everyone became silent. All the children were staring at them and Paul thought that Pat <NS type="TV"><i>isn't</i><c>wasn't</c></NS> that bad at all.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

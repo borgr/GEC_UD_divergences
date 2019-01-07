@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR7*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Cambridge 13.06.00</p>
+          <p>Dear Helen Ryan<NS type="MP"><c>,</c></NS></p>
+          <p>Competition Organiser</p>
+          <p>I am glad to know about the news that I have received. It is a <NS type="ID"><i>dream <NS type="S"><i>becames</i><c>become</c></NS> true</i><c>dream come true</c></NS> and was really unexpected for me!</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because <NS type="UT"><i>of</i></NS> it is more suitable for me. I think I will really enjoy <NS type="MA"><c>it</c></NS> if I <NS type="TV"><i>could</i><c>can</c></NS> stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS><NS type="RP"><i> it</i><c>.  It</c></NS> is going to be a new experience and looks exciting.</p>
+          <p>About the activities while at the Camp<NS type="MP"><c>,</c></NS> I would like to <NS type="RV"><i>enjoy</i><c>do</c></NS> swimming, not because I am good <NS type="RT"><i>in</i><c>at</c></NS> it, just because I <NS type="MV"><c>am</c></NS> keen on <NS type="MA"><c>it</c></NS> and the other one is Photography.</p>
+          <p>As I never did this in <NS type="W"><i>whole my</i><c>my whole</c></NS> life could you tell me if we have to <NS type="RV"><i>do</i><c>make</c></NS> our own meals or <NS type="W"><i>I can</i><c>can I</c></NS> find everything ready to eat there? <NS type="X"><i>If no</i><c>If not</c></NS>, what do you <NS type="S"><i>sugest</i><c>suggest</c></NS>? The same question for clothes and money. How much <NS type="MV"><c>do</c></NS> I have to <NS type="RV"><i>get</i><c>put</c></NS> in my pocket?</p>
+          <p>I hope <NS type="CE">has had your questions out of your mind</NS>.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Cambridge 13.06.00</p>
+          <p>Dear friend</p>
+          <p>Kim</p>
+          <p>Last month, I enjoyed <NS type="FV"><i>to help</i><c>helping</c></NS> at a pop concert in Portugal. Everything <NS type="AGV"><i>were</i><c>was</c></NS> new for me. I had to <NS type="R">(lyd)</NS> tidy up the place where they have to wait <NS type="RT"><i>until</i><c>for</c></NS> their turn. The group asked me <NS type="FV"><i>make</i><c>to make</c></NS> sure that in the fridge they always could find a <NS type="RJ"><i>big</i><c>wide</c></NS> variety of drinks including honey and lemon for <NS type="MD"><c>the</c></NS> throat.</p>
+          <p><NS type="MD"><i>Other</i><c>The other</c></NS> thing I had to do <NS type="TV"><i>is</i><c>was</c></NS> keep an eye <NS type="RT"><i>in</i><c>on</c></NS> the towels, I mean, <NS type="RJ"><i>dried</i><c>dry</c></NS> towels because as you know that country is too hot, especially for my liking, <NS type="R"><i>as</i><c>and</c></NS> they have to change <NS type="UD"><i>the</i></NS> clothes and <NS type="AGV"><i>looks</i><c>look</c></NS> fresh; don't ask me why.</p>
+          <p>The pop concert <NS type="RV">happened</NS> in a big stadium called "Mararcanã".</p>
+          <p>I just did not <NS type="TV"><i>enjoyed</i><c>enjoy</c></NS> <NS type="MA"><c>it</c></NS> when they were <NS type="R">making the instruments</NS> work for the big day. But what I particularly liked was <NS type="W"><i><NS type="FV"><i>see</i><c>to see</c></NS> and ask <NS type="MT"><c>for</c></NS> autographs from the rest of the <NS type="IQ"><i>others</i><c>other</c></NS> groups</i><c>to see the rest of the other groups and ask for their autographs</c></NS>. Don't be jealous, I will make a copy for you, OK?</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

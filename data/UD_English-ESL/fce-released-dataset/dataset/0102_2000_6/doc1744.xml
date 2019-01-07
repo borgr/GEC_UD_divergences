@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR688*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Manager of the theatre:</p>
+          <p>I'm writing to you because I'm very disappointed. I'm not from here (this city), so I wanted to know everything about it: <NS type="UP"><i>it's</i><c>its</c></NS> culture, history and the famous musicals. Everything was perfect and beautiful till yesterday. Yesterday I wanted to go to the theatre to see a musical <NS type="UN"><i>show</i></NS>. I went to the theatre to see <NS type="UT"><i>at</i></NS> what time <NS type="W"><i>was the show</i><c>the show was</c></NS>, 19.30<NS type="RA"><i><NS type="RP"><i>, it</i><c>. It</c></NS></i><c>. That</c></NS> was <NS type="UP"><i>O.K.</i><c>OK</c></NS> so I bought a ticket. <NS type="RT"><i>In</i><c>At</c></NS> that moment my problems began. I couldn't get any discount; that <NS type="TV"><i>mean</i><c>meant</c></NS><NS type="UP"><i>,</i></NS> that the advertisement was wrong, but I bought the ticket anyway. Then I had to wait 45 <NS type="L"><i>mins</i><c>minutes</c></NS><NS type="RP"><i>,</i><c>;</c></NS> the show started at 20:15. Then Danny Brook wasn't acting, <NS type="RA"><i>it</i><c>there</c></NS> was a different actor. <NS type="RT"><i>In</i><c>At</c></NS> that moment I was <NS type="DY"><i>realy</i><c>really</c></NS> angry, so to calm down I went to the theatre restaurant, but it was closed, because of its bad <NS type="RN"><i>cleaning</i><c>hygiene</c></NS> and food. That was too much. "Dear" manager I hope you <NS type="FV"><i>to understand</i><c>understand</c></NS> me, <NS type="RC"><i>so</i><c>and</c></NS> I ask for money back and I hope this <NS type="MP"><i>wont</i><c>won't</c></NS> happen again. <NS type="SX"><i>By</i><c>Bye</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>First of all<NS type="MP"><c>,</c></NS> I think we have grown <NS type="MY"><c>up</c></NS> with <NS type="UD"><i>the</i></NS> technology. It's difficult for us to <NS type="RV"><i>realize</i><c>recognise</c></NS> the changes in our <NS type="AGN"><i><NS type="DN"><i>live</i><c>life</c></NS></i><c>lives</c></NS>, but we can think about <NS type="AGA"><i>it</i><c>them</c></NS>. How has it <NS type="TV"><i>change</i><c>changed</c></NS> my daily life? Well, in one word it made my life <NS type="IJ"><i>comfortabler</i><c>more comfortable</c></NS>. Now I only <NS type="RV"><i>used</i><c>need</c></NS> to push a button, and things or <NS type="S"><i>mashines</i><c>machines</c></NS> work on their own. Homework is <NS type="IJ"><i>easer</i><c>easier</c></NS> to <NS type="RV"><i>find</i><c>do</c></NS> <NS type="RT"><i>in</i><c>with</c></NS> the <NS type="S"><i>cumputer</i><c>computer</c></NS> than <NS type="RT"><i>in</i><c>with</c></NS> a book sometimes. Everything is faster, and sometimes technology <NS type="AGV"><i>go</i><c>goes</c></NS> so fast that I'm unable to follow it. Modern technology showed us that we could do anything we wanted to, and it <NS type="AGV"><i>make</i><c>makes</c></NS> us <NS type="SX"><i>thing</i><c>think</c></NS> more about <NS type="RD"><i>my</i><c>our</c></NS> future <NS type="AGN"><i>job</i><c>jobs</c></NS>. Maybe, I won't be able to understand how the things <NS type="TV"><i>worked</i><c>work</c></NS> and that <NS type="AGV"><i>scare</i><c>scares</c></NS> me<NS type="RP"><i>,</i><c>.</c></NS> I will be useless, because a <NS type="S"><i>mashine</i><c>machine</c></NS> will do all the work.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

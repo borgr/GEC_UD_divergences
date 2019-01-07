@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR781*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>26-30</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>12 Barcicka Str.</p>
+          <p>45-139 Warsaw</p>
+          <p>13 July 2000</p>
+          <p>Dear Ms Ryan</p>
+          <p>I am writing in reply to your letter I received <NS type="S"><i>yestarday</i><c>yesterday</c></NS>.</p>
+          <p>I am very proud that I won first prize in your competition and I am extremely happy to spend two weeks at Camp California in the U.S.A.</p>
+          <p>At the beginning I would like to answer <NS type="MD"><c>the</c></NS> questions you asked me in your letter.</p>
+          <p>The most <NS type="RJ"><i>appropriate</i><c>suitable</c></NS> month for me to travel is July because my boss promised to give me this month off (I am in charge of <NS type="MD"><c>a</c></NS> project which starts in June so I am sure I couldn't go later).</p>
+          <p>'As I have a <NS type="S"><i>choise</i><c>choice</c></NS> I would prefer to stay in log cabins <NS type="RT"><i>to</i><c>rather than</c></NS> tents because they seem to be more comfortable and you are not so <NS type="DJ"><i>depended</i><c>dependent</c></NS> on weather conditions. As I was requested I should choose two activities from the list. So I decided to choose climbing and photography. These two are easy to connect, I could climb and make pictures at the same time. I am very keen on photography. Last year I took part in <NS type="MD"><c>a</c></NS> <NS type="S"><i>photograher's</i><c>photographer's</c></NS> contest and I won a second prize in Poland in <NS type="MD"><c>the</c></NS> <NS type="S"><i>cathegory</i><c>category</c></NS> of ,,beautiful scenery''. Climbing, in contrast, is something I started <NS type="MD"><c>a</c></NS> few months ago, so I have not gained any success in this sport. But you could give me a chance to get more <NS type="S"><i>familier</i><c>familiar</c></NS> with it. I would like to ask about clothes. Do I need any formal ones? I would <NS type="W"><i>like also</i><c>also like</c></NS> to know what the cost of spending two weeks in the U.S.A. is.</p>
+          <p>I want to thank you <NS type="SX"><i>ones</i><c>once</c></NS> more for <NS type="R">taking me into consideration</NS> in your competition.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>Juliana Piotrowska</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Have you ever been to a big supermarket and tried to find something you really like or want, looking <NS type="S"><i>throug</i><c>through</c></NS> shelves and not finding that in the end. What did you feel? You had to be disappointed.</p>
+          <p>There <NS type="AGV"><i>is</i><c>are</c></NS> a lot of situations which could make you feel similar while you do shopping. You might spend too much money and buy something you don't really need. You could also buy something which later turns out to be <NS type="RJ"><i>out of order</i><c>broken</c></NS>. So you have to complain about it. Very often a shop assistant is not helpful so you lose your money and your time.</p>
+          <p>Moreover, you could face an <NS type="S"><i>agressive</i><c>aggressive</c></NS> and maybe even drunk shop assistant or manager. This leads to an escalation of your anger.</p>
+          <p>Sometimes you could find a bargain. You are happy to buy a dress or a suit for a good price. But at home you <NS type="TV"><i>noticed</i><c>notice</c></NS> that there is a tear on <NS type="MD"><c>the</c></NS> sleeve. And you couldn't of course <NS type="RV"><i>give</i><c>take</c></NS> it back because the price was lowered and your dress is not under guarantee.</p>
+          <p>You could also face an unpleasant situation connected with money. Somebody could give you not enough change. How would you feel? Deceived?</p>
+          <p>So if you don't want to feel deceived or offended, think twice before you decide to go shopping.</p>
+          <p>(A very depressing point of view, isn't it?)</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

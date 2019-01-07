@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR871*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan</p>
+          <p>I'm writing concerning your letter about my <NS type="RN"><i>win</i><c>winning</c></NS> <NS type="W"><i>in your competition <NS type="UT"><i>for</i></NS> two weeks at Camp California</i><c>two weeks at Camp California in your competition</c></NS>. I'm very happy to be the winner <NS type="RT"><i>from</i><c>of</c></NS> your competition.</p>
+          <p>Because I'm working in an <NS type="MP"><i>accountant</i><c>accountant's</c></NS> office, I'm very busy. The only month I could go <NS type="RT"><i>to</i><c>on</c></NS> <NS type="FN"><i>holidays</i><c>holiday</c></NS> is July, when we haven't got a lot to do.</p>
+          <p>Moreover, <NS type="RT"><i>because of</i><c>concerning</c></NS> the accommodation, I would like to be in a tent, because I want to spend my holidays <NS type="R">different than usually</NS>. And in my opinion, when you <NS type="RV"><i>live</i><c>sleep</c></NS> in a tent, you <NS type="R">have more from the nature and the adventure</NS>.</p>
+          <p>I like a lot <NS type="RT"><i>from</i><c>on</c></NS> your list <NS type="RT"><i>for</i><c>of</c></NS> <NS type="UD"><i>the</i></NS> <NS type="DJ"><i>sport</i><c>sports</c></NS> possibilities<NS type="RP"><i>, however</i><c>. However</c></NS><NS type="MP"><c>,</c></NS> I will choose swimming. I <NS type="TV"><i>used to be</i><c>was</c></NS> a member <NS type="RT"><i>in</i><c>of</c></NS> a swimming club for about 10 years. Additionally I'm keen on taking pictures. But <NS type="RY"><i>until now</i><c>so far</c></NS> I <NS type="TV"><i>only took</i><c>have only taken</c></NS> pictures on <NS type="FN"><i>holidays</i><c>holiday</c></NS> and <NS type="MT"><c>of</c></NS> some family <NS type="S"><i>celabrations</i><c>celebrations</c></NS>.</p>
+          <p>Lastly, I would like to ask if I have to take a lot of money with me, <NS type="W"><i>for example for the food</i><c>for the food for example</c></NS><NS type="RP"><i>. And</i><c>, and</c></NS> also if the weather will be good at this time <NS type="M"><c>of year</c></NS>.</p>
+          <p>I'm looking forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>I would like to begin this composition by saying that<NS type="UP"><i>,</i></NS> <NS type="W"><i>not for everyone is shopping the same</i><c>shopping is not the same for everyone</c></NS>. For some people it's great fun, but for some <NS type="FA"><i>other</i><c>others</c></NS> it's a "<NS type="RN"><i>must</i><c>necessity</c></NS>".</p>
+          <p>In my opinion, shopping is like relaxing. I like to go very often, to look around and to buy some new clothes<NS type="RP"><i>. As</i><c>, as</c></NS> long as I am not searching for something specific. When I must buy something, I usually can't find it and then <NS type="UD"><i>the</i></NS> shopping <NS type="AGV"><i>become</i><c>becomes</c></NS> a nightmare.</p>
+          <p>On the other hand, when you go <NS type="W"><i>with someone else shopping</i><c>shopping with someone else</c></NS>, and you both want to see and buy different things, it can also be <NS type="CL"><i>boring and uninteresting</i><c>boring</c></NS>. Then it is perhaps better<NS type="UP"><i>,</i></NS> when you make an appointment in one hour and everybody <NS type="RV"><i>enjoys</i><c>does</c></NS> <NS type="RD"><i>the</i><c>their</c></NS> shopping alone.</p>
+          <p>To sum up, I would like to say that <NS type="UT"><i>for</i></NS> to have an exciting shopping <NS type="MN"><c>trip</c></NS>, you <NS type="W"><i>have sometimes</i><c>sometimes have</c></NS> to plan it or just be in the right mood.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

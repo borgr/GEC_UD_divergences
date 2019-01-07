@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR15*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Thank you for organising <NS type="MD"><c>a</c></NS> good programme, <NS type="MA"><c>we</c></NS> especially like <NS type="R">sightseeing from River trip to Greenwich</NS> in London for three days. I am writing on behalf of my classmates to give <NS type="MA"><c>you</c></NS> the information <NS type="RT"><i>of</i><c>about</c></NS> 'The London Fashion And Leisure Show' which we would like to go <NS type="MT"><c>to</c></NS> and to <NS type="RV"><i><NS type="S"><i>huggest</i><c>suggest</c></NS></i><c>offer</c></NS> our opinion.</p>
+          <p>We have seen an advertisement <NS type="RT"><i>of</i><c>in</c></NS> last <NS type="MP"><i>Saturday</i><c>Saturday's</c></NS> 'The Times' edition of the show. It will be held in Central Exhibition Hall, London <NS type="SX"><i>or</i><c>on</c></NS> Tuesday March 14 from 10.00 to 19.00. Firstly, it will introduce <NS type="MD"><c>the</c></NS> latest fashions <NS type="RV">connecting</NS> <NS type="S"><i>Millenium</i><c>Millennium</c></NS>. Secondly, we will be able <NS type="R">to see leisure and <NS type="RP"><i>sports wear</i><c>sportswear</c></NS> about fashion trend of next year</NS>. It would be <NS type="MD"><c>a</c></NS> fantastic opportunity <NS type="RT"><i>to</i><c>for</c></NS> the students who study <NS type="UD"><i>a</i></NS> fashion. Finally, we can see how to <NS type="MV"><c>do</c></NS> <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="RV"><i>make</i><c>create</c></NS> better <NS type="FN"><i>hairstyle</i><c>hairstyles</c></NS> in the show. Most of all, <NS type="RP"><i>It</i><c>it</c></NS> is free for students to enter.</p>
+          <p>We would like to know if it is possible to change your programme. We would be grateful if we could go there in the afternoon on 14 March because we are able to go shopping.</p>
+          <p>We look forward to hearing from you.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p>Whenever I <NS type="S"><i>recollet</i><c>recollect</c></NS> it, I feel self-confident. When I was twenty years old, I had to go <NS type="RT"><i>to</i><c>into</c></NS> <NS type="MD"><c>the</c></NS> Army. As you know, my country has been separated into two countries (South and North Korea). However, instead of going <NS type="RT"><i>to</i><c>into</c></NS> <NS type="MD"><c>the</c></NS> Army, I was able to apply to <NS type="M"><c>join the</c></NS> Korea Auxiliary Police.</p>
+          <p>One year later, I was working in Kang-nam police station in Seoul. Suddenly, the <NS type="RN"><i>theft signal</i><c>burglar alarm</c></NS> came <NS type="RY"><i>into</i><c>on</c></NS>. So, another policeman and I had to arrive at the accident place quickly. When we arrived at the place <NS type="RA"><i>which</i><c>where</c></NS> it happened, one man started running away. Without any thought, I ran quickly like a swallow. Then, he tried to go over the wall, I held his leg. He fell down and we had to stare at each other. After we fought for a minute, I was able to arrest him. As a result, I could go on vacation. When I <NS type="RV"><i>said to</i><c>told</c></NS> my mother, she asked me not to do it again.</p>
+          <p>But, I was a <NS type="UP"><i>police-man</i><c>policeman</c></NS>. Therefore, I had to do it in spite of it being dangerous.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

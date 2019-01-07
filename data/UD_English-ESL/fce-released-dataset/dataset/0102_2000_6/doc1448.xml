@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR561*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="S"><i>MANANGER</i><c>MANAGER</c></NS> of the theatre</p>
+          <p>I'm writing just for <NS type="RQ"><i>the</i><c>one</c></NS> reason, to inform you how bad <NS type="UV"><i>became</i></NS> the present <NS type="M"><c>production is</c></NS>, <NS type="R"><i>name</i><c>called</c></NS> "OVER THE RAINBOW".</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> in the <NS type="DN"><i>describing</i><c>description</c></NS> of the show, the <NS type="DN"><i>starring</i><c>star</c></NS> <NS type="RV"><i>sould be</i><c>was</c></NS> Mr. DANNY BROOK, and it wasn't. Another thing was the <NS type="UV"><i>started</i></NS> time <NS type="M"><c>of the performance</c></NS><NS type="RP"><i>,</i><c>;</c></NS> the show started <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes late.</p>
+          <p>So try to imagine my situation<NS type="RP"><i>,</i><c>.</c></NS> I had <NS type="IV"><i>paied</i><c>paid</c></NS> a lot of money and I <NS type="RV"><i>couldn't</i><c>didn't</c></NS> <NS type="FV"><i>saw</i><c>see</c></NS> a good show<NS type="RP"><i>,</i><c>.</c></NS> I am really disappointed. When the play<NS type="MP"><c>,</c></NS> "over the Rainbow"<NS type="MP"><c>,</c></NS> finished I tried to eat something, but the fact was that the theatre restaurant was closed, because your <NS type="DN"><i>personal</i><c>personnel</c></NS> were cleaning all the <NS type="RN"><i>troubles</i><c>mess</c></NS> that <NS type="FD"><i>a</i><c>an</c></NS> old dog <NS type="RV"><i>did</i><c>made</c></NS>.</p>
+          <p>But, the principal reason <NS type="RT"><i>of</i><c>for</c></NS> this letter is to ask for some money back. I think that <NS type="RV"><i>could</i><c>would</c></NS> be <NS type="UD"><i>the</i></NS> best for everyone, and <NS type="TV"><i>I'll</i><c>I'd</c></NS> like to give you <NS type="CQ"><i>an</i><c>some</c></NS> advice<NS type="RP"><i>,</i><c>;</c></NS> if somebody <NS type="AGV"><i>pay</i><c>pays</c></NS> you for a ticket, try to give the best you can.</p>
+          <p><NS type="FV"><i>Hope</i><c>Hoping</c></NS> <NS type="FV"><i>hearing</i><c>to hear</c></NS> from you.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Unfortunatety</i><c>Unfortunately</c></NS>, Pat wasn't very good at keeping secrets. So, I'm going to tell <NS type="MA"><c>you</c></NS> about my grandfather and his friend Pat:</p>
+          <p>Many years ago, more or less seventy years <NS type="MY"><c>ago</c></NS> a young man<NS type="MP"><c>,</c></NS> with <NS type="FD"><i>a</i><c>an</c></NS> <NS type="S"><i>exellent</i><c>excellent</c></NS> capacity <NS type="RT"><i>of</i><c>for</c></NS> thinking and <NS type="FV"><i>to invent</i><c>inventing</c></NS> <NS type="UN"><i>materials</i></NS> things, started building a big thing called <NS type="MD"><c>a</c></NS> "time machine". He worked day and night.</p>
+          <p>Every day after having dinner Pat, his best friend, and my grandpa met to talk about their problems, but my Grandpa never told Pat about his new project.</p>
+          <p>One month later, his <NS type="DN"><i>worked</i><c>work</c></NS> was complete, but he was afraid <NS type="UT"><i>of</i></NS> <NS type="FV"><i>testing</i><c>to test</c></NS> his machine, so he called Pat and spoke <NS type="MT"><c>to</c></NS> <NS type="MA"><c>him</c></NS> about it.</p>
+          <p>The only thing Pat <NS type="RV"><i>should</i><c>had</c></NS> <NS type="FV"><i>do</i><c>to do</c></NS><NS type="UP"><i>,</i></NS> was to choose a date, <NS type="UD"><i>the</i></NS> one he <NS type="TV"><i>likes</i><c>liked</c></NS><NS type="MP"><c>,</c></NS> and to press the starter <NS type="S"><i>botton</i><c>button</c></NS>, and you know<NS type="UP"><i>,</i></NS> what<NS type="RP"><i>,</i><c>?</c></NS> <NS type="RP"><i>he</i><c>He</c></NS> did it! The machine worked really <NS type="DY"><i>good</i><c>well</c></NS>.</p>
+          <p>The fact was that Pat <NS type="TV"><i>choose</i><c>chose</c></NS> to go to the year 2000, and when he arrived, he told <NS type="RP"><i>every one</i><c>everyone</c></NS> that he was the inventor. That's why Pat wasn't very good at keeping secrets.</p>
+          <p>THE END.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

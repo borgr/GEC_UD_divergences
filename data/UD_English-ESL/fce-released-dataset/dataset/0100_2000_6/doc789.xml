@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR312*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Cracow 8430</p>
+          <p>Dear Competition Organiser,</p>
+          <p>I've already decided when I want to take a part at The Camp California in USA. The most suitable time for this trip is only in July, because I've <NS type="W"><i>planned already</i><c>already planned</c></NS> the rest of my summer holidays. <NS type="RT"><i>On</i><c>In</c></NS> June and August, so that's the only time when I can travel there.</p>
+          <p><NS type="CD"><i>An</i><c>The</c></NS> accommodation at the camp that is <NS type="FY"><i>more</i><c>most</c></NS> suitable for me is in log cabins. I prefer that kind of <NS type="S"><i>accomodation</i><c>accommodation</c></NS> because I can have a kitchen or even a bathroom there, but I can't have it in <NS type="MD"><c>a</c></NS> tent.</p>
+          <p>I've also <NS type="IV"><i>choosed</i><c>chosen</c></NS> two activities, swimming and sailing. These are my <NS type="SA"><i>favorite</i><c>favourite</c></NS> because they have a lot to do with water, but I like them more than surfing.</p>
+          <p><NS type="RY"><i>At the end</i><c>Finally</c></NS> I would like to ask you how much money is needed and what kind of clothes are the best for this camp.</p>
+          <p> Please answer me soon.</p>
+          <p>Otto Zajac.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>I agree with this statement especially when we talk about small <NS type="FN"><i>shop</i><c>shops</c></NS> in the <NS type="SA"><i>center</i><c>centre</c></NS> of a big town. These shops are usually very crowded and you have to wait for a very long time to buy one kilogram of carrots for example. In such <NS type="UD"><i>a</i></NS> shops there is usually one or one or two <NS type="RN"><i>sellers</i><c>sales assistants</c></NS>, <NS type="RA"><i>what</i><c>which</c></NS> is not enough when a shop is full of people. That's a place where you lose too much <NS type="UT"><i>of</i></NS> time and health.</p>
+          <p>Shopping is more enjoyable if you go to a big supermarket, because there <NS type="AGV"><i>is</i><c>are</c></NS> smaller <NS type="FN"><i>crowd</i><c>crowds</c></NS> and more <NS type="RN"><i>sellers</i><c>sales assistants</c></NS> work there. <NS type="ID"><i>In these days</i><c>These days</c></NS> people <NS type="S"><i>prefere</i><c>prefer</c></NS> shopping at supermarkets <NS type="MY"><c>rather</c></NS> than at shops or even shopping <NS type="RN"><i>areas</i><c>centres</c></NS>, because shopping at <NS type="MD"><c>a</c></NS> shop is less enjoyable and you <NS type="TV"><i>spent</i><c>spend</c></NS> the same amount of money.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

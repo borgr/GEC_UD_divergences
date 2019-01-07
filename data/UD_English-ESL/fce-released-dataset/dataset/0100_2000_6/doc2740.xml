@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1112*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing <NS type="MT"><c>to</c></NS> you in order to answer your questions and to get some information I would like to have.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I want you to know I am really happy about the prize. The only problem is that <NS type="RT"><i>like</i><c>as</c></NS> I am a student I can travel only during <NS type="MD"><c>the</c></NS> holidays, in July. <NS type="R"><i><NS type="IV"><i>Refering</i><c>Referring</c></NS> to</i><c>Regarding</c></NS> accommodation I would rather <NS type="TV"><i>to stay</i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I have never <NS type="RV"><i>gone</i><c>been</c></NS> <NS type="UT"><i>on</i></NS> camping <NS type="RC"><i>so</i><c>and</c></NS> I would like to <NS type="RV"><i>have</i><c>try</c></NS> <NS type="R"><i>the experience</i><c>it</c></NS>.</p>
+          <p>I am not really keen on art<NS type="MP"><i> that</i><c>. That</c></NS> is why I <NS type="MV"><c>would</c></NS> prefer doing some sports like surfing and sailing. If I <NS type="TV"><i>have</i><c>had</c></NS> to be honest, I would say I have never <NS type="RV"><i>practised</i><c>done</c></NS> <NS type="R"><i>none</i><c>either</c></NS> of them. Yet, I would like to try them because my city is <NS type="UY"><i>too</i></NS> far from the sea so I don't have many opportunities of doing them.</p>
+          <p>I would appreciate <NS type="MA"><c>it</c></NS> if you could tell me what kind of clothes and how much money I should take. <NS type="R">Besides</NS>, I wonder if I will share <NS type="RD"><i>the</i><c>a</c></NS> <NS type="SX"><i>tend</i><c>tent</c></NS> or not and if I have to <NS type="RV"><i>take</i><c>bring</c></NS> it <NS type="U"><i>from here</i></NS> or if it will be provided by you.</p>
+          <p>I am looking <NS type="S"><i>fordward</i><c>forward</c></NS> to hearing from you.</p>
+          <p>Yours</p>
+          <p>Natalia Lorena Kraus</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I'm really happy because I've finally received your letter. If I didn't <NS type="TV"><i>told</i><c>tell</c></NS> you <NS type="MT"><c>about</c></NS> <NS type="R"><i>the</i><c>my</c></NS> experience <NS type="RT"><i>of</i><c>at</c></NS> the pop concert in detail in my last letter <NS type="MA"><c>it</c></NS> was because I didn't have time. Please don't be angry. I will tell you everything right now.</p>
+          <p><NS type="R"><i>As</i><c>A</c></NS> few months ago I <NS type="IV"><i>chated</i><c>chatted</c></NS>, <NS type="RT"><i>by</i><c>via</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, to a nice guy from Buenos Aires<NS type="UP"><i>,</i></NS> who happened to be one of the <NS type="AGN"><i>member</i><c>members</c></NS> of "Los Pericos". We started mailing each other and became good friends. They <NS type="TV"><i>have</i><c>had</c></NS> to <NS type="RV"><i>make</i><c>give</c></NS> a concert in my city so when they arrived here my friend phoned me and invited me <NS type="MT"><c>to</c></NS> where they were preparing the concert.</p>
+          <p>The problem was that one of the <NS type="S"><i>technics</i><c>technicians</c></NS> was from England and nobody there spoke <NS type="UC"><i>nor</i></NS> a word <NS type="RT"><i>in</i><c>of</c></NS> English so I was asked to be the interpreter. It was so great!! Not only because I learnt a lot about concerts and music, but also because I practised my English.</p>
+          <p>I hope you are not angry any more after this letter.</p>
+          <p>I'm looking <NS type="S"><i>fordward</i><c>forward</c></NS> to hearing from you.</p>
+          <p>love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

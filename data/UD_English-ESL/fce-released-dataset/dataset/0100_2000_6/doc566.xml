@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR238*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>Thank you for your letter. I am very happy to have won your competition. In order to confirm my schedule for <NS type="MD"><c>the</c></NS> <NS type="RN"><i>travel</i><c>trip</c></NS> I have won in your competition, I am writing some information to you below.</p>
+          <p>I would like to go to "Camp California" <NS type="RT"><i>on</i><c>in</c></NS> July because I will have to produce "Mission Impossible III" from August. I will be busy <NS type="FV"><i>to decide</i><c>deciding</c></NS> everything about this film and will not have enough time to go there.</p>
+          <p>I would prefer <NS type="MV"><c>to stay</c></NS> in tents as <NS type="UD"><i>a</i></NS> accommodation because it sounds thrilling and even <NS type="RJ">ecstatic</NS> for me<NS type="MP"><c>,</c></NS> and also I have never tried this kind of accommodation before.</p>
+          <p>I would like to choose Swimming and Tennis. To produce a film is very hard work. I must keep <NS type="MT"><c>in</c></NS> <NS type="UD"><i>a</i></NS> good condition to make a masterpiece. Swimming is really nice for <NS type="UD"><i>my</i></NS> relaxing and I can do exercise for a long time. On the other hand, tennis stimulates my body and soul. It is good for my inspiration.</p>
+          <p>I don't have anything I would like to ask you. I look forward to going to go "Camp California".</p>
+          <p><NS type="L"><i><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</i><c>Yours faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Hi! Kim.</p>
+          <p>How have you been? Hope you haven't been working too hard!</p>
+          <p>By the way, <NS type="RP"><i>Do</i><c>do</c></NS> you want to hear <NS type="MT"><c>about</c></NS> my experience <NS type="RT"><i>about</i><c>of</c></NS> <NS type="MD"><c>the</c></NS> pop concert? OK! Here we go!</p>
+          <p>I enjoyed helping at a pop concert last month. There <NS type="TV"><i>are</i><c>were</c></NS> a lot of people. I <NS type="RV"><i>conveyed</i><c>carried</c></NS> a lot of chairs and looked after the <NS type="S"><i>que</i><c>queue</c></NS> or people who lost their way. It sounds really bad but I enjoyed this pop concert to my heart's content.</p>
+          <p>I like "X". "X" is the musician who sang songs at <NS type="RD"><i>a</i><c>the</c></NS> pop concert. My aim joining this concert as a <NS type="M"><c>member of</c></NS> <NS type="RN"><i>stuff</i><c>staff</c></NS> was that I could see "X". I know you like "X" as well. Do you envy me? The concert was <NS type="RJ">enthusiastic</NS> and even made me ecstatic. His voice is also soulful and sometimes even gave us blissful <NS type="MN"><c>feelings</c></NS>. Sounds good, doesn't it?</p>
+          <p>Hope we join the next pop concert together as <NS type="UD"><i>a</i></NS> <NS type="RN"><i>stuff</i><c>staff</c></NS> and enjoy our time <NS type="MA"><c>there</c></NS>!</p>
+          <p>Bye</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

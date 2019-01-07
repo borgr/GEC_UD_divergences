@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE56*0100*2001*01">
+  <candidate><personnel><language>Korean</language><age>31-40</age></personnel><score>14.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I have just received your letter. It was very <NS type="RJ"><i>sorry</i><c>sad</c></NS> news <NS type="RT"><i>to</i><c>about</c></NS> Richard Brown. I have given <NS type="L"><i>much</i><c>a lot of</c></NS> information <NS type="RT"><i>of</i><c>about</c></NS> the international student conference.</p>
+          <p>Firstly, the conference will take place in the Palace Hotel and we get from our college to there by bus. Number 45 bus <NS type="RV"><i>runs</i><c>goes</c></NS> <NS type="UT"><i>to</i></NS> there every 5 minutes. It takes 25 minutes<NS type="MP"><c>,</c></NS> <NS type="RC"><i>that</i><c>which</c></NS> is convenient <NS type="RT"><i>to</i><c>for</c></NS> us. Secondly, there are some <NS type="M"><c>items on the</c></NS> programme that are <NS type="UY"><i>very</i></NS> great. <NS type="ID"><i>First time</i><c>First of all</c></NS>, the conference's head <NS type="AGV"><i>make</i><c>makes</c></NS> a short speech and then we have dinner and drinks. Finally we enjoy a disco party so you <NS type="MV"><c>should</c></NS> wear a <NS type="S"><i>suiteable</i><c>suitable</c></NS> dress.</p>
+          <p>On the last day I <NS type="MV"><c>will</c></NS> go to your house and then we <NS type="R">think about our's conference plane.</NS></p>
+          <p>I hope it will be a successful conference.</p>
+          <p>See you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Alice knew that it was going to be a very special day for her. Alice and Jane came back <NS type="UD"><i>her</i></NS> home. Alice is Jane's <NS type="RP"><i>boy friend</i><c>boyfriend</c></NS>. In the morning they <NS type="UV"><i>have</i></NS> met and then they went to <NS type="MD"><c>the</c></NS> beach. It was nice weather and <NS type="M"><c>they had</c></NS> <NS type="MD"><c>a</c></NS> beautiful time. In the evening they were going to the disco party that was Jane's friend's birthday party.</p>
+          <p>Jane suddenly thought about her house key that <NS type="M"><c>she had</c></NS> left inside her house and Alice could see <NS type="UD"><i>the</i></NS> her house and he found the bathroom window was <NS type="DJ"><i>opening</i><c>open</c></NS>. So he <NS type="S"><i>crimbed</i><c>climbed</c></NS> on the <NS type="S"><i>radder</i><c>ladder</c></NS> up to the window and he opened the door but policemen came there "what happened?"</p>
+          <p>Jane <NS type="S"><i>expained</i><c>explained</c></NS> that <NS type="FN"><i>situations</i><c>situation</c></NS> and they <NS type="RP"><i>under stood</i><c>understood</c></NS> <NS type="RA"><i>him</i><c>her</c></NS>. So they could go to the disco party. It was a very wonderful party and they have never <NS type="TV"><i>forgot</i><c>forgotten</c></NS> that day. It was a very very special day.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

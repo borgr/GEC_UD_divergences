@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR764*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to you because I went to The Circle Theatre some days ago and I regret to inform you that it was not a good experience.</p>
+          <p>According to the advertisement Danny Brook was the male actor. However<NS type="MP"><c>,</c></NS> he did not act, and his <NS type="S"><i>sustitute</i><c>substitute</c></NS> was not very good at acting.</p>
+          <p>Secondly I had problems with both tickets and time.</p>
+          <p>The play started at 20:15 instead of 19.30. Furthermore I could not get a discount although I think I was entitled to it. (I have a special youth card).</p>
+          <p>In addition the theatre restaurant was not <NS type="RJ"><i>available</i><c>open</c></NS> because of the waiters' strike.</p>
+          <p>In conclusion, not only <NS type="W"><i>my evening was</i><c>was my evening</c></NS> horrible but also expensive. That is why I ask you <NS type="UT"><i>for</i></NS> <NS type="FV"><i>refunding</i><c>to refund</c></NS> my money, or at least part of it.</p>
+          <p>Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Best Detective Stories of Agatha Christie (Accident)</p>
+          <p>Dear Nigel,</p>
+          <p>I was pleased to hear from you last week. Now I am writing to you because a story <NS type="RT"><i>of</i><c>by</c></NS> Agatha Christie is going to be read on the radio. Its title is "Accident"</p>
+          <p>I know you are interested in the author and I think you'll like the story.</p>
+          <p>Firstly the main character is Evans, a retired police captain. He is not as well-known as Poirot or Miss Marple, but his personality <NS type="R"><i>it</i><c>is</c></NS> quite interesting. I am sure you'll agree with me.</p>
+          <p>Secondly the plot. It is about a woman who poisoned her first husband. At least this is Evans' opinion. Not only is the plot interesting but also it <NS type="IV"><i>catchs</i><c>catches</c></NS> your <NS type="RN"><i>attention</i><c>interest</c></NS> <NS type="RT"><i>since</i><c>from</c></NS> the first moment.</p>
+          <p>Finally, you should pay attention to the ending<NS type="MP"><c>,</c></NS> which is surprising.</p>
+          <p>I hope you will spend a good evening listening to the radio. The story is going to be read next Friday at 8.00 p.m. Have a good time and write soon.</p>
+          <p>Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR439*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> to complain about the musical show at the Circle Theatre.</p>
+          <p>Firstly, the <NS type="FN"><i>actors</i><c>actor</c></NS> who <NS type="TV"><i>starring</i><c>starred</c></NS> was not Dany Brook as <NS type="U"><i>it was</i></NS> advertised but <NS type="DQ"><i>one other</i><c>another</c></NS> actor, whose performance was very bad. That made the show disappointing.</p>
+          <p>Secondly, the show should <NS type="TV"><i>began</i><c>have begun</c></NS> at half past seven. <NS type="RP"><i>despite</i><c>Despite</c></NS> <NS type="AGD"><i>these</i><c>this</c></NS> fact the show began at a quarter to eight.</p>
+          <p>Also, there <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="X"><i>not</i><c>no</c></NS> <NS type="W"><i>available tickets</i><c>tickets available</c></NS> <NS type="M"></NS> and after <NS type="AGD"><i>these</i><c>this</c></NS> bad musical show<NS type="MP"><c>,</c></NS> the restaurant of the theatre was closed.</p>
+          <p>My evening was not very pleasant as you advertised. As a result of <NS type="RA"><i>that</i><c>this</c></NS> I demand <NS type="UV"><i>to have</i></NS> some of my money back.</p>
+          <p>Yours faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>If I <NS type="TV"><i>say</i><c>said</c></NS> that technology has not changed my life I would be lying. If fact technology <NS type="TV"><i>change</i><c>has changed</c></NS> <NS type="W"><i>in a major <NS type="RN"><i>point</i><c>way</c></NS> my life</i><c>my life in a major way</c></NS>.</p>
+          <p>Can you imagine your life without a car or a television? I <NS type="RV"><i>don't</i><c>can't</c></NS>. Technology <NS type="MV"><c>is</c></NS> so much <NS type="M"><c>a part of</c></NS> my life <NS type="R"><i>which</i><c>that</c></NS> I could not live without it.</p>
+          <p>But technology doesn't only <NS type="AGV"><i>makes</i><c>make</c></NS> my life better. By <NS type="UD"><i>the</i></NS> <NS type="FV"><i>use</i><c>using</c></NS> <NS type="UT"><i>of</i></NS> <NS type="MD"><c>a</c></NS> car I <NS type="UV"><i>do</i></NS> not only get an easy way to move <NS type="MY"><c>around</c></NS>, but I <NS type="MY"><c>also</c></NS> destroy <NS type="RD"><i>my</i><c>the</c></NS> <NS type="S"><i>enviroment</i><c>environment</c></NS>. Also, if I use the car<NS type="UP"><i>,</i></NS> <NS type="RT"><i>in</i><c>for</c></NS> small distances when I <NS type="TV"><i>can</i><c>could</c></NS> go on foot, I <NS type="RV">destroy</NS> my <NS type="RN"><i>physical situation</i><c>health</c></NS>.</p>
+          <p><NS type="TV"><i>Could</i><c>Can</c></NS> you imagine your life without a television or a computer? I <NS type="TV"><i>could not</i><c>can't</c></NS>. <NS type="UC"><i><NS type="S"><i>Althouth</i><c>Although</c></NS> with</i><c>With</c></NS> the computer I can contact <NS type="UT"><i>with</i></NS> my friends and with the television I relax, I could not find another way to relax and contact <NS type="UT"><i>with</i></NS> others.</p>
+          <p>Technology is very important <NS type="RT"><i>for</i><c>in</c></NS> my life. It makes my life <NS type="IJ"><i>more easier</i><c>easier</c></NS>, and it would be much more difficult to live without it<NS type="MP"><c>.</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

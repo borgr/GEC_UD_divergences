@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR359*0102*2000*01">
+  <candidate><personnel><language>Greek</language></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Redford,</p>
+          <p>I'm writing to you to complain about the problems which <NS type="RV">were shown</NS> at the "Over the Rainbow" musical show.</p>
+          <p>In the advertisement I read that Danny Brook <NS type="RV"><i>started</i><c>starred</c></NS> in the show but when I got there I realised there was a different actor in his place whose acting wasn't good enough.</p>
+          <p>I have also read that the show was supposed to start at 19:30 but it didn't. It started at 20:15 leaving us <NS type="RV"><i>writing</i><c>waiting</c></NS> for <NS type="S"><i>fourty</i><c>forty</c></NS> five minutes. You have also advertised that there would be discounts available but there weren't and that we could visit the theatre restaurant after the show but it was closed because they were redecorating it. In the advertisement you write that it's the perfect evening out but all these problems made my evening <NS type="RT"><i>in</i><c>at</c></NS> the show very unpleasant.</p>
+          <p>As you are the manager of the show, you should try to avoid <NS type="AGD"><i>this</i><c>these</c></NS> <NS type="AGN"><i>sort</i><c>sorts</c></NS> of problems in future shows. I also ask <NS type="MA"><c>you</c></NS> to return <NS type="UA"><i>me</i></NS> some of my money for the unpleasant evening I <NS type="RV"><i>passed</i><c>spent</c></NS> at your show.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>In the future people will wear clothes made of <NS type="S"><i>polyseer</i><c>polyester</c></NS> and nylon because cotton and wool will be rare and expensive.</p>
+          <p>Clothes will be bright coloured and loose. I don't think anyone will wear a suit as it will be old-fashioned.</p>
+          <p>Also I think clothes will have many gadgets on them like a small oxygen mask in case someone goes in a place with <NS type="RJ">extended</NS> pollution - I think there will be many such places in a hundred years - and a hat designed to protect people from the strong <NS type="RN"><i>sunrays</i><c>rays</c></NS> of the sun at midday because the ozone layer will be destroyed in a hundred years and the sunrays will <NS type="RV"><i>make</i><c>do</c></NS> damage to the human skin.</p>
+          <p>Also the clothes in a hundred years will have the ability to cool down the people who wear them in the summer and the same clothes will keep them warm <NS type="RT"><i>in</i><c>on</c></NS> cold winters' days.</p>
+          <p>As you can realise<NS type="MP"><c>,</c></NS> I think <NS type="MD"><c>the</c></NS> future's clothes will be adjusted not <NS type="UT"><i>on</i></NS> only <NS type="RT"><i>in</i><c>according to</c></NS> fashion and the seasons but <NS type="RT"><i>in</i><c>to</c></NS> the needs of every <NS type="R">on as to protect from the earths pollution as well</NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

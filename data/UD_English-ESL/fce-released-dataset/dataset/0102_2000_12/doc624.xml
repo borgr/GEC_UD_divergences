@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR247*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Ms <NS type="UN"><i>Jane</i></NS> Clark,</p>
+          <p>Recently I visited an arts festival<NS type="UP"><i>,</i></NS> organized with your help. I enjoyed it very much and I think the idea of <NS type="U"><i>its creation</i></NS> <NS type="MA"><c>it</c></NS> is great. However, I have some proposals <NS type="RT"><i>about</i><c>for</c></NS> its <NS type="DN"><i>improving</i><c>improvement</c></NS> next year.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, I <NS type="RV"><i>propose</i><c>suggest</c></NS> <NS type="MA"><c>you</c></NS> <NS type="FV"><i>to invite</i><c>invite</c></NS> stars and artists not from all <NS type="MT"><c>over</c></NS> the world, but from only six countries. This change will give <NS type="M"></NS> <NS type="MD"><c>the</c></NS> opportunity to <NS type="R">create some different performance</NS>.</p>
+          <p><NS type="UD"><i>The <NS type="W"><i>second my</i><c>my second</c></NS></i><c>My second</c></NS> proposition is about <NS type="MD"><c>the</c></NS> <NS type="DJ"><i>classic</i><c>classical</c></NS> concerts. I <NS type="RV"><i>suppose</i><c>think</c></NS> that some concert halls are too small, so you should be sure about <NS type="UA"><i>it</i></NS> <NS type="M"></NS> in advance.</p>
+          <p>This year I noticed that there were only <NS type="MD"><c>a</c></NS> few plays and films. From my point of view, there should be more films because this part of the festival is interesting for people.</p>
+          <p>And, <NS type="RY"><i>at last</i><c>finally</c></NS>, I should congratulate you <NS type="RT"><i>with</i><c>on</c></NS> the decision <NS type="UT"><i>of</i></NS> <NS type="RV"><i><NS type="FV"><i>making</i><c>to make</c></NS></i><c>to have</c></NS> one weekend ticket for all events. I support this idea which is <NS type="S"><i>convinient</i><c>convenient</c></NS> both for <NS type="MD"><c>the</c></NS> <NS type="RN"><i>people</i><c>public</c></NS> and <NS type="MD"><c>the</c></NS> <NS type="DN"><i>organisators</i><c>organisers</c></NS>.</p>
+          <p>I hope you will consider my proposals.</p>
+          <p>I am looking forward <NS type="RT"><i>for</i><c>to</c></NS> <NS type="RD"><i>this</i><c>the</c></NS> festival next year.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Ana,</p>
+          <p>Thanks for your letter and postcard. It was really nice <NS type="M"></NS>. The things you wrote about in your letter are quite <NS type="RJ"><i>common</i><c>familiar</c></NS> for me, because we, <NS type="RY"><i>actually</i><c>at the moment</c></NS>, have some problems <NS type="RT"><i>about</i><c>with</c></NS> our rules.</p>
+          <p><NS type="RY"><i>At first</i><c>First</c></NS>, about school.</p>
+          <p>I'm really fed up with our school <NS type="S"><i>forne</i><c>uniform</c></NS>! It is <NS type="DJ"><i>awfull</i><c>awful</c></NS>! And the problem is that nobody wants to wear it. That's why our headmaster is really angry. <NS type="RT"><i>Off</i><c>Of</c></NS> course, if we had <NS type="RD"><i>such</i><c>a</c></NS> pretty <NS type="S"><i>forne</i><c>uniform</c></NS> like yours, we would wear it with pleasure. But it's impossible at the moment.</p>
+          <p>What should I say <NS type="MT"><c>to</c></NS> you about home...</p>
+          <p>We are quite <NS type="MD"><c>a</c></NS> friendly family, that's why we actually don't have <NS type="RQ"><i>some</i><c>any</c></NS> special rules. However, we promised our <NS type="S"><i>perents</i><c>parents</c></NS> to <NS type="RV"><i>make</i><c>do</c></NS> <NS type="MQ"><c>some</c></NS> cleaning <NS type="UY"><i>up</i></NS> every week.</p>
+          <p>This is all I wanted to write <NS type="MT"><c>to</c></NS> you about rules.</p>
+          <p>I miss you very much.</p>
+          <p>I'm looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> you next summer after my exams.</p>
+          <p>Write <NS type="MT"><c>to</c></NS> me <NS type="M"></NS> what <NS type="UV"><i>do</i></NS> you think about it.</p>
+          <p>Kisses to your family,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

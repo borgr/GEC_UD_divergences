@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR736*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RP"><i>manager</i><c>Manager</c></NS> of the <NS type="RP"><i>circle theatre</i><c>Circle Theatre</c></NS>,</p>
+          <p>Two months ago I went to see your musical show. I got very angry because you are liars. It was one of the most disappointing <NS type="AGN"><i>evening</i><c>evenings</c></NS> of my life.</p>
+          <p>The advertisement said that the actors were Danny Brook and Tina Truelove but the <NS type="FN"><i>actor</i><c>actors</c></NS> <NS type="M"></NS> <NS type="AGV"><i>was</i><c>were</c></NS> different. Who <NS type="RV"><i><NS type="TV"><i>can</i><c>could</c></NS></i><c>would</c></NS> believe it? You <NS type="W"><i>are really</i><c>really are</c></NS> a funny theatre.</p>
+          <p>And <NS type="M"><c>then there's</c></NS> the time<NS type="MP"><c>,</c></NS> too. You wrote that at 19.30 the musical <NS type="TV"><i>started</i><c>would start</c></NS>. I was waiting for 45 <NS type="AGN"><i>minute</i><c>minutes</c></NS><NS type="RP"><i>.</i><c>:</c></NS> the show started at 20:15.</p>
+          <p>I paid <NS type="R"><i>20 pounds</i><c>£20</c></NS> without any discount. You said that some <NS type="S"><i>discouns</i><c>discounts</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> available. Nobody <NS type="RV"><i>took</i><c>got</c></NS> a discount.</p>
+          <p>When I went to the <NS type="S"><i>reastaure</i><c>restaurant</c></NS> I was really <NS type="S"><i>suprised</i><c>surprised</c></NS>. It was closed and I <NS type="SX"><i>steel</i><c>still</c></NS> don't know why<NS type="RP"><i>?</i><c>.</c></NS></p>
+          <p>In the <NS type="S"><i>advertisemen</i><c>advertisement</c></NS> you wrote "your perfect evening out", that's very funny. It was <NS type="RP"><i>Just</i><c>just</c></NS> a disappointing night and I want you to return to me some of my money<NS type="RP"><i>,</i><c>.</c></NS></p>
+          <p>a very angry man</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="UD"><i>The modern</i><c>Modern</c></NS> technology has changed my daily life in many ways. <NS type="UD"><i>The modern</i><c>Modern</c></NS> technology <NS type="AGV"><i>help</i><c>helps</c></NS> me when I do my homework<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> <NS type="UT"><i>to</i></NS> <NS type="MV"><c>play</c></NS> some games <NS type="RP"><i>e.t.c.</i><c>etc.</c></NS></p>
+          <p>First of all<NS type="MP"><c>,</c></NS> the computer. It helps me when I <NS type="S"><i>studie</i><c>study</c></NS>. I can find many things <NS type="RT"><i>from</i><c>on</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS> or <NS type="FV"><i>to write</i><c>write</c></NS> my compositions on it.</p>
+          <p>The car has changed my daily life, like everyone <NS type="MP"><i>else</i><c>else's</c></NS>. I can go from one place to <NS type="RA"><i><NS type="MD"><c>the</c></NS> other</i><c>another</c></NS> very fast<NS type="MP"><c>.</c></NS></p>
+          <p>Most of the machines which <NS type="RA"><i>you</i><c>I</c></NS> have at home help me, too. I can find cold water in the <NS type="S"><i>refrigarator</i><c>refrigerator</c></NS> but 50 years <NS type="RY"><i>before</i><c>ago</c></NS> <NS type="R"><i>the</i><c>they</c></NS> didn't have the <NS type="S"><i>refrigarator</i><c>refrigerator</c></NS>, so our life is easier<NS type="UP"><i>,</i></NS> today.</p>
+          <p>When I stay home I can watch <NS type="MN"><c>TV</c></NS> or listen to the radio <NS type="RP"><i>e.t.c.</i><c>etc,</c></NS> so <NS type="UD"><i>the</i></NS> modern technology <NS type="AGV"><i>help</i><c>helps</c></NS> me to spend my free time.</p>
+          <p>As you have seen<NS type="MP"><c>,</c></NS> <NS type="UD"><i>the</i></NS> modern technology has changed my daily life a lot and I believe that it has changed it <NS type="RT"><i>to</i><c>for</c></NS> the better.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR896*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear sir,</p>
+          <p>I'm writing to you to complain about the show presented by Circle Theatre last Tuesday. <NS type="ID"><i>In fact</i><c>The fact is</c></NS> it was quite different from the one I had expected to see. First of all, Danny Brook wasn't the leading actor, though his name was printed on the <NS type="RN"><i>brochure</i><c>flyer</c></NS>. I had been looking forward to seeing his performance for ages, so as soon as I realized there was a substitute on the stage, I was really disappointed.</p>
+          <p>I was angry because the show started at 20:15 instead of 19.30, too. Considering that I had to buy a full-price ticket (even <NS type="RC"><i>if</i><c>though</c></NS> I had read on the <NS type="RN"><i>brochure</i><c>flyer</c></NS> that discounts would be available), I think you can understand my anger. I suggest you should solve these problems quickly. If I were you, I should keep open the theatre restaurant, because I heard people saying it was a pity it was closed.</p>
+          <p>Thanks to you, I've had the most dreadful experience of my life.</p>
+          <p>If you don't give me back my money I'll never go to your theatre again.</p>
+          <p>Write back soon</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>As Modern technology is changing the world rapidly I think we are all involved in the revolution it's causing.</p>
+          <p>New technologies have affected people's way of <NS type="RN"><i>living</i><c>life</c></NS> for ages, by offering them better tools <NS type="M"><c>to help them</c></NS> to survive</p>
+          <p>I think people don't realize how much technology rules their life. Neither do I. In particular I'd like to talk about <NS type="MD"><c>the</c></NS> Internet. I think that <NS type="MD"><c>the</c></NS> Internet has changed my daily life most of all. In fact, now I can write to friends who live in foreign countries, for <NS type="S"><i>exemple</i><c>example</c></NS><NS type="MP"><c>,</c></NS> in the morning and receive <NS type="UY"><i>back</i></NS> their answer in the evening or even just a minute after writing. Therefore I regard <NS type="MD"><c>the</c></NS> Internet as <NS type="W"><i>a quite</i><c>quite a</c></NS> powerful tool and I believe it has given more <NS type="S"><i>strenght</i><c>strength</c></NS> to <NS type="RN"><i>relations</i><c>relationships</c></NS> <NS type="RT"><i>among</i><c>between</c></NS> people. In fact people meet on the Net; they learn many things; they stay in touch with friends who are abroad; and sometimes they even fall in love on the net.</p>
+          <p>I can say such things because I use the net in the same way and I'm really astounded by <NS type="R"><i>its</i><c>the</c></NS> way <NS type="MA"><c>it</c></NS> <NS type="UT"><i>of</i></NS> <NS type="TV"><i>changing</i><c>has changed</c></NS> my daily life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

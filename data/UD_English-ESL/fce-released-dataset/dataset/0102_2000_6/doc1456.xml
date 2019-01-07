@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR565*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about your advertisement which <NS type="RV"><i>inform</i><c>gave</c></NS> me wrong information. While I had a holiday in London I went to your theatre to see "Over The Rainbow", but I had a very disappointing evening.</p>
+          <p>Firstly, I am a fan of Danny Brook so your advert attracted me but when I went there a different actor was in the musical show instead of him. I was so disappointed.</p>
+          <p>Secondly, your timetable was wrong. It said the show started at 14.30 but, actually, it started at 20.15 so we had to wait for about six hours.</p>
+          <p>Thirdly, I saw "Discount Available" on your advert but your <NS type="IN"><i>staffs</i><c>staff</c></NS> said it was just for Mondays. Your advert made me <NS type="FV"><i>misunderstood</i><c>misunderstand</c></NS>.</p>
+          <p>Finally, we visited your theatre restaurant after the show. However, it <NS type="MV"><c>was</c></NS> closed because it was being decorated.</p>
+          <p>Your advert promised me <NS type="MD"><c>a</c></NS> "Perfect evening out", but it was <NS type="MD"><c>a</c></NS> terrible evening <NS type="RT"><i>to</i><c>for</c></NS> me. So I want you to give me a refund.</p>
+          <p>Looking forward to hearing from you soon</p>
+          <p>Yours faithfully,</p>
+          <p>Ko Hyu Tung</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>How has <NS type="S"><i>mordern</i><c>modern</c></NS> technology changed my daily life?</p>
+          <p>When I was young, I used to play sports such as football, basketball and tennis with my friends but, these days, I am getting used to sitting in front of the computer and watching TV.</p>
+          <p>When I bought my computer, I wasn't interested in it but when I started studying <NS type="UT"><i>about</i></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> and playing games, I found it interesting. Sometimes, I think I am a computer addict because whenever I come back home, my hand <NS type="AGV"><i>go</i><c>goes</c></NS> to <NS type="MD"><c>the</c></NS> computer <NS type="S"><i>swich</i><c>switch</c></NS>, <NS type="S"><i>automaticaly</i><c>automatically</c></NS>, even though I don't want to use the computer. I usually spend my time on playing computer <NS type="MN"><c>games</c></NS> about three hours a day.</p>
+          <p>After that, I go to the sofa <NS type="UT"><i>for</i></NS> <NS type="FV"><i>watch</i><c>to watch</c></NS> TV. Although there aren't programmes which are interesting, I just watch TV, so my mother calls me "Couch Potato".</p>
+          <p>As a result, my health is getting worse. I know I need to excercise but it is difficult for me to start.</p>
+          <p>Modern technology has changed my daily life from physical activity to mental activity (??)</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

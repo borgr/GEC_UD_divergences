@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR290*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>26-30</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>13 June 2000</p>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to give you <NS type="S"><i>futher</i><c>further</c></NS> information about me which you need <NS type="RT"><i>about</i><c>for</c></NS> Camp California.</p>
+          <p>I am delighted that <NS type="W"><i>finally<NS type="UP"><i>,</i></NS> I have</i><c>I have finally</c></NS> won <NS type="UD"><i>the</i></NS> first <NS type="SX"><i>prise</i><c>prize</c></NS> in your <NS type="RP"><i>Competition</i><c>competition</c></NS>.</p>
+          <p>I would like to travel only in June because I will start working in July <NS type="RA"><i>that</i><c>which</c></NS> means I will not be able to come there <NS type="MQ"><c>any</c></NS> later.</p>
+          <p>Moreover, I would rather stay in a tent than in a log cabin because I always stay in a tent when I am on holidays. It is not comfortable but <NS type="RA"><i>it</i><c>I</c></NS> still like it.</p>
+          <p>Concerning <NS type="UT"><i>to</i></NS> the activities which I have to choose I would like to inform you that I am fond of photography and I am quite good <NS type="RT"><i>in</i><c>at</c></NS> it because I have attended a relevant course for three months.</p>
+          <p><NS type="RT"><i>According to</i><c>Because of</c></NS> my work experience as a lifeguard I will choose swimming as the second activity.</p>
+          <p>Could you please tell me what kind of clothes I have to bring with me? (like.. specific equipment or anything else).</p>
+          <p>How much money do I need?</p>
+          <p>I am looking <NS type="RY"><i>forwards</i><c>forward</c></NS> to hearing from you<NS type="MP"><c>.</c></NS></p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable"</p>
+          <p>Is it true or not? Some people agree with it, some people <NS type="MV"><i>not</i><c>don't</c></NS>.</p>
+          <p>If you don't work and you have plenty of time going shopping is really enjoyable, because there are big shopping centres in which you can find so many different things. There are new products which you could not imagine <NS type="UC"><i>that</i></NS> could be so interesting. Shopping is a good way to kill <NS type="UD"><i>your</i></NS> time and <NS type="RP"><i>some times</i><c>sometimes</c></NS> you <NS type="RV"><i>can</i><c>do</c></NS> not realize how fast the time goes. This happens because people <NS type="TV"><i>enjoy</i><c>are enjoying</c></NS> themselves a lot.</p>
+          <p>On the other hand there are some disadvantages. <NS type="RP"><i>for</i><c>For</c></NS> example if you are a working mother with three children, <NS type="RA"><i>that</i><c>which</c></NS> means you are always <NS type="S"><i>n</i><c>in</c></NS> a hurry, going shopping is really unenjoyable. You <NS type="RV"><i>go shopping</i><c>shop</c></NS> in a big supermarket because you know you will find everything there and you need 15 minutes to find the goods and 20 minutes to pay for them because of the big queue.</p>
+          <p>You need to buy essential items like food and you get tired because it <NS type="MV"><c>is</c></NS> very crowded and you spend more time <NS type="SX"><i>thank</i><c>than</c></NS> you <NS type="RV"><i>prefer</i><c>would like</c></NS> to.</p>
+          <p>In <NS type="RP"><i>Conclusion</i><c>conclusion</c></NS> shopping is enjoyable but not when it is too <NS type="S"><i>buzy</i><c>busy</c></NS>. Otherwise <NS type="RP"><i>If</i><c>if</c></NS> you are in a good mood it will turn into a bad mood. You should avoid the peak times.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

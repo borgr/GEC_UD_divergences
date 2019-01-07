@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR625*0100*2000*01">
+  <candidate><personnel><language>German</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I received your letter last <NS type="RP"><i>monday</i><c>Monday</c></NS>. I want to say thank you <NS type="R"><i>that I was</i><c>for making me</c></NS> the lucky person who won that competition. It will be a great opportunity for me to see the United States and I am so happy about that<NS type="UP"><i>,</i></NS> I <NS type="RP"><i>can not</i><c>cannot</c></NS> explain it.</p>
+          <p>You want <NS type="UV"><i>to know</i></NS> some further information from me. About the date<NS type="UP"><i>,</i></NS> when I want to travel<NS type="MP"><c>,</c></NS> can I say that it is only possible for me <NS type="RT"><i>on</i><c>in</c></NS> July because I have to do some exams at <NS type="UD"><i>the</i></NS> school. <NS type="W"><i>I would prefer <NS type="RT"><i>to</i><c>regarding</c></NS> the accommodation at the camp</i><c>Regarding the accommodation at the camp, I would prefer</c></NS> a tent<NS type="RP"><i>, the</i><c>.  The</c></NS> reason is that I like to live <NS type="DY"><i>realy</i><c>really</c></NS> <NS type="DY"><i>natural</i><c>naturally</c></NS> and it is more enjoyable to live in a tent <NS type="SX"><i>then</i><c>than</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>cabins</i><c>cabin</c></NS>.</p>
+          <p><NS type="RT"><i>As</i><c>Regarding</c></NS> activities<NS type="MP"><c>,</c></NS> I can say that I like every sport, but basketball and tennis would be perfect for me. In basketball I have <NS type="MV"><c>had</c></NS> more <NS type="DN"><i>practise</i><c>practice</c></NS> <NS type="SX"><i>then</i><c>than</c></NS> in tennis. I play every weekend <NS type="RT"><i>on</i><c>in</c></NS> competitions with my local team and <NS type="R">about tennis it is that I tried but it is not like my basketball experience</NS>.</p>
+          <p>Also I want to know how <NS type="CQ"><i>much</i><c>many</c></NS> clothes and <NS type="M"><c>how much</c></NS> money I <NS type="TV"><i>would</i><c>will</c></NS> need for these two weeks. Please write <NS type="MT"><c>to</c></NS> me <NS type="MC"><c>with</c></NS> your answer as <NS type="RY"><i>quick</i><c>quickly</c></NS> as possible.</p>
+          <p>I hope I can hear from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you my lovely penfriend? <NS type="W"><i>I hope <NS type="RJ"><i>good</i><c>well</c></NS></i><c>Well, I hope</c></NS>. You want to know how <NS type="W"><i>was it</i><c>it was</c></NS> to work and help at a pop concert? It <NS type="TV"><i>is</i><c>was</c></NS> <NS type="SA"><i>marvelous</i><c>marvellous</c></NS>. You see the stars so near and also you can chat with them. On my first day I <NS type="RV"><i>should</i><c>had</c></NS> <NS type="FV"><i>help</i><c>to help</c></NS> to bring the <NS type="RN"><i>staff</i><c>stuff</c></NS> for the band, things like guitars, drums and <NS type="R"><i>others</i><c>other things</c></NS>. It was <NS type="UY"><i>maybe</i></NS> hard work for a while but I was so happy <NS type="U"><i>about that</i></NS> to help <NS type="RT"><i>on</i><c>at</c></NS> a <NS type="L"><i>real</i><c>really</c></NS> big pop concert I can't <NS type="S"><i>decribe</i><c>describe</c></NS> it. On the other two days I helped to prepare the breakfast, lunch and <NS type="RN"><i>diner</i><c>dinner</c></NS> for the band. You are always so near to these people and after a while it is normal to stay and chat with Brian Adams, for example. I <NS type="DY"><i>realy</i><c>really</c></NS> enjoyed that and it was one of the greatest, <NS type="RC"><i>when</i><c>if</c></NS> not the greatest experience <NS type="RT"><i>in</i><c>of</c></NS> my life. On the other hand it was a <NS type="RP"><i><NS type="RY"><i>good paid</i><c>well paid</c></NS></i><c>well-paid</c></NS> job <NS type="RT"><i>with</i><c>at</c></NS> 15 pounds per hour<NS type="RP"><i>, what</i><c>.  What</c></NS> <NS type="UV"><i>do</i></NS> <NS type="W"><i>you can</i><c>can you</c></NS> say<NS type="RP"><i>.</i><c>!</c></NS></p>
+          <p>The organizer of the <NS type="RN"><i><NS type="S"><i>tournement</i><c>tournament</c></NS></i><c>tour</c></NS> <NS type="TV"><i>have spoken</i><c>spoke</c></NS> with me and asked me if I <NS type="TV"><i>want</i><c>wanted</c></NS> <NS type="U"><i>I could</i></NS> <NS type="FV"><i>do</i><c>to do</c></NS> the same work in two months at the <NS type="W"><i>concert by the Rolling Stones</i><c>Rolling Stones concert</c></NS> <NS type="W"><i><NS type="RP"><i>is</i><c>.  Is</c></NS> that not</i><c>Isn't that</c></NS> fantastic<NS type="RP"><i>.</i><c>!</c></NS> I couldn't believe it but he gave me the contract <NS type="RV"><i>to fill it out</i><c>to sign</c></NS>. I hope<NS type="MP"><c>,</c></NS> Kim<NS type="MP"><c>,</c></NS> you <NS type="AGV"><i>was</i><c>were</c></NS> not too jealous about that, sorry. Please write <NS type="MT"><c>to</c></NS> me soon<NS type="RP"><i>,</i><c>.</c></NS> I'm waiting.</p>
+          <p><NS type="FN"><i>Loves</i><c>Love</c></NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

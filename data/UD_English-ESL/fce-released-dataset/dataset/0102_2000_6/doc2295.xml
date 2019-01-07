@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR919*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Mr Soren:</p>
+          <p>Let me express how disappointed I feel at this particular moment, or I should say angry, better sad. I would never <NS type="TV"><i>expected</i><c>have expected</c></NS> that I could be so <NS type="DJ"><i>decepted</i><c>deceived</c></NS>. This is not the <NS type="S"><i>firt</i><c>first</c></NS> time I have been <NS type="RT"><i>in</i><c>to</c></NS> your theatre and I have to tell you I have enjoyed many other plays, but be sure "Over the rainbow" will be the last one. As I am specially fond of musicals, I even travel abroad to see what's new, I am probably one of <NS type="R"><i>the</i><c>your</c></NS> most devoted customers. I know this word is not the best but you have <NS type="S"><i>demostrated</i><c>demonstrated</c></NS> that the theatre can be just as cold as any other business. We both know this is not true, or <NS type="S"><i>shoudn't</i><c>shouldn't</c></NS> be. When someone comes specially to see Danny Brook acting, one of my <NS type="IJ"><i>favourites</i><c>favourite</c></NS> singers, whose career I have been following <NS type="RT"><i>since</i><c>from</c></NS> the <NS type="S"><i>begining</i><c>beginning</c></NS>, and <NS type="MN"><c>Danny Brook</c></NS> never <NS type="AGV"><i>appear</i><c>appears</c></NS>, and nobody <NS type="AGV"><i>give</i><c>gives</c></NS> any reason to the audience, how should one feel? There was no reason either for the delay. Almost an hour! Can you imagine how many things one <NS type="TV"><i>can</i><c>could</c></NS> do instead. Even <NS type="RV"><i>listening</i><c>playing</c></NS> some music to help us take it easy would <NS type="FV"><i>had</i><c>have</c></NS> been better than nothing! <NS type="R"><i>None an</i><c>No</c></NS> announcement, <NS type="R"><i>not an</i><c>no</c></NS> <NS type="RN">invitation</NS>...oh, yes, I forgot. The bar was closed. Well, I will not comment <NS type="MT"><c>on</c></NS> that point. That terrible place <NS type="RY"><i>definitively</i><c>definitely</c></NS> needed <NS type="UD"><i>a</i></NS> <NS type="RN"><i>renewal</i><c>refurbishment</c></NS>.</p>
+          <p>Well, this is not my idea of a perfect evening out, as you can <NS type="RV"><i>realise</i><c>imagine</c></NS>. Each time I see the <NS type="RN"><i>advertising</i><c>advertisement</c></NS> I get mad.</p>
+          <p>Of course, you <NS type="S"><i>shoud</i><c>should</c></NS> <NS type="RV"><i>make</i><c>give</c></NS> a refund <NS type="RT"><i>of</i><c>for</c></NS> the money <NS type="MV"><c>spent</c></NS>, not only to me but to all the <NS type="RN"><i>public</i><c>audience</c></NS>. But I can say that you will never be able to give my appreciation for your theatre back, at least <NS type="R"><i>till</i><c>not as long as</c></NS> you continue as its manager.</p>
+          <p>Expecting your news,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>It is almost true to say that fashion is one of the most exciting human activities nowadays. How can we define this crazy and continuous change of colours, shapes, patterns, and uses? New fabrics create new textures, all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of <NS type="S"><i>accesories</i><c>accessories</c></NS> are added to create new versions, to refresh old ideas, to make new proposals that will last, <NS type="RT"><i>like</i><c>as</c></NS> always, just <NS type="RQ"><i>some</i><c>a few</c></NS> weeks. <NS type="RA"><i>All</i><c>Everything</c></NS> <NS type="M"><c>that is</c></NS> in fashion <NS type="AGV"><i>pass</i><c>passes</c></NS> away in a couple of months and has to be created again.</p>
+          <p>Fashion is a part of our lives, even for those who will never <NS type="RV"><i><NS type="S"><i>reconize</i><c>recognise</c></NS></i><c>admit</c></NS> it. Have you <NS type="TV"><i>notice</i><c>noticed</c></NS> that all the classic gentlemen wear <NS type="MD"><c>the</c></NS> same <NS type="S"><i>tipe</i><c>type</c></NS> of suit? And what about <NS type="AGD"><i>this</i><c>those</c></NS> <NS type="AGN"><i>kind</i><c>kinds</c></NS> of intellectual and progressive people, don't they <NS type="W"><i>wear all</i><c>all wear</c></NS> the same <NS type="RN"><i>model</i><c>type</c></NS> of ugly but <NS type="S"><i>confortable</i><c>comfortable</c></NS> shoes?</p>
+          <p>I am sure that fashion will survive for ages, <NS type="W"><i>even it will</i><c>it will even</c></NS> change to become easier to use and <NS type="FJ"><i>clean</i><c>cleaner</c></NS>, because we all need to feel a part of our society, <NS type="S"><i>comunicate</i><c>communicate</c></NS> our way of living and thinking, be part of a group and, at the same time<NS type="MP"><c>,</c></NS> be different.</p>
+          <p>The future will bring to us new concepts, adapted to our lives.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

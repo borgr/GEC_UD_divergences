@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR570*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>Thank you very much for your letter. I was very glad to hear that I had won first prize in the competition.</p>
+          <p>Anyway, to participate in two-weeks <NS type="MT"><c>at</c></NS> Camp California in the U.S.A I readily give you my personal details and information. First of all, the most <NS type="SA"><i>favorable</i><c>favourable</c></NS> time for me to travel is July, because I am in the final year of University, so I have to attend classes for a thesis almost throughout the year apart from July, when I can take a relatively long summer holiday. <NS type="ID"><i>Second of all</i><c>Secondly</c></NS>, I would prefer to stay in log cabins to staying in tents, since I have had a horrible experience being <NS type="S"><i>attaked</i><c>attacked</c></NS> by a <NS type="RN"><i>herd</i><c>swarm</c></NS> of midges, when I camped out. Additionally, I am very happy to be given the chance to do some activities during the stay. I would <NS type="UY"><i>willingly</i></NS> like to choose swimming and painting. I used to belong to a swimming club and practise swimming a couple of times a week. I have also gone in for some competitions. Painting is one of my hobbies as well, although I do not specialise in it or anything. I'm looking forward to painting beautiful landscapes of California. Last but not at least, what sort of clothes do you think I must bring with me, and is there any laundry system there? Also should I take some money just in case?</p>
+          <p>I'm looking forward to hearing from you soon, and I would be very grateful for your help.</p>
+          <p><NS type="L"><i>Yours faithfully</i><c>Yours sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Introduction</p>
+          <p>The aim of this report is to describe and assess daily life at this school and suggest which lessons and other activities should be filmed. This is based on a <NS type="S"><i>questionnair</i><c>questionnaire</c></NS> conducted in the school and our English department's investigation.</p>
+          <p>Lessons</p>
+          <p>According to statistics based on the <NS type="S"><i>questionnair</i><c>questionnaire</c></NS>, the majority of students feel the most enthusiasm for an English class. This may be thanks to <NS type="MP"><i>native speaker</i><c>native-speaker</c></NS> teachers who came to the school last year. In fact, I visited some <NS type="S"><i>Englishe</i><c>English</c></NS> classes to find out that most students tried to answer questions and speak to native teachers. Furthermore<NS type="MP"><c>,</c></NS> <NS type="CQ"><i>less</i><c>fewer</c></NS> <NS type="UQ"><i>numbers of</i></NS> students were nodding off <NS type="TV"><i>comparing</i><c>compared</c></NS> with other classes like Maths. Consequently<NS type="MP"><c>,</c></NS> it might be a good idea to film the English class so that the vibrant and active <NS type="S"><i>atomosphere</i><c>atmosphere</c></NS> may be able to be filmed. This may also contribute to the promotion of <NS type="MD"><c>the</c></NS> English department.</p>
+          <p>Extra activities</p>
+          <p>It was found that hockey is the most popular sport among students. As the record says, our hockey team has been <NS type="RT"><i>on</i><c>at</c></NS> the top of the league for three successive years. The girls' football team is also famous for its reputation of <NS type="DN"><i>keeness</i><c>keenness</c></NS> on practice. Although every school has a boys' football team, our school is the only one which possesses a girls' team. Team members can be interviewed.</p>
+          <p>Conclusion</p>
+          <p>To sum up, our school is famous for achievements in several fields as well as academic achievements. The whole point of making a video is to tell people that we are not only <NS type="DN"><i>bugs of books</i><c>bookworms</c></NS> but also enjoying our school life. It might also be a good idea to film our computing rooms and sports facilities that we can be proud of.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

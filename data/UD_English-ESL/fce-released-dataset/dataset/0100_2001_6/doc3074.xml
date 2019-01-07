@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE48*0100*2001*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>I am <NS type="RJ"><i>afraid</i><c>sorry</c></NS> to hear that Mr. Brown is ill<NS type="MP"><c>.</c></NS> I hope it <NS type="TV"><i>won't be</i><c>isn't</c></NS> <NS type="RJ"><i>grave</i><c>serious</c></NS>. However, I will be glad to give you as much information as you need and I hope you will find it helpful.</p>
+          <p><NS type="RP"><i>the</i><c>The</c></NS> name of the hotel in which the group is going to stay <NS type="UT"><i>in</i></NS> is <NS type="MD"><c>the</c></NS> Palace Hotel<NS type="RP"><i>, to</i><c>. To</c></NS> get there you must go to the centre of town<NS type="RP"><i>, all</i><c>. All</c></NS> <NS type="MD"><c>the</c></NS> buses <NS type="TV"><i>are going</i><c>go</c></NS> there<NS type="RP"><i>,</i><c>.</c></NS> Once you are in the centre<NS type="M"><c>, the</c></NS> Palace Hotel is right in front of the tourism information office.</p>
+          <p>For the end-of-conference party we have booked one of the halls of the hotel and they will provide us <NS type="MT"><c>with</c></NS> <NS type="DJ"><i>life</i><c>live</c></NS> music and <NS type="S"><i>cattering</i><c>catering</c></NS>. Due the hotel <NS type="FV"><i>is</i><c>being</c></NS> such an elegant place I would suggest <NS type="FV"><i>to dress</i><c>dressing</c></NS> up in <NS type="DN"><i>night clothes</i><c>evening dress</c></NS>.</p>
+          <p>Finally, to fill your free afternoon I would <NS type="RY"><i>hardly</i><c>definitely</c></NS> <NS type="S"><i>recomend</i><c>recommend</c></NS> <NS type="FV"><i>to visit</i><c>visiting</c></NS> the cathedral and <NS type="FV"><i>have</i><c>having</c></NS> a walk <NS type="S"><i>arround</i><c>around</c></NS> the old part of the city<NS type="RP"><i>, if</i><c>. If</c></NS> you <NS type="RV"><i>like</i><c>want</c></NS><NS type="MP"><c>,</c></NS> it will be my pleasure to show you the <NS type="RN"><i><NS type="S"><i>souroundings</i><c>surroundings</c></NS></i><c>area</c></NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Chairs are not only part of the <NS type="S"><i>forniture</i><c>furniture</c></NS>, they are also objects of <NS type="RN">decoration</NS> and you can even find some in museums <NS type="R"><i>as</i><c>where they are</c></NS> art <NS type="RN"><i>symbols</i><c>objects</c></NS>.</p>
+          <p>Who could have invented such a useful item? In fact, nobody has got <NS type="RD"><i>this</i><c>an</c></NS> <NS type="RN"><i>clue</i><c>idea</c></NS>, but it must have been the most clever person on earth!</p>
+          <p><NS type="RP"><i>the</i><c>The</c></NS> world is packed with so many <NS type="S"><i>tipes</i><c>types</c></NS> of chairs, from the common <NS type="S"><i>woden</i><c>wooden</c></NS> ones to the most <NS type="DJ"><i>sophisticate</i><c>sophisticated</c></NS> and <NS type="IJ"><i>comfortables</i><c>comfortable</c></NS> <NS type="R">others finding a <NS type="SX"><i>baste</i><c>basic</c></NS> range of prices</NS>.</p>
+          <p>From my point of view the chair is without a doubt the most <NS type="DJ"><i>usefull</i><c>useful</c></NS> gadget ever invented. Some people use them in their work, others <NS type="TV"><i>are wishing</i><c>wish</c></NS> to <NS type="RV"><i>get</i><c>sit</c></NS> <NS type="MT"><c>in</c></NS> one by the end of the day and for some other people a <NS type="RP"><i><NS type="SX"><i>while</i><c>wheel</c></NS> chair</i><c>wheelchair</c></NS> represents the <NS type="R">possibility of <NS type="S"><i>mouvement</i><c>movement</c></NS></NS>. Although <NS type="MA"><c>it</c></NS> is worth <NS type="FV"><i>to say</i><c>saying</c></NS> that not everybody can <NS type="RV"><NS type="FV"><i>chose</i><c>choose</c></NS></NS> his ideal chair there is a special one for each of us.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

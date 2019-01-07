@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR464*0102*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I believe that you must be the manager and I would like to <NS type="RV"><i>point</i><c>make</c></NS> some complaints <NS type="U"><i>of mine</i></NS> about the play "Over the Rainbow"<NS type="MP"><c>.</c></NS></p>
+          <p> Firstly, in the advertisement you said that Dany Brook was going to be starring in the play, but <NS type="TV"><i>you've <NS type="RV"><i>placed</i><c>put</c></NS></i><c>you put</c></NS> another actor in his place, which was very disappointing. Moreover, the <NS type="UN"><i>theatre's</i></NS> play was expected to start at half past seven in the <NS type="RN"><i>afternoon</i><c>evening</c></NS>, however it started at quarter past eight! We had to wait all that time without <NS type="RA"><i>someone</i><c>anyone</c></NS> <NS type="FV"><i>to explain</i><c>explaining</c></NS> <NS type="MT"><c>to</c></NS> us the reason for this delay.</p>
+          <p>To make matters worse, your theatre restaurant was closed and one of your assistants said that <NS type="R">it was being under construction for the expansion of that place</NS>.</p>
+          <p>This so-called "Perfect Evening" was <NS type="RY"><i>so</i><c>very</c></NS> disappointing as well as discouraging <NS type="MA"><c>us</c></NS> <NS type="RT"><i>of</i><c>from</c></NS> <NS type="RV"><i>coming</i><c>going</c></NS> to <NS type="RD"><i>your</i><c>the</c></NS> Circle Theatre again.</p>
+          <p>After all I've been through, I would like a refund of my money. Thank you for your interest.</p>
+          <p>Sincerely yours, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Nowadays, <NS type="UD"><i>the</i></NS> technology has <NS type="RV"><i>expanded</i><c>extended</c></NS> its <NS type="UP"><i>"</i></NS><NS type="RN"><i>legs</i><c>reach</c></NS><NS type="UP"><i>"</i></NS> to almost every <NS type="RN"><i>part</i><c>area</c></NS> of our interests, jobs and even hobbies. Therefore, <NS type="UD"><i>our</i></NS> life has changed a lot since a hundred years ago, <NS type="R"><i>as well as mine did</i><c>and my life has changed too</c></NS>.</p>
+          <p>The biggest achievement of modern technology <NS type="RV"><i><NS type="TV"><i>has broken</i><c>broke</c></NS></i><c>came</c></NS> into my house as soon as I <NS type="RV"><i>was</i><c>reached</c></NS> <NS type="UT"><i>at</i></NS> the age of ten. This achievement is the personal computer, which has grown very fast<NS type="UP"><i>,</i></NS> because of the help it can provide. My computer helps me <NS type="RT"><i>in</i><c>with</c></NS> my studies, <NS type="CN"><i>homeworks</i><c>homework</c></NS> and projects for school. With the Internet, I <NS type="RV"><i>got</i><c>became</c></NS> more <NS type="RJ"><i>socialised</i><c>sociable</c></NS> using the Relay Chat clients, but also <NS type="RV"><i>got</i><c>developed</c></NS> a kind of boredom, which is known as "Internet Freak Disease"! I use it a lot<NS type="MP"><c>,</c></NS> so sometimes I feel pain in my eyes or my hands.</p>
+          <p>Moreover, fishing <NS type="TV"><i>was</i><c>has been</c></NS> affected by <NS type="UD"><i>the</i></NS> modern technology. Fishing is my hobby and that's why I bought <NS type="UD"><i>these</i></NS> plastic worms and fish<NS type="UP"><i>,</i></NS> that are not so good - it's better to use <NS type="RJ"><i>alive</i><c>live</c></NS> worms!</p>
+          <p>To sum up, my life is <NS type="RV">surrounded by</NS> modern gadgets. Sometimes these gadgets are for the best and - more often - for the worst!! It <NS type="RY"><i>only</i><c>just</c></NS> depends <NS type="RT"><i>of</i><c>on</c></NS> your judgement and the way <NS type="RV"><i>you're</i><c>you plan</c></NS> <NS type="UT"><i>about</i></NS> to use technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

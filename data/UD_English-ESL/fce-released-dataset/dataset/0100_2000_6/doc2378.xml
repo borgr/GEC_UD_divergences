@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR959*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>I am writing to answer your letter, which I <NS type="TV"><i>have <NS type="S"><i>recieved</i><c>received</c></NS></i><c>received</c></NS> yesterday. First of all, I would like to thank you for accepting me and I am very <NS type="RJ"><NS type="DJ"><i>appreciate</i><c>appreciative</c></NS></NS> that all <NS type="RN"><i>costs</i><c>expenses</c></NS> are paid <NS type="UT"><i>for</i></NS>. I <NS type="TV"><i>could</i><c>can</c></NS> travel only in July because my <NS type="FN"><i>exam</i><c>exams</c></NS> will be finished <NS type="RT"><i>in</i><c>at</c></NS> the beginning of that month and it would be great if I could set off <NS type="MT"><c>on</c></NS> my journey on 15th July.</p>
+          <p>I would prefer to stay in log cabins because the weather is going to be rainy<NS type="MP"><c>,</c></NS> according to the forecast. Therefore, I have chosen golf and tennis from the list. I have been playing them for more than 3 years<NS type="MP"><c>,</c></NS> <NS type="RT"><i>in</i><c>during</c></NS> which I have been trained, 3 years for tennis, 1 year for golf<NS type="MP"><c>,</c></NS> by <NS type="UD"><i>the</i></NS> professional coaches. <NS type="UV"><i>I'm</i><c>I</c></NS> enjoy playing both of them regularly.</p>
+          <p>In addition, it would be nice if you could send me <NS type="RD"><i>an</i><c>the</c></NS> address <NS type="MT"><c>at</c></NS> which I am going to stay, so that I can keep in touch with my friends and family. Finally, thank you again for everything and I am looking forward to accompanying you soon.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable". I think this statement is true. In my opinion, shopping is not suitable for children whose <NS type="FN"><i>age</i><c>ages</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> under 18! This is quite a strong opinion , but I <NS type="RV">know</NS> it from my real-life experiences of shopping.</p>
+          <p>When I was 15, I was starting to look for new clothes, shoes, and everything I <NS type="RV"><i>could</i><c>would</c></NS> find now <NS type="S"><i>unneccessary</i><c>unnecessary</c></NS>.</p>
+          <p><NS type="RV"><i>I'm</i><c>I would</c></NS> not dare to <NS type="S"><i>culculate</i><c>calculate</c></NS> how much I have spent <NS type="RT"><i>for</i><c>on</c></NS> those things without thinking. However, it was not bad<NS type="RP"><i>, my</i><c>. My</c></NS> <NS type="SA"><i>mom</i><c>mum</c></NS> always told me that I hadn't <NS type="UV"><i>have</i></NS> earned enough money so <NS type="UC"><i>that</i></NS> I shouldn't have spent it in the wrong way.</p>
+          <p>Therefore, people who <NS type="AGV"><i>is</i><c>are</c></NS> over 18 can think of more reasons than young children <NS type="MC"><c>can</c></NS> for shopping and buying such tempting objects. To sum up, shopping is not a <NS type="RJ"><i>wrong</i><c>bad</c></NS> thing to do as long as you can earn money yourself and know <NS type="R"><i>what</i><c>why</c></NS> you are spending it <NS type="UT"><i>for</i></NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

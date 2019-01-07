@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR475*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p><NS type="L"><i>Hello!</i><c>Dear Madam</c></NS></p>
+          <p>My name is Alois Blau and I'm very happy that I've won this competition. Unfortunately I can only travel in July, because I have to attend school until June the 30th and in August I have to work in an office <NS type="R"><i>for</i><c>to get some work</c></NS> experience. I hope<NS type="UP"><i>,</i></NS> that's possible.</p>
+          <p>I would prefer <NS type="RV"><i>living</i><c>staying</c></NS> in a tent during the two weeks because I think a tent is <NS type="R">more natural</NS>. A log cabin doesn't sound like a <NS type="RN"><i>camp</i><c>camping</c></NS> holiday. It sounds like a <NS type="RP"><i>summer-holiday</i><c>summer holiday</c></NS> <NS type="RT"><i>at</i><c>on</c></NS> the <NS type="RN"><i>beach</i><c>coast</c></NS> of Italy.</p>
+          <p>From the activities <NS type="M"><c>you've offered</c></NS> I want <NS type="RV"><i>to take</i><c>to do</c></NS> <NS type="RP"><i>Golf and Surfing</i><c>golf and surfing</c></NS>. <NS type="X"><i>Both activities I've never done in my life</i><c>I've never done either in my life</c></NS>, so I am a complete beginner <NS type="RT"><i>in</i><c>at</c></NS> playing <NS type="RP"><i>Golf and <NS type="RT"><i>in</i><c>at</c></NS> Surfing</i><c>golf and at surfing</c></NS>. But the reason I want to try these two activities <NS type="AGV"><i>are</i><c>is</c></NS> their image. Golf <NS type="R"><i>play the</i><c>is played by</c></NS> wealthy people, <NS type="W"><i>the upper class of a town</i><c>a town's upper class</c></NS>, and surfing sounds like freedom.</p>
+          <p>There is only one more question I want to ask: <NS type="RP"><i>Can</i><c>can</c></NS> I take my <NS type="RP"><i>girl-friend</i><c>girlfriend</c></NS> with me, <NS type="W"><i>of course<NS type="MP"><c>,</c></NS> <NS type="UT"><i>with</i></NS> paying</i><c>paying, of course</c></NS>?</p>
+          <p>I hope all my wishes are <NS type="S"><i>realizeable</i><c>realisable</c></NS>.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>In my opinion shopping is not always enjoyable. Very often, for example on Friday afternoon or Saturday, there are so many people in <NS type="RD"><i>a</i><c>the</c></NS> shopping centre<NS type="UP"><i>,</i></NS> that you can't move <NS type="UA"><i>yourself</i></NS> forwards or backwards. Many people say that this is real shopping, when you queue for hours <NS type="W"><i>to pay only</i><c>only to pay</c></NS> <NS type="MT"><c>for</c></NS> a pair of socks or a bottle of mineral water at the supermarket. I think<NS type="UP"><i>,</i></NS> you can't really enjoy shopping when there are hundreds of people and everyone wants to buy something.</p>
+          <p>I like going shopping during the week, when I can look at each <NS type="RN"><i>good</i><c>item</c></NS> a store sells. But for me it is better<NS type="UP"><i>,</i></NS> when I go at the weekend because then I don't spend so much money because I think<NS type="UP"><i>,</i></NS> before I have to queue for half an hour <NS type="UA"><i>I</i></NS> <NS type="FV"><i>buy</i><c>to buy</c></NS> <NS type="RN"><i>nothing</i><c>something</c></NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

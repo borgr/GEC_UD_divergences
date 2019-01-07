@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR28*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Thank you for the programme which you have organised <NS type="MT"><c>for</c></NS> the three days in London. However, some students in our class have seen an advertisement for the London Fashion and Leisure Show and we would like to have an opportunity to go to the show.</p>
+          <p>The show is <NS type="DJ"><i>opened</i><c>open</c></NS> between ten and seven p.m on Tuesday, March 14<NS type="MP"><c>,</c></NS> at <NS type="MD"><c>the</c></NS> Central Exhibition Hall in London. <NS type="MD"><i>Latest</i><c>The latest</c></NS> fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles are expected to be displayed and studied. We <NS type="TV"><i>have <NS type="RV"><i>concerned</i><c>thought</c></NS></i><c>think</c></NS> it <NS type="UT"><i>as</i></NS> a great opportunity to touch a part of <NS type="MD"><c>the</c></NS> latest cultures, which are concentrated and sharpened in London. In addition, <NS type="UD"><i>the</i></NS> <NS type="S"><i>addmission</i><c>admission</c></NS> for students is free.</p>
+          <p>Taking the programme and the show into consideration, we suggest that we <NS type="RV"><i>can</i><c>would</c></NS> have time to go to the show in the afternoon on Tuesday. We suppose that <NS type="RT"><i>in</i><c>during</c></NS> <NS type="MD"><c>our</c></NS> free time on Wednesday we can find some time for shopping. We hope that you consider our suggestion.</p>
+          <p>Yours <NS type="DY"><i>sincerily</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>The ways of living are always changing. <NS type="RA"><i>It</i><c>There</c></NS> is no doubt that <NS type="MD"><c>the</c></NS> functions and structures of the home have been changing as well as that of <NS type="R">transformation, for example, have been</NS>. Thinking about the home of the future, first of all, nuclear families should be expected because of new technologies, which make house-keeping easier and simpler and because of the idea which encourages us to live in cities for <NS type="MD"><c>a</c></NS> convenient life. People may tend to <NS type="R">avoid <NS type="UT"><i>from</i></NS> living in a large number of families in an expected small house in a city</NS>.</p>
+          <p>On the other hand, the bond between parents and children <NS type="TV"><i>should be</i><c>is</c></NS> <NS type="DJ"><i>unlikly</i><c>unlikely</c></NS> to change. People always need their parents, children and so on. The longer and <NS type="RY">further</NS> they live on their own, the more they may feel that they need a family.</p>
+          <p>New materials will <NS type="SX"><i>surly</i><c>surely</c></NS> change the home of the future in <NS type="RQ"><i>any</i><c>many</c></NS> ways. <NS type="CE">It is just staff's around us improving and turning into new one.</NS> Hopefully, the minds of people will stay peaceful and <NS type="RJ"><i>tender</i><c>gentle</c></NS> in the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

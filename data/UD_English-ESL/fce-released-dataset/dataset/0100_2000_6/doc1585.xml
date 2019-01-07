@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR619*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>Thank you very much for your letter informing me that I have won the competition and that I have got <NS type="RD"><i>a</i><c>the</c></NS> prize <NS type="RT"><i>for</i><c>of</c></NS> a two week holiday at Camp California in the USA.</p>
+          <p><NS type="RT"><i>Due to</i><c>Because of</c></NS> my business, I am very busy and <NS type="RD"><i>that</i><c>this</c></NS> <NS type="UA"><i>it</i></NS> is the best <NS type="RN"><i>moment</i><c>time</c></NS> for my business so<NS type="UP"><i>,</i></NS> I can't <NS type="RT"><i>manage</i><c>organise</c></NS> <NS type="RQ"><i>my</i><c>any</c></NS> time to go on holiday<NS type="MP"><c>,</c></NS> but I'd be able to travel at anytime in July. I would prefer to stay in a tent as I feel that it would be more exciting than staying in a log cabin. As you offered me two activities, I would like to go <NS type="UT"><i>on</i></NS> swimming. I am not a good swimmer yet but soon I will be. I have been learning <NS type="FV"><i>swimming</i><c>to swim</c></NS> for the last eight months and I <NS type="TV"><i>really enjoyed</i><c>have been really enjoying</c></NS> it. Another sport I <NS type="TV"><i><NS type="RV"><i>experience</i><c>play</c></NS></i><c>have played</c></NS> is Basketball<NS type="MP"><c>,</c></NS> which I used to play for <NS type="RD"><i>a</i><c>the</c></NS> school's team when I <NS type="RV"><i>studied</i><c>was</c></NS> at secondary school. I have not been <NS type="RV"><i>practising</i><c>playing</c></NS> it at all recently but only wish I had. This trip will certainly be a good opportunity for me to start playing it again.</p>
+          <p>I wonder if you could <NS type="AS"><i>answer me some questions</i><c>answer some questions for me</c></NS><NS type="RP"><i>?</i><c>.</c></NS> Have you <NS type="UV"><i>had</i></NS> any recommendations <NS type="MT"><c>regarding</c></NS> what type of <NS type="RN"><i>cloths</i><c>clothes</c></NS> <NS type="W"><i>should I</i><c>I should</c></NS> take with me? Do you suggest <NS type="RA"><i>me</i><c>I</c></NS> <NS type="TV"><i>to take</i><c>take</c></NS> cash<NS type="MP"><c>,</c></NS> or can I <NS type="FV"><i>used</i><c>use</c></NS> my credit card? Will there be <NS type="RD"><i>any</i><c>a</c></NS> <NS type="UP"><i>tour-guide</i><c>tour guide</c></NS> during the trip?</p>
+          <p>I thank you again for your assistance and am looking forwards to hearing from you soon.</p>
+          <p>yours sincerely,</p>
+          <p>Prasert Charoenkul</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>It has been quite a long time since I last <NS type="TV"><i>written</i><c>wrote</c></NS> to you. I hope you are well. I have something really exciting to share with you.</p>
+          <p>There was a <NS type="W"><i>concert of Michael Jackson</i><c>Michael Jackson concert</c></NS> in my city last month. It was a charity concert<NS type="MP"><c>,</c></NS> which was organised by <NS type="RD"><i>a</i><c>the</c></NS> university <NS type="MY"><c>where</c></NS> I am studying. My classmates and I, we were asked <NS type="UV"><i>to do</i></NS> <NS type="FV"><i>decorating</i><c>to decorate</c></NS> the stage, <NS type="MC"><c>and</c></NS> <NS type="FV"><i>cleaning</i><c>clean</c></NS> the <NS type="UP"><i>concert's</i><c>concert</c></NS> area. But guess<NS type="MP"><c>,</c></NS> Kim, what <NS type="UV"><i>was</i></NS> the most exciting <NS type="MN"><c>thing</c></NS> for us was<NS type="RP"><i>, we</i><c>. We</c></NS> were asked to be the singer's interviewer. <NS type="R">It wasn't a <NS type="S"><i>spokeperson</i><c>spokesperson</c></NS> Kim but</NS> just asked him a couple of questions behind the stage. I was so nervous that I couldn't remember what to say. If you <NS type="TV"><i>imagined</i><c>imagine</c></NS> yourself talking to <NS type="FJ"><i>the most famous</i><c>a famous</c></NS> pop singer such as him<NS type="MP"><c>,</c></NS> how <NS type="R"><i>would you</i><c>do you think you would</c></NS> feel? But what I really enjoyed <NS type="UT"><i>on</i></NS> that evening was when we <NS type="AS"><i>took <NS type="RD"><i>a</i><c>our</c></NS> photographs</i><c>had our photographs taken</c></NS> with him after his concert and he signed <NS type="AGA"><i>it</i><c>them</c></NS> for us on the <NS type="RN"><i><NS type="RP"><i>back side</i><c>backside</c></NS></i><c>back</c></NS> of each picture.</p>
+          <p>We had a wonderful evening. His concert was absolutely brilliant. Everyone was screaming, shouting and dancing while he was singing. I wish you <NS type="TV"><i>were</i><c>had been</c></NS> <NS type="RY"><i>here</i><c>there</c></NS> with us.</p>
+          <p><NS type="AGV"><i>Are</i><c>Is</c></NS> there anything <NS type="UV"><i>wondering</i></NS> <NS type="FV"><i>happen</i><c>happening</c></NS> over there? Please write <NS type="MT"><c>to</c></NS> me when you have time. I am looking forwards to hearing from you.</p>
+          <p>Love,</p>
+          <p>Prasert Charoenkul</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

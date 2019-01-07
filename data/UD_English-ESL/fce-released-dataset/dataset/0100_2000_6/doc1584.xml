@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR618*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Madam:</p>
+          <p>How delighted I was when I <NS type="S"><i>receved</i><c>received</c></NS> your letter!</p>
+          <p>About the information required, I would like to go in July because <NS type="MA"><c>it</c></NS> is my half term at <NS type="RP"><i>University</i><c>university</c></NS> and <NS type="RP"><i>summer time</i><c>summertime</c></NS> would be ideal.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> accommodation<NS type="MP"><c>,</c></NS> I would rather <NS type="RV"><i>go</i><c>stay</c></NS> in a tent<NS type="RP"><i>,</i><c>.</c></NS> I want to enjoy <NS type="MD"><c>the</c></NS> <NS type="RP"><i>wild life</i><c>wildlife</c></NS> and admire the landscape.</p>
+          <p><NS type="R"><i>In relation with</i><c>As regards</c></NS> leisure activities, my <NS type="AGA"><i>favourites</i><c>favourite</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> Basketball, which I have been playing for two years<NS type="MP"><c>,</c></NS> because I have been selected for my <NS type="RP"><i>University</i><c>university</c></NS> team and I think <NS type="RQ"><i>a</i><c>some</c></NS> time practising with players from different countries will help me develop my skills at <NS type="MD"><c>an</c></NS> international level.</p>
+          <p>Secondly, I would like to <NS type="RV"><i>practise</i><c>play</c></NS> tennis, which is my hobby and I think it helps my mind to keep working.</p>
+          <p>I would like to ask you how much money <NS type="UV"><i>do</i></NS> I need, how <NS type="W"><i>is the weather</i><c>the weather is</c></NS><NS type="MP"><c>,</c></NS> in order to pack the necessary <NS type="DN"><i>clothe</i><c>clothing</c></NS><NS type="MP"><c>,</c></NS> and <NS type="S"><i>wheter</i><c>whether</c></NS> I need <NS type="RA"><i>something</i><c>anything</c></NS> else.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5/1</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>What a fantastic experience I had helping my favourite group!</p>
+          <p>You wouldn't believe it! I was working helping to <NS type="DV"><i>mantle</i><c>build</c></NS> and dismantle the stage<NS type="RP"><i>, sometimes</i><c>. Sometimes</c></NS> I had to check the sound by saying something <NS type="RT"><i>on</i><c>into</c></NS> the microphone<NS type="RP"><i>, that</i><c>. That</c></NS> was my chance and I always pretended to be a singer and that I <NS type="SX"><i>sand</i><c>sang</c></NS> in <NS type="MD"><c>a</c></NS> <NS type="RN"><i>duo</i><c>duet</c></NS> with the vocalist of the group<NS type="RP"><i>, it</i><c>. It</c></NS> was such <NS type="UD"><i>a</i></NS> great fun!</p>
+          <p>But the most exciting part of my job, and the one that I was looking forward to, was the last night of <NS type="MD"><c>the</c></NS> concert, because all the staff were promised <NS type="UV"><i>to have</i></NS> a party with all the members of the band. That night was the best of my entire life.</p>
+          <p>I <NS type="TV"><i>send</i><c>am sending</c></NS> you some pictures, the best ones <NS type="MY"><c>only</c></NS> because there were some quite <NS type="S"><i>embarrasing</i><c>embarrassing</c></NS> <NS type="MA"><c>ones</c></NS>.</p>
+          <p>I hope you like them and I am already waiting for your next letter.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

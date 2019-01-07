@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR450*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>To the manager,</p>
+          <p><NS type="RY"><i>Lately</i><c>Recently</c></NS>, I had the <NS type="S"><i>oportunity</i><c>opportunity</c></NS> to go to <NS type="DD"><i>yours</i><c>your</c></NS> Circle Theatre event. <NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS> I never thought it could be so <NS type="S"><i>dissapointing</i><c>disappointing</c></NS>. It started when I received the advertisement on the street. <NS type="R"><i>According to</i><c>Because of</c></NS> that, I thought I'd have a wonderful night.</p>
+          <p>The first problem happened at the box office because there were <NS type="DY"><i>abosolutly</i><c>absolutely</c></NS> no discounts available. Well, I bought a <NS type="UD"><i>the</i></NS> ticket anyway. The show <NS type="TV"><i>supposed</i><c>was supposed</c></NS> to start at 19:30 but it actually started <NS type="MP"><i>forty five</i><c>forty-five</c></NS> minutes <NS type="RY"><i>after it</i><c>late</c></NS>. When the show began <NS type="MA"><c>I</c></NS> had my biggest <NS type="DN"><i>disappoint</i><c>disappointment</c></NS>, instead of the great Danny Brook, there <NS type="AGV"><i>were</i><c>was</c></NS> another actor, totally unknown. After the show I was so <NS type="RJ"><i>nervous</i><c>irritated</c></NS> about the whole thing that I decided to eat at the restaurant and try to relax a little. <NS type="ID"><i>From my surprise</i><c>To my surprise</c></NS>, it was closed.</p>
+          <p><NS type="R"><i>According to</i><c>Because of</c></NS> all this, what was supposed to be one of my best nights turned out to be <NS type="S"><i>definatly</i><c>definitely</c></NS> one of the <NS type="IJ"><i>worsts</i><c>worst</c></NS>. <NS type="W"><i>I'd like so</i><c>So I'd like</c></NS><NS type="UP"><i>,</i></NS> to <NS type="RV"><i><NS type="S"><i>reiceve</i><c>receive</c></NS></i><c>have</c></NS> my money back.</p>
+          <p>Yours Faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>Techology</i><c>Technology</c></NS> is always getting better. And it is <NS type="S"><i>responsable</i><c>responsible</c></NS> for many changes in my life, and I think I wouldn't be able to live without it anymore.</p>
+          <p><NS type="S"><i>Nowaday</i><c>Nowadays</c></NS>, with <NS type="MD"><c>the</c></NS> Internet it <NS type="TV"><i>had</i><c>has</c></NS> <NS type="FV"><i>became</i><c>become</c></NS> easier to do <NS type="UD"><i>the</i></NS> school <NS type="CN"><i>works</i><c>work</c></NS> and I also like to chat with other people or maybe read the latest news about my <NS type="SA"><i>favorite</i><c>favourite</c></NS> football team. I also <NS type="W"><i>got recently</i><c>recently got</c></NS> a <NS type="S"><i>celular</i><c>cellular</c></NS> phone and I don't <NS type="SX"><i>now</i><c>know</c></NS> <NS type="MY"><c>how</c></NS> I lived so long without one - because it <NS type="AGV"><i>help</i><c>helps</c></NS> to solve <NS type="UD"><i>the</i></NS> problems so quickly, it's really amazing. But for me, the best thing is <NS type="S"><i>definatly</i><c>definitely</c></NS> the <NS type="DN"><i>microwaver</i><c>microwave</c></NS>. And there is <NS type="W"><i>a quite</i><c>quite a</c></NS> good reason for <NS type="RA"><i>it</i><c>that</c></NS>. I live alone, so I have to cook my own food, and I'm the worst <NS type="RN"><i>cooker</i><c>cook</c></NS> in the whole world.</p>
+          <p>There are some of the <NS type="MN"><c>devices</c></NS> <NS type="MT"><c>of</c></NS> <NS type="CN"><i><NS type="IN"><i>modern techonologys</i><c>modern technologies</c></NS></i><c>modern technology</c></NS> that most help me but there are some others which are also very important for me.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

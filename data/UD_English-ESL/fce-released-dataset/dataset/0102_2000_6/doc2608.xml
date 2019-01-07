@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR131*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>26-30</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>To the manager of The Circle Theatre</p>
+          <p>Dear Sir/Madam</p>
+          <p>Last weekend I was in London on holiday. I had looked forward to <NS type="FV"><i>go</i><c>going</c></NS> and <NS type="FV"><i>see</i><c>seeing</c></NS> "London's newest and best musical show "-Over the Rainbow. I must say I was rather disappointed by the experience.</p>
+          <p>I am a great admirer of the actor Danny Brook, who was supposed to be starring in the musical. <NS type="S"><i>Surprizingly</i><c>Surprisingly</c></NS> there was a <NS type="DY"><i>complete</i><c>completely</c></NS> different actor starring. Very disappointing!</p>
+          <p>According to your advertisement the musical was supposed to start at 19:30. For some unknown reason it did not start until 20:15.</p>
+          <p>I was looking forward to <NS type="FV"><i>take</i><c>taking</c></NS> <NS type="RN"><i>benefit</i><c>advantage</c></NS> <NS type="RT"><i>from</i><c>of</c></NS> the discounts available, but when I came to buy my ticket I was told there were no discounts available.</p>
+          <p>After the show I had planned to have dinner at the Theatre Restaurant. <NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS> the restaurant was closed.</p>
+          <p>I bought a ticket to have a "perfect evening out" during my holiday. Indeed it was not a perfect evening out. Therefore I think the least I can ask from you is to give me the money back for the ticket.</p>
+          <p>Sven Reitgard</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>The Old Man and the Sea - Ernest Hemingway</p>
+          <p>Dear Sara</p>
+          <p>I have heard that they <NS type="RV"><i>will</i><c>are going to</c></NS> read "The Old Man and the Sea" on the radio<NS type="MP"><c>,</c></NS> P1<NS type="MP"><c>,</c></NS> on Wednesday next week. It is a book written by Ernest Hemingway. I would really recommend you to listen to it.</p>
+          <p>The basic story of the book is in fact quite simple. It is about a tough old fisherman from Cuba who sails out alone in a small boat to fish. He is only <NS type="RV"><i>aiming</i><c>looking</c></NS> for the biggest fishes and he has been <NS type="S"><i>unsuccesfull</i><c>unsuccessful</c></NS> for 86 days. This day he is lucky. He <NS type="AGV"><i>get</i><c>gets</c></NS> a big swordfish hooked and after a long fight the fish is finally <NS type="IV"><i>catched</i><c>caught</c></NS>.</p>
+          <p>On his way back home to port he is attacked by sharks who <NS type="AGV"><i>eats</i><c>eat</c></NS> <NS type="AS"><i>his <NS type="IV"><i>catched</i><c>caught</c></NS> fish</i><c>the fish he caught</c></NS> <NS type="S"><i>pice</i><c>piece</c></NS> by <NS type="S"><i>pice</i><c>piece</c></NS>. The fisherman kills many sharks with <NS type="RJ"><i>different</i><c>various</c></NS> weapons, but when he reaches port there is only <NS type="MD"><c>the</c></NS> head, tail and bones left of the huge swordfish. Mr. Hemingway makes this simple story a real adventure. He <NS type="AGV"><i>make</i><c>makes</c></NS> you experience in detail all the struggles the fisherman has when he fights with the swordfish and the sharks. The fisherman is a typical old, strong and lonely hero of Mr. Hemingway. This tale is very amazing and it is no surprise Mr. Hemingway was awarded the Nobel Prize for it.</p>
+          <p>I really think you should <NS type="ID"><i>take your time</i><c>take time</c></NS> <NS type="UC"><i>and</i></NS> <NS type="FV"><i>listen</i><c>to listen</c></NS> to it on the radio on Wednesday next week.</p>
+          <p>Best regards</p>
+          <p>Sven Reitgard</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

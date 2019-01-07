@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR66*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>&lt;16</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I <NS type="RV"><i><NS type="TV"><i>have come</i><c>came</c></NS></i><c>went</c></NS> to <NS type="RV"><i>watch</i><c>see</c></NS> the musical show called 'Over The Rainbow' in the Circle Theatre. I was really disappointed because a lot of things were not done. I will explain these now and want to ask to get <NS type="W"><i>some of the money I have <NS type="RV"><i>given</i><c>paid</c></NS> you back</i><c>back some of the money I have paid you</c></NS>.</p>
+          <p>It was <NS type="RV"><i>written</i><c>said</c></NS> that Danny Brook and Tina Truelove were starring in the show. Danny Brook was not there, a different actor was in his place. That was very disappointing for me.</p>
+          <p>The musical show was <NS type="DJ"><i>going</i><c>supposed</c></NS> to start at 19.30, but it started <NS type="S"><i>t</i><c>at</c></NS> 20:15. We <NS type="TV"><i>have waited</i><c>waited</c></NS> <NS type="W"><i>for 45 minutes getting bored for it to start</i><c>for it to start for 45 minutes, getting bored</c></NS>!</p>
+          <p>When I went to buy tickets, they didn't <NS type="RV"><i>accept</i><c>give</c></NS> <NS type="UD"><i>the</i></NS> discounts. But I had read that <NS type="UD"><i>the</i></NS> discounts were available.</p>
+          <p><NS type="RC"><i>Like</i><c>As</c></NS> <NS type="R">it was written</NS> again, we went to visit the theatre restaurant after the show, but it was closed. They said that <NS type="DA"><i>the time</i><c>it</c></NS> was late and they wanted to go home. There was nothing for us to do, the show started 45 minutes <NS type="RY"><i>later</i><c>late</c></NS>.</p>
+          <p>Now, I think that you have seen<NS type="MP"><c>,</c></NS> it was not a perfect evening at all, a lot of <NS type="MD"><c>the</c></NS> things <NS type="RV"><i>written</i><c>advertised</c></NS> were not done<NS type="MP"><c>,</c></NS> <NS type="RP"><i>So</i><c>so</c></NS> I am asking to get some of my money back.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>DAILY LIFE - MODERN TECHNOLOGY</p>
+          <p><NS type="RP"><i>MY</i><c>My</c></NS> daily life<NS type="RP"><i>.</i><c>:</c></NS> I get up early in the morning, go to school, then come home and do what I would like to do. I go shopping, watch TV, walk around the city, use my computer and get lost <NS type="RT"><i>in</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> Internet<NS type="UP"><i>.</i></NS> etc.</p>
+          <p>Modern technology is everywhere in my life. I don't see it <NS type="RT"><i>in</i><c>on</c></NS> a normal day, but when I sit and think, <NS type="MP"><i>its</i><c>it's</c></NS> everywhere!</p>
+          <p>For example, I get up whenever I want using my watch or clock. It's not a good example <NS type="RT"><i>for</i><c>of</c></NS> modern technology, but it's a piece of technology at <NS type="SX"><i>last</i><c>least</c></NS>!</p>
+          <p>TV was black and white at first and there were only two or three channels. Now it's <NS type="RJ"><i>colourful</i><c>colour</c></NS> and there are many channels on TV. You watch whichever you want. I <NS type="RV"><i>can't</i><c>don't</c></NS> think that I watch the same channels every day.</p>
+          <p>A wonderful example <NS type="RT"><i>for</i><c>of</c></NS> modern technology: <NS type="MD"><c>the</c></NS> <NS type="RP"><i>Computer</i><c>computer</c></NS>! It is not a living thing but it has a brain. It knows more than most <NS type="UT"><i>of</i></NS> <NS type="UD"><i>the</i></NS> people.</p>
+          <p>And <NS type="MD"><c>the</c></NS> Internet. You can look for everything you want. You can talk to <NS type="AGQ"><i>every</i><c>all</c></NS> people living all around the world. You don't <NS type="RV"><i>understand</i><c>notice</c></NS> the time passing when you are in that world. You can have information about all <NS type="UD"><i>the</i></NS> things, <NS type="MC"><c>and</c></NS> go everywhere. Everything is near you. You can <NS type="RV">reach</NS> <NS type="RA"><i>them</i><c>anything</c></NS> whenever you want!</p>
+          <p>You see, our daily life consists of modern technology. It would be hard to live without it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

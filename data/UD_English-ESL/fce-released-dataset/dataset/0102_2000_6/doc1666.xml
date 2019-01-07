@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR659*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>During my stay in London, I visited all the most famous <NS type="AGN"><i>place</i><c>places</c></NS> and I enjoyed <NS type="MA"><c>myself</c></NS> a lot during <NS type="AGD"><i>this</i><c>these</c></NS> days.</p>
+          <p>I love London's <NS type="RN"><i>musical shows</i><c>musicals</c></NS> and I read the advertisement for the show called "over the rainbow".</p>
+          <p>I've gone to many <NS type="RN"><i>musical shows</i><c>musicals</c></NS> where the main actor was Danny Brook and I can say that he is really good.</p>
+          <p>It was my last night in London and I decided to go to this <NS type="UJ"><i>musical</i></NS> show. When I asked for the price I was surprised <NS type="S"><i>becaused</i><c>because</c></NS> the <NS type="RN"><i>seller</i><c>assistant</c></NS> told <NS type="MA"><c>me</c></NS> there wasn't any discount available. I showed the advertisement to him and he said it was wrong and I paid the normal price.</p>
+          <p>I bought the ticket for the second <NS type="RN"><i>session</i><c>performance</c></NS> and I went to the theatre at seven o'clock. I had been waiting half an hour outside the theatre <NS type="RC"><i>and</i><c>when</c></NS> finally it started at a quarter past eight.</p>
+          <p>I was angry about all of <NS type="AGD"><i>this</i><c>these</c></NS> problems but I was disappointed when I realised the advertisement was wrong <NS type="RT"><i>with</i><c>about</c></NS> the actor's name.</p>
+          <p>When the <NS type="UJ"><i>musical</i></NS> show finished I went to the theatre's restaurant and it was closed because it was too late, so I couldn't have dinner there, as <NS type="UA"><i>it</i></NS> was <NS type="RV"><i>announced</i><c>promised</c></NS> <NS type="M"><c>in the advertisement</c></NS>.</p>
+          <p><NS type="RA"><i>I</i><c>It</c></NS> wasn't a good evening and I would like to have my money back.</p>
+          <p>Waiting for your answer.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Modern technology has changed my daily life and I'll try to explain <NS type="R"><i>it</i><c>how</c></NS>.</p>
+          <p>We have been using personal computers for nine years and it's one of the most important changes.</p>
+          <p>Last year I spent ten hours looking for information for my homework. The subject was "What's happening in Irak?" I started my research in the town's library and all the information I collected was from a local newspaper. After two hours I thought that all of this information was <NS type="IV"><i>writted</i><c>written</c></NS> from a foreign point of view and it wasn't the native opinion.</p>
+          <p>I used my computer <NS type="UT"><i>for</i></NS> <NS type="FV"><i>collecting</i><c>to collect</c></NS> reports from <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> and I can promise I found so much information that I couldn't <NS type="S"><i>analize</i><c>analyse</c></NS> it in two weeks.</p>
+          <p><NS type="MD"><i>Internet</i><c>The Internet</c></NS> has changed our daily life: you can find whatever you want. Do you want to have a different lunch? Do you want to organize a different holiday <NS type="RT"><i>in</i><c>to</c></NS> a strange place? You can find <NS type="W"><i>there all you need</i><c>all you need there</c></NS> and more!</p>
+          <p>I can't imagine my parents playing in the street<NS type="MP"><c>,</c></NS> without watching the TV. I couldn't <NS type="SX"><i>life</i><c>live</c></NS> without modern music. I'm not interested in films without special effects..</p>
+          <p>And what about mobile telephones? Changes won't stop <NS type="U"><i>it's</i></NS> <NS type="IV"><i>caming</i><c>coming</c></NS> <NS type="MP"><c>:</c></NS> the WAP technology (you'll buy a cake <NS type="RT"><i>in</i><c>from</c></NS> a <NS type="DN"><i>corner's machine</i><c>vending machine</c></NS> without any <NS type="AGN"><i>coin</i><c>coins</c></NS>, only one call), digital TV, virtual reality and more...</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE49*0100*2001*01">
+  <candidate><personnel><language>Italian</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>Thank you for your letter. I am glad to help you <NS type="RT"><i>for</i><c>with</c></NS> the organisation of the conference.</p>
+          <p>I phoned <NS type="UT"><i>to</i></NS> the tourist information <NS type="MN"><c>office</c></NS> last week and I got some information about the <NS type="S"><i>accomodation</i><c>accommodation</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> the students.</p>
+          <p>I think we should book <NS type="UT"><i>at</i></NS> the Palace Hotel. It is an outstanding building situated in the city centre.</p>
+          <p>The <NS type="RP"><i>Hotel</i><c>hotel</c></NS> is in a good position, 10 <NS type="MP"><i>minutes</i><c>minutes'</c></NS> walk from the conference<NS type="MP"><c>,</c></NS> and I think the best way to reach it is on foot.</p>
+          <p>I am sure the students will enjoy walking in the streets of the town.</p>
+          <p>The conference starts at 5 o'clock in the afternoon and finishes at 7 pm.</p>
+          <p>I think they should wear smart <NS type="RN"><i>dress</i><c>clothes</c></NS>, because there will be lots of interesting people and <NS type="M"><c>it is an</c></NS> important meeting.</p>
+          <p>In conclusion, for the last day, I thought it <NS type="TV"><i>will</i><c>would</c></NS> be very interesting for the students to visit the town and <NS type="RV"><i>appreciate</i><c>admire</c></NS> its monuments and art.</p>
+          <p>On the other hand, if you prefer to have a relaxing day, you could have a <NS type="UP"><i>pic-nic</i><c>picnic</c></NS> in the wonderful park.</p>
+          <p>I hope my suggestion and <NS type="FN"><i><NS type="RP"><i>Idea</i><c>idea</c></NS></i><c>ideas</c></NS> will help you to organise the meeting.</p>
+          <p>I look forward to receiving your confirmation.</p>
+          <p>Yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>REPORT:</p>
+          <p>TO: MR</p>
+          <p>FROM:</p>
+          <p>DATE: 21ST JUNE 2000</p>
+          <p>INTRODUCTION:</p>
+          <p>As requested, the aim of this report is to assess the <NS type="S"><i>suitbility</i><c>suitability</c></NS> for a group of American students <NS type="RT"><i>for</i><c>of</c></NS> the visit <NS type="RT"><i>at</i><c>to</c></NS> the Etruscan Museum.</p>
+          <p>GENERAL INFORMATION:</p>
+          <p>The museum is situated in the centre of Populoniou, the picturesque fishing village on the Etruscan Coast. Populoniou is about 15 Km. from Piombino and it can be reached by <NS type="MD"><c>a</c></NS> <NS type="RJ">well-organised</NS> means of transport.</p>
+          <p>DESCRIPTION:</p>
+          <p>The Etruscan Museum is one of the most attractive <NS type="AGN"><i>building</i><c>buildings</c></NS> in my town. It contains lots of <NS type="R"><NS type="SA"><i>archeological</i><c>archaeological</c></NS> Etruscans founded</NS> and some remains <NS type="RT"><i>about</i><c>from</c></NS> <NS type="MD"><c>the</c></NS> <NS type="MP"><i>Etruscans</i><c>Estruscans'</c></NS> <NS type="S"><i>neoropolis</i><c>necropolis</c></NS>.</p>
+          <p>The entrance fee is £7 <NS type="MT"><c>for</c></NS> each student.</p>
+          <p>POSITIVE ASPECTS</p>
+          <p>1. The Museum is <NS type="UP"><i>well-organised</i><c>well organised</c></NS> for tourists. There are some shops, <NS type="MD"><c>a</c></NS> café and toilets. Also there are some free <NS type="S"><i>handphones</i><c>headphones</c></NS><NS type="UP"><i>,</i></NS> that explain the history of the museum.</p>
+          <p>2. After their visit <NS type="RT"><i>into</i><c>to</c></NS> the Museum, they could enjoy the superb view of the sea and the <NS type="RP"><i>tuscan</i><c>Tuscan</c></NS> Archipelago, and they could have a <NS type="UP"><i>pic-nic</i><c>picnic</c></NS> on the beach.</p>
+          <p>NEGATIVE ASPECTS</p>
+          <p>1. The negative aspect of the museum is that <NS type="MA"><c>it</c></NS> is quite expensive for students.</p>
+          <p>CONCLUSION:</p>
+          <p>Although the entrance fee is quite expensive for a group of students, I strongly <NS type="S"><i>reccomend</i><c>recommend</c></NS> it for their excursion and <NS type="MT"><c>because of</c></NS> their interests.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

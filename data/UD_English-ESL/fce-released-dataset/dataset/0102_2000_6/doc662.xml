@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR259*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear sir,</p>
+          <p>I bought a ticket for the "Over the Rainbow" musical show last Saturday, but I felt very disappointed with it. It was announced that there would be discount tickets available, but there were not. The show should have started at 19.30, but it <NS type="MV"><c>was</c></NS> delayed forty-five minutes. And, <NS type="UD"><i>the</i></NS> worst of all: Danny Brook was not on stage. He was replaced by a novice actor who <NS type="RV"><i>made</i><c>gave</c></NS> a very disappointing performance. Last, the theatre restaurant was closed because there was a serious leak in a <NS type="RN"><i>tube</i><c>pipe</c></NS> and the kitchen was flooded.</p>
+          <p>I think there are sufficient reasons for <NS type="MV"><c>giving</c></NS> <NS type="MD"><c>my</c></NS> money back. I just wanted to have a pleasant evening out and I could <NS type="RY"><i>ever</i><c>never</c></NS> <NS type="TV"><i>imagine</i><c>have imagined</c></NS> that there would be so many <NS type="RN"><i>troubles</i><c>problems</c></NS>.</p>
+          <p>I really expect that you <NS type="MV"><c>will</c></NS> consider my arguments and <NS type="RV"><i>cash</i><c>pay</c></NS> me back the value of the ticket, as soon as possible.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Several technological advances in the past five years have changed my daily life. Nowadays, I feel <NS type="UA"><i>myself</i></NS> entirely linked to these innovations, and I would find it hard to live without them.</p>
+          <p><NS type="MD"><c>The</c></NS> Internet is certainly the most <NS type="RJ"><i>evident</i><c>obvious</c></NS> of all these innovations. Information is spread quickly and you can access in minutes a wide range of data, <NS type="RA"><i>that</i><c>which</c></NS> would take a much longer time <NS type="M"><c>if it had</c></NS> to be found by traditional means. For a shy person, like me, <NS type="MD"><c>the</c></NS> Internet has another <NS type="DN"><i>attractive</i><c>attraction</c></NS>: the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> of knowing people and making friends worldwide. It's very exciting. Currently, I exchange e-mails with dozens of people all over the country.</p>
+          <p><NS type="MD"><i><NS type="S"><i>Celular</i><c>Cellular</c></NS></i><c>A cellular</c></NS> phone can be inconvenient sometimes, but it can be very useful in certain situations: when your car <NS type="RV"><i>is</i><c>has</c></NS> broken <NS type="MY"><c>down</c></NS> on the road, when you need to be found anywhere and at any time (if you are a doctor, a lawyer or a journalist, for instance), and so forth.</p>
+          <p>Modern technology <NS type="TV"><i><NS type="RV"><i>granted</i><c>created</c></NS></i><c>has created</c></NS> other <NS type="RN"><i>facilities</i><c>conveniences</c></NS>: I can pay my bills at any time and do not need to wait <NS type="RT"><i>on</i><c>in</c></NS> a big queue to be attended by the <NS type="DN"><i>cashman</i><c>teller</c></NS>, I can exchange photos and videos via computer, I can do business and make money at home, and so on.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

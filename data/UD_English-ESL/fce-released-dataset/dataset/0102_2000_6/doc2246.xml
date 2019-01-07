@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR105*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam:</p>
+          <p>I'd like to complain about your '<NS type="RJ"><NS type="RP"><i>Best</i><c>best</c></NS></NS>' musical show<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> I went to when <NS type="UP"><i>I'd</i><c>I had</c></NS> a week's holiday in London. I felt really disappointed because the things you said in the advertisement <NS type="AGV"><i>wasn't</i><c>weren't</c></NS> true.</p>
+          <p>I went there at 19.00 because the show started at 19.30 as the advertisement said but I queued for at least an hour because the ticket machine broke down. Finally, after an hour, when my <NS type="RN"><i>term</i><c>turn</c></NS> came to buy the entrance ticket, <NS type="DD"><i>you</i><c>your</c></NS> staff said I couldn't have a discount and <NS type="R">so as anyone</NS>. However<NS type="MP"><c>,</c></NS> I bought the ticket<NS type="MP"><c>,</c></NS> even <NS type="MC"><c>though</c></NS> it was <NS type="FJ"><i>more expensive</i><c>expensive</c></NS><NS type="MP"><c>,</c></NS> because I'd been queuing for ages and I really wanted to see my <NS type="UJ"><i>favourite</i></NS> idol, Danny Brook.</p>
+          <p>But when the show started, they said Danny wasn't there because of his illness and I felt very upset and dismayed about it because the <NS type="RN"><i>situation</i><c>experience</c></NS> I had was unlike what the advertisement <NS type="RV"><i>said</i><c>promised</c></NS>. After the boring show finished, I was hungry and I decided to go to your theatre restaurant but the restaurant was closed after 19.00. So what's the point <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to say</i><c>saying</c></NS> 'visit our restaurant after the show'?</p>
+          <p><NS type="UP"><i>I'd</i><c>I had</c></NS> a very disappointing evening and my anger influenced me for the rest of my holidays. I'd like to know if you can give the money back to me or I'll write letters to all the media departments to show how <NS type="RJ"><i>tricky</i><c>deceitful</c></NS> you were.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. He went to see the headmaster and told him <NS type="RQ"><i>all the</i><c>the whole</c></NS> truth. Tim was the one who threw the paper aeroplane <NS type="RT"><i>to</i><c>at</c></NS> the headmaster and Jon was the one who said some bad words behind the <NS type="MP"><i>headmaster</i><c>headmaster's</c></NS> <NS type="MN"><c>back</c></NS> after he punished Jon. The headmaster was extremely angry about it and he gave both students a heavy punishment, which was <NS type="DN"><i>suspended</i><c>suspension</c></NS> from school for a week.</p>
+          <p>This happened <NS type="RT"><i>in</i><c>on</c></NS> <NS type="UD"><i>the</i></NS> Thursday afternoon. When everyone finished their lunch, they all got into their classrooms quickly because they all knew that the headmaster <NS type="TV"><i>would walk</i><c>walked</c></NS> round the school every Thursday. But some naughty students in my class were throwing paper aeroplanes when the teacher was <NS type="IV"><i>writting</i><c>writing</c></NS> something on the board. Unfortunately, one of the paper planes flew out of the window and hit <NS type="UY"><i>directly</i></NS> <NS type="UT"><i>to</i></NS> the headmaster's head. Everyone was laughing and the headmaster's face was full of anger. He then punished Jon but the one who did <NS type="MA"><c>it</c></NS> was Tim so Jon was very angry and he said something bad about the headmaster <NS type="RT"><i>among</i><c>to</c></NS> us. Pat heard that and <NS type="MA"><c>he</c></NS> went to see the headmaster straight after school. The headmaster went to see Jon and Tim and punished <NS type="M"><c>them for</c></NS> their bad <NS type="FN"><i>behaviours</i><c>behaviour</c></NS>.</p>
+          <p>After that event <NS type="UV"><i>happened</i></NS>, Pat was Jon and Tim's enemy. They both got into trouble because of him. They <NS type="UV"><i>do</i></NS> hate him so much.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

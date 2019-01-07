@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR582*0102*2000*02">
+  <candidate><personnel><language>Italian</language><age>41-50</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Clark,</p>
+          <p>I am writing to you to give some <NS type="FN"><i>opinion</i><c>opinions</c></NS> about the International Arts Festival that you <NS type="TV"><i>have organized</i><c>organized</c></NS> last November. First of all, I believe that it was very interesting, but there were <NS type="FQ"><i>few</i><c>fewer</c></NS> artists than I <NS type="TV"><i>have</i><c>had</c></NS> expected. In fact<NS type="MP"><c>,</c></NS> they came from six countries. I wonder if it is possible for next year to have more artists and also bigger concert halls. In fact I have noticed that some <NS type="FN"><i>concert</i><c>concerts</c></NS> <NS type="TV"><i>need</i><c>needed</c></NS> <NS type="UT"><i>to</i></NS> more space.</p>
+          <p>I would be grateful if, next year, you could <NS type="RV"><i>put</i><c>include</c></NS> more art exhibitions (with more pictures) in the <NS type="SA"><i>program</i><c>programme</c></NS>. I was very interested in the <NS type="W"><i>ticket of Festival</i><c>festival ticket</c></NS>. It was not expensive and <NS type="MV"><c>was</c></NS> easy to use, because <NS type="RA"><i>it</i><c>there</c></NS> was only one for all the events.</p>
+          <p>I would offer you one suggestion that <NS type="S"><i>concers</i><c>concerns</c></NS> the classical concerts. I think it would be interesting to invite young <NS type="RN"><i>compositors</i><c>composers</c></NS> to hear <NS type="IN"><i>news</i><c>new things</c></NS> from <NS type="UD"><i>the</i></NS> classical music.</p>
+          <p>I look forward to receiving your reply</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Magda,</p>
+          <p>how are you? Well, I hope. I'm O.K. I've just received your letter and I'm going to reply to your questions.</p>
+          <p>In my country there are some rules that are the same in all schools. For example, we have to <NS type="RV"><i>wear</i><c>dress</c></NS> in <NS type="MD"><c>an</c></NS> appropriate way, not talk to each other during the lessons and pay attention to the teachers. At this time, in my school there is a new rule. We aren't allowed to use <NS type="RD"><i>the</i><c>a</c></NS> mobile phone in class. Before this rule it was funny (new sound in class, phones ring or sing.), but not for our headmaster.</p>
+          <p>And now about my home.</p>
+          <p>I have to arrive in time for dinner, because it is the only time <NS type="RT"><i>in</i><c>at</c></NS> which my family can eat together. For me, it's very <NS type="DJ"><i>stressfull</i><c>stressful</c></NS> and I usually run a lot to do it. In fact (you know) I like <NS type="RV">cheat</NS> with my <NS type="RP"><i>class mates</i><c>classmates</c></NS> after our lessons.</p>
+          <p>I'd like to change a rule at home.</p>
+          <p>I'm not allowed to listen to music after 11 p.m. It's a boring rule. Neighbours have complained about loud music.</p>
+          <p>Write to me soon about news in your life.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

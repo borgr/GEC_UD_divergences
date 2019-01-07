@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1104*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>DEAR SIR,</p>
+          <p>I AM <NS type="IV"><i>WRITTING</i><c>WRITING</c></NS> IN ORDER TO <NS type="DV"><i>COMPLAINT</i><c>COMPLAIN</c></NS> ABOUT THE SHOW THAT YOUR THEATRE <NS type="RV"><i>OFFER</i><c>PUT ON</c></NS>. I WENT TO YOUR THEATRE WITH THE IDEA OF HAVING A GREAT TIME<NS type="RP"><i>,</i><c>.</c></NS> <NS type="DY"><i>UNFORTUNETELY</i><c>UNFORTUNATELY</c></NS>, THINGS <NS type="RV"><i>WERE</i><c>WENT</c></NS> VERY WRONG.</p>
+          <p>FIRSTLY, IN THE ADVERTISEMENT FOR THE SHOW IT SAID THAT THE STAR WAS DANNY BROOK, AND THAT WAS <NS type="RJ"><i>FALSE</i><c>WRONG</c></NS> BECAUSE THERE WAS A DIFFERENT ACTOR. THIS WAS VERY DISAPPOINTING.</p>
+          <p>SECONDLY, THE SHOW WAS SUPPOSED TO START AT HALF PAST SEVEN IN THE AFTERNOON, BUT IT STARTED AT QUARTER PAST <NS type="S"><i>EIGH</i><c>EIGHT</c></NS>, THAT IS <NS type="S"><i>FOURTY-FIVE</i><c>FORTY-FIVE</c></NS> MINUTES LATER! IT IS ALSO ADVERTISED THAT THERE WERE DISCOUNTS AVAILABLE<NS type="RP"><i>,</i><c>.</c></NS> HOWEVER, THAT WAS ANOTHER LIE.</p>
+          <p>LASTLY, AFTER THAT <NS type="S"><i>AWFULL</i><c>AWFUL</c></NS> EXPERIENCE I TRIED TO VISIT YOUR THEATRE RESTAURANT, OF COURSE, I COULDN'T DO IT BECAUSE IT WAS <NS type="RJ"><i>CLOSE</i><c>CLOSED</c></NS>.</p>
+          <p>AS YOU CAN SEE, <NS type="RA"><i>THAT</i><c>IT</c></NS> WASN'T MY PERFECT EVENING OUT (AS YOU <NS type="TV"><i>PROMISE</i><c>PROMISED</c></NS> IN THE ADVERTISEMENT), SO I WANT YOU TO GIVE ME MY MONEY BACK.</p>
+          <p>YOURS FAITHFULLY</p>
+          <p>INGO SANOU</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p><NS type="DY"><i>UNFORTUNETELY</i><c>UNFORTUNATELY</c></NS>, PAT WASN'T VERY GOOD AT KEEPING SECRETS AND I DISCOVERED <NS type="RA"><i>IT</i><c>THAT</c></NS> TOO LATE. IF I HAD KNOWN THAT BEFORE, I WOULDN'T <NS type="TV"><i>TOLD</i><c>HAVE TOLD</c></NS> HER THAT I HAD <NS type="RV"><i><NS type="S"><i>DISSAPROVE</i><c>DISAPPROVE</c></NS></i><c>FAILED</c></NS> MY MATHEMATICS EXAM.</p>
+          <p>LAST WEEK I HAD AN <NS type="DN"><i>ARGUE</i><c>ARGUMENT</c></NS> WITH MY MOTHER. SHE TOLD ME THAT I WAS SPENDING TOO MUCH TIME WITH MY FRIENDS, SO MY <NS type="RN"><i>QUALIFICATIONS</i><c>EXAM RESULTS</c></NS> WERE GOING TO BE VERY BAD. I SAID THAT I KNEW WHAT I WAS DOING AND THAT MY MARKS WOULD BE GOOD.</p>
+          <p>AFTER THAT PAT INVITED ME TO GO TO THE <NS type="W"><i>CONCERT OF CHARLY GARCIA</i><c>CHARLY GARCIA CONCERT</c></NS>. THE CONCERT WAS PLANNED FOR THE <NS type="S"><i>FOLLOWIN</i><c>FOLLOWING</c></NS> FRIDAY, <NS type="S"><i>WICH</i><c>WHICH</c></NS> WAS THE DAY AFTER MY TEACHER GAVE ME MY MARKS. I REALLY WANTED TO GO, AND I KNEW THAT MY EXAM <NS type="R"><i>WAS NO GOOD</i><c>HAD GONE BADLY</c></NS>, SO I TOLD MY MOTHER THAT I WOULD GET MY <NS type="RN"><i>QUALIFICATIONS</i><c>RESULTS</c></NS> THE NEXT MONDAY, SO MY MOTHER ALLOWED ME TO GO.</p>
+          <p>THAT FRIDAY, I KNEW THAT I HAD <NS type="RV"><i><NS type="S"><i>DISSAPROVED</i><c>DISAPPROVE</c></NS></i><c>FAILED</c></NS> THE EXAM, AND PAT KNEW IT TOO. OF COURSE, I DIDN'T THINK ABOUT TELLING THAT TO MY MOTHER, BUT PAT CAME TO MY HOUSE AND TOLD <NS type="U"><i>IT TO</i></NS> MY MOTHER, WITHOUT ANY INTENTION <NS type="M"><c>OF DOING SO</c></NS>. AS A RESULT, I WASN'T ALLOWED TO GO TO THE CONCERT, BUT PAT TOLD ME THAT IT WAS GREAT.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

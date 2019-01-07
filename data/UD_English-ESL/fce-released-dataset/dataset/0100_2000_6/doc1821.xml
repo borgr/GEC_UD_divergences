@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR76*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I have just received your letter and I am writing <NS type="R"><i>in response of</i><c>to answer</c></NS> your questions.</p>
+          <p>I can travel only in <NS type="RP"><i>july</i><c>July</c></NS> because <NS type="MA"><c>it</c></NS> is the only month <NS type="UT"><i>of</i></NS> this year that I will be available<NS type="MP"><c>,</c></NS> because I finish school in <NS type="RP"><i>june</i><c>June</c></NS><NS type="MP"><c>,</c></NS> so I will be very busy <NS type="MY"><c>then</c></NS><NS type="MP"><c>,</c></NS> and in August I start to study at <NS type="UD"><i>the</i></NS> University, so <NS type="RP"><i>july</i><c>July</c></NS> is the best month for me to travel.</p>
+          <p>Accommodation for me is not <NS type="MD"><c>a</c></NS> problem. I am very easy going and I will be satisfied wherever <NS type="M"><c>I am</c></NS>. But if I have to choose, I prefer <NS type="FV"><i>sleep</i><c>to sleep</c></NS> in tents, because when I travel I usually sleep in that kind of accommodation so, for me they seem very comfortable.</p>
+          <p>I would like to do the following activities:</p>
+          <p>- Tennis because <NS type="MA"><c>it</c></NS> is my favourite sport and I enjoy playing it.</p>
+          <p>I <NS type="TV"><i>play</i><c>have played</c></NS> tennis since I was a child and I have won some competitions in my town so I think I play very well.</p>
+          <p>- Climbing because I have never climbed in my life and it is a dream for me to do that.</p>
+          <p>I am a terrible climber but with a little bit of help I think I can enjoy the activity and have a good time <NS type="M"><c>that will be</c></NS> unforgettable.</p>
+          <p>I <NS type="RV"><i>wonder</i><c>want</c></NS> to know what kind of clothes I have to wear because I don't know how the weather is in <NS type="MD"><c>the</c></NS> U.S.A. Also I would like to know how much money I have to bring <NS type="RT"><i>to</i><c>on</c></NS> the trip.</p>
+          <p>I am looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you as soon as possible.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Hello Kim:</p>
+          <p>Thank you for your letter<NS type="MP"><i> it</i><c>. It</c></NS> was great to hear from you.</p>
+          <p>Sorry<NS type="MP"><c>,</c></NS> but I haven't written <NS type="MT"><c>to</c></NS> you because I've been very busy.</p>
+          <p>Last month I helped at a pop concert<NS type="RP"><i>, it</i><c>. It</c></NS> was marvellous. I have a friend and she knows that I speak English<NS type="MP"><c>,</c></NS> so she offered <NS type="UT"><i>to</i></NS> me work with an English singer <NS type="RC"><i>so</i><c>and</c></NS> I said<NS type="RP"><i> "yes,</i><c>, "Yes,</c></NS> of course". But you can't imagine who <NS type="W"><i>was the singer</i><c>the singer was</c></NS><NS type="RP"><i>, it</i><c>. It</c></NS> was Sting<NS type="RP"><i>, can</i><c>. Can</c></NS> you imagine? You know, he is my favourite singer.</p>
+          <p>My job was very easy<NS type="MP"><c>.</c></NS> I had to help Sting <NS type="RT"><i>in</i><c>with</c></NS> everything, for example<NS type="MP"><c>,</c></NS> if he wanted water, I had to give <NS type="UT"><i>to</i></NS> him water<NS type="RP"><i>, it</i><c>. It</c></NS> was marvellous. He was very kind to me<NS type="RP"><i>, we</i><c>. We</c></NS> talked <NS type="MT"><c>about</c></NS> many things and after the concert he invited all the team to have <NS type="UD"><i>a</i></NS> dinner<NS type="RP"><i>, yes</i><c>. Yes,</c></NS> I know what you're thinking, "Dinner and Sting"<NS type="MP"><i> yes</i><c>. Yes,</c></NS> my friend<NS type="MP"><c>,</c></NS> it was the best thing <NS type="M"><c>to happen to me</c></NS> in my life. I understood everything he said and Sting said to me that I <NS type="TV"><i>spoken</i><c>spoke</c></NS> <NS type="W"><i>very well English</i><c>English very well</c></NS>. The best thing was I spoke in English <NS type="R">because I was forgetting it</NS> and I met my favourite singer.</p>
+          <p>I hope my friend <NS type="AGV"><i>call</i><c>calls</c></NS> me again to work <NS type="M"><c>for him</c></NS> because I had a wonderful time and it was a great and unforgettable experience.</p>
+          <p>I hope you are O.K. and write soon.</p>
+          <p>Lots of Love</p>
+          <p>P.D. I <NS type="TV"><i>send</i><c>have sent</c></NS> you an autograph that Sting wrote for you.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

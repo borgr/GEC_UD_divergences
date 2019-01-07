@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR194*0102*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>23.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark</p>
+          <p>I am writing to tell you about the festival <NS type="UT"><i>in</i></NS> this time and I would like to suggest <NS type="MT"><c>to</c></NS> you three things for <NS type="MD"><c>the</c></NS> next festival.</p>
+          <p>First of all, it is <NS type="MD"><c>a</c></NS> great idea to have <NS type="UD"><i>a</i></NS> this kind of festival. I enjoyed it so much. But, there are three things which I would like to tell you. Firstly<NS type="RP"><i>. There</i><c>, there</c></NS> were stars and artists from only six countries. I <NS type="RV"><i>supposed</i><c>expected</c></NS> to see <NS type="R"><i>quite various nationality</i><c>a variety of nationalities</c></NS>. Secondly, I actually liked <NS type="MD"><c>the</c></NS> Jazz, rock and classical concerts very much. However, some concert halls were too small for the <NS type="RQ"><i>many</i><c>large number of</c></NS> people so we couldn't have a enough space. <NS type="RP"><i>thirdly.</i><c>Thirdly,</c></NS> I would like <NS type="UT"><i>to</i></NS> you to consider <NS type="UT"><i>about</i></NS> having more plays and films next year. It would be nicer.</p>
+          <p>Otherwise, the price was really reasonable for all <NS type="W"><i>:events the weekend</i><c>the weekend events</c></NS>. I was satisfied with that.</p>
+          <p>And if there was musical event<NS type="RP"><i>. It</i><c>, it</c></NS> would be <NS type="DJ"><i>greatful</i><c>great</c></NS>. I hope the next one will be better. And I would like to thank you <NS type="RT"><i>about</i><c>for</c></NS> <NS type="RV"><i>making</i><c>organising</c></NS> this festival.</p>
+          <p>I look forward to <NS type="MD"><c>the</c></NS> next festival very much.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Lula</p>
+          <p>Hello. How are you doing? I hope you're well. It's nice to hear about your class. It's quite interesting.</p>
+          <p>Let me tell you some rules at school in my country. Actually<NS type="RP"><i>. We</i><c>, we</c></NS> have quite strict rules. When I was a student, I wasn't allowed to wear any fashionable clothes. <NS type="CE">Only It was like a formal clothes.</NS> And we couldn't wear any <NS type="SA"><i>colorful</i><c>colourful</c></NS> clothes and socks. Also our <NS type="RP"><i>hair style</i><c>hairstyle</c></NS> was the same <NS type="RT"><i>as</i><c>for</c></NS> everyone. It's really strict.</p>
+          <p>At home<NS type="RP"><i>. There</i><c>, there</c></NS> is one thing I'd like to change. I'm not allowed to sleep at my friend's house. I really like chatting all night with my friends. But I can't <NS type="MV"><c>do</c></NS> it. I'm <NS type="S"><i>pursuading</i><c>persuading</c></NS> my mum, perhaps. The school rules in my country are more strict than <NS type="MT"><c>in</c></NS> your country.</p>
+          <p>Anyway<NS type="RP"><i>. If</i><c>, if</c></NS> you want to know about something of our country<NS type="RP"><i>.</i><c>,</c></NS> I'm glad to tell you more.</p>
+          <p>I'm looking forward to getting your letter soon.</p>
+          <p>Thank you. Take care of yourself.</p>
+          <p><NS type="FN"><i>Loves</i><c>Love</c></NS>,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

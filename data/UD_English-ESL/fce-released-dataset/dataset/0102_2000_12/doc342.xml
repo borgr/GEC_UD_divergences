@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR141*0102*2000*02">
+  <candidate><personnel><language>Russian</language><age>21-25</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>I am writing to you to give <NS type="MA"><c>you</c></NS> some opinions of mine <NS type="SX"><i>abut</i><c>about</c></NS> The International Arts Festival.</p>
+          <p>It was a great idea and I had the pleasure of resting and relaxing, plus of <NS type="RV"><i>getting</i><c>acquiring</c></NS> some important knowledge from it. On the other hand there were some disadvantages: 1. <NS type="MD"><i>Stars</i><c>The stars</c></NS> and artists <NS type="SX"><i>wee</i><c>were</c></NS> <NS type="W"><i>only from</i><c>from only</c></NS> six countries<NS type="MP"><c>.</c></NS></p>
+          <p>2. Some concert halls were too small. So it was impossible to get tickets there.</p>
+          <p>3. I <NS type="X"><i>think that there were not</i><c>don't think that there were</c></NS> enough plays and films.</p>
+          <p>To sum up I want to tell you <NS type="SX"><i>bout</i><c>about</c></NS> my suggestions for next year's festival. It would be wonderful to buy some books or <NS type="S"><i>programms</i><c>programmes</c></NS> with <NS type="MD"><c>the</c></NS> signatures of all the stars and artists taking part in the festival. Also I think that <NS type="MD"><c>the</c></NS> dance shows should include different styles of dancing (e.g. <NS type="MD"><c>the</c></NS> national <NS type="RN"><i>dancing</i><c>dance</c></NS> of all the countries) to impress <NS type="MD"><c>the</c></NS> audience and <NS type="R">not to bore with the similar scenes</NS>.</p>
+          <p>I hope this letter will help you <NS type="RT"><i>in</i><c>with</c></NS> <NS type="S"><i>organying</i><c>organizing</c></NS> <NS type="M"><c>the festival</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Hello Philip,</p>
+          <p>I have just got your letter. It is a pleasure for me to <NS type="L"><i>communicate</i><c>keep in touch</c></NS> with such a friend as you are. Thank you very much.</p>
+          <p>In our school we have the following rules: 1. Every <NS type="S"><i>puple</i><c>pupil</c></NS> has to sit alone<NS type="MP"><c>.</c></NS> (I mean that one desk is given <NS type="RT"><i>for</i><c>to</c></NS> one <NS type="RN"><i>man</i><c>person</c></NS><NS type="MP"><c>.</c></NS>)</p>
+          <p>2. One should have such marks as ,,3", ,,4", ,,5"<NS type="MP"><c>,</c></NS> not ,,2"<NS type="MP"><c>,</c></NS> which is <NS type="R"><NS type="S"><i>eaqual</i><c>equal</c></NS> to fail</NS>.</p>
+          <p>3. Another strict rule is not to be late for your lessons. Otherwise you are not allowed to come in.</p>
+          <p>These rules are strict and certainly we have <NS type="MD"><c>an</c></NS> endless number of <NS type="DJ">just-so-called</NS> rules. I don't think you will be interested in them.</p>
+          <p><NS type="RY"><i><NS type="DY"><i>Truely</i><c>Truly</c></NS></i><c>Honestly</c></NS> speaking I am not sure about home rules. I think that in our family everything is based on mutual understanding. We don't have <NS type="DJ"><i>old-traditioned</i><c>old-fashioned</c></NS> rules or <NS type="RA"><i>something</i><c>anything</c></NS> <NS type="SX"><i>alike</i><c>like</c></NS> <NS type="MA"><c>that</c></NS>.</p>
+          <p>I'm afraid I must be going now because I want to send you this letter today.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

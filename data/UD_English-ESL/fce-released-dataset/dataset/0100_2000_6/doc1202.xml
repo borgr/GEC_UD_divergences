@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR493*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>Thank you for the letter. It was great to hear from you. I was surprised that I have won.</p>
+          <p>By the way, I would like to travel in July, because <NS type="W"><i>just I</i><c>I just</c></NS> have free time in July. Moreover, I am keen on <NS type="UT"><i>in</i></NS> summer.</p>
+          <p>As can be seen from your letter, I can choose Accommodation. I would prefer to stay in tents. One reason why I choose tents is that I can feel <NS type="RN"><i><NS type="RP"><i>wild life</i><c>wildlife</c></NS></i><c>nature</c></NS> more than <NS type="MC"><c>if</c></NS> I stay in log cabins.</p>
+          <p>According to your letter, there are 10 main activities which I can choose 2 and play while I am on the holiday. I would like to play Basketball and Golf. <NS type="R">Both of them I am not as good as you expect,</NS> but recently I have been <NS type="S"><i>intrested</i><c>interested</c></NS> in <NS type="RA"><i>those</i><c>them</c></NS>.</p>
+          <p>Finally, I would like to ask some <NS type="FN"><i>question</i><c>questions</c></NS> such as <NS type="MT"><c>about</c></NS> clothes and money. What kind of clothes are <NS type="R">much to the camp</NS>? Furthermore<NS type="MP"><c>,</c></NS> this is <NS type="MD"><c>the</c></NS> first time I have been <NS type="UT"><i>to</i></NS> abroad<NS type="MP"><c>,</c></NS> therefore I don't know how much money I should bring.</p>
+          <p>I am looking forward to hearing from you</p>
+          <p>yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear kim</p>
+          <p>How have you been doing recently<NS type="RP"><i>.</i><c>?</c></NS> I have been busy anyway. I want to tell you how much I enjoyed helping at a pop concert.</p>
+          <p>It was <NS type="M"><c>at the</c></NS> <NS type="S"><i>begining</i><c>beginning</c></NS> of this summer. One of my friends suggested that we should have <NS type="UV"><i>had</i></NS> <NS type="MD"><c>a</c></NS> <NS type="MP"><i>part time</i><c>part-time</c></NS> job<NS type="MP"><c>,</c></NS> which was that. Both of us are keen on pop music. Although at first I didn't <NS type="SX"><i>wand</i><c>want</c></NS> to do it, because it was in summer. It must have been hot.</p>
+          <p><NS type="S"><i>Howeve</i><c>However</c></NS>, we decided to have the job, because of good money.</p>
+          <p><NS type="S"><i>Howeve</i><c>However</c></NS><NS type="MP"><c>,</c></NS> it was <NS type="MD"><c>a</c></NS> great job<NS type="MP"><c>.</c></NS> I haven't hade such <NS type="M"><c>a great</c></NS> experience <NS type="MY"><c>before</c></NS>. I could see a great number of pop stars in front of us. Can you believe that<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>My job just <NS type="FV"><i><NS type="S"><i>prepear</i><c>prepare</c></NS></i><c>to prepare</c></NS> <NS type="FN"><i>drink</i><c>drinks</c></NS> for them. Moreover<NS type="MP"><c>,</c></NS> one of <NS type="MD"><c>the</c></NS> famous stars gave me a <NS type="RN"><i>sign</i><c>signature</c></NS>. I will never forget <NS type="UT"><i>at</i></NS> that time.</p>
+          <p>I must sign off as I want to catch the post.</p>
+          <p><NS type="R">Could you being</NS> in touch and send back a letter.</p>
+          <p>A big hug from me</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

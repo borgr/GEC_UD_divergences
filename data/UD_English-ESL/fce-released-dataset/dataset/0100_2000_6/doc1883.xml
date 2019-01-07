@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR719*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>41-50</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p><NS type="IJ"><i>Dears</i><c>Dear</c></NS> sirs:</p>
+          <p>I would like to travel in July<NS type="R">, before is not possible for me,</NS> I'll have to finish my <NS type="UP"><i>exams'</i><c>exams</c></NS><NS type="RP"><i>, the</i><c>. The</c></NS> <NS type="IJ"><i>lastest</i><c>last</c></NS> of them will be on <NS type="MD"><c>the</c></NS> 30th of <NS type="S">Juny</NS>.</p>
+          <p>About my <NS type="RP"><i>Accommodation</i><c>accommodation</c></NS><NS type="MP"><c>,</c></NS> I prefer <NS type="UD"><i>the</i></NS> tents<NS type="RP"><i>,</i><c>.</c></NS> I like them<NS type="RP"><i>, every</i><c>. Every</c></NS> year I <NS type="R">go 15 days out</NS> with my tent and some friends. I like to sleep outside on the grass. The weather <NS type="AS"><i>will be no cold doesn't it?</i><c>won't be cold, will it?</c></NS></p>
+          <p>I'd like to play <NS type="RN"><i>gold</i><c>golf</c></NS> and tennis<NS type="RP"><i>,</i><c>.</c></NS> I <NS type="TV"><i><NS type="RV"><i><NS type="S"><i>practis</i><c>practise</c></NS></i><c>play</c></NS></i><c>have played</c></NS> both since I was young, and I like them, but I don't have enough time to play, and my level isn't as good as <NS type="TV"><i>I'll</i><c>I'd</c></NS> like.</p>
+          <p>In order to know what sort of <NS type="UD"><i>the</i></NS> clothes I have to take, please can you <NS type="RV"><i>inform</i><c>tell</c></NS> me about the normal weather for this <NS type="S"><i>periode</i><c>period</c></NS>? I'm not used to <NS type="S"><i>hight</i><c>high</c></NS> temperatures<NS type="RP"><i>,</i><c>.</c></NS> I don't like <NS type="W"><i>so much the hot weather</i><c>the hot weather so much</c></NS>.</p>
+          <p>How expensive <NS type="UD"><i>the</i></NS> <NS type="W"><i><NS type="DN"><i>live</i><c>living</c></NS> is</i><c>is living</c></NS> there? I have a Master Card<NS type="RP"><i>,</i><c>;</c></NS> <NS type="W"><i>it's</i><c>is it</c></NS> possible to use it in your country or <NS type="W"><i>it's</i><c>is it</c></NS> better to take American Express or Visa? I <NS type="TV"><i>wait</i><c>am waiting</c></NS> <NS type="MT"><c>for</c></NS> your answer</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>One of the most important <NS type="AGN"><i><NS type="SX"><i>think</i><c>thing</c></NS></i><c>things</c></NS> we have to film is our <NS type="S"><i>bycicle</i><c>bicycle</c></NS> classes<NS type="RP"><i>, our</i><c>. Our</c></NS> school is now the best <NS type="RT"><i>of</i><c>in</c></NS> the country in all ages<NS type="MP"><c>.</c></NS> We are <NS type="DJ">prest</NS> with this<NS type="RP"><i>, we</i><c>. We</c></NS> can show what we do in order to be the best. If it <NS type="TV"><i><NS type="S"><i>sould</i><c>should</c></NS> be</i><c>is</c></NS> possible we can <NS type="RV"><i>make</i><c>conduct</c></NS> an interview <NS type="RT"><i>to</i><c>with</c></NS> the last winner.</p>
+          <p><NS type="MA"><i><NS type="RV"><i>Should</i><c>Would</c></NS></i><c>It would</c></NS> be good to show the swimming <NS type="S"><i>poole</i><c>pool</c></NS>, the <NS type="S"><i>gim</i><c>gym</c></NS>, etc.</p>
+          <p>And <NS type="ID"><i>an other hand</i><c>on the other hand</c></NS> we <NS type="W"><i>have also</i><c>also have</c></NS> a very important museum, and <NS type="MD"><c>a</c></NS> very <NS type="S"><i>beatiful</i><c>beautiful</c></NS> building in the school <NS type="MN"><c>grounds</c></NS>, <NS type="R">bowls them</NS>!!</p>
+          <p>We can also show one <NS type="SX"><i>off</i><c>of</c></NS> <NS type="S"><i>de</i><c>the</c></NS> youngest classes and at the end one <NS type="SX"><i>off</i><c>of</c></NS> <NS type="S"><i>de</i><c>the</c></NS> oldest<NS type="RP"><i>, <NS type="R"><i>with this</i><c>this way</c></NS></i><c>. This way</c></NS>, the people who see the video will <NS type="RV"><i>know</i><c>see</c></NS> the <NS type="S"><i>progres</i><c>progress</c></NS> of our students.</p>
+          <p>At the end of the video we can show<NS type="UP"><i>,</i></NS> <NS type="W"><i>in front <NS type="SX"><i>off</i><c>of</c></NS> the <NS type="RJ"><i>principal</i><c>main</c></NS> building all the students <NS type="SX"><i>an</i><c>and</c></NS> all the teachers</i><c>all the students and all the teachers in front of the main building</c></NS> like <NS type="FD"><i>a</i><c>an</c></NS> old photo.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

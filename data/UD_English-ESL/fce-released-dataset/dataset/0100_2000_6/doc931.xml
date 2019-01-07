@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR381*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I have received your letter about the prize I have won in your competition. I would like to thank you and give some <NS type="MT"><c>of</c></NS> <NS type="MD"><c>the</c></NS> information you asked about me.</p>
+          <p>Re <NS type="MD"><c>the</c></NS> time: I am a student and have examinations until the end of June. The only <NS type="S"><i>convinient</i><c>convenient</c></NS> time to travel is in July. I hope you can arrange this.</p>
+          <p>Re accommodation: I would like to stay in a log cabin. I have had sleeping and breathing problems in tents which were serious. I hope to avoid these this time.</p>
+          <p>Re activities: During the two weeks I would like to do tennis and swimming. I <NS type="TV"><i>regularly play</i><c>have regularly played</c></NS> tennis since I was nine years old and I <NS type="TV"><i>entered</i><c>have entered</c></NS> several competitions. Swimming is another sport I learned when I was six.</p>
+          <p>I have a few questions about the camp. Are the meals free or do I have to pay for <NS type="AGA"><i>it</i><c>them</c></NS>? Do you have a choice of food? I'm vegetarian and can't eat any milk products. What kind of clothes will I need? Are there any special clothes you suggest?</p>
+          <p>I'm looking forward to your reply<NS type="MP"><c>.</c></NS></p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thank you for your letter. I'm glad to hear that you have found a job. I want to apologize for writing so late, but I had a lot of work to do.</p>
+          <p>Do you remember the concert I helped at<NS type="RP"><i>.</i><c>?</c></NS> It was absolutely amazing. My job was checking the entry tickets and the bags of the fans. We started at 7 <NS type="RP"><i>am</i><c>pm</c></NS><NS type="UP"><i>.</i></NS> to let them <NS type="RT"><i>in</i><c>into</c></NS> the concert area. I had to tear off a part of every single ticket. This part had to be saved for later because the concert <NS type="S"><i>orginazer</i><c>organiser</c></NS> wanted to know the <NS type="DJ"><i>exactly</i><c>exact</c></NS> number of visitors. After two hours of tearing tickets I changed my <NS type="RN">place</NS> and went to help at the security section. Here, I had to check the bags and <NS type="S"><i>couts</i><c>coats</c></NS> of the girls. Fans weren't allowed to take any sharp things <NS type="MY"><c>in</c></NS> with them, like <NS type="IN"><i>knifes</i><c>knives</c></NS> or scissors. So I looked into every bag and found some forbidden things in some of the bags. I really felt like a security guard.</p>
+          <p>It was a great experience. I had a serious duty and also a lot of fun. I met new people <NS type="AGA"><i>which</i><c>who</c></NS> I still see. I would like to introduce them to you.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

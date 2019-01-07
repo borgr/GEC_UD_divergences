@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR147*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>20 Ibiza Road</p>
+          <p>San Antonio</p>
+          <p>13/06/2000</p>
+          <p>Helen Ryan</p>
+          <p>Competition Organiser</p>
+          <p>Dear Madam:</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> to you with reference to the letter I have received from you saying I have won your competition.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I'd like to thank you for the prize, I will enjoy it <NS type="R"><i><NS type="DY"><i>abosolutly</i><c>absolutely</c></NS></i><c>a lot</c></NS>.</p>
+          <p>Your letter encloses an application <NS type="MN"><c>form</c></NS> I have to fill <NS type="MY"><c>in</c></NS> with some information <NS type="RT"><i>for</i><c>about</c></NS> the <NS type="RN"><i>travel</i><c>trip</c></NS>. Well, as you <NS type="RV"><i>demand</i><c>ask</c></NS>, I <NS type="MV"><c>will</c></NS> tell you I would like to travel as soon as July begins, I'm going to be able only <NS type="MV"><c>to travel</c></NS> <NS type="R"><i>this</i><c>in that</c></NS> <NS type="UN"><i>summer</i></NS> month because <NS type="MT"><c>of</c></NS> my job <NS type="S"><i>responsabilities</i><c>responsibilities</c></NS>. <NS type="RT"><i><NS type="S"><i>Acording</i><c>According</c></NS> to</i><c>Regarding</c></NS> the choice <NS type="R"><i>whether I prefer</i><c>of</c></NS> <NS type="SX"><i>tends</i><c>tents</c></NS> or log cabins, I think I will turn to the first one because I have always loved camping <NS type="RJ"><i>the nearest</i><c>close</c></NS> to nature, if <NS type="U"><i>it's</i></NS> possible<NS type="MP"><c>,</c></NS> in front of a lake or a river, if <NS type="DD"><i>you</i><c>your</c></NS> <NS type="RN"><i>camping</i><c>campsite</c></NS> has one, so that I will be able to <NS type="RV"><i>practise</i><c>do</c></NS> my <NS type="SA"><i>favorite</i><c>favourite</c></NS> and <NS type="RJ">skillful</NS> hobby: sailing. As well as this <NS type="R"><i>one</i><c>activity</c></NS> I'll <NS type="RV"><i>take</i><c>do</c></NS> painting, I'm very keen on art and I think I'm good at <NS type="RV"><i>making</i><c>painting</c></NS> portraits.</p>
+          <p>Finally, I'd like to <NS type="RV"><i>add</i><c>ask</c></NS> some further questions: what kind of clothes do I have to bring?<NS type="UP"><i>,</i></NS> <NS type="R">Do I any kind?</NS><NS type="RP"><i>, and</i><c> And</c></NS> Would it be necessary to bring <NS type="MQ"><c>any</c></NS> money?<NS type="RP"><i>, how</i><c> How</c></NS> much?</p>
+          <p>Thank you very much, and I hope the information above <NS type="TV"><i>would</i><c>will</c></NS> be sufficient. I look forward to hearing from you</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully<NS type="MP"><c>,</c></NS> Jose Fernandez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5a</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>"Wuthering Heights" by Emile Brönte I think this statement is a very <NS type="RJ"><i><NS type="DJ"><i>truly</i><c>true</c></NS></i><c>accurate</c></NS> <NS type="RN"><i><NS type="S"><i>afimation</i><c>affirmation</c></NS></i><c>summary</c></NS> in the case of my book because the main character <NS type="RT"><i>of</i><c>in</c></NS> the story is a very wicked man. Besides that, this character is more interesting than <NS type="MD"><c>the</c></NS> others due to his complex mind and his deep<NS type="MP"><c>,</c></NS> evil <NS type="RN"><i>manners</i><c>ways</c></NS>. <NS type="RA"><i>It's</i><c>He's</c></NS> the richest character <NS type="RT"><i>at</i><c>of</c></NS> all, his name is Heathcliff, and he's the reason <NS type="RT"><i>of</i><c>for</c></NS> whatever happens to the <NS type="IQ"><i>others</i><c>other</c></NS> characters. They are always suffering <NS type="MT"><c>from</c></NS> the <NS type="RN"><i>revenge</i><c>vengeance</c></NS> that Heathcliff <NS type="MV"><c>is</c></NS> <NS type="TV"><i>swear</i><c>sworn to</c></NS>, <NS type="MD"><c>the</c></NS> cause of which is the miserable situation the other <NS type="FN"><i>character</i><c>characters</c></NS> have put him in. From this point of view I think Heathcliff shouldn't be hated <NS type="RT"><i>by</i><c>for</c></NS> his bad temper. He's not good not because he was born with this <NS type="RN"><i>trend</i><c>tendency</c></NS> to harm but <NS type="MC"><c>because</c></NS> the <NS type="IQ"><i>others</i><c>other</c></NS> <NS type="FN"><i>character</i><c>characters</c></NS> <NS type="TV"><i>make</i><c>have made</c></NS> him <NS type="R"><i>become thus</i><c>like that</c></NS>. This revenge links the story <NS type="MY"><c>together</c></NS> so without it we would not have such "Wuthering Heights". I sympathize with Heathcliff because I think every bad character is a very important <NS type="RN"><i>point</i><c>aspect</c></NS> of every book, film or play and if they were missing we would not love those stories we enjoyed while we were reading them.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

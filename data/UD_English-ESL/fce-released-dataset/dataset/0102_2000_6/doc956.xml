@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR398*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>40.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about the musical show advertised in your latest leaflet.</p>
+          <p>First of all, I would like to say that it was the worst performance I had ever seen and it disappointed me very much.</p>
+          <p>Although your advertisement stated that the main actor would be Danny Brook, it was not him and a different man <NS type="M"><c>appeared, who</c></NS> was not prepared for the role.</p>
+          <p>Secondly, <NS type="DD"><i>you</i><c>your</c></NS> advertisement stated that the second show should start at 19:30. <NS type="RA"><i>It</i><c>This</c></NS> was not true because the audience had to wait until 20:15.</p>
+          <p>Then, I did not get a discount and I had to buy a full-price ticket, although I am not <NS type="MD"><c>an</c></NS> adult yet.</p>
+          <p>Finally, I was hungry after waiting for the show and wanted to order something to eat. <NS type="RA"><i>It</i><c>This</c></NS> was, however, impossible because the theatre restaurant was closed for unknown reasons.</p>
+          <p>I would like you then to send the money back to me because I did not enjoy the show at all and the ticket <NS type="IV"><i>costed</i><c>cost</c></NS> a fortune.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>She heard from her friend Jon that Paul, the worst pupil at school, had thrown an enormous frog inside the desk of Miss Colston, their English teacher.</p>
+          <p>Miss Colston was an old woman, who wanted her pupils to understand and admire English novels and poems.</p>
+          <p>But the children were bored during her lessons and Paul was very disappointed that she didn't read any funny stories.</p>
+          <p>So he decided to scare the old woman away from school. Now he thought it was stupid to tell Jon about it, as he was the best friend of Pat. "Oh, that girl will cause some problems" - he thought when Miss Colston entered the classroom. She approached the desk and wanted to open it, but suddenly Pat shouted - "Miss Colston, please, don't do that. There's a frog". The teacher stared at the whole class and calmly whispered - "Who did it?"</p>
+          <p>"Oh, God" - thought Paul - "the next time I will throw a frog <NS type="RT"><i>inside</i><c>into</c></NS> Pat's rucksack."</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

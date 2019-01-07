@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR987*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr./Mrs:</p>
+          <p>I have just received your letter in which you inform <NS type="MA"><c>me</c></NS> that I won <NS type="MD"><c>the</c></NS> first prize of two weeks at Camp California. I am very excited about it!</p>
+          <p>I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July, since I am studying and that is the only month I have <NS type="RT"><i>for</i><c>on</c></NS> vacation. Fortunately, I have heard that <NS type="MD"><c>the</c></NS> weather is beautiful in California during that month. I'd rather sleep in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> because I want to enjoy this wild experience! I will take my sleeping bag with me, just in case.</p>
+          <p>I would love to participate in the singing and photography activities. Singing is something I have enjoyed since I was a little child. In fact, I took some singing lessons. I am not very good at photography but I want to make an album to share it with my family when I come home.</p>
+          <p>Could you please tell me what kind of clothes <NS type="UV"><i>do</i></NS> you recommend for <NS type="UD"><i>the</i></NS> camping? How much money will I need? Is it better to take cash or a credit card?</p>
+          <p>Thanks for your attention.</p>
+          <p><NS type="ID">Cordially yours,</NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>The best way to go shopping is <NS type="U"><i>when you</i></NS> <NS type="FV"><i>think</i><c>to think</c></NS> in advance <NS type="MT"><c>about</c></NS> what you really want to buy and <NS type="CE">you know how much money you estimate to spend</NS>. If people would think about it BEFORE going shopping, they would not have a headache when they go home and realize they did not want what they bought.</p>
+          <p>Shopping can be an awful adventure when people want to buy all their presents the day before Christmas, for example. There is no way to find good prices! Shops are crowded, items are of bad quality and people are buying without thinking.</p>
+          <p>The worst time to go shopping is when people feel under <NS type="RN"><i>stress</i><c>pressure</c></NS> or when they feel unsatisfied in their personal lives. It may seem relaxing at the beginning, but if they take their credit cards with them, the stress will increase when they have to pay <NS type="UT"><i>for</i></NS> the bills!!</p>
+          <p>Recommendations?</p>
+          <p>Wait for a sunny day, take a look <NS type="RT"><i>into</i><c>at</c></NS> your wardrobe, some money, ask a friend to go with you, and enjoy an exciting shopping <NS type="MN"><c>trip</c></NS>!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

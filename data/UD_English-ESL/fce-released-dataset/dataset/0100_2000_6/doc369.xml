@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR150*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>After having read your letter, I <NS type="TV"><i>write</i><c>am writing</c></NS> to you to inform you that I would like to travel in July. It is the only month <NS type="RC"><i>where</i><c>that</c></NS> I don't work. As for the <NS type="CN"><i>accommodations</i><c>accommodation</c></NS><NS type="MP"><c>,</c></NS> I would prefer a tent<NS type="RP"><i>, there's</i><c>.  There's</c></NS> nothing like hearing raindrops on canvas at night!</p>
+          <p>Last but not least, I would like to go sailing and climbing. I have sailed <NS type="RA"><i>some</i><c>a little</c></NS> in my youth but have never <NS type="RV"><i>went</i><c>been</c></NS> climbing. It would be a fun <NS type="S"><i>experiance</i><c>experience</c></NS>! Will I be needing any money<NS type="RP"><i>.</i><c>?</c></NS> Please send me a list of <NS type="RJ"><i>needed</i><c>required</c></NS> clothes and/or supplies. Thank you very much.</p>
+          <p>Yours sincerely,</p>
+          <p>Gilbert Neville</p>
+          <p>P.S.</p>
+          <p>I would like to know if there is a medical staff present during the two weeks<NS type="RP"><i>?</i><c>.</c></NS> Does any medication <NS type="M"></NS> have to be declared to them? <NS type="ID"><i>In case of</i><c>In the event of</c></NS> <NS type="RD"><i>any</i><c>an</c></NS> <NS type="AGN"><i>accidents</i><c>accident</c></NS>, will the transport back home be paid for?</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Why <NS type="R"><i>can shopping be unenjoyable</i><c>is it that shopping is sometimes unenjoyable</c></NS>?</p>
+          <p>First of all, it depends on who is with you and what the other person likes to shop for.</p>
+          <p>Some people are boring to shop with, they don't talk or comment <NS type="MT"><c>on</c></NS> anything they see. Why would anyone shop with that type of person? Well, I really don't know. Women, in <NS type="S"><i>perticular</i><c>particular</c></NS>, have the annoying habit of always having to touch everything they see. If it is something they like, they always have to try it on. We all know how it is when a woman <NS type="TV"><i>tried</i><c>tries</c></NS> on some clothes (usually several <NS type="MN"><c>items</c></NS>) but <NS type="RA"><i>it's</i><c>that's</c></NS> still better than when we're talking about shoes! That has to be the worst. Seeing or imagining a woman in the <NS type="RN"><i>cloths</i><c>clothes</c></NS> she chooses can at least help when <NS type="MA"><c>you</c></NS> <NS type="TV"><i>being</i><c>are</c></NS> bored, but shoes are just shoes. Shopping for them is a very long and tiring <NS type="RN"><i><NS type="S"><i>experiance</i><c>experience</c></NS></i><c>process</c></NS>. It seems to last forever and just when you think she's done, she spots <NS type="S"><i>an othe</i><c>another</c></NS> pair.</p>
+          <p>Shopping <NS type="ID"><i>for me</i><c>in my opinion</c></NS> is supposed to be a very <NS type="RJ"><i>fast</i><c>quick</c></NS> <NS type="RN"><i><NS type="S"><i>experiance</i><c>experience</c></NS></i><c>process</c></NS>. As soon as someone else is with you, it can become horrible!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

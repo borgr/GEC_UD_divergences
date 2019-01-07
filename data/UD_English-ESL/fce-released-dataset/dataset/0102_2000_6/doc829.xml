@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR333*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to you to complain about the unexpected evening I had when I went to see the musical show "Over the rainbow" in your theatre.</p>
+          <p>First of all, the time for the second session was meant to be at 19.30, but somehow it began at 20.15, which was a 45 minutes delay.</p>
+          <p>I was also expecting to see the actor Danny Brook performing, but a different actor did, who did not perform as well as Danny Brook does. This was another disappointing thing <NS type="RT"><i>of</i><c>about</c></NS> that evening.</p>
+          <p>But my <NS type="DN"><i>complain</i><c>complaint</c></NS> does not finish here. It was <NS type="UT"><i>of</i></NS> my understanding that discounts were available on the tickets, as the advertisement showed, but there were no discounts. And what is more, I could not go to the restaurant after the show, as it was closed because the main chef was ill and could not come to work.</p>
+          <p><NS type="S"><i>Definetely</i><c>Definitely</c></NS>, it was not my perfect evening at all and under these circumstances I really believe you should give me my money back.</p>
+          <p>Looking forward to hearing from you,</p>
+          <p>Alessandra Lane.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. As soon as she arrived home, she phoned her best friend Sue and told her everything, all details included. She also told her not to tell anybody about it because it was a secret.</p>
+          <p>The thing was that Mary couldn't resist the secrecy and phoned her cousin, who also studied in our school. She was the director of the school newspaper and Mary didn't tell her it was a secret, so on <NS type="RP"><i>monday</i><c>Monday</c></NS> at 9 a.m. MY SECRET was published in the school paper and at the end of the day, eventually everybody had read the "news". I didn't know it was published as I didn't read the paper and no one told me anything, either. But I soon knew it because when I went to the school canteen everybody was staring at me and whispering to <NS type="RP"><i>eachother</i><c>each other</c></NS>.</p>
+          <p>At first I didn't realise what was happening, but then a friend of mine told me that everyone knew that I was going out with the most popular boy in the school and that we had kissed <NS type="RP"><i>eachother</i><c>each other</c></NS> in the park last <NS type="RP"><i>friday</i><c>Friday</c></NS>. Suddenly my face went all red and I ran towards the toilet. I had never felt so embarrassed and miserable in my life, but luckily next day almost everybody forgot about it.</p>
+          <p>That day I swore to myself that I would never trust anybody again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1091*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>31-40</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you <NS type="UT"><i>for</i></NS> <NS type="FV"><i>complaining</i><c>to complain</c></NS> about the last <NS type="RP"><i>saturday</i><c>Saturday</c></NS> evening performance <NS type="RT"><i>in</i><c>at</c></NS> your theatre. I was very disappointed! First of all, the principal character was not Danny Brook, but a substitute, and the theatre had not notified the audience about this <NS type="RN"><i>changing</i><c>change</c></NS> before <NS type="MN"><c>the performance</c></NS>.</p>
+          <p>Secondly, the show started 45 minutes late. We <NS type="RV"><i>would</i><c>could</c></NS> not <NS type="RV"><i>have had</i><c>get</c></NS> <NS type="MQ"><c>any</c></NS> discounts on <NS type="MD"><c>the</c></NS> price and <NS type="R"><i>any</i><c>no</c></NS> worker wanted to give us an explanation for that.</p>
+          <p>After the show, we decided to go to the restaurant <NS type="RT"><i>to</i><c>for</c></NS> dinner, but it was closed for <NS type="RN"><i>work</i><c>repairs</c></NS>. Everything was completely different from what you had announced <NS type="RT"><i>on</i><c>in</c></NS> the advertisement</p>
+          <p>I am sure you understand why I am so upset and you will do your best to give me satisfaction, I mean, refunding me exactly what I <NS type="TV"><i>had paid</i><c>paid</c></NS> for this terrible evening.</p>
+          <p>I look forward to hearing from you very soon.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>.2</exam_score>
+         <coded_answer>
+          <p>Modern technology has changed my daily life, making it easy, with less effort and time spent <NS type="MT"><c>on</c></NS> <NS type="MN"></NS>. A simple example, we can<NS type="MP"><c>,</c></NS> at the same time<NS type="MP"><c>,</c></NS> wash our clothes <NS type="RT"><i>with</i><c>in</c></NS> a washing machine, record a <NS type="RP"><i>tv</i><c>TV</c></NS> <NS type="SA"><i>program</i><c>programme</c></NS> and talk to someone on the other side of the world. All this in one morning, and the day <NS type="TV"><i>just begins</i><c>has just begun</c></NS>, what <NS type="MV"><c>is</c></NS> <NS type="FV"><i>doing</i><c>to do</c></NS> next?</p>
+          <p>Technology allows <NS type="MA"><c>us</c></NS> to have more time <NS type="RT"><i>to</i><c>for</c></NS> <NS type="RN"><i>distractions</i><c>leisure</c></NS> or <NS type="RT"><i>to</i><c>for</c></NS> other things we really like to <NS type="MV"><c>do</c></NS>. We can take care of <NS type="RA"><i>whom</i><c>those</c></NS> we love and give them more attention<NS type="RP"><i>,</i><c>;</c></NS> time is not <NS type="W"><i>a really</i><c>really a</c></NS> problem. We will see people differently, <NS type="UT"><i>with</i></NS> more <NS type="DY"><i>calm</i><c>calmly</c></NS>, because we <NS type="RV"><i>have</i><c>suffer</c></NS> no stress and we are not in a hurry to do something else. We will be more <NS type="RJ"><i>comprehensible</i><c>understanding</c></NS> with others. It is the first step <NS type="RT"><i>for</i><c>towards</c></NS> a true fraternity.</p>
+          <p>Of course, everything <NS type="RP"><i>can not</i><c>cannot</c></NS> be completely perfect. All this modern technology <NS type="AGV"><i>increase</i><c>increases</c></NS> the level of <NS type="RJ"><i>polluted</i><c>waste</c></NS> products that <NS type="RP"><i>can not</i><c>cannot</c></NS> be easily <NS type="IV"><i>destructed</i><c>destroyed</c></NS>. Living better, people live longer and it is necessary to <NS type="DV"><i>product</i><c>produce</c></NS> more food, but more food means chemical agents on <NS type="MD"><c>the</c></NS> earth, the circle never stops.</p>
+          <p>In conclusion, modern technology allows me to live better and to have more time to do what I really like, although<NS type="MP"><c>,</c></NS> I know, all this has a price.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

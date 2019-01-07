@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR772*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>41-50</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>17th <NS type="S"><i>Juni</i><c>June</c></NS> 2000</p>
+          <p>The manager of the Circle Theatre</p>
+          <p>Dear Sir,</p>
+          <p>I'm in London <NS type="M"><c>for the</c></NS> first time and I wondered what is interesting on <NS type="DD"><i>yours</i><c>your</c></NS> stage: I read in <NS type="MD"><c>the</c></NS> newspaper the <NS type="S"><i>advertisment</i><c>advertisement</c></NS> about <NS type="MD"><c>the</c></NS> best musical show. In <NS type="MD"><c>the</c></NS> <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="MD"><c>the</c></NS> <NS type="DN"><i>starring</i><c>cast</c></NS> was very <NS type="RJ"><i>interested</i><c>interesting</c></NS> - Danny Brook and Tina Truelove.</p>
+          <p>I <NS type="S"><i>desided</i><c>decided</c></NS> to go to your theatre but at the beginning <NS type="MA"><c>it</c></NS> was the <NS type="DN">tranbles</NS>. In <NS type="MD"><c>the</c></NS> <NS type="S"><i>advertisment</i><c>advertisement</c></NS> <NS type="MA"><c>it</c></NS> <NS type="RV"><i>was</i><c>said</c></NS> - "discounts available". I'm <NS type="MD"><c>a</c></NS> teacher and in <NS type="S"><i>Polan</i><c>Poland</c></NS> I have discounts but in England <NS type="R"><i>no</i><c>I don't</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I know this is <NS type="RQ"><i>other</i><c>another</c></NS> country. I was disappointed because you wrote about it!</p>
+          <p>Otherwise, the musical show started too late<NS type="MP"><c> -</c></NS> at 20 15 <NS type="RY"><i>not</i><c>instead of</c></NS> 17 30! This was a waste of time. I was very <NS type="S"><i>suppresed</i><c>suprised</c></NS> when I saw <NS type="MD"><c>a</c></NS> different actor<NS type="RP"><i>, it</i><c>. It</c></NS> wasn't Danny Brook. This musical show wasn't "the best". I went out <NS type="FY"><i>earlier</i><c>early</c></NS> but the theatre restaurant was closed. I had <NS type="MD"><c>a</c></NS> very disappointing evening. I <NS type="RV"><i>would</i><c>must</c></NS> ask you for <NS type="MD"><c>my</c></NS> money back.</p>
+          <p>Yours <NS type="RY"><i><NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>"Fashion of the Future"</p>
+          <p>What will clothes be like 100 years from now? This is <NS type="MD"><c>a</c></NS> very interesting question for us and maybe very important too. We think and <NS type="RV"><i>speak</i><c>talk</c></NS> about it in our families.</p>
+          <p>I saw one week ago on TV <NS type="R">(the <NS type="RP"><i>23th</i><c>23rd</c></NS> annual)</NS> the fashion show in Paris and I was very <NS type="S"><i>surrprised</i><c>suprised</c></NS> because of <NS type="RD"><i>this</i><c>the</c></NS> style. All <NS type="MD"><c>the</c></NS> models had <NS type="UD"><i>a</i></NS> very strange long shoes made from black <NS type="RN"><i>skin</i><c>leather</c></NS>, the <NS type="S"><i>trouses</i><c>trousers</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> quite short and the jackets <NS type="AGV"><i>was</i><c>were</c></NS> elegant with <NS type="S"><i>blazzend</i><c>emblazoned</c></NS> <NS type="S"><i>materiell</i><c>material</c></NS>.</p>
+          <p>I think the fashion of the future will be very different but suitable for all people. <NS type="UD"><i>The people</i><c>People</c></NS> will wear clothes <NS type="MV"><c>made</c></NS> from natural materials like silk, <NS type="M"><c>which will be</c></NS> comfortable and <NS type="S"><i>elgant</i><c>elegant</c></NS>. The colours will be <NS type="M"><c>of a</c></NS> very good quality and the <NS type="FN"><i>fashion</i><c>fashions</c></NS> will <NS type="FV"><i>be changed</i><c>change</c></NS> very quickly like now.</p>
+          <p>Because the world is now a global village <NS type="UD"><i>the</i></NS> people will wear at least one <NS type="RN"><i>part</i><c>item</c></NS> of traditional or national <NS type="RN"><i>clothes</i><c>clothing</c></NS> (for example <NS type="MD"><c>a</c></NS> <NS type="S"><i>peasnt</i><c>peasant</c></NS> jacket or hat)<NS type="MP"><c>,</c></NS> like <NS type="M"><c>they do</c></NS> now in rural areas from time to time.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

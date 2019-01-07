@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE12*0100*2001*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith</p>
+          <p>I am writing to answer your letter about the details of <NS type="MD"><c>the</c></NS> international students conference.</p>
+          <p><NS type="MD"><c>The</c></NS> Palace Hotel has been booked and you should first walk from the hotel to the Town Hall railway station, which is <NS type="M"><c>on the</c></NS> North City Line, <NS type="MA"><c>which</c></NS> is <NS type="MD"><c>the</c></NS> yellow line on the map. After getting on the train, you should get off at the Mountain station<NS type="MP"><c>,</c></NS> which is <NS type="R"><i>for twenty minutes</i><c>twenty minutes away</c></NS><NS type="RP"><i>, <NS type="MA"><c>it</c></NS></i><c>. It</c></NS> is <NS type="RT"><i>in front of</i><c>opposite</c></NS> the conference <NS type="MN"><c>venue</c></NS>.</p>
+          <p>The conference which<NS type="MP"><c>,</c></NS> will be held from 1 pm through 4 pm, is a formal party. You should wear formal clothes, and are going to play a game and enjoy <NS type="MD"><c>a</c></NS> welcome drink together.</p>
+          <p>Before catching our plane, we will be able to enjoy going shopping around the airport for three hours in the afternoon<NS type="RP"><i>. Because</i><c>, because</c></NS> there are so many unique shops and you should buy good gifts for your parents</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Wolf</p>
+          <p>I am writing to answer your question about <NS type="U"><i>the information on</i></NS> an interesting building to visit. I would like to introduce one building in my town.</p>
+          <p>"Sky Heaven"<NS type="MP"><c>,</c></NS> which is the name of the building, is <NS type="UT"><i>for</i></NS> fifteen minutes from the centre of my town. This building <NS type="AGV"><i>have</i><c>has</c></NS> a hundred <NS type="AGN"><i>floor</i><c>floors</c></NS> and it takes <NS type="UT"><i>for</i></NS> five minutes <NS type="MV"><c>to go</c></NS> from the <NS type="SX"><i>grand</i><c>ground</c></NS> to the top in the elevator. There are many <NS type="RN"><i>facilities</i><c>attractions</c></NS> <NS type="R"><i>which are</i><c>such as</c></NS> a museum, <NS type="FD"><i>a</i><c>an</c></NS> exhibition and many gift shops where we might also enjoy going shopping.</p>
+          <p>The reason for my recommendation is that Sky Heaven is the <NS type="RJ"><i>highest</i><c>tallest</c></NS> building in the world. You should <NS type="RV"><i>get</i><c>go</c></NS> <NS type="MT"><c>to</c></NS> the top of the building and <NS type="RV"><i>experience</i><c>enjoy</c></NS> <NS type="UQ"><i>such</i></NS> <NS type="FD"><i>a</i><c>an</c></NS> amazing view. Another reason is that there is a good museum, which <NS type="RV"><NS type="AGV"><i>tell</i><c>tells</c></NS></NS> you about the history of my town so easily and clearly. It <NS type="TV"><i>is</i><c>will be</c></NS> a good experience for your students.</p>
+          <p>I hope you will accept my recommendation and am looking forward to hearing from you soon.</p>
+          <p>Yours sincerely, </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

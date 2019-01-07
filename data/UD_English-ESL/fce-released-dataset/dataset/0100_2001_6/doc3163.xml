@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE70*0100*2001*01">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Chêne-Bourg, Tuesday 12th June.</p>
+          <p>Dear Mrs Smith,</p>
+          <p>it is with great regret that I hear of Mr Brown's illness, and <NS type="MA"><c>I</c></NS> hope to see him soon in <NS type="UD"><i>an</i></NS> excellent health. Nevertheless, I am both pleased and honoured to expect you and your group in the context of our international meeting.</p>
+          <p>We have made arrangements for you to stay at the Palace Hotel. Furthermore, since it is located between the airport and our location, a <NS type="W"><i>bus shuttle</i><c>shuttle bus</c></NS> has been organised to <NS type="RV"><i>pick</i><c>take</c></NS> all our guests from the hotel to the conference room.</p>
+          <p>The end-of-conference party is to be held <NS type="RT"><i>at</i><c>in</c></NS> the 'Royal Room' of the hotel, which has an outstanding reputation for its quality and seriousness. Therefore, all <NS type="MD"><c>the</c></NS> guests will be asked to wear the <NS type="RJ"><i>corresponding</i><c>appropriate</c></NS> clothes in order to be <NS type="RV">accepted</NS>.</p>
+          <p>As for the three hours of free time, I strongly suggest you <NS type="W"><i><NS type="FV"><i>to <NS type="UP"><i>check-in</i><c>check in</c></NS></i><c>check in</c></NS> your <NS type="CN"><i><NS type="S"><i>lugages</i><c>luggages</c></NS></i><c>luggage</c></NS></i><c>check your luggage in</c></NS> at the airport and then, after a <NS type="DJ"><i>five-minutes</i><c>five-minute</c></NS> bus ride, spend your time in the marvellous 'Old City'.</p>
+          <p>Best Regards,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>My fair Mobile Phone.</p>
+          <p>The technological revolution taking place today can be directly linked to the amazing evolution of our <NS type="RN"><i>communication</i><c>communications</c></NS> <NS type="RN"><i>abilities</i><c>technology</c></NS> <NS type="RT"><i>throughout</i><c>over</c></NS> <NS type="RD"><i>those</i><c>the</c></NS> last <NS type="MQ"><c>few</c></NS> years. The inevitable invention symbolizing this aspect in our <NS type="RJ"><i>ordinary</i><c>daily</c></NS> life is, of course, the mobile phone.</p>
+          <p>It is clear and irrefutable that the use of this invention has <NS type="S"><i>becomed</i><c>become</c></NS> a necessary <NS type="RN">condition</NS> in some professional activities. <NS type="R">Trades, politicians and taxi drivers are but a few examples of such needs</NS>. However, the <NS type="RJ"><i>common</i><c>average</c></NS> man seems to ignore how important and useful a mobile phone becomes<NS type="UP"><i>,</i></NS> when in the hands of a high-school student.</p>
+          <p>It <NS type="W"><i>becomes then</i><c>then becomes</c></NS> a real obsession for the average <NS type="FN"><i>students</i><c>student</c></NS>, as <NS type="S"><i>e</i><c>he</c></NS> uses it before the lessons, during the lessons, during lunch and, especially, during examinations... Nevertheless, it is also a common mistake to believe that the sole purpose of such <NS type="UD"><i><NS type="FD"><i>an</i><c>a</c></NS></i></NS> usage is to communicate information during an exam, since its major role is actually to allow the student and the parents to discuss <NS type="R">during <NS type="RP"><i>everyday's</i><c>every day's</c></NS> courses</NS>. <NS type="MD"><i>Bottom</i><c>The bottom</c></NS> line is that any teacher complaining about this situation should confiscate not the student's phone, but his parents'!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

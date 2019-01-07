@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR909*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>My name is Veronika. <NS type="UC"><i>And</i></NS> I visited your theatre to see a musical show<NS type="MP"><c>,</c></NS> "Over the Rainbow". I am writing to you to say that it was a very disappointing evening. <NS type="UC"><i>And</i></NS> I'll try to explain why.</p>
+          <p>First of all, there were <NS type="UD"><i>the</i></NS> different actors in <NS type="RD"><i>a</i><c>the</c></NS> show, but you didn't say anything about it before the show.</p>
+          <p>The other point was the beginning of the show. It started at 20:15, but it was said that it <NS type="TV"><i>starts</i><c>would start</c></NS> at 19:30. As a result<NS type="MP"><c>,</c></NS> I missed my train.</p>
+          <p>The third problem was the discounts. There were no <NS type="S">ay</NS> <NS type="FN"><i>discount</i><c>discounts</c></NS> at all. But I am a student and I know that I can get tickets with <NS type="RD"><i>the</i><c>a</c></NS> discount.</p>
+          <p>And the last disappointment was your restaurant<NS type="MP"><i> after</i><c>. After</c></NS> the show<NS type="UP"><i>. It</i><c> it</c></NS> was closed because of the lack of <NS type="S"><i>stuth</i><c>staff</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>Of course I want to get my money back, but I know that I will never get it. So <NS type="RT"><i>as</i><c>in</c></NS> <NS type="UD"><i>a</i></NS> conclusion I want to give you one piece of advice - try to organise your shows more carefully.</p>
+          <p>With <NS type="UD"><i>the</i></NS> best wishes</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>We know that everything is changing. And of course <NS type="UD"><i>the</i></NS> technology is also changing. Not so long ago we had to do many things by <NS type="UD"><i>our</i></NS> hand, but now there <NS type="SX"><i>re</i><c>are</c></NS> a lot of machines to do the same. And it makes our life easier. Now we have free time to do <NS type="RA"><i>anything</i><c>something</c></NS> else<NS type="UP"><i>,</i></NS> while <NS type="MD"><c>the</c></NS> machine is doing our work. <NS type="R">It's connected with</NS> our house, our workplace <NS type="UC"><i>and</i></NS> <NS type="UP"><i>e.t.c</i><c>etc</c></NS>.</p>
+          <p>For example, <NS type="RY"><i>earlier</i><c>before</c></NS><NS type="MP"><c>,</c></NS> I used to wash my clothes by hand, but now I have the <NS type="RJ"><i>last</i><c>latest</c></NS> version of <NS type="DN"><i>wash machine</i><c>washing machine</c></NS> and now there are no <NS type="UQ"><i>any</i></NS> reasons to do it by hand. <NS type="RY"><i>Earlier</i><c>Before</c></NS><NS type="MP"><c>,</c></NS> it took me 3 hours, but now it is <NS type="UD"><i>my</i></NS> free time and I can go for a walk with my friends.</p>
+          <p>Another example is that <NS type="RY"><i>earlier</i><c>before</c></NS> we had to rewrite some documents by hand just to make a copy. Now we have a scanner and a printer to do it. And it takes <NS type="SX"><i>bout</i><c>about</c></NS> 1 minute to make a copy <NS type="UC"><i>but</i></NS> not 1 hour.</p>
+          <p>So, I think that modern technology gives us a lot of opportunities to do the <NS type="W"><i><NS type="MA"><c>it</c></NS> <NS type="MV"><c>are</c></NS> really important <NS type="RT"><i>for</i><c>in</c></NS> our <NS type="FN"><i>life</i><c>lives</c></NS> things</i><c>things that are really important in our lives</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

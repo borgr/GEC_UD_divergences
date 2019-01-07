@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR838*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RN"><i>Ms</i><c>Madam</c></NS>,</p>
+          <p>I have just received your letter which <NS type="AGV"><i>inform</i><c>informs</c></NS> me that I have won two weeks at Camp California in the USA.</p>
+          <p>In this letter you ask me <NS type="MT"><c>for</c></NS> some further information <NS type="R">for my <NS type="S"><i>conveniance</i><c>convenience</c></NS> for this trip</NS>. Firstly, I can take my holiday only <NS type="MT"><c>in</c></NS> the <NS type="W"><i>two first</i><c>first two</c></NS> <NS type="AGN"><i>week</i><c>weeks</c></NS> of <NS type="RP"><i>july</i><c>July</c></NS> because of my work.</p>
+          <p>Secondly, I would prefer <NS type="FV"><i>sleep</i><c>to sleep</c></NS> in a tent. I <NS type="TV"><i>am going</i><c>go</c></NS> <NS type="W"><i>every year camping</i><c>camping every year</c></NS> in the countryside of France. The activities that I have chosen are sailing and climbing. I have never sailed but I am a <NS type="RJ"><i>well</i><c>good</c></NS> swimmer. Last summer I took a <NS type="W"><i>course <NS type="RT"><i>of</i><c>for</c></NS> one week in Switzerland <NS type="UT"><i>of</i></NS> climbing</i><c>climbing course for one week in Switzerland</c></NS> so I <NS type="R"><i>have good knowledge of</i><c>know a lot about</c></NS> this sport.</p>
+          <p>Finally could you please tell me <NS type="RQ"><i><NS type="S"><i>wich</i><c>which</c></NS></i><c>what</c></NS> kind of clothes <NS type="TV"><i>shall</i><c>should</c></NS> I take with me and if the camping <NS type="RN"><i><NS type="CN"><i>furnitures</i><c>furniture</c></NS></i><c>equipment</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> provided<NS type="RP"><i>.</i><c>?</c></NS> I <NS type="MV"><c>was</c></NS> also wondering <NS type="UA"><i>me</i></NS> how much money I need and if there is a safe place where I can put my money and passport.</p>
+          <p>I look forward to <NS type="S"><i>earing</i><c>hearing</c></NS> from you soon and if you could send me a brochure of this holiday I would be grateful.</p>
+          <p>Yours sincerely</p>
+          <p>Laura Demoriane</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>A lot of people like shopping and everybody goes on <NS type="RP"><i>saturday</i><c>Saturday</c></NS> because <NS type="UT"><i>for</i></NS> lots of people <NS type="UA"><i>they</i></NS> don't go to work <NS type="MY"><c>then</c></NS> and <NS type="MA"><c>it</c></NS> is the only day off <NS type="RT"><i>of</i><c>for</c></NS> the majority of people. If you don't get up <NS type="W"><i>enough early</i><c>early enough</c></NS> you can't find a parking <NS type="MN"><c>space</c></NS> in the town centre<NS type="RP"><i>, all</i><c>.  All</c></NS> of them are full <NS type="RT"><i>before</i><c>by</c></NS> 11 am. <NS type="UT"><i>In the</i><c>The</c></NS> street is so crowded that you can't walk like <NS type="R"><i>usually</i><c>you usually do</c></NS> and if you go with some friends you can be sure that you will <NS type="TV"><i>lost</i><c>lose</c></NS> them.</p>
+          <p><NS type="CE">In the shops is worth</NS>, if you are lucky and you find <NS type="RQ"><i>a</i><c>some</c></NS> clothes <NS type="R"><i>with your</i><c>which are the</c></NS> right size you will wait 20 <NS type="L"><i>min.</i><c>minutes</c></NS> at the fitting room and after that 20 <NS type="L"><i>min</i><c>minutes</c></NS> more at the cash desk. In the supermarket <NS type="MA"><c>it</c></NS> is the same. When you buy food or drink they give you <NS type="MD"><c>a</c></NS> plastic bag <NS type="UT"><i>for</i></NS> <NS type="FV"><i>carry</i><c>to carry</c></NS> it <NS type="MT"><c>in</c></NS> and <NS type="AGQ"><i>this</i><c>these</c></NS> bags <NS type="TV"><i>broke</i><c>break</c></NS> every time.</p>
+          <p>At the end of the month when your husband will receive the bill <NS type="W"><i>from <NS type="DD"><i>you</i><c>your</c></NS> visa card</i><c>your visa card bill</c></NS> he will have <NS type="FD"><i>an</i><c>a</c></NS> <NS type="UP"><i>heart-attack</i><c>heart attack</c></NS>!</p>
+          <p>Why not <NS type="RV"><i>buy</i><c>shop</c></NS> <NS type="R"><i>with</i><c>over</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> or if you have a nice mother at home <NS type="R">enjoy this time</NS> because shopping is like <NS type="FV"><i>go</i><c>going</c></NS> <NS type="RT"><i>in</i><c>into</c></NS> the jungle.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

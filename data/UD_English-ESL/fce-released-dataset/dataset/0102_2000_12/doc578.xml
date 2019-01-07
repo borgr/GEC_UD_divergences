@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR25*0102*2000*02">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Jean Clark,</p>
+          <p>I recently spent two days at your Annual International Arts Festival and I am writing to express my opinion about it.</p>
+          <p>Firstly, I think the International Arts Festival is a wonderful idea because I have the opportunity to enjoy different arts events. But it is also true I could just see stars and artists on stage from only six countries, not stars from around the world as you <NS type="RV"><i><NS type="TV"><i>announce</i><c>announced</c></NS></i><c>said</c></NS> in your advertisement.</p>
+          <p>Secondly<NS type="MP"><c>,</c></NS> I really enjoyed the jazz and classical concerts in spite of the fact that some of them <NS type="UV"><i>were</i></NS> <NS type="TV"><i>taken</i><c>took</c></NS> place in too small concert halls. Thirdly, all the plays and films <NS type="IV"><i>showed</i><c>shown</c></NS> were interesting<NS type="RP"><i>,</i><c>.</c></NS> In my opinion you should include some more films and plays in your festival next year. Finally, I think it was a good idea <NS type="U"><i>the fact</i></NS> <NS type="FV"><i>to buy</i><c>buying</c></NS> only one ticket for all the events since I <NS type="UY"><i>just</i></NS> spent the time watching and enjoying all of them.</p>
+          <p>I look forward <NS type="MT"><c>to</c></NS> hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear George,</p>
+          <p>Sorry it's been too long since I last wrote but I've been so busy at school that I couldn't answer you before.</p>
+          <p>As you <NS type="TV"><i>tell</i><c>told</c></NS> me in your last letter<NS type="MP"><c>,</c></NS> you were talking about rules in your class and you <NS type="TV"><i>want</i><c>wanted</c></NS> to know about school rules in my country and also what I am allowed to do at home. First<NS type="MP"><c>,</c></NS> I must tell you that <NS type="MD"><c>the</c></NS> teachers are strict at school. We aren't allowed to eat in the classrooms and in addition to this we must sit down <NS type="RT"><i>in</i><c>at</c></NS> individual desks. We can't chat with our classmates. How boring! At home everything is quite good, <NS type="MC"><c>because</c></NS> mum and dad are great but there's one main rule<NS type="MP"><c>:</c></NS> I must tell them <NS type="SX"><i>were</i><c>where</c></NS> I <NS type="TV"><i>go</i><c>am going</c></NS> and what time I'll come back. Granny is the problem <NS type="MC"><c>because</c></NS> she's a bit bossy! She usually tells me what to do and what <NS type="AGN"><i>kind</i><c>kinds</c></NS> of clothes I should wear but I don't <NS type="R"><i>care about it</i><c>take any notice of her</c></NS>.</p>
+          <p>I really must get down to some homework now so I'll stop here. Give my love to your parents.</p>
+          <p>Write to me soon</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

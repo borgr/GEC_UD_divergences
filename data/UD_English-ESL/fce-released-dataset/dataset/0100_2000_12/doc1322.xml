@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR543*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to you concerning <NS type="RD"><i>our</i><c>the</c></NS> three days which we are going to spend in London.</p>
+          <p>I would like to thank you for the programme which you have organised for our English class. It sounds very <NS type="S"><i>promissing</i><c>promising</c></NS><NS type="RP"><i>. Especially</i><c>, especially</c></NS> the trip to Greenwich.</p>
+          <p>But there is something else which we would like to see. We have seen an advertisement for the London Fashion and Leisure Show and we <NS type="W"><i>all would</i><c>would all</c></NS> like to go there. It would be a great opportunity for us, because we are all interested in fashion<NS type="MP"><c>,</c></NS> particularly in <NS type="RP"><i>sports wear</i><c>sportswear</c></NS>.</p>
+          <p>The show is going to be in <NS type="MD"><c>the</c></NS> Central Exhibition Hall on Tuesday 14th March from 10.00-19.00.<NS type="UP"><i>.</i></NS> <NS type="UD"><i>The entry</i><c>Entry</c></NS> for students is free. I would suggest <NS type="FV"><i>to visit</i><c>visiting</c></NS> the Science Museum, which <NS type="R"><i>was planned for</i><c>we were going to do on</c></NS> Tuesday, on Wednesday afternoon. So that we can go to the Fashion Show. And if there is anybody who wants to go shopping, he <NS type="TV"><i>would</i><c>will</c></NS> be able to do it on Wednesday evening.</p>
+          <p>We are looking forward to hearing from you as soon as possible.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>It was dangerous but I knew I had to do it. For just one day in my summer holidays I planned to do something adventurous. The moment I saw the advertisement about one of the <NS type="ID"><i>seven world wonders</i><c>seven wonders of the world</c></NS>, I knew<NS type="UP"><i>,</i></NS> I had to see it. But this was also the moment when my nightmare started to come <NS type="RY"><i>alive</i><c>true</c></NS>.</p>
+          <p>My friend and I had just arrived at a small airport in the middle of the Californian desert. <NS type="RD"><i>One</i><c>A</c></NS> man came out from a small building. It was our pilot. He introduced himself and we walked towards a small plane. The doors of the plane were so thin<NS type="UP"><i>,</i></NS> that I thought I could <NS type="TV"><i><NS type="FV"><i><NS type="S"><i>torne</i><c>torn</c></NS></i><c>tear</c></NS></i><c>have torn</c></NS> them. We went inside and the plane took off. It was horrible. I could feel every movement which was caused by <NS type="RN"><NS type="S"><i>clowds</i><c>clouds</c></NS></NS> or <NS type="FN"><i>winds</i><c>wind</c></NS>. I thought we would die.</p>
+          <p>But then, finally, we reached the Grand Canyon. I didn't know what to feel. It was amazing. We were so near that, I thought I could touch the sides of the Grand Canyon by reaching out of the <NS type="MP"><i>planes</i><c>plane's</c></NS> window. I swore to myself<NS type="UP"><i>,</i></NS> I would never ever <NS type="RV"><i>take</i><c>fly in</c></NS> a plane like this again. It was too dangerous, but I knew deep inside I had to see it.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

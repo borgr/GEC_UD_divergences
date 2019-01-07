@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE30*0100*2001*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>24.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Marie,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> in connection with your letter <NS type="SX"><i>bout</i><c>about</c></NS> the international student conference. I <NS type="RV">appreciate</NS> if I can offer you my help. I would like to give you <NS type="MD"><c>the</c></NS> necessary details, which <NS type="RV"><i>can</i><c>will</c></NS> help you to organise the conference.</p>
+          <p>Richard Brown booked the Palace Hotel for the students, which is <NS type="UD"><i>a</i></NS> very comfortable and close to our college. You need only <NS type="MV"><c>spend</c></NS> 5 minutes <NS type="UT"><i>by</i></NS> walking to <NS type="RV"><i>catch</i><c>get to</c></NS> the college.</p>
+          <p>After <NS type="MD"><c>the</c></NS> conference we are planning to organise a big party with <NS type="MD"><c>a</c></NS> barbecue. The party will take place <NS type="RT"><i>on</i><c>in</c></NS> <NS type="MD"><c>a</c></NS> forest close to <NS type="MD"><c>a</c></NS> <NS type="DN"><i>camping place</i><c>campsite</c></NS>. I hope we will have <NS type="UD"><i>a</i></NS> nice weather. Therefore, I suggest <NS type="FV"><i>to wear</i><c>wearing</c></NS> <NS type="UQ"><i>some</i></NS> casual clothes. On the <NS type="W"><i>last day <NS type="MT"><c>of</c></NS> <NS type="RD"><i>an</i><c>the</c></NS> afternoon</i><c>afternoon of the last day</c></NS><NS type="MP"><c>,</c></NS> if you have some free time<NS type="MP"><c>,</c></NS> I would recommend you <NS type="FV"><i>to visit</i><c>visit</c></NS> a very famous <NS type="RN"><i>exposition</i><c>exhibition</c></NS> of Leonardo Devinci. The <NS type="RN"><i>exposition</i><c>exhibition</c></NS> will take place <NS type="RT"><i>on</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> "Gribaldi museum", which you can find on <NS type="UD"><i>the</i></NS> Crariden street<NS type="MP"><c>,</c></NS> N 5. You will never <NS type="S"><i>regred</i><c>regret</c></NS> <NS type="R">about</NS> my suggestion. If you need more information let me <NS type="S"><i>knowe</i><c>know</c></NS>.</p>
+          <p>Best regards,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Report on the building at <NS type="UD"><i>the</i></NS> Berkeley Square.</p>
+          <p>In order to prepare this report I visited the business college and interviewed some students, I asked them only one question<NS type="MP"><c>:</c></NS> "Which building do you find <NS type="FJ"><i>more beautiful</i><c>most beautiful</c></NS> and <NS type="FJ"><i>more interesting</i><c>most interesting</c></NS> in our city?"</p>
+          <p>The <NS type="RP"><i>Students</i><c>students</c></NS><NS type="UP"><i>,</i></NS> who were questioned said that there are a lot of interesting buildings in our <NS type="RP"><i>City</i><c>city</c></NS>. However<NS type="MP"><c>,</c></NS> the majority of people point out one <NS type="UD"><i>a</i></NS> very old building, which you can find at Barkeley Square. Most of the <NS type="RP"><i>Students</i><c>students</c></NS> found this building very <NS type="RJ"><i>particular</i><c>special</c></NS>, because it reflects our history, tradition and culture. If you visit the building, you will get <NS type="MD"><c>the</c></NS> impression, <NS type="MD"><c>the</c></NS> feeling, that you are in <NS type="MD"><c>the</c></NS> <NS type="DN"><i>past times</i><c>past</c></NS>. This building attracts a lot of people<NS type="UP"><i>,</i></NS> - because it has a very <NS type="RJ"><i>particular</i><c>special</c></NS> style with majestic, antique windows.</p>
+          <p>In addition, I also visited this place - and I was very impressed.</p>
+          <p>Finally I would recommend you <NS type="FV"><i>visited</i><c>visit</c></NS> <NS type="MD"><c>the</c></NS> Barkely Square area. In this area you <NS type="TV"><i>could</i><c>can</c></NS> also find <NS type="RQ"><i>another</i><c>other</c></NS> different buildings, <NS type="R">which would you attract</NS>.</p>
+          <p>report <NS type="RT"><i>on</i><c>by</c></NS> the group leader</p>
+          <p>from</p>
+          <p>12.06.01</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE95*0100*2001*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>June 12, 2001</p>
+          <p>Dear Mrs Smith,</p>
+          <p>In <NS type="DN"><i>replied</i><c>reply</c></NS> <NS type="RT"><i>of</i><c>to</c></NS> your letter, I will try to give you some <NS type="CN"><i>advices</i><c>advice</c></NS>.</p>
+          <p>Concerning the hotel, the group has been booked into the Palace Hotel. The conference will take place not far from the hotel so you will see <NS type="RN"><i>indications</i><c>directions</c></NS> to follow.</p>
+          <p>For the conference, I suggest you <NS type="FV"><i>to wear</i><c>wear</c></NS> a beautiful dress, because there will be important <NS type="L"><i>persons</i><c>people</c></NS> <NS type="RT"><i>of</i><c>from</c></NS> <NS type="DI"><i>others</i><c>other</c></NS> colleges. At the end of the conference, all students and <NS type="AGN"><i>leader</i><c>leaders</c></NS> will have a drink.</p>
+          <p>To finish, if you have spare time, you could walk <NS type="RT"><i>on</i><c>in</c></NS> the <NS type="SA"><i>center</i><c>centre</c></NS> of Poitiers which is very beautiful.</p>
+          <p>I hope I <NS type="TV"><i>give</i><c>have given</c></NS> you enough details.</p>
+          <p>I look forward to meeting you <NS type="RT"><i>on</i><c>at</c></NS> the conference.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>The building called in French "Le Centre Pompidou" is a very surprising monument.</p>
+          <p>It's a modern building with an architecture that you can't see in <NS type="MQ"><c>any</c></NS> other place.</p>
+          <p>What is impressive <NS type="RT"><i>on</i><c>about</c></NS> this building is the number of tubes that you can see outside and inside the building.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> the <NS type="UP"><i>Pompidou's</i><c>Pompidou</c></NS> <NS type="SA"><i>center</i><c>centre</c></NS>, there are different <NS type="RN"><i>expositions</i><c>exhibitions</c></NS> on different themes. In general, there are paintings, videos and sculptures. <NS type="AGD"><i>This</i><c>These</c></NS> <NS type="RN"><i>expositions</i><c>exhibitions</c></NS> are often very attractive and they change every year.</p>
+          <p>Another good point, if you go there you will have an extraordinary view <NS type="RT"><i>on</i><c>over</c></NS> the city.</p>
+          <p>So if you visit Paris, the <NS type="UP"><i>Pompidou's</i><c>Pompidou</c></NS> <NS type="SA"><i>center</i><c>centre</c></NS> is a very interesting building to visit, even if in Paris there are many <NS type="DI"><i>others</i><c>other</c></NS> buildings.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR833*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I received your letter this morning and I was very <NS type="S"><i>suprised</i><c>surprised</c></NS> <NS type="MT"><c>by</c></NS> it. It was <NS type="MD"><c>an</c></NS> absolutely fantastic prize.</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> <NS type="MT"><c>to</c></NS> you about your questions. First, I can come there only <NS type="MT"><c>in</c></NS> July because of my examination, I have to take it in June, and my new <NS type="S"><i>turm</i><c>term</c></NS> will also start in September. I would like to stay <NS type="RT"><i>at</i><c>in</c></NS> <NS type="SX"><i>long</i><c>log</c></NS> cabins because I have stayed <NS type="RT"><i>at</i><c>in</c></NS> tents many times in my childhood. The most exciting offer is your activities. I have been interested in Painting but I have not had a chance<NS type="MP"><c>,</c></NS> so I would like to do it, and I would like to do climbing. My <NS type="RP"><i>grand father</i><c>grandfather</c></NS> used to do it when he was a student. After he <NS type="TV"><i>has got</i><c>got</c></NS> a job, he became busy. However, he retired <NS type="MT"><c>from</c></NS> his job last year so he has had his own time. If I know how to climb, I will enjoy it with my <NS type="RP"><i>grand father</i><c>grandfather</c></NS>.</p>
+          <p>I would like to ask about my clothes and money. How much do I need to bring <NS type="UA"><i>them</i></NS>?</p>
+          <p><NS type="R">I wish I could see you soon.</NS></p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you? You want to know about my experience at a pop concert, don't you? It was so exciting!</p>
+          <p>My main <NS type="DN"><i>working</i><c>work</c></NS> was <NS type="FV"><i>take</i><c>to take</c></NS> people to their <NS type="AGN"><i>seat</i><c>seats</c></NS> because of a concert hall, which was the <NS type="S"><i>millenium</i><c>millennium</c></NS> <NS type="RN"><i>dorm</i><c>dome</c></NS>.</p>
+          <p>Do you know it? It's the hottest place in England. Most of <NS type="MD"><c>the</c></NS> people were <NS type="R">first time to come there</NS>, so <NS type="TV"><i>they're</i><c>they were</c></NS> lost. I had also never been there before. It's a huge building. I also sold a <NS type="S"><i>panfulet</i><c>pamphlet</c></NS> of that concert, CD and T-shirts.</p>
+          <p>The most exciting experience was that I could <NS type="FV"><i>met</i><c>meet</c></NS> a lot of people. I told you before <NS type="AS"><i>that concert was performed by Elton John</i><c>Elton John performed at that concert</c></NS>, so there were a lot of <NS type="S"><i>famouse</i><c>famous</c></NS> people. When I saw Jullia Roberts, I was <NS type="DJ"><i>socked</i><c>shocked</c></NS>. She was <NS type="DY"><i>abusolutelly</i><c>absolutely</c></NS> beautiful. I have never seen that kind of long legs in my life!</p>
+          <p>Did you enjoy my letter? I can't explain <NS type="MT"><c>to</c></NS> you very well. Anyway, it was a wonderful time.</p>
+          <p>lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

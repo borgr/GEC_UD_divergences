@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE14*0100*2001*01">
+  <candidate><personnel><language>Russian</language><age>26-30</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>I am sorry to hear that Richard Brown isn't well and hope he'll get better soon. I am more than happy to give you the <NS type="S"><i>nessessary</i><c>necessary</c></NS> information.</p>
+          <p>Your group has been booked into <NS type="MD"><c>the</c></NS> Palace Hotel<NS type="MP"><c>,</c></NS> which is only 2 miles away from our college. The college will arrange <NS type="MT"><c>for</c></NS> a mini-bus to come and pick you up every morning at 8:45, so you can arrive <NS type="RT"><i>to</i><c>at</c></NS> the college around 9 o'clock and have some time before the conference starts at 9:15. The reason we don't suggest you <NS type="RV"><i><NS type="FV"><i>to take</i><c>take</c></NS> a walk</i><c>walk</c></NS> from your hotel is that you'd have to walk through a large building site which is not going to be suitable for a group of 20 students.</p>
+          <p>As you already know<NS type="MP"><c>,</c></NS> we are going to have <NS type="RD"><i>the</i><c>an</c></NS> end-of-conference party where the Head of the college will give a <NS type="RJ"><i>small</i><c>short</c></NS> speech at the <NS type="S"><i>begining</i><c>beginning</c></NS>, then <NS type="RA"><i>it</i><c>there</c></NS> will <NS type="MV"><c>be</c></NS> a buffet and a disco. You don't need to dress up smartly but please, make sure that your students don't wear <NS type="DN"><i>short</i><c>shorts</c></NS> or trainers.</p>
+          <p>Regarding <NS type="UT"><i>to</i></NS> what you could do in your free afternoon on the day you leave I would suggest you <NS type="FV"><i>to take</i><c>take</c></NS> the students to our History <NS type="S"><i>Museim</i><c>Museum</c></NS>. It's not very big but it has got some amazing information about the history of our town and their people. There is also a gift shop in there, where your boys and girls can buy some <NS type="S"><i>soveniers</i><c>souvenirs</c></NS> for their families and friends.</p>
+          <p>I hope I've answered all your questions but if you need <NS type="RP"><i>anymore</i><c>any more</c></NS> information, please let me know.</p>
+          <p>I am looking forward to seeing you all soon.</p>
+          <p>Best regards,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p><NS type="RT"><i>To</i><c>In</c></NS> my personal opinion one of the most important and useful <NS type="AGN"><i>thing</i><c>things</c></NS> which has been invented <NS type="R"><i>in</i><c>is</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> car. Cars <NS type="RV"><i>take</i><c>play</c></NS> a big part in our life. Everywhere you look you can see cars. More and more people <NS type="TV"><i>learn</i><c>are learning</c></NS> how to drive and <NS type="FV"><i>choose</i><c>choosing</c></NS> to travel by car, because it saves a lot of time <NS type="TV"><i><NS type="S"><i>comper</i><c>compare</c></NS></i><c>compared</c></NS> to travelling by public transport. Cars are also more reliable than other types of transport. You don't have to wait <NS type="RT"><i>on</i><c>at</c></NS> a bus stop <NS type="RT"><i>on</i><c>in</c></NS> <NS type="UD"><i>a</i></NS> cold and windy weather for a late bus, or <NS type="FV"><i>being</i><c>be</c></NS> stuck on a train for an hour due to some <NS type="DN"><i>railtrack</i><c>track</c></NS> repairs<NS type="RP"><i>, you</i><c>. You</c></NS> can just jump into a car, tune your radio <NS type="RT"><i>onto</i><c>to</c></NS> your favourite station and have a <NS type="S"><i>plesant</i><c>pleasant</c></NS> drive to your <NS type="S"><i>distanation</i><c>destination</c></NS>.</p>
+          <p>Cars are even more important for emergency situations such as <NS type="MD"><c>a</c></NS> fire in a house or if somebody is critically ill. Could you imagine if our police, doctors or fire-fighters had to get somewhere quickly on foot? I don't think I need to comment on this.</p>
+          <p>From my personal experience I realised how it's important to drive a car when I was living in Johanesburg in South Africa. I arrived there with my family when my daughter was only 4 months old and I couldn't drive at that time. Johanesburg is a very dangerous place to live. I couldn't just go for a walk, it was too dangerous. There was no public transport and I had to stay in the complex where we lived most of the time, and <NS type="RV"><i>relay</i><c>rely</c></NS> on other people to take me to a shop or the doctors or anywhere else. There I soon realised that I had to learn how to drive if I wanted <NS type="RQ"><i>a</i><c>some</c></NS> quality <NS type="MT"><c>of</c></NS> life for my daughter and myself.</p>
+          <p>Since I passed my driving test I <NS type="RP"><i>can not</i><c>cannot</c></NS> understand how I used to live without a car before. I use my car every day everywhere I go and I <NS type="DY"><i>absolutelly</i><c>absolutely</c></NS> love it!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

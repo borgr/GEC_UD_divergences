@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR134*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>41-50</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan,</p>
+          <p>I have just received your letter and feel happy about winning first prize. I am now writing to give you all <NS type="MD"><c>the</c></NS> information you require.</p>
+          <p>First of all, I would like to travel only in July because I am employed and will be able to finish my contract in June. <NS type="RT"><i>On</i><c>In</c></NS> August I am going to apply for a new job.</p>
+          <p>Also, I would prefer to stay in a log cabin rather than stay in a tent. From my point of view, log cabins are more comfortable.</p>
+          <p>Another consideration are <NS type="MD"><c>the</c></NS> activities. I enjoy playing basketball and golf. Also I think I am good at singing and at dancing.</p>
+          <p>I would be most <NS type="S"><i>greatful</i><c>grateful</c></NS> if you could let me <NS type="RV"><i>know</i><c>have</c></NS> some information:</p>
+          <p>- How <NS type="M"><c>do I</c></NS> <NS type="FV"><i>to get</i><c>get</c></NS> to Camp California from <NS type="MD"><c>the</c></NS> airport?</p>
+          <p>- How far from <NS type="MD"><c>the</c></NS> <NS type="UP"><i>city-centre</i><c>city centre</c></NS> <NS type="W"><i>the camp is</i><c>is the camp</c></NS> situated?</p>
+          <p>- How much money <NS type="MV"><c>do</c></NS> I have to take with me?</p>
+          <p>- What is the weather in California in July?</p>
+          <p>- What kind of clothes would you recommend me <NS type="FV"><i>to bring</i><c>bringing</c></NS> with me?</p>
+          <p>- Are there leisure and <NS type="FN"><i><NS type="S"><i>intertainments</i><c>entertainments</c></NS></i><c>entertainment</c></NS> facilities close to the camp?</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Report</p>
+          <p>To: Mr Clark</p>
+          <p>From: Sonya Volavkova</p>
+          <p><NS type="S"><i>Attituds</i><c>Attitudes</c></NS> to the video about life at our school</p>
+          <p>Introduction:-</p>
+          <p>The aim of this report is to summarize the pupil's <NS type="S"><i>attituds</i><c>attitudes</c></NS> <NS type="RT"><i>about</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> video they have to <NS type="FV"><i>be made</i><c>make</c></NS> and to suggest which lessons and other activities should be filmed. The report is based on <NS type="MD"><c>the</c></NS> <NS type="FN"><i>opinion</i><c>opinions</c></NS> of more than 300 pupils.</p>
+          <p>What would the pupils prefer to film?</p>
+          <p>According to the <NS type="RN"><i>answer</i><c>response</c></NS> <NS type="RA"><i>there</i><c>these</c></NS> are the most important activities pupils would like to film (80 per cent of those questioned <NS type="M"><c>wanted these things filmed</c></NS>)</p>
+          <p>- lessons in Mathematics and History, because pupils have very good <NS type="UP"><i>exam's</i><c>exam</c></NS> <NS type="FN"><i>result</i><c>results</c></NS>.</p>
+          <p>- lessons in dancing, because 80 per cent <NS type="MT"><c>of</c></NS> girls attend the <NS type="RN"><i>Dancing</i><c>Dance</c></NS> Club</p>
+          <p>- <NS type="MD"><c>the</c></NS> <NS type="W"><i>competition in basketball</i><c>basketball competition</c></NS>, because our school's team won first prize in our <NS type="DN">gerian</NS>.</p>
+          <p>- <NS type="MD"><c>the</c></NS> pupils' <NS type="RN"><i>travel</i><c>trip</c></NS> to London, during the last holiday, because it was great!</p>
+          <p>- Also they would like to film the <NS type="RN"><i>pat</i><c>pet</c></NS> corner at school, because they enjoy taking care of animals.</p>
+          <p>Conclusion: It is clear<NS type="UP"><i>,</i></NS> that the <NS type="RN"><i>filming</i><c>making</c></NS> of <NS type="MD"><c>the</c></NS> video is <NS type="MD"><c>a</c></NS> very important event for <NS type="MD"><c>the</c></NS> children, and pupils would prefer to film only <NS type="MD"><c>the</c></NS> positive events of their life at school<NS type="MP"><c>,</c></NS> <NS type="R"><i>as</i><c>which</c></NS> I have written above.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

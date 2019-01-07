@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1101*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>39.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>17.06.2000</p>
+          <p>Dear Sir/Madam,</p>
+          <p>I have recently been to your musical show 'Over the Rainbow'. To my regret, the evening totally failed to live up to my expectations. The advertisement provided false information, e.g. the names of the actors were incorrect - Danny Brook was not performing. I have to say, this fact disappointed me very much.</p>
+          <p>Moreover, the show started late: instead of 19.30 (<NS type="MD"><c>the</c></NS> time in the advertisement) people were allowed in at 20:15, resulting in <NS type="MD"><c>a</c></NS> waiting time of 45 minutes.</p>
+          <p>There were two other problems: there were no discounts<NS type="MP"><c>,</c></NS> contrary to the information in the advertisement, and the theatre restaurant was closed because of the <NS type="DN"><i>repairement</i><c>repair</c></NS> <NS type="FN"><i>works</i><c>work</c></NS>.</p>
+          <p>This evening, as you can see, proved to be far from perfect. Therefore, I would like to have my money back. Please contact me for more details if necessary.</p>
+          <p>Yours faithfully,</p>
+          <p>Miss Nitya Ramel</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>We are living in a technologically advanced world where we are surrounded by all sorts of devices<NS type="UP"><i>,</i></NS> which would seem fantastic to our ancestors. My daily life has been changed much by modern technology without me noticing it up to this point.</p>
+          <p>Just looking around, I realise that modern technology has crept into every area of my life. I would rather type some <NS type="RP"><i>coursework</i><c>course work</c></NS> up than hand-write it. This <NS type="TV"><i>made</i><c>makes</c></NS> my life easier, and at the same time <NS type="TV"><i>saved</i><c>saves</c></NS> some trees in a <NS type="RP"><i>rainforest</i><c>rain forest</c></NS> from being cut <NS type="MY"><c>down</c></NS>.</p>
+          <p>When I am too <NS type="SX"><i>tied</i><c>tired</c></NS> to go out but want to meet some new people, computer technology provides me with <NS type="RD"><i>this</i><c>the</c></NS> opportunity. Using the Internet, I can meet people <NS type="MT"><c>from</c></NS> all around the world <NS type="RY"><i>not</i><c>without</c></NS> going anywhere. With all the resources on the Net I don't need to go to the library as often as I used to. I guess I haven't realised until now how much my daily life has been changed by modern technology. This leaves me wondering how beneficial its influence is for me.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

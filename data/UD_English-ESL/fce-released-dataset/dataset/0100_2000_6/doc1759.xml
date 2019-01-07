@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR693*0100*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>13th June 2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am <NS type="RV"><i>satisfied</i><c>pleased</c></NS> to have received your letter that informed me that I have won the first prize in your competition.</p>
+          <p>I am very happy to spend two weeks at Camp California, because I have never <NS type="RV"><i>gone</i><c>been</c></NS> to <NS type="MD"><c>the</c></NS> U.S.A. I would prefer to travel only in July, because <NS type="X"><i>I have not to work</i><c>I don't have to work</c></NS> and because I would prefer to <NS type="R"><i>have <NS type="S"><i>accomodation</i><c>accommodation</c></NS></i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> tent and so I think that <NS type="RP"><i>july</i><c>July</c></NS> is the best <NS type="RN"><i>period</i><c>time</c></NS> to spend two weeks in <NS type="MD"><c>a</c></NS> tent. I have just been <NS type="MV"><c>staying</c></NS> in <NS type="MD"><c>a</c></NS> tent and I think it is always a beautiful and <NS type="RJ"><i>interested</i><c>interesting</c></NS> adventure.</p>
+          <p>During the <NS type="RN"><i>journey</i><c>holiday</c></NS> I would do surfing and photography. I like very much to be alone with nature and when I was a girl, I <NS type="TV"><i>had gone</i><c>went</c></NS> <NS type="RT"><i>to</i><c>on</c></NS> a <NS type="RP"><i>surfing-course</i><c>surfing course</c></NS> for five years and I won a lot of prizes. I <NS type="W"><i>like also</i><c>also like</c></NS> <NS type="UV"><i>doing</i></NS> photography because <NS type="R">they can be memories IN my future</NS>.</p>
+          <p>I would <NS type="M"><c>like to</c></NS> receive further information about <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes I should <NS type="RV"><i>put off</i><c>wear</c></NS> during my holiday and I would <NS type="M"><c>like to</c></NS> know if I should bring with me a lot of money.</p>
+          <p>Looking forward to spending my holiday in the USA<NS type="MP"><c>,</c></NS> I wait <NS type="MT"><c>for</c></NS> your letter.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS></p>
+          <p>Guillelmina Farina.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I am afraid that I couldn't write <NS type="MT"><c>to</c></NS> you <NS type="DY"><i>immediatly</i><c>immediately</c></NS>, but last month I enjoyed helping at a pop concert and so I <NS type="TV"><i>am</i><c>was</c></NS> very busy.</p>
+          <p>Even if the job was <NS type="R"><i>so</i><c>very</c></NS> hard, it was an <NS type="RJ"><i>amused</i><c>amusing</c></NS> experience. I woke up at six a.m. and I worked until nine p.m. but it <NS type="TV"><i>isn't</i><c>wasn't</c></NS> a problem for me, because I like spending my time with other people.</p>
+          <p>I particularly liked <NS type="FV"><i><NS type="RV"><i>to know</i><c>to meet</c></NS></i><c>meeting</c></NS> people <NS type="RT"><i>of</i><c>from</c></NS> different countries and some pop-stars, <NS type="RA"><i>which</i><c>who</c></NS> were friendly <NS type="RT"><i>with</i><c>towards</c></NS> us. I was surprised <NS type="RT"><i>of</i><c>at</c></NS> the co-operation that there was <NS type="R">during the job</NS>, because it was <NS type="RT"><i>as</i><c>like</c></NS> a big family, where each member <NS type="TV"><i>helped</i><c>helps</c></NS> <NS type="MD"><c>the</c></NS> others.</p>
+          <p>There was a lot of work to do but we were happy to do it with <NS type="RJ"><i>glad</i><c>happy</c></NS> people and at the end we had the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to take part in the pop concert. It was wonderful!</p>
+          <p>Looking forward to <NS type="RV"><i>meeting</i><c>seeing</c></NS> you as soon as possible. <NS type="ID">I greet you</NS>.</p>
+          <p>Best wishes</p>
+          <p>Guillelmina</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

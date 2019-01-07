@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR353*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir</p>
+          <p>Owing to the bad organisation of the last play that was <NS type="RV"><i>played</i><c>performed</c></NS> in your theatre <NS type="R"><i>those</i><c>in</c></NS> <NS type="RJ"><i>last</i><c>recent</c></NS> weeks<NS type="MP"><c>,</c></NS> I want to <NS type="RV"><i>explain</i><c>tell</c></NS> you <NS type="MT"><c>about</c></NS> some incorrect information that I found in your advertisement<NS type="MP"><c>,</c></NS> <NS type="UC"><i>and</i></NS> as a result of <NS type="RA"><i>it</i><c>which</c></NS><NS type="UP"><i>,</i></NS> all the problems that I had <NS type="MV"><c>occurred</c></NS>.</p>
+          <p>First of all, I think if you go to a play and you are watching to see your favourite actor playing a good <NS type="RN"><i>play</i><c>role</c></NS> and then <NS type="MY"><c>there</c></NS> appears a silly one, who doesn't know what to do, it is <NS type="DJ"><i>disappoint</i><c>disappointing</c></NS> <NS type="U"><i>at all</i></NS>.</p>
+          <p>Secondly, <NS type="W"><i><NS type="RJ"><i>all</i><c>whole</c></NS> the</i><c>the whole</c></NS> <NS type="RN"><i>spectators</i><c>audience</c></NS> were waiting <NS type="MT"><c>for</c></NS> the <NS type="S"><i>begining</i><c>beginning</c></NS> of the play at 19.30 and it started at 20.15<NS type="MP"><c>,</c></NS> <NS type="RC"><i>then</i><c>so</c></NS> I would like to know why <NS type="UV"><i>do</i></NS> you say one time in the advertisement <NS type="MC"><c>and</c></NS> why <NS type="UV"><i>do</i></NS> you do what you want.</p>
+          <p>Another thing that I want to know is why you didn't <NS type="RV"><i>do</i><c>give</c></NS> any discount <NS type="RC"><i>if</i><c>though</c></NS> <NS type="RA"><i>it</i><c>one</c></NS> was <NS type="RV"><i>showed</i><c>advertised</c></NS> in the advertisement.</p>
+          <p>Maybe, <NS type="RA"><i>I</i><c>it</c></NS> <NS type="RV"><i>could be</i><c>is</c></NS> a good way to get <NS type="RN"><i>spectators</i><c>an audience</c></NS> but I'm going to <NS type="RV"><i><NS type="S"><i>comunicate</i><c>communicate</c></NS></i><c>tell</c></NS> <NS type="U"><i>that to</i></NS> my travel <NS type="RN"><i>office</i><c>agent</c></NS>.</p>
+          <p>When the play was finished I was looking for your theatre restaurant but it was closed because<NS type="MP"><c>,</c></NS> <NS type="RT"><i>like</i><c>as</c></NS> <NS type="W"><i>on the paper that was on the door was <NS type="IV"><i>writen</i><c>written</c></NS></i><c>was written on the paper that was on the door</c></NS>, it was too late.</p>
+          <p>I <NS type="X"><i>think<NS type="UP"><i>,</i></NS> that it wasn't</i><c>don't think it was</c></NS> my perfect evening out so I wait to be <NS type="RV"><i><NS type="IV"><i>payed</i><c>paid</c></NS> back</i><c>refunded</c></NS>.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets so she lost all her school friends.</p>
+          <p><NS type="MA"><i>All</i><c>It all</c></NS> started when she was fifteen, when <NS type="MA"><c>she</c></NS> started a new course <NS type="RT"><i>on</i><c>in</c></NS> the institute and met some girls that <NS type="R"><i>passed the</i><c>in</c></NS> time <NS type="UA"><i>they</i></NS> would <NS type="FV"><i>became</i><c>become</c></NS> her friends.</p>
+          <p>Three years passed and<NS type="MP"><c>,</c></NS> <NS type="RT"><i>like</i><c>as</c></NS> is normal between friends, she knew a lot of things about them<NS type="MP"><c>,</c></NS> <NS type="RT"><i>like</i><c>as</c></NS> her friends knew a lot about her</p>
+          <p>When it was time to <NS type="RV"><i>do</i><c>take</c></NS> the final exam, she became ill and she couldn't do it so <NS type="MD"><c>the</c></NS> teachers decided to allow her to pass the course because she had a lot of good marks<NS type="MP"><c>,</c></NS> but <NS type="ID">on the other hand</NS> the principal <NS type="S"><i>desagreeded</i><c>disagreed</c></NS> <NS type="U"><i>with it</i></NS> and didn't give <NS type="UD"><i>the</i></NS> <NS type="S"><i>permision</i><c>permission</c></NS> to pass her.</p>
+          <p>She had to repeat that course and all her friends passed and <NS type="RT"><i>like</i><c>as</c></NS> is <NS type="S"><i>usuall</i><c>usual</c></NS> <NS type="MD"><c>the</c></NS> girls from the last course became popular.</p>
+          <p>Pat, to win her new <NS type="S"><i>classemates'</i><c>classmates'</c></NS> friendship<NS type="MP"><c>,</c></NS> <NS type="TV"><i>tell</i><c>told</c></NS> <NS type="RA"><i>all</i><c>everything</c></NS> <NS type="R"><i>what</i><c>that</c></NS> she knew about her friends and<NS type="MP"><c>,</c></NS> <NS type="R"><i>owing to</i><c>because of</c></NS> what Pat said, her friends <NS type="RV"><i>broke</i><c>ended</c></NS> <NS type="DD"><i>they</i><c>their</c></NS> friendship with Pat because their popularity was damaged.</p>
+          <p>Pat's classmates <NS type="RV"><i>made</i><c>did</c></NS> the same and Pat <NS type="RV"><i>finished</i><c>ended up</c></NS> alone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR844*0102*2000*01">
+  <candidate><personnel><language>Italian</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>DEAR SIR</p>
+          <p>I AM WRITING IN ORDER TO COMPLAIN <NS type="RT"><i>FOR</i><c>ABOUT</c></NS> THE TERRIBLE NIGHT I HAD IN YOUR THEATRE.</p>
+          <p>FIRSTLY I WANT TO COMPLAIN ABOUT WHAT YOU WROTE <NS type="RT"><i>ON</i><c>IN</c></NS> THE BROCHURE. IT WAS COMPLETELY WRONG!</p>
+          <p>I WAS DISAPPOINTED TO FIND OUT THAT THE ACTOR WAS NOT THE ONE YOU WROTE <NS type="MT"><c>ABOUT</c></NS><NS type="MP"><c>.</c></NS> I DISCOVERED THIS ONLY WHEN THE PLAY STARTED, AND <NS type="RA"><i>IT</i><c>THAT</c></NS> WAS VERY LATE!</p>
+          <p>SECONDLY, AS I WROTE BEFORE, THE PLAY STARTED LATE, AND FOR ME IT WAS TERRIBLE TO WAIT <NS type="MP"><i>FORTY FIVE</i><c>FORTY-FIVE</c></NS> MINUTES.</p>
+          <p>THIRDLY, I WAS VERY <NS type="S"><i>EMBARASED</i><c>EMBARRASSED</c></NS> TO DISCOVER THERE WERE <NS type="RD"><i>NOT</i><c>NO</c></NS> DISCOUNTS AT THE ENTRANCE.</p>
+          <p>FINALLY I COULDN'T EAT <NS type="R"><i>TOO</i><c>EITHER</c></NS>. IN FACT THE RESTAURANT WAS CLOSED, <NS type="ID"><i>VERY FAR FROM MY THOUGHTS</i><c>WHICH WAS NOT WHAT I'D EXPECTED</c></NS>.</p>
+          <p>FOR THESE REASONS I WOULD LIKE TO ASK FOR MY MONEY BACK. BECAUSE FOR ME IT WAS NOT A "PERFECT EVENING OUT".</p>
+          <p>I AM SURE THIS LETTER WILL RECEIVE YOUR PROMPT ATTENTION.</p>
+          <p>I LOOK FORWARD TO HEARING FROM YOU.</p>
+          <p>YOURS FAITHFULLY</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>UNFORTUNATELY, PAT WAS NOT VERY GOOD AT KEEPING SECRETS. THIS WAS LIKE AN ILLNESS FOR HIM. SO MANY <NS type="AGN"><i>TIME</i><c>TIMES</c></NS> HE WAS TOLD: "PAT<NS type="MP"><c>,</c></NS> I <NS type="MV"><c>WILL</c></NS> <NS type="RV"><i>SAY</i><c>TELL</c></NS> THIS SECRET ONLY TO YOU". PAT COULD STAND THIS SECRET ONLY <NS type="MD"><c>A</c></NS> FEW DAYS, AFTER <NS type="MA"><c>WHICH</c></NS> THE SECRET <NS type="TV"><i>COME</i><c>CAME</c></NS> FROM <NS type="UD"><i>THE</i></NS> DEEP INSIDE, AND HAD TO BE SAID. THIS WAS TERRIBLE FOR HIS <NS type="FN"><i>FRIENDSHIP</i><c>FRIENDSHIPS</c></NS>: HE ALWAYS LOST HIS FRIENDS. HE WANTED TO DIE <NS type="RT"><i>FOR</i><c>BECAUSE OF</c></NS> THIS. THE WORST THING <NS type="TV"><i>IS</i><c>WAS</c></NS> THAT HE COULD NOT IMPROVE THIS BEHAVIOUR. ONE DAY <NS type="UD"><i>THE</i></NS> FORTUNE HELPED OUR POOR PAT. ON THE BUS HE SAW A <NS type="RN"><i>ROBBER</i><c>THIEF</c></NS> WHILE HE WAS STEALING A WALLET, HE WANTED TO SCREAM, BUT HE WAS ASTONISHED. WHEN THE ROBBER <NS type="RV"><i>UNDERSTOOD</i><c>REALISED</c></NS> HE COULD BE DISCOVERED <NS type="MC"><c>AND</c></NS> HE SAID<NS type="MP"><c>,</c></NS> "IF YOU DON'T KEEP <NS type="RD"><i>THE</i><c>THIS</c></NS> SECRET I WILL KILL YOU". PAT, AS HE ALWAYS DID, COULDN'T KEEP THE SECRET, EVEN IF HE WAS SCARED. EVENTUALLY THE ROBBER WAS CAUGHT BY THE POLICE, AND FOR HIS <NS type="DN"><i>BRAVE</i><c>BRAVERY</c></NS> AND HONESTY HE HAD A LOT OF FRIENDS.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

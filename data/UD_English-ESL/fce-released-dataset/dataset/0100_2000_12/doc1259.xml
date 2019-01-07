@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR520*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>26-30</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>To: The Principal of Westminster College, Mr Robertson.</p>
+          <p>From: Eirini X FCE Student</p>
+          <p>Dear Sir,</p>
+          <p>I am writing to you with a request for a change in the <NS type="S"><i>scedule</i><c>schedule</c></NS> of our trip to London. But, first of all, I would like to thank you for the time and the effort you have <NS type="RV"><i>made</i><c>put in</c></NS> to organize the entire programme. Everything seams very interesting and I am sure that we will all have a very good time.</p>
+          <p><NS type="DY"><i>Unfortunatly</i><c>Unfortunately</c></NS> I have to suggest a change for the programme <NS type="RT"><i>of</i><c>for</c></NS> Tuesday the 14th of March. That's because the "Fashion and Leisure Show" takes place that <NS type="RN"><i>date</i><c>day</c></NS> in London. All of the students - including <NS type="RP"><i>my self</i><c>myself</c></NS><NS type="RP"><i>,</i><c> -</c></NS> think of this as a great opportunity that <NS type="MA"><c>it</c></NS> would be <NS type="MD"><c>a</c></NS> <NS type="S"><i>pitty</i><c>pity</c></NS> to <NS type="FV"><i>be missed</i><c>miss</c></NS>, especially when students can enter for free.</p>
+          <p>According to the day's programme, we are visiting the Science Museum in the morning and we are going shopping in the afternoon. My suggestion is to use Wednesday's afternoon free time as an alternative <NS type="UN"><i>solution</i></NS> <NS type="RT"><i>of</i><c>to</c></NS> the shopping. This way we will be able to visit the Central Exhibition Hall on Tuesday evening, and see the show.</p>
+          <p>I hope that you will <NS type="R">find this possible</NS>.</p>
+          <p>With best regards</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p>I had to <NS type="RV"><i>try</i><c>test</c></NS> my limits <NS type="UT"><i>for</i></NS> once again. This is my nature. I had to see how far I could go this time or, to be more specific, how high! I've always wanted to taste the freedom that birds have, always been interested in listening to my blood <NS type="S"><i>pumpping</i><c>pumping</c></NS> in my <NS type="S"><i>vains</i><c>veins</c></NS>, full of adrenaline, <NS type="RV"><NS type="RP"><i>tolet</i><c>to let</c></NS></NS> myself free<NS type="MP"><c>,</c></NS> to shake<NS type="UP"><i>,</i></NS> from excitement.</p>
+          <p><NS type="RA"><i>There</i><c>These</c></NS> were my thoughts when I first saw the advertisement for a "<NS type="RP"><i>Sky Dive</i><c>skydive</c></NS>". I didn't hesitate much. The same afternoon I picked up the phone and I gave them a call. That was it.</p>
+          <p>The following Sunday I <NS type="IV"><i>fint</i><c>found</c></NS> <NS type="RP"><i>my self</i><c>myself</c></NS> on a <NS type="RN"><i>plain</i><c>plane</c></NS> flying 20000ft from the ground. When the time for the jump came I had some second thoughts. But then<NS type="UP"><i>,</i></NS> I thought of the birds again - of how nice it would be to share their world for a few minutes and<NS type="UP"><i>,</i></NS> I jumped!</p>
+          <p>Well, danger is in my nature <NS type="SX"><i>an</i><c>and</c></NS> Life is nothing but an adventure.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

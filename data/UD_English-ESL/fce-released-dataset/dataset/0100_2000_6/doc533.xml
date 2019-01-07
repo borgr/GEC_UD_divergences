@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR220*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I am writing <NS type="R"><i>as a</i><c>in</c></NS> reply to your letter<NS type="UP"><i>,</i></NS> congratulating me <NS type="R"><i>to the</i><c>for</c></NS> winning <NS type="UT"><i>of</i></NS> the first prize in your competition and inviting me to <NS type="UD"><i>the</i></NS> Camp California in the U.S.A. I was delighted to hear from you and am already looking forward to <NS type="FV"><i>spend</i><c>spending</c></NS> two weeks in California.</p>
+          <p>I am afraid that the only possible time for me to travel is in July because it is the only month I am able to get time off work. <NS type="R"><i>As an</i><c>Regarding</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS> I would prefer sleeping in a tent because I enjoy the closeness to <NS type="UD"><i>the</i></NS> nature while camping a lot.</p>
+          <p>The two activities that I would like to do at the Camp are sailing, which I have never done before and tennis which I already play quite well.</p>
+          <p>I need to know how much money you would advise me to bring and what sort of clothes I should take with me.</p>
+          <p>I am looking forward to your reply at your earliest convenience and to <NS type="FV"><i>get</i><c>getting</c></NS> to know you personally in July.</p>
+          <p>Yours <NS type="RY"><i>faithfully</i><c>sincerely</c></NS>,</p>
+          <p>Esther Meyer</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p><NS type="RP"><i>thanks</i><c>Thanks</c></NS> a lot for your long letter! It was great to hear from you again after such a long time. You asked me<NS type="UP"><i>,</i></NS> <NS type="R"><i>how</i><c>what</c></NS> the pop concert was like which I told you I was going to go to in my last letter. Well, let me tell you, it was just awesome!</p>
+          <p><NS type="W"><i>My job was it</i><c>It was my job</c></NS><NS type="UP"><i>,</i></NS> to help to keep all the little kids out of the backstage area. Therefore I got to stay backstage all the time and to see all the members of the "Backstreet Boys".</p>
+          <p>And, you won't believe it, I actually got to talk to Nick Carter!</p>
+          <p>Yes, that was the best thing about the concert but I actually just enjoyed the whole experience <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to be</i><c>being</c></NS> part of the crew. I sort of felt<NS type="UP"><i>,</i></NS> like I had done my part to make the concert a <NS type="S"><i>sucess</i><c>success</c></NS>. Do you know<NS type="UP"><i>,</i></NS> what I mean? Anyway, I've got to study now<NS type="RP"><i>, we've</i><c>.  We've</c></NS> got a maths exam tomorrow.</p>
+          <p>Hope to hear from you soon</p>
+          <p>Lots of love,</p>
+          <p>Esther</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

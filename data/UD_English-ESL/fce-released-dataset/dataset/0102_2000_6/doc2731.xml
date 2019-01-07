@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1110*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>22.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>17, June 2000</p>
+          <p>The manager</p>
+          <p>The Circle Theatre</p>
+          <p>Sir, I returned very unhappy from my holidays. The reason is that the musical show that I had seen with my wife, first of all, started late. We bought tickets for the second show, <NS type="RA"><i>that</i><c>which</c></NS> was at 19.30 and it started at 20:15! We were interested <NS type="RT"><i>on</i><c>in</c></NS> <NS type="FV"><i>see</i><c>seeing</c></NS> the actors that <NS type="IV"><i>appeard</i><c>appeared</c></NS> on the tickets and I was very disappointed when, in the show, we saw <NS type="AGQ"><i>another</i><c>other</c></NS> actors. The tickets were more expensive than we had expected, but we didn't care because we saw <NS type="RT"><i>in</i><c>on</c></NS> the tickets that <NS type="MY"><c>there</c></NS> <NS type="TV"><i>will</i><c>would</c></NS> be discounts <NS type="R"><i>for it</i><c>given</c></NS>, but, they didn't <NS type="RV"><i>make</i><c>give</c></NS> us discounts! With all <NS type="AGD"><i>this</i><c>these</c></NS> problems, the only thing that <NS type="ID"><i>led us</i><c>kept us going</c></NS><NS type="UP"><i>,</i></NS> was <NS type="M"><c>the thought of</c></NS> <NS type="FV"><i>to eat</i><c>eating</c></NS> something. When the show finished we went to the theatre restaurant and it was closed because <NS type="RN"><i>people</i><c>the staff</c></NS> didn't <NS type="RV"><i><NS type="TV"><i>arrived</i><c>arrive</c></NS></i><c>go</c></NS> to work that day.</p>
+          <p>So it was the <NS type="IJ"><i><NS type="IJ"><i>most badly</i><c>most bad</c></NS></i><c>worst</c></NS> evening that I had ever <NS type="RV"><i><NS type="TV"><i>spend</i><c>spent</c></NS></i><c>had</c></NS>. I <NS type="TV"><i>asked</i><c>ask</c></NS> you to consider all my reasons and <NS type="RV"><i><NS type="FV"><i>turned back</i><c>to turn back</c></NS></i><c>to return</c></NS> my money<NS type="RP"><i>,</i><c>.</c></NS> I think <NS type="MA"><c>that</c></NS> is the only thing you can do.</p>
+          <p>Thank you for your <NS type="RN"><i>comprehension</i><c>understanding</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>It was <NS type="RP"><i>saturday</i><c>Saturday</c></NS> night, and I was<NS type="UP"><i>,</i></NS> with my sister Pat alone in my home. That night I was invited to a great party, but I <NS type="TV"><i>was punished</i><c>was being punished</c></NS>, and I had to <NS type="FV"><i>stayed</i><c>stay</c></NS> at home with my sister. My parents were <NS type="RY"><i>out</i><c>away</c></NS> for the weekend. When it was time to go to the party I decided to escape <NS type="UN"><i>home</i></NS> without telling my sister<NS type="RP"><i>, unfortunately</i><c>. Unfortunately</c></NS> when I <NS type="RV"><i>arrived</i><c>returned</c></NS> she was waiting <NS type="MT"><c>for</c></NS> me in my room. When I <NS type="TV"><i>enter</i><c>entered</c></NS> my room she was very happy, because my father <NS type="TV"><i>will</i><c>would</c></NS> <NS type="FV"><i>punished</i><c>punish</c></NS> me again<NS type="RP"><i>, of course</i><c>. Of course</c></NS>, she <NS type="TV"><i>will</i><c>would</c></NS> tell him, but I decided to pay her if she <NS type="RV"><i><NS type="S"><i>beheaved</i><c>behaved</c></NS></i><c>stayed</c></NS> <NS type="DJ"><i>quietly</i><c>quiet</c></NS><NS type="RP"><i>, she</i><c>. She</c></NS> accepted and I <NS type="IV"><i>payed</i><c>paid</c></NS> her a lot of money.</p>
+          <p><NS type="RT"><i>At</i><c>On</c></NS> <NS type="RP"><i>sunday</i><c>Sunday</c></NS> night, when my parents arrived, they asked her if I had stayed at home on <NS type="RP"><i>saturday</i><c>Saturday</c></NS><NS type="RP"><i>, my</i><c>. My</c></NS> sister <NS type="RV"><i><NS type="TV"><i><NS type="S"><i>beheave</i><c>behave</c></NS></i><c>behaved</c></NS></i><c>stayed</c></NS> <NS type="DJ"><i>silence</i><c>silent</c></NS> for a minute and then started laughing; so my parents, with her laugh, <NS type="TV"><i>know</i><c>knew</c></NS> that I had <NS type="TV"><i>go</i><c>gone</c></NS> out that Saturday; and punished me for a year.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

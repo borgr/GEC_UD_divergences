@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE63*0100*2001*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>36.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I have just read your letter and I am happy to help <NS type="RT"><i>with</i><c>by</c></NS> giving you some further information.</p>
+          <p><NS type="R"><i>According to</i><c>In reply to</c></NS> your first question, for the time of <NS type="MD"><c>the</c></NS> conference the students will be staying at the Palace Hotel, where the reservation has <NS type="W"><i>been already</i><c>already been</c></NS> made. It is situated near to our college, about five <NS type="MP"><i>minutes</i><c>minutes'</c></NS> walk from the nearest tube station, which is South Wimbledon.</p>
+          <p>As you were informed, there will be a party for all <NS type="RN"><i>attendants</i><c>participants</c></NS> of the conference, which will take place afterwards <NS type="RT"><i>at</i><c>in</c></NS> the hotel restaurant. <NS type="RV"><i>Minding</i><c>Bearing in mind</c></NS> the fact that it will be <NS type="MD"><c>a</c></NS> <NS type="RY"><i>entirely</i><c>purely</c></NS> <NS type="RJ"><i>sociable</i><c>social</c></NS> <NS type="RN"><i>meeting</i><c>occasion</c></NS><NS type="MP"><c>,</c></NS> I believe that casual clothes are the most suitable option for this event.</p>
+          <p>Finally, <NS type="FV"><i>answering</i><c>to answer</c></NS> your last question about <NS type="MD"><c>the</c></NS> <NS type="RP"><i>student's</i><c>students'</c></NS> <NS type="UP"><i>day-out</i><c>day out</c></NS>, I suggest visiting <NS type="RD"><i>a</i><c>the</c></NS> local Lawn <NS type="RP"><i>tennis</i><c>Tennis</c></NS> <NS type="RP"><i>Museums</i><c>museums</c></NS> and <NS type="MD"><c>the</c></NS> Wimbledon Tennis Courts as <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> one of the best international <NS type="FN"><i>tourists</i><c>tourist</c></NS> attractions.</p>
+          <p>If you have any further <NS type="S"><i>questione</i><c>questions</c></NS>, please do not hesitate to contact me. I look forward to seeing you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>TO: Leader of the group of American students</p>
+          <p>FROM:</p>
+          <p>DATE: 12.06.2001.</p>
+          <p>SUBJECT: <NS type="S"><i>Recomnendations</i><c>Recommendations</c></NS> <NS type="RT"><i>of</i><c>for</c></NS> a place to visit</p>
+          <p>INTRODUCTION:</p>
+          <p>The aim of this report is to give <NS type="MD"><c>a</c></NS> description and <NS type="M"><c>make a</c></NS> recommendation <NS type="RT"><i>of</i><c>concerning</c></NS> the most interesting building in the town.</p>
+          <p>GENERAL INFORMATION:</p>
+          <p>The place I would like to recommend is the <NS type="S"><i>seventienth</i><c>seventeenth</c></NS>-century Royal Palace. It is situated in <NS type="RD"><i>a</i><c>the</c></NS> heart of Warsaw and surrounded by the buildings of <NS type="RD"><i>an</i><c>the</c></NS> Old Town. There is <NS type="W"><i>a square old <NS type="RP"><i>Market</i><c>market</c></NS></i><c>an old market square</c></NS> with the magnificent statue of <NS type="UD"><i>the</i></NS> King Zygmunt<NS type="UP"><i>,</i></NS> in the centre of it.</p>
+          <p>FACILITIES:</p>
+          <p>. Inside the Palace, there is a museum <NS type="RT"><i>of</i><c>with</c></NS> <NS type="W"><i>an antique collection of <NS type="S"><i>porcalaine</i><c>porcelain</c></NS></i><c>a collection of antique porcelain</c></NS>.</p>
+          <p>. There is also a Portrait Gallery in the left wing of the Palace.</p>
+          <p>. The Old Town is the best place for <NS type="MD"><c>an</c></NS> afternoon stroll<NS type="MP"><c>,</c></NS> with a great deal of restaurants, <NS type="S"><i>caffes</i><c>cafes</c></NS> and street performers.</p>
+          <p>. <NS type="AS"><i>There is an easy reach to cashpoints, <NS type="L"><i>lavatories</i><c>toilets</c></NS>, emergency services<NS type="UP"><i>,</i></NS> etc</i><c>Cashpoints, toilets, emergency services etc are within easy reach</c></NS>.</p>
+          <p>POSITIVE POINTS</p>
+          <p>. It is easy to get there by any sort of public transport<NS type="MP"><c>.</c></NS></p>
+          <p>. There are <NS type="MD"><c>a</c></NS> <NS type="FN"><i>numbers</i><c>number</c></NS> of hotels or youth hostels <NS type="M"></NS> to stay <NS type="S"><i>overninight</i><c>overnight</c></NS>, if necessary<NS type="MP"><c>.</c></NS></p>
+          <p>. <NS type="AS"><i>Most of the admissions</i><c>Admission to most places</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> absolutely free.</p>
+          <p>NEGATIVE POINTS</p>
+          <p>. A part of the Palace might be closed, due to the <NS type="RJ"><i>constant</i><c>ongoing</c></NS> renovations.</p>
+          <p>. All the facilities are usually overcrowded during <NS type="RD"><i>a</i><c>the</c></NS> summer holiday.</p>
+          <p>CONCLUSION:</p>
+          <p>Despite the few drawbacks, I would strongly recommend the Royal Palace as the most suitable place to visit for the foreign students.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

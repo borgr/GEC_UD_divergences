@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR598*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I am writing to answer the questions you asked me in the last letter you sent me.</p>
+          <p>Firstly, I can only travel <NS type="RT"><i>on</i><c>in</c></NS> July because that's when I have vacations from school. Secondly, I prefer to stay in a tent. I have stayed in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> a few times and I have not had any problems. About the activities that I can do at the camp, I chose to <NS type="RV"><i>practise</i><c>play</c></NS> Basketball, which is my favourite sport, because I want to do some <NS type="S"><i>excersise</i><c>exercise</c></NS> while I am on vacation. I also chose <NS type="S"><i>Fotography</i><c>photography</c></NS> because it is one of my hobbies. I am very good at both activities because I have <NS type="RV"><i>practised</i><c>done</c></NS> them all my life.</p>
+          <p>I would like to ask you a couple of things about the prize I have won. Firstly, what kind of clothes <NS type="MV"><c>do</c></NS> I have to take to the camp, clothes for hot or cold weather?<NS type="UP"><i>.</i></NS> I also wanted to know if I have to take some money to buy souvenirs and food or <NS type="W"><i>that will</i><c>will that</c></NS> be paid for <NS type="UA"><i>me</i></NS>, too?</p>
+          <p>Those are all my questions. I am looking forward <NS type="MT"><c>to</c></NS> receiving your reply. Please write <NS type="MT"><c>to</c></NS> me soon.</p>
+          <p>Yours sincerely</p>
+          <p>Eleonora Jimenez.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>I am writing to tell you about my experience at a pop concert last month.</p>
+          <p>As you know, I am a member of a BSB fan club, and last month we had the opportunity to help at a concert they gave in the city where I live. <NS type="RY"><i>Firstly</i><c>First</c></NS>, I helped <NS type="FV"><i>selling</i><c>sell</c></NS> the tickets. That wasn't difficult because everybody wanted to go. The day of the concert we helped to clean the place where the concert was performed and to <NS type="RV"><i>have</i><c>get</c></NS> everything in order so the concert could be a <NS type="S"><i>succes</i><c>success</c></NS>, which it was.</p>
+          <p>What I particularly liked about this experience was meeting my favourite pop group and <NS type="FV"><i>talk</i><c>talking</c></NS> with them about their <NS type="IN"><i>lifes</i><c>lives</c></NS> as <NS type="M"><c>members of</c></NS> a pop group. I also enjoyed being able to work as <NS type="M"><c>part of</c></NS> a team with both all the members of the club and the BSB. It was one of the best experiences I have had in all my life</p>
+          <p>I am looking forward <NS type="MT"><c>to</c></NS> hearing from you. Please write <NS type="MT"><c>to</c></NS> me soon or call me. My new phone number is (958) 1217653</p>
+          <p>Yours</p>
+          <p>Eleonora Jimenez</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

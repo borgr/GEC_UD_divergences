@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR233*0102*2000*02">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>First of all I would like to say that organising an International Arts Festival was a great idea. I enjoyed it and found <NS type="MA"><c>it</c></NS> <NS type="RJ"><i>worthy</i><c>worth</c></NS> <NS type="FV"><i>to visit</i><c>visiting</c></NS>.</p>
+          <p>The Annual International Arts Festival, which was held on the 21st and 22nd of November, was colourful with <NS type="UD"><i>the</i></NS> stars and <NS type="FN"><i>artist</i><c>artists</c></NS> coming from around the world. Although this was true, they were from only six countries. You could have let us get <NS type="RJ"><i>used</i><c>acquainted</c></NS> <NS type="RT"><i>to</i><c>with</c></NS> more cultures by inviting <NS type="MN"><c>guests</c></NS> from some other countries too.</p>
+          <p>The concert halls were not big enough to let all the guests in. So I could hardly <NS type="RV"><i><NS type="FV"><i>participated</i><c>participate</c></NS> in</i><c>attend</c></NS> all of the concerts.</p>
+          <p>The organisation was very good<NS type="MP"><c>.</c></NS> I found chances to see dance shows, art exhibitions and to listen to writers, but there could be more plays and films next year.</p>
+          <p>It was really a <NS type="UP"><i>reasonably-priced</i><c>reasonably priced</c></NS> weekend for me, but you should also <NS type="RV"><i>recognise</i><c>introduce</c></NS> new activities like competitions <NS type="RT"><i>on</i><c>in</c></NS> singing songs<NS type="UP"><i>,</i></NS> <NS type="MC"><c>or</c></NS> drawing a <NS type="S"><i>portrate</i><c>portrait</c></NS> next year. Then it would be excellent.</p>
+          <p>Thanks for everything.</p>
+          <p>Yours <NS type="RP"><NS type="RY"><i>Sincerely</i><c>faithfully</c></NS></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Ana,</p>
+          <p>I have received your letter. It is nice to hear from you again. I'm in a hurry, so I will <NS type="W"><i>directly come</i><c>come directly</c></NS> to the point.</p>
+          <p>Everywhere and <NS type="MT"><c>at</c></NS> <NS type="RP"><i>everytime</i><c>every time</c></NS> in our lives we <NS type="TV"><i>face</i><c>are faced</c></NS> with <NS type="UD"><i>the</i></NS> rules. Some <NS type="RV"><i>find</i><c>view</c></NS> them as a source of protection of their rights and others as a limitation of them. For me they are both.</p>
+          <p>At <NS type="FN"><i>schools</i><c>school</c></NS> we have certain rules like being in the class, sitting in your place before the lecture starts, bringing in your equipment with you, keeping quiet during the lessons and raising your hand when you want to talk. I think these are international rules which help things to <NS type="RV"><i>go</i><c>progress</c></NS> in order.</p>
+          <p><NS type="ID"><i>Contrary</i><c>On the other hand</c></NS> there are other rules which annoy us like the <NS type="W"><i>clothing ones</i><c>ones <NS type="MT"><c>about</c></NS> clothing</c></NS>. You should wear the same things every time, no changes and alternations are allowed. It makes us like robots and <NS type="MA"><c>we</c></NS> feel bad psychologically, because we want to be different and free in <NS type="MA"><c>what</c></NS> <NS type="MA"><c>we</c></NS> <NS type="TV"><i>wearing</i><c>wear</c></NS>. Also the attendance rules put a strain on us. If we don't come to school for 10 days, then we can't pass the <NS type="RN"><i>class</i><c>course</c></NS>. They don't care if we have problems, exams to study <NS type="MT"><c>for</c></NS> or if we are ill.</p>
+          <p>At <NS type="FN"><i>homes</i><c>home</c></NS> we <NS type="W"><i>have again</i><c>again have</c></NS> rules, but more flexible ones. You should be punctual when coming to <NS type="MD"><c>the</c></NS> dining table, respectful, do your <NS type="CN"><i><NS type="RP"><i>home works</i><c>homeworks</c></NS></i><c>homework</c></NS> and watch TV less and not too loud.</p>
+          <p>I would like to change the attendance and clothing rules in school, but I don't have <NS type="UD"><i>the</i></NS> enough power. They are against democracy I think.</p>
+          <p>Anyway hope to hear from you soon.</p>
+          <p>With all my love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

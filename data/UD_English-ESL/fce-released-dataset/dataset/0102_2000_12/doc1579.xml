@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR89*0102*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p> Dear Ms Clark,</p>
+          <p>I <NS type="TV"><i>had recently spent</i><c>recently spent</c></NS> two days at your annual international arts festival. It was the first time I <NS type="TV"><i>went</i><c>have been</c></NS> and I was very pleased to go. <NS type="W"><i>I, actually,</i><c>Actually, I</c></NS> wasn't disappointed. However I would like to give my opinion about the festival.</p>
+          <p>First of all, I congratulate you on <NS type="RV"><i>making</i><c>organising</c></NS> this kind of event. It was such a <NS type="RJ"><i>good</i><c>great</c></NS> success that some people weren't able to <NS type="RV"><i>have</i><c>get</c></NS> tickets! You should increase the number of places you <NS type="RV"><i>give</i><c>offer</c></NS>. <NS type="RY">Therefore</NS>, you could invite artists from around the world <NS type="MC"><c>and</c></NS> not only from six countries: it would be more pleasant.</p>
+          <p>Although I am keen on classical music, I found some <NS type="FN"><i>concerts</i><c>concert</c></NS> <NS type="S"><i>halled</i><c>halls</c></NS> too small. I was wondering if you could improve that? Also, there were <NS type="MQ"><c>some</c></NS> interesting films but not enough. Perhaps<NS type="UP"><i>,</i></NS> you could possibly <NS type="RV">meet</NS> some producers<NS type="UP"><i>,</i></NS> who come from <NS type="IQ"><i>others</i><c>other</c></NS> countries in order to show different cultures.</p>
+          <p><NS type="RY">Besides</NS>, to <NS type="RV"><i>pay</i><c>buy</c></NS> one reasonably-priced weekend ticket for all events is excellent because we could see all that we wanted without paying each time.</p>
+          <p>Finally<NS type="MP"><c>,</c></NS> I suggest <NS type="FV"><i>to invite</i><c>inviting</c></NS> important scientists like Hubert Reeves or Aaroun Tazief so as to inform the public about <NS type="UD"><i>the</i></NS> new technologies or sciences because <NS type="AGA"><i>it</i><c>they</c></NS> also <NS type="MV"><c>are</c></NS> a kind of art!</p>
+          <p>I look forward to <NS type="RV"><i>seeing</i><c>attending</c></NS> the next festival!</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+         <coded_answer>
+          <p>Dear Laurel,</p>
+          <p>Thank you for your recent letter. I couldn't write sooner because I was very busy last week.</p>
+          <p>I see you are interested in hearing about school rules in France and also about what I am allowed <NS type="MV"><c>to do</c></NS> or not to do at home.</p>
+          <p>To begin with the <NS type="S"><i>wchool</i><c>school</c></NS> rules<NS type="MP"><c>,</c></NS> we have in fact some important ones. Firstly, when you arrive late <NS type="RT"><i>at</i><c>for</c></NS> your lesson, you have to apologize <NS type="UA"><i>you</i></NS> to your teacher. Also<NS type="MP"><c>,</c></NS> when you have forgotten to do your <NS type="CN"><i>homeworks</i><c>homework</c></NS>. What's more, you had better <NS type="FV"><i>have done</i><c>do</c></NS> <NS type="AGA"><i>them</i><c>it</c></NS> <NS type="RC"><i>if</i><c>or</c></NS> you <NS type="TV"><i>would have</i><c>will have</c></NS> to go to the blackboard!</p>
+          <p>Although our library is very large, we mustn't make <NS type="MD"><c>a</c></NS> noise in order not to disturb the students<NS type="UP"><i>,</i></NS> who <NS type="TV"><i>work</i><c>are working</c></NS>. It may be like that in your library, <NS type="UV"><i>may</i></NS> <NS type="UY"><i>not</i></NS> <NS type="MV"><c>is</c></NS> it?</p>
+          <p>I consider the school rules are good: we should respect the teachers and people who need to work.</p>
+          <p>At home, I have to look after my two little brothers when my <NS type="UP"><i>parent's</i><c>parents</c></NS> are here. If I don't <NS type="RV"><i>make</i><c>do</c></NS> the cooking, I will have to do the washing up. I am sometimes allowed to watch the television when I have finished my <NS type="CN"><i>homeworks</i><c>homework</c></NS>.</p>
+          <p>Fortunately<NS type="MP"><c>,</c></NS> I can play <NS type="MD"><c>the</c></NS> violin when I want<NS type="MP"><c>,</c></NS> even if I haven't done my homework. It is what I like most.</p>
+          <p>I don't really want to change that, I think it is <NS type="RJ"><i>just</i><c>fair</c></NS> like this. I hope this answer satisfies you.</p>
+          <p>I look forward to receiving your next letter!</p>
+          <p>Best wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

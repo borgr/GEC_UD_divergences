@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR791*0100*2000*02">
+  <candidate><personnel><language>Greek</language><age>16-20</age></personnel><score>29.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>We would like to thank you for all the time you have <NS type="TV"><i>spend</i><c>spent</c></NS> <NS type="U"><i>for us</i></NS> in order to organize the programme that we <NS type="RV"><i>should</i><c>will</c></NS> follow during <NS type="MD"><c>the</c></NS> three days that we are going to <NS type="FV"><i>spending</i><c>spend</c></NS> <NS type="MT"><c>in</c></NS> London.</p>
+          <p>We all believe that <NS type="MA"><c>it</c></NS> is a great programme<NS type="MP"><c>,</c></NS> which <NS type="RV"><i>concludes</i><c>includes</c></NS> both <NS type="RN">education</NS> and free time.</p>
+          <p>We would like to inform you that we <NS type="TV"><i><NS type="RV"><i>notice</i><c>see</c></NS></i><c>have seen</c></NS> an advertisement for the London <NS type="RP"><i>fashion</i><c>Fashion</c></NS> and Leisure Show. This show is going to take place in the Central Exhibition Hall of London on Tuesday, March 14<NS type="MP"><c>,</c></NS> between the hours 10.00-19.00, and we would like to ask you if it is possible to go to that show.</p>
+          <p>We think that <NS type="MA"><c>this</c></NS> is a great opportunity and we are all very <NS type="RJ"><i>interesting</i><c>interested</c></NS> <NS type="MT"><c>in</c></NS> <NS type="FV"><i>to go</i><c>going</c></NS> because we can see there the latest fashions, leisure and sports wear, <NS type="DQ"><i>lot</i><c>a lot of</c></NS> <NS type="MJ"><c>different</c></NS> kinds of <NS type="MP"><i>make up</i><c>make-up</c></NS> and some <NS type="U"><i>of the</i></NS> famous <NS type="DN"><i>hairstylers</i><c>hairstylists</c></NS>. The show is <NS type="DY"><i>absolutly</i><c>absolutely</c></NS> free for students.</p>
+          <p>As a class we suggest <NS type="FV"><i>to go</i><c>going</c></NS> to this show on Tuesday, March 14<NS type="MP"><c>,</c></NS> <NS type="M"><c>in the</c></NS> morning<NS type="MP"><c>,</c></NS> and <NS type="FV"><i>to visit</i><c>visiting</c></NS> the Science Museum on Wednesday afternoon during our free time. If that <NS type="U"><i>of course</i></NS> is possible.</p>
+          <p>We <NS type="MV"><c>would</c></NS> all like to thank you again.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>In the year 2000 <NS type="MD"><c>the</c></NS> media is one of the most powerful things on the planet. The media is everywhere<NS type="RP"><i>, <NS type="FN"><i>televisions</i><c>television</c></NS></i><c>. Television</c></NS>, radio stations, newspapers, <NS type="MC"><c>and</c></NS> magazines all have one goal, to inform the citizens.</p>
+          <p>Some of them, however<NS type="MP"><c>,</c></NS> are not doing their job probably. They don't <NS type="RV"><i>inform people about</i><c>provide people with</c></NS> news, education or documentaries. They just <NS type="TV"><i>published</i><c>publish</c></NS> <NS type="CN"><i>gossips</i><c>gossip</c></NS> about famous people, such as politicians, musicians and film stars.</p>
+          <p>I believe all <NS type="UD"><i>the</i></NS> people<NS type="MP"><c>,</c></NS> famous or not, deserve to have <NS type="MD"><c>a</c></NS> private life without journalists <NS type="UT"><i>to</i></NS> following them all the time. They are humans like all of us<NS type="MP"><c>,</c></NS> with their problems, their good and bad times<NS type="MP"><c>,</c></NS> and of course they don't want <NS type="UV"><i>to be</i></NS> <NS type="FV"><i>publish</i><c>to publish</c></NS> them in front of millions of people because a journalist thought that this <NS type="TV"><i>is</i><c>would be</c></NS> right<NS type="RP"><i>. And</i><c>, and</c></NS> good for his pocket.</p>
+          <p>I think the only way of <NS type="FV"><i>change</i><c>changing</c></NS> that is<NS type="U"><i>, the people,</i></NS> <NS type="RP"><i>If</i><c>if</c></NS> the people <NS type="AGV"><i>shows</i><c>show</c></NS> no interest <NS type="M"><c>because then</c></NS> the journalist would have no <NS type="RN"><i>goal</i><c>reason</c></NS> <NS type="UT"><i>of</i></NS> <NS type="FV"><i>publish</i><c>to publish</c></NS> any <NS type="CN"><i>gossips</i><c>gossip</c></NS> because <NS type="MA"><c>it</c></NS> <NS type="TV"><i>is not going to be</i><c>would not be</c></NS> <NS type="TV"><i>watch</i><c>watched</c></NS> or read by anyone. So the power is <NS type="RT"><i>to</i><c>with</c></NS> the people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

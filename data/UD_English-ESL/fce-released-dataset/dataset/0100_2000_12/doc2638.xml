@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1058*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>22.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter giving some opinions about the three days that the class will spend in London. I see that you <NS type="AGV"><i>has</i><c>have</c></NS> already organised the programme.</p>
+          <p>However, the students in my class have seen an advertisement for "the London Fashion and Leisure Show" and they would all like to go to the show. So I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter, asking<NS type="UP"><i>,</i></NS> if you can change the programme.</p>
+          <p>The London Fashion and Leisure show is a special event that is <NS type="RV"><i>realized</i><c>organized</c></NS> once a year<NS type="RP"><i>, there</i><c>. There</c></NS> are the latest Fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and <NS type="RP"><i>hair styles</i><c>hairstyles</c></NS><NS type="RP"><i>,</i><c> -</c></NS> all things that <NS type="UD"><i>a</i></NS> young people <NS type="AGV"><i>wants</i><c>want</c></NS> to see. There is a great opportunity to go there because <NS type="UD"><i>the</i></NS> students need not pay <NS type="S"><i>anyting</i><c>anything</c></NS>.</p>
+          <p>I'm suggesting how <NS type="MD"><c>the</c></NS> programme could be changed. The fashion <NS type="MN"><c>show</c></NS> starts at 10:00 am and ends at 19:00 p.m. and will be <NS type="RV"><i>realized</i><c>held</c></NS> on 14 March, so we can change the shopping with this event<NS type="MP"><c>,</c></NS> <NS type="RA"><i>that</i><c>which</c></NS> is <NS type="RV"><i>realized</i><c>held</c></NS> in the afternoon, and <NS type="RV"><i>put</i><c>do</c></NS> the shopping at night. <NS type="RA"><i>There</i><c>It</c></NS> will be a great success!</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+          <p>X teacher.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>The Dangerous Mission.</p>
+          <p>"It was dangerous, but I knew I had to do it"...</p>
+          <p>That was my situation at the <NS type="RN"><i>moment</i><c>time</c></NS>.</p>
+          <p>The story had <NS type="TV"><i>began</i><c>begun</c></NS> two days before...</p>
+          <p>"The Honorable men's group"<NS type="RP"><i>,</i><c> -</c></NS> Dick, Nick and I<NS type="UP"><i>,</i></NS> <NS type="AGV"><i>has</i><c>have</c></NS> formed this group. Our mission was<NS type="UP"><i>,</i></NS> <NS type="FV"><i>stealing</i><c>to steal</c></NS> <NS type="UD"><i>the</i></NS> women's panties<NS type="RP"><i>,</i><c>.</c></NS> I think that it was very stupid, but it <NS type="TV"><i>was</i><c>is</c></NS> the most difficult thing that <NS type="UD"><i>the</i></NS> <NS type="RN"><i>humanity</i><c>man</c></NS> can do. It <NS type="AGV"><i>prove</i><c>proves</c></NS> our <NS type="RN">bravura</NS> to be a man. Our first <NS type="S"><i>chalenge</i><c>challenge</c></NS> was stealing Dick's girlfriend's <NS type="S"><i>pantie</i><c>panties</c></NS>, but <NS type="RA"><i>it</i><c>we</c></NS> failed. And she broke up the relationship with Dick and we <NS type="RV"><i>had</i><c>came to</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> conclusion that stealing panties from young girls was very difficult. So we tried to <NS type="FV"><i>stole</i><c>steal</c></NS> <NS type="RP"><i>adult's</i><c>adults'</c></NS> panties. Nick and Dick could prove their <NS type="S"><i>bravure</i><c>bravery</c></NS> stealing <NS type="UT"><i>from</i></NS> their mother's panties. I was the only one that couldn't <NS type="FV"><i>stole</i><c>steal</c></NS> any panties. So I decided to go to my <NS type="RP"><i>grand mother's</i><c>grandmother's</c></NS> house and try to steal some panties. But she was a very angry woman.</p>
+          <p>"It was dangerous, but I knew I had to do it", to prove my <NS type="S"><i>bravure</i><c>bravery</c></NS> to <NS type="RA"><i>all</i><c>everyone</c></NS>. I had quickly<NS type="UP"><i>,</i></NS> entered <NS type="UT"><i>in</i></NS> my grandmother's room and started to get some panties. I was very nervous <NS type="RC"><i>that</i><c>and</c></NS> I forgot my shoes. Next day my <NS type="RP"><i>Grand mother</i><c>grandmother</c></NS> <NS type="TV"><i>come</i><c>came</c></NS> and she gave my shoes to my mother.</p>
+          <p>That was the most dangerous mission of my life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

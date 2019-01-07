@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR612*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>Having seen your musical show last Sunday, I am writing to complain <NS type="MT"><c>about</c></NS> the problems and to ask for some money back.</p>
+          <p>Firstly, concerning <NS type="MD"><c>the</c></NS> actors, in your advertisement you stated that DANNY BROOK AND TINA TRUELOVE would perform in the musical, but in fact different actors performed. I was so disappointed!!</p>
+          <p>Regarding starting time and the theatre restaurant, to see the musical I had to wait about 45 <NS type="S"><i>minuits</i><c>minutes</c></NS> because it started at 20:15. As well as this, after seeing the musical I went to the theatre restaurant, which you referred <NS type="MT"><c>to</c></NS> in your advertisement, but it was closed already. I was really angry!</p>
+          <p>Lastly, with reference to ticket prices, your theatre hadn't any discounts even for children. I had to buy an adult ticket for my child and spent more money than I had expected.</p>
+          <p>I am sure you can imagine what I felt. It was not <NS type="MD"><c>a</c></NS> perfect evening for me and my child at all! I am also sure you can refund my money.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+          <p>Kwa Phat Sun.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>5</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Tae,</p>
+          <p>How are you getting on? I'm fine. Having talked with you a couple of weeks ago, I'd like to give you some information.</p>
+          <p>I know you are always interested in <NS type="S"><i>detictive</i><c>detective</c></NS> stories<NS type="MP"><c>,</c></NS> especially Agatha Christie's. Don't be surprised! Her best detective stories are going to be read on the radio this Sunday evening at 18:00. I'm sure you'll be pleased. You are supposed to listen to them.</p>
+          <p>As well as this, the stories are going to be read in English. It's <NS type="MD"><c>a</c></NS> good chance for you to improve your English. You <NS type="RP"><i>can not</i><c>cannot</c></NS> only listen to her best detective stories, but also learn English automatically. It will be fantastic!</p>
+          <p>Where the stories are concerned, they will not be difficult to understand because you already know the stories and <NS type="MD"><c>the</c></NS> <NS type="S"><i>naraitors</i><c>narators</c></NS> are going to read clearly. What I'd like to say is you should listen to them.</p>
+          <p>I hope you're happy to receive my letter and am looking forward to hearing from you.</p>
+          <p>Best wishes,</p>
+          <p>Kwa Phat Sun</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

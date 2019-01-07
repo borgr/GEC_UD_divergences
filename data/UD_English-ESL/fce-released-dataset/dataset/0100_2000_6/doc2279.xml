@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR912*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Austria, 13th June 2000</p>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I refer to your letter in which you informed me that I have won the first <NS type="SX"><i>prise</i><c>prize</c></NS> in the competition. You asked me for some further information and <NS type="SX"><i>hear</i><c>here</c></NS> are my "<NS type="S"><i>desirs</i><c>desires</c></NS>":</p>
+          <p>I would like to travel only in July because in August I have to study for an exam. Further I would prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in a tent at the <NS type="RP"><i>Camp</i><c>camp</c></NS>, because I am already used to that, because I often <NS type="TV"><i>spent</i><c>spend</c></NS> my holidays in tents. I would like to do painting, because one of my greatest hobbies is <NS type="RP"><i>silk-painting</i><c>silk painting</c></NS> and so I think I can improve my abilities. The second activity<NS type="UP"><i>,</i></NS> which I choose is playing basketball, because I love this wonderful sport. We always play it at school and I am very good at it. I am in our <NS type="RP"><i>school-basketball-team</i><c>school basketball team</c></NS>.</p>
+          <p>I hope that you are now well informed and I would like to ask you <NS type="RQ"><i>which</i><c>what</c></NS> clothes and how much money I should bring with me.</p>
+          <p>Thank you very much<NS type="RP"><i>,</i><c>.</c></NS> I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Austria, 13th June 200</p>
+          <p>Dear Kim,</p>
+          <p>I hope you are fine. You know, last month I helped at a pop concert and I am sure you want to know some details.</p>
+          <p>My first task was to open the doors to let in all the <NS type="W"><i>fans of Britney Spears</i><c>Britney Spears fans</c></NS>. I stood at the <NS type="RN"><i>entry</i><c>entrance</c></NS> and <NS type="S"><i>theire</i><c>there</c></NS> I had to check the tickets. Two girls came together and they wanted to go in with only one ticket for both <NS type="M"><c>of them</c></NS>! I had to tell one of them<NS type="UP"><i>,</i></NS> that she had to leave. She started crying. Such a poor girl<NS type="RP"><i>.</i><c>!</c></NS> At <NS type="RD"><i>this</i><c>that</c></NS> moment I didn't like my position.</p>
+          <p>My second task was <NS type="U"><i>that I had</i></NS> to look in all the <NS type="W"><i>bags of the fans</i><c>fans' bags</c></NS> to <NS type="RV"><i>collect</i><c>confiscate</c></NS> "dangerous" items<NS type="RP"><i>,</i><c>.</c></NS> I saw really funny things like <NS type="S"><i>teeth-bruches</i><c>toothbrushes</c></NS> in the bags. This part of my work was really funny and I enjoyed it.</p>
+          <p>Summing up<NS type="MP"><c>,</c></NS> I can say that it was a fantastic day, because Britney sang so <NS type="DY"><i>beautiful</i><c>beautifully</c></NS> and the performance was also super.</p>
+          <p>I hope you can imagine <NS type="R"><i>how</i><c>what</c></NS> a wonderful day it was for me.</p>
+          <p>Yours</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

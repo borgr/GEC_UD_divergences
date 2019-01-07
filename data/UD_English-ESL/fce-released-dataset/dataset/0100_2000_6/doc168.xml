@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR664*0100*2000*01">
+  <candidate><personnel><language>Turkish</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs H. Ryan</p>
+          <p>I am writing with reference to your letter and I would like to give <NS type="MA"><c>you</c></NS> some information which I have been asked <NS type="MT"><c>for</c></NS>.</p>
+          <p>Because my course finishes at the end of June and I am going to work for a <NS type="RP"><i>Hotel</i><c>hotel</c></NS> in August and September, I would like to travel in July. <NS type="RA"><i>It</i><c>That</c></NS> is the best time for me.</p>
+          <p>As far as accommodation is <NS type="DJ"><i>concern</i><c>concerned</c></NS>, I would like to say that I prefer to stay in tents. I like staying in tents because when we go on holiday with my friends, we always stay in tents, so I am used to staying in tents.</p>
+          <p>Moreover, I have also been asked to choose some activities. I would like to choose basketball and swimming. When I was at school, I <NS type="TV"><i>have been playing</i><c>played</c></NS> for the school team and I am good at swimming.</p>
+          <p>Finally, could you let me know what sort of clothes would be <NS type="FJ"><i>better</i><c>best</c></NS> to bring. It would also be useful to know <NS type="UC"><i>that</i></NS> how much money <NS type="U"><i>will be enough</i></NS> to bring.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>To: Mr. J. Y</p>
+          <p> Head Teacher</p>
+          <p>From:</p>
+          <p>Re: Short Video About Daily Life at I.S.O. School.</p>
+          <p>FINDINGS</p>
+          <p>I have <NS type="AS"><i>discussed with my friends and <NS type="RP"><i>school teachers</i><c>schoolteachers</c></NS> about this subject</i><c>discussed this subject with my friends and schoolteachers</c></NS>. Here <NS type="AGV"><i>are</i><c>is</c></NS> some information about daily life at I.S.O.</p>
+          <p>Morning Lessons: Although there are a lot of classes, there is <NS type="MD"><c>a</c></NS> special FCE class in which students are being prepared for <NS type="MD"><c>the</c></NS> FCE exam. There are special methods and materials for students.</p>
+          <p>Afternoon Lessons: The aim of the afternoon lessons is to <NS type="R">be able to give ability in speaking</NS>. There are some discussion groups, so students may have <NS type="MD"><c>a</c></NS> discussion on any subject.</p>
+          <p>Break Time: We have a lot of facilities for break time. <NS type="R">These are computer, video, and sports</NS>.</p>
+          <p><NS type="S"><i>RECOMMONDATIONS</i><c>RECOMMENDATIONS</c></NS></p>
+          <p>In my opinion we should choose break time activities. Because there are a lot of activities which students take part in<NS type="RP"><i>. It</i><c>, it</c></NS> would be much better for video <NS type="UN"><i>film</i></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR226*0100*2000*02">
+  <candidate><personnel><language>Turkish</language><age>21-25</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>12.12.2000</p>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to ask permission to go to the London Fashion and Leisure Show. I would be very <NS type="S"><i>greatful</i><c>grateful</c></NS> if you could let us <NS type="FV"><i>to go</i><c>go</c></NS> <NS type="MT"><c>to</c></NS> the show.</p>
+          <p>I would like to give you some details about the show that I saw <NS type="MT"><c>in</c></NS> <NS type="RD"><i>its</i><c>an</c></NS> advertisement yesterday. It is <NS type="RT"><i>in</i><c>at</c></NS> the Central Exhibition Hall in London. It starts at 10.00 am and finishes <NS type="MT"><c>at</c></NS> 19.00 pm. The date of the show is <NS type="UT"><i>on</i></NS> Tuesday <NS type="MD"><c>the</c></NS> 14th of March. It <NS type="TV"><i>is</i><c>will be</c></NS> <NS type="MD"><c>a</c></NS> really great opportunity to go to the show when we are in London. We would like to go there because it is very popular nowadays. I've heard that <NS type="MD"><c>the</c></NS> Leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles are really wonderful. It is also free for students. We all know that you <NS type="TV"><i>organised</i><c>have organised</c></NS> everything. However, we can change the programme. Here are some suggestions that I would like to let you <NS type="RV"><i>know</i><c>have</c></NS>. We have <NS type="MQ"><c>some</c></NS> free <NS type="RN"><i>timer</i><c>time</c></NS> on Wednesday <NS type="MD"><c>the</c></NS> 15th of March in the afternoon so we can go to the Science Museum on Wednesday. We can also do <NS type="MD"><c>our</c></NS> shopping quickly after sightseeing <NS type="RT"><i>of</i><c>in</c></NS> London.</p>
+          <p>I would be very pleased if you let us <NS type="FV"><i>to go</i><c>go</c></NS> to the show. I also would like to say thank you for organising <NS type="RD"><i>the</i><c>an</c></NS> <NS type="RJ"><i>good</i><c>excellent</c></NS> <NS type="SA"><i>program</i><c>programme</c></NS> for us. I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>A DAY <NS type="RT"><i>OF</i><c>IN</c></NS> MY LIFE</p>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p>That day, I got up early because I hadn't slept very well. I checked everything again and again. I was afraid <NS type="UT"><i>of</i></NS> <NS type="FV"><i>doing</i><c>to do</c></NS> it but I had to do it. It was the first time I had robbed a bank. I was her best friend. I promised her <NS type="M"><c>I would</c></NS> <NS type="FV"><i>to find</i><c>find</c></NS> <NS type="RD"><i>a</i><c>the</c></NS> money for her operation. She was at the hospital and she was really bad.</p>
+          <p><NS type="MT"><i>That</i><c>At that</c></NS> time, I couldn't imagine how my life would change. After I had had my breakfast I put my clothes on. I didn't want anybody to recognise me. Despite feeling really bad I left home. I got into my car and started it. When I arrived <NS type="MT"><c>at</c></NS> the bank I got out of the car and went into the bank. I told everybody to lie down. They did it. I asked <NS type="MD"><c>the</c></NS> cashier to give me all <NS type="MD"><c>the</c></NS> money. Before I took <NS type="MD"><c>the</c></NS> money one of the <NS type="AGN"><i>cashier</i><c>cashiers</c></NS> had pressed a button to call <NS type="RD"><i>a</i><c>the</c></NS> police. I quickly left <NS type="MD"><c>the</c></NS> bank.</p>
+          <p>However, it didn't take long <NS type="R"><i>that they</i><c>for them</c></NS> <NS type="FV"><i>caught</i><c>to catch</c></NS> me <NS type="UY"><i>soon</i></NS>. The policeman arrested me and I <NS type="RV"><i>stayed</i><c>was</c></NS> in <NS type="UD"><i>a</i></NS> prison for 15 years. The worst thing was my friend died <NS type="W"><i>after 10 days</i><c>10 days after</c></NS> I was arrested.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

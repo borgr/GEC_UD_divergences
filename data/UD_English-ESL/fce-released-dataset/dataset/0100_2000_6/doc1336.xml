@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR547*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>&lt;16</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>Thank you for your letter. I'm very happy that I have won.</p>
+          <p>You ask me when I would like to travel? I can travel only in July because I <NS type="W"><i>have <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>holidays</i><c>holiday</c></NS> from my work only</i><c>only have a holiday from my work</c></NS> in this month. So it would be very nice<NS type="UP"><i>,</i></NS> if <NS type="RA"><i>it's</i><c>that's</c></NS> possible.</p>
+          <p><NS type="RT"><i>By</i><c>Regarding</c></NS> the <NS type="RP"><i><NS type="S"><i>Accomodation</i><c>Accommodation</c></NS></i><c>accommodation</c></NS> at the <NS type="RP"><i>Camp</i><c>camp</c></NS>, I would prefer the tents, because it is something different <NS type="S"><i>wich</i><c>which</c></NS> you don't <NS type="RV"><i>make</i><c>do</c></NS> <NS type="RP"><i>everyday</i><c>every day</c></NS>!</p>
+          <p>Then the activities that I would like to do are <NS type="RP"><i>Singing</i><c>singing</c></NS> and <NS type="RP"><i>Swimming</i><c>swimming</c></NS>. <NS type="M"><i>Singing</i><c>I like singing</c></NS> because it's my favourite hobby and I grew up with it and <NS type="RP"><i>Swimming</i><c>swimming</c></NS> because I like water and the feeling that you have when you are in it. Another reason for <NS type="MV"><c>choosing</c></NS> swimming is that I'm good at it because a few years ago I had lessons, where I <NS type="TV"><i>learn</i><c>learned</c></NS> <NS type="W"><i>very <NS type="DY"><i>good</i><c>well</c></NS> <NS type="FV"><i>swimming</i><c>to swim</c></NS></i><c>to swim very well</c></NS>.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> I've got a question: What clothes must I bring with me and how much money?</p>
+          <p>I'm looking forward <NS type="MT"><c>to</c></NS> hearing from you.</p>
+          <p>yours <NS type="DY"><i>faithfuly</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Everybody likes shopping! <NS type="FV"><i>To look</i><c>Looking</c></NS> for clothes and shoes is for every <NS type="AGN"><i>women</i><c>woman</c></NS> one of <NS type="AGD"><i>their</i><c>her</c></NS> favourite <NS type="AGN"><i>hobby</i><c>hobbies</c></NS> and if it were possible <NS type="AGA"><i>they</i><c>she</c></NS> would stay <NS type="W"><i>the whole day in the shopping-centre</i><c>in the shopping-centre the whole day</c></NS>.</p>
+          <p>But shopping isn't always enjoyable.</p>
+          <p>Sometimes it isn't so easy to find what you need. For example: you <NS type="R">have in your memory</NS> a great pair of shoes that you <NS type="TV"><i>have seen</i><c>saw</c></NS> last week in a shop. Now you <NS type="RV"><i>will</i><c>want</c></NS> <NS type="FV"><i><NS type="SX"><i>by</i><c>buy</c></NS></i><c>to buy</c></NS> it but it's nowhere to <NS type="TV"><i>find</i><c>be found</c></NS>! That's a pity!</p>
+          <p>Sometimes it's <NS type="RY"><i>very</i><c>really</c></NS> awful when you have to wait <NS type="MD"><c>a</c></NS> very long <NS type="MN"><c>time</c></NS> until it's your turn to pay or to try some clothes on.</p>
+          <p>Another thing that makes you <NS type="S"><i>fourious</i><c>furious</c></NS><NS type="UP"><i>,</i></NS> is when you see a great shirt in <NS type="MD"><c>a</c></NS> shop and somebody else <NS type="AGV"><i>take</i><c>takes</c></NS> it away or <NS type="AGV"><i>buy</i><c>buys</c></NS> it before you can react. <NS type="AGD"><i>That</i><c>Those</c></NS> things <NS type="TV"><i>had <NS type="IV"><i>happend</i><c>happened</c></NS></i><c>happen</c></NS> to everybody, <NS type="RV"><i>hadn't</i><c>don't</c></NS> they?</p>
+          <p>So you see that shopping isn't always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

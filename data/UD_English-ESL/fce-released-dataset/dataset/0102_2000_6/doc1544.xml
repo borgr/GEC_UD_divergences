@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR88*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>I'm writing you this letter because yesterday I went to the theatre to see the musical <NS type="UN"><i>show</i></NS> and I had many problems, so I demand my money back.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> when I paid my entrance <NS type="MN"><c>fee</c></NS> they didn't <NS type="S"><i>acept</i><c>accept</c></NS> <NS type="UA"><i>me</i></NS> my discount ticket, they <NS type="RV"><i>said</i><c>told</c></NS> me that the ticket was <NS type="RJ"><i>false</i><c>fake</c></NS>, then I <NS type="TV"><i>enter</i><c>entered</c></NS> <NS type="UT"><i>to</i></NS> the theatre and I had to wait 45 <NS type="L"><i>min</i><c>minutes</c></NS><NS type="RP"><i>, the</i><c>. The</c></NS> show was <NS type="S"><i>suposed</i><c>supposed</c></NS> to start at 19:30 and it started at 20:15, "this <NS type="RV"><i>is</i><c>shows</c></NS> a lack of respect".</p>
+          <p>When the show started the <NS type="DN"><i>starring</i><c>billing</c></NS> was wrong because it said that <NS type="RN"><i>act</i><c>actor</c></NS> Danny Brook and Tina Truelove <NS type="MV"><c>appeared</c></NS> and Danny Brook <NS type="S"><i>did'n</i><c>didn't</c></NS> act, it was another actor that nobody knew, "Really this is very disappointing". After the show I planned to go to the restaurant with my wife, but what do you think <NS type="UA"><i>it</i></NS> happened? "The restaurant was closed".</p>
+          <p>Manager<NS type="MP"><c>,</c></NS> I <NS type="S"><i>spect</i><c>expect</c></NS> that you <NS type="TV"><i>considered</i><c>have considered</c></NS> my bad experience <NS type="RT"><i>in</i><c>at</c></NS> your theatre, so I'm asking you for my money back, because<NS type="UP"><i>,</i></NS> it was a very bad evening.</p>
+          <p>Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>Classmate Secret Unfortunately, Pat wasn't very good at keeping secrets for his classmate. The class had organized a secret party for our friend<NS type="UP"><i>,</i></NS> Nick <NS type="RA"><i>that</i><c>who</c></NS> was leaving the school <NS type="RT"><i>on</i><c>in</c></NS> 2 more weeks. <NS type="MA"><i>All</i><c>It all</c></NS> started when Pat, <NS type="W"><i>the best friend of Nick</i><c>Nick's best friend</c></NS>, wanted to <NS type="RV"><i>make</i><c>have</c></NS> the party <NS type="RT"><i>in</i><c>at</c></NS> his house<NS type="RP"><i>, most</i><c>. Most</c></NS> of the class <NS type="TV"><i>disagree</i><c>disagreed</c></NS> with that because the <NS type="W"><i>house of Pat</i><c>Pat's house</c></NS> is <NS type="DY"><i>extremly</i><c>extremely</c></NS> little, they started to say <NS type="MT"><c>to</c></NS> him that his house was like a box. Pat got very <NS type="S"><i>angree</i><c>angry</c></NS> and sad. Pat<NS type="MP"><c>,</c></NS> affected <NS type="RT"><i>with</i><c>by</c></NS> this situation<NS type="MP"><c>,</c></NS> told Nick all <NS type="MT"><c>about</c></NS> the situation and the <NS type="W"><i>secret of the class</i><c>class secret</c></NS>. <NS type="ID"><i>At the beginning</i><c>At first</c></NS> Nick got <NS type="S"><i>angree</i><c>angry</c></NS> but then he <NS type="TV"><i>forgive</i><c>forgave</c></NS> him because they were <NS type="AGN"><i>friend</i><c>friends</c></NS> and each of <NS type="RA"><i>one</i><c>them</c></NS> <NS type="TV"><i>can</i><c>could</c></NS> trust <NS type="RT"><i>on</i><c>in</c></NS> the other. Nick told the situation to the class and <NS type="S"><i>ofered</i><c>offered</c></NS> his house <NS type="R"><i>to do</i><c>for</c></NS> the party, because <NS type="MA"><c>it</c></NS> was very big, with large gardens and a big <NS type="S"><i>swimingpool</i><c>swimming pool</c></NS>. The day of the party <NS type="RA"><i>all</i><c>everyone</c></NS> had fun<NS type="MP"><c>,</c></NS> especially Pat <NS type="RA"><i>that</i><c>who</c></NS> <NS type="ID"><i>at the <NS type="S"><i>beggining</i><c>beginning</c></NS></i><c>to start with</c></NS> was sad.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

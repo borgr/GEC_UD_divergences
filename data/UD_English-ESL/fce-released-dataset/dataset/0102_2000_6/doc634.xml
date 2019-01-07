@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR250*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>Last week, during my holiday in London, I had the opportunity to see the show "Over the Rainbow" at the Circle <NS type="S"><i>Theathre</i><c>Theatre</c></NS>. That is why I am writing this letter; to inform you about the problems I had.</p>
+          <p>First of all, the tickets were too expensive. I was told that there were some discounts <NS type="RT"><i>to</i><c>for</c></NS> students, but <NS type="UT"><i>at</i></NS> the moment I bought the ticket, they charged me <NS type="UD"><i>a</i></NS> full price.</p>
+          <p>The day of the show, we got to the <NS type="S"><i>theather</i><c>theatre</c></NS> at 19:30. <NS type="R"><i>Instead</i><c>But</c></NS>, due to some technical problems, it began at 20:15.</p>
+          <p>Second, I was really disappointed when I found out that Danny Brook, the best actor I have <NS type="X"><i>never</i><c>ever</c></NS> known and the reason for <NS type="UA"><i>which</i></NS> <NS type="RA"><i>I</i><c>my</c></NS> <NS type="FV"><i>decided</i><c>deciding</c></NS> to see the show, was not going to be performing.</p>
+          <p>Third, the theatre restaurant was closed because the <NS type="S"><i>cheff</i><c>chef</c></NS> did not show up. I was really looking forward to eating at that place.</p>
+          <p>In conclusion, I would appreciate <NS type="MA"><c>it</c></NS> if you could, please, send me my money back because I did not have the perfect evening that I expected.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat was not very good at keeping secrets. Sally, her best friend, had told her what had been happening at her house for the last two months. Pat knew something was wrong because she had known Sally since they were five years old, but she did not <NS type="MV"></NS> why she was acting so <NS type="DY"><i>strange</i><c>strangely</c></NS>. Sally did not want to tell anybody about her problem, but she knew she could trust Pat. So Sally started to talk. She had seen her stepfather hitting her mother <NS type="RP"><i>everytime</i><c>every time</c></NS> he was drunk. She didn't want to tell the teachers at school or any other person because she was afraid that if her stepfather <NS type="TV"><i>find</i><c>found</c></NS> out about <NS type="RA"><i>that</i><c>it</c></NS>, he would get <NS type="SX"><i>made</i><c>mad</c></NS> and hit her, or even worse, kill her mother.</p>
+          <p>However, she needed to tell somebody. One morning somebody knocked at the door at Sally's house. It was the police. Sally was so scared, and at the same time mad at Pat because she knew the only person who could have told the police was her best friend. But she knew that Pat did it because she loved her and was afraid something horrible <NS type="RV"><i>could have</i><c>would</c></NS> <NS type="FV"><i>happened</i><c>happen</c></NS> to her or to her mother.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

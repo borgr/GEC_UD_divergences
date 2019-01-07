@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR886*0102*2000*01">
+  <candidate><personnel><language>Greek</language></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to <NS type="S"><i>complaine</i><c>complain</c></NS> about the evening at the Circle Theatre presenting "Over the Rainbow". It wasn't at all like what the advertisement for the show had promised. I will try to explain below:</p>
+          <p>To start with, the show, which was supposed to start on 19:30 started on 20:15 so you can understand that we were 45 minutes late getting out as well. Then, <NS type="RA"><i>they</i><c>there</c></NS> were not any discounts available for the tickets as <NS type="UA"><i>it</i></NS> was written on the advertisement. What's more the theatre restaurant was closed for some reasons and we couldn't get anything to drink or eat after the show. On top of everything<NS type="MP"><c>,</c></NS> Danny Brook, the star of the night, was absent and his role was performed by a different actor. You can understand how disappointing this was for all of us.</p>
+          <p>I am sorry but this wasn't my perfect evening out. I would like to ask for <NS type="RD"><i>some</i><c>a</c></NS> refund because the whole evening was very disappointing and it <NS type="RV"><i>did</i><c>was</c></NS> not worth the money <NS type="RV"><i>given</i><c>paid</c></NS></p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>As we can understand by observing the fashion of each century, the style of dressing changes <NS type="DY"><i>rootly</i><c>radically</c></NS> <NS type="RT"><i>through</i><c>over</c></NS> the years. So we can easily understand how different the style of dressing will be <NS type="UT"><i>like</i></NS> 100 years from now</p>
+          <p>In my opinion, there are two possible fashions for the future. If humans <NS type="RV"><i>turn</i><c>change</c></NS> to be more free from social rules, I think that their <NS type="RN"><i>dressing</i><c>dress</c></NS> will also be very extreme and unlimited. There will be a variety of colours and fashion styles. Everybody will wear anything he/she likes, choosing clothes from any century they <NS type="S"><i>wishe</i><c>wish</c></NS> without this being strange. On the other hand, if human society <NS type="RV"><i>turns</i><c>changes</c></NS> to <NS type="RV"><i>be</i><c>become</c></NS> <NS type="S"><i>stricher</i><c>stricter</c></NS> and more limited, there will be only 2 or 3 types of clothing, formed by the needs of <NS type="UD"><i>the</i></NS> society. All people will look about the same and mostly dark colours will rule <NS type="UY"><i>around</i></NS>. Perhaps the style of their <NS type="RN"><i>dressing</i><c>dress</c></NS> will indicate their position in society too.</p>
+          <p>This is <NS type="RY"><i>how</i><c>what</c></NS> I think <NS type="MD"><c>the</c></NS> fashion of the future will be like. The most exciting <NS type="MN"><c>thing</c></NS> about this is that people won't think that their clothes are strange<NS type="MP"><c>,</c></NS> <NS type="MY"><c>just</c></NS> as we don't think <NS type="UT"><i>about</i></NS> ours <NS type="MV"><c>are</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

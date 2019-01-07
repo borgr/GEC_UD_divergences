@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR2*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>10 June 2000</p>
+          <p>Dear Manager,</p>
+          <p>I would like to complain about your theatre and the musical show that I saw last week.</p>
+          <p>I went to London for a holiday last week and read the advertisement about 'Over the rainbow' in the hotel which I stayed <NS type="MT"><c>in</c></NS>.</p>
+          <p>I saw Danny Brook and Tina Truelove were written on the advertisement paper and was very excited. However, Danny Brook did not appear on the stage until the end of musical showing time. I was really disappointed about it. Secondly, <NS type="MD"><c>the</c></NS> starting time was 19:30 but it started 20:15 so I was <NS type="FV"><i>waited</i><c>waiting</c></NS> for 45 minutes. It was <NS type="RY"><i>so</i><c>such a</c></NS> long time to wait in the theatre.</p>
+          <p>Thirdly, it mentioned about discounts. Despite <NS type="UT"><i>of</i></NS> the fact that I am a student, I could not get any discounts. I also visited your restaurant after the show but <NS type="MA"><c>it</c></NS> <NS type="MV"><c>was</c></NS> already closed because the show finished late.</p>
+          <p><NS type="RT"><i>Because of</i><c>For</c></NS> the <NS type="AGN"><i>reason</i><c>reasons</c></NS> above, I, indeed, spent <NS type="MD"><c>an</c></NS> awful last night in London.</p>
+          <p>I would like you to refund, otherwise, I will take <NS type="UD"><i>an</i></NS> action.</p>
+          <p>I look forward to receiving <NS type="MD"><c>a</c></NS> reply to my enquiry.</p>
+          <p>Sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Fashion of the future</p>
+          <p>People will wear this kind of clothes 100 years <NS type="UJ"><i>later</i></NS> from now.</p>
+          <p>If <NS type="MD"><c>the</c></NS> weather is hot then we don't have to wear <NS type="RP"><i>under wear</i><c>underwear</c></NS> because very thin and light clothes will support our bodies. There will be two functions for summer clothes that we don't need to wear clothes <NS type="R">like layer and layer</NS>. For example, T-shirts for women <NS type="TV"><i>are included</i><c>will include</c></NS> <NS type="MD"><c>a</c></NS> bra: easy to take it out when you wash it, <NS type="MC"><c>and</c></NS> <NS type="MA"><c>it</c></NS> is very simple and comfortable. What about short pants? You don't have to wear knickers. We can just put some thin pads in there. We can't feel it and easy to remove and just <NS type="UV"><i>can</i></NS> wash it. Simplest is the best in summer!</p>
+          <p>When it's very cold <NS type="MT"><c>in</c></NS> winter, we just wear light clothes <NS type="R">what we want</NS>, in our style. Because special warm and healthy material will be developed and <NS type="TV"><i>use</i><c>used</c></NS> <NS type="UA"><i>them</i></NS> inside thin clothes so we don't need to put heavy clothes on our bodies. We can show our <NS type="DN"><i>body line</i><c>figure</c></NS> in winter as well.</p>
+          <p>Most important thing is that we don't have to kill <NS type="UD"><i>the</i></NS> animals <NS type="RY"><i>only</i><c>just</c></NS> for people's cruel aims.</p>
+          <p><NS type="CE">Functions' clothes are the way to love animals!</NS></p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

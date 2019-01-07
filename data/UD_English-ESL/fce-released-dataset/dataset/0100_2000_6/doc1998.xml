@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR796*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>40.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan,</p>
+          <p>Thank you for the letter which I have received with <NS type="UD"><i>a</i></NS> great delight and excitement. I am writing in order to let you know about the further necessary information you have <NS type="RV"><i>required</i><c>requested</c></NS>.</p>
+          <p>First of all, I would like to travel in July as it is my summer holiday and I believe the weather would be best for camping in July. And if it is possible I would like to stay in a log cabin rather than in a tent because I find tents uncomfortable to sleep in.</p>
+          <p>The two activities I would like to do at the Camp are Tennis and surfing. I have been playing Tennis for many years and it is my favourite sport. However, I have never done surfing before but I have always wanted to learn how to do it and I believe this would be my best chance to do so.</p>
+          <p>Before I go to the Camp, I would like to know what type of clothes I need to take and <NS type="S"><i>wheather</i><c>whether</c></NS> there is anything I should take in case of any emergencies. Also the amount of money I need to bring (<NS type="AGV"><i>is</i><c>are</c></NS> there any shops). And finally, I would like to ask you to send me some pictures of the place as I am dying to know what it is like. Thank you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>I was <NS type="RQ"><i>few</i><c>one</c></NS> of the <NS type="S"><i>lukiest</i><c>luckiest</c></NS> people from my school to be picked <NS type="UY"><i>up</i></NS> to help at the pop concert which took place in my town. The organiser of the concert asked my school for about 15 people, who <NS type="AGV"><i>does</i><c>do</c></NS> art, to help decorate the stage. Me and my friends were very excited, not because of the stage decoration but because of the pop <NS type="S"><i>sigers</i><c>singers</c></NS> and bands whom we <NS type="TV"><i>will</i><c>would</c></NS> be able to see! Everyone was so jealous in the school.</p>
+          <p>When we got there, there were very many people. People were carrying big boxes around which contained electrical <NS type="CN"><i>equipments</i><c>equipment</c></NS> for the concert. We were all given different <NS type="AGN"><i>sort</i><c>sorts</c></NS> of jobs to do. Some of us had to paint and some of us had to cut some materials and fabrics out into special shapes. It was very interesting and we enjoyed doing it very much. However the best part was watching and listening to the singers and bands <NS type="SA"><i>practicing</i><c>practising</c></NS> on the stage. At the end we were given free concert tickets and got <NS type="RN"><i>autobiographies</i><c>autographs</c></NS> from our favourite pop singers.</p>
+          <p>It was the best day of my life and certainly for others, too. I wish you <NS type="TV"><i>were</i><c>had been</c></NS> there. It was fantastic. I will be looking forward to your reply.</p>
+          <p>Love from</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

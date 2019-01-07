@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR692*0100*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>Thank you for the amazing <NS type="DN"><i>inform</i><c>information</c></NS> about the competition. I am really glad to be able to win the first prize and travel to the U.S.A.<NS type="MP"><c>,</c></NS> which I used to dream <NS type="MT"><c>of</c></NS>.</p>
+          <p>Now, I would like to reply <NS type="MT"><c>to</c></NS> some questions you <NS type="RV"><i>need</i><c>ask</c></NS>, willingly. <NS type="RY"><i>At first</i><c>Firstly</c></NS>, I would like to travel only in July because I study at University at the moment. However, they will give me such a long holiday<NS type="MP"><c>,</c></NS> enough to travel for two weeks in June.</p>
+          <p>I would prefer staying <NS type="MT"><c>in</c></NS> tents to log cabins, as I'd like to observe nature and stay <NS type="UT"><i>in</i></NS> <NS type="DY"><i>outdoor</i><c>outdoors</c></NS> as much time as I can.</p>
+          <p>I'm very happy with the activities you organised. I am good at playing basketball, swimming, tennis, surfing<NS type="MP"><c>,</c></NS> as they <NS type="TV"><i>are</i><c>have been</c></NS> my hobbies for donkey's years. I would rather play golf and go sailing, than the others<NS type="MP"><c>,</c></NS> so as to find new hobbies in my life.</p>
+          <p>Finally, what I would like to ask is what sort of <NS type="RN"><i>cloths</i><c>clothes</c></NS> are suitable for <NS type="UD"><i>the</i></NS> travelling, and also, how much money <NS type="W"><i>I should</i><c>should I</c></NS> prepare for the <NS type="RN"><i>travelling</i><c>trip</c></NS>, approximately.</p>
+          <p>I would be grateful if you could reply <NS type="MT"><c>to</c></NS> my letter with some further information soon.</p>
+          <p><NS type="L"><i>Yours sincerely</i><c>Yours faithfully</c></NS></p>
+          <p>Takashi Oshima.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you <NS type="RV"><i>going</i><c>doing</c></NS> these days?</p>
+          <p>I'm fine as usual.</p>
+          <p>Anyway, I joined the team which helps <NS type="UA"><i>anything</i></NS> at a pop concert last month<NS type="MP"><c>,</c></NS> as you know.</p>
+          <p>In my view, it was extremely interesting and <NS type="S"><i>satisfing</i><c>satisfying</c></NS> for me all the concert long.</p>
+          <p>Talking of my work, I <NS type="W"><i>had to mostly</i><c>mostly had two</c></NS> <NS type="RV"><i>make</i><c>prepare</c></NS> the concert stage with some <NS type="RN">fellows</NS>. If you <NS type="TV"><i>choose</i><c>chose</c></NS> the post, you would be <NS type="W"><i>exhausted <NS type="S"><i>throughlly</i><c>thoroughly</c></NS></i><c>thoroughly exhausted</c></NS> <NS type="RT"><i>in</i><c>at</c></NS> the end of the concert. However, there was a particular thing I really liked during the concert. As I could take a rest beside the concert stage while someone was singing a song, I saw a number of famous musicians nearby.</p>
+          <p>Although I <NS type="RP"><i>can not</i><c>cannot</c></NS> explain any more about the thing I felt during the concert in this letter, I'd like to <NS type="S"><i>recomend</i><c>recommend</c></NS> you to help at a pop concert <NS type="U"><i>or the other</i></NS>. It must be a good experience and a special memory for you.</p>
+          <p>See you and write <NS type="MT"><c>to</c></NS> me soon.</p>
+          <p>Best Wishes</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

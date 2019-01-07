@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR506*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>13.06.00</p>
+          <p>Dear Mrs Ryan,</p>
+          <p> I would like to thank you for <NS type="MD"><c>the</c></NS> first prize. I am really surprised that I have won. I <NS type="RV"><i>have</i><c>did</c></NS> not expect it.</p>
+          <p>I would like to send you some <NS type="S"><i>futher</i><c>further</c></NS> information which you need. I can only come in July because I am working in the office and I cannot take two weeks off in <NS type="MD"><c>any</c></NS> other month.</p>
+          <p>I am <NS type="S"><i>greatful</i><c>grateful</c></NS> that I have the chance to choose <NS type="RD"><i>an</i><c>the</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS>. I would rather stay in a tent if <NS type="MP"><i>its</i><c>it's</c></NS> not <NS type="MD"><c>a</c></NS> problem for you. I would like to experience a <NS type="S"><i>reall</i><c>real</c></NS> camp again. I used to be a scout.</p>
+          <p>I need <NS type="FV"><i>relax</i><c>to relax</c></NS> after <NS type="MD"><c>a</c></NS> year in the office<NS type="MP"><c>,</c></NS> <NS type="MP"><i>thats</i><c>that's</c></NS> why I choose photography and painting which are not very active. I am <NS type="MD"><c>a</c></NS> very shy person and I would prefer to stay in a small group of people, if <NS type="MP"><i>its</i><c>it's</c></NS> possible.</p>
+          <p>I have <NS type="SX"><i>to</i><c>two</c></NS> questions. I would like to ask you which kind of clothes I should take and I would like to know your opinion <NS type="M"><c>as to</c></NS> how much money I should take.</p>
+          <p>I would like to thank you <NS type="S"><i>onc</i><c>once</c></NS> again for this great <NS type="S"><i>opportiunity</i><c>opportunity</c></NS>.</p>
+          <p>I am looking forward to hearing from you</p>
+          <p>Yours sincerely,</p>
+          <p>Apolonia Gorski</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>We would like to <NS type="S"><i>belive</i><c>believe</c></NS> that shopping is the most wonderful part of our life. After working all week, finally on Saturday we can <NS type="RV"><i>do</i><c>go</c></NS> shopping. We love spending money, but spending money is not always enjoyable.</p>
+          <p>Problems start when we cannot find any space to park our car. When we finally do this, we cannot <NS type="RV"><i>go</i><c>be</c></NS> <NS type="S"><i>confortable</i><c>comfortable</c></NS> because of <NS type="MD"><c>the</c></NS> <NS type="FN"><i>crowd</i><c>crowds</c></NS>. Why <NS type="MP"><i>its</i><c>it's</c></NS> always the same! The answer is that we choose the same street (usually the most popular) and the same time as six <NS type="FN"><i><NS type="S"><i>hundrets</i><c>hundreds</c></NS></i><c>hundred</c></NS> other people. We become customers who want to do their shopping with pleasure. I think we can achieve pleasure at home with our new goods.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

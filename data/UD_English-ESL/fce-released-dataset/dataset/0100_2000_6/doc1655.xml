@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR653*0100*2000*01">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>My name is Agripina T. I just <NS type="TV"><i><NS type="S"><i>recive</i><c>receive</c></NS></i><c>received</c></NS> your letter and I would like to answer and ask some questions. I would like to travel only <NS type="RT"><i>on</i><c>in</c></NS> July because it's the only month when I'm free. <NS type="RT"><i>On</i><c>In</c></NS> June I have to take some English lessons. I would prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in log cabins because I think they are more comfortable than tents. I don't really like <NS type="RV"><i>living</i><c>staying</c></NS> in tents. If it's possible to <NS type="RV"><i>live</i><c>stay</c></NS> in log cabins I'll be pleased. While I'm at the Camp, I would like to do two <NS type="M"><c>of my</c></NS> <NS type="SA"><i>favorite</i><c>favourite</c></NS> activities<NS type="MP"><c>,</c></NS> which are basketball and singing. I love to play basketball. I'm not good at it but I try my best. <NS type="RY"><i>Before</i><c>In the past</c></NS> I was in a basketball team and I <NS type="IV"><i>enjoyded</i><c>enjoyed</c></NS> <NS type="MA"><c>it</c></NS> a lot. Also I like singing. In future I would like to be a singer. I like this kind of activity. There is something else I would like to ask. At the Camp, is there a free uniform or <NS type="W"><i>we will</i><c>will we</c></NS> have to wear something <NS type="S"><i>spessial</i><c>special</c></NS>? Also I would like to ask about money. How much money should I take with me? And is it <NS type="S"><i>nesessary</i><c>necessary</c></NS> to bring money, will we need <NS type="AGA"><i>them</i><c>it</c></NS>?</p>
+          <p>This is all <NS type="RA"><i>what</i><c>that</c></NS> I wanted to ask. Thank you for everything.</p>
+          <p>Yours sincerely</p>
+          <p> Agripina Tymoshenko.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>I suggest <NS type="FV"><i>to film</i><c>filming</c></NS> our English lessons and <NS type="SA"><i>Math</i><c>Maths</c></NS> lessons. From <NS type="MD"><c>the</c></NS> activities I suggest <NS type="FV"><i>to film</i><c>filming</c></NS> <NS type="DJ"><i>sport</i><c>sports</c></NS> lessons<NS type="UP"><i>.</i></NS> and music lessons. We have very interesting English lessons. They are always funny and nice. We always learn something new. At some lessons students are always <NS type="FV"><i>work</i><c>working</c></NS>, but <NS type="SX"><i>us</i><c>as</c></NS> we work, <NS type="MA"><c>we</c></NS> joke, discuss many topics, tell some stories about our life. Students think that we don't do anything and we don't learn anything <NS type="S"><i>spessial</i><c>special</c></NS>. It's not true. We <NS type="DV"><i>practice</i><c>practise</c></NS> our English and I think we have to film our English lessons, so others can see that to study this way is better than to study the way <NS type="UY"><i>how</i></NS> they do. Also <NS type="SA"><i>Math</i><c>Maths</c></NS><NS type="UP"><i>.</i></NS> lessons are so interesting. Many people don't like <NS type="SA"><i>Math</i><c>Maths</c></NS> because they think that it's <NS type="MD"><c>a</c></NS> <NS type="DJ"><i>boreing</i><c>boring</c></NS> subject. I think <NS type="UV"><i>it's</i><c>it</c></NS> all depends <NS type="RT"><i>of</i><c>on</c></NS> <NS type="MD"><c>the</c></NS> teacher. Our <NS type="SA"><i>Math</i><c>Maths</c></NS><NS type="UP"><i>.</i></NS> teacher knows how to teach so we don't get tired of his lessons. I think we should film the <NS type="SA"><i>Math</i><c>Maths</c></NS><NS type="UP"><i>.</i></NS> lessons, so students and some teachers will change their opinion about <NS type="SA"><i>Math</i><c>Maths</c></NS>. For activities<NS type="MP"><c>,</c></NS> we should film <NS type="DJ"><i>sport</i><c>sports</c></NS> lessons because we always do something new. We <NS type="RV"><i>do</i><c>have</c></NS> many competitions with other schools, and we always have fun. Our music lessons are <NS type="S"><i>speccial</i><c>special</c></NS>. We try to play <NS type="UT"><i>on</i></NS> many instruments, <NS type="MC"><c>and</c></NS> sing even if we don't know how. And it's always interesting to <NS type="S"><i>wach</i><c>watch</c></NS> others while they do something like that.</p>
+          <p>Report by Agripina Tymoshenko.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

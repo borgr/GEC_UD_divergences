@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR734*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>&lt;16</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs. Ryan:</p>
+          <p>Having won the trip to California delights me and I am providing you <NS type="MT"><c>with</c></NS> the further <NS type="CN"><i>informations</i><c>information</c></NS> you asked for:</p>
+          <p>I only have two months of vacation <NS type="R"><i>that are</i><c>in</c></NS> July and August and since I must visit my grandparents in August, the only time possible is July.</p>
+          <p>I would prefer a tent rather than a log cabin because I have been told that the <NS type="S"><i>Californiai</i><c>Californian</c></NS> summer is hot and dry so<NS type="MP"><c>,</c></NS> because a tent's wind circulation is better, it would create a <NS type="S"><i>confortable</i><c>comfortable</c></NS> coolness. The two activities I would like to do are basketball and surfing. I have played basketball <NS type="RT"><i>during</i><c>for</c></NS> 5 years in an amateur <NS type="RN"><i>franchise</i><c>team</c></NS> and still play on a playground regularly so my skills are good. On the other hand, I am a complete <NS type="RN"><i>debutant</i><c>beginner</c></NS> <NS type="RT"><i>concerning</i><c>at</c></NS> surfing. This sport has always attracted me due to its contact with the sea and the great sensations it provides and I believe this is the perfect <NS type="RN"><i>occasion</i><c>opportunity</c></NS> to <NS type="RV"><i>initiate</i><c>introduce</c></NS> myself to <NS type="RD"><i>the</i><c>this</c></NS> exciting sport<NS type="RP"><i>,</i><c>.</c></NS> I still have some questions to ask you:</p>
+          <p>Do I need to bring <NS type="MQ"><c>any</c></NS> particular clothing<NS type="MP"><c>,</c></NS> like a <NS type="DN"><i>surfing suit</i><c>wet suit</c></NS>, for instance? Is any "pocket money" required in case there is something I need to pay for? And finally, is somebody going to <NS type="RV"><i>fetch</i><c>meet</c></NS> me at the airport or am I supposed to get to the camp on my own and get refunded afterwards?</p>
+          <p>Best Regards</p>
+          <p>Chi Chen</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Shopping seems to be a true pleasure at first: spending money <NS type="RT"><i>for</i><c>on</c></NS> yourself or people you <NS type="RV"><i>appreciate</i><c>like</c></NS> is very satisfying and enjoyable, but it can also be a real nightmare.</p>
+          <p>You often enter a shop and see people everywhere so you have to squeeze yourself through the <NS type="RN"><i>alleys</i><c>aisles</c></NS> to take a look at a product. After long hours of hesitation, you decide to buy a product but discover that it is <NS type="DJ"><i>out of price</i><c>overpriced</c></NS>. Frustrated, you nevertheless pick something cheaper and advance towards the cashiers. There, you find an enormous queue waiting for you but you still have to <NS type="RV"><i>stay</i><c>stand</c></NS> up even though your tired legs demand a seat. It is finally your turn and you reluctantly hand the money over to the <NS type="RJ"><NS type="S"><i>hypocrital</i><c>hypocritical</c></NS></NS> cashier.</p>
+          <p>Then, you can rest a little and examine the product a little closer but<NS type="MP"><c>,</c></NS> <NS type="RY"><i>unluckily</i><c>unfortunately</c></NS>, it does not provide the satisfaction you may have wished for. Instead, you keep thinking about the initial product you could not afford, resulting <NS type="RT"><i>into</i><c>in</c></NS> more frustration and tiredness.</p>
+          <p>So there are several plausible reasons why shopping is not always enjoyable.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

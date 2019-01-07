@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR201*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan<NS type="MP"><c>,</c></NS></p>
+          <p>Many thanks for your letter.</p>
+          <p>I would like to travel in July because I have got <NS type="MD"><c>my</c></NS> summer holidays from July to August and I work as a bank clerk in August. I think a tent would suit my personal <NS type="RP"><i>life-style</i><c>lifestyle</c></NS> better than a log cabin because I love <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>I would like to play basketball during my holidays at Camp California because I love this game. I have been playing basketball for 8 years and today I am a member of an Austrian <NS type="RP"><i>basketball-team</i><c>basketball team</c></NS>. But I have never played golf in my life <NS type="RC"><i>but</i><c>though</c></NS> with your help I would be able to learn how to play golf and I think this could be very interesting.</p>
+          <p>I <NS type="W"><i>also would</i><c>would also</c></NS> like to know how much money I will get from you for <NS type="RA"><i>those</i><c>these</c></NS> two weeks because I would like to spend some money <NS type="RT"><i>for</i><c>on</c></NS> clothes.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim</p>
+          <p>Last month I enjoyed helping at a pop concert and I think you want to hear some funny stories about the <NS type="FN"><i>experience</i><c>experiences</c></NS> I <NS type="RV"><i>made</i><c>had</c></NS>.</p>
+          <p>At first I had to clean the three private rooms of the stars. This was very boring but after I left the third room I met Brunner and Brunner. These two people are stars in our country... O.K. I am just <NS type="IV"><i>kiding</i><c>kidding</c></NS>. I don't like <NS type="W"><i>the songs of Brunner and Brunner</i><c>Brunner and Brunner's songs</c></NS> because this kind of music is very boring.</p>
+          <p>I also had to clean the <NS type="RN"><i>washing rooms</i><c>washrooms</c></NS>. I will never ever help anybody to <NS type="S"><i>organice</i><c>organise</c></NS> a pop concert <NS type="MY"><c>again</c></NS>.</p>
+          <p>But after this <NS type="S"><i>serville</i><c>servile</c></NS> work I met Eminem. I think you know his popular songs like "My Name Is". It was one of the greatest moments in my life. I had to <NS type="RV"><i>bring</i><c>take</c></NS> him something to eat.</p>
+          <p>It was <NS type="UD"><i>a</i></NS> hard but also <NS type="UD"><i>a</i></NS> <NS type="RJ"><i>funny</i><c>fun</c></NS> work. You should try to <NS type="RV"><i><NS type="FV"><i>called</i><c>call</c></NS></i><c>get</c></NS> some experience <NS type="RT"><i>during</i><c>at</c></NS> such a concert<NS type="RP"><i> you</i><c>.  You</c></NS> would not regret it.</p>
+          <p>I am looking forward to hearing from you soon.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

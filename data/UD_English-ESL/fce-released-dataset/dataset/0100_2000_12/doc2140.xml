@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR865*0100*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>First of all, I would like to thank you for the <NS type="RJ"><i>lovely</i><c>wonderful</c></NS> programme you <NS type="TV"><i>organised</i><c>have organised</c></NS> for our trip to London, especially because we will have both cultural trips and <NS type="FN"><i>entertainments</i><c>entertainment</c></NS>, like shopping. I can tell you that we are all looking forward to going there.</p>
+          <p>However, I have been asked by the class to propose <NS type="W"><i><NS type="MT"><c>to</c></NS> you another visit</i><c>another visit to you</c></NS>. We <NS type="W"><i>all would</i><c>would all</c></NS> like to go and see the London Fashion and Leisure Show which will take place on Tuesday 14th March, from 10.00 to 19.00, in <NS type="UD"><i>the</i></NS> London's Central <NS type="RP"><i>exhibition</i><c>Exhibition</c></NS> Hall. This show is about the latest fashions, <NS type="UD"><i>the</i></NS> leisure and sports wear, <NS type="UD"><i>the</i></NS> make-up and <NS type="UD"><i>the</i></NS> hairstyles.</p>
+          <p>Everybody in the class is interested in this show, and it would be a great opportunity for us to see it, especially because many of us would like to work later in the fashion <NS type="MN"><c>industry</c></NS>. Moreover, this show won't cost anything because it is free for <NS type="UD"><i>the</i></NS> students!</p>
+          <p>Consequently, I <NS type="TV"><i>proposed</i><c>propose</c></NS> <NS type="MA"><c>we</c></NS> <NS type="FV"><i>to change</i><c>change</c></NS> the programme as follows<NS type="RP"><i>;</i><c>:</c></NS> on Tuesday afternoon, instead of shopping, we could go to this show and we could go shopping on Wednesday afternoon, during our free time. What do you think about that?</p>
+          <p>Hoping to hear <NS type="RT"><i>from</i><c>of</c></NS> your decision soon.</p>
+          <p>Yours sincerely,</p>
+          <p>(class 3CD)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>"Famous people, such as politicians and film stars, deserve to have a private life without journalists following them all the time."</p>
+          <p>Nowadays, most people think that famous people have <NS type="W"><i>a <NS type="R"><i>so</i><c>such</c></NS></i><c>such a</c></NS> good life (<NS type="MT"><c>with</c></NS> lots of money, comfortable <NS type="FN"><i>house</i><c>houses</c></NS> <NS type="MP"><c>etc</c></NS>) that they have to stop complaining about <NS type="SX"><i>he</i><c>the</c></NS> media's treatment <NS type="M"></NS>, because they have chosen to have this kind of life.</p>
+          <p>On <NS type="MD"><c>the</c></NS> one hand, it is true because famous people have to do their jobs, that means being interviewed, giving news to the <NS type="RN"><i><NS type="S"><i>audiance</i><c>audience</c></NS></i><c>public</c></NS>, and <NS type="RP"><i>soon</i><c>so on</c></NS>. Moreover, especially <NS type="RT"><i>for</i><c>with</c></NS> film stars, lots of people are hoping to see them on the <NS type="RP"><i>Tv</i><c>TV</c></NS> or in the newspapers, and this is really good for their <NS type="RN"><i>fame</i><c>careers</c></NS>.</p>
+          <p>However, on the other hand, it must be so annoying to be followed by journalists or <NS type="RN"><i>photographs</i><c>photographers</c></NS> all the time. You can't go outside <NS type="RY"><i>quietly</i><c>in peace</c></NS>, and there is <NS type="RY"><i>all the time</i><c>always</c></NS> a <NS type="S"><i>crownd</i><c>crowd</c></NS> of people who <NS type="AGV"><i>stands</i><c>stand</c></NS> in front of your house waiting for you.</p>
+          <p>The question you have to ask yourself is: would you like to have <NS type="W"><i>all the time people around your house</i><c>people around your house all the time</c></NS> <NS type="U"><i>who are</i></NS> watching <NS type="UT"><i>at</i></NS> you or people <NS type="U"><i>who are</i></NS> following you everywhere? I am sure that nobody would like this.</p>
+          <p>That is why I think that famous people deserve a private life, like everybody <NS type="MY"><c>else</c></NS>, and that journalists should not follow them everywhere.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR82*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>26-30</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>I am writing this letter to inform you that the advertisement for the musical show <NS type="RV"><i>was</i><c>appeared</c></NS> with wrong information.</p>
+          <p>Firstly, the actors were different from the ones <NS type="UV"><i>written</i></NS> in the advertisement<NS type="MP"><c>,</c></NS> which was very disappointing for me. Furthermore, according to the advertisement <NS type="RA"><i>I</i><c>it</c></NS> was supposed to begin at 14.30 and 19.30 but it started at 20.15. Moreover, when I bought the tickets I was expecting discounts <NS type="MV"><c>to be</c></NS> available, however, there were no discounts available and the tickets were more expensive than the price <NS type="RV"><i>written</i><c>published</c></NS> in the advertisement.</p>
+          <p>When the show ended I went to visit the theatre restaurant<NS type="MP"><c>.</c></NS> I could not get in because it was closed as the <NS type="W"><i>chef of the restaurant</i><c>restaurant's chef</c></NS> was not there.</p>
+          <p>I did not have a perfect evening out and I would like to have my money back.</p>
+          <p>I am looking forward to hearing from you as soon as possible.</p>
+          <p>Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>Technology has changed our life forever. Nowadays life is much easier than in the old days.</p>
+          <p>Firstly, we can cook our meals <NS type="MT"><c>on</c></NS> an electrical stove or in a microwave and it takes just a few minutes to get ready. We do not need to <NS type="FV"><i>lit</i><c>light</c></NS> <NS type="MD"><c>a</c></NS> fire in order to cook as in the old days.</p>
+          <p>Secondly, <NS type="UD"><i>the</i></NS> doctors have found the cure for many diseases and many operations have been done in less time and in a painless way<NS type="RP"><i>, by</i><c>. By</c></NS> using <NS type="L"><i>especial</i><c>special</c></NS> machines doctors have <NS type="TV"><i>be</i><c>been</c></NS> able to save more lives than in the past.</p>
+          <p><NS type="UT"><i>For those</i><c>Those</c></NS> who need to travel in order to <NS type="RV"><i>make</i><c>do</c></NS> business with other people abroad can fly by plane and arrive <NS type="RT"><i>in</i><c>at</c></NS> their destination safely or have their problems solved <NS type="RT"><i>through</i><c>via</c></NS> telephone.</p>
+          <p>To sum up, technology has been a great help to all of us. In the future, it will be able to help people even more since it has been <NS type="RV"><i>increasing</i><c>advancing</c></NS> <NS type="U"><i>its capacity</i></NS> <NS type="ID"><i>day after day</i><c>day by day</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

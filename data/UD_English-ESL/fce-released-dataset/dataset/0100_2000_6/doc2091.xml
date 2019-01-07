@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR841*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms Ryan,</p>
+          <p>I am writing to you to give <NS type="MA"><c>you</c></NS> some <NS type="S"><i>requiered</i><c>required</c></NS> information. First of all, I am glad to hear that I won the first prize in your competition. I am happy to visit the United States <NS type="RT"><i>under</i><c>with</c></NS> your organisation.</p>
+          <p>Actually, I would like to go to Camp California next July because I have got two <NS type="MP"><i>weeks</i><c>weeks'</c></NS> holiday then. I also will be pleased to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>. My experience <NS type="RT"><i>in</i><c>of</c></NS> camping is not so huge <NS type="M"><c>as to encourage me</c></NS> to stay in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>tents</i><c>tent</c></NS> for 2 weeks.</p>
+          <p><NS type="UY"><i>Therefore, you</i><c>You</c></NS> asked me what activities I would like to join <NS type="M"><c>in with</c></NS>. Surfing is something that I have <NS type="RY"><i>ever</i><c>always</c></NS> wanted to try. <NS type="R">As you can see,</NS> I have <NS type="DY"><i>abosolutly</i><c>absolutely</c></NS> no experience in it. Will it be possible to join a <NS type="RN"><i>surf</i><c>surfing</c></NS> school? For the second activity I have chosen photography. I enjoy taking pictures of landscapes<NS type="RP"><i>,</i><c>.</c></NS> I have also <NS type="RV"><i>visited</i><c>attended</c></NS> a photography course. So <NS type="UA"><i>that</i></NS> my <NS type="RN"><i>level</i><c>standard</c></NS> is not <NS type="MD"><c>a</c></NS> <NS type="MP"><i>beginners</i><c>beginner's</c></NS> anymore.</p>
+          <p>Moreover, could you please tell me what kind of clothes I should take with me? <NS type="R">What kind of money is used</NS>?</p>
+          <p>I am looking forward to going on <NS type="FN"><i>holidays</i><c>holiday</c></NS>.</p>
+          <p>Yours sincerely,</p>
+          <p>Mr Oliver Herre</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Brighton, 13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p><NS type="R"><i>Excuse me that I didn't write</i><c>Forgive me for not writing to</c></NS> you sooner. As you know, I was fairly busy with <NS type="UD"><i>my</i></NS> studying for my First Certificate.</p>
+          <p>The concert was <NS type="DY"><i>absolute</i><c>absolutely</c></NS> marvellous! So many happy people in the crowds, that the atmosphere was infectious. Anyway, what you wanted to know was what <NS type="TV"><i>has been my job</i><c>my job was</c></NS>. Actually my job was not really stressful, but I had contact <NS type="MT"><c>with</c></NS> and access to all the famous <NS type="RP"><i>Pop Stars</i><c>pop stars</c></NS>. I had to bring them refreshments. That has been my dream since my childhood.</p>
+          <p>I was a little bit disappointed <NS type="RT"><i>about</i><c>with</c></NS> their attitude. They didn't really appreciate <NS type="R"><i>my</i><c>the</c></NS> service. Some of them were quite rude. Apart from that, it was an amazing experience. <NS type="UA"><i>Whatever, if</i><c> If</c></NS> you ever <NS type="TV"><i>will have</i><c>have</c></NS> the opportunity to do something like this then do it without hesitating. I liked <NS type="FV"><i>to see</i><c>seeing</c></NS> their way of life.</p>
+          <p>I hope you will write <NS type="MT"><c>to</c></NS> me very soon and I hope <NS type="R"><i>you know</i><c>to tell you</c></NS> more about my concert experience in the backstage area.</p>
+          <p>Lots of love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

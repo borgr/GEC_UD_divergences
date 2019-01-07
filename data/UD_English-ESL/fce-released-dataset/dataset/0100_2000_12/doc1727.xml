@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR682*0100*2000*02">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing<NS type="W"><i>, on behalf of an advanced class, to you</i><c> to you on behalf of an advanced class</c></NS> to thank you for having organised our <NS type="UD"><i>a</i></NS> three-day programme <NS type="RT"><i>on</i><c>from</c></NS> 13th to 15th March.</p>
+          <p>We discussed the programme. It would be great to take a trip to Greenwich by boat. We all would love to do it. However, we have seen an advertisement <NS type="RT"><i>about</i><c>for</c></NS> "The London Fashion and Leisure Show" recently. It will be held at Central Exhibition Hall on 14th March at 10 a.m to 7 p.m.. According to <NS type="RD"><i>an</i><c>the</c></NS> advertisement, a lot of events will take place during the show such as <NS type="MP"><i>make up</i><c>make-up</c></NS>, hairstyles, latest fashions and leisure and sports wear. It would be a golden opportunity to <NS type="RV"><i>know</i><c>see</c></NS> up-to-date fashion. In addition, it is free for students.</p>
+          <p>After consideration, we would like you to reorganise the 2nd <NS type="MP"><i>day</i><c>day's</c></NS> programme. We are politely asking you. It would be <NS type="RJ"><i>grateful</i><c>great</c></NS> if you <NS type="TV"><i>can</i><c>could</c></NS> reorganise this <NS type="RN">matter</NS> at your earliest convenience.</p>
+          <p>I look forward to meeting you to discuss this matter.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Hide and Seek!</p>
+          <p><NS type="S"><i>Nowaday</i><c>Nowadays</c></NS>, a lot of celebrities, such as pop, film and sports stars, suffer from <NS type="W"><i>being intruded on the privacy of their lives</i><c>the privacy of their lives being intruded on</c></NS>. Undoubtedly, their <NS type="UD"><i>the</i></NS> first enemies are "Journalists".</p>
+          <p>Some people are in favour of covering famous people's <NS type="W"><i>in-depth stories</i><c>stories in depth</c></NS><NS type="RP"><i>. Because</i><c>, because</c></NS> it is interesting and they can forget about their own problems by imagining celebrities' luxurious lives. Moreover, they think that celebrities do not have to hide from publicity because it means that they are extremely popular with people and being loved.</p>
+          <p>On the other hand, other people are against following celebrities and photographing them every moment. They claim that it is absolutely <NS type="MD"><c>an</c></NS> intrusion on <NS type="RD"><i>the</i><c>their</c></NS> privacy. What is more, they insist that <NS type="RT"><i>before</i><c>as well as</c></NS> celebrities, they are also <NS type="UP"><i>human-beings</i><c>human beings</c></NS> who want to live without being disturbed and watched.</p>
+          <p>In conclusion, there are both advantages and disadvantages <NS type="RT"><i>of</i><c>to</c></NS> covering celebrities. Taking everything <NS type="MT"><c>into</c></NS> account, the drawbacks far outweigh its benefits. Thus, I think that journalists should consider celebrities' lives and <NS type="RV"><i>be</i><c>put themselves</c></NS> in celebrities' shoes. </p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

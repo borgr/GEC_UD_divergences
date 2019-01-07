@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR895*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>Thank you very much for your letter <NS type="RT"><i>with reference to</i><c>concerning</c></NS> the competition. Here <NS type="AGV"><i>are</i><c>is</c></NS> the information you <NS type="TV"><i>required</i><c>require</c></NS>.</p>
+          <p>Firstly, I would like to travel in July, because it is the only month that I am free.</p>
+          <p>Secondly, I prefer cabins. The main reason is that I love wood. In addition, due to my height (185 cm), I think cabins may be a better choice.</p>
+          <p>Thirdly, from the activity list, I chose swimming and tennis as my favourite ones. Although I have played tennis only twice, I really enjoyed it. <NS type="ID"><i>With contrast to</i><c>In contrast to</c></NS> this , I <NS type="TV"><i>can</i><c>could</c></NS> swim when I was six. Furthermore, I once <NS type="TV"><i>have been trained</i><c>trained</c></NS> in a swimming centre, so I am quite confident <NS type="R"><i>with it</i><c>as a swimmer</c></NS>.</p>
+          <p>Lastly, could you please tell me what kind of clothes and how much money I should <NS type="RV"><i>prepare</i><c>take</c></NS> and do I have to buy insurance myself?</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>The aim of this report is to suggest lessons and some activities which should be filmed in the video <NS type="RT"><i>from</i><c>about</c></NS> my school.</p>
+          <p>In my opinion, maths, politics, <NS type="RP"><i>chinese</i><c>Chinese</c></NS>, English and painting lessons are the most interesting ones. They are also the lessons which English <NS type="MN"><c>people</c></NS> and other foreigners are <NS type="DY"><i>particularlly</i><c>particularly</c></NS> curious <NS type="RT"><i>in</i><c>about</c></NS>.</p>
+          <p>As far as I know, English people are really surprised <NS type="RT"><i>about</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> Chinese students' advanced level in Maths, as well as <NS type="RD"><i>the</i><c>their</c></NS> knowledge <NS type="RT"><i>in</i><c>of</c></NS> politics. This is a good <NS type="S"><i>oppertunate</i><c>opportunity</c></NS> to see how they learn in class. <NS type="R">As it is expected, painting lesson is an amazing one</NS>. You can find students <NS type="FV"><i>use</i><c>using</c></NS> traditional <NS type="RP"><i>chinese</i><c>Chinese</c></NS> ink to draw and write.</p>
+          <p><NS type="R"><i>In spite of</i><c>As well as these</c></NS> lessons, there are all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of activities such as sports <NS type="FN"><i>meeting</i><c>meetings</c></NS>, racing <NS type="FN"><i>competition</i><c>competitions</c></NS>, and countryside activities. Some are held once a year and some are held every term. You will experience a different life in them.</p>
+          <p>In conclusion, besides all <NS type="M"><c>that I</c></NS> mentioned, I highly <NS type="S"><i>recommond</i><c>recommend</c></NS> you video <NS type="MD"><c>the</c></NS> students' daily life and interview them. That will <NS type="W"><i>make it <NS type="S"><i>defenitely</i><c>definitely</c></NS></i><c>definitely make it</c></NS> a successful video.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR122*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear manager,</p>
+          <p>My name is Marcia Fomalar, I am <NS type="IV"><i>writting</i><c>writing</c></NS> to <NS type="RV"><i>make</i><c>let</c></NS> you know how disappointed I felt when I went to the musical <NS type="UN"><i>show</i></NS> <NS type="RT"><i>of</i><c>at</c></NS> the London theatre.</p>
+          <p>I decided to see the 19:30 show so I arrived on time at 19:00 o'clock. I went to buy <NS type="RD"><i>the</i><c>a</c></NS> ticket and as I like to enjoy the show near <NS type="UT"><i>of</i></NS> the stage I bought a £20 <NS type="S"><i>tiket</i><c>ticket</c></NS> but when I asked for <NS type="RD"><i>the</i><c>a</c></NS> discount they told me<NS type="MP"><c>,</c></NS> "I am sorry but there was an error in the advertisement<NS type="RP"><i>,</i><c>.</c></NS> It will be impossible to <NS type="RV"><i>make</i><c>give</c></NS> you a discount". This was my first problem.</p>
+          <p>At 19:15 I was very impatient<NS type="MP"><c>,</c></NS> waiting for the show <NS type="FV"><i>begins</i><c>to begin</c></NS><NS type="MP"><c>,</c></NS> and a man <NS type="S"><i>anounced</i><c>announced</c></NS> that the show <NS type="TV"><i>will</i><c>would</c></NS> start at 20:15. I had to wait more that an hour outside the theatre because to make matters worse I couldn't spend the time in the theatre restaurant. The reason they gave me <NS type="MV"><c>was</c></NS> it was closed because it was being repaired.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> the show started and to my <NS type="S"><i>sorprise</i><c>surprise</c></NS> my favourite actor Danny Brooke had been replaced by another actor. Now what I hope is you <NS type="SX"><i>refound</i><c>refund</c></NS> me my money<NS type="RP"><i>, it</i><c>. It</c></NS> was a horrible evening out</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. <NS type="RA"><i>I</i><c>It</c></NS> would <NS type="TV"><i>be</i><c>have been</c></NS> the best party of the year. Last month was my <NS type="MP"><i>grandmother</i><c>grandmother's</c></NS> birthday and I organised a party for her.</p>
+          <p>My grandmother loves <NS type="UD"><i>the</i></NS> parties and when she was young she used to organise big parties for all <NS type="R"><i>the</i><c>her</c></NS> family and friends. Now she is 85 years old so she can't do that but<NS type="UP"><i>,</i></NS> I can.</p>
+          <p>I organised everything like: the place, the food, the decoration<NS type="RP"><i>,</i><c>.</c></NS> I sent letters by post to everybody she knows. It <NS type="TV"><i>seems</i><c>seemed</c></NS> <NS type="MY"><c>likely</c></NS> to be the <NS type="FJ"><i>bigger</i><c>biggest</c></NS> party of her life.</p>
+          <p>I thought <NS type="RA"><i>she</i><c>we</c></NS> could <NS type="RV"><i>have</i><c>put on</c></NS> a show <NS type="RT"><i>in</i><c>at</c></NS> this special party so I talked to Pat, my best friend, <NS type="MV"><c>to see</c></NS> if she could help me as she works in the production of T.V. <NS type="S"><i>programes</i><c>programmes</c></NS>. She loved the idea and said she had <NS type="RJ"><i><NS type="IJ"><i>differents</i><c>different</c></NS></i><c>various</c></NS> shows so <NS type="M"><c>I could</c></NS> <NS type="FV"><i>to decide</i><c>decide</c></NS> which <NS type="RV"><i>could</i><c>would</c></NS> be the most suitable. I told her to <NS type="RV"><i>make</i><c>call</c></NS> me <NS type="U"><i>a phone cold</i></NS>.</p>
+          <p>Pat sent <NS type="W"><i>to my house a fax</i><c>a fax to my house</c></NS> with the different alternatives she <NS type="TV"><i>thought</i><c>had thought</c></NS> <NS type="MT"><c>of</c></NS> but unfortunately my grandmother was there and she saw the paper so the <NS type="S"><i>sorprise</i><c>surprise</c></NS> was <NS type="RV"><i>ended</i><c>ruined</c></NS>. But <NS type="W"><i>after all the party was great</i><c>the party was great after all</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

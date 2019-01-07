@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1013*0102*2000*01">
+  <candidate><personnel><language>Russian</language><age>51+</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing with reference to a musical show I saw recently in your theatre.</p>
+          <p>The advertisement promised there would be my <NS type="SA"><i>favorite</i><c>favourite</c></NS> star<NS type="MP"><c>,</c></NS> Danny Brook, but there was <NS type="RP"><i>an other</i><c>another</c></NS> actor who could not play his part as well as Danny Brook<NS type="MP"><c>.</c></NS> In addition, the performance started 45 minutes <NS type="FY"><i>later</i><c>late</c></NS>, so we couldn't visit your theatre restaurant after the show because it <NS type="TV"><i>had been</i><c>was</c></NS> closed already. <NS type="RP"><i>More over</i><c>Moreover</c></NS>, when I was buying our tickets, there weren't any discounts in spite of the fact that my wife and <NS type="FA"><i>me</i><c>I</c></NS> are both on <NS type="MD"><c>a</c></NS> pension. As a result<NS type="MP"><c>,</c></NS> our evening was completely spoiled. So I am sure you will understand why I <NS type="MV"><c>am</c></NS> so annoyed and frustrated with the whole <NS type="S"><i>incindent</i><c>incident</c></NS>.</p>
+          <p>I look forward to hearing from you in the very near future to offer me a <NS type="DJ"><i>partly</i><c>partial</c></NS> refund.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. Two days <NS type="RY"><i>ago</i><c>before</c></NS><NS type="MP"><c>,</c></NS> her best friend Maria told her that her parents were going to <NS type="S"><i>devorce</i><c>divorce</c></NS><NS type="RP"><i>,</i><c>.</c></NS> Maria was so upset that she couldn't keep it <NS type="MT"><c>to</c></NS> herself. Her father had met another woman who <NS type="TV"><i>had not been</i><c>was not</c></NS> as pretty as Maria's mother but worked in a bank and had a good salary.</p>
+          <p>One day Maria and her mother returned home and found a letter. All <NS type="MD"><c>her</c></NS> <NS type="MP"><i>fathers</i><c>father's</c></NS> things were missing. They could not <NS type="S"><i>believ</i><c>believe</c></NS> their eyes. They read the letter and slowly went <NS type="RT"><i>onto</i><c>into</c></NS> the kitchen. Maria <NS type="TV"><i>bought</i><c>had bought</c></NS> his <NS type="SA"><i>favorite</i><c>favourite</c></NS> food and she <NS type="TV"><i>throw</i><c>threw</c></NS> it <NS type="UY"><i>away</i></NS> into the bin. How <NS type="W"><i>he could</i><c>could he</c></NS> have done it to them? They had been so happy for 15 years. They had gone everywhere together and laughed a lot. Now everything was over. She went to <NS type="S"><i>skool</i><c>school</c></NS>, but she could not <NS type="R"><i>pick the material up</i><c>follow the lessons</c></NS> as <NS type="DY"><i>easy</i><c>easily</c></NS> as she used to. So she decided to tell Pat, her lovely Pat. She was so understanding.</p>
+          <p>Now everyone knows about her sad story <NS type="MC"><c>and</c></NS> that makes her feel even <NS type="IJ"><i>more worse</i><c>worse</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

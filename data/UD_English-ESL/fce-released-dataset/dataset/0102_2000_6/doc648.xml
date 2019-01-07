@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR253*0102*2000*01">
+  <candidate><personnel><language>French</language><age>26-30</age></personnel><score>38.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>17th June 2000</p>
+          <p>Dear Sir or Madam,</p>
+          <p>About two weeks ago, I went to London for a <NS type="MP"><i>week</i><c>week's</c></NS> holiday. While there I saw your advertisement for the show "Over the rainbow" and decided to go.</p>
+          <p>I was looking forward to a great evening, but much to my surprise, <NS type="RA"><i>it</i><c>that</c></NS> was not exactly the case: there were no discounts available, <NS type="MQ"><c>such</c></NS> as <NS type="UA"><i>it</i></NS> <NS type="AGV"><i>was</i><c>were</c></NS> <NS type="IV"><i>mentionned</i><c>mentioned</c></NS> in the advertisement; the show started 45 minutes late; I was then very disappointed to see that Danny Brook <NS type="TV"><i>was</i><c>had been</c></NS> replaced by someone else.</p>
+          <p>After the show was over, it was not possible to visit the theatre restaurant, as it was closed that day.</p>
+          <p>I am very sorry to say it was definitely not a perfect evening out, and I am therefore asking you <NS type="MT"><c>for</c></NS> a refund <NS type="RT"><i>of</i><c>for</c></NS> the amount I paid, or part of it. You will find the receipt enclosed.</p>
+          <p>Yours <NS type="DY"><i>faithfuly</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Modern technology is affecting my daily life a lot, I can even say <NS type="MA"><c>it</c></NS> <NS type="TV"><i>changed</i><c>has changed</c></NS> it.</p>
+          <p>I will take the <NS type="S"><i>exemple</i><c>example</c></NS> of the use of the <NS type="RP"><i>internet</i><c>Internet</c></NS>. I use it on a daily basis for many different reasons:</p>
+          <p>I don't write letters to my friends anymore, and wait weeks before receiving answers, I just send an electronic mail <NS type="RT"><i>through</i><c>via</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS> and the person <NS type="TV"><i>received</i><c>receives</c></NS> it within seconds.</p>
+          <p>I don't need to go to the stores anymore<NS type="UP"><i>,</i></NS> if I don't want to: I can just stay at home and buy almost everything through it: books, video tapes, clothes and even groceries.</p>
+          <p>It is also possible to read the news or play games.</p>
+          <p>I also have the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> of making new friends: I can connect to a special site which will enable me to virtually meet people.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

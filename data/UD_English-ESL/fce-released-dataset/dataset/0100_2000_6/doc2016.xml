@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR808*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>26-30</age></personnel><score>28.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p><NS type="ID"><i>First at all</i><c>First of all</c></NS>, I'd like to <NS type="FV"><i>thanks</i><c>thank</c></NS> <NS type="MA"><c>you</c></NS> for the prize <NS type="MA"><c>I</c></NS> <NS type="RP"><i>Won</i><c>won</c></NS>. I'd like to <NS type="RV"><i>know</i><c>get to know</c></NS> <NS type="MD"><c>the</c></NS> USA. <NS type="RP"><i>this</i><c>This</c></NS> prize came <NS type="RT"><i>in</i><c>at</c></NS> a good time.</p>
+          <p>I'd like to <NS type="S"><i>travell</i><c>travel</c></NS> in <NS type="RP"><i>july</i><c>July</c></NS> because I've got an examination at USP in Roo Cohelo in July. For <NS type="RA"><i>it</i><c>this</c></NS> the only <NS type="R"><i>one</i><c>month</c></NS> that I can travel is July. And I'd like to stay in a <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> because I can't bear sleeping in a tent<NS type="RP"><i>,</i><c>.</c></NS> I hate <NS type="RD"><i>this</i><c>that</c></NS> kind of <NS type="S"><i>accomodation</i><c>accommodation</c></NS>. But I love sports. I'd like to play <NS type="RP"><i>Tennis</i><c>tennis</c></NS> and <NS type="MV"><c>go</c></NS> swimming<NS type="MP"><i> these</i><c>.  These</c></NS> are my favourite sports. I can play tennis better <NS type="MT"><c>you</c></NS> I can swim, because since I was <NS type="R"><i>I</i><c>a</c></NS> child I've been <NS type="RV"><i>practising</i><c>playing</c></NS> it. I've already <NS type="RP"><i>Won</i><c>won</c></NS> three prizes <NS type="RT"><i>about</i><c>in</c></NS> it.</p>
+          <p>And I'd like to know <NS type="UT"><i>about</i></NS> what kind of clothes to take and how much money to take too. I've never <NS type="RV"><i>gone</i><c>been</c></NS> to <NS type="MD"><c>the</c></NS> USA before.</p>
+          <p>I hope I will have a good journey.</p>
+          <p>Yours <NS type="RP"><i>Sincerely</i><c>sincerely</c></NS>,</p>
+          <p>ALBiTO.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable.</p>
+          <p>We had a class discussion about shopping, <NS type="RT"><i>for</i><c>because of</c></NS> it I'm writing to <NS type="RV"><i>tell</i><c>explain</c></NS> about my opinion.</p>
+          <p>I love shopping mainly when I am alone <NS type="SX"><i>on</i><c>or</c></NS> when I am angry because I think it can help me to relax. When I <NS type="MV"><c>have</c></NS> got plenty of money sometimes I like <NS type="FV"><i>spend</i><c>to spend</c></NS> a bit of it with some friends or buying a good present for my <NS type="RP"><i>girl friend</i><c>girlfriend</c></NS>.</p>
+          <p>But if I haven't got enough money to spend or if I am sad shopping is not always enjoyable, because without money and <NS type="MV"><c>being</c></NS> sad <NS type="MA"><c>it</c></NS> is not a good idea to go <NS type="UT"><i>to</i></NS> shopping.</p>
+          <p>Normally I spend money buying some new clothes that I like <NS type="UJ"><i>more</i></NS> and shoes<NS type="MP"><c>.</c></NS> I love new shoes.</p>
+          <p>One good idea <NS type="MV"><c>is</c></NS> to go <NS type="UT"><i>to</i></NS> shopping <NS type="UV"><i>is</i></NS> when you <NS type="MV"><c>have</c></NS> got plenty of money.</p>
+          <p>ALBiTO</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

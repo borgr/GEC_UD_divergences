@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR172*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p> Dear Ms Helen Ryan</p>
+          <p>I am writing this letter as an answer to your request for some further information from me.</p>
+          <p>I would like to travel in July, because I have recently got a new job, which I am going to start in August. Therefore, July is my last free month until much later. I would prefer to stay in a tent during the camp, as I find tents a lot more exciting than log cabins. I am a very good swimmer, so I choose swimming from the activities you listed. I am also very keen on climbing, although I am not extremely good at it. I would also like to ask how much money I am supposed to take with me and I would be glad if you could give me an answer before the camp begins.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+          <p>Bibiana Krol</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Most people enjoy shopping. But not me. I think shopping is hard, exhausting work, especially when you are trying to buy yourself some new clothes.</p>
+          <p>The most annoying thing about shopping is that in most cases you have to search for a particular <NS type="RN"><i>stuff</i><c>thing</c></NS> for a long time and visit several shops before you find something that suits you. Eventually, after long <NS type="RN"><i>seeking</i><c>searching</c></NS> you find a skirt you like. But it doesn't fit. You get really angry trying to find a bigger one but unfortunately this is the last one. And finally, after a few more hours, you buy the skirt of your dreams. And suddenly you notice the identical but cheaper one in the next shop. <NS type="MD"><i>Accident</i><c>An accident</c></NS> like that can really make you livid. At last you come back home, carrying the most beautiful skirt in the whole town. You phone your friend to visit you and your friend <NS type="AGV"><i>come</i><c>comes</c></NS>, wearing <NS type="RD"><i>the</i><c>a</c></NS> skirt not unlike the one you have just bought.</p>
+          <p>But that's <NS type="UD"><i>the</i></NS> life. You can always go and buy a new one.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

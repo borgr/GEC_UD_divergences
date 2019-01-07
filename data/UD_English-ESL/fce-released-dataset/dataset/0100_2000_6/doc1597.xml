@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR626*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Thank you very much for the prize. I <NS type="RV"><i>turned</i><c>went</c></NS> crazy when I knew I was the winner of your competition. I am <NS type="UY"><i>just</i></NS> looking forward to going to Camp California. I've never been <NS type="RT"><i>in</i><c>to</c></NS> the States before and having the chance to do <NS type="UA"><i>it</i></NS> so makes me <NS type="L"><i>real</i><c>really</c></NS> happy.</p>
+          <p>So let's answer the question you <NS type="RV"><i>told</i><c>asked</c></NS> me to in order to make <NS type="AGD"><i>that</i><c>those</c></NS> two weeks there as <NS type="MQ"><c>much</c></NS> <NS type="RJ"><i>funnier</i><c>fun</c></NS> as possible. You asked me when <NS type="W"><i>would I</i><c>I would</c></NS> like to travel to California. Definitely, in July. That's my only month for holidays in the whole year. If possible, I'd like to spend my time there in a tent. I hope <NS type="R">just the sleeping one</NS>. That's the <NS type="R"><i>best</i><c>most</c></NS> suitable <NS type="S"><i>accomodation</i><c>accommodation</c></NS> for a camping <NS type="MN"><c>holiday</c></NS>. It <NS type="UY"><i>just</i></NS> keeps you in touch with nature. That's what camping is about, isn't it? I've found the list of activities you sent me very interesting. If I have to choose two of them I'll take tennis first. I'm an expert on it and I'll have a good time beating everyone there. Can't say the same about golf. It will be my first experience <NS type="ID"><i>with the putt</i><c>on the green</c></NS>. I just hope <NS type="X"><i>not to get</i><c>I don't get</c></NS> injured. One thing you have not told me is <NS type="SX"><i>weather</i><c>whether</c></NS> I have to pay <NS type="MT"><c>for</c></NS> <NS type="R"><i>all things by my own</i><c>everything myself</c></NS> in California or not. Please, let me know.</p>
+          <p>Waiting for your answer,</p>
+          <p>José</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>As I told you in my previous letter I finally had the opportunity to take part <NS type="RT"><i>on</i><c>in</c></NS> the Sting concert here in Segovia. No, not as a singer. Not yet. My only role was to carry things from one place to another. Very heavy things, those which Sting uses to make his show even more spectacular. Have you seen the giant screen behind him in every concert? I was the one who put it there in Segovia. Well, some others helped me <NS type="RT"><i>in</i><c>with</c></NS> the task, but that did not make it much easier.</p>
+          <p><NS type="RP"><i>Any way</i><c>Anyway</c></NS>, it was a great experience and I <NS type="TV"><i>enjoy</i><c>enjoyed</c></NS> it very much. The part I enjoyed most was the one when they paid me. It wasn't much but that means nothing when you have the chance to take part in an event like that. They also gave me a ticket to <NS type="S"><i>wotch</i><c>watch</c></NS> the concert live. Great show.</p>
+          <p>Next time come with me. I think Ernestina is coming to the city very soon. See you then!</p>
+          <p>José</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR421*0100*2000*02">
+  <candidate><personnel><language>Russian</language><age>16-20</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson</p>
+          <p>I'm writing to you concerning the London trip that my English class is going to <NS type="RV"><i>do</i><c>go on</c></NS> in March.</p>
+          <p>First of all I want to thank you for the <NS type="RJ"><i>good</i><c>excellent</c></NS> programme that you <NS type="RV"><i><NS type="TV"><i><NS type="S"><i>mack</i><c>make</c></NS></i><c>made</c></NS></i><c>arranged</c></NS> for my class in such a short time. The students are especially <NS type="UY"><i>very</i></NS> happy about the visit to the Science Museum, which we are going to <NS type="RV"><i>do</i><c>make</c></NS> on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> morning <NS type="RT"><i>of</i><c>on</c></NS> 14th March.</p>
+          <p>The point of my letter is that <NS type="MD"><c>the</c></NS> students in my class have seen an advertisement for the London Fashion and Leisure Show and they would appreciate <NS type="MA"><c>it</c></NS> if they could go and see the show.</p>
+          <p>The show is going to include <NS type="MD"><c>the</c></NS> latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles and best of all it is free for students to get in.</p>
+          <p>The only problem is that the show is going to take place on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> <NS type="UT"><i>of</i></NS> 14th March, so I'm wondering if you can make some changes <NS type="RT"><i>in</i><c>to</c></NS> your programme. My class think that it is a great opportunity for them to see the show, because <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> is the last day that the show is going to be <NS type="RV">showed</NS>.</p>
+          <p>We suggest <NS type="FV"><i>to <NS type="S"><i>swop</i><c>swap</c></NS></i><c>swapping</c></NS> shopping on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> <NS type="R"><i>and</i><c>with the</c></NS> free time on Wednesday, so we can see the show on <NS type="RP"><i>tuesday</i><c>Tuesday</c></NS> afternoon.</p>
+          <p><NS type="TV"><i>I'll hope</i><c>I hope</c></NS> that this matter <NS type="RV"><i>doesn't</i><c>isn't</c></NS> going to cause you any problems and we hope for an answer as soon as possible.</p>
+          <p>Thank you</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>The home of the <NS type="S"><i>Futere</i><c>Future</c></NS></p>
+          <p>In what ways do you think people's homes will be different in the future?</p>
+          <p>That is <NS type="RD"><i>the</i><c>a</c></NS> question<NS type="UP"><i>,</i></NS> which many people ask themselves and other people quite often.</p>
+          <p><NS type="UD"><i>The <NS type="S"><i>technologi</i><c>technology</c></NS></i><c>Technology</c></NS> is changing very fast and at the same <NS type="RN"><i>moment</i><c>time</c></NS> as I'm writing my article about the future maybe technologists have made a new <NS type="S"><i>owen</i><c>oven</c></NS> which <NS type="AGV"><i>co-operate</i><c>co-operates</c></NS> with your refrigerator and has <NS type="UT"><i>in</i></NS> <NS type="RD"><i>the</i><c>a</c></NS> <NS type="RN"><i>programme</i><c>program</c></NS> to make dinner for you every day without <NS type="UC"><i>that</i></NS> you <NS type="FV"><i>have</i><c>having</c></NS> to do anything.</p>
+          <p>What about rooms which can <NS type="RV"><i>feel</i><c>sense</c></NS> your mood and <NS type="FV"><i>acting</i><c>act</c></NS> <NS type="RT"><i>after</i><c>according to</c></NS> that<NS type="RP"><i>, if</i><c>? If</c></NS> you are tired for example then your stereo might put some relaxing <NS type="S"><i>musik</i><c>music</c></NS> on and turn down the light a little bit. <NS type="MD"><i>Next</i><c>The next</c></NS> step might be a robot<NS type="UP"><i>,</i></NS> which would do all your housework, but what would <NS type="FV"><i>happened</i><c>happen</c></NS> to the people?</p>
+          <p>I think that everyone should <NS type="W"><i>not think</i><c>think not</c></NS> just about the positive <NS type="FN"><i>sides</i><c>side</c></NS> <NS type="RT"><i>with</i><c>of</c></NS> <NS type="S"><i>technologi</i><c>technology</c></NS> but also the negative.</p>
+          <p><NS type="UD"><i>The <NS type="S"><i>technologi</i><c>technology</c></NS></i><c>Technology</c></NS> is good as long as it gives people more free time, but what would <NS type="FV"><i>happened</i><c>happen</c></NS> if <NS type="RP"><i>freetime</i><c>free time</c></NS> became your life?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

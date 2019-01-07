@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE86*0100*2001*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>31.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I have received your letter dated <NS type="UT"><i>on</i></NS> the 12th <NS type="MT"><c>of</c></NS> <NS type="RP"><i>june</i><c>June</c></NS> 2001. I am very happy to help you and I hope that the <NS type="CN"><i>informations</i><c>information</c></NS><NS type="UP"><i>,</i></NS> that I am going to give you<NS type="UP"><i>,</i></NS> will be <NS type="RJ"><i>enough</i><c>satisfactory</c></NS>.</p>
+          <p>The international student conference will be in the Palace Hotel in Lausanne. The <NS type="RP"><i>Hotel</i><c>hotel</c></NS> is a big building in the middle of the town near the <NS type="RN"><i>place</i><c>square</c></NS><NS type="MP"><c>,</c></NS> "St-François". And the name of the street is "Grand-Chêne". You <NS type="RP"><i>can not</i><c>cannot</c></NS> miss it.</p>
+          <p>After the conference, we are going to stay in the Palace Hotel but instead <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to stay</i><c>staying</c></NS> in the conference room, we are going to move to the reception room where a dinner will be <NS type="RV"><i>prepared</i><c>served</c></NS> for us. Afterwards, a live band <NS type="AGV"><i>are</i><c>is</c></NS> going to play <NS type="MT"><c>for</c></NS> the rest of the night. <NS type="RT"><i>For</i><c>Regarding</c></NS> the clothes, you have to wear something smart and classic.</p>
+          <p>If you want to stay in Lausanne during your <NS type="W"><i>afternoon free</i><c>free afternoon</c></NS>, the best thing to do is to go to Ouchy. There, you can enjoy the <NS type="RP"><i>Landscape</i><c>landscape</c></NS> and <NS type="DV"><i>have a sunbath</i><c>sunbathe</c></NS>.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p><NS type="S"><i>OLYMPIQUE</i><c>OLYMPIC</c></NS> MUSEUM</p>
+          <p>The aim of this report is to give <NS type="MA"><c>you</c></NS> further <NS type="CN"><i>informations</i><c>information</c></NS> on an interesting building to visit in Lausanne. It is based on my own experience.</p>
+          <p>WHY THE OLYMPIC MUSEUM<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p>The <NS type="S"><i>Olympique</i><c>Olympic</c></NS> Museum is situated near the lake and <NS type="AGV"><i>offer</i><c>offers</c></NS>, for the tourist, an unbelievable view <NS type="RT"><i>on</i><c>of</c></NS> the mountains and the lake. But also<NS type="UP"><i>,</i></NS> the museum <NS type="AGV"><i>have</i><c>has</c></NS> a lot of gardens with several statues. <NS type="RY"><i>Besides</i><c>Also</c></NS>, the architecture of the building is beautiful and very modern. First of all, the main interest of the museum is <NS type="UD"><i>the</i></NS> <NS type="RP"><i>olympic</i><c>Olympic</c></NS> history. You can find a lot of <NS type="RN"><i><NS type="AGN"><i>documentary</i><c>documentaries</c></NS></i><c>documents</c></NS> about it and you have several <NS type="R">competitors personal objects</NS>. In addition, you can play <NS type="UT"><i>with</i></NS> several interactive <NS type="AGN"><i>game</i><c>games</c></NS> and learn about the rules of the <NS type="RP"><i>olympic</i><c>Olympic</c></NS> games.</p>
+          <p>REASONS <NS type="RT"><i>OF</i><c>FOR</c></NS> RECOMMENDATION.</p>
+          <p>The principal reason is the <NS type="FJ"><i>cheapest</i><c>cheap</c></NS> price. You pay only <NS type="R">to FRS</NS> for <NS type="UD"><i>the</i></NS> entry and you can stay <NS type="UT"><i>in</i></NS> all the time that you want. On the other hand, if <NS type="RA"><i>you</i><c>there</c></NS> are more than 10 people, you can <NS type="RV"><i>have</i><c>pay</c></NS> a group price and pay only 6 Frs per person. It seems that this <NS type="RN"><i>solution</i><c>option</c></NS> might be the best way to visit this museum.</p>
+          <p>CONCLUSION.</p>
+          <p>To sum up, the Olympic Museum is a very attractive place and could be a good trip with your family or your student group. Therefore, if you want to learn something about the Olympic Games, it must be the best place for <NS type="RA"><i>this</i><c>you</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

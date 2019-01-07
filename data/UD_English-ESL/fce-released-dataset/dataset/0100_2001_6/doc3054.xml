@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE36*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>16-20</age></personnel><score>37.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p> Dear Maria,</p>
+          <p>First of all, I am sorry to hear that Richard is ill. As the conference must go on, I will give you the information you asked for in order to work on <NS type="UT"><i>with</i></NS> this conference.</p>
+          <p><NS type="RT"><i>According to</i><c>Concerning</c></NS> the hotel, the group has been <NS type="RV"><i>arranged</i><c>booked</c></NS> to stay in a hotel which is very near the place <NS type="MC"><c>where</c></NS> we are going to have the conference. The hotel is The Palace Hotel. <NS type="UP"><i>It'is</i><c>It is</c></NS> <NS type="UY"><i>just</i></NS> only 5 <NS type="MP"><i>minutes</i><c>minutes'</c></NS> walk from there to the conference and I would like to suggest that this is the best way to get to the conference.</p>
+          <p><NS type="L"><i>About</i><c>Regarding</c></NS> the party, we will have a party at the end of the conference at the hotel <NS type="MC"><c>where</c></NS> you will stay. The party will <NS type="RV"><i>be</i><c>have</c></NS> <NS type="UT"><i>in</i></NS> a <NS type="RJ"><i>friendly</i><c>relaxed</c></NS> atmosphere so don't worry about what to wear. There will be only our group, so <NS type="RV"><i>dress</i><c>wear</c></NS> whatever you want and enjoy <NS type="AGA"><i>ourselves</i><c>yourself</c></NS>.</p>
+          <p>Lastly, <NS type="R">what you could possibly do while you will be waiting for three hours, for some people who want to go shopping</NS>. The shopping centre is just <NS type="UY"><i>right</i></NS> opposite <NS type="UT"><i>of</i></NS> the hotel<NS type="RP"><i>, however</i><c>. However</c></NS>, some people may want to just wait at the hotel, having a cup of coffee. The cafe in the hotel is available.</p>
+          <p>I hope that <NS type="MD"><c>this</c></NS> information will be useful. If you have any questions I am more than happy to help. I look forward to seeing you at the conference.</p>
+          <p>Yours sincerely.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Could you live without this?</p>
+          <p>Imagine how your life would be if you woke up one morning and found that all the electricity had <NS type="RV">gone</NS>. How would you manage to get yourself ready to go to work<NS type="RP"><i>.</i><c>?</c></NS> How would you know what happens in the whole wide world or even how <NS type="UA"><i>you</i></NS> <NS type="FV"><i>would get</i><c>to get</c></NS> yourself breakfast without <NS type="MD"><c>a</c></NS> toaster!!! How would you cope with all <NS type="FA"><i>those</i><c>that</c></NS>?</p>
+          <p>Thank god for those who <NS type="TV"><i>had created</i><c>created</c></NS> <NS type="RD"><i>the</i><c>our</c></NS> electricity and <NS type="RV"><NS type="TV">had applied</NS>applied</NS> it into every <NS type="AGN"><i>appliances</i><c>appliance</c></NS>. <NS type="UD"><i>The electricity</i><c>Electricity</c></NS> is a clever invention. Everything <NS type="TV"><i>bases</i><c>is based</c></NS> on the use of electricity, for instance from a little <NS type="W"><i>bulb light</i><c>light bulb</c></NS> to the most complicated computer system which <NS type="TV"><i>stored</i><c>stores</c></NS> priceless information! Life wouldn't be easy if we didn't have electricity. <NS type="UD"><i>The electricity</i><c>Electricity</c></NS> is very important in keeping our lives <NS type="FV"><i>go</i><c>going</c></NS>. No matter where you are, what you do, <NS type="RY"><NS type="S"><i>apparantly</i><c>apparently</c></NS></NS>, you need <NS type="UD"><i>the</i></NS> electricity. Let's think <NS type="M"><c>about it</c></NS> this way<NS type="RP"><i>,</i><c>:</c></NS> if we didn't have <NS type="UD"><i>the</i></NS> electricity, there would be no other inventions at all!!</p>
+          <p>I, personally, couldn't live without <NS type="UD"><i>the</i></NS> electricity. It has already <NS type="RV">affected</NS> and <NS type="TV"><i>play</i><c>played</c></NS> a great role in my life. I watch the television and use the computer <NS type="RP"><i>everyday</i><c>every day</c></NS>. Moreover, other facilities in my house, <NS type="MD"><c>the</c></NS> telephone, air-conditioner, fridge, for example, they <NS type="UV"><i>are</i></NS> all need <NS type="UD"><i>the</i></NS> electricity. <NS type="UP"><i>That'is</i><c>That is</c></NS> why it is very important to my life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

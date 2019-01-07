@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR331*0100*2000*01">
+  <candidate><personnel><language>Greek</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="S"><i>Madame</i><c>Madam</c></NS>,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to <NS type="S"><i>informe</i><c>inform</c></NS> you about the decisions I have made <NS type="RT"><i>according to</i><c>regarding</c></NS> your questions.</p>
+          <p>First of all I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I will <NS type="UA"><i>I</i></NS> have finished my exams by the end of June. I will not be able to travel <NS type="RT"><i>on</i><c>in</c></NS> August because I have found a job for that month.</p>
+          <p>Secondly I would prefer to <NS type="RV"><i>be <NS type="TV"><i>accommodate</i><c>accommodated</c></NS></i><c>stay</c></NS> in <NS type="MD"><c>a</c></NS> log <NS type="AGN"><i>cabins</i><c>cabin</c></NS>. When I was a child I was <NS type="S"><i>affraid</i><c>afraid</c></NS> of all these little insects that <NS type="UA"><i>they</i></NS> live in the ground and this fear still <NS type="AGV"><i>remain</i><c>remains</c></NS> <NS type="UT"><i>till</i></NS> now. I also think that the log cabin will be much more <NS type="S"><i>confortable</i><c>comfortable</c></NS> than the tent.</p>
+          <p><NS type="RP"><i><NS type="S"><i>asketball</i><c>basketball</c></NS></i><c>Basketball</c></NS> and swimming are the two activities I have chosen. I <NS type="TV"><i>play</i><c>have played</c></NS> basketball since I was twelve years old and I <NS type="TV"><i>am</i><c>have been</c></NS> <NS type="MD"><c>a</c></NS> member of the <NS type="W"><i>basketball school</i><c>school basketball</c></NS> team for four years. In swimming I <NS type="TV"><i>had won</i><c>won</c></NS> the first <NS type="RN"><i>price</i><c>prize</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> a local competition.</p>
+          <p><NS type="DY"><i>Finaly</i><c>Finally</c></NS> I would like to ask you for some further <NS type="CN"><i>informations</i><c>information</c></NS> about the clothes and the money we will need.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>As you already know, last month I was helping at a pop concert. It was a very <NS type="RJ"><i>excited</i><c>exciting</c></NS> experience and I really enjoyed <NS type="MA"><c>myself</c></NS> very much.</p>
+          <p>I didn't have to do <NS type="RA"><i>something</i><c>anything</c></NS> very difficult. I was only <NS type="S"><i>responsable</i><c>responsible</c></NS> for <NS type="R">the property of the back stages</NS>. But if anyone <NS type="TV"><i>was <NS type="UV"><i>been</i></NS> asking</i><c>asked</c></NS> for some help I was always there.</p>
+          <p>The most exciting <NS type="MN"><c>thing</c></NS> about this experience was <NS type="FV"><i>to meet</i><c>meeting</c></NS> all these well-known people. I was shocked and terrified the <NS type="S"><i>firt</i><c>first</c></NS> time I saw them, but the truth is that they are men like us. They have a very simple life and <NS type="RN"><NS type="SA"><i>behavior</i><c>behaviour</c></NS></NS> when they <NS type="TV"><i>weren't</i><c>aren't</c></NS> on the <NS type="RN"><i>scene</i><c>stage</c></NS><NS type="MP"><c>.</c></NS></p>
+          <p>If I have the opportunity next month I really want to go back. I will definitely apply for a place.</p>
+          <p>Love</p>
+          <p>Kelly.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

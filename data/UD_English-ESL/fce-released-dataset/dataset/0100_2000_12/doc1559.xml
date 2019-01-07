@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR606*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>38.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>12th December 2000</p>
+          <p>Dear Mr. Robertson,</p>
+          <p>I would like to thank you for organising a nice programme for us. <NS type="RY"><i>Especially</i><c>In particular</c></NS>, going to the Museum and the Art Gallery <NS type="TV"><i>would</i><c>will</c></NS> be a great <NS type="S"><i>oppotunity</i><c>opportunity</c></NS> for all of us, as they are world-famous places in London. However, there is something I need to ask you.</p>
+          <p>Everyone in the class wishes to go to the London fashion and leisure show which will be held on Tuesday 14th March from 10 a.m. to 7 p.m. <NS type="RT"><i>In</i><c>At</c></NS> the show, we will be able to see the latest <NS type="FN"><i>fashion</i><c>fashions</c></NS><NS type="RP"><i>,</i><c> -</c></NS> <NS type="MP"><i>leisure and sports wear</i><c>leisure- and sports-wear</c></NS>, <NS type="MP"><i>make up</i><c>make-up</c></NS> and hairstyles. It <NS type="TV"><i>would be</i><c>is</c></NS> essential because many people in the class are thinking of studying fashion in future. <NS type="UD"><i>The entrance</i><c>Entrance</c></NS> <NS type="UN"><i>fee</i></NS> is free for students so the show is well worth seeing.</p>
+          <p>To go to the show, we need to alter the programme. The show is on 14th and <NS type="RV"><i>takes</i><c>lasts</c></NS> a whole day. So, if we could go to the Museum by using the free time on 15th it would be okay although we could not go shopping.</p>
+          <p>I look forward to hearing from you shortly.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Story</p>
+          <p>It was dangerous, but I knew I had to do it.</p>
+          <p>Three years ago, when I was in Japan, my parents were both working and neither of them were at home by the time I <NS type="TV"><i>get</i><c>got</c></NS> back from <NS type="UD"><i>the</i></NS> school. I always had my own key and <NS type="TV"><i>unlock</i><c>unlocked</c></NS> the door by myself.</p>
+          <p>It was a horrible day, the day I <NS type="TV"><i>had left</i><c>left</c></NS> my key at home! There was nobody to let me in, <NS type="RP"><i>noway</i><c>no way</c></NS> to contact <NS type="UT"><i>with</i></NS> my parents. What I decided to do was <NS type="FV"><i>getting</i><c>to get</c></NS> into the house by climbing <NS type="RY"><i>up</i><c>on</c></NS> the roof because I knew one of the windows was unlocked. First, I climbed the tree in the garden. It was okay, <NS type="S"><i>beause</i><c>because</c></NS> I was quite good at that, but the problem was that I had to jump onto the roof! It had been raining, the previous day, so the roof was <NS type="S"><i>slippy</i><c>slippery</c></NS>! I managed to do that although I cut my knee! I walked on the roof carefully, <NS type="M"><c>so as</c></NS> not to slip. I was extremely happy when I got into the house. It was a scary, but thrilling and exciting incident!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

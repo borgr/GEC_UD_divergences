@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR927*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>16-20</age></personnel><score>32.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p><NS type="ID"><i>Dear Sir/Manager</i><c>Dear Sir/Madam</c></NS>,</p>
+          <p>During my visit to London, I had the opportunity to visit the Circle Theatre and to see 'Over the Rainbow'. To my dismay the musical was nothing compared to what I had expected, as it completely contradicted <NS type="UT"><i>to</i></NS> the advertisement.</p>
+          <p>Firstly, despite the advertisement stating that Danny Brook was starring, another actor <NS type="TV"><i>was starring</i><c>starred</c></NS> in the actual show and his performance was <NS type="RY"><i>literally</i><c>absolutely</c></NS> horrible, and disappointing.</p>
+          <p>Secondly the <NS type="RN"><i>starting time</i><c>start</c></NS> of the show was far from punctual. <NS type="AS"><i>I had gone to the show which according to the advertisement</i><c>According to the advertisement, the show which I had gone to</c></NS> was supposed to begin at 19:30, but the show did not start until 20:15.</p>
+          <p>In the advertisement, it said that discounts were available. Despite this the ticket vendors explicitly told me that there were no discounts to be <NS type="RV">offered</NS>.</p>
+          <p>According to the advertisement, the audience were free to go to the theatre restaurant after the show. However<NS type="MP"><c>,</c></NS> by the time the show had ended the restaurant was closed.</p>
+          <p>I was further humiliated by the irony of the advertisement<NS type="MP"><c>,</c></NS> <NS type="MA"><c>which</c></NS> <NS type="TV"><i>stating</i><c>stated</c></NS> that it would be my 'perfect evening out', when it was <NS type="RY"><i>totally</i><c>quite</c></NS> the opposite.</p>
+          <p>I hope you understand my disappointment. In addition, <NS type="ID"><i>as a way of compensation</i><c>by way of compensation</c></NS>, I would like to have a refund, and <NS type="MD"><c>an</c></NS> <NS type="RN"><i>justification</i><c>explanation</c></NS> for <NS type="R">such a show</NS>.</p>
+          <p>Yours <NS type="RY"><i>Sincerely</i><c>Faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology <NS type="TV"><i>change</i><c>changed</c></NS> your daily life?</p>
+          <p>During these past few decades, or rather<NS type="UP"><i>,</i></NS> <NS type="MT"><c>in</c></NS> the 20th century, there has been a <NS type="R"><i>significant</i><c>great deal of</c></NS> <NS type="S"><i>developement</i><c>development</c></NS> in modern technology.</p>
+          <p>One of the essential <NS type="AGN"><i><NS type="S"><i>developement</i><c>development</c></NS></i><c>developments</c></NS> <NS type="TV"><i>is</i><c>has been</c></NS> <NS type="MT"><c>in</c></NS> <NS type="RD"><i>the</i><c>our</c></NS> <NS type="RN"><i>form</i><c>means</c></NS> of transportation. The invention of cars<NS type="MP"><c>,</c></NS> planes, trains and other similar forms of transportation <NS type="AGV"><i>have</i><c>has</c></NS> enabled us to go from one place to another <NS type="ID"><i>with no time</i><c>in no time</c></NS>. This enables us to save <NS type="MD"><c>a</c></NS> great deal of time and effort. Quite recently, in my country <NS type="RJ"><i>electrical</i><c>electric</c></NS> bicycles have been invented. This<NS type="MP"><c>,</c></NS> compared to the traditional bicycle<NS type="MP"><c>,</c></NS> is less physically <NS type="RJ"><i>painstaking</i><c>demanding</c></NS> and less <NS type="MP"><i>time consuming</i><c>time-consuming</c></NS> and therefore lets me travel to my destination <NS type="R"><i>in <NS type="MD"><c>a</c></NS> small amount of time</i><c>quickly</c></NS> with hardly <NS type="RQ"><i>no</i><c>any</c></NS> effort at all. This has made my life easier. On the other hand, I feel as though I am becoming lazier and exercising less.</p>
+          <p>Another significant technological <NS type="S"><i>developement</i><c>development</c></NS> is the <NS type="RN"><i>creation</i><c>invention</c></NS> of electrical appliances. There are many indispensable electrical appliances<NS type="MP"><c>,</c></NS> such as television, radio, fax machines, and microwaves. What changed my life most <NS type="AGV"><i>is</i><c>are</c></NS> portal computers. They are particularly useful for someone like me who <NS type="W"><i>travels often</i><c>often travels</c></NS>. Before I used computers <NS type="RY">generally</NS>, <NS type="RP"><i>It</i><c>it</c></NS> took so much time for me to <NS type="FV"><i>looking</i><c>look</c></NS> up words in a dictionary and <NS type="FV"><i>looking</i><c>look</c></NS> up <NS type="UT"><i>for</i></NS> information. With a computer<NS type="MP"><c>,</c></NS> however, all this is done in <NS type="RD"><i>the</i><c>a</c></NS> matter of seconds. This again enables people to save time.</p>
+          <p><NS type="UD"><i>The modern</i><c>Modern</c></NS> technology helps people in many ways and is <NS type="S"><i>indespensible</i><c>indispensable</c></NS>. However<NS type="MP"><c>,</c></NS> if we rely on it too much, we could become lazy and apathetic and<NS type="MP"><c>,</c></NS> as a result, <NS type="TV"><i>would</i><c>will</c></NS> not be able to live without <NS type="AGA"><i>them</i><c>it</c></NS> once <NS type="AGA"><i>they</i><c>it</c></NS> <NS type="AGV"><i>are</i><c>is</c></NS> gone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

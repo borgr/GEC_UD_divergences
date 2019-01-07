@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1093*0100*2000*01">
+  <candidate><personnel><language>Thai</language><age>&lt;16</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I have <NS type="S"><i>recieved</i><c>received</c></NS> your letter and I am so glad I have won the first prize. I have answers to your questions. I would like to travel in July because it is the perfect time for me to go on holiday because the 12th <NS type="MT"><c>of</c></NS> July is my birthday. I want to sleep in tents because I think it's more adventurous <NS type="MT"><c>with</c></NS> better scenery, and atmosphere.</p>
+          <p>You also asked me about the two things I'm good at<NS type="RP"><i>, well</i><c>. Well</c></NS>, the first one is basketball. I have been playing basketball for <NS type="CL"><i>roughly about</i><c>roughly</c></NS> 4 years. I love basketball because I'm good at it and it is my favourite sport. The other thing I'm good at is tennis. I have been <NS type="RV"><i><NS type="S"><i>practcing</i><c>practising</c></NS></i><c>playing</c></NS> tennis for 2 years and I won the Under <NS type="MP"><i>16</i><c>16's</c></NS> U.S open <NS type="RN"><i>tour</i><c>tournament</c></NS> last summer.</p>
+          <p>Last of all I have questions to ask you. <NS type="TV"><i>Would</i><c>Will</c></NS> I have to bring many clothes <NS type="RP"><i>e.g.</i><c>i.e.</c></NS> <NS type="TV"><i>would</i><c>will</c></NS> we do a lot of outdoor activities, get dirty etc<NS type="RP"><i>.</i><c>?</c></NS> <NS type="TV"><i>Would</i><c>Will</c></NS> I need a lot of money<NS type="RP"><i>.</i><c>?</c></NS> Looking forward to <NS type="FV"><i>see</i><c>seeing</c></NS> you soon.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>This composition is about shopping. People today <NS type="AGV"><i>shops</i><c>shop</c></NS> <NS type="RP"><i>sevendays</i><c>seven days</c></NS> a week with their family, friends etc. But I think shopping is not always enjoyable. This statement is <NS type="R">due to</NS> the great amount of rubbish we are <NS type="RV"><i>providing for</i><c>producing in</c></NS> the world. The more stuff we buy<NS type="MP"><c>,</c></NS> the more we throw away.</p>
+          <p>Shopping with some friends may be fun but you must also remember that you are spending money. <NS type="S"><i>Therefor</i><c>Therefore</c></NS> you should think more carefully about what you are about to buy.</p>
+          <p>You can enjoy yourself in other different ways. For example, you can do sports<NS type="MP"><c>,</c></NS> which <NS type="AGV"><i>is</i><c>are</c></NS> enjoyable and good for your health. Would you rather spend money on something which is destroying the world or do sports<NS type="MP"><c>,</c></NS> which <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="R"><i>for your own benefit</i><c>good for you</c></NS>.</p>
+          <p>You must think about your children<NS type="MP"><c>,</c></NS> who <NS type="TV"><i>would</i><c>will</c></NS> be living in the world you helped to destroy. The ozone layer is being punctured when plastics or foams are burnt.</p>
+          <p>I think this is all I have to say to make you think that shopping isn't always enjoyable and change your <NS type="FN"><i>view</i><c>views</c></NS> <NS type="R"><i>in looking at</i><c>regarding</c></NS> shopping.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

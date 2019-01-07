@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR267*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam</p>
+          <p>I am writing to complain about the musical show which is called OVER THE RAINBOW. I saw the show on <NS type="MD"><c>the</c></NS> 17th of July.</p>
+          <p>Firstly, the advertisement claimed <NS type="MD"><c>a</c></NS> discount ticket was available. Although I have a student card for discounts I could not get any discount. So I had to buy a normal ticket.</p>
+          <p>Secondly, I bought a second musical show ticket which <NS type="TV"><i>start</i><c>started</c></NS> at 19:30 but it started at 20:15. As a result, I had to wait over one hour as I arrived there at 19:00.</p>
+          <p>Thirdly, your advertisement <NS type="RV"><i>misled</i><c>said</c></NS> I could see Danny Brook<NS type="W"><i> in the show who I adore</i><c>, who I adore, in the show</c></NS>. When I turned up <NS type="MT"><c>for</c></NS> the show, there was another actor instead of him.</p>
+          <p>Fourthly, after the show the theatre restaurant was closed because of <NS type="UP"><i>it's</i><c>its</c></NS> problems. <NS type="CE">But I could go evening out.</NS></p>
+          <p>To sum up, I believe your advertisement completely misled <NS type="MA"><c>me</c></NS>. So I am fully entitled to ask for <NS type="MD"><c>a</c></NS> refund <NS type="R">except for evening out.</NS></p>
+          <p>I hope this matter will <NS type="S"><i>recieve</i><c>receive</c></NS> your prompt attention.</p>
+          <p>yours faithfully</p>
+          <p>BO-PHAT SUN (MS)</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p><NS type="RY"><i>Nowadays</i><c>In recent years</c></NS>, mordern technology has <NS type="W"><i>increasingly been developing</i><c>been developing increasingly</c></NS>. We get many advantages which <NS type="UV"><i>make</i></NS> improve our <NS type="W"><i>lives daily</i><c>daily lives</c></NS>, <NS type="ID"><i>on the other hands</i><c>on the other hand</c></NS>, we <NS type="W"><i>get also</i><c>also get</c></NS> many disadvantages which could harm us.</p>
+          <p>In my opinion, the main advantage is <NS type="MD"><c>the</c></NS> <NS type="DN"><i>developing</i><c>development</c></NS> of medical technology. For example, if you were hurt seriously like cutting <NS type="MA"><c>your</c></NS> leg <NS type="MY"><c>off</c></NS>, the new medical technology could <NS type="FV"><i>rebuilit</i><c>rebuild</c></NS> part of your body. Another advantage is sharing information. The more <NS type="RJ"><i>developing</i><c>developed</c></NS> the technology is, the quicker and easier international networking is. So at the same time many people can share some information even though they live in different <NS type="AGN"><i>country</i><c>countries</c></NS>.</p>
+          <p>In contrast, the technology can cause <NS type="UD"><i>a</i></NS> pollution. By developing <NS type="UT"><i>of</i></NS> transport, we can get wherever <NS type="RA"><i>you</i><c>we</c></NS> want to go easily, however it could cause serious air pollution like acid-rain and smog. Also we should be careful as we could be watched by security <NS type="FN"><i><NS type="S"><i>carmera</i><c>camera</c></NS></i><c>cameras</c></NS> which <NS type="AGV"><i>has</i><c>have</c></NS> been combined with <NS type="S"><i>mordern</i><c>modern</c></NS> technology.</p>
+          <p>In <NS type="S"><i>conculsion</i><c>conclusion</c></NS>, <NS type="CE">I conciderly said we has been charged by morder technology</NS> in two <NS type="AGN"><i>way</i><c>ways</c></NS>. One is <NS type="MD"><c>an</c></NS> advantage and the other is <NS type="MD"><c>a</c></NS> disadvantage. And it will change our lives, also in the future.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

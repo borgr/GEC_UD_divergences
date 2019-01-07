@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR72*0102*2000*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>24.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>Ref: Over the rainbow musical show.</p>
+          <p>I am writing to you to mention some problems about the musical show shown in your theatre.</p>
+          <p>First of all, it was supposed to be starring Danny Brook and Tina Truelove but in <NS type="RD"><i>a</i><c>the</c></NS> real show, it wasn't. Because I'm big fan of them, <NS type="SX"><i>if</i><c>it</c></NS> was pretty <NS type="UY"><i>much</i></NS> boring without them and not to mention that it was disappointing.</p>
+          <p>It didn't start at 19:30 and there was a delay for 45 minutes which was quite a long time and everyone got frustrated.</p>
+          <p>The tickets also caused a problem. Discounts weren't available at all. Moreover<NS type="MP"><c>,</c></NS> the <NS type="RN"><i>testament</i><c>restaurant</c></NS> was <NS type="RY"><i>till</i><c>still</c></NS> under <NS type="UD"><i>the</i></NS> construction so that we couldn't use it when we were <NS type="S"><i>extlemely</i><c>extremely</c></NS> hungry.</p>
+          <p><NS type="R">Finally, I wonder why you didn't ask for the money back if you have guaranteed the perfect evening.</NS></p>
+          <p>I am therefore writing to you to ask for the money back as I didn't get any advantages or services from you.</p>
+          <p>I am looking forward to hearing from you as soon as possible.</p>
+          <p>Yours faithfully,</p>
+          <p>L. P. Lou</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Technology has been <NS type="FV"><i>developed</i><c>developing</c></NS> extremely fast these days and as it is still going on, it can't help affecting our lives.</p>
+          <p>One of the <NS type="IJ"><i>biggist</i><c>biggest</c></NS> <NS type="AGN"><i>thing</i><c>things</c></NS> <NS type="MA"><c>that</c></NS> <NS type="AGV"><i>has</i><c>have</c></NS> changed is <NS type="RD"><i>a</i><c>the</c></NS> change in <NS type="RD"><i>a</i><c>the</c></NS> <NS type="FN"><i>method</i><c>methods</c></NS> of <NS type="FN"><i>communications</i><c>communication</c></NS>. People have invented such things <NS type="RT"><i>like</i><c>as</c></NS> TV, radio, telephones and so on which made us <NS type="DJ"><i>enable</i><c>able</c></NS> to hear the news quickly and stay in touch with people easily.</p>
+          <p>There are also changes in biological areas. <NS type="AS">Nearly <NS type="DQ"><i>almost</i><c>all</c></NS> of the <NS type="AGN"><i>disease</i><c>diseases</c></NS> have been found the way to cure</NS> except <NS type="UY"><i>only</i></NS> a few like AIDS. It helped us to live longer and make us stronger against them.</p>
+          <p>I have mentioned <NS type="MD"><c>a</c></NS> few changes above but there's still <NS type="RD"><i>a</i><c>the</c></NS> <NS type="IJ"><i>biggist</i><c>biggest</c></NS> one left<NS type="MP"><c>,</c></NS> which is <NS type="RT"><i>about</i><c>related to</c></NS> <NS type="RN"><i>computer areas</i><c>the field of computers</c></NS>. It helped us to be able to work much <NS type="IY"><i>more quicker</i><c>more quickly</c></NS> and accurately than before with the help of <NS type="MD"><c>the</c></NS> Internet.</p>
+          <p>Basically<NS type="MP"><c>,</c></NS> modern technology has <NS type="RV"><i>changed</i><c>made</c></NS> our life more <NS type="DJ"><i>comfortably</i><c>comfortable</c></NS> but there are some disadvantages such as lack of friendship, togetherness because of people staying in their house being on the Internet for <NS type="MD"><c>the</c></NS> whole day. But we still have to admit that we can't live without them even <NS type="MC"><c>though</c></NS> they give us some disadvantages.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

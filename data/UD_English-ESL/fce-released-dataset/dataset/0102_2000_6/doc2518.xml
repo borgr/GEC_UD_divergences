@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1022*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing this letter in order to express my disappointment <NS type="RT"><i>about</i><c>with</c></NS> your theatre.</p>
+          <p><NS type="RT"><i>On</i><c>In</c></NS> the advertisement<NS type="UP"><i>,</i></NS> that I <NS type="TV"><i>have received</i><c>received</c></NS>, it was written that the show would start at 19:30 but I kept <NS type="S"><i>wainting</i><c>waiting</c></NS> for it to start for half an hour. And there were no discounts available either, unlike <NS type="RA"><i>it</i><c>what</c></NS> was written in the same advertisement.</p>
+          <p>Another disappointing point was that I wanted to <NS type="RV"><i>watch</i><c>see</c></NS> Danny Brook so much and it was written that he was acting in the show, but unfortunately the man on the stage was not him. And the actor's performance was terrible.</p>
+          <p>And finally, after the show I went to the theatre restaurant to have something to eat, but it was closed because of restoration. There was no notice about it in your advertisement.</p>
+          <p>Because of all these reasons, which I have listed above, my evening<NS type="MP"><c>,</c></NS> which should have been perfect, turned into a disaster. So I would like to have at least some of my money back as soon as possible.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. And now the situation was becoming harder to <NS type="RV"><i>get on</i><c>put up</c></NS> with. <NS type="ID"><i>On one side</i><c>On the one hand</c></NS> it was her best friend who wanted her to keep this secret. But <NS type="ID"><i>on the other side</i><c>on the other hand</c></NS> it was her best friend's family<NS type="UP"><i>,</i></NS> that she must lie to.</p>
+          <p>Her best friend was going out with a boy that night, <NS type="RP"><i>And</i><c>and</c></NS> she <NS type="TV"><i>told</i><c>had told</c></NS> her parents that she was going to stay at Pat's house, in order to get permission.</p>
+          <p>So Pat could not decide what to do. She did not trust the boy, and it was very hard for her to lie to people<NS type="UP"><i>,</i></NS> that she liked so much. And she realized that if something <NS type="TV"><i>happens</i><c>happened</c></NS> to her best <NS type="SX"><i>fried</i><c>friend</c></NS>, it would be her fault and her best friend's parents would blame her for it. She knew she would be very sorry too.</p>
+          <p>So she decided to call the parents of her best friend and tell them what was going on. Of course, her best friend would never trust her again and never share any secrets, but she was doing this for her best <NS type="MP"><i>friends</i><c>friend's</c></NS> sake, wasn't she?</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

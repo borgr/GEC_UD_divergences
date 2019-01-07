@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR135*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>June, 13th 2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am writing in response to your letter which said that I won the first prize in the competition.</p>
+          <p>As I didn't expect to be successful, I am very happy about this result.</p>
+          <p>I would now like to <NS type="RV"><i>answer</i><c>provide</c></NS> the information you requested. Firstly, I would be pleased if I could travel in July as I already booked this month as a holiday at work.</p>
+          <p><NS type="UT"><i>Besides,</i></NS> I would prefer to stay in a tent since I have never had the exciting experience <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to sleep</i><c>sleeping</c></NS> <NS type="R"><i>in the middle of</i><c>close to</c></NS> <NS type="UD"><i>the</i></NS> nature.</p>
+          <p>I am especially glad about the activities <NS type="TV"><i>offers</i><c>offered</c></NS>, in particular the sports facilities because I <NS type="TV"><i>was <NS type="S"><i>spezialised</i><c>specialised</c></NS></i><c>specialised</c></NS> in sport for my A-levels and intend to become a <NS type="DJ"><i>sport</i><c>sports</c></NS> teacher.</p>
+          <p>I have been playing <NS type="RP"><i>Basketball</i><c>basketball</c></NS> for many years but I would appreciate <NS type="FV"><i>to improve</i><c>improving</c></NS> my skills, in particular <NS type="R"><i>the</i><c>my</c></NS> <NS type="RP"><i>ball-handling</i><c>ball handling</c></NS>.</p>
+          <p>Furthermore I am really keen on swimming and can therefore hardly <NS type="RV"><i>await</i><c>wait</c></NS> <NS type="FV"><i>having</i><c>to have</c></NS> the <NS type="RN"><i>possibility</i><c>opportunity</c></NS> to learn the butterfly as a new style since I am already perfect <NS type="RT"><i>in</i><c>at</c></NS> <NS type="MD"><c>the</c></NS> crawl.</p>
+          <p>I know I have already asked a lot but there is one more thing I need to know<NS type="RA"><i><NS type="RP"><i> which</i><c>.  Which</c></NS></i><c>.  What</c></NS> kind of clothes will be appropriate and how much money will I <NS type="W"><i>approximately need</i><c>need approximately</c></NS>?</p>
+          <p>I trust I mentioned all the requested details and am now looking forward to hearing from you to arrange the exact date of departure.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>June, 13th 2000</p>
+          <p>Dear Kim,</p>
+          <p><NS type="RP"><i>how</i><c>How</c></NS> are you doing? Thanks for your latest letter - I was really happy about your news!</p>
+          <p>Here, everything is as usual: <NS type="RP"><i>School</i><c>school</c></NS>, studying, eating, sleeping - but did I tell you about my latest job?</p>
+          <p>I helped at a <NS type="W"><i>pop concert of a <NS type="R"><i>newcomer</i><c>new</c></NS> group</i><c>new group's pop concert</c></NS> and you can't imagine how exciting it was!</p>
+          <p>First of all, I helped selling tickets and drinks and there I realized how bad my maths is - I took such a long time to give back the change! But <NS type="RY"><i>at the end</i><c>in the end</c></NS> I handled it almost automatically. Before the performance I <NS type="RV"><i>introduced</i><c>led</c></NS> the spectators to their seats and then <NS type="FD"><i>a</i><c>an</c></NS> instructor showed me how <NS type="RV">to lead</NS> the spotlights. I really had butterflies in my stomach when I was responsible for the <NS type="DN"><i>lightening</i><c>lighting</c></NS>! It was marvellous!</p>
+          <p>But the cherry on the cake was that I met one of the handsome singers <NS type="RP"><i>back stage</i><c>backstage</c></NS>! He asked me what I was doing and so on and finally invited me <NS type="RT"><i>for</i><c>to</c></NS> his next concert! Of course I agreed - I wouldn't want to miss the chance to gain experience while having fun! Perhaps I could help regularly in the <NS type="DN"><i>lightening</i><c>lighting</c></NS> area - it would help me <NS type="RT"><i>for</i><c>with</c></NS> my <NS type="W"><i>studies of photography</i><c>photography studies</c></NS>. What do you reckon?</p>
+          <p>I can hardly <NS type="RV"><i>await</i><c>wait for</c></NS> your reply!</p>
+          <p><NS type="UP"><i>Lot's</i><c>Lots</c></NS> of Love,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

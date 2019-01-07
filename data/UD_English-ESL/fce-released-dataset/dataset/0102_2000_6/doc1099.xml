@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR445*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear<NS type="UP"><i>,</i></NS> Sir/Madam</p>
+          <p>I am Writing this letter to <NS type="RV"><i>say</i><c>express</c></NS> my dissatisfaction <NS type="RT"><i>of</i><c>with</c></NS> your <NS type="RN"><i><NS type="S"><i>entertament</i><c>entertainment</c></NS></i><c>show</c></NS>.</p>
+          <p>Last week I was on holiday and I went to The Circle Theatre to see <NS type="RP"><i>over the rainbow</i><c>Over The Rainbow</c></NS><NS type="M"><c>, the</c></NS> musical. I was really looking forward to seeing it, because I like <NS type="FN"><i>musical</i><c>musicals</c></NS> and also I like Danny Brook. However, the <NS type="SX"><i>reading</i><c>leading</c></NS> actor was not him! Of course, I was so disappointed. The actor was not famous for his acting.</p>
+          <p>Also the musical did not start on time<NS type="RP"><i>, it</i><c>. It</c></NS> was <NS type="W"><i>late thirty <NS type="S"><i>minuts</i><c>minutes</c></NS></i><c>thirty minutes late</c></NS>. We just sat on <NS type="RD"><i>the</i><c>our</c></NS> <NS type="FN"><i>seat</i><c>seats</c></NS> <NS type="R"><i>and</i><c>with</c></NS> nothing to do.</p>
+          <p>I was going to a restaurant with my friends after the musical, but the musical finished at ten thirty. It was too late and we could not have <NS type="UD"><i>a</i></NS> dinner. If the musical had started on time, we could have eaten in the restaurant.</p>
+          <p><NS type="S"><i>Fathermore</i><c>Furthermore</c></NS>, <NS type="X"><i>discounts <NS type="AGV"><i>was</i><c>were</c></NS> unavailable</i><c>no discounts were available</c></NS><NS type="RP"><i>. Even</i><c>, even</c></NS> though we had a student card. In the advertisement they said that <NS type="FN"><i>tickets</i><c>ticket</c></NS> discounts <NS type="MV"><c>were</c></NS> available. I think it <NS type="MV"><c>is</c></NS> a <NS type="DN">bombastic</NS>. Anyway I was so <NS type="DJ"><i>unpleasement</i><c>unhappy</c></NS>. It was not <NS type="MD"><c>a</c></NS> marvellous evening. Could you <NS type="RV"><i>back</i><c>return</c></NS> my money please? You have <NS type="MD"><c>a</c></NS> <NS type="S"><i>responsoiblity</i><c>responsibility</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> the audiences.</p>
+          <p>I am looking forward to hearing from you.</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed your daily life?</p>
+          <p>My life <NS type="AGV"><i>have</i><c>has</c></NS> been changed by technological <NS type="RN"><i><NS type="RN"><i>improving</i><c>improvements</c></NS></i><c>advances</c></NS>. Nowadays<NS type="RP"><i>. We</i><c>, we</c></NS> have so many technological things. For instance, TV, computers, <NS type="FN"><i>telephone</i><c>telephones</c></NS>, <NS type="DN"><i>air-conditionings</i><c>air conditioners</c></NS>. These things are very <NS type="DJ"><i><NS type="S"><i>convinience</i><c>convenience</c></NS></i><c>convenient</c></NS><NS type="MP"><c>;</c></NS> on the other hand, there <NS type="MV"><c>are</c></NS> lots of <NS type="DN"><i>disadvantage <NS type="AGN"><i>point</i><c>points</c></NS></i><c>disadvantages</c></NS>.</p>
+          <p>I have my own TV in my room and I enjoy watching TV <NS type="RP"><i>everyday</i><c>every day</c></NS>. However, I need balance. If I watch TV too much I might not speak to my family <NS type="MY"><c>very</c></NS> often. <NS type="R">It will lack of communication</NS>. In addition, it is difficult <NS type="FV"><i>turn</i><c>to turn</c></NS> it off. I think I should cut down <NS type="MT"><c>on</c></NS> watching TV. Sometimes it <NS type="M"><c>is a</c></NS> waste of time.</p>
+          <p>What about computers? <NS type="AGA"><i>It</i><c>They</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> very useful too. I am living in London, but my father lives in Taiwan and my mother lives in Tokyo.</p>
+          <p>I sometimes want to hear their voice on the telephone. <NS type="S"><i>Unfourtunately</i><c>Unfortunately</c></NS> it is not so cheap. If I use e-mail <NS type="M"><c>it is</c></NS> much easier and cheaper. And I can send e-mail anytime.</p>
+          <p>If I <NS type="MV"><c>were</c></NS> addicted <NS type="RT"><i>on</i><c>to</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS>, it <NS type="TV"><i>will</i><c>would</c></NS> be <NS type="MD"><c>a</c></NS> problem. I do not want to spend much time <NS type="RT"><i>with</i><c>on</c></NS> computers.</p>
+          <p>In conclusion<NS type="RP"><i>.</i><c>,</c></NS> people<NS type="MP"><c>,</c></NS> <NS type="FV"><i>include</i><c>including</c></NS> me<NS type="MP"><c>,</c></NS> need balance. We must be good at using computers.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

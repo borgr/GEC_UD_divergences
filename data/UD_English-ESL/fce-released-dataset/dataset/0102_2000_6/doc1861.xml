@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR714*0102*2000*01">
+  <candidate><personnel><language>French</language><age>41-50</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>The Manager of the Theatre Dear Sir, I am writing to you so as to express my great disappointment about the Musical Show "Over the Rainbow," <NS type="MA"><c>which</c></NS> I attended <NS type="UT"><i>to</i></NS><NS type="UP"><i>,</i></NS> a fortnight ago. To begin with, never have I been so upset <NS type="MC"><c>as</c></NS> when I realized that the <NS type="W"><i><NS type="MA"><c>I</c></NS> expected famous actor</i><c>famous actor I expected</c></NS><NS type="MP"><c>,</c></NS> Danny Brook, <NS type="RV"><i>did</i><c>would</c></NS> not show up at the performance and that he had been shamefully replaced by an unknown actor whose performance was<NS type="UP"><i>,</i></NS> quite mediocre. Your advertisement for the show contains further <NS type="AGN"><i>inaccuracy</i><c>inaccuracies</c></NS>; this <NS type="RN"><i>entertainment</i><c>show</c></NS> did not <NS type="S"><i>sart</i><c>start</c></NS> at 19.30 p.m but only at 20.15. <NS type="RP"><i>More over</i><c>Moreover</c></NS>, I was looking forward to getting a <NS type="RN"><i>reduction</i><c>discount</c></NS> on the <NS type="RN"><i>pricing</i><c>price</c></NS> <NS type="M"><c>of the ticket</c></NS> as<NS type="UP"><i>,</i></NS> indicated <NS type="RT"><i>on</i><c>in</c></NS> your adverts, but <NS type="RA"><i>I</i><c>that</c></NS>, once again, fell flat. Indeed, it <NS type="MC"><c>so</c></NS> happened that this was not the case at all. Additionally, I could not even enjoy having a drink, after the show, in the Theatre Restaurant as it was simply closed for renovation. "A Perfect evening out"!? Not at all. Under these circumstances, as your Theatre did not <NS type="S"><i>fullfil</i><c>fulfil</c></NS> its commitments, I ask you for a full refund and I expect to receive a cheque <NS type="RT"><i>of</i><c>for</c></NS> £15, as soon as possible Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. I had <NS type="RV"><i>made</i><c>had</c></NS> my own experience with her <NS type="RY"><i>so far</i><c>already</c></NS> and I would <NS type="W"><i>be always</i><c>always be</c></NS> careful not to tell her anything important <NS type="RP"><i>when ever</i><c>whenever</c></NS> we met.</p>
+          <p>As<NS type="UP"><i>,</i></NS> Pat had recently made a new friend<NS type="MP"><c>,</c></NS> <NS type="UT"><i>with</i></NS> Olga, my sister, I warned my sibling about Pat's failing: "Don't ever rely on Pat <NS type="UT"><i>for</i></NS> <NS type="FV"><i>keeping</i><c>to keep</c></NS> a secret, <NS type="UP"><i>Sweet-Heart</i><c>sweetheart</c></NS>; she just can't"! Mind what you <NS type="UV"><i>may</i></NS> tell her; she can make the worst of it; gossiping <NS type="UT"><i>around</i></NS> is her <NS type="SA"><i>favorite</i><c>favourite</c></NS> leisure activity!</p>
+          <p>However, I guess that Olga <NS type="ID"><i>turned a deaf hear</i><c>turned a deaf ear</c></NS> to what I had told her. <NS type="RA"><i>This</i><c>That</c></NS> is the impression I got.</p>
+          <p>A couple of weeks later, my sister called me <NS type="R"><i>as</i><c>when</c></NS> I was at work; completely devastated and <NS type="S"><i>weaping</i><c>weeping</c></NS> scalding tears, she could<NS type="UP"><i>,</i></NS> hardly pronounce a word. I didn't say anything and let her go on grieving <NS type="RT"><i>over</i><c>by</c></NS> herself. After a while, she pulled herself together and paused for a minute. I could then, <NS type="R">feel her,</NS> upset as ever. I could get her <NS type="U"><i>as well</i></NS> <NS type="FV"><i>simmer</i><c>to simmer</c></NS> for a second or two then she suddenly <NS type="S"><i>sarted</i><c>started</c></NS> shouting uncontrollably: - "Never have I met such a poor cow like Pat", <NS type="W"><i>hurled Olga</i><c>Olga hurled</c></NS> <NS type="MA"><c>this</c></NS> at me<NS type="UP"><i>,</i></NS> <NS type="RT"><i>through</i><c>down</c></NS> the phone. Then I woke up; well, I shall never know what happened to the "poor cow"!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

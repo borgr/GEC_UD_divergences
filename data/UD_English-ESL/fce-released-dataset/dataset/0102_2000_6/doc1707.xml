@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR674*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>I am writing with reference to <NS type="FD"><i>an</i><c>a</c></NS> <NS type="RN"><i>arrangement</i><c>visit</c></NS> I made <NS type="RT"><i>for</i><c>to</c></NS> your theatre <NS type="UN"><i>show</i></NS> last week.</p>
+          <p>I have to admit that it was not as I expected; First of all, the main reason I went to see "Over the Rainbow" was its actor, Danny Brook. It was very disappointing when I realised he wasn't <NS type="RT"><i>in</i><c>on</c></NS> the <NS type="RN"><i>scene</i><c>stage</c></NS>. <NS type="DY"><i>Beside</i><c>Besides</c></NS> this, I had to wait three quarters of <NS type="MD"><c>an</c></NS> hour before the show started. During this time, I decided to have a drink in the restaurant but, as well as being closed, there was <NS type="X">no</NS> nobody from the staff that could help me. I couldn't believe it! I would never have imagined this could happen in such a well-known theatre. Furthermore, you talk about discounts in your leaflets and <NS type="RA"><i>they</i><c>there</c></NS> were <NS type="X"><i>no</i><c>none</c></NS> available, so, it was an expensive evening!</p>
+          <p>I know you will understand my frustration and that's why I would like a total refund of my money or at least another ticket that <NS type="R">goes with my wishes</NS>.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Pat wasn't very good at keeping secrets. However, she was a close friend and I couldn't accuse her of <NS type="X"><i>nothing</i><c>anything</c></NS> else.</p>
+          <p>I won't <NS type="RY"><i>never</i><c>ever</c></NS> forget the day the doctor told me and my Mum the <NS type="S"><i>thruth</i><c>truth</c></NS> <NS type="RT"><i>of</i><c>about</c></NS> my strange disease. He just said there weren't resources to <NS type="RV"><i>face</i><c>cure</c></NS> it at that moment but... I <NS type="IV"><i>bursted</i><c>burst</c></NS> into <NS type="RN"><i>teas</i><c>tears</c></NS> as <NS type="R"><i>well as</i><c>did</c></NS> my Mother. It seemed the end of something lovely<NS type="MP"><c>,</c></NS> step by step. I <NS type="RV"><i>got</i><c>became</c></NS> conscious of my problem and despite being a personal matter I decided to <NS type="AS"><i>tell it to Pat</i><c>tell Pat about it</c></NS>. I still remember her words: "Don't worry about anything. My lips are sealed".</p>
+          <p>I <NS type="AS"><i>do really trusted</i><c>really did trust</c></NS> her when three days after I went to school and I could <NS type="RV"><i>appreciate</i><c>see</c></NS> I was <NS type="ID"><i>catching the eyes</i><c>drawing the attention</c></NS> of everybody. I couldn't stand being watched and my <NS type="DN"><i>furious</i><c>fury</c></NS> led me straight to Pat. She tried to apologise but it wasn't enough for me. My best friend had let me down.</p>
+          <p>From that moment, I <NS type="RV"><i>denied</i><c>refused</c></NS> <NS type="FV"><i>being</i><c>to be</c></NS> with anyone until I met Cold, a sensitive dog, the one who would keep my secrets <NS type="RP"><i>forever</i><c>for ever</c></NS> and would be near me until the end. Sure!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

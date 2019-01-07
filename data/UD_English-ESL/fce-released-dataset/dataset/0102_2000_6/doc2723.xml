@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1106*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>26-30</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing this letter to you in order to complain <NS type="RT"><i>for</i><c>about</c></NS> the musical show ('Over the Rainbow') that was performed at your theatre last week; <NS type="RY">concretely</NS> on Friday evening.</p>
+          <p>First of all, I should say that I had read fantastic reviews of it in several newspapers, specially regarding the starring actors' superb performances. These were in perfect agreement with my previous opinion <NS type="RT"><i>about</i><c>of</c></NS> your company, which is said to be the best <NS type="RN"><i>exhibitor</i><c>producer</c></NS> of musical shows in Europe. With all these considerations in mind, I <NS type="AS"><i>attended <NS type="MT"><c>on</c></NS> the referred day to your theatre</i><c>attended your theatre on the referred day</c></NS> with the aim of having a perfect evening.</p>
+          <p>However, <NS type="R">nothing was further from what really happened</NS>. <NS type="ID"><i>In the beginning</i><c>To start with</c></NS>, it was impossible to obtain any of the offered discounts, even though I presented an official ISIC card. Then, the audience had to wait 45 minutes <NS type="R"><i>over</i><c>past</c></NS> the announced <NS type="R"><i>timetable</i><c>time of the performance</c></NS> for the show to get started. And finally, when <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="RV"><i>went</i><c>came</c></NS> on, we realised that <NS type="RA"><i>there</i><c>it</c></NS> was not Danny Brook performing, which was really disappointing.</p>
+          <p>I hope you realise this was totally different from what you advertised, and I look forward to hearing from you in the very near future offering me some money back.</p>
+          <p>Yours faithfully,</p>
+          <p>Jaro Santoquez</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Nowadays we can see a very different world from the one our grandparents, or even our parents, were living in. Actually, whereas they used to talk about how their daily <NS type="AGN"><i>life</i><c>lives</c></NS> had changed in comparison with previous generations', we remain astonished<NS type="MP"><c>,</c></NS> looking <NS type="MT"><c>at</c></NS> how our <NS type="IN"><i>lifes</i><c>lives</c></NS> are changing frenetically. We have hardly assimilated <NS type="R"><i>a</i><c>one piece of</c></NS> new technology when it is replaced or modified by another.</p>
+          <p>Electronic devices and 'gadgets' make our daily <NS type="AGN"><i>life</i><c>lives</c></NS> more comfortable and easier, but does <NS type="RA"><i>it</i><c>that</c></NS> <NS type="AGV"><i>means</i><c>mean</c></NS> that we live better than ever? Of course, they have liberated us from a lot of tough routines, giving us the chance to have more <NS type="UP"><i>free-time</i><c>free time</c></NS>.</p>
+          <p>However, instead of enjoying this fantastic opportunity, people have become hooked on technological advances, feeding back their development in an accelerating, <NS type="DJ"><i>non-stopping</i><c>non-stop</c></NS> race.</p>
+          <p>Machines <NS type="W"><i>do now</i><c>now do</c></NS> most of <NS type="MD"><c>the</c></NS> hard work, but this does not mean that we are working less. People spend more and more time working, searching for new inventions that will make life easier, but then fail to profit <NS type="MT"><c>from</c></NS> all the <NS type="W"><i>obtained benefits</i><c>benefits obtained</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1045*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>41-50</age></personnel><score>17.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Ms. Ryan,</p>
+          <p>I am writing to answer <NS type="UT"><i>about</i></NS> your invitation which I have <NS type="S"><i>receved</i><c>received</c></NS> as a first <NS type="MN"><c>prize</c></NS> winner. I <NS type="TV"><i>am</i><c>would be</c></NS> <NS type="RY"><i>very</i><c>really</c></NS> delighted to visit <NS type="UD"><i>the</i></NS> <NS type="W"><i><NS type="MT"><c>for</c></NS> two weeks Camp California in the U.S.A.</i><c>Camp California in the U.S.A. for two weeks</c></NS>.</p>
+          <p>This would be an ideal opportunity for me to visit the United States to learn <NS type="MT"><c>about</c></NS> the American way of life.</p>
+          <p>First of all, I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because I have a lot of work in my company at the moment, so my boss said I can have my <NS type="DN"><i>travel-holiday</i><c>holiday</c></NS> only <NS type="RT"><i>on</i><c>in</c></NS> July.</p>
+          <p>Secondly, I'd <NS type="UV"><i>like to</i></NS> prefer to stay in tents<NS type="RP"><i>, that</i><c>. That</c></NS> would be the first chance for me to sleep on the outskirts of California. It could be very enjoyable. And I would like to choose <NS type="MT"><c>as</c></NS> my activities Golf and painting. I used to play Golf several years <NS type="MY"><c>ago</c></NS> and I like to paint <NS type="RN">the composition</NS>.</p>
+          <p>Last, I have no experience <NS type="RT"><i>in</i><c>of</c></NS> <NS type="MV"><c>travelling</c></NS> abroad. Therefore I'd like to know about the weather in California <NS type="RT"><i>on</i><c>in</c></NS> July. Which clothes should I take? <NS type="RP"><i>May be</i><c>Maybe</c></NS> there are some occasions <NS type="RA"><i>which</i><c>when</c></NS> I have to pay <NS type="MT"><c>for</c></NS> myself. As <NS type="W"><i>above mentioned</i><c>mentioned above</c></NS>, please <NS type="RV">take care</NS> to give me more information, and if you'd like to know more, please telephone me for further discussion.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+          <p>Yuna ARNISTON</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>1.2</exam_score>
+         <coded_answer>
+          <p>Seoul is the capital city of Korea.</p>
+          <p>It is a largish city and has a population of over eight million. I went to school there for twelve years. Many people <NS type="TV"><i>are saying</i><c>say</c></NS>: "When you have a son, send him to Seoul to get a job and to have the chance <NS type="RT"><i>at</i><c>of</c></NS> the best opportunity. There are all kinds of facilities <NS type="RA"><i>what</i><c>which</c></NS> you can imagine.</p>
+          <p>Most of the people<NS type="U"><i>, they</i></NS> like to go to <NS type="MD"><c>the</c></NS> centre of <NS type="MD"><c>the</c></NS> City<NS type="MP"><c>,</c></NS> that's Meong-Dong where <NS type="W"><i>is the <NS type="S"><i>uderground</i><c>underground</c></NS> <NS type="S"><i>acade</i><c>arcade</c></NS></i><c>the underground arcade is</c></NS> and several businesses have their <NS type="IN"><i><NS type="RP"><i>head quarter</i><c>headquarter</c></NS></i><c>headquarters</c></NS> there. There are also many kinds of take-away restaurants, where I can taste my <NS type="SA"><i>favorite</i><c>favourite</c></NS> foods.</p>
+          <p>That doesn't cost much.</p>
+          <p>If I go to visit my family in Korea, I usually walk along the Meong-Dong streets, and <NS type="TV"><i>am enjoying</i><c>enjoy</c></NS> <NS type="RV"><i>to have eye-shopping</i><c>window shopping</c></NS>.</p>
+          <p>But there <NS type="AGV"><i>are</i><c>is</c></NS> <NS type="S"><i>alwalys</i><c>always</c></NS> a lot of traffic at all times, and the air is so polluted that I can't even breathe. I always feel very tired after the shopping because of <NS type="S"><i>unfrendly</i><c>unfriendly</c></NS> people who are too busy.</p>
+          <p>Shopping is not always enjoyable.</p>
+          <p>Yuna ARNISTON</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

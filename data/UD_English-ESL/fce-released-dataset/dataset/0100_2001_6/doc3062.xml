@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE40*0100*2001*01">
+  <candidate><personnel><language>Korean</language><age>16-20</age></personnel><score>34.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>Thank you for your letter. I am writing to give some information on the conference as you <NS type="RV"><i>required</i><c>requested</c></NS>.</p>
+          <p>First of all, your group has been booked into Palace Hotel which is very convenient to stay <NS type="MT"><c>in</c></NS> and has <NS type="MD"><c>a</c></NS> beautiful landscape. I would recommend you get to the conference by subway, because <NS type="MD"><c>the</c></NS> subway station is situated <NS type="UT"><i>in</i></NS> 5 minutes' walk from the hotel. It will take you about 15 minutes to arrive at the college.</p>
+          <p>There will be a party after the conference. We will serve you dinner and some college students are going to sing, play musical instruments and so on, but you can join <NS type="MY"><c>in</c></NS> if you wish. Therefore, you had better wear casual and comfortable clothes.</p>
+          <p>Finally, this area has its reputation for shopping centres, so it might be a good idea to buy some clothes, local food, and so on. You will be able to buy them <NS type="RT"><i>in</i><c>at</c></NS> <NS type="MD"><c>a</c></NS>  reasonable price.</p>
+          <p>I hope you will enjoy your stay in my country. I look forward to meeting all of you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Amusement Centre</p>
+          <p>Introduction</p>
+          <p>The aim of this report is to give information on the Amusement Centre in Seoul. It is based on my experience and on views expressed by local people who were interviewed.</p>
+          <p>Facilities</p>
+          <p>It was found that the Amusement Centre is the most popular building in Seoul to enjoy yourself. There is a wide range of facilities including theatres, game centres, Korean restaurants. In particular, <NS type="UD"><i>the</i></NS> people seemed to be satisfied with <NS type="MD"><c>the</c></NS> theatres, because the screen is massive. The Korean restaurants appeared to be the most popular <NS type="RT"><i>to</i><c>with</c></NS> foreigners.</p>
+          <p>Things to buy</p>
+          <p>It <NS type="TV"><i>seemed</i><c>seems</c></NS> you can buy everything you want <NS type="RT"><i>in</i><c>at</c></NS> <NS type="MD"><c>a</c></NS> reasonable price in the building. <NS type="RY"><i><NS type="S"><i>Especailly</i><c>Especially</c></NS></i><c>In particular</c></NS>, Korean souvenir shops were felt to be extremely cheap. However, you can buy luxurious things as well if you wish.</p>
+          <p>Conclusion</p>
+          <p>In short, the Amusement Centre is <NS type="MD"><c>a</c></NS> fascinating place and it deserves a visit. I would highly recommend this building, because <NS type="W"><i>not only you can</i><c>you <NS type="RP"><i>can not</i><c>cannot</c></NS> only</c></NS> enjoy yourself but also experience Korean culture which might be exotic to foreign visitors.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

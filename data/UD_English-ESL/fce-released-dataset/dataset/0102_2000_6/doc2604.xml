@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR130*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>21-25</age></personnel><score>19.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam The Circle Theatre manager</p>
+          <p>I am writing to complain about your <NS type="RN"><i>product</i><c>show</c></NS>. I would like you to <NS type="RV"><i>back</i><c>return</c></NS> my money because <NS type="R">that was not same as your advertisement</NS>.</p>
+          <p>I was planning to spend my holiday in London when I found your advertisement. In the advertisement, you mentioned actors, time, <NS type="UN"><i>price</i></NS> discount and <NS type="RN"><i>equipment</i><c>facilities</c></NS>.</p>
+          <p>DANNY BROOK is one of my <NS type="SA"><i>favorite</i><c>favourite</c></NS> <NS type="AGN"><i>actor</i><c>actors</c></NS> so I decided to buy a ticket <NS type="RC"><i>even if</i><c>even though</c></NS> I <NS type="TV"><i>cancel</i><c>had to cancel</c></NS> my <NS type="S"><i>apointment</i><c>appointment</c></NS> on that day at <NS type="RP"><i>18=30</i><c>18.30</c></NS> and <NS type="S"><i>aslo</i><c>also</c></NS> <NS type="R">notice of price discount impressed me</NS>. However, when I <NS type="RV"><i>went</i><c>got</c></NS> to the theatre, you <NS type="X"><i>didn't anything not only</i><c>not only didn't have any</c></NS> <NS type="FN"><i>discount</i><c>discounts</c></NS> but also <NS type="TV"><i><NS type="S"><i>apporogize</i><c>apologize</c></NS></i><c>had to apologize</c></NS> <NS type="MT"><c>to</c></NS> us for <NS type="MD"><c>the</c></NS> <NS type="S"><i>dalay</i><c>delay</c></NS> <NS type="RT"><i>of</i><c>in</c></NS> starting <NS type="MD"><c>the</c></NS> musical. In addition <NS type="MD"><c>a</c></NS> different actor appeared on the stage and I couldn't have dinner <NS type="RT"><i>about</i><c>after</c></NS> the musical because the <NS type="S"><i>restrant</i><c>restaurant</c></NS> <NS type="TV"><i>had been</i><c>was</c></NS> closed. It made me so <NS type="DJ"><i><NS type="S"><i>dissapoint</i><c>disappoint</c></NS></i><c>disappointed</c></NS> and angry.</p>
+          <p>You should <NS type="RV"><i>back</i><c>return</c></NS> my money <NS type="S"><i>immedeastry</i><c>immediately</c></NS> because that night was far from <NS type="S"><i>parfect</i><c>perfect</c></NS>.</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Faithfully, </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>He always tried to say nothing and did. But everyone always <NS type="RV"><i>noticed</i><c>saw</c></NS> <NS type="W"><i>he had <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>secrets</i><c>secret</c></NS> from his face</i><c>from his face he had a secret</c></NS>. Whenever he has <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>secrets</i><c>secret</c></NS>, his nose moves quickly. He <NS type="TV"><i>had not liked</i><c>did not like</c></NS> this habit and had thought it was <NS type="FJ"><i><NS type="S"><i>wrost</i><c>worst</c></NS></i><c>bad</c></NS> of him until he solved a big crime.</p>
+          <p>When all <NS type="MD"><c>the</c></NS> money had gone from a bank, <NS type="S"><i>nobady</i><c>nobody</c></NS> <NS type="MV"><c>was</c></NS> there except Pat. <NS type="MD"><i>Bank</i><c>The bank</c></NS> robbers <NS type="RV"><i>said</i><c>told</c></NS> him if Pat told <NS type="R">the fact somebody</NS> they <NS type="TV"><i>killed</i><c>would kill</c></NS> him. So<NS type="RP"><i>.</i><c>,</c></NS> Pat didn't say anything. But his nose moved quickly when <NS type="MD"><c>the</c></NS> police showed <NS type="MA"><c>him</c></NS> a picture of <NS type="MD"><c>the</c></NS> bank robbers.</p>
+          <p>Then <NS type="MD"><c>the</c></NS> police realized who <NS type="AS"><i>were bank robbers</i><c>the bank robbers were</c></NS> and <NS type="S"><i>arested</i><c>arrested</c></NS> them. Although <NS type="MD"><c>the</c></NS> bank robbers complained to Pat, he <NS type="X"><i><NS type="TV"><i>said</i><c>had said</c></NS> nothing to anybody</i><c>hadn't said anything to anybody</c></NS>. He just moved his nose!!</p>
+          <p>Thanks to his habit, he is still alive and all <NS type="MD"><c>the</c></NS> money <NS type="AGV"><i>were</i><c>was</c></NS> <NS type="RV"><i>backed</i><c>returned</c></NS> to the bank. The town became <NS type="DJ"><i>peace</i><c>peaceful</c></NS> again.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

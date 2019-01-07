@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1063*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>31-40</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="RN"><i>Mr</i><c>Sir</c></NS> or Madam,</p>
+          <p>I am writing to express my <NS type="S"><i>dissapointment</i><c>disappointment</c></NS> <NS type="RT"><i>about</i><c>with</c></NS> the play "over the rainbow"<NS type="MP"><c>,</c></NS> which is <NS type="RV"><i>performing</i><c>showing</c></NS> at <NS type="MD"><c>the</c></NS> Circle Theatre.</p>
+          <p>First of all, the advertisement for the show announced Mr. Danny Brook as the principal actor. Surprisingly, he never appeared on the stage<NS type="UP"><i>,</i></NS> during the play. Therefore, the theatre or the company is lying. Secondly, the show started one hour <NS type="MC"><c>and</c></NS> fifteen <NS type="MN"><c>minutes</c></NS> <NS type="R"><i>past after</i><c>late</c></NS>. We arrived at the theatre <NS type="RT"><i>in</i><c>on</c></NS> time and we had to wait all that time until the show began. Finally, when I asked about the discounts, an <NS type="S"><i>agressive</i><c>aggressive</c></NS> employee refused to answer me. He stayed looking at me and laughing. It was incredible. The evening was a horrible surprise, completely different from <NS type="R"><i>the promise written</i><c>what was promised</c></NS> in the advertisement.</p>
+          <p><NS type="S"><i>Defineteley</i><c>Definitely</c></NS>, I want my money back as soon as possible.</p>
+          <p>I am looking forward to hearing from you</p>
+          <p>Yours faithfully</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>"Unfortunately, Pat wasn't very good at keeping secrets." I knew that but I would prefer to trust her so I told <NS type="MA"><c>her</c></NS> everything about Lynne Harter, our new <NS type="RN"><i><NS type="S"><i>collegue</i><c>colleague</c></NS></i><c>classmate</c></NS> at school. However, I have to admit that I told her my own opinion. Well, <NS type="RA"><i>it</i><c>that</c></NS> was the beginning of my tragedy. So, I told Pat that Lynne was ugly, fat like a cow, and extremely <NS type="S"><i>agressive</i><c>aggressive</c></NS>. But I couldn't shut my mouth<NS type="RP"><i>,</i><c>.</c></NS> I continued: "You can't believe it<NS type="MP"><c>,</c></NS> Pat, she wears trousers like <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>men</i><c>man</c></NS> and green flowery blouses<NS type="MP"><c>.</c></NS>" Of course, my friend and I were laughing <NS type="RT"><i>during</i><c>for</c></NS> half an hour. Two days <NS type="RY"><i>after</i><c>later</c></NS>, when Pat came back to my school<NS type="MP"><c>,</c></NS> <NS type="UC"><i>and</i></NS> she met Mr Harter, our head teacher, she told <NS type="MA"><c>him</c></NS> everything about Ann1. <NS type="ID"><i>In that precisely moment</i><c>At precisely that moment</c></NS> I realized that I had forgotten to tell her that Ann was Mr Harter's niece. I know it's my fault. But, well, <NS type="MD"><c>the</c></NS> unhappiness started with Pat and my <NS type="S"><i>reveilled</i><c>revealed</c></NS> secrets.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

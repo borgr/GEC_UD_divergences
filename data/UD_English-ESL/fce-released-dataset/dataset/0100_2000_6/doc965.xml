@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR403*0100*2000*01">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Mrs Ryan,</p>
+          <p>It <NS type="TV"><i>had been</i><c>was</c></NS> a real joy to receive your <NS type="MN"><c>letter</c></NS> and I still can't believe it. In answer to your letter, you will find below the <NS type="CN"><i>informations</i><c>information</c></NS> you need.</p>
+          <p>I start my first job on August 1st, that's why I must travel <NS type="RT"><i>on</i><c>in</c></NS> July. I can't change <NS type="UY"><i>anymore</i></NS> the date <NS type="R"><i>of <NS type="S"><i>umployment</i><c>employment</c></NS></i><c>I start work</c></NS> because I signed the contract a month ago<NS type="RP"><i>:</i><c>.</c></NS> I hope <NS type="RA"><i>it</i><c>that</c></NS> will not <NS type="AS"><i><NS type="RV"><i>make</i><c>cause</c></NS> problems to you</i><c>cause you problems</c></NS>.</p>
+          <p><NS type="RT"><i>For</i><c>Regarding</c></NS> <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would prefer to have a log cabin<NS type="RP"><i>, it</i><c>.  It</c></NS> would be better to <NS type="RV"><i>let</i><c>leave</c></NS> money or anything <NS type="MT"><c>in</c></NS> without <NS type="RV"><i>thinking of</i><c>worrying about</c></NS> theft. I've always dreamed about climbing but I <NS type="TV"><i>never have</i><c>have never had</c></NS> the opportunity to <NS type="RV"><i>discover</i><c>try</c></NS> this sport. When I saw <NS type="MC"><c>that</c></NS> you <NS type="RV"><i>propose</i><c>offer</c></NS> this sport, I was really excited. So I choose climbing as a beginner. For the second activity, I will choose sailing. I've <NS type="RV"><i>done</i><c>been</c></NS> sailing for more than ten years and I really enjoy it. Moreover I <NS type="TV"><i>was</i><c>have been</c></NS> <NS type="MD"><c>a</c></NS> sailing teacher <NS type="R">on summers the past few years</NS>.</p>
+          <p>Does Camp California provide all <NS type="MD"><c>the</c></NS> clothes for sailing? Do I need to bring <NS type="MQ"><c>any</c></NS> money from <NS type="RP"><i>Home</i><c>home</c></NS>? Or can I <NS type="RV"><i>retire</i><c>withdraw</c></NS> some at Camp California?</p>
+          <p>Thank you very much.</p>
+          <p>G Morin</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Life at school is made of several things. <NS type="RP"><i>first</i><c>First</c></NS>, lessons are the most important part of what school wants to provide us <NS type="MT"><c>with</c></NS>. But there are also a <NS type="AGN"><i>lots</i><c>lot</c></NS> of clubs and activities that <NS type="RV"><i>take part</i><c>form part</c></NS> <NS type="RT"><i>in</i><c>of</c></NS> the daily life of pupils. That's why they both have to be taken <NS type="RT"><i>in</i><c>into</c></NS> account in the video we will make.</p>
+          <p>The most interesting lessons for pupils are lessons in which <NS type="RA"><i>we</i><c>they</c></NS> can do something real, concrete. <NS type="RP"><i>for example</i><c>For example</c></NS>, the <NS type="W"><i>lessons of <NS type="RN"><i>mechanics</i><c>engineering</c></NS> or physics</i><c>engineering or physics lessons</c></NS> are very interesting<NS type="R"><i>. And</i><c>,</c></NS> especially the practical work. It would be great if we <NS type="TV"><i>show</i><c>showed</c></NS> <NS type="RA"><i>it</i><c>these</c></NS> in our film<NS type="RP"><i>, it</i><c>.  It</c></NS> might <NS type="W"><i>be also</i><c>also be</c></NS> very interesting to watch it.</p>
+          <p><NS type="RT"><i>For</i><c>As for</c></NS> other activities, we could probably show <NS type="W"><i>a training one of our <NS type="DJ"><i>sport</i><c>sports</c></NS> <NS type="AGN"><i>team</i><c>teams</c></NS></i><c>one of our sports teams training</c></NS>. For example<NS type="MP"><c>,</c></NS> the <NS type="W"><i>team basketball</i><c>basketball team</c></NS> which has won the student regional <NS type="DN"><i>tittle</i><c>title</c></NS> (we can also say <NS type="RA"><i>it</i><c>that</c></NS>) or the <NS type="W"><i>team of football</i><c>football team</c></NS>. After all, it is not important <NS type="R"><i>the</i><c>which</c></NS> one we will show<NS type="RP"><i>.</i><c>,</c></NS> but I think we must <NS type="RV"><i>give</i><c>create</c></NS> a good picture of the school <NS type="R"><i>with</i><c>through</c></NS> sport.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

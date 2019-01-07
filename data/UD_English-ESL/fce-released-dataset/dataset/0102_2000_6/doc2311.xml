@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR929*0102*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>27.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>June 17th, 2000</p>
+          <p>Dear Sir,</p>
+          <p>I am writing this letter to show <NS type="R"><i>whom</i><c>how</c></NS> disappointed <NS type="W"><i>am I</i><c>I am</c></NS> with the musical show "Over The Rainbow".</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I was expecting to see Danny Brook <NS type="RV"><i>starring</i><c>acting</c></NS> but I felt very disappointed when a different actor appeared.</p>
+          <p>When I saw the advertisement <NS type="RT"><i>of</i><c>for</c></NS> the show it was written that the show <NS type="TV"><i>will</i><c>would</c></NS> <NS type="FV"><i>started</i><c>start</c></NS> at a half past seven but <NS type="MA"><c>it</c></NS> started at a quarter past eight.</p>
+          <p>Then when I was buying my ticket I asked for <NS type="MD"><c>a</c></NS> discount but they weren't available.</p>
+          <p>When the show finished I was <NS type="DV"><i>eniting</i><c>intending</c></NS> to visit the theatre restaurant but it was closed.</p>
+          <p>I was expecting a lovely and perfect evening out but it was the most <NS type="RJ"><i><NS type="S"><i>disapointed</i><c>disappointed</c></NS></i><c>disappointing</c></NS> experience I have ever <NS type="RV"><i>passed</i><c>had</c></NS>. So because of this horrible evening I want to ask for my money back.</p>
+          <p>yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Modern technology <NS type="AGV"><i>have</i><c>has</c></NS> been changing <NS type="UD"><i>the</i></NS> human life since the first <NS type="R"><i>many</i><c>man</c></NS> was born.</p>
+          <p>When I wake up I take a shower using <NS type="S"><i>eletricity</i><c>electricity</c></NS> then I prepare my breakfast in the oven then I go to school by bus, when I arrive at home I put my lunch in the microwave <NS type="SX"><i>than</i><c>then</c></NS> I watch <NS type="RP"><i>t.v.</i><c>TV</c></NS> and do my homework using a pen<NS type="RP"><i>, when</i><c>. When</c></NS> I come back from jiu-jitsu I eat something that was cooked in the oven then I go to bed.</p>
+          <p>About a <NS type="S"><i>millenium</i><c>millennium</c></NS> ago <NS type="RP"><i>every thing</i><c>everything</c></NS> was different<NS type="MP"><c>;</c></NS> <NS type="UD"><i>the</i></NS> people didn't have electricity, they <NS type="RV"><i>did</i><c>cooked</c></NS> their food on the fire and they didn't have pens.</p>
+          <p>Comparing these <NS type="SX"><i>too</i><c>two</c></NS> realities the reader can notice that modern technology <NS type="TV"><i>changed</i><c>has changed</c></NS> <NS type="W"><i>very much our daily life</i><c>our daily life very much</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

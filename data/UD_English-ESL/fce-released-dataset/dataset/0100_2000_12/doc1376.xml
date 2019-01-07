@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR42*0100*2000*02">
+  <candidate><personnel><language>French</language><age>16-20</age></personnel><score>25.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>Many thanks for the programme you have organised. It is really interesting and <NS type="DJ"><i>diversity</i><c>diverse</c></NS> at the same time.</p>
+          <p>There is just one thing I want to tell you<NS type="RP"><i>;</i><c>:</c></NS> Janine and Richey have seen an advertisement for the London Fashion and Leisure show and we all would like to go to the show.</p>
+          <p><NS type="RA"><i>That</i><c>It</c></NS> is in the <NS type="RP"><i>central</i><c>Central</c></NS> Exhibition Hall, near the hotel, and it is <NS type="RY"><i>only</i><c>all</c></NS> about fashion: <NS type="MD"><c>the</c></NS> latest fashions, leisure and sports wear, <NS type="RP"><i>make up</i><c>make-up</c></NS> and hairstyles. I think it could be very interesting and it is free for students (<NS type="RA"><i>what</i><c>which</c></NS> is really good).</p>
+          <p>It is a great opportunity because this show is only <NS type="RD"><i>each</i><c>every</c></NS> two years and <NS type="DY"><i>normaly</i><c>normally</c></NS> it is difficult to <NS type="RV">go in</NS>. And, as you know we all are interested in fashion.</p>
+          <p><NS type="ID">In my opinion,</NS> I would suggest <NS type="FV"><i>to go</i><c>going</c></NS> to the show instead of the National Art Gallery because we could go there another time. Or<NS type="UP"><i>,</i></NS> going to the show on <NS type="RP"><i><NS type="S"><i>wensday</i><c>wednesday</c></NS></i><c>Wednesday</c></NS> morning and <NS type="RT"><i>on</i><c>in</c></NS> the afternoon, we can choose between free time or <NS type="MD"><c>the</c></NS> National Art Gallery.</p>
+          <p>I look <NS type="S"><i>farward</i><c>forward</c></NS> to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>It was dangerous, but I knew I had to do it. I went out of the room, ran as <NS type="RY"><i>much</i><c>far</c></NS> as I could and started thinking <NS type="MT"><c>about</c></NS> what this man was doing here and who he was.</p>
+          <p>When I arrived in the street it was dark<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> windy, but I could see a shadow at the corner of the <NS type="W"><i>opposite street</i><c>street opposite</c></NS>. By the time I arrived <NS type="RY"><i>here</i><c>there</c></NS>, he <NS type="TV"><i>has</i><c>had</c></NS> disappeared. Suddenly, I felt very tired and decided to go home.</p>
+          <p>My sister was standing, crying and <NS type="RV">showing</NS> the front door. I took her in my arms and opened the door: my mother was sitting in a chair, reading a book, with blood all around her. I finally realized that she was dead.</p>
+          <p>The police arrived twenty minutes later, took my mother and checked to see what could be <NS type="RJ"><i>interesting</i><c>useful</c></NS> to find the <NS type="RN"><i>murder</i><c>murderer</c></NS>: <NS type="DY"><i>lucky</i><c>luckily</c></NS>, the knife which he used to kill her was still <NS type="RY"><i>here</i><c>there</c></NS> and in fact they <NS type="RV"><i>could</i><c>were able to</c></NS> <NS type="FV"><i>arrested</i><c>arrest</c></NS> him.</p>
+          <p>They found <NS type="S"><i>hime</i><c>him</c></NS> two months <NS type="RY"><i>after</i><c>later</c></NS> and six months <NS type="RY"><i>after</i><c>later</c></NS> he was in jail. To forget everything, I moved to Irkind with my sister <NS type="RT"><i>in</i><c>to</c></NS> a small house in the countryside. Everything was going <NS type="R">on</NS>, when one day, I <NS type="RV"><i>came</i><c>went</c></NS> <NS type="RT"><i>in</i><c>into</c></NS> the house and found my mother sitting in a chair reading a book, with blood all around her.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

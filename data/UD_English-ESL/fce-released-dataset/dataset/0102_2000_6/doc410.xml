@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR164*0102*2000*01">
+  <candidate><personnel><language>Swedish</language><age>26-30</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam,</p>
+          <p>I am writing to complain about your advertisement concerning the Musical show: "Over the rainbow". First of all, according to your advertisement, Danny Brook should <NS type="TV"><i>be</i><c>have been</c></NS> one of the stars, instead there was <NS type="RD"><i>one</i><c>a</c></NS><NS type="MP"><c>,</c></NS> <NS type="RT"><i>for</i><c>to</c></NS> me<NS type="MP"><c>,</c></NS> totally unknown actor. To make matters worse the musical started almost one hour later than it was supposed to start.</p>
+          <p>Your advertisement also failed to mention the fact that there <NS type="AGV"><i>was</i><c>were</c></NS> no discounts <NS type="RP"><i>what so ever</i><c>whatsoever</c></NS> and<NS type="MP"><c>,</c></NS> finally, because of a shortage of <NS type="S"><i>staf</i><c>staff</c></NS>, your restaurant was not <NS type="RJ"><i>available</i><c>open</c></NS> <NS type="U"><i>for us</i></NS>.</p>
+          <p>This event was not what I call<NS type="UP"><i>:</i></NS> "a perfect evening out", as your advertisement promised. I feel entitled to compensation for this event. I suggest a refund of the full price and I hope you are willing to take <NS type="UD"><i>your</i></NS> <NS type="FN"><i>responsibilities</i><c>responsibility</c></NS>.</p>
+          <p>Yours faithfully</p>
+          <p>Carolina Patharius</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. It didn't take long <NS type="UN"><i>time</i></NS> <NS type="RT"><i>until</i><c>for</c></NS> my embarrassing story <NS type="RV"><i>was</i><c>to get</c></NS> out in the open. I asked myself how I could be so <NS type="S"><i>stupied</i><c>stupid</c></NS>, telling her my secret after all I <NS type="MV"><c>had</c></NS> been going through to keep it to myself. But now <NS type="UY"><i>when</i></NS> the story was out, <NS type="R"><i>it was</i><c>I</c></NS> just <NS type="TV"><i>to start</i><c>started</c></NS> to accept it. Maybe it wasn't so bad after all? All of a sudden I started to believe that this was the best solution of all. Now I didn't need to go around <NS type="UC"><i>and</i></NS> <NS type="S"><i>worring</i><c>worrying</c></NS> about it anymore. At once I felt more assertive and a big smile appeared <NS type="RT"><i>in</i><c>on</c></NS> my face. I <NS type="S"><i>decieded</i><c>decided</c></NS> to thank Pat, and maybe, if possible, teach her a <NS type="S"><i>lession</i><c>lesson</c></NS>.</p>
+          <p>That evening I went to her house. I pretended to be <NS type="DY"><i>totaly</i><c>totally</c></NS> miserable. Pat didn't know what to do<NS type="RP"><i>, she</i><c>. She</c></NS> <NS type="S"><i>apoligised</i><c>apologised</c></NS> over and over again and I could really see that she was more than <NS type="S"><i>devestated</i><c>devastated</c></NS>. Finally I smiled. After <NS type="IV"><i>huging</i><c>hugging</c></NS> <NS type="S"><i>eatch</i><c>each</c></NS> other we promised never to tell others about our secrets. Especially not if it has to do with failing all <NS type="MD"><c>your</c></NS> exams....</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

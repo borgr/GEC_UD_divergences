@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1052*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Mr. Manager,</p>
+          <p>I went to the Circle Theatre to see a musical show called "Over the Rainbow", and I was very disappointed <NS type="RT"><i>after</i><c>by</c></NS> it.</p>
+          <p><NS type="ID"><i>First off all</i><c>First of all</c></NS> I would like to say that it <NS type="TV"><i>has started</i><c>started</c></NS> later than it should <NS type="R"><i>to</i><c>have</c></NS><NS type="RP"><i>,</i><c>.</c></NS> I had to wait for about <NS type="S"><i>fourty-five</i><c>forty-five</c></NS> minutes.</p>
+          <p>Then I realized that Danny Brook did not appear in the show<NS type="MP"><c>,</c></NS> which was very <NS type="S"><i>disappoiting</i><c>diappointing</c></NS> for me because I like this actor very much, and I think that I was not the only one who was upset.</p>
+          <p>Another disappointing thing was that <NS type="RD"><i>that</i><c>the</c></NS> discounts were not available, which made me a bit angry. Why did you write that they were available?</p>
+          <p>I think that the most disappointing <NS type="SX"><i>think</i><c>thing</c></NS> was that <NS type="MD"><c>the</c></NS> theatre's restaurant was closed. I would <NS type="FV"><i>to add</i><c>add</c></NS> that I was hungry after the show.</p>
+          <p> It was not such a perfect evening out. I would <NS type="RY"><i>rather</i><c>instead</c></NS> say that it was a very disappointing evening, and I would like to have my money back as soon as possible or we will meet <NS type="RT"><i>at</i><c>in</c></NS> court!</p>
+          <p>Yours <NS type="DY"><i>sincerlly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="ID"><i>First off all</i><c>First of all</c></NS> I would like to say that modern technology has changed my daily life very much.</p>
+          <p>Every day when I get up I <NS type="TV"><i>am checking</i><c>check</c></NS> if there are any messages left for me like e-mail or SMS <NS type="RT"><i>in</i><c>on</c></NS> my mobile phone. They are very <NS type="DJ"><i>usefull</i><c>useful</c></NS> things which sometimes are <NS type="S"><i>nessecary</i><c>necessary</c></NS> to survive.</p>
+          <p>Modern technology has <NS type="UV"><i>got</i></NS> a big influence on our life. It is easier. We can communicate with people by using mobile phones or telephones<NS type="MP"><c>,</c></NS> which are the best things ever made. I use them very often in my daily life.</p>
+          <p>I THINK THAT TELEVISION HAS the biggest influence on our daily life. I watch about four <NS type="S"><i>hourers</i><c>hours</c></NS> <NS type="MT"><c>of</c></NS> TV a day<NS type="RP"><i>,</i><c>.</c></NS> I even eat my meals in front of the TV. We can see PEOPLE'S LIFE in other countries<NS type="MP"><c>,</c></NS> which is very interesting for me and my friends.</p>
+          <p>Also <NS type="MD"><c>the</c></NS> <NS type="S"><i>Iternet</i><c>Internet</c></NS> has <NS type="MD"><c>an</c></NS> influence on my daily life, <NS type="S"><i>beause</i><c>because</c></NS> I can find there many interesting things, or I can meet with people from all over the world<NS type="MP"><c>,</c></NS> which is exciting for me.</p>
+          <p>I think that life <NS type="RP"><i>with out</i><c>without</c></NS> modern technology would be <NS type="RJ">simple</NS> and <NS type="S"><i>borring</i><c>boring</c></NS><NS type="MP"><i> that's</i><c>. That's</c></NS> why I am using it in my daily life<NS type="RP"><i>,</i><c>.</c></NS> I am happy that there is such <NS type="MD"><c>a</c></NS> thing as modern technology.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1046*0100*2000*02">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>33.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>First of all, I am writing to thank you for organising <NS type="MD"><c>the</c></NS> school's trip to London. The programme seems to be really interesting, especially visiting the Science Museum.</p>
+          <p>However, the students in my class have seen an advertisement for the London Fashion and Leisure Show, which is going to take place on <NS type="MD"><c>the</c></NS> 14th of March at <NS type="MD"><c>the</c></NS> Central Exhibition Hall. Visitors will be able to see the latest fashions, leisure and sports wear and also get some help with <NS type="MP"><i>make up</i><c>make-up</c></NS> or <NS type="FN"><i>hairstyle</i><c>hairstyles</c></NS>.</p>
+          <p>It would be <NS type="MD"><c>a</c></NS> great opportunity to see this show, because we are all very interested in <NS type="MD"><c>the</c></NS> <NS type="W"><i>fashion subject</i><c>subject of fashion</c></NS>. What is more, <NS type="S"><i>admittion</i><c>admission</c></NS> for students is free.</p>
+          <p>Do you think that it would be possible to change the programme of our trip?</p>
+          <p>In our opinion we could <NS type="RV"><i>join</i><c>attend</c></NS> the show on Tuesday, after visiting the Science Museum. It would not be a problem to go shopping on Wednesday in our free time.</p>
+          <p>I look forward to hearing from you.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Famous people, such as politicians and film stars, deserve to have a private life without journalists following them all the time.</p>
+          <p><NS type="UT"><i>In these</i><c>These</c></NS> days, when we can see <NS type="MD"><c>a</c></NS> picture of <NS type="MD"><c>a</c></NS> famous person <NS type="W"><i>almost on every <NS type="DN"><i>first page</i><c>front page</c></NS> of the</i><c>on the front page of almost every</c></NS> newspaper, it's <NS type="W"><i>a quite</i><c>quite a</c></NS> common topic <NS type="M"></NS>.</p>
+          <p>First of all, I think that famous people deserve to have <NS type="MD"><c>a</c></NS> private life. Journalists should not follow them all the time, trying to <NS type="RV"><i>make</i><c>get</c></NS> an interview or <NS type="FV"><i>taking</i><c>take</c></NS> an 'interesting' picture.</p>
+          <p>Secondly, I can really understand how annoying or depressing it can be. I think that deep inside famous <NS type="L"><i>persons</i><c>people</c></NS> are just ordinary people and like <NS type="UT"><i>for</i></NS> all of us<NS type="MP"><c>,</c></NS> having a private life is important for <NS type="MD"><c>their</c></NS> psychological <NS type="RN">condition</NS>.</p>
+          <p>On the other hand, we could say that they decided to have <NS type="RD"><i>such</i><c>this</c></NS> kind of life. Maybe they need to pay the price for being rich and popular? Maybe sometimes they need to sacrifice their privacy?</p>
+          <p>In conclusion, I think that it is very hard to find an answer to this question. However, everyone needs to <NS type="RV"><i>have</i><c>keep</c></NS> some part of his life <NS type="UV"><i>being</i></NS> <NS type="UD"><i>a</i></NS> secret.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

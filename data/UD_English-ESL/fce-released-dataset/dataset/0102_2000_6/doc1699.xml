@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR672*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Sir/Madam,</p>
+          <p>I am <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to inform you I had a very disappointing evening <NS type="RT"><i>during</i><c>at</c></NS> your musical show "Over the rainbow" at the Circle Theatre where you are the director.</p>
+          <p>First of all, the actor was <NS type="RV"><i>expected</i><c>supposed</c></NS> to be Danny Brook. He is my favourite actor and the most important reason I went to your theatre. But <NS type="R"><i>finally</i><c>at the last minute</c></NS>, without telling us anything, there was a different actor. This was very disappointing.</p>
+          <p>Secondly, your famous restaurant was closed. That was very <NS type="DJ"><i>displeasured</i><c>unpleasant</c></NS> because I had planned a romantic dinner with my wife. If you had told me your restaurant was going to be closed, I would have made a reservation <NS type="RY"><i>anywhere</i><c>somewhere</c></NS> else, but you didn't.</p>
+          <p>And finally the play started with a delay of forty-five minutes and there were <NS type="X"><i>not</i><c>no</c></NS> discounts available. <NS type="X"><i>Both things do not agree</i><c>Neither thing agrees</c></NS> with what I read <NS type="RT"><i>on</i><c>in</c></NS> your <NS type="RN"><i>advertising sign</i><c>advertisement</c></NS>.</p>
+          <p><NS type="R"><i>Due to</i><c>For</c></NS> all of these reasons, I hope you <NS type="TV"><i>could</i><c>can</c></NS> give <NS type="MA"><c>me</c></NS> my money back.</p>
+          <p>Yours sincerely,</p>
+          <p>MANUEL ALMODAR</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets. But I didn't know that when I told her I was thinking <NS type="RT"><i>in</i><c>of</c></NS> <NS type="RV"><i>going away from</i><c>leaving</c></NS> home.</p>
+          <p>This was a very difficult <NS type="S"><i>decission</i><c>decision</c></NS> but I had to take it because of my personal situation, all the time shouting and fighting <NS type="R"><i>will</i><c>with</c></NS> all my family.</p>
+          <p><NS type="R"><i>Therefore</i><c>As</c></NS> my girlfriend lived alone <NS type="UC"><i>so</i></NS> I could have stayed with her or just have gone on travelling around the world. I was thinking a lot about this problem and how to solve it so I needed someone to talk to and Pat had always been my best friend.</p>
+          <p>But it was a big mistake because she <NS type="AS"><i>told it to her mother</i><c>told her mother about it</c></NS> and I don't know how but now my mother <NS type="AGV"><i>know</i><c>knows</c></NS> <NS type="MT"><c>about</c></NS> it, and she is very worried about me and my future. And my father thinks a year travelling and living by myself will be very good for me.</p>
+          <p>Finally, my parents are <NS type="W"><i>all the time <NS type="IV"><i>argueing</i><c>arguing</c></NS></i><c>arguing all the time</c></NS> about <NS type="IJ"><i>differents</i><c>different</c></NS> solutions to my problem, and this all thanks to Pat.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

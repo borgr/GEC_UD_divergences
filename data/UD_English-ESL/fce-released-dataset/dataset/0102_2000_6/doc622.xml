@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR246*0102*2000*01">
+  <candidate><personnel><language>Turkish</language><age>16-20</age></personnel><score>36.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.3</exam_score>
+         <coded_answer>
+          <p>Dear Manager,</p>
+          <p>Recently, I had a week's holiday in London and during my stay, I went to your theatre to see "Over The Rainbow" and I was really <NS type="RJ"><i>disillusioned</i><c>disappointed</c></NS>.</p>
+          <p>In the advertisement, it <NS type="UV"><i>was</i></NS> <NS type="RV"><i>told</i><c>said</c></NS> that Danny Brook was starring, but in place of him there was a different actor and he was really <NS type="S"><i>dissapointing</i><c>disappointing</c></NS>. I could not see any portion of Danny Brook's performance <NS type="RT"><i>at</i><c>in</c></NS> him.</p>
+          <p>Also, in the <NS type="RN"><i>schedule</i><c>programme</c></NS>, the time of the show was written as 19:30, but it started at <NS type="RP"><i>20;15</i><c>20:15</c></NS> and<NS type="UP"><i>,</i></NS> I missed the dinner I was going to have with my best friend in London.</p>
+          <p>Since I am a student and not as rich as Bill <NS type="RP"><i>gates</i><c>Gates</c></NS>, I was short of money and I was very pleased to hear that there were discounts available for the tickets; but I had to give the <NS type="RJ"><i>exact</i><c>full</c></NS> price of the ticket, which I consider <NS type="MV"><c>to be</c></NS> <NS type="UT"><i>as</i></NS> <NS type="RD"><i>a</i><c>the</c></NS> fault of your theatre.</p>
+          <p>In addition to <NS type="RA"><i>these</i><c>this</c></NS>, it was mentioned that your restaurant was open after the show, but it was not because there was no food to be served.</p>
+          <p>As you can understand, it was a dreadful time and I <NS type="RV"><i>went</i><c>want</c></NS> my money back as a <NS type="RN"><i>solace</i><c>consolation</c></NS> for the <NS type="S"><i>dissapointment</i><c>disappointment</c></NS> I had.</p>
+          <p>Yours <NS type="RP"><NS type="RY"><i>Sincerely</i><c>faithfully</c></NS></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>TECHNOLOGY AND MY DAILY LIFE</p>
+          <p>In my daily life, I use the facilities of modern technology very often and it really makes my life easier to live. However, I go far away from my family and other people and have virtual relationships.</p>
+          <p>Until 1996, I used to go to school on foot or by public bus; but since 1996; I take the underground to go to school. It is much quicker, and I do not have to wake up very early in order not to be late.</p>
+          <p>Also, I use my computer and <NS type="MD"><c>the</c></NS> Internet very much in order to <NS type="RV"><i>reach</i><c>find</c></NS> <NS type="UQ"><i>some</i></NS> information, do my projects and communicate with my friends. To talk to a friend from another city or country instantly online is really nice and exciting. I do not have to wait for a letter for days and I gain so much time <NS type="RY"><i>again</i><c>too</c></NS>.</p>
+          <p><NS type="RP"><i>on</i><c>On</c></NS> the other hand, because of <NS type="RV"><i>dealing with</i><c>being on</c></NS> computers so much, I <NS type="RP"><i>can not</i><c>cannot</c></NS> see my family and friends very much, even when we are <NS type="RT"><i>at</i><c>in</c></NS> the same <NS type="RN"><i>medium</i><c>place</c></NS>. It is really bad to make your human relations get weaker. But despite this, I am very happy with the <NS type="W"><i>facilities <NS type="UT"><i>of</i></NS> <NS type="DJ"><i>technology</i><c>technological</c></NS></i><c>technological facilities</c></NS> in my daily life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

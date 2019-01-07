@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR277*0102*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Re: The Musical Show Presented by the Circle Theatre</p>
+          <p><NS type="DT"><i>With the reference of</i><c>With reference to</c></NS> the advertisement published in the New Strait Times newspaper on the 22nd of MAY 2000, I, as a <NS type="RN"><i>consumer</i><c>customer</c></NS>, who is a <NS type="MP"><i>musical show</i><c>musical-show</c></NS> <NS type="DN"><i>avid</i><c>addict</c></NS> and a great <NS type="AGN"><i>fans</i><c>fan</c></NS> of Danny Brook, who <NS type="TV"><i>is</i><c>was</c></NS> said to be <NS type="FV"><i><NS type="RV"><i>stared</i><c>starred</c></NS></i><c>starring</c></NS> in the show, would like to complain about the presentation.</p>
+          <p>1. First of all, I was really furious <NS type="RT"><i>of</i><c>about</c></NS> watching a show starring <NS type="UT"><i>by</i></NS> a different actor, instead of Danny Brook<NS type="RP"><i>.</i><c>,</c></NS> whose name was <NS type="RV"><i>stated</i><c>given</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> the advertisement. Besides this, the show started almost 45 minutes later than <NS type="UA"><i>what</i></NS> it was <NS type="RV"><i>said</i><c>meant</c></NS> to <NS type="RV"><i>be</i><c>start</c></NS>.</p>
+          <p>2. <NS type="R">The <NS type="RP"><i>Price</i><c>price</c></NS> of the ticket was said that there would be discounts available</NS>. However, I was <NS type="RY"><i>completely</i><c>very</c></NS> disappointed when I was told that there were not any discounts for the show.</p>
+          <p>3. I also found out that the theatre restaurant was not <NS type="DJ"><i>opened</i><c>open</c></NS> after the show due to <NS type="R">the shortage of food sold</NS>. I was really hungry after the show and was <NS type="L"><i>pissed off</i><c>very unhappy</c></NS>.</p>
+          <p><NS type="RT"><i>With</i><c>Considering</c></NS> all the above points, I would like to ask for some money <NS type="R"><i>return</i><c>back</c></NS>. I <NS type="TV"><i>would</i><c>will</c></NS> consider <NS type="FV"><i>to <NS type="RV"><i>bring</i><c>take</c></NS></i><c>taking</c></NS> this <NS type="DN"><i>complains</i><c>complaint</c></NS> to <NS type="UD"><i>the</i></NS> court if I do not receive <NS type="RD"><i>any</i><c>an</c></NS> <NS type="RJ"><i>agreeable</i><c>acceptable</c></NS> <NS type="S"><i>explaination</i><c>explanation</c></NS> from the theatre. Thank You.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Fashion is one of the most popular topics people discuss <NS type="R">about in the past, now and also in the future</NS>.</p>
+          <p>However, things <NS type="S"><i>re</i><c>are</c></NS> <NS type="TV"><i>recycling</i><c>recycled</c></NS> from time to time. <NS type="R">So do the objective of wearing clothes</NS>. I <NS type="TV"><i>will imagine</i><c>imagine</c></NS> that<NS type="UP"><i>,</i></NS> people in the future, for example 100 years from now, will wear clothes for protection like people did in the past. <NS type="UD"><i>The people</i><c>People</c></NS> in the past <NS type="TV"><i>wear</i><c>wore</c></NS> clothes to protect themselves from the cold air, hot weather and strong wind. On the other hand, <NS type="UD"><i>the</i></NS> people in the future will <NS type="S"><i>propably</i><c>probably</c></NS> wear clothes to protect themselves from the polluted air and water, the harmful ultra-violet rays from the sun and all the dangerous and poisonous gases or chemicals which <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RN"><i>result</i><c>product</c></NS> of a developed and <NS type="RJ">full-grown</NS> country.</p>
+          <p>I think people in the future will <NS type="DY"><i>likely</i><c>probably</c></NS> <NS type="FV"><i>to wear</i><c>wear</c></NS> helmets with <NS type="R">oxygen gas well provided</NS>. It is because of the increasing <NS type="RN"><i>number</i><c>size</c></NS> of <NS type="MD"><c>the</c></NS> population and the shortage of <NS type="UD"><i>the</i></NS> oxygen gas in the atmosphere. They will also wear water-proof, <NS type="MP"><i>ultra-violet proof</i><c>ultra-violet-proof</c></NS> and other <NS type="MP"><i>dangerous liquid-proof</i><c>dangerous-liquid-proof</c></NS> clothes to protect themselves<NS type="MP"><c>.</c></NS> These clothes have to be made of something light, <NS type="RJ"><i>suitable</i><c>comfortable</c></NS> to wear and protective. All the above ideas are needed to <NS type="R">make them <NS type="RV"><i>bare</i><c>bear</c></NS> no burden</NS> when wearing these <NS type="DY"><i>special</i><c>specially</c></NS> designed clothes.</p>
+          <p>The future is <NS type="RD"><i>a</i><c>the</c></NS> hope and <NS type="RD"><i>a</i><c>the</c></NS> dream for everyone <NS type="RT"><i>in</i><c>on</c></NS> the earth. Therefore, I will suggest that we all <NS type="DV">nov</NS> to keep the <NS type="S"><i>enviroment</i><c>environment</c></NS> clean and healthy for the next generation.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

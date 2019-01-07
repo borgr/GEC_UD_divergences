@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR297*0102*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Mr. Smith</p>
+          <p>My name is Manuel Olmez and last week I went to see the musical show 'Over the rainbow' <NS type="RT"><i>to</i><c>at</c></NS> the Circle theatre.</p>
+          <p>Firstly I want to tell you how disappointing <NS type="W"><i>was that night</i><c>that night was</c></NS>.</p>
+          <p>Everything in the advertisement for the show was <NS type="RJ"><i>wrong</i><c>untrue</c></NS>. The actors I saw in the show were not Danny Brook and Tina Truelove.</p>
+          <p>I went at 19.30 and the show didn't begin until 20:15 so I had to wait a lot and I arrived late to a meeting I had after the show. There were <NS type="RD"><i>not</i><c>no</c></NS> discounts available for the tickets and the theatre's restaurant was closed after the show because it was too late.</p>
+          <p>So I want you to send me some money back for that <NS type="S"><i>unpleasent</i><c>unpleasant</c></NS> night.</p>
+          <p>I hope you can understand me.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Unfortunately, Pat wasn't very good at keeping secrets.</p>
+          <p>So in <NS type="MD"><c>a</c></NS> very few days all the College knew that me and my friends were <NS type="M"><c>the ones</c></NS> who had crashed <NS type="MD"><c>the</c></NS> headmaster's car.</p>
+          <p>The headmaster wanted to tell the police what we had done so we decided to <NS type="RV"><i>close</i><c>imprison</c></NS> him in a little house<NS type="UP"><i>,</i></NS> we had twenty <NS type="SA"><i>kilometers</i><c>kilometres</c></NS> <NS type="RY"><i>far</i><c>away</c></NS> from the village until we could change his <NS type="RN"><i>opinion</i><c>mind</c></NS>. Marc, one of my friends, hit Mr. Heyman with a bottle and he lost <NS type="UA"><i>his</i></NS> <NS type="RN"><i>conscience</i><c>consciousness</c></NS>. We put him in my car and we left him inside a closed room.</p>
+          <p>When he woke up he started shouting and we had to <NS type="RV"><i>make him calm</i><c>calm him down</c></NS>.</p>
+          <p>We took some photos of him naked and told him not to <NS type="AS"><i>tell this anybody</i><c>tell anybody about this</c></NS> because if he does we will hang the photos all <NS type="S"><i>arround</i><c>around</c></NS> the village.</p>
+          <p>He accepted <NS type="MA"><c>this</c></NS> and we <NS type="RV"><i>left</i><c>let</c></NS> him <NS type="MV"><c>go</c></NS> free.</p>
+          <p><NS type="R"><i>Everything</i><c>It all</c></NS> began because he is a nasty person and he forced us to clean the college every day, <NS type="R">for not paying</NS> a <NS type="RN"><i>cleaning assistant</i><c>cleaner</c></NS>.</p>
+          <p>We <NS type="TV"><i>need</i><c>needed</c></NS> to do something like that to make him change.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

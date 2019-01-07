@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1047*0100*2000*02">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>28.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing to <NS type="DA"><i>your</i><c>you</c></NS> about the trip <NS type="RT"><i>in</i><c>to</c></NS> London.</p>
+          <p>Thanks for your programme, we are all <NS type="AS"><i>looking forwards especially for</i><c>especially looking forward to</c></NS> <NS type="UD"><i>the</i></NS> Monday 13 March because we will <NS type="RV"><i>discover</i><c>see</c></NS> all the <NS type="AGN"><i>monument</i><c>monuments</c></NS> in London.</p>
+          <p>However, we have got a suggestion: we saw an <NS type="S"><i>advertissement</i><c>advertisement</c></NS> for "the London Fashion and Leisure Show" which is going to be on Tuesday March 14 from 10:00 to 19:00.</p>
+          <p>For all of us, it <NS type="AGV"><i>sound</i><c>sounds</c></NS> like a great opportunity because we <NS type="SX"><i>though</i><c>thought</c></NS> that this event would <NS type="RV"><i><NS type="FV"><i>makes</i><c>make</c></NS> us learn</i><c>teach us</c></NS> about the way of life in London<NS type="UP"><i>,</i></NS> <NS type="MC"><c>and</c></NS> <NS type="UD"><i>the</i></NS> <NS type="RP"><i>english</i><c>English</c></NS> style....</p>
+          <p>Moreover, the big advantage is that it is a free show so you will not have to worry about the budget.</p>
+          <p>Our request is to change the programme, either you can cancel <NS type="R">all the Tuesday</NS> and we can enjoy all the exhibition or if you cannot cancel the Museum, we can go there right after because we will have <NS type="R"><i>full</i><c>plenty</c></NS> of time to <NS type="MV"><c>go</c></NS> shopping during our free time on Wednesday.</p>
+          <p> Hoping that you will think about it carefully because we are all very <NS type="RJ"><i>exciting</i><c>excited</c></NS>.</p>
+          <p>thanks in advance</p>
+          <p>Yours <NS type="RY"><i><NS type="RP"><i>Faithfully</i><c>faithfully</c></NS></i><c>sincerely</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p><NS type="CE">Since always, medias has been keen of famous people life</NS> and it's becoming <NS type="FJ"><i>worst</i><c>worse</c></NS> and <NS type="FJ"><i>worst</i><c>worse</c></NS>, you can find everything in "gossip" <NS type="RP"><i>Newspapers</i><c>newspapers</c></NS>. <NS type="AGV"><i>Does</i><c>Do</c></NS> famous people deserve to keep their <NS type="RJ"><i>own</i><c>private</c></NS> life secret?</p>
+          <p><NS type="ID"><i>According to me</i><c>In my opinion</c></NS>, you <NS type="RV"><i>can't</i><c>don't</c></NS> deserve to have a private life when you're famous because when <NS type="MA"><c>you</c></NS> <NS type="FV"><i>to start</i><c>start</c></NS> <NS type="DD"><i>you</i><c>your</c></NS> career you know that <NS type="MD"><c>the</c></NS> <NS type="CN"><i>medias</i><c>media</c></NS> will be hunting you everywhere and <NS type="MD"><c>the</c></NS> more famous you get <NS type="MD"><c>the</c></NS> <NS type="FJ"><i>worst</i><c>worse</c></NS> it is going to be because that <NS type="MV"><c>is</c></NS> the <NS type="RP"><i>life style</i><c>lifestyle</c></NS> people <NS type="AGV"><i>wants</i><c>want</c></NS> to know everything <NS type="MT"><c>about</c></NS>, for instance, about their favourite actor or about their president.<NS type="UP"><i>.</i></NS> <NS type="RP"><i>they</i><c>They</c></NS> saw them many <NS type="AGN"><i>time</i><c>times</c></NS> on T.V. or <NS type="MT"><c>in</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RP"><i>Cinema</i><c>cinema</c></NS><NS type="RP"><i>,</i><c>.</c></NS> So people wonder about them. And famous people like it because if you're a star or whatever<NS type="MP"><c>,</c></NS> it's because you like to show yourself.</p>
+          <p><NS type="RP"><i>therefore</i><c>Therefore</c></NS>, even if I agree sometimes <NS type="MD"><c>the</c></NS> <NS type="CN"><i><NS type="RP"><i>Medias</i><c>medias</c></NS></i><c>media</c></NS> <NS type="FV"><i>are going</i><c>go</c></NS> too far and write really bad things<NS type="RP"><i>.</i><c>,</c></NS> if you're famous you cannot have <NS type="MD"><c>a</c></NS> private life because all of this is a part of <NS type="RD"><i>their</i><c>your</c></NS> job.</p>
+          <p>And if <NS type="MD"><c>the</c></NS> <NS type="CN"><i><NS type="RP"><i>Medias</i><c>medias</c></NS></i><c>media</c></NS> are too awful they have got <NS type="MD"><c>the</c></NS> law to protect <NS type="IA"><i>themself</i><c>themselves</c></NS>.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

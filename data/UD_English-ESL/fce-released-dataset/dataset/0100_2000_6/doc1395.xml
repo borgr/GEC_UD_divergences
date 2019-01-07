@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR46*0100*2000*01">
+  <candidate><personnel><language>Polish</language><age>16-20</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Warsaw, 13th of June 2000</p>
+          <p>Dear Mrs. Ryan,</p>
+          <p>I am writing in response to your letter which I received two days go and in order to answer all questions I was asked <NS type="UT"><i>to</i></NS>.</p>
+          <p>First of all, the only month I will be able to visit the U.S.A. is July due to the fact that I have already arranged another trip for August.</p>
+          <p><NS type="ID"><i>Second of all</i><c>Secondly</c></NS>, I would prefer to <NS type="RV"><i>live</i><c>stay</c></NS> in a tent. I am used to this kind of accommodation since I have been taking part in survival camps for a long time.</p>
+          <p>As far as the activities are concerned, I have chosen sailing and surfing. The reason <NS type="RT"><i>of</i><c>for</c></NS> my decision is that other activities are <NS type="W"><i><NS type="S"><i>availiable</i><c>available</c></NS> <NS type="UV"><i>to take</i></NS> also</i><c>also available</c></NS> in my <NS type="RN"><i>county</i><c>country</c></NS>, except climbing, but I have <NS type="MD"><c>a</c></NS> fear of heights so this one is not <NS type="DV"><i>destinated</i><c>destined</c></NS> for people like me.</p>
+          <p>Furthermore, I would like to ask you some questions. What type of clothes should I take and how much money would be enough? Is this a kind of "all inclusive" <NS type="AGN"><i>holidays</i><c>holiday</c></NS>?</p>
+          <p>Thank you in advance.</p>
+          <p>Yours faithfully,</p>
+          <p>Ursula Sobczak</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Warsaw, 13 June 2000</p>
+          <p>Dear Kim,</p>
+          <p>I think I told you about my plans <NS type="UT"><i>of</i></NS> <NS type="FV"><i><NS type="RV"><i>entering</i><c>joining</c></NS></i><c>to join</c></NS> a group that helps at concerts, didn't I? Well, I took my chance and I was chosen to help at Michael Jackson's concert. Amazing, isn't it? The event took place a month ago in the Rock Stadium. There <NS type="AGV"><i>was</i><c>were</c></NS> about 100 000 people. We had a lot of things to do. <NS type="S"><i>Acctually</i><c>Actually</c></NS>, they put me very close to the stage, in the middle of the real hell. Many people fainted and some of them, the most serious cases, had to be taken to hospital. The biggest problem was connected with some foreigners who couldn't speak Polish or English and we didn't know how to help them. Despite this fact, the atmosphere was terrific.</p>
+          <p>After the concert many people lost their way home, mostly foreigners who didn't know the buses' schedule. We had to order taxis for them as they didn't have mobile telephones. However, they were very nice people.</p>
+          <p>I didn't manage to meet Michael as I had expected, but apart from that, I really enjoyed <NS type="MD"><c>the</c></NS> time I spent there.</p>
+          <p>You should also try <NS type="MA"><c>it</c></NS>.</p>
+          <p>Best wishes,</p>
+          <p>Ursula.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

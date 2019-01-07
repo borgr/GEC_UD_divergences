@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE22*0100*2001*01">
+  <candidate><personnel><language>Thai</language><age>26-30</age></personnel><score>20.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>First of all I'm sorry to hear that Richard Brown is ill. As you are the leader of <NS type="RD"><i>a</i><c>the</c></NS> group instead of him, I'm delighted to give <NS type="MA"><c>you</c></NS> all the information you have asked for.</p>
+          <p>The Palace Hotel has been booked for the group, and<NS type="MP"><c>,</c></NS> from there to the conference, we have organized <NS type="UT"><i>with</i></NS> the hotel's bus service to take the <NS type="FN"><i>student</i><c>students</c></NS> to the conference. We will meet <NS type="RT"><i>at</i><c>in</c></NS> the lobby at 9.00 AM.</p>
+          <p>The conference party will last <NS type="RT"><i>at</i><c>until</c></NS> 1.00 AM, but <NS type="RP"><i>every body</i><c>everybody</c></NS> <NS type="AGV"><i>do</i><c>does</c></NS> not need to stay until the end. There will be a bus taking students who do not <NS type="RV"><i>need</i><c>want</c></NS> to stay at the party until the end. The bus will be <NS type="R">service</NS> at 9.30 PM and 11.30 PM<NS type="MP"><c>,</c></NS> then at the end of the party <NS type="MA"><c>there</c></NS> will be the last one. Everybody <NS type="AGV"><i>are</i><c>is</c></NS> free to dress for the party but <NS type="TV"><i>be considering</i><c>consider</c></NS> <NS type="MA"><c>what</c></NS> <NS type="TV"><i>to be</i><c>is</c></NS> appropriate.</p>
+          <p>On the last day at noon, you could go to the craft centre <NS type="RP"><i>near by</i><c>nearby</c></NS> the Airport. There are lots of <NS type="AGN"><i>thing</i><c>things</c></NS> there you will enjoy watching or buying for friends.</p>
+          <p>If there is any information you need to know about the conference, please let me know. I look forward to <NS type="FV"><i>see</i><c>seeing</c></NS> you at the conference.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Telephone saved my friendship</p>
+          <p>It's very hard to decide which invention is the best. Because all of them are so important in <NS type="DJ"><i>difference</i><c>different</c></NS> <NS type="FN"><i>way</i><c>ways</c></NS>.</p>
+          <p>As now <NS type="TV"><i>I'm being</i><c>I'm</c></NS> away from home, <NS type="MD"><c>the</c></NS> telephone is very important to me. Having <NS type="MD"><c>a</c></NS> telephone I can call my mother<NS type="R"><i>,</i><c> and</c></NS> my friends<NS type="MP"><c>,</c></NS> which <NS type="RV"><i><NS type="TV"><i>helping</i><c>helps</c></NS></i><c>prevents</c></NS> me from <NS type="MV"><c>feeling</c></NS> <NS type="RP"><i>home sick</i><c>homesick</c></NS><NS type="RP"><i>,</i><c>;</c></NS> not completely but I think it's better than <NS type="R">other ways</NS>. To hear the voice <NS type="RT"><i>from</i><c>of</c></NS> the person you love is <NS type="RD"><i>the</i><c>a</c></NS> <NS type="S"><i>feelling</i><c>feeling</c></NS> that <NS type="MV"><c>is</c></NS> hard to describe<NS type="RP"><i>,</i><c>;</c></NS> it's wonderful and so real<NS type="RP"><i>, you</i><c>. You</c></NS> can imagine their face clearly.</p>
+          <p>I had a problem with my best friend once when we <NS type="TV"><i>keep</i><c>kept</c></NS> in <NS type="S"><i>tuch</i><c>touch</c></NS> through e-mail. The problem <NS type="TV"><i>is</i><c>was</c></NS> the language<NS type="RP"><i>, we</i><c>. We</c></NS> used English but <NS type="X"><i>we both were not</i><c>neither of us were</c></NS> very good at it <NS type="RT"><i>by</i><c>at</c></NS> the time<NS type="MP"><c>,</c></NS> which made us misunderstand each other. However, the problem <NS type="TV"><i>solved</i><c>was solved</c></NS> by a telephone. We are now still <NS type="AGN"><i>friend</i><c>friends</c></NS>. Thanks to the invention of the telephone.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

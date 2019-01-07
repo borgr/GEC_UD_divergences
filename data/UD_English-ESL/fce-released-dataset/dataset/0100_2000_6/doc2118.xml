@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR852*0100*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan<NS type="MP"><c>,</c></NS></p>
+          <p>Thank you for your letter. I'm pleased <NS type="UT"><i>to</i></NS> that I've won the first prize<NS type="MP"><c>:</c></NS> <NS type="W"><i>at camp california in the U.S.A <NS type="UT"><i>during</i></NS> two weeks</i><c>two weeks at camp California in the U.S.A</c></NS>.</p>
+          <p>First of all,</p>
+          <p>I would like <NS type="FV"><i>travel</i><c>to travel</c></NS> <NS type="RT"><i>on</i><c>in</c></NS> July because I am going to finish <NS type="UD"><i>the</i></NS> college at the end of June and I will work <NS type="MT"><c>from</c></NS> the first of <NS type="RP"><i>august</i><c>August</c></NS>.</p>
+          <p><NS type="ID"><i>Second of all</i><c>Secondly</c></NS>,</p>
+          <p><NS type="RT"><i>About</i><c>regarding</c></NS> the <NS type="S"><i>accomodation</i><c>accommodation</c></NS>, I would prefer a log cabin<NS type="RP"><i>,</i><c>.</c></NS> I think that will be <NS type="IJ"><i>more safety</i><c>safer</c></NS> <NS type="RT"><i>about</i><c>for</c></NS> all my <NS type="L"><i>stuff</i><c>things</c></NS>.</p>
+          <p>I'm very keen to have the chance to <NS type="RV"><i>do</i><c>take part in</c></NS> some activities<NS type="RP"><i>,</i><c>.</c></NS> I'm very <NS type="R"><i>attracted by</i><c>interested in</c></NS> the golf. I will be a beginner because I've never done this sport before but I will have a try. Also, I choose surfing<NS type="RP"><i>,</i><c>.</c></NS> I love this sport. I've been <NS type="RV"><i><NS type="SA"><i>practicing</i><c>practising</c></NS></i><c>doing</c></NS> this sport <NS type="RT"><i>since</i><c>for</c></NS> 5 years, so I'm <NS type="SX"><i>quiet</i><c>quite</c></NS> good.</p>
+          <p>Finally I would like to know if I need a lot of money <NS type="RT"><i>about</i><c>for</c></NS> this <NS type="RN"><i>excursion</i><c>trip</c></NS> and if we are going to visit some <NS type="RN"><NS type="AGN"><i>building</i><c>buildings</c></NS></NS>. I've <NS type="X"><i>know</i><c>no</c></NS> idea what <NS type="R"><i>kind of weather it is</i><c>the weather is like</c></NS> in <NS type="MD"><c>the</c></NS> USA<NS type="MP"><i> could</i><c>.  Could</c></NS> you let me know what type of clothes <NS type="W"><i>should I</i><c>I should</c></NS> bring with me<NS type="RP"><i>.</i><c>?</c></NS></p>
+          <p><NS type="RP"><i>yours</i><c>Yours</c></NS> <NS type="RP"><i><NS type="DY"><i>Sincerly</i><c>Sincerely</c></NS></i><c>sincerely,</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thank you for your last letter<NS type="RP"><i>,</i><c>.</c></NS> <NS type="UV"><i>I'm</i><c>I</c></NS> really envy you <NS type="MD"><c>your</c></NS> holiday <NS type="RT"><i>under</i><c>in</c></NS> the sun.</p>
+          <p>Last month was amazing for me<NS type="RP"><i>,</i><c>.</c></NS> I was helping at a pop concert. All right, I wasn't able to do all the stuff like the lights<NS type="MP"><c>,</c></NS> the <NS type="RN">stereo</NS>, the sound but <NS type="TV"><i>I've been helping</i><c>I helped</c></NS> to <NS type="SX"><i>built</i><c>build</c></NS> the stage and <NS type="R">the installation of micros</NS>. The stage was <NS type="DJ"><i>gigantesque</i><c>gigantic</c></NS><NS type="MP"><i> the</i><c>. The</c></NS> <NS type="SX"><i>crowed</i><c>crowd</c></NS> <NS type="R">could be all around</NS>.</p>
+          <p>I really enjoyed <NS type="FV"><i>to be</i><c>being</c></NS> next to the pop stars<NS type="MP"><c>.</c></NS> I got a lot of <NS type="S"><i>autographes</i><c>autographs</c></NS><NS type="RP"><i>, that</i><c>. That</c></NS> was the first time I've seen <NS type="MA"><c>someone</c></NS> like Jagger<NS type="MP"><i> a</i><c>.  A</c></NS> lot of <NS type="MP"><i>well <NS type="DJ"><i>know</i><c>known</c></NS></i><c>well-known</c></NS> pop stars <NS type="AGV"><i>was</i><c>were</c></NS> there.</p>
+          <p>I mean<NS type="MP"><c>,</c></NS> <NS type="RP"><i>It's</i><c>it's</c></NS> still <NS type="S"><i>inbelivable</i><c>unbelievable</c></NS><NS type="RP"><i>, can</i><c>.  Can</c></NS> you imagine <NS type="U"><i>that was</i></NS> <NS type="MY"><c>how</c></NS> like a dream <NS type="RA"><i>I</i><c>it</c></NS> was <NS type="MV"><c>to be</c></NS> <NS type="RV"><i>checking</i><c>shaking</c></NS> their hands.</p>
+          <p>I <NS type="RV"><i>keep</i><c>have</c></NS> <NS type="UD"><i>a</i></NS> very good <NS type="AGN"><i><NS type="RN"><i>souvenir</i><c>memory</c></NS></i><c>memories</c></NS> <NS type="RT"><i>about</i><c>of</c></NS> this experience. I think I will go back <NS type="UD"><i>the</i></NS> next year.</p>
+          <p>Do you want <NS type="FV"><i>join</i><c>to join</c></NS> me?</p>
+          <p>I look forward to hearing from you as soon as possible</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

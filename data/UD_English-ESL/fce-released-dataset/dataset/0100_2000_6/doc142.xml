@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR52*0100*2000*01">
+  <candidate><personnel><language>German</language><age>16-20</age></personnel><score>26.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>DEAR MRS RYAN,</p>
+          <p>THANK YOU VERY MUCH FOR YOUR LETTER YOU SENT ME LAST WEEK. I'M VERY PROUD TO BE THE WINNER OF YOUR COMPETITION! I HAVE NEVER BEEN <NS type="RT"><i>IN</i><c>TO</c></NS> SUCH A CAMP BEFORE AND SO I'M LOOKING <NS type="S"><i>FORWART</i><c>FORWARD</c></NS> TO SPENDING TWO WEEKS THERE. HERE <NS type="AGV"><i>ARE</i><c>IS</c></NS> THE INFORMATION YOU ASKED FOR:</p>
+          <p>IT IS ONLY POSSIBLE FOR ME TO TRAVEL IN JULY BECAUSE OF MY <NS type="DJ"><i>UNREGULAR</i><c>IRREGULAR</c></NS> WORK. <NS type="R"><i>IN JULY WE HAVE GOT</i><c>JULY IS THE</c></NS> LOW SEASON AND IT WILL BE EASIER TO GO <NS type="W"><i>THEN ON <NS type="S"><i>HOLLYDAY</i><c>HOLIDAY</c></NS></i><c>ON HOLIDAY THEN</c></NS>. FURTHER I WOULD PREFER <NS type="MD"><c>A</c></NS> <NS type="AGN"><i>TENTS</i><c>TENT</c></NS>. I <NS type="TV"><i>HAVE BEEN</i><c>WAS</c></NS> <NS type="RT"><i>IN</i><c>AT</c></NS> A <NS type="DJ"><i>SPORT</i><c>SPORTS</c></NS> CAMP LAST YEAR AND IT WAS <NS type="RJ"><i>FUNNY</i><c>FUN</c></NS> TO SLEEP IN TENTS.</p>
+          <p>FROM THE ACTIVITIES I CHOOSE TENNIS AND SURFING. I <NS type="TV"><i>PLAY</i><c>HAVE PLAYED</c></NS> TENNIS IN A <NS type="RN"><i>CUP</i><c>CHAMPIONSHIP</c></NS> FOR FIVE YEARS BUT SURFING I HAVE NEVER DONE BEFORE.</p>
+          <p><NS type="MV"><c>DO</c></NS> WE NEED SOME SPECIAL <NS type="DJ"><i>SPORT</i><c>SPORTS</c></NS> CLOTHES FOR <NS type="AGQ"><i>THIS</i><c>THESE</c></NS> TWO ACTIVITIES? AND <NS type="R"><i>IS IT ALSO</i><c>AM I</c></NS> ALLOWED TO BRING MY DOG WITH <NS type="MA"><c>ME</c></NS>? HE'S A <NS type="S"><i>SMAL</i><c>SMALL</c></NS> ONE!</p>
+          <p>I'M LOOKING <NS type="S"><i>FORWART</i><c>FORWARD</c></NS> TO HEARING FROM YOU</p>
+          <p>YOURS SINCERELY</p>
+          <p>ESTELLE BRAUER</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.3</exam_score>
+         <coded_answer>
+          <p>DEAR KIM,</p>
+          <p>YOU KNOW THAT I ALWAYS WANTED TO HELP AT A CONCERT. TO BE <NS type="R"><i>IN A</i><c>PART OF THE</c></NS> STAFF <NS type="UN"><i>TEAM</i></NS> WOULD BE WONDERFUL, I <NS type="S"><i>THOUGTH</i><c>THOUGHT</c></NS>. AND I WAS RIGHT! BUT NOW FROM THE BEGINNING:</p>
+          <p>AS YOU KNOW I WROTE TO THAT ORGANISATION <NS type="RA"><i>WHO</i><c>WHICH</c></NS> IS ALWAYS <NS type="S"><i>RESPONSBLE</i><c>RESPONSIBLE</c></NS> FOR BIG EVENTS. ONE WEEK LATER THEY INVITED ME TO A POP CONCERT WHICH TOOK PLACE IN ZURICH LAST MONTH.</p>
+          <p>WHEN I ARRIVED WE FIRST HAD A MEETING. ALL <NS type="RT"><i>FROM</i><c>OF</c></NS> THE STAFF <NS type="UN"><i>TEAM</i></NS> AND THE ORGANISATION <NS type="S"><i>SPOK</i><c>SPOKE</c></NS> ABOUT THE RULES AND HOW TO SAVE PEOPLE. AFTER THE MEETING <NS type="W"><i>WE <NS type="S"><i>RECIEVED</i><c>RECEIVED</c></NS> ALL</i><c>WE ALL RECEIVED</c></NS> THE SAME CLOTHES. WE WERE A <NS type="S"><i>GROUPE</i><c>GROUP</c></NS>! ONE TEAM! BEFORE THE CONCERT WE HAD A BREAK TO EAT SOMETHING AND TO TALK TO EACH OTHER. IT WAS INTERESTING TO SEE THAT ALL PEOPLE HAVE <NS type="RJ"><i>OTHER</i><c>DIFFERENT</c></NS> HOBBIES AND <NS type="RN"><i>WORK</i><c>JOBS</c></NS>.</p>
+          <p>THE CONCERT WAS <NS type="S"><i>VERRY</i><c>VERY</c></NS> LOUD AND LONG BUT WE DIDN'T HAVE TO WORK HARD. I WAS HAPPY THAT THERE WAS NO DANGER FOR THE PEOPLE DURING THE CONCERT. AFTER A NICE CONCERT WE HAD TO CLEAN EVERYTHING AND I WAS HAPPY WHEN I ARRIVED AT HOME EARLY IN THE MORNING..!</p>
+          <p><NS type="L"><NS type="S"><i>GREATING</i><c>GREETINGS</c></NS></NS> AND HOPE TO SEE YOU SOON</p>
+          <p>Estelle</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

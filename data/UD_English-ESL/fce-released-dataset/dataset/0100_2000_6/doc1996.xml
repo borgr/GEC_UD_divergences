@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR795*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>21-25</age></personnel><score>34.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>June 13th, 2000</p>
+          <p>Dear Mrs Ryan,</p>
+          <p>I am very glad <NS type="UT"><i>for</i></NS> <NS type="FV"><i>receiving</i><c>to receive</c></NS> such a wonderful surprise<NS type="UP"><i>,</i></NS> <NS type="M"><c>as to learn</c></NS> that I have won first prize. What a lovely opportunity to go to America!</p>
+          <p>About the information you asked me for, the most suitable month for me to travel would be July, since it is when I am free <NS type="UT"><i>for</i></NS> <NS type="FV"><i><NS type="IV"><i>traveling</i><c>travelling</c></NS></i><c>to travel</c></NS> <NS type="R"><i>due to</i><c>because</c></NS> I won't have classes at school by that time. <NS type="RT"><i>In</i><c>As to</c></NS> the matter of accommodation I'd <NS type="UV"><i>rather</i></NS> prefer <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS>, because I consider them better for resting and <NS type="MV"><c>getting</c></NS> <NS type="FV"><i>know</i><c>to know</c></NS> people.</p>
+          <p>I also want to mention that it's great you have so many activities. The ones I consider I'm good at are painting and photography. I love nature and I'd like to record the Californian landscapes.</p>
+          <p>I have something I'd like to ask you. Do I have to take any special clothes with me? How warm is California in <NS type="AGD"><i>those</i><c>that</c></NS> <NS type="RN"><i>days</i><c>month</c></NS>? Another thing, should I <NS type="UV"><i>have</i></NS> <NS type="FV"><i>to take</i><c>take</c></NS> my camera with me for the activity at the Camp? I'd appreciate any further information you can give me.</p>
+          <p>Looking forward to your <NS type="S"><i>repply</i><c>reply</c></NS>.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>June 13th, 2000 Dear Kim, It was quite nice to hear from you and your family in the last letter you sent me. Hope everybody is <NS type="RJ"><i>fine</i><c>well</c></NS>. And, yes! I helped my friend Jane at the concert! It was such a wonderful <NS type="S"><i>experiece</i><c>experience</c></NS>! When Jane asked me to help her with <NS type="U"><i>the organisation of</i></NS> the publicity and specially with the <NS type="S"><i>inverviews</i><c>interviews</c></NS>, I just couldn't believe it. You know that I love going to concerts, but being <NS type="M"><c>at the</c></NS> <NS type="DN"><i>beging</i><c>beginning</c></NS> of <NS type="UD"><i>all</i></NS> the show and <NS type="W"><i>in the staff as a member</i><c>a member of the staff</c></NS><NS type="UP"><i>,</i></NS> was something I was always interested in. I never imagined how many people <NS type="AGV"><i>is</i><c>are</c></NS> involved in the organization <NS type="M"><c>of a concert</c></NS>! In the area of publicity we were about 50 guys, all of us investigating, calling <NS type="UT"><i>to</i></NS> radio stations, organizing the reporters, specifying where the press would be for the interview that took place afterwards... yet, it was <NS type="UD"><i>an</i></NS> <NS type="DY"><i>incredible</i><c>incredibly</c></NS> <NS type="DJ"><i><NS type="S"><i>satisfation</i><c>satisfaction</c></NS></i><c>satisfying</c></NS> when everything <NS type="RV"><i>finished</i><c>turned out</c></NS> just fine! Wish you were there! But, I heard you went on <NS type="FN"><i>vacations</i><c>vacation</c></NS> to Bermuda. Cool! How was it? You have to tell me everything! Looking forward to hearing from you. Love,</p>
+          <p>XXX</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE82*0100*2001*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>32.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>Thanks for your last letter and I am sorry <NS type="RT"><i>for</i><c>about</c></NS> not giving you enough information.</p>
+          <p>We have already booked a <NS type="DJ"><i>4 stars</i><c>4-star</c></NS> hotel - <NS type="MD"><c>the</c></NS> Palace Hotel, which is near the River Thames, in Walton-on-Thames. It is not far away from the station so we will go there by train. The end-of-conference party will be held in an <NS type="DJ"><i>India</i><c>Indian</c></NS> restaurant, <NS type="RA"><i>that</i><c>which</c></NS> is next to the hotel. It is <NS type="S"><i>surposed</i><c>supposed</c></NS> to be <NS type="UV"><i>held</i></NS> <NS type="RT"><i>during</i><c>from</c></NS> 7 pm to 11 pm. Also there are some competitions and exciting games after dinner and <NS type="MD"><c>a</c></NS> disco is also provided. You can wear anything you like<NS type="RP"><i>, we</i><c>. We</c></NS> would like you <NS type="W"><i>to be just</i><c>just to be</c></NS> yourself and have fun.</p>
+          <p>As you know, our area is quite famous and lots of people come and visit it every year. There are so many things to do<NS type="RP"><i>, unfortunately</i><c>. Unfortunately</c></NS>, there <NS type="AGV"><i>is</i><c>are</c></NS> just 3 hours. I recommend the high street in the centre of our area because it is quite good for shopping. So you can buy gifts for your friends or families.</p>
+          <p>I hope I have given you enough information and if you still have some <NS type="RN"><i>doubts</i><c>questions</c></NS>, please do not <NS type="S"><i>hestitate</i><c>hesitate</c></NS> to contact us.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Nowadays, our lives <NS type="AGV"><i>is</i><c>are</c></NS> becoming better and better. Lots of great inventions <NS type="AGV"><i>has</i><c>have</c></NS> been invented in order to <NS type="RV"><i>make</i><c>help</c></NS> people live <NS type="DY"><i>comfortablely</i><c>comfortably</c></NS>. If you ask me which is the greatest invention of all, I will say that it is the television.</p>
+          <p>"<NS type="AGN"><i>Televisions</i><c>Television</c></NS> is just an amazing invention." My good friend said that. I agree with her. Firstly, televisions <NS type="RV"><i>make</i><c>let</c></NS> us know more about the world without <NS type="FV"><i>travel</i><c>travelling</c></NS> <NS type="R">it all</NS>. If there <NS type="TV"><i>are</i><c>were</c></NS> no televisions, we <NS type="TV"><i>won't</i><c>wouldn't</c></NS> know what <NS type="W"><i><NS type="TV"><i>are</i><c>were</c></NS> the other countries</i><c>the other countries were</c></NS> like, or even what language they speak<NS type="MP"><c>,</c></NS> unless we <NS type="TV"><i>go</i><c>went</c></NS> to that country.</p>
+          <p>Secondly, <NS type="RT"><i>for</i><c>in</c></NS> some <NS type="RN"><i>points</i><c>ways</c></NS>, it can educate young children. Many TV programmes are <NS type="RY"><i>especially</i><c>specially</c></NS> made for children, such as "Learn <NS type="RP"><i>follow me</i><c>Follow Me</c></NS>" and "Be <NS type="RP"><i>good to others</i><c>Good to Others</c></NS>". Actually, they are quite good programmes and helped me <NS type="RV"><i>know</i><c>learn</c></NS> what I should do generally or how to behave <NS type="RY"><i>nicely</i><c>well</c></NS> when I was still a child.</p>
+          <p><NS type="ID"><i>The last but not least</i><c>Last but not least</c></NS>, it is a good kind of <NS type="AGN"><i>entertainments</i><c>entertainment</c></NS>. Maybe you <NS type="TV"><i>will think</i><c>think</c></NS> that playing basketball<NS type="R"><i>,</i><c> and</c></NS> going to cinemas and discos are much better <NS type="RC"><i>that</i><c>than</c></NS> staying at home sitting in front of an object. However, televisions can bring you the fun that other activities can't. If sometimes I don't want to go out and I don't want to be lonely, <NS type="RA"><i>that's</i><c>it's</c></NS> easy, <NS type="MA"><c>I</c></NS> just turn on the television and enjoy myself.</p>
+          <p>However, everything has its advantages and disadvantages. Personally, I do think televisions <NS type="AGV"><i>is</i><c>are</c></NS> the most important invention.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE21*0100*2001*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Smith,</p>
+          <p>I was very <NS type="DJ"><i>please</i><c>pleased</c></NS> to receive your letter. It is my pleasure to help you <NS type="MT"><c>with</c></NS> organising the international student conference.</p>
+          <p>Firstly, for your information, the group has been booked into the Palace Hotel, which is located <NS type="RT"><i>on</i><c>in</c></NS> the town centre. Students can take the airport bus <NS type="W"><i>to the hotel directly</i><c>directly to the hotel</c></NS> when you arrive. And the best way to get from there to the conference is <NS type="UT"><i>to</i></NS> by coach, as there are about 35 <NS type="DJ"><i>internation</i><c>international</c></NS> students, <NS type="MC"><c>and</c></NS> they are all strangers here. Therefore it is no good taking a bus. I will help you to book the coach.</p>
+          <p>Secondly, the end-of-conference party will be held at <NS type="MD"><c>the</c></NS> <NS type="MP"><i>college</i><c>college's</c></NS> main hall, <NS type="RT"><i>at</i><c>from</c></NS> 8:00 pm to 11:30 pm on 20th June. There will be various kinds of food and drinks provided. Moreover, students can dance and enjoy different sorts of music, for instance, rock, jazz, pop, garage and so on. Furthermore, I suggest you and the students <NS type="FV"><i>wearing</i><c>wear</c></NS> <NS type="DN">pub-wears</NS> to it, as <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> suitable for dancing.</p>
+          <p>Finally, on the last day, I suggest you <NS type="UV"><i>could</i></NS> go <NS type="MT"><c>to</c></NS> the market <NS type="RT"><i>at</i><c>in</c></NS> town during the 3-hour gap. It is a nice place to buy <NS type="UD"><i>the</i></NS> <NS type="MP"><i>British style</i><c>British-style</c></NS> gifts <NS type="RT"><i>to</i><c>for</c></NS> your family and friends. You could also enjoy the tea at the cafés nearby.</p>
+          <p>I would be <NS type="RJ"><i>grateful</i><c>pleased</c></NS> to give any help <NS type="UC"><i>if</i></NS> you need. I am looking forward to seeing you.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>From: Genevieve Chiu</p>
+          <p>To: <NS type="MD"><i>Group</i><c>The group</c></NS> leader of <NS type="MD"><c>the</c></NS> American students</p>
+          <p>Subject: Interesting building to visit in Hong Kong</p>
+          <p>Visiting Po Lin Temple</p>
+          <p>The purpose of this <NS type="MN"></NS> is to give information to the American students<NS type="UP"><i>,</i></NS> describing Po Lin Temple<NS type="M"><c>, which</c></NS> is <NS type="FV"><i><NS type="UP"><i>worth-visited</i><c>worth visited</c></NS></i><c>worth visiting</c></NS>.</p>
+          <p>1. Brief history of Po Lin Temple:</p>
+          <p>It was <NS type="TV"><i>found</i><c>founded</c></NS> in 1910. It is a traditional type of <NS type="RP"><i>chinese</i><c>Chinese</c></NS> temple. Because of the 2nd World War, it was re-built in 1960. A big <NS type="S"><i>Buhha</i><c>Buddha</c></NS> was built in 1997 just next to the temple, <NS type="R"><i>which</i><c>and it</c></NS> is the largest outdoor <NS type="S"><i>Buhha</i><c>Buddha</c></NS> in the world.</p>
+          <p>2. Location:</p>
+          <p>The location of Po Lin Temple is <NS type="RT"><i>in</i><c>on</c></NS> Lotus Island, which is the second biggest island in Hong Kong.</p>
+          <p>3. Opening and Closing time:</p>
+          <p>Po Lin Temple is <NS type="DJ"><i>opened</i><c>open</c></NS> to <NS type="MD"><c>the</c></NS> public from 8:00 am to 6:00 pm on Monday to Friday, and 9:00 am to 5:30 pm on Saturday and Sunday.</p>
+          <p>4. <NS type="CN"><i>Transports</i><c>Transport</c></NS></p>
+          <p>You could take the MTR (HK underground) straight to Lotus Island or take the ferry to get there. Then you need to take the bus<NS type="M"><c>, an</c></NS> A110, A111 or A112<NS type="MP"><c>,</c></NS> to Po Lin Temple. It is quite convenient. All the buses and <NS type="MD"><c>the</c></NS> MTR have <NS type="DN"><i>air-condition</i><c>air-conditioning</c></NS>.</p>
+          <p>5. Attractive points:</p>
+          <p>You could go sightseeing around the Temple and take photos. Of course, you may <NS type="RV"><i>get</i><c>acquire</c></NS> <NS type="R"><i>more</i><c>a greater</c></NS> knowledge <NS type="RT"><i>about</i><c>of</c></NS> Hong Kong, as the temple <NS type="AGV"><i>have</i><c>has</c></NS> been here for nearly 100 years. <NS type="AS"><i>The <NS type="RJ"><i><NS type="MP"><i>well known</i><c>well-known</c></NS></i><c>famous</c></NS> Big <NS type="S"><i>Buhha</i><c>Buddha</c></NS> you mustn't miss it</i><c>You mustn't miss the famous Big Buddha</c></NS>, or you will be sorry. The temple also <NS type="AGV"><i>provide</i><c>provides</c></NS> free Chinese <NS type="MP"><i>traditional style</i><c>traditional-style</c></NS> meals for visitors.</p>
+          <p>6. Conclusion:</p>
+          <p>To sum up, I think Po Lin Temple is a nice place to visit, especially for Americans students. <NS type="M"><i>Easy</i><c>It is easy</c></NS> to get there and <NS type="R">free <NS type="S"><i>amittion</i><c>admission</c></NS></NS>. <NS type="ID">On the other hand</NS>, Hong Kong is known as a highly <NS type="S"><i>commerical</i><c>commercial</c></NS> city, <NS type="RC"><i>but</i><c>and</c></NS> you could find something different in Po Lin Temple.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

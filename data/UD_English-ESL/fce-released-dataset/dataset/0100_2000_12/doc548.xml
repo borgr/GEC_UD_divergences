@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR227*0100*2000*02">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>27.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr Robertson,</p>
+          <p>I am writing about our class trip to London. First of all, I appreciate <NS type="DD"><i>you</i><c>your</c></NS> well-organised programme, especially<NS type="UP"><i>,</i></NS> <NS type="MD"><c>the</c></NS> "River Trip to Greenwich" which we requested. It <NS type="TV"><i>would</i><c>will</c></NS> be the most <NS type="SX"><i>excising</i><c>exciting</c></NS> activity <NS type="RT"><i>in</i><c>on</c></NS> this trip.</p>
+          <p>However, I saw the advertisement <NS type="RT"><i>of</i><c>for</c></NS> "THE LONDON FASHION AND LEISURE SHOW" in the newspaper today, and told all <NS type="MD"><c>our</c></NS> classmates about it. We are very interested in going <NS type="MT"><c>to</c></NS> this show. So I would like to suggest you <NS type="FV"><i>to change</i><c>change</c></NS> <NS type="UD"><i>the</i></NS> part of <NS type="MD"><c>the</c></NS> programme <NS type="R"><i>for</i><c>so we can</c></NS> <NS type="FV"><i>visiting</i><c>visit</c></NS> this show.</p>
+          <p>This show <NS type="TV"><i>is</i><c>will be</c></NS> held in <NS type="MD"><c>the</c></NS> Central Exhibition Hall, London on Tue. 14, March, and <NS type="MV"><c>is</c></NS> open from 10:00 to 19:00. We can see the latest fashions, leisure and sports wear, <NS type="MP"><i>make up</i><c>make-up</c></NS>, and hairstyles which we will learn <NS type="MT"><c>about</c></NS> next term. Therefore, I think it is <NS type="MD"><c>a</c></NS> great idea to visit the show for our <NS type="DN"><i>knowledgement</i><c>education</c></NS>. Furthermore, <NS type="UD"><i>the</i></NS> <NS type="S"><i>addmission</i><c>admission</c></NS> is free for students.</p>
+          <p>Unfortunately, our <NS type="S"><i>programm</i><c>programme</c></NS> is fixed but I think we could change <NS type="UD"><i>the</i></NS> part of the programme. For example, "shopping on 14<NS type="UP"><i>,</i></NS> March' can be changed to 15<NS type="UP"><i>,</i></NS> March instead of "Free time". So we will be able to use the time <NS type="RT"><i>at</i><c>in</c></NS> the afternoon on 14<NS type="UP"><i>,</i></NS> March for visiting the show.</p>
+          <p>I hope that you <NS type="TV"><i>would</i><c>will</c></NS> give us an opportunity to visit the show. I look forward to hearing from you soon.</p>
+          <p>Yours Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+         <coded_answer>
+          <p>Some people <NS type="TV"><i>said</i><c>have said</c></NS> that famous people such as politicians, and film stars, <NS type="AGV"><i>needs</i><c>need</c></NS> to have a private life without journalists following them all the time. I strongly agree with this. Firstly, most people <NS type="RV"><i>might</i><c>can</c></NS> remember the sad story of "Princess Diana"<NS type="MP"><i> she</i><c>. She</c></NS> died in Paris <NS type="MD"><c>a</c></NS> few years ago while she was escaping from lots of journalists called "<NS type="S"><i>Paparach</i><c>Paparazzi</c></NS>". If she <NS type="TV"><i>was not</i><c>had not been</c></NS> followed by journalists, she wouldn't <NS type="TV"><i>die</i><c>have died</c></NS>. So, this fact shows obviously that famous people without <NS type="MD"><c>a</c></NS> private life <NS type="TV"><i>could</i><c>can</c></NS> <NS type="RV"><i>be</i><c>become</c></NS> <NS type="UD"><i>the</i></NS> <NS type="FN"><i>victim</i><c>victims</c></NS>.</p>
+          <p>But on the other hand, ordinary people, including me, are keen on watching film stars or super models <NS type="UN"><i>fashion</i></NS>. Moreover, people are interested in their <NS type="RP"><i>life style</i><c>lifestyle</c></NS>. I think that is the reason why journalists are still chasing famous people after "Princess Diana's" accident.</p>
+          <p>However, secondly, famous people are not "<NS type="S"><i>ailen</i><c>alien</c></NS>" so <NS type="UA"><i>that</i></NS> they might do something, for example, <NS type="S"><i>ashame</i><c>shameful</c></NS> things in <NS type="MD"><c>a</c></NS> public space<NS type="MP"><c>,</c></NS> or <NS type="DV"><i>argument</i><c>argue</c></NS> with <NS type="MD"><c>a</c></NS> partner or family<NS type="MP"><c>,</c></NS> even put on <NS type="MD"><c>a</c></NS> swimming costume like us. So they can be just <NS type="S"><i>ordinaly</i><c>ordinary</c></NS> people like us. We have to think about <NS type="MA"><c>it</c></NS> this way.</p>
+          <p>Overall, people should think <NS type="M"><c>about what it would be like</c></NS> if we were famous people... and then we can find the answer that all people, including famous people, need <NS type="MD"><c>a</c></NS> private life and would like to <NS type="RV"><i>behave</i><c>have</c></NS> <NS type="R"><i>in</i><c>an</c></NS> <NS type="S"><i>ordinaly</i><c>ordinary</c></NS> life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

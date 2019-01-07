@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR349*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>26-30</age></personnel><score>23.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.3T</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="S"><i>Mz.</i><c>Mrs</c></NS> Ryan,</p>
+          <p>Thank you for your letter and I am very pleased that I won the first prize in your <NS type="S"><i>compition</i><c>competition</c></NS>. However, I am writing to you to ask for more details.</p>
+          <p>Firstly, I would like to go to California in June if <NS type="SX"><i>his</i><c>this</c></NS> is possible because I will have finished my course in Merton college at the end of June.</p>
+          <p>Secondly, I would prefer to <NS type="FV"><i>staying</i><c>stay</c></NS> in a tent rather than staying in a log cabin in order to have <NS type="MD"><c>an</c></NS> experience<NS type="UP"><i>,</i></NS> which I haven't had before.</p>
+          <p>I am very <NS type="SX"><i>knee</i><c>keen</c></NS> on swimming and playing tennis so <NS type="UC"><i>that</i></NS> I have had a part-time job in a sports centre in the evenings. I also have qualifications to teach them.</p>
+          <p>In addition to all this, I would <NS type="S"><i>appriciate</i><c>appreciate</c></NS> it if you could let me have more details about clothes and how much I shall be paid for the <NS type="RN"><i>travel</i><c>trip</c></NS>.</p>
+          <p>I look forward to hearing from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>To: Mrs. Sexington</p>
+          <p>From: An Soo Kim</p>
+          <p>Subject: Speaking classes and school trips</p>
+          <p>Introduction.</p>
+          <p>The aim of this report is to describe our English classes in Merton College and suggest <NS type="UC"><i>that</i></NS> what we should film for making a short video.</p>
+          <p>Speaking class should be filmed.</p>
+          <p>It is suggested that speaking classes should be filmed<NS type="MP"><i> the</i><c>. The</c></NS> reason why is that <NS type="UD"><i>the</i></NS> more students tend to attend.</p>
+          <p>Another reason is that it will be more useful for <NS type="S"><i>forigen</i><c>foreign</c></NS> students who want to speak English. <NS type="RD"><i>A</i><c>The</c></NS> number of <NS type="S"><i>forigen</i><c>foreign</c></NS> students <NS type="AGV"><i>have</i><c>has</c></NS> recently been increasing.</p>
+          <p>School trips</p>
+          <p>It is also thought that school trips are to be filmed because <NS type="RA"><i>it</i><c>there</c></NS> <NS type="AGV"><i>is</i><c>are</c></NS> a wide range of interesting places available. It is believed <NS type="UC"><i>that</i></NS> <NS type="MV"><c>to be</c></NS> one of the most popular activities in Merton College.</p>
+          <p>Conclusion</p>
+          <p>To sum up, it is <NS type="TV"><i>recommened</i><c>recommended</c></NS> that speaking classes and school trips should be filmed.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

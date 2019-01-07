@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR897*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>21-25</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13th JUNE 2000</p>
+          <p>Dear Miss Helen Ryan,</p>
+          <p>I am really glad <NS type="UT"><i>for</i></NS> <NS type="FV"><i><NS type="S"><i>reciving</i><c>receiving</c></NS></i><c>to receive</c></NS> the first <NS type="S"><i>priec</i><c>prize</c></NS> in your competition<NS type="RP"><i>,</i><c>.</c></NS> <NS type="RA"><i>I</i><c>It</c></NS> will be very <NS type="S"><i>plesant</i><c>pleasant</c></NS> <NS type="R">joining the <NS type="S"><i>holliday</i><c>holiday</c></NS></NS>.</p>
+          <p><NS type="R"><i>According to</i><c>Regarding</c></NS> your first question, I would like to travel only <NS type="RT"><i>at</i><c>in</c></NS> July because it is my school <NS type="S"><i>holliday</i><c>holiday</c></NS> so I would not miss any <NS type="AGN"><i>class</i><c>classes</c></NS>.</p>
+          <p>I rather prefer to stay in tents because I like to stay as <NS type="FJ"><i>closest</i><c>close</c></NS> as possible to nature<NS type="RP"><i>,</i><c>;</c></NS> it makes me feel better.</p>
+          <p><NS type="ID"><i>As a regard for</i><c>As regards</c></NS> activities I would choose singing and surfing<NS type="RP"><i>, surfing</i><c>.  Surfing</c></NS> because it is my <NS type="S"><i>favourit</i><c>favourite</c></NS> sport<NS type="RP"><i>,</i><c>.</c></NS> I have been surfing since I was a child so I am pretty good <NS type="RT"><i>on</i><c>at</c></NS> it<NS type="RP"><i>, and</i><c>.  And</c></NS> singing because I really love it<NS type="RP"><i>,</i><c>.</c></NS> I am not as good <NS type="RT"><i>on</i><c>at</c></NS> singing as I am <NS type="RT"><i>on</i><c>at</c></NS> surfing but I like doing it.</p>
+          <p>I would like to ask about <NS type="RP"><i>somethings</i><c>some things</c></NS> which might be necessary for me to take with <NS type="MA"><c>me</c></NS>, like what kind of clothes should I take, should I take my own <NS type="RP"><i>surf board</i><c>surfboard</c></NS>, and what about money, should I bring some with me?</p>
+          <p>I am looking forward to <NS type="FV"><i>hear</i><c>hearing</c></NS> from you.</p>
+          <p>Yours sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>13th JUNE 2000</p>
+          <p>Dear Kin,</p>
+          <p>As you know, I had a great experience last month giving a helping hand <NS type="RT"><i>for</i><c>to</c></NS> the band called RAMONES.</p>
+          <p>It was a breeze to help them and was very cool as well<NS type="RP"><i>,</i><c>;</c></NS> those guys really know how to play rock.</p>
+          <p>I <NS type="W"><i>had only</i><c>only had</c></NS> to stay behind the drummer <NS type="S"><i>suppling</i><c>supplying</c></NS> them with water whenever they wanted.</p>
+          <p>When the band had just started to play, lots of girls started to jump the <NS type="SX"><i>faints</i><c>fence</c></NS> getting very close to them<NS type="RP"><i>, some</i><c>.  Some</c></NS> of the girls started to take their clothes <NS type="RY"><i>of</i><c>off</c></NS>, which was the best part for me, but some of <NS type="MD"><c>the</c></NS> <NS type="CN"><i>securities</i><c>security</c></NS> went there and took them away.</p>
+          <p>Afterwards, the Ramones had a short break and when they <NS type="RV"><i>went</i><c>came</c></NS> back from their break <NS type="TV"><i>they've just went</i><c>they just went</c></NS> <NS type="RT"><i>of</i><c>off</c></NS><NS type="RP"><i>.</i><c>!</c></NS></p>
+          <p>I had a really nice time with them even <NS type="S"><i>tought</i><c>though</c></NS> I would've <NS type="IV"><i>prefered</i><c>preferred</c></NS> to stay at the front with the <NS type="IQ"><i>others</i><c>other</c></NS> people, but anyway it was a great experience for me, I <NS type="S"><i>holp</i><c>hope</c></NS> to be able to help them next year.</p>
+          <p>I <NS type="S"><i>holp</i><c>hope</c></NS> you've <NS type="S"><i>enjoed</i><c>enjoyed</c></NS> my experience, and I hope to hear from you soon.</p>
+          <p>See yah mate</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

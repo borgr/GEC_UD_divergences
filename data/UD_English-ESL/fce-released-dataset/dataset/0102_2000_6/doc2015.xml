@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR807*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>21-25</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir:</p>
+          <p>I'm <NS type="IV"><i>writting</i><c>writing</c></NS> this letter to complain about the musical show I saw during my stay in London. This show was supposed to be a perfect event but actually I had a very disappointing evening.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I want to say that I'm very keen on Danny Brook who was one of the main reasons why I decided to <NS type="RV"><i>come</i><c>go</c></NS>. However<NS type="MP"><c>,</c></NS> my favourite actor was not there. How could that happen?</p>
+          <p>I also would like to know why the <NS type="UJ"><i>musical</i></NS> show started at a quarter past eight instead of half past seven. I spent a lot of time waiting for the show to start. I really do understand that problems can always come up but it would not have been a problem for me <NS type="R"><i>as long as</i><c>if</c></NS> I had been informed about it.</p>
+          <p>Of course discounts were not available either, and the restaurant where we were supposed to eat afterwards was closed without any explanation at all.</p>
+          <p>So, what should have been a nice evening out <NS type="RV"><i>came</i><c>became</c></NS> <NS type="UT"><i>to</i></NS> a nightmare.</p>
+          <p>I guess all my reasons are more than enough to get my money back.</p>
+          <p>Thank you very much:</p>
+          <p>Yours faithfully:</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Modern technology has actually changed my life quite a lot.</p>
+          <p>Firstly I would like to talk about computers. A couple of years ago I bought a new computer and I had to learn all about them. Even though it was my first one I managed and I got to know <NS type="W"><i>pretty fast the way they work</i><c>the way they work pretty fast</c></NS>. Now, I'm just fascinated by <NS type="MD"><c>the</c></NS> Internet and I <NS type="TV"><i>spent</i><c>spend</c></NS> at least half an hour every day surfing the net, visiting lots of <NS type="RN"><i>webs</i><c>websites</c></NS> and getting all <NS type="AGN"><i>kind</i><c>kinds</c></NS> of information for free.</p>
+          <p>I'm impressed by communications as well. If I want to communicate with a friend in Australia I just have to send him an e-mail<NS type="MP"><c>,</c></NS> which is going to get to my <NS type="RN"><i>fellow</i><c>friend</c></NS> in a <NS type="MJ"><c>little</c></NS> while. Isn't that amazing?</p>
+          <p>I should not forget mobile phones. If I feel like talking to a friend I just have to call him and <NS type="S"><i>whereever</i><c>wherever</c></NS> he is I will be able to get through to him. Several <NS type="RP"><i>european</i><c>European</c></NS> companies like Nokia or Ericsson are focusing on mobiles and I have been told that in a couple of years it will be possible to send <NS type="SX"><i>and</i><c>an</c></NS> e-mail either from <NS type="RD"><i>the</i><c>a</c></NS> computer or from <NS type="RD"><i>the</i><c>a</c></NS> mobile<NS type="MP"><c>,</c></NS> which is going to be great.</p>
+          <p>Finally I want to <NS type="RV"><i>explain</i><c>say</c></NS> that three weeks ago I started working for a new company and my job is all about new technologies. I'm <NS type="DY"><i>extremly</i><c>extremely</c></NS> happy because not only do I earn a lot of money but also I'm learning a lot.</p>
+          <p>So, as you can see, modern technology has had <NS type="MD"><c>an</c></NS> influence <NS type="RT"><i>in</i><c>on</c></NS> my life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

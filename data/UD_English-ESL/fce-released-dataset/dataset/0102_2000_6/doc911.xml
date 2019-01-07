@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR370*0102*2000*01">
+  <candidate><personnel><language>Polish</language><age>21-25</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Sir or Madam,</p>
+          <p>I am writing to you because of the <NS type="S"><i>unpleasent</i><c>unpleasant</c></NS> evening I have <NS type="RV"><i>spent</i><c>had</c></NS> recently.</p>
+          <p>I <NS type="TV"><i>have</i><c>had</c></NS> always thought that <NS type="MD"><c>the</c></NS> plays of the Circle Theatre are worth <NS type="UT"><i>of</i></NS> seeing, but two days <NS type="RY"><i>before</i><c>ago</c></NS> I was very disappointed after visiting <NS type="DI"><i>yours</i><c>your</c></NS> theatre. <NS type="DY"><i>Ealyer</i><c>Earlier</c></NS> I had seen an advertisement for the show but the <NS type="CN"><i>informationes</i><c>information</c></NS> on it <NS type="RV"><i>caused</i><c>was</c></NS> <NS type="S"><i>fals</i><c>false</c></NS>.</p>
+          <p>First of all<NS type="MP"><c>,</c></NS> I <NS type="TV"><i>have not seen</i><c>did not see</c></NS> my favourite actor<NS type="MP"><c>,</c></NS> Danny Brook. The second <NS type="SX"><i>think</i><c>thing</c></NS> is that the play did not start at 19:30 but at 20:15! I could not get a discount. The last <NS type="SX"><i>think</i><c>thing</c></NS> is that it was <NS type="DJ"><i>unpossible</i><c>impossible</c></NS> to <NS type="RV"><i>get</i><c>go</c></NS> <NS type="MT"><c>to</c></NS> the theatre restaurant because it was closed. I was told that it had been painted but nobody had written <NS type="RA"><i>it</i><c>that</c></NS> on <NS type="RD"><i>an</i><c>the</c></NS> advertisement.</p>
+          <p><NS type="RY"><i>At the end</i><c>Finally</c></NS><NS type="MP"><c>,</c></NS> I would like to say that my evening out two days <NS type="RY"><i>before</i><c>ago</c></NS> was not perfect and I <NS type="S"><i>wold</i><c>would</c></NS> be glad if you could <NS type="AS"><i><NS type="RV"><i>pay</i><c>give</c></NS> my some money back</i><c>give some of my money back</c></NS>.</p>
+          <p>Yours <NS type="RY"><i>sincerely</i><c>faithfully</c></NS></p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.2</exam_score>
+         <coded_answer>
+          <p>Modern technology is changing <NS type="MD"><c>the</c></NS> world every day. I would like to write <NS type="MT"><c>about</c></NS> how it has <NS type="S"><i>influented</i><c>influenced</c></NS> my daily life.</p>
+          <p>I am a student <NS type="RT"><i>of</i><c>at</c></NS> a technical <NS type="S"><i>univercity</i><c>university</c></NS>. Some time <NS type="RY"><i>before</i><c>ago</c></NS> I did not know <NS type="M"><c>anything about</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS>. When I <NS type="S"><i>neaded</i><c>needed</c></NS> some <NS type="CN"><i>informationes</i><c>information</c></NS> I had to go to <NS type="MD"><c>the</c></NS> <NS type="S"><i>liblary</i><c>library</c></NS> to find it in books or newspapers. Now the only <NS type="SX"><i>think</i><c>thing</c></NS> I have to do is to go to <NS type="MD"><c>the</c></NS> computer room and turn on the computer. The computer is <NS type="DJ"><i>helpfull</i><c>helpful</c></NS> when I want to contact somebody very fast. I just send an e-mail and that is all!</p>
+          <p>The second <NS type="SX"><i>think</i><c>thing</c></NS> is that when I <NS type="S"><i>neaded</i><c>needed</c></NS> a phone card to call somebody I had to <NS type="RV"><i>stay</i><c>stand</c></NS> in a long queue. Now I just <NS type="UY"><i>only</i></NS> put some money into a machine and I can take the card from there!</p>
+          <p>The last example is that I have <NS type="W"><i>in my house a lot of modern equipment</i><c>a lot of modern equipment in my house</c></NS><NS type="MP"><c>,</c></NS> like <NS type="MD"><c>a</c></NS> TV set, fridge <NS type="RC"><i>or</i><c>and</c></NS> <NS type="FN"><i>microwaves</i><c>microwave</c></NS> which help me <NS type="RT"><i>for</i><c>in</c></NS> my <NS type="RN"><i>living</i><c>life</c></NS>.</p>
+          <p>It is obvious that modern technology has changed my daily life.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

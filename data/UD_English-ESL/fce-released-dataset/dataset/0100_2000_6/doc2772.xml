@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1126*0100*2000*01">
+  <candidate><personnel><language>Korean</language><age>&lt;16</age></personnel><score>37.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>13 June, 2000</p>
+          <p>Dear Helen<NS type="RP"><i>.</i><c>,</c></NS></p>
+          <p>I've been thrilled <NS type="RP"><i>eversince</i><c>ever since</c></NS> I received your letter indicating my luck of having won the first prize in the competition that you organized recently. In response to the letter, I am sending mine to state the <NS type="CL"><i>options and choice</i><c>choices</c></NS> that I have made concerning the date of the trip, the place where I will be staying and the two activities that I have chosen<NS type="MP"><c>,</c></NS> along with some questions.</p>
+          <p>Firstly, I wish to travel <NS type="RT"><i>on</i><c>in</c></NS> July as I already have plans for June<NS type="MP"><c>,</c></NS> which <NS type="AGV"><i>is</i><c>are</c></NS> to visit France for 3 weeks as soon as my summer <NS type="FN"><i>vacations</i><c>vacation</c></NS> commences.</p>
+          <p>Secondly, <NS type="RT"><i>to</i><c>regarding</c></NS> the question of lodging, I have chosen tents since I enjoy camping in them very much.</p>
+          <p>Among the numerous choices of activities, I am considering taking those of golf and surfing. I have been playing golf since the age of 8, therefore I am certain that I will not require help of any sort. However, as this will be my first time <NS type="UV"><i>to go</i></NS> surfing, I am willing to take classes for beginners.</p>
+          <p>Lastly, I've been struggling with the question of money and clothing and would <NS type="RV"><i>lie</i><c>like</c></NS> to be informed about the climate there so that I will be able to pack the clothes that I need and I would be thankful if you would consider sending me an estimation of <NS type="MD"><c>the</c></NS> amount of money I will have <NS type="FV"><i>spend</i><c>to spend</c></NS> in the camp.</p>
+          <p>I am looking forward <NS type="RT"><i>in</i><c>to</c></NS> being received <NS type="RT"><i>in</i><c>at</c></NS> camp California.</p>
+          <p>Thank you in advance.</p>
+          <p>Yours sincerely,</p>
+          <p>Regina Kong </p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>13 June, 2000</p>
+          <p>Dear Kim,</p>
+          <p>Hi Kim. How are you?</p>
+          <p>I am fine and so is my family.</p>
+          <p>I was glad to receive <NS type="RD"><i>your</i><c>a</c></NS> letter from you and after having heard that you are interested in helping pop singers have a concert, I started writing as soon as I could.</p>
+          <p>I <NS type="SX"><i>thin</i><c>think</c></NS> it's a wonderful idea and my advice is to take it if you have an offer! I had so much fun helping my friends' band <NS type="RV"><i>having</i><c>putting on</c></NS> their concert.</p>
+          <p>At first, they asked me to decorate the stage since I like drawing, but as I wanted to get more involved, they said that I could also help them set up the lights, the microphones and the instruments. I have to admit that it wasn't always easy, but my effort was worth every penny.</p>
+          <p>The concert was a hit and the stage looked fabulous! The audience seemed pretty impressed as well. I thought it was a great opportunity to see how things turn out so well when you put everybody's different talents together. I'm not sure <NS type="UT"><i>of</i></NS> what part you're interested in, but I think drawing the background for the stage was the best, and I suggest that you try doing it too.</p>
+          <p>If you have any questions, please write to me.</p>
+          <p>I wish you the best of luck and hope you have fun helping the singers as much as I did</p>
+          <p>Lots and lots of kisses,</p>
+          <p>Regina</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

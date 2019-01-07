@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR739*0102*2000*01">
+  <candidate><personnel><language>Japanese</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear <NS type="UD"><i>The</i></NS> Manager of the Circle Theatre,</p>
+          <p>I went to the Circle Theatre to see the show<NS type="UP"><i>,</i></NS> "OVER THE RAINBOW" a few days ago. I am writing this letter to tell you how <NS type="W"><i>I felt disappointed</i><c>disappointed I felt</c></NS> with it.</p>
+          <p>There are some differences between the advertisement and the real show. <NS type="RT"><i>With</i><c>In</c></NS> the advertisement, you mentioned Mr. Danny Brook and Ms. Tina Truelove were going to <NS type="RV"><i>play</i><c>perform</c></NS> but actually different people were <NS type="RV"><i>playing</i><c>performing</c></NS>, whom I <NS type="TV"><i>have</i><c>had</c></NS> never seen before. And also it said it was going to start at 19:30 but it <NS type="TV"><i>was not started</i><c>did not start</c></NS> until 20:15. To make it worse, neither discounts <NS type="X"><i>or</i><c>nor</c></NS> <NS type="S"><i>restraurants</i><c>restaurants</c></NS> were available <NS type="UT"><i>at</i></NS> that night although they were said to be available. According to the <NS type="S"><i>owener</i><c>owner</c></NS> of the restaurant, it was closed because <NS type="R">the plugs of some lights were cut off</NS>.</p>
+          <p><NS type="R">As I am writing</NS>, it was not a perfect evening at all but horrible, so I would like to ask for <NS type="MD"><c>my</c></NS> money back and <NS type="DN"><i>compensate</i><c>compensation</c></NS> for my special 20th birthday.</p>
+          <p>I am waiting <NS type="R"><i>for</i><c>to receive</c></NS> your reply as soon as possible.</p>
+          <p> Faithfully yours,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Fashion Of the Future</p>
+          <p>There <NS type="TV"><i>have been</i><c>are</c></NS> already a variety of fashion <NS type="AGN"><i>style</i><c>styles</c></NS> nowadays. Some are <NS type="RJ"><i><NS type="RP"><i>in formal</i><c>informal</c></NS></i><c>formal</c></NS> others are <NS type="UT"><i>in</i></NS> casual. Especially in big cities such as London, New York and Tokyo, you can see a lot of people in various clothes, so I do not think there will be such big differences in <NS type="MD"><c>the</c></NS> <NS type="RN"><i><NS type="DN"><i>outlooking</i><c>outlook</c></NS></i><c>appearance</c></NS> of clothes even 100 years from now.</p>
+          <p>However, I think<NS type="UP"><i>,</i></NS> there will be some <NS type="S"><i>diffences</i><c>differences</c></NS> in <NS type="MD"><c>the</c></NS> quality and materials of clothes. For example, speaking of sports, a lot of remarkable progress has been made<NS type="MP"><c>,</c></NS> <NS type="W"><i><NS type="RT"><i>in</i><c>with</c></NS> especially</i><c>especially with</c></NS> swimming costumes and athletes' <NS type="RN">costumes</NS> for <NS type="MD"><c>the</c></NS> <NS type="IN"><i>Olympic</i><c>Olympics</c></NS>.</p>
+          <p>In addition, I think the earth will be warmer and <NS type="RJ">warmer</NS> than now and 100 <NS type="AGN"><i>year</i><c>years</c></NS> from now <NS type="R">will be an Area of Space</NS>. So clothes for space will be necessary and clothes for warmer climates will be necessary.</p>
+          <p>In conclusion, 100 years from now, I think<NS type="UP"><i>,</i></NS> <NS type="MD"><c>a</c></NS> better quality <NS type="RT"><i>in</i><c>of</c></NS> clothes will be <NS type="RV">created</NS> in every <NS type="R">field, such as sports, office, leisure, building site, school and space</NS>. <NS type="RP"><i>although</i><c>Although</c></NS> <NS type="MD"><c>the</c></NS> <NS type="RN"><i><NS type="DN"><i>outlooking</i><c>outlook</c></NS></i><c>appearance</c></NS> such as<NS type="UP"><i>,</i></NS> shape and <NS type="SA"><i>color</i><c>colour</c></NS> will not <NS type="FV"><i>be changed</i><c>change</c></NS> so much in fashion.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR266*0102*2000*01">
+  <candidate><personnel><language>French</language><age>21-25</age></personnel><score>31.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir,</p>
+          <p>Being on <NS type="UD"><i>a</i></NS> holiday <NS type="UN"><i>trip</i></NS> in London, I dreamed <NS type="MT"><c>of</c></NS> <NS type="FV"><i>to go</i><c>going</c></NS> to the theatre <NS type="RT"><i>for</i><c>to</c></NS> a musical show. I saw your advertisement last Monday, and thought<NS type="MP"><c>,</c></NS> "It is that one that I want to try."</p>
+          <p>In fact, your musical show was attractive: actors, time, restaurant, discount tickets, and also the title! I started to be OK with <NS type="UD"><i>the</i></NS> "Your perfect evening out", <NS type="RJ"><i>sure</i><c>certain</c></NS> <NS type="M"><c>I was</c></NS> not <NS type="MV"><c>going</c></NS> to be deceived.</p>
+          <p>But <NS type="RA"><i>all</i><c>everything</c></NS> was disappointing! First, as I am very <NS type="SX"><i>found</i><c>fond</c></NS> of Danny Brook, I <NS type="TV"><i>have been</i><c>was</c></NS> surprised <NS type="MC"><c>that</c></NS> he <NS type="TV"><i>totally changed</i><c>had totally changed</c></NS> his voice, face, and so on! It was not Danny on the <NS type="RN"><i>scene</i><c>stage</c></NS>! Second bad point: <NS type="W"><i><NS type="IV"><i>beeing</i><c>being</c></NS> not <NS type="MP"><i>narrowminded</i><c>narrow-minded</c></NS></i><c>not being narrow-minded</c></NS>, I accept other actors.. but <NS type="MY"><c>only</c></NS> if the show <NS type="AGV"><i>begin</i><c>begins</c></NS> on time - <NS type="RA"><i>he</i><c>it</c></NS> began at a quarter past eight <NS type="UP"><i>P.M</i></NS>.</p>
+          <p>There were no discount <NS type="RN"><i>places</i><c>seats</c></NS> because it was not <NS type="IV"><i>planed</i><c>planned</c></NS> <NS type="W"><i>like <NS type="RA"><i>this</i><c>that</c></NS> by the theatre</i><c>by the theatre like that</c></NS>. What was written <NS type="RT"><i>on</i><c>in</c></NS> the advertisement?</p>
+          <p>The <NS type="DN">summum</NS> was reached when I saw the restaurant was closed for "holidays".</p>
+          <p>I was terribly <NS type="S"><i>ennoyed</i><c>annoyed</c></NS>! I spent the <NS type="FJ"><i>worse</i><c>worst</c></NS> evening of my holiday <NS type="RT"><i>in</i><c>at</c></NS> this show!</p>
+          <p>So I <NS type="W"><i>need now</i><c>now need</c></NS> a "perfect - <NS type="DN"><i>money back</i><c>refund</c></NS> -" <NS type="RT"><i>for</i><c>in</c></NS> replacement <NS type="RT"><i>of</i><c>for</c></NS> your "perfect evening out".</p>
+          <p>I do hope you will accept and understand this request.</p>
+          <p>Yours:</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>"How has modern technology changed your daily life?" First of all, "daily life" concerns (as far as I am concerned) my life everywhere, and more precisely at home, at the university and at work. <NS type="R"><i>Up to</i><c>As recently as</c></NS> two years ago, I was working with a <NS type="RN"><i>written booknote</i><c>notebook</c></NS> or <NS type="RN"><i>agenda</i><c>diary</c></NS>, and I used to <NS type="RV"><i>phone</i><c>use</c></NS> <NS type="UT"><i>with</i></NS> a wired phone system. <NS type="S"><i>Nowaday</i><c>Nowadays</c></NS>, I organise my activities with an electronic organizer that <NS type="RV"><i>authorizes</i><c>allows</c></NS> me to connect to <NS type="MD"><c>the</c></NS> Internet by infra-red link with my mobile phone to get <NS type="CN"><i>informations</i><c>information</c></NS> and electronic <NS type="CN"><i>mails</i><c>mail</c></NS>. I am always <NS type="RJ"><i>joinable</i><c>available</c></NS> <NS type="RT"><i>with</i><c>on</c></NS> my mobile phone, <NS type="RA"><i>that</i><c>which</c></NS> is also <NS type="W"><i>sometimes boring</i><c>boring sometimes</c></NS>! Being <NS type="RT"><i>in</i><c>on</c></NS> an apprenticeship, I go <NS type="MT"><c>to</c></NS> both work and university. At the university, I have <NS type="RV"><i>learned</i><c>studied</c></NS> with <NS type="MP"><i>computer aided</i><c>computer-aided</c></NS> systems. I often go on <NS type="MD"><c>the</c></NS> Internet to find <NS type="CN"><i>informations</i><c>information</c></NS> <NS type="R"><i>for</i><c>when</c></NS> studying a <NS type="RJ"><i>precise</i><c>particular</c></NS> subject more <NS type="RY"><i><NS type="S"><i>accutely</i><c>accurately</c></NS></i><c>closely</c></NS> (university technology sites). At work my <NS type="RJ"><i>personal</i><c>particular</c></NS> job <NS type="RV"><i>uses</i><c>involves</c></NS> two standard <NS type="AGN"><i>PC</i><c>PCs</c></NS> with <NS type="DJ"><i>specifical</i><c>specific</c></NS> <NS type="CN"><i>softwares</i><c>software</c></NS> plus one workstation with the Stanford University Network (SUN) operating system and a <NS type="RJ"><i>particular</i><c>special</c></NS> computer that my firm is <NS type="W"><i><NS type="IV"><i>developping</i><c>developing</c></NS> now</i><c>now developing</c></NS>. At home, I have got a personal computer for my <NS type="CN"><i>mails</i><c>mail</c></NS> and accounts, and electronic mail plus <NS type="MD"><c>the</c></NS> <NS type="RP"><i>internet</i><c>Internet</c></NS> for keeping <NS type="RV"><i>connected to</i><c>in touch with</c></NS> my friends <NS type="RA"><i>that</i><c>who</c></NS> are <NS type="RT"><i>at</i><c>on</c></NS> the other <NS type="RN"><i>end</i><c>side</c></NS> of France or Germany, Korea and so on. So modern technology has totally changed my daily life!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

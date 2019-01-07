@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR746*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>31-40</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Cambridge, 13th June 2000.</p>
+          <p>Dear Miss Helen Ryan;</p>
+          <p>Thanks for your letter. I am very happy <NS type="RT"><i>for</i><c>about</c></NS> the news. Also <NS type="M"></NS> to know about the all accommodation and travel costs that <NS type="AGV"><i>is</i><c>are</c></NS> <NS type="DJ"><i>including</i><c>included</c></NS> in the first prize.</p>
+          <p>I am going to give <NS type="MA"><c>you</c></NS> all the information that you need.</p>
+          <p>I would like to travel only in July because I am free from <NS type="UD"><i>my</i></NS> college and also it is a very good time for me. Regarding <NS type="UT"><i>of</i></NS> the accommodation at <NS type="UD"><i>the</i></NS> Camp California<NS type="MP"><c>,</c></NS> I would prefer <NS type="MV"><c>to stay</c></NS> in a tent, because I have <NS type="MV"><c>had</c></NS> <NS type="MD"><c>a</c></NS> very nice experience <NS type="M"><c>in a tent</c></NS> and I love to share with other people. In addition I would like to choose <NS type="UT"><i>for</i></NS> singing and photography because I am good at singing and taking <NS type="IN"><i>photographies</i><c>photographs</c></NS>.</p>
+          <p>Please could you let me know if <NS type="R"><i>a</i><c>I</c></NS> need <NS type="RQ"><i>a</i><c>any</c></NS> <NS type="L"><i>especial</i><c>special</c></NS> clothes and also how much money I need to bring?</p>
+          <p>Finally is it possible to have <NS type="R"><i>some</i><c>a</c></NS> map <NS type="UT"><i>regarding</i></NS> of the area?</p>
+          <p>Yours sincerely</p>
+          <p>ELENA PANER (MRS).</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Cambridge, 13th June 2000</p>
+          <p>Dear Kim,</p>
+          <p>I hope you <NS type="R"><i>are fine together with your family</i><c>and your family are fine</c></NS>. I am going to answer your letter just now.</p>
+          <p>Last month I enjoyed <NS type="W"><i>a lot <NS type="FV"><i>to help</i><c>helping</c></NS> at a pop concert</i><c>helping at a pop concert a lot</c></NS><NS type="RP"><i>, really</i><c>. Really</c></NS> it was a very <NS type="S"><i>intresting</i><c>interesting</c></NS> experience, particularly <NS type="M"><c>when I</c></NS> <NS type="UT"><i>to</i></NS> had <NS type="FV"><i>deal</i><c>to deal</c></NS> with a young group of children from Latin America. It <NS type="TV"><i>is</i><c>was</c></NS> <NS type="S"><i>increible</i><c>incredible</c></NS><NS type="UP"><i>!!</i></NS>, because I learnt some <NS type="RP"><i>spanish</i><c>Spanish</c></NS> words such <NS type="R"><i>us</i><c>as</c></NS> Hello, How are you? <NS type="RP"><i>good bye</i><c>goodbye</c></NS><NS type="UP"><i>?</i></NS>, What is your name, house, dog, cat, boy, girls etc<NS type="RP"><i>,</i><c>.</c></NS> I am very happy that I <NS type="S"><i>promed</i><c>promised</c></NS> <NS type="UT"><i>to</i></NS> myself <NS type="M"><c>that I would</c></NS> learn <NS type="RP"><i>spanish</i><c>Spanish</c></NS> this <NS type="S"><i>sommar</i><c>Summer</c></NS> at <NS type="UD"><i>the</i></NS> Huntingdon College. Also another interesting <NS type="AGN"><i>things</i><c>thing</c></NS> was <NS type="RV"><i><NS type="FV"><i>to know</i><c>knowing</c></NS></i><c>learning</c></NS> about their culture, because all of them come from Peru, Bolivia, Ecuador, Chile <NS type="RC"><i>and</i><c>or</c></NS> Uruguay. At the concert they were very <NS type="S"><i>susscceful</i><c>successful</c></NS> because they were very confident and I helped with the sound system and our equipment was extraordinary and the audience were fantastic. I hope one day you and <NS type="RA"><i>me</i><c>I</c></NS> can travel to South America because I would like to introduce you <NS type="MT"><c>to</c></NS> my new friends.</p>
+          <p>Now I have to end this letter, so please call me if you want to see me next week.</p>
+          <p>Take care!!</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

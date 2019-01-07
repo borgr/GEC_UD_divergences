@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR291*0100*2000*01">
+  <candidate><personnel><language>Chinese</language><age>16-20</age></personnel><score>25.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Helen,</p>
+          <p>Thank you very much for your letter which said I <NS type="TV"><i>had</i><c>have</c></NS> won first prize in your competition. I was really <NS type="DJ"><i>surprise</i><c>surprised</c></NS> to hear that.</p>
+          <p>I am afraid I can only make it <NS type="RT"><i>on</i><c>in</c></NS> July, because I am taking exams this month. Moreover, I'll prepare everything for going to University <NS type="RT"><i>on</i><c>in</c></NS> August. I have no time until Christmas. So, I think the best time is July.</p>
+          <p>The accommodation I prefer is <NS type="MD"><c>a</c></NS> tent. I haven't <NS type="RV"><i>tied</i><c>tried</c></NS> it before. I would like to know how interesting it is to live in tents. If I can only choose two activities while I am at the Camp, I would like climbing and Basketball. I started climbing <NS type="R"><i>since</i><c>when</c></NS> I was a child. I love it very much. About <NS type="UD"><i>the</i></NS> Basketball, I have been <NS type="FV"><i>played</i><c>playing</c></NS> it for seven years. I would like to play basketball with local people at the Camp to see how good they are, if I can.</p>
+          <p>Finally, may I ask <NS type="MT"><c>for</c></NS> some more <NS type="CN"><i>informations</i><c>information</c></NS><NS type="RP"><i>.</i><c>?</c></NS> What kinds of clothes <NS type="RV"><i>shall</i><c>should</c></NS> I take? <NS type="RP"><i>how</i><c>. How</c></NS> about the weather there? <NS type="TV"><i>Would</i><c>Will</c></NS> you give me some pocket-money during the trip<NS type="RP"><i>.</i><c>?</c></NS> Also, may I take a friend with me<NS type="RP"><i>, how</i><c>? How</c></NS> much <NS type="RV"><i>will</i><c>should</c></NS> she pay?</p>
+          <p>I look forward to hearing from you soon.</p>
+          <p>Yours sincerely,</p>
+          <p>JIA LI LO</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>To: Teacher Cheng</p>
+          <p>From: Jia Lo</p>
+          <p>Date: 13/06/00</p>
+          <p>Subject: a short video about daily life at school</p>
+          <p>As I was asked, I spoke to a number of students about their opinions <NS type="RT"><i>of</i><c>concerning</c></NS> this short video. I found that most of them <NS type="TV"><i>had suggested</i><c>suggested</c></NS> that four lessons should be filmed<NS type="MP"><c>,</c></NS> which <NS type="MV"><c>are</c></NS> as follow:</p>
+          <p>1. <NS type="R"><NS type="S"><i>Grammer</i><c>Grammar</c></NS>, which is the <NS type="RN"><i>base</i><c>basis</c></NS> of learning English</NS>.</p>
+          <p>2. Speaking<NS type="RP"><i>,</i><c>:</c></NS> it makes you more confident when you talk with other <NS type="S"><i>peoper</i><c>people</c></NS>. <NS type="AGV"><i><NS type="MA"><i>Let</i><c>It let</c></NS></i><c>It lets</c></NS> you <NS type="RV"><i>do</i><c>get</c></NS> more <NS type="FN"><i><NS type="S"><i>pratices</i><c>practices</c></NS></i><c>practice</c></NS>.</p>
+          <p>3. Listening<NS type="RP"><i>, it</i><c>. It</c></NS> <NS type="MV"><c>is</c></NS> really helpful for improving your listening and understanding.</p>
+          <p>4. Writing<NS type="RP"><i>, this</i><c>. This</c></NS> <NS type="RN"><i>lesson</i><c>class</c></NS> <NS type="S"><i>techer</i><c>teaches</c></NS> you how to organise what you want to write.</p>
+          <p>Also, there are two activities <NS type="MA"><c>that</c></NS> should be filmed.</p>
+          <p>1. Students <NS type="TV"><i>are talking</i><c>talk</c></NS> to each other when they are having <NS type="MD"><c>a</c></NS> break. It is important to <NS type="S"><i>pratise</i><c>practise</c></NS> your English after lessons.</p>
+          <p>2. <NS type="AGN"><i>Teacher</i><c>Teachers</c></NS> <NS type="TV"><i>are helping</i><c>help</c></NS> students with their problems. If you have <NS type="MD"><c>a</c></NS> problem <NS type="UT"><i>on</i></NS> <NS type="IV"><i>studing</i><c>studying</c></NS>, <NS type="MV"><c>try</c></NS> asking <NS type="MD"><c>the</c></NS> teachers <NS type="M"><c>about which</c></NS> is the best way <NS type="MV"><c>to study</c></NS>.</p>
+          <p>In Conclusion, the short video is only 60 minutes. It must show the daily <NS type="IN"><i>lifes</i><c>lives</c></NS> of the English students at the school. It should include all those points lists above.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

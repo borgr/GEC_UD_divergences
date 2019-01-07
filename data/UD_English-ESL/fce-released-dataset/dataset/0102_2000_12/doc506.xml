@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR208*0102*2000*02">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>35.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.2</exam_score>
+         <coded_answer>
+          <p>Dear Jane Clark,</p>
+          <p>The purpose of this letter is to congratulate you on the International Arts <NS type="S"><i>Fesival</i><c>Festival</c></NS> I attended last weekend.</p>
+          <p>I believe that the event was good<NS type="RP"><i>, however</i><c>. However</c></NS><NS type="MP"><c>,</c></NS> I feel that the festival <NS type="TV"><i>can</i><c>could</c></NS> be improved next year.</p>
+          <p>Firstly<NS type="MP"><c>,</c></NS> I would like to tell you that the idea of organizing an International Arts Festival is fantastic, but in your advertisement it <NS type="UV"><i>was</i></NS> said that I would find stars and artists from <NS type="S"><i>arround</i><c>around</c></NS> the world, when, in fact, they were from only six countries. I do understand that it must be difficult to get these people to <NS type="RV"><i>go</i><c>come</c></NS> to the festival, but it would be nice if next year we could meet <NS type="MQ"><c>some</c></NS> other personalities.</p>
+          <p>Secondly<NS type="MP"><c>,</c></NS> I <NS type="S"><i>belive</i><c>believe</c></NS> you should know that a lot of people, including me, were not able to enjoy <NS type="MD"><c>the</c></NS> concerts because some concert halls were too small.</p>
+          <p>I would be very <NS type="RJ"><i>thankful</i><c>grateful</c></NS> if you could tell me if there will be more plays and films next year.</p>
+          <p>Last but not least<NS type="MP"><c>,</c></NS> I would like you to know that I think the idea of the weekend ticket for all events was excellent because in the end it was cheaper than paying for each event <NS type="DY"><i>separatelly</i><c>separately</c></NS>.</p>
+          <p>I hope you find my <NS type="AGN"><i>opinion</i><c>opinions</c></NS> useful.</p>
+          <p>Once again<NS type="MP"><c>,</c></NS> congratulations on the Festival.</p>
+          <p>I hope to <NS type="FV"><i>hearing</i><c>hear</c></NS> from you soon<NS type="MP"><c>,</c></NS></p>
+          <p><NS type="RP"><i>yours</i><c>Yours</c></NS> <NS type="DY"><i>sincerelly</i><c>sincerely</c></NS>,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p><NS type="RP"><i>tips</i><c>Tips</c></NS> <NS type="MT"><c>for</c></NS> <NS type="FV"><i>to earn</i><c>earning</c></NS> money</p>
+          <p>When the holidays <NS type="TV"><i>began</i><c>begin</c></NS> everybody is happy because it represents the beginning of a time full of fun and lots of interesting things to do, but in order to do these things we all need money and that is a big problem <NS type="RT"><i>to</i><c>for</c></NS> most of us.</p>
+          <p><NS type="RP"><i>there</i><c>There</c></NS> are several ways to earn a bit of money in your spare time. One of the most common examples is <NS type="UP"><i>baby- sitting</i><c>babysitting</c></NS><NS type="MP"><i> taking</i><c>. Taking</c></NS> care of little children is easy and it doesn't require special skills<NS type="RP"><i>,</i><c>:</c></NS> all you need is a lot of patience.</p>
+          <p>If looking after children doesn't <NS type="RV"><i>fit</i><c>suit</c></NS> you, you can try <NS type="M"><c>the same thing</c></NS> with pets. Lots of people would pay you to take their dog for a walk. So if you like animals this is your chance to earn <NS type="MQ"><c>some</c></NS> money and have fun at the same time.</p>
+          <p>Another option is to wash your neighbour's car. In this case you need to buy the materials you will work with, but don't worry, soap is not very expensive.</p>
+          <p><NS type="RP"><i>the</i><c>The</c></NS> most important thing is that you <NS type="W"><i>wisely choose the most suitable work for you</i><c>choose the most suitable work for you wisely</c></NS>, according to the things you like to do.</p>
+          <p>If you don't find anything good enough for you don't worry, you should always remember: It's not all about the money!</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

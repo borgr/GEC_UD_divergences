@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR32*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>16-20</age></personnel><score>30.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan,</p>
+          <p>I am writing to answer all the questions that you <NS type="RV"><i>made</i><c>asked</c></NS> me in your last letter.</p>
+          <p>First of all, I wanted to thank you for giving me the first prize in your competition. It is very important for me, because I <NS type="MV"><c>have</c></NS> always wanted to travel to the U.S.A.</p>
+          <p>I would be able to travel only in July because it is the only month when I don't have to go to school.</p>
+          <p>I would prefer to stay in a tent because<NS type="MP"><c>,</c></NS> as I <NS type="TV"><i>had</i><c>have</c></NS> never slept in a tent, it would be a new experience for me.</p>
+          <p>The two activities that I choose are: basketball and climbing. I am a very good basketball player because I have been playing basketball since I was six years old. <NS type="ID"><i>By the other side</i><c>On the other hand</c></NS>, I have never climbed a mountain but I always wanted to do it.</p>
+          <p>I wondered <NS type="RQ"><i>which</i><c>what</c></NS> kind of clothes I should take to the camp and I wanted to know how much money I should take.</p>
+          <p>I look forward to knowing the <NS type="FN"><i>date</i><c>dates</c></NS> of the camp.</p>
+          <p>Yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.1</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>Thank you for your last letter. It was very interesting and I enjoyed reading it.</p>
+          <p>As you know, I enjoyed helping at a pop concert last month. It was a very good experience and I am going to tell you all about it.</p>
+          <p>First of all, I had to sell tickets for the concert in the street. As I sold all the tickets that the organisers gave me, I won a prize of ten pounds. Don't ask me how the concert was! Because during the concert I was working in the kitchen of the stadium bar, preparing sandwiches. I am angry because I couldn't watch the artists performing their songs.</p>
+          <p>When the concert was finished, some friends and I went for a drink.</p>
+          <p>It was a very important experience for me because I learnt all about the organisation of a pop concert.</p>
+          <p>Looking forward to hearing from you.</p>
+          <p>Yours,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

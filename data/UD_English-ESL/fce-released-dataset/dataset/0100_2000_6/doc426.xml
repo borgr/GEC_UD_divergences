@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR169*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>33.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan:</p>
+          <p>I am writing to answer <NS type="UT"><i>to</i></NS> the questions I have been asked in your previous letter. I have decided I would like to visit Camp California only in July because I have already organized <NS type="RP"><i>an other</i><c>another</c></NS> trip for the month of <NS type="RP"><i>august</i><c>August</c></NS>.</p>
+          <p>I would <NS type="UV"><i>rather</i></NS> prefer sleeping in <NS type="MD"><c>a</c></NS> <NS type="AGN"><i>log cabins</i><c>log cabin</c></NS> if <NS type="MP"><i>its</i><c>it's</c></NS> possible because I have back problems and I am not allowed to sleep on the ground.</p>
+          <p>I have also chosen as activities the <NS type="R"><i>ones</i><c>options</c></NS> of Golf and tennis. I am rather good at these sports because I have <NS type="RV"><i>practised</i><c>played</c></NS> them since I was a little girl. I am better at tennis that at golf but anyway I have experience in both these sports.</p>
+          <p>I have also several simple questions. I would like to know how much money I have to take and what type of clothes I need. Do I have to take <NS type="W"><i>with me my tennis <NS type="S"><i>raquet</i><c>racquet</c></NS> and my golf bag</i><c>my tennis racquet and my golf bag with me</c></NS>? I would be very <NS type="RJ"><i>thankful</i><c>grateful</c></NS> to <NS type="S"><i>recieve</i><c>receive</c></NS> answers to my questions. thank you.</p>
+          <p>yours sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim:</p>
+          <p>How are you? I'm fine. I finish school next week. I have to tell you all about the pop concert I helped to organize last month. <NS type="RP"><i>it</i><c>It</c></NS> was really cool. I got the chance to meet Ricky Martin. Boy, <NS type="RP"><i>He's</i><c>he's</c></NS> really really <NS type="S"><i>handsom</i><c>handsome</c></NS>!</p>
+          <p>I was in charge of the <NS type="W"><i>lights of the stage</i><c>stage lights</c></NS>, you know, all those colourful lights that go all around the stage. It was hard work <NS type="RC"><i>because</i><c>and</c></NS> I <NS type="TV"><i>have</i><c>had</c></NS> been practising for several weeks. I had to learn what part of the stage had to be <NS type="RV"><i>lightened</i><c>lit</c></NS> with a blue light <NS type="R"><i>or</i><c>and what part</c></NS> a green one. Even though I ended <NS type="MY"><c>up</c></NS> terribly tired I really enjoyed myself.</p>
+          <p>It was a strange experience because <NS type="MP"><i>its</i><c>it's</c></NS> something new <NS type="RT"><i>for</i><c>to</c></NS> me. I had never even gone to a concert before. I even got the chance to take some photographs of ricky Martin with my sister and I've got one photo of him with me!!</p>
+          <p>Well, its an experience I'll never forget as long as I live. Write to me as soon as possible, please!</p>
+          <p><NS type="DD"><i>yours</i><c>Your</c></NS> friend,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

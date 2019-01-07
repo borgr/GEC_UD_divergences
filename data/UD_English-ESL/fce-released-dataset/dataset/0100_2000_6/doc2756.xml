@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1117*0100*2000*01">
+  <candidate><personnel><language>Catalan</language><age>26-30</age></personnel><score>29.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>13 <NS type="RP"><i>june</i><c>June</c></NS> 2000</p>
+          <p>Dear Helen Ryan,</p>
+          <p>I have just received your letter and I am so pleased with the news. I'd like to tell you that the best month <NS type="M"><c>for me</c></NS> to travel to the U.S.A<NS type="MP"><c>.</c></NS> is <NS type="UT"><i>on</i></NS> <NS type="RP"><i>july</i><c>July</c></NS> because I will be on <NS type="FN"><i><NS type="S"><i>hollidays</i><c>holidays</c></NS></i><c>holiday</c></NS> in <NS type="RD"><i>this</i><c>that</c></NS> month. I don't really worry about the accommodation at Camp California, but if I can <NS type="R">tell you <NS type="S"><i>wich</i><c>which</c></NS> one I prefer</NS> I'll choose <NS type="MV"><c>to stay</c></NS> in <NS type="MD"><c>a</c></NS> tent. This is because <NS type="MA"><c>it</c></NS> <NS type="TV"><i>is</i><c>will be</c></NS> more exciting and fun than <NS type="R">not</NS> in log cabins. From the list of activities <NS type="UV"><i>to do</i></NS> at the Camp I will enjoy singing and swimming. I used to go to a swimming pool twice every week and also I love music and sing all the time.</p>
+          <p>I'd like to ask you about how much money I'll need for two weeks in your country and what sort of clothes I have to bring to Camp California next <NS type="RP"><i>july</i><c>July</c></NS>.</p>
+          <p>I am looking <NS type="MY"><c>forward</c></NS> to <NS type="FV"><i>hear</i><c>hearing</c></NS> <NS type="MT"><c>from</c></NS> you very soon.</p>
+          <p>Sincerely,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Kim,</p>
+          <p>How are you doing? I am so glad to know that you and your family <NS type="MV"><c>are</c></NS> <NS type="UY"><i>still</i></NS> well. I am writing to you to explain what I did last month at a pop concert. It was great, believe me!</p>
+          <p>I went with a group of friends to help and organise a gig of a pop band. It was so easy<NS type="RP"><i>, <NS type="R"><i>a</i><c>I</c></NS></i><c>. I</c></NS> mean we just carried all the instruments <NS type="RT"><i>from</i><c>of</c></NS> the musicians to the Club and we put <NS type="AGA"><i>it</i><c>them</c></NS> on the stage. After this, we helped <NS type="RT"><i>to</i><c>at</c></NS> the <NS type="RN">service</NS> bar<NS type="MP"><c>,</c></NS> <NS type="FV"><i>to put</i><c>putting</c></NS> <NS type="W"><i>into the fridges all <NS type="MD"><c>the</c></NS> drinks and refreshments</i><c>all the drinks and refreshments into the fridges</c></NS>. And that was it! I enjoyed <NS type="W"><i>a lot doing this</i><c>doing this a lot</c></NS> and <NS type="RY">at least</NS> the gig was free for all of us. The concert was in a massive club and the tickets were sold out. <NS type="S"><i>Marevellous</i><c>Marvellous</c></NS>!</p>
+          <p>Well<NS type="MP"><c>,</c></NS> Kim, I hope to see you soon and take care.</p>
+          <p>Love</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

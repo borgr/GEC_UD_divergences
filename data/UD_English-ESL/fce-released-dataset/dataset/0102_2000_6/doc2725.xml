@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR1108*0102*2000*01">
+  <candidate><personnel><language>Catalan</language><age>&lt;16</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>2.2</exam_score>
+         <coded_answer>
+          <p>Dear Sir/Madam</p>
+          <p>I am writing to you to <NS type="DV"><i>complaint</i><c>complain</c></NS> about the problem that happened in the play called "Over the rainbow", and <NS type="R"><i>for this reason</i><c>why</c></NS> I would like to get some money back.</p>
+          <p>The problem is that most <NS type="UN"><i>part</i></NS> of the <NS type="S"><i>advertistment</i><c>advertisement</c></NS> <NS type="R"><i>had mistakes</i><c>was misleading</c></NS>. First of all, there were <NS type="RD"><i>not</i><c>no</c></NS> <NS type="AGN"><i>discount</i><c>discounts</c></NS> on <NS type="MD"><c>the</c></NS> tickets' <NS type="FN"><i>price</i><c>prices</c></NS>, and <NS type="AGA"><i>it</i><c>they</c></NS> <NS type="AGV"><i>was</i><c>were</c></NS> advertised. Secondly, the play was advertised <NS type="M"><c>as starting</c></NS> at 19.30, but it started at 20:15. <NS type="ID"><i>Despite of this</i><c>Despite this</c></NS> fact, <NS type="RA"><i>that</i><c>which</c></NS> I did not care about <NS type="UA"><i>it</i></NS> at <NS type="R"><i>the beginning</i><c>first</c></NS>, when the play started I did not see Danny Brook, who is my favourite actor<NS type="RP"><i>,</i><c>;</c></NS> I saw another actor who was not Danny Brook.</p>
+          <p>Besides when I went to the restaurant it was closed, and I could not see it. But the main reason <NS type="RT"><i>of</i><c>for</c></NS> my complaint, is that in the <NS type="S"><i>advertistment</i><c>advertisement</c></NS> <NS type="M"><c>it was</c></NS> said it would be my perfect evening out, and it was not.</p>
+          <p>Therefore<NS type="MP"><c>,</c></NS> for all <NS type="R"><i>things</i><c>these reasons</c></NS><NS type="MP"><c>,</c></NS> I would be happy to get some money back. I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>4</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>How has modern technology changed my daily life</p>
+          <p><NS type="UD"><i>The technology</i><c>Technology</c></NS> has affected <NS type="W"><i>so much my daily life</i><c>my daily life so much</c></NS>. If I <NS type="X"><i>had not</i><c>did not have</c></NS> it, I could not do most <NS type="UN"><i>part</i></NS> of the things that I do today.</p>
+          <p>First of all, if I <NS type="X"><i>had not</i><c>did not have</c></NS> it, I would not be able to <NS type="RV"><i>move</i><c>get</c></NS> out of <NS type="R"><i>my</i><c>the</c></NS> city because I would not have <NS type="MD"><c>a</c></NS> car. But we have it, and the thing that <NS type="TV"><i>have</i><c>has</c></NS> changed <NS type="W"><i><NS type="FY"><i>more</i><c>most</c></NS> my life</i><c>my life most</c></NS> <NS type="TV"><i>has been</i><c>is</c></NS> the <NS type="RP"><i>internet</i><c>Internet</c></NS>.</p>
+          <p>Nowadays<NS type="MP"><c>,</c></NS> with my computer, I can travel <NS type="RY"><i>everywhere</i><c>anywhere</c></NS> in the world, just <NS type="R"><i>with</i><c>by having</c></NS> it connected <NS type="RT"><i>with</i><c>to</c></NS> a modem. <NS type="MD"><i>internet</i><c>The Internet</c></NS> <NS type="AGV"><i>have</i><c>has</c></NS> changed my life because<NS type="MP"><c>,</c></NS> with it, we can do everything at home. For example if <NS type="R"><i>someday</i><c>one day</c></NS> I forgot <NS type="RD"><i>the</i><c>a</c></NS> book, <NS type="AS"><i>with the <NS type="RP"><i>internet</i><c>Internet</c></NS> I can find the book inside it</i><c>I can find the book on the Internet</c></NS>, and more information <NS type="MY"><c>too</c></NS>.</p>
+          <p>Another thing apart from the <NS type="RP"><i>internet</i><c>Internet</c></NS> and the car that has changed my life is the TV. With the TV I can <NS type="RV"><i>know</i><c>get</c></NS> all the information <NS type="U"><i>at the moment</i></NS>, moreover I can see films <NS type="RT"><i><NS type="SX"><i>throw</i><c>through</c></NS></i><c>on</c></NS> it. And the best thing is that it <NS type="S"><i>entertaints</i><c>entertains</c></NS> me alone or with people.</p>
+          <p>In conclusion I think that without <NS type="UD"><i>the</i></NS> technology we could not live as <NS type="DY"><i>good</i><c>well</c></NS> as we live <NS type="SX"><i>know</i><c>now</c></NS>, and our lives would be so <NS type="RY"><i>much</i><c>very</c></NS> boring.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

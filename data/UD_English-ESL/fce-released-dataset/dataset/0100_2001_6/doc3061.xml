@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TE39*0100*2001*01">
+  <candidate><personnel><language>Korean</language><age>21-25</age></personnel><score>26.00</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.1</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Maria Smith,</p>
+          <p>I have just received a letter from you. I <NS type="UV"><i>am</i></NS> really appreciate your <NS type="DN"><i>interesting</i><c>interest</c></NS> <NS type="RT"><i>about</i><c>in</c></NS> our conference.</p>
+          <p>Firstly, the Palace hotel is your accommodation which you have booked. This is <NS type="MD"><c>a</c></NS> very nice hotel and I am sure you will be very pleased <NS type="RT"><i>with</i><c>about</c></NS> staying there.</p>
+          <p>Secondly, you will have no problems finding the conference. Obviously, using a taxi is the best but unfortunately it is quite expensive for <NS type="MD"><c>a</c></NS> student. However, we have already <NS type="RV"><i>prepared</i><c>arranged</c></NS> a mini-bus for you. The bus will be in front of your hotel at 1 p.m. and it will take you to the conference.</p>
+          <p>Thirdly, we will have the end-of-conference party at 6 p.m. You can have dinner with wine which is very famous in our area and also you can enjoy the semi-classical concert which we have <NS type="TV"><i>prepared</i><c>been preparing</c></NS> for 3 months. But I hope you will wear <NS type="MD"><c>a</c></NS> formal suit and dress. You will not be allowed to enter this party unless you wear casual clothes. Lastly, you <NS type="RV"><i>do</i><c>will</c></NS> not have any problem spending your extra time in Cambridge because we have a lot of <NS type="AGN"><i>attraction</i><c>attractions</c></NS>. Cambridge bus tour, for example, will be very nice <NS type="UN"><i>time</i></NS> for you because it is the best and the easiest way of <NS type="RV"><i>knowing</i><c>getting to know</c></NS> Cambridge. But if you do not like it, you can enjoy <NS type="MD"><c>the</c></NS> City centre <NS type="RT"><i>by</i><c>with</c></NS> <NS type="MD"><c>a</c></NS> walking tour and then you can enjoy going punting which is the most pleasant attraction in Cambridge.</p>
+          <p>I hope you will be happy with our conference and party <NS type="UC"><i>and</i></NS> etc. We have <NS type="TV"><i>prepared</i><c>been preparing</c></NS> all of them for a long time. Please oblige us with your attendance. If you want more information, please let me know.</p>
+          <p>Your sincerely</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>2</question_number>
+       <exam_score>3.3</exam_score>
+         <coded_answer>
+          <p>Dear Mr or Miss,</p>
+          <p>Welcome to my town and I <NS type="UV"><i>am</i></NS> really appreciate your visiting. I would like you to visit 'COEX' building which is located in Samsung-dong south of Seoul.</p>
+          <p>I will tell you some information about this building. This building consists of a world <NS type="RN"><i>exposition</i><c>exhibition</c></NS> centre, a multiplex cinema, a huge shopping mall, a huge food court and an aquarium. Now <NS type="W"><i><NS type="AS"><i>there is holding</i><c>is being held</c></NS> 'the world software for Linux' <NS type="RN"><i>exposition</i><c>exhibition</c></NS></i><c>the world software for Linux exhibition is being held</c></NS> in <NS type="MD"><c>the</c></NS> <NS type="RN"><i>exposition</i><c>exhibition</c></NS> centre. If you are interested in <NS type="FN"><i>computer</i><c>computers</c></NS>, it will give you <NS type="RJ"><i>big</i><c>great</c></NS> <NS type="DN"><i>pleasant</i><c>pleasure</c></NS>. For a multiplex cinema, it is the biggest cinema in Asia and it has 18 screens. Therefore you can enjoy all <NS type="MD"><c>the</c></NS> latest films there.</p>
+          <p>If you want to buy something, <NS type="RY"><i>specially</i><c>especially</c></NS> clothes, <NS type="MD"><c>the</c></NS> shopping mall, which is called 'COEX mall', will be the best place: very cheap and lots of <NS type="DJ"><i>designed</i><c>designer</c></NS> clothes.</p>
+          <p>Also, you'd better not miss the food court. It <NS type="TV"><i>is providing</i><c>provides</c></NS> all kinds of food. Korean food, Italian food... you can enjoy them all. Lastly, I really want you to go to the aquarium. Actually I have been there three times but I still want to go there again. I am sure you will like this very much.</p>
+          <p>I hope you will enjoy yourself in my town. I would be very happy if you could be satisfied with my recommendation. And if you need someone to guide you, please send me <NS type="MD"><c>an</c></NS> e-mail or give me a call. I look forward to hearing from you.</p>
+          <p>Yours faithfully,</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

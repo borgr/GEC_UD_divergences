@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR557*0100*2000*01">
+  <candidate><personnel><language>Spanish</language><age>&lt;16</age></personnel><score>21.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>3.2</exam_score>
+         <coded_answer>
+          <p>Dear Mrs Ryan:</p>
+          <p><NS type="UP"><i>Thank's</i><c>Thanks</c></NS> for <NS type="FV"><i>accept</i><c>accepting</c></NS> me in the competition. I hear that the competition there <NS type="AGV"><i>are</i><c>is</c></NS> very <NS type="RJ"><i>good</i><c>intense</c></NS>, and <NS type="SX"><i>the</i><c>that</c></NS> Camp California is very famous for <NS type="AGD"><i>his</i><c>its</c></NS> competitions. I would like to travel <NS type="RT"><i>on</i><c>in</c></NS> July because before <NS type="MY"><c>then</c></NS> it's impossible for me and <NS type="W"><i>in July it's my birthday</i><c>it's my birthday in July</c></NS> and I wish to spend my birthday at the camp, also 'cause in August the planes are full. Another thing is my accommodation<NS type="MP"><c>.</c></NS> I prefer to have log cabins because it's <NS type="IJ"><i>easyeast</i><c>easiest</c></NS> for me. I will choose for <NS type="MD"><c>my</c></NS> activities tennis and swimming<NS type="RP"><i>,</i><c>.</c></NS> I'm good <NS type="RT"><i>on</i><c>at</c></NS> tennis because I <NS type="TV"><i>play</i><c>have played</c></NS> since 1990 and I <NS type="TV"><i>loved</i><c>love</c></NS> it and <NS type="M"><c>I chose</c></NS> swimming because I like to swim and I've been <NS type="MT"><c>in</c></NS> two <NS type="AGN"><i>competition</i><c>competitions</c></NS> and I won both.</p>
+          <p>I would like to ask you for money and clothes because my parents are travelling and it is impossible for me to <NS type="RV"><i>have</i><c>get</c></NS> <NS type="MQ"><c>any</c></NS> money because my sister doesn't want me to go because I'm only 14, but when I get there I promise to return <NS type="MT"><c>to</c></NS> you all the money because I don't have <NS type="MQ"><c>any</c></NS> cash <NS type="ID"><i>at this moment</i><c>at the moment</c></NS>.</p>
+          <p>Thanks for <NS type="RA"><i>all</i><c>everything</c></NS>, and I will be there <NS type="UD"><i>the</i></NS> next month.</p>
+          <p><NS type="DA"><i>Your</i><c>Yours</c></NS> sincerely</p>
+          <p>Lola Villanueva.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>2.1</exam_score>
+         <coded_answer>
+          <p>"Shopping is not always enjoyable."</p>
+          <p>For me <NS type="FV"><i>went</i><c>going</c></NS> <NS type="R"><i>to shop</i><c>shopping</c></NS> <NS type="UA"><i>it's</i><c>is</c></NS> not the best thing I can do. Well I <NS type="TV"><i>think</i><c>thought</c></NS> the opposite <NS type="RT"><i>like</i><c>about</c></NS> a year <NS type="RY"><i>before</i><c>ago</c></NS> but recently I <NS type="TV"><i>think</i><c>have thought</c></NS> this because I see all the people <NS type="FV"><i>to go</i><c>going</c></NS> shopping <NS type="MC"><c>and</c></NS> they don't <NS type="TV"><i>realised</i><c>realise</c></NS> that <NS type="U"><i>they are</i></NS> outside in the real world <NS type="M"><c>there are</c></NS> poor people who need that money <NS type="R"><i>and</i><c>which</c></NS> they are only <NS type="FV"><i>spent</i><c>spending</c></NS> on material things<NS type="RP"><i>, you</i><c>. You</c></NS> <NS type="RV"><i>would</i><c>might</c></NS> put <NS type="DD"><i>you</i><c>your</c></NS> money in the bank because you don't need it now, but tomorrow you don't know. I like to shop sometimes but not always and <NS type="R"><i>not</i><c>I don't like</c></NS> spending a lot of money on things that I don't really need. <NS type="RT"><i>At</i><c>As to</c></NS> the rest of you who don't understand this<NS type="MP"><c>,</c></NS> it's <NS type="ID"><i>on your memories</i><c>on your mind</c></NS> to keep shopping and spending all your money on things that you don't really need.</p>
+          <p>And sometimes I get bored when I'm shopping because now I don't really enjoy it.</p>
+          <p>Bye and think <NS type="RT"><i>on</i><c>about</c></NS> this.</p>
+          <p>Your Friend</p>
+          <p>Lola Villanueva J.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>

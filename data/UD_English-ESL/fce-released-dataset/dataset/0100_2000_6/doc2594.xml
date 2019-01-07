@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learner><head sortkey="TR125*0100*2000*01">
+  <candidate><personnel><language>Portuguese</language><age>16-20</age></personnel><score>35.0</score></candidate>
+  <text>
+     <answer1>
+       <question_number>1</question_number>
+       <exam_score>5.1</exam_score>
+         <coded_answer>
+          <p>Dear Helen Ryan</p>
+          <p>I have just received your letter and I am really looking forward to going <NS type="RT"><i>to</i><c>on</c></NS> this trip. Here is some information you asked for and also a few questions.</p>
+          <p>I would like to travel in July, as it will be summer, and the weather will be nicer. <NS type="MT"><i>Accommodation</i><c>Regarding accommodation</c></NS> <NS type="UT"><i>in</i></NS> log cabins would be better for me, because they are more comfortable.</p>
+          <p>One of the activities I will do is tennis, but I am just a beginner, so I would like someone to teach me. The other activity will be photography, which I am very good at.</p>
+          <p>I am wondering if there will be anywhere for me to wash my clothes, or if I will have them washed. I would also like to know how much money I should bring with me.</p>
+          <p>I am waiting for your prompt reply.</p>
+          <p>Yours sincerely,</p>
+          <p>Bradley Tudela.</p>
+         </coded_answer>
+     </answer1>
+     <answer2>
+       <question_number>3</question_number>
+       <exam_score>4.3</exam_score>
+         <coded_answer>
+          <p>Shopping is not always enjoyable</p>
+          <p>Many people enjoy going <NS type="CN"><i>shoppings</i><c>shopping</c></NS><NS type="MP"><c>,</c></NS> meeting friends and mainly spending their money, but sometimes shopping can be a terrible experience.</p>
+          <p>The good side of this activity is that it can be <NS type="R">a good leisure</NS>, provided you are not in a hurry.</p>
+          <p>On the other hand, when the shops are crowded (for instance, just before Christmas), going shopping can be very stressful, as you cannot walk <NS type="R">freely</NS> and have to <NS type="RV"><i>bear</i><c>endure</c></NS> endless queues. Another problem is the shortage of trolleys in supermarkets, which is very common when they are full of people. As if <NS type="FA"><i>these</i><c>this</c></NS> were not enough, there are always impolite assistants, who make your day even worse.</p>
+          <p>Summing up, going shopping can be a relaxing activity if you choose the right day, but be aware of how dangerous it can be for your patience.</p>
+         </coded_answer>
+     </answer2>
+  </text>
+</head></learner>
