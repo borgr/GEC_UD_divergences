@@ -115,8 +115,8 @@ if __name__ == '__main__':
                 str_idx_alignments = "\n".join((
                     " ".join((
                         "-".join((
-                            str(align[0]), str(align[1])))
-                            for align in alignments if align[0] != -1 and align[1] != -1))
+                            str(align[0]) if align[0] != -1 else "X", str(align[1]) if align[1] != -1 else "X"))
+                            for align in alignments))
                     for alignments in idx_alignments))
                 with open(esl_path +".align", "w") as fl:
                     fl.write(str_idx_alignments)
