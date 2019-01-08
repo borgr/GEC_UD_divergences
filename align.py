@@ -78,12 +78,13 @@ def align(sen1, sen2, string=True):
             mapping.append((longer[i], shorter[j]))
     return mapping, refactored_indexes
 
+
 def get_tokenized(conllu):
     res = []
     tokens = []
     with open(conllu) as fl:
         for line in fl:
-            id_symb="# sent_id ="
+            id_symb = "# sent_id ="
             if line.startswith(id_symb):
                 sent_id = line.split(id_symb)[-1]
             elif not line.strip():
@@ -97,7 +98,8 @@ def get_tokenized(conllu):
 if __name__ == '__main__':
     for root, dirs, filenames in os.walk("data/UD_English-ESL/data"):
         for filename in filenames:
-            corrected_path = os.path.join(root, "corrected", filename.replace("_esl", "_cesl"))
+            corrected_path = os.path.join(
+                root, "corrected", filename.replace("_esl", "_cesl"))
             if filename.startswith("en_esl") and os.path.isfile(corrected_path):
                 esl_path = os.path.join(root, filename)
                 print("aligning", esl_path)
@@ -109,6 +111,12 @@ if __name__ == '__main__':
                     res.append((esl_id, align(" ".join(esl), " ".join(cesl))))
                 with open(esl_path + ".align.json", "w") as fl:
                     json.dump(res, fl, indent=1)
-
-
-
+                idx_alignments = [alignment[1][1] for alignment in res]
+                str_idx_alignments = "\n".join((
+                    " ".join((
+                        "-".join((
+                            str(align[0]), str(align[1])))
+                            for align in alignments if align[0] != -1 and align[1] != -1))
+                    for alignments in idx_alignments))
+                with open(esl_path +".align", "w") as fl:
+                    fl.write(str_idx_alignments)
