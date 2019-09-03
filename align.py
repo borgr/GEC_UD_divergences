@@ -118,7 +118,7 @@ def join_recursively(lsts, sep=" "):
 
 def get_annotation(path, graceful=False):
     if path.endswith("conllu"):
-        return get_annotation(path, graceful)
+        return get_annotation_from_conllu(path, graceful)
     elif path.endswith(".m2"):
         return get_annotation_from_m2(path, graceful)
     else:
