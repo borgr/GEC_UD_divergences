@@ -1,0 +1,13 @@
+#information on m2 grammatical correction extracting diverges
+
+#what you need:
+m2 files (preferably after errant, to provide consisitency)
+
+#process:
+1) preprocessing.py - given as an argument a directory with m2 files, it will create
+new files (one sentence on each line) one of the original and one with the corrected sentences
+2) run udpipe on these files to get 2 conllu files (one original, one corrected)
+3) run GEC_UD_divergences/GEC_UD_divergences_m2.py with original conllu file, corrected conllu file,
+and matching m2 file. This will give you confusion matrices.
+
+
