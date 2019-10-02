@@ -1,6 +1,6 @@
 import sys
 import os
-import GEC_UD_divergences.GEC_UD_divergences_m2
+import GEC_UD_divergences.using_m2.GEC_UD_divergences_m2 as gec
 
 def preprocess_file(filename, output_directory):
     """
@@ -30,7 +30,7 @@ def create_corrected_sentences(filename, output_directory):
     partial_name = filename.split('/')[-1]
     data_name = partial_name.split('.')
     output_file_path = output_directory + '/' + data_name[0] +"."+data_name[1] +".corrected"
-    results = GEC_UD_divergences.GEC_UD_divergences_m2.get_annotation_from_m2(filename)
+    results = gec.get_annotation_from_m2(filename)
     with open(output_file_path, "w+") as output_file:
         for res in results:
             sentence = ''
@@ -52,7 +52,7 @@ def main():
     output_directory = sys.argv[2]
     for file in os.listdir(directory):
         filename = directory +'/'+os.fsdecode(file)
-        # preprocess_file(filename, output_directory)
+        preprocess_file(filename, output_directory)
         create_corrected_sentences(filename, output_directory)
 
 
