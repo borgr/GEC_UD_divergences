@@ -7,6 +7,84 @@ from collections import Counter
 from queue import Queue
 from itertools import combinations as combs
 
+def get_annotation_from_m2_russian(m2_path):
+    res = []
+    sentence_id = 1
+    with open(m2_path) as m2_file:
+        line = m2_file.readline()
+        errors = []
+        sentence = []
+        while line:
+            if line[0] == 'S':
+                # if sentence:
+                #     sentence_id = add_results_russian(errors, res, sentence, sentence_id)
+                words_in_sentence = line.split()[1:]
+                sentence = []
+                index = 0
+                while index < len(words_in_sentence):
+                    sentence.append([words_in_sentence[index]])
+                    index +=1
+                errors = []
+            elif line[0] == 'A':
+                error_type, (start_index, end_index), correction = get_error_type_russian(line)
+                errors.append([error_type, (start_index, end_index), correction])
+            elif line == '\n':
+                sentence_id = add_results_russian(errors, res, sentence, sentence_id)
+                errors = []
+            line = m2_file.readline()
+    return res
+
+def get_error_type_russian(line):
+    split_line = line.split("|||")
+    start_index = int(split_line[0].split()[1])
+    end_index = int(split_line[0].split()[2])
+    error_type = split_line[1]
+    correction = split_line[2]
+    return (error_type, (start_index, end_index), correction)
+
+def add_results_russian(errors, res, sentence, sentence_id):
+    """
+    adds results of m2 corrections in a single sentencce
+    :param errors: list of errors and their type/location
+    :param res: results list
+    :param sentence: sentence (each word a different list)
+    :param sentence_id: sentence id
+    :return: sentence id (of the next sentence)
+    """
+    index_shift = 0
+    corrected_sentence = sentence
+    original_sentence = sentence
+    for error in errors:
+        if error[0] == "Вставить": #insertion
+            if (error[1][0] - error[1][1]) == 0:
+                original_sentence = original_sentence[0:error[1][0] + index_shift] + [[""]] + \
+                                    original_sentence[error[1][1] + index_shift:]
+                corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [[error[2]]] + \
+                                     corrected_sentence[error[1][1] + index_shift:]
+                index_shift += 1
+            else:
+                corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [
+                    [error[2]]] + corrected_sentence[error[1][1] + index_shift:]
+
+        else:
+            corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [[error[2]]] + \
+                                 corrected_sentence[error[1][1] + index_shift:]
+            if error[1][1] - error[1][0] > 1:
+                merged_replacement = ""
+                for i in range(error[1][0], error[1][1]):
+                    merged_replacement += " "+sentence[i][0]
+                original_sentence = original_sentence[0:error[1][0] + index_shift] + [[merged_replacement]] + \
+                                    original_sentence[error[1][1] + index_shift:]
+                index_shift -= (error[1][1] - error[1][0] - 1)
+    is_edits = [0] * len(original_sentence)
+    assert len(original_sentence) == len(corrected_sentence)
+    for index in range(len(original_sentence)):
+        assert len(original_sentence) == len(corrected_sentence)
+        if original_sentence[index] != corrected_sentence[index]:
+            is_edits[index] = 1
+    res.append((sentence_id, original_sentence, corrected_sentence, is_edits))
+    sentence_id += 1
+    return sentence_id
 
 def get_annotation_from_m2(m2_path):
     """
