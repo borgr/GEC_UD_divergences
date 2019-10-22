@@ -1,9 +1,9 @@
-information on m2 grammatical correction extracting divergences
+# information on m2 grammatical correction extracting divergences
 
-what you need:
+# what you need:
 m2 files (with the same annotation scheme e.g. errant, to provide consisitency)
 
-process:
+# process:
 1) preprocessing.py - gets as an argument a directory with m2 files, it will then create
 new files (one sentence on each line) one of the original sentences 
 and one with the corrected sentences
