@@ -429,16 +429,16 @@ def get_node_depth(node, graph):
             visited.add(neighbour)
     raise IndexError("Target node unreachable")
 
-
-def get_confusion_matrix(en, ko, alignments, confusion_dict_pos, confusion_dict_paths):
-    assert len(en) == len(ko) == len(alignments), "len en: " + str(len(en)) + " len of ko: "+ \
-                                                  str(len(ko)) + " len all: "+ str(len(alignments))
+def syntactic_m2():
+def get_confusion_matrix(en, corr, alignments, confusion_dict_pos, confusion_dict_paths):
+    assert len(en) == len(corr) == len(alignments), "len en: " + str(len(en)) + " len of corr: "+ \
+                                                  str(len(corr)) + " len all: "+ str(len(alignments))
 
     strip_direction = lambda x: x.split("_")[0]
 
     for i in range(len(en)):
         en_n, en_g = conll2graph(en[i])
-        ko_n, ko_g = conll2graph(ko[i])
+        corr_n, corr_g = conll2graph(corr[i])
         alignment = alignments[i]
         # Simplify the alignment to a set of one-to-one pairs
         one_to_one = []
@@ -447,7 +447,7 @@ def get_confusion_matrix(en, ko, alignments, confusion_dict_pos, confusion_dict_
                 # Do not analyse stuff added on the Ko side for now
                 continue
             head = k
-            tail = str(highest_or_none(v, ko_g))
+            tail = str(highest_or_none(v, corr_g))
             one_to_one.append((head, tail))
         # POS confusion dict
         for pair in one_to_one:
@@ -461,15 +461,15 @@ def get_confusion_matrix(en, ko, alignments, confusion_dict_pos, confusion_dict_
                 print(i, en[i])
                 continue
             if tail == "None":
-                ko_pos = "None"
+                corr_pos = "None"
             else:
-                ko_pos = ko_n[tail]["pos"]
+                corr_pos = corr_n[tail]["pos"]
             if en_pos not in confusion_dict_pos:
                 confusion_dict_pos[en_pos] = Counter()
-            confusion_dict_pos[en_pos][ko_pos] += 1
+            confusion_dict_pos[en_pos][corr_pos] += 1
         # Path confusion dict
         for pair in combs(one_to_one, 2):
-            (en_head, ko_head), (en_tail, ko_tail) = pair
+            (en_head, corr_head), (en_tail, corr_tail) = pair
             # Skip technical additional nodes
             if "." in head:
                 continue
@@ -477,18 +477,18 @@ def get_confusion_matrix(en, ko, alignments, confusion_dict_pos, confusion_dict_
             if len(en_path_arr) > 1:
                 continue
             en_path = strip_direction(en_path_arr[0])
-            if ko_head == ko_tail:
-                ko_path = "Nodes collapsed"
-            elif ko_head == "None" and ko_tail == "None":
-                ko_path = "Both endpoints unaligned"
-            elif ko_head == "None" or ko_tail == "None":
-                ko_path = "One endpoint unaligned"
+            if corr_head == corr_tail:
+                corr_path = "Nodes collapsed"
+            elif corr_head == "None" and corr_tail == "None":
+                corr_path = "Both endpoints unaligned"
+            elif corr_head == "None" or corr_tail == "None":
+                corr_path = "One endpoint unaligned"
             else:
-                ko_path_arr = get_path(ko_head, ko_tail, ko_g)
-                ko_path = "->".join(list(map(strip_direction, ko_path_arr)))
+                corr_path_arr = get_path(corr_head, corr_tail, corr_g)
+                corr_path = "->".join(list(map(strip_direction, corr_path_arr)))
             if en_path not in confusion_dict_paths:
                 confusion_dict_paths[en_path] = Counter()
-            confusion_dict_paths[en_path][ko_path] += 1
+            confusion_dict_paths[en_path][corr_path] += 1
 
 
 def extract_matrices(confusion_dict_paths, confusion_dict_pos, data_name):
@@ -590,12 +590,12 @@ def main():
         alignments = []  # will be a list of dictionaries
         get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison)
         en = parse_conllu(conllu_path)
-        ko = parse_conllu(conllu_path_corrected)
-        assert len(en) == len(ko) == len(alignments), "len en: " + str(len(en)) + " len of ko: "+ \
-                                                      str(len(ko)) + " len all: "+ str(len(alignments))
+        corr = parse_conllu(conllu_path_corrected)
+        assert len(en) == len(corr) == len(alignments), "len en: " + str(len(en)) + " len of corr: "+ \
+                                                      str(len(corr)) + " len all: "+ str(len(alignments))
         confusion_dict_paths = {}
         confusion_dict_pos = {}
-        get_confusion_matrix(en, ko, alignments, confusion_dict_pos, confusion_dict_paths)
+        get_confusion_matrix(en, corr, alignments, confusion_dict_pos, confusion_dict_paths)
         extract_matrices(confusion_dict_paths, confusion_dict_pos, conllu_path.split('/')[-1])
 
 
