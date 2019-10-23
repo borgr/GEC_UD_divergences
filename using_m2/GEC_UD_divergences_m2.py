@@ -452,7 +452,8 @@ def get_node_depth(node, graph):
     raise IndexError("Target node unreachable")
 
 
-def syntactic_m2():
+def syntactic_m2(en, corr, alignments, confusion_dict_pos, confusion_dict_paths):
+    pass
 
 
 def get_confusion_matrix(en, corr, alignments, confusion_dict_pos, confusion_dict_paths):
