@@ -7,6 +7,7 @@ from collections import Counter
 from queue import Queue
 from itertools import combinations as combs
 
+
 def get_annotation_from_m2_russian(m2_path):
     res = []
     sentence_id = 1
@@ -23,16 +24,20 @@ def get_annotation_from_m2_russian(m2_path):
                 index = 0
                 while index < len(words_in_sentence):
                     sentence.append([words_in_sentence[index]])
-                    index +=1
+                    index += 1
                 errors = []
             elif line[0] == 'A':
-                error_type, (start_index, end_index), correction = get_error_type_russian(line)
-                errors.append([error_type, (start_index, end_index), correction])
+                error_type, (start_index, end_index), correction = get_error_type_russian(
+                    line)
+                errors.append(
+                    [error_type, (start_index, end_index), correction])
             elif line == '\n':
-                sentence_id = add_results_russian(errors, res, sentence, sentence_id)
+                sentence_id = add_results_russian(
+                    errors, res, sentence, sentence_id)
                 errors = []
             line = m2_file.readline()
     return res
+
 
 def get_error_type_russian(line):
     split_line = line.split("|||")
@@ -41,6 +46,7 @@ def get_error_type_russian(line):
     error_type = split_line[1]
     correction = split_line[2]
     return (error_type, (start_index, end_index), correction)
+
 
 def add_results_russian(errors, res, sentence, sentence_id):
     """
@@ -55,12 +61,12 @@ def add_results_russian(errors, res, sentence, sentence_id):
     corrected_sentence = sentence
     original_sentence = sentence
     for error in errors:
-        if error[0] == "Вставить": #insertion
+        if error[0] == "Вставить":  # insertion
             if (error[1][0] - error[1][1]) == 0:
                 original_sentence = original_sentence[0:error[1][0] + index_shift] + [[""]] + \
-                                    original_sentence[error[1][1] + index_shift:]
+                    original_sentence[error[1][1] + index_shift:]
                 corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [[error[2]]] + \
-                                     corrected_sentence[error[1][1] + index_shift:]
+                    corrected_sentence[error[1][1] + index_shift:]
                 index_shift += 1
             else:
                 corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [
@@ -68,13 +74,13 @@ def add_results_russian(errors, res, sentence, sentence_id):
 
         else:
             corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [[error[2]]] + \
-                                 corrected_sentence[error[1][1] + index_shift:]
+                corrected_sentence[error[1][1] + index_shift:]
             if error[1][1] - error[1][0] > 1:
                 merged_replacement = ""
                 for i in range(error[1][0], error[1][1]):
-                    merged_replacement += " "+sentence[i][0]
+                    merged_replacement += " " + sentence[i][0]
                 original_sentence = original_sentence[0:error[1][0] + index_shift] + [[merged_replacement]] + \
-                                    original_sentence[error[1][1] + index_shift:]
+                    original_sentence[error[1][1] + index_shift:]
                 index_shift -= (error[1][1] - error[1][0] - 1)
     is_edits = [0] * len(original_sentence)
     assert len(original_sentence) == len(corrected_sentence)
@@ -85,6 +91,7 @@ def add_results_russian(errors, res, sentence, sentence_id):
     res.append((sentence_id, original_sentence, corrected_sentence, is_edits))
     sentence_id += 1
     return sentence_id
+
 
 def get_annotation_from_m2(m2_path):
     """
@@ -103,7 +110,8 @@ def get_annotation_from_m2(m2_path):
         while line:
             if (line[0] == 'S'):
                 if sentence:  # its new sentence sentence
-                    sentence_id = add_results(errors, res, sentence, sentence_id)
+                    sentence_id = add_results(
+                        errors, res, sentence, sentence_id)
                 words_in_sentence = line.split()[1:]
                 sentence = []  # clear previous sentence
                 index = 0
@@ -119,8 +127,10 @@ def get_annotation_from_m2(m2_path):
                     line = m2_file.readline()
                     continue
                 else:  # actually error occurred - separate between missing, replacement, unneccessary and adjust the
-                    error_type, (start_index, end_index), correction = get_error_type(line)
-                    errors.append([error_type, (start_index, end_index), correction])
+                    error_type, (start_index,
+                                 end_index), correction = get_error_type(line)
+                    errors.append(
+                        [error_type, (start_index, end_index), correction])
                     line = m2_file.readline()
                     continue
             else:
@@ -145,7 +155,7 @@ def add_results(errors, res, sentence, sentence_id):
     for error in errors:
         if error[0] == "R" or error[0] == 'U':
             corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [[error[2]]] + \
-                                 corrected_sentence[error[1][1] + index_shift:]
+                corrected_sentence[error[1][1] + index_shift:]
             if (error[1][1] - error[1][0] > 1):
                 merged_replacement = ""
                 for i in range(error[1][0], error[1][1]):
@@ -157,10 +167,10 @@ def add_results(errors, res, sentence, sentence_id):
         elif error[0] == 'M':
             if (error[1][0] - error[1][1]) == 0:
                 original_sentence = original_sentence[0:error[1][0] + index_shift] + [[""]] + original_sentence[
-                                                                                              error[1][
-                                                                                                  1] + index_shift:]
+                    error[1][
+                        1] + index_shift:]
                 corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [[error[2]]] + \
-                                     corrected_sentence[error[1][1] + index_shift:]
+                    corrected_sentence[error[1][1] + index_shift:]
                 index_shift += 1
             else:
                 corrected_sentence = corrected_sentence[0:error[1][0] + index_shift] + [
@@ -214,14 +224,16 @@ def get_tokenized(conllu):
                 counter += 1
                 sent_id = line.split(id_symb)[-1]
                 sent_id = int(sent_id[0:-1])
-            elif line == '\n' or (counter == 10000 and line.startswith("# newdoc")): #add becuase afte 10,000 sentence
+            # add becuase afte 10,000 sentence
+            elif line == '\n' or (counter == 10000 and line.startswith("# newdoc")):
                 # there is #newdoc without a new line, shifting all sentences
                 assert (not res) or sent_id != res[-1][0]
                 res.append((sent_id, tokens))
                 tokens = []
             elif not line.startswith("#"):
                 tokens.append(line.split("\t")[1])
-        res.append((sent_id, tokens)) #if there is a blank space in the end of the file, remove!
+        # if there is a blank space in the end of the file, remove!
+        res.append((sent_id, tokens))
     return res
 
 
@@ -243,7 +255,7 @@ def get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison):
         csentence = cesl_tokenized[i][1]
         shift = 0
         if csentence == ['-']:
-            for k in range(1,len(osentence) +1):
+            for k in range(1, len(osentence) + 1):
                 align_dict[str(k)] = ['1']
             alignments.append(align_dict)
             continue
@@ -276,8 +288,9 @@ def get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison):
                         if (index + shift - 1) < 1:
                             align_dict[str(index + k)] = [str(index + shift)]
                         else:
-                            align_dict[str(index + k)] = [str(index + shift - 1)]
-                shift -=  len(w)
+                            align_dict[str(index + k)
+                                       ] = [str(index + shift - 1)]
+                shift -= len(w)
                 index += len(w)
             elif (len(w) == 1) and (len(cw) == 1):
                 if str(index) in align_dict:
@@ -302,11 +315,12 @@ def get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison):
                 for k in range(len(cw)):
                     val.append(str(index + shift + k))
                 if str(index) in align_dict:
-                     val.extend(align_dict[str(index)])
+                    val.extend(align_dict[str(index)])
                 align_dict[str(index)] = val
                 index += 1
                 shift += len(cw) - 1
-            elif len(cw) == 2 and len(w) == 2 and cw[0].lower() == w[1].lower(): # word order
+            # word order
+            elif len(cw) == 2 and len(w) == 2 and cw[0].lower() == w[1].lower():
                 if str(index) in align_dict:
                     val = align_dict[str(index)]
                     val.append(str(index + 1 + shift))
@@ -326,16 +340,19 @@ def get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison):
                             val.append(str(index + shift))
                             align_dict[str(index)] = val
                         else:
-                            align_dict[str(index + k)] = [str(index + shift + k)]
+                            align_dict[str(index + k)
+                                       ] = [str(index + shift + k)]
                 elif len(cw) < len(w):
                     for k in range(len(cw)):
                         if k == 0:
                             val.append(str(index + shift))
                             align_dict[str(index)] = val
                         else:
-                            align_dict[str(index + k)] = [str(index + shift + k)]
+                            align_dict[str(index + k)
+                                       ] = [str(index + shift + k)]
                     for l in range(len(w) - len(cw)):
-                        align_dict[str(index +len(cw)+ l)] = [str(index + shift + len(cw) - 1)]
+                        align_dict[str(index + len(cw) + l)
+                                   ] = [str(index + shift + len(cw) - 1)]
                     shift -= (len(w) - len(cw))
                 else:
                     for k in range(len(w)):
@@ -343,7 +360,8 @@ def get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison):
                             val.append(str(index + shift))
                             align_dict[str(index)] = val
                         else:
-                            align_dict[str(index + k)] = [str(index + shift + k)]
+                            align_dict[str(index + k)
+                                       ] = [str(index + shift + k)]
                     kval = align_dict[str(index + len(w) - 1)]
                     for l in range(len(cw) - len(w)):
                         kval.append(str(index + shift + len(w) + l))
@@ -354,11 +372,15 @@ def get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison):
         alignments.append(align_dict)
         # check that all indexes are in the range
         for key, val in align_dict.items():
-            assert (int(key)) <= len(osentence), str(i) + " " +str(csentence) + " "+ str(key) + " " + str(val)
-            assert (int(key)) > 0, str(i) + " " +str(csentence) + " "+ str(key) + " " + str(val)
+            assert (int(key)) <= len(osentence), str(i) + " " + \
+                str(csentence) + " " + str(key) + " " + str(val)
+            assert (int(key)) > 0, str(i) + " " + \
+                str(csentence) + " " + str(key) + " " + str(val)
             for j in val:
-                assert (int(j)) <= len(csentence), str(i) + str(csentence) + str(key) + str(val)
-                assert (int(j)) > 0 , str(i) + " " +str(csentence) + " "+ str(key) + " " + str(val)
+                assert (int(j)) <= len(csentence), str(i) + \
+                    str(csentence) + str(key) + str(val)
+                assert (int(j)) > 0, str(i) + " " + str(csentence) + \
+                    " " + str(key) + " " + str(val)
 
 
 def conll2graph(record):
@@ -429,12 +451,15 @@ def get_node_depth(node, graph):
             visited.add(neighbour)
     raise IndexError("Target node unreachable")
 
-def syntactic_m2():
-def get_confusion_matrix(en, corr, alignments, confusion_dict_pos, confusion_dict_paths):
-    assert len(en) == len(corr) == len(alignments), "len en: " + str(len(en)) + " len of corr: "+ \
-                                                  str(len(corr)) + " len all: "+ str(len(alignments))
 
-    strip_direction = lambda x: x.split("_")[0]
+def syntactic_m2():
+
+
+def get_confusion_matrix(en, corr, alignments, confusion_dict_pos, confusion_dict_paths):
+    assert len(en) == len(corr) == len(alignments), "len en: " + str(len(en)) + " len of corr: " + \
+        str(len(corr)) + " len all: " + str(len(alignments))
+
+    def strip_direction(x): return x.split("_")[0]
 
     for i in range(len(en)):
         en_n, en_g = conll2graph(en[i])
@@ -492,8 +517,10 @@ def get_confusion_matrix(en, corr, alignments, confusion_dict_pos, confusion_dic
 
 
 def extract_matrices(confusion_dict_paths, confusion_dict_pos, data_name):
-    confusion_dict2matrix(confusion_dict_pos).to_csv(data_name+"_pos_matrix.csv", index=False)
-    confusion_dict2matrix(confusion_dict_paths).to_csv(data_name+"_path_matrix.csv", index=False)
+    confusion_dict2matrix(confusion_dict_pos).to_csv(
+        data_name + "_pos_matrix.csv", index=False)
+    confusion_dict2matrix(confusion_dict_paths).to_csv(
+        data_name + "_path_matrix.csv", index=False)
 
 
 def get_path(node1, node2, graph):
@@ -570,7 +597,6 @@ def parse_conllu(conllu_filepath):
     return parsed
 
 
-
 def main():
     """
     This is the main function of the program. Takes two conllu files (the original and corrected)
@@ -591,12 +617,14 @@ def main():
         get_alignments(alignments, esl_tokenized, cesl_tokenized, comparison)
         en = parse_conllu(conllu_path)
         corr = parse_conllu(conllu_path_corrected)
-        assert len(en) == len(corr) == len(alignments), "len en: " + str(len(en)) + " len of corr: "+ \
-                                                      str(len(corr)) + " len all: "+ str(len(alignments))
+        assert len(en) == len(corr) == len(alignments), "len en: " + str(len(en)) + " len of corr: " + \
+            str(len(corr)) + " len all: " + str(len(alignments))
         confusion_dict_paths = {}
         confusion_dict_pos = {}
-        get_confusion_matrix(en, corr, alignments, confusion_dict_pos, confusion_dict_paths)
-        extract_matrices(confusion_dict_paths, confusion_dict_pos, conllu_path.split('/')[-1])
+        get_confusion_matrix(en, corr, alignments,
+                             confusion_dict_pos, confusion_dict_paths)
+        extract_matrices(confusion_dict_paths,
+                         confusion_dict_pos, conllu_path.split('/')[-1])
 
 
 if __name__ == '__main__':
