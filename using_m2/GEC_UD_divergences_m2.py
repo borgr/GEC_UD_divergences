@@ -549,18 +549,17 @@ def cut_tokenized_by_text(text, tokens):
     return 0
 
 
-def syntactic_m2(src, corr, m2_path, pos=True, out_path=None):
+def syntactic_m2(src, corr, m2_path, out_path=None):
     """
-    Converts an m2 file and parsed source and correction conllus and m2 to a syntax based m2 file
+    Converts an m2 file and parsed source and correction conllus and m2 to a syntax based (p.o.s.) m2 file
     :param src: parsed conllu of the source (see parse_conllu for expected output)
     :param corr: parsed conllu of the correction (see parse_conllu for expected output)
     :param m2_path: path to an m2 file
-    :param pos: whether to use pos or edges
     :param out_path: place to write the m2 file, if unspecificed the original m2 location will be preserved and stx extension will be added before the .m2
     :return:
     """
     assert len(src) == len(corr), " len en: " + str(len(src)) + " len of corr: " + \
-                                                     str(len(corr)))
+                                                     str(len(corr))
     if not out_path:
         out_path = os.path.splitext(m2_path)
         out_path = "".join([out_path[0], ".stx", out_path[1]])
@@ -603,44 +602,43 @@ def syntactic_m2(src, corr, m2_path, pos=True, out_path=None):
                     src_used_tok = src_end_tok
                     corr_used_tok = corr_end_tok
 
-                    if pos:
-                        if src_end_tok == src_start_tok:
-                            head = "None"
-                        else:
-                            # add 1 as conll starts counting from 1
-                            head = str(highest_or_none([str(idx) for idx in range(src_start_tok + 1, src_end_tok + 1)],
-                                                       src_g))  # TODO check how it works (including when multiple source words
-                        if corr_end_tok == corr_start_tok:
-                            tail = "None"
-                        else:
-                            # add 1 as conll starts counting from 1
-                            tail = str(highest_or_none([str(idx) for idx in range(corr_start_tok + 1, corr_end_tok + 1)],
-                                                       corr_g))
 
-                        # Skip technical additional nodes
-                        if "." in head:
-                            continue
-                        if head == "None":
-                            src_pos = "None"
-                        else:
-                            src_pos = src_n[head]["pos"]
-
-                        if tail == "None":
-                            corr_pos = "None"
-                        else:
-                            corr_pos = corr_n[tail]["pos"]
-                        if head == tail == "None":
-                            if start_index == end_index and not corr_m2_tokens:
-                                print("Correction replaces empty span by an empty correction", " ".join(source_m2_tokens))
-                            else:
-                                print("Warning: both head and tail in error is None in sentence:", " ".join(source_m2_tokens))
-
-                        syntactic_error = src_pos + "->" + corr_pos
-                        out_line = m2_line.split("|||")
-                        out_line[1] = syntactic_error
-                        out_line = "|||".join(out_line)
+                    if src_end_tok == src_start_tok:
+                        head = "None"
                     else:
-                        raise NotImplementedError # edge m2
+                        # add 1 as conll starts counting from 1
+                        head = str(highest_or_none([str(idx) for idx in range(src_start_tok + 1, src_end_tok + 1)],
+                                                   src_g))  # TODO check how it works (including when multiple source words
+                    if corr_end_tok == corr_start_tok:
+                        tail = "None"
+                    else:
+                        # add 1 as conll starts counting from 1
+                        tail = str(highest_or_none([str(idx) for idx in range(corr_start_tok + 1, corr_end_tok + 1)],
+                                                   corr_g))
+
+                    # Skip technical additional nodes
+                    if "." in head:
+                        continue
+                    if head == "None":
+                        src_pos = "None"
+                    else:
+                        src_pos = src_n[head]["pos"]
+
+                    if tail == "None":
+                        corr_pos = "None"
+                    else:
+                        corr_pos = corr_n[tail]["pos"]
+                    if head == tail == "None":
+                        if start_index == end_index and not corr_m2_tokens:
+                            print("Correction replaces empty span by an empty correction", " ".join(source_m2_tokens))
+                        else:
+                            print("Warning: both head and tail in error is None in sentence:", " ".join(source_m2_tokens))
+
+                    syntactic_error = src_pos + "->" + corr_pos
+                    out_line = m2_line.split("|||")
+                    out_line[1] = syntactic_error
+                    out_line = "|||".join(out_line)
+
                 elif "noop" in m2_line:
                     pass
                 elif m2_line.strip():
@@ -681,6 +679,7 @@ def get_confusion_matrix(src, corr, alignments, confusion_dict_pos, confusion_di
             if tail == "None":
                 corr_pos = "None"
             else:
+                corr_pos = corr_n[tail]["pos"]
                 corr_pos = corr_n[tail]["pos"]
             if src_pos not in confusion_dict_pos:
                 confusion_dict_pos[src_pos] = Counter()
