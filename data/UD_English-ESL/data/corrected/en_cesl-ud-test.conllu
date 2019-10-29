@@ -8405,7 +8405,7 @@
 
 # sent_id = 0102_2000_6-doc2020.xml-26
 # text = In my daily life I can save time , but I think everybody should use the time he has saved for things like hiking , walking , swimming , for a " natural life " and not for a life in a technical world with stress and sorrows because we are humans and not robots .
-# error_annotation = In my daily life I can save time, but I think <ns type="RP"><i>every body</i><c>everybody</c></ns> should use <ns type="MD"><c>the</c></ns> <ns type="R"><i>his saved time</i><c>the time he has saved</c></ns> for things like hiking, walking, swimming, for a "natural life" and not for a life in a technical world with stress and sorrows because we are humans and not robots.
+# error_annotation = In my daily life I can save time, but I think <ns type="RP"><i>every body</i><c>everybody</c></ns> should use <ns type="MD"><c>the</c></ns> <ns type="R"><i>his saved time</i><c>time he has saved</c></ns> for things like hiking, walking, swimming, for a "natural life" and not for a life in a technical world with stress and sorrows because we are humans and not robots.
 1	In	_	ADP	IN	_	4	case	_	_
 2	my	_	DET	PRP$	_	4	nmod:poss	_	_
 3	daily	_	ADJ	JJ	_	4	amod	_	_

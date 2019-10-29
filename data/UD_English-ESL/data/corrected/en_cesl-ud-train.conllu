@@ -4660,7 +4660,7 @@
 
 # sent_id = 0102_2000_6-doc880.xml-9
 # text = In music , before I had a computer I could only write my compositions and ' listen ' to them in my mind , because , of course , I have n't got an orchestra to play them , but now I can just record one part , and then another part , and then another one . and I can get the sound of every instrument , controlling it with a keyboard , or even create new sounds .
-# error_annotation = In music, before <ns type="MA"><c>I</c></ns> <ns type="TV"><i>having</i><c>had</c></ns> a computer I could only write my compositions and 'listen' to them <ns type="RT"><i>into</i><c>in</c></ns> my mind, because, of course, I haven't got an orchestra to play them, but now I <ns type="W"><i>just can</i><c>can just</c></ns> record one part, and then another part, and then another one.. and I can get the sound of every instrument <ns type="MP"><c>,</c></ns> controlling it with a keyboard, or even create new sounds.
+# error_annotation = In music, before <ns type="MA"><c>I</c></ns> <ns type="TV"><i>having</i><c>had</c></ns> a computer I could only write my compositions and 'listen' to them <ns type="RT"><i>into</i><c>in</c></ns> my mind, because, of course, I haven't got an orchestra to play them, but now I <ns type="W"><i>just can</i><c>can just</c></ns> record one part, and then another part, and then another one. and I can get the sound of every instrument <ns type="MP"><c>,</c></ns> controlling it with a keyboard, or even create new sounds.
 1	In	_	ADP	IN	_	2	case	_	_
 2	music	_	NOUN	NN	_	12	obl	_	_
 3	,	_	PUNCT	,	_	12	punct	_	_
@@ -36221,7 +36221,7 @@
 18	.	_	PUNCT	.	_	11	punct	_	_
 
 # sent_id = 0100_2000_6-doc72.xml-11
-# text = In fact , I have some questions about how much money I will need , what else I have to bring with me and if I have a emergency what you can do for it .
+# text = In fact , I have some questions about how much money I will need , what else I have to bring with me and if I have an emergency what you can do for it .
 # error_annotation = In fact, I have some questions <ns type="R"><i>that</i><c>about</c></ns> how much money I will need, what else I have to bring with <ns type="MA"><c>me</c></ns> and if I have <ns type="DD" new=true><i>a</i><c>an</c></ns> emergency what you can do for <ns type="MA new=true><c>it</c></ns>.
 1	In	_	ADP	IN	_	2	case	_	_
 2	fact	_	NOUN	NN	_	5	obl	_	_
@@ -36250,7 +36250,7 @@
 25	if	_	SCONJ	IN	_	27	mark	_	_
 26	I	_	PRON	PRP	_	27	nsubj	_	_
 27	have	_	VERB	VBP	_	33	advcl	_	_
-28	a	_	DET	DT	_	29	det	_	_
+28	an	_	DET	DT	_	29	det	_	_
 29	emergency	_	NOUN	NN	_	27	obj	_	_
 30	what	_	PRON	WP	_	33	obj	_	_
 31	you	_	PRON	PRP	_	33	nsubj	_	_
@@ -39080,24 +39080,6 @@
 21	free	_	ADJ	JJ	_	22	amod	_	_
 22	time	_	NOUN	NN	_	19	obj	_	_
 23	.	_	PUNCT	.	_	2	punct	_	_
-
-# sent_id = 0100_2000_12-doc1306.xml-6b
-# text = I am sure about that , they will want to visit that place .
-# error_annotation = I am sure about that, they will <ns type="RV"><i>like</i><c>want</c></ns> to visit that place.
-1	I	_	PRON	PRP	_	3	nsubj	_	_
-2	am	_	AUX	VBP	_	3	cop	_	_
-3	sure	_	ADJ	JJ	_	0	root	_	_
-4	about	_	ADP	IN	_	5	case	_	_
-5	that	_	PRON	DT	_	3	obl	_	_
-6	,	_	PUNCT	,	_	3	punct	_	_
-7	they	_	PRON	PRP	_	9	nsubj	_	_
-8	will	_	AUX	MD	_	9	aux	_	_
-9	want	_	VERB	VB	_	3	parataxis	_	_
-10	to	_	PART	TO	_	11	mark	_	_
-11	visit	_	VERB	VB	_	9	xcomp	_	_
-12	that	_	DET	DT	_	13	det	_	_
-13	place	_	NOUN	NN	_	11	obj	_	_
-14	.	_	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 0100_2000_12-doc928.xml-20
 # text = That means , our security system will be much stronger .
@@ -44615,44 +44597,43 @@
 19	.	_	PUNCT	.	_	13	punct	_	_
 
 # sent_id = 0100_2000_6-doc723.xml-3
-# text = Because because my school finishes at the end of June and I will have a month 's break and after that . I have to do a computing course which I have already applied for .
-# error_annotation = Because</i><c> because</c></ns> my school finishes <ns type="MT"><c>at</c></ns> <ns type="MD"><c>the</c></ns> end of June and I will have a <ns type="MP"><i>month</i><c>month's</c></ns> break <ns type="MC"><c>and</c></ns> after that <ns type="MP"><c>.</c></ns> I have to do a computing course which I have already applied for <ns type="UA"><i>it</i></ns>.
-1	Because	_	SCONJ	IN	_	5	mark	_	_
-2	because	_	SCONJ	IN	_	5	mark	_	_
-3	my	_	DET	PRP$	_	4	nmod:poss	_	_
-4	school	_	NOUN	NN	_	5	nsubj	_	_
-5	finishes	_	VERB	VBZ	_	0	root	_	_
-6	at	_	ADP	IN	_	8	case	_	_
-7	the	_	DET	DT	_	8	det	_	_
-8	end	_	NOUN	NN	_	5	obl	_	_
-9	of	_	ADP	IN	_	10	case	_	_
-10	June	_	PROPN	NNP	_	8	nmod	_	_
-11	and	_	CCONJ	CC	_	14	cc	_	_
-12	I	_	PRON	PRP	_	14	nsubj	_	_
-13	will	_	AUX	MD	_	14	aux	_	_
-14	have	_	VERB	VB	_	5	conj	_	_
-15	a	_	DET	DT	_	18	det	_	_
-16	month	_	NOUN	NN	_	18	nmod:poss	_	_
-17	's	_	PART	POS	_	16	case	_	_
-18	break	_	NOUN	NN	_	14	obj	_	_
-19	and	_	CCONJ	CC	_	24	cc	_	_
-20	after	_	ADP	IN	_	21	case	_	_
-21	that	_	PRON	DT	_	14	conj	_	_
-22	.	_	PUNCT	.	_	5	punct	_	_
-23	I	_	PRON	PRP	_	24	nsubj	_	_
-24	have	_	VERB	VBP	_	5	conj	_	_
-25	to	_	PART	TO	_	26	mark	_	_
-26	do	_	VERB	VB	_	24	xcomp	_	_
-27	a	_	DET	DT	_	29	det	_	_
-28	computing	_	NOUN	NN	_	29	compound	_	_
-29	course	_	NOUN	NN	_	26	obj	_	_
-30	which	_	DET	WDT	_	34	obl	_	_
-31	I	_	PRON	PRP	_	34	nsubj	_	_
-32	have	_	AUX	VBP	_	34	aux	_	_
-33	already	_	ADV	RB	_	34	advmod	_	_
-34	applied	_	VERB	VBN	_	29	acl:relcl	_	_
-35	for	_	ADP	IN	_	34	obl	_	_
-36	.	_	PUNCT	.	_	5	punct	_	_
+# text = because my school finishes at the end of June and I will have a month 's break and after that . I have to do a computing course which I have already applied for .
+# error_annotation = <ns><i>Because</i><c> because</c></ns> my school finishes <ns type="MT"><c>at</c></ns> <ns type="MD"><c>the</c></ns> end of June and I will have a <ns type="MP"><i>month</i><c>month's</c></ns> break <ns type="MC"><c>and</c></ns> after that <ns type="MP"><c>.</c></ns> I have to do a computing course which I have already applied for <ns type="UA"><i>it</i></ns>.
+1	because	_	SCONJ	IN	_	4	mark	_	_
+2	my	_	DET	PRP$	_	3	nmod:poss	_	_
+3	school	_	NOUN	NN	_	4	nsubj	_	_
+4	finishes	_	VERB	VBZ	_	0	root	_	_
+5	at	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	end	_	NOUN	NN	_	4	obl	_	_
+8	of	_	ADP	IN	_	9	case	_	_
+9	June	_	PROPN	NNP	_	7	nmod	_	_
+10	and	_	CCONJ	CC	_	13	cc	_	_
+11	I	_	PRON	PRP	_	13	nsubj	_	_
+12	will	_	AUX	MD	_	13	aux	_	_
+13	have	_	VERB	VB	_	4	conj	_	_
+14	a	_	DET	DT	_	17	det	_	_
+15	month	_	NOUN	NN	_	17	nmod:poss	_	_
+16	's	_	PART	POS	_	15	case	_	_
+17	break	_	NOUN	NN	_	13	obj	_	_
+18	and	_	CCONJ	CC	_	23	cc	_	_
+19	after	_	ADP	IN	_	20	case	_	_
+20	that	_	PRON	DT	_	13	conj	_	_
+21	.	_	PUNCT	.	_	4	punct	_	_
+22	I	_	PRON	PRP	_	23	nsubj	_	_
+23	have	_	VERB	VBP	_	4	conj	_	_
+24	to	_	PART	TO	_	25	mark	_	_
+25	do	_	VERB	VB	_	23	xcomp	_	_
+26	a	_	DET	DT	_	28	det	_	_
+27	computing	_	NOUN	NN	_	28	compound	_	_
+28	course	_	NOUN	NN	_	25	obj	_	_
+29	which	_	DET	WDT	_	33	obl	_	_
+30	I	_	PRON	PRP	_	33	nsubj	_	_
+31	have	_	AUX	VBP	_	33	aux	_	_
+32	already	_	ADV	RB	_	33	advmod	_	_
+33	applied	_	VERB	VBN	_	28	acl:relcl	_	_
+34	for	_	ADP	IN	_	33	obl	_	_
+35	.	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = 0102_2000_6-doc1731.xml-8
 # text = Besides this , we were invited to visit the theatre restaurant after the show , but it was closed because it was being redecorated .
@@ -65596,9 +65577,8 @@
 6	of	_	ADP	IN	_	5	fixed	_	_
 7	illness	_	NOUN	NN	_	4	obl	_	_
 8	.	_	PUNCT	.	_	4	punct	_	_
-9	.	_	PUNCT	.	_	4	punct	_	_
-10	whose	_	PRON	WP	_	4	parataxis	_	_
-11	?	_	PUNCT	.	_	4	punct	_	_
+9	whose	_	PRON	WP	_	4	parataxis	_	_
+10	?	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = 0100_2000_6-doc2745.xml-16
 # text = Firstly , I was very embarrassed during the concert , but all the staff were very kind to me and Tom too .

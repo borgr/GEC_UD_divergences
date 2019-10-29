@@ -753,7 +753,7 @@
 
 # sent_id = 0100_2000_6-doc818.xml-25
 # text = Some times we have to have deal with not good service or for example could you imagine it on your way to shop you have met wrong people or someone told you bad news .
-# error_annotation = <ns type="RP"><i>Some times</i><c>Sometimes</c></ns> we have <ns type="UV"><i>to have</i></ns> <ns type="FV"><i>deal</i><c>to deal</c></ns> with <ns type="DJ"><i>not good</i><c>unsatisfactory</c></ns> service or <ns type="MP"><c>,</c></ns> for example <ns type="MP"><c>,</c></ns> <ns type="TV"><i>could</i><c>can</c></ns> you imagine <ns type="AS"><i>it on your way to <ns type="MD"><c>the</c></ns> shop you have met wrong people</i><c>meeting the wrong people on the way to the shop</c></ns> or someone <ns type="FV"><i>told</i><c>telling</c></ns> you bad news.
+# error_annotation = <ns type="RP"><i>Some times</i><c>Sometimes</c></ns> we have <ns type="UV"><i>to have</i></ns> <ns type="FV"><i>deal</i><c>to deal</c></ns> with <ns type="DJ"><i>not good</i><c>unsatisfactory</c></ns> service or <ns type="MP"><c>,</c></ns> for example <ns type="MP"><c>,</c></ns> <ns type="TV"><i>could</i><c>can</c></ns> you imagine <ns type="AS"><i>it on your way to shop you have met wrong people</i><c>meeting the wrong people on the way to the shop</c></ns> or someone <ns type="FV"><i>told</i><c>telling</c></ns> you bad news.
 1	Some	_	X	GW	_	4	advmod	_	_
 2	times	_	NOUN	NNS	_	1	goeswith	_	_
 3	we	_	PRON	PRP	_	4	nsubj	_	_
@@ -3542,7 +3542,7 @@
 
 # sent_id = 0102_2000_6-doc2203.xml-5
 # text = And the restorant of the theatre was being pait , so I could not go as you said in the advertisment .
-# error_annotation = And the <ns type="W"><i> <ns type="S"><i>restorant</i><c>restaurant</c></ns> of the theatre</i><c>theatre restaurant</c></ns> was being <ns type="TV"><i> <ns type="S"><i>pait</i><c>paint</c></ns></i><c>painted</c></ns>, so I could not go <ns type="MY"><c>there</c></ns> <ns type="U"><i>as you said in the <ns type="S"><i>advertisment</i><c>advertisement</c></ns></i></ns>.
+# error_annotation = And the <ns type="W"><i>restorant of the theatre</i><c>theatre restaurant</c></ns> was being <ns type="S"><i>pait</i><c>painted</c></ns>, so I could not go <ns type="MY"><c>there</c></ns> <ns type="U"><i>as you said in the advertisment</ns>.
 1	And	_	CCONJ	CC	_	9	cc	_	_
 2	the	_	DET	DT	_	3	det	_	_
 3	restorant	_	NOUN	NN	_	9	nsubj:pass	_	_
@@ -5563,7 +5563,7 @@
 
 # sent_id = 0102_2000_12-doc454.xml-19
 # text = Suddenly , she heart a men voice called her " Sara ... Sara . look down to the river . "
-# error_annotation = Suddenly, she <ns type="IV"><i>heart</i><c>heard</c></ns> a <ns type="MP"><i> <ns type="AGN"><i>men</i><c>man</c></ns></i><c>man's</c></ns> voice <ns type="FV"><i>called</i><c>calling</c></ns> her <ns type="MP"><c>:</c></ns> "Sara...Sara.. look down to the river."
+# error_annotation = Suddenly, she <ns type="IV"><i>heart</i><c>heard</c></ns> a <ns type="MP"><i> <ns type="AGN"><i>men</i><c>man</c></ns></i><c>man's</c></ns> voice <ns type="FV"><i>called</i><c>calling</c></ns> her <ns type="MP"><c>:</c></ns> "Sara...Sara. look down to the river."
 1	Suddenly	_	ADV	RB	_	4	advmod	_	_
 2	,	_	PUNCT	,	_	4	punct	_	_
 3	she	_	PRON	PRP	_	4	nsubj	_	_
@@ -7258,7 +7258,7 @@
 
 # sent_id = 0102_2000_6-doc1648.xml-14
 # text = Pat and Ted , had always competition , and Ted used to be the best , he never had failed and people in general constums to like more Ted , I do n't now why .
-# error_annotation = Pat and Ted <ns type="UP"><i>,</i></ns> <ns type="W"><i>had always</i><c>always had</c></ns> competition, and Ted used to be the best <ns type="RP"><i>, he</i><c>. He</c></ns> <ns type="W"><i>never had</i><c>had never</c></ns> failed and people in general <ns type="UN"><i> <ns type="S"><i>constums</i><c>customs</c></ns></i></ns> <ns type="TV"><i>to like</i><c>liked</c></ns> <ns type="W"><i>more Ted</i><c>Ted more</c></ns> <ns type="RP"><i>,</i><c>.</c></ns> I don't <ns type="SX"><i>now</i><c>know</c></ns> why.
+# error_annotation = Pat and Ted <ns type="UP"><i>,</i></ns> <ns type="W"><i>had always</i><c>always had</c></ns> competition, and Ted used to be the best <ns type="RP"><i>, he</i><c>. He</c></ns> <ns type="W"><i>never had</i><c>had never</c></ns> failed and people in general <ns type="UN"><i>constums</i></ns> <ns type="TV"><i>to like</i><c>liked</c></ns> <ns type="W"><i>more Ted</i><c>Ted more</c></ns> <ns type="RP"><i>,</i><c>.</c></ns> I don't <ns type="SX"><i>now</i><c>know</c></ns> why.
 1	Pat	_	PROPN	NNP	_	5	nsubj	_	_
 2	and	_	CCONJ	CC	_	3	cc	_	_
 3	Ted	_	PROPN	NNP	_	1	conj	_	_
@@ -7890,7 +7890,7 @@
 
 # sent_id = 0100_2001_6-doc3093.xml-27
 # text = It contains lots of archeological Etruscans founded and some remains about Etruscans neoropolis .
-# error_annotation = It contains lots of <ns type="R"> <ns type="SA"><i>archeological</i><c>archaeological</c></ns> Etruscans founded</ns> and some remains <ns type="RT"><i>about</i><c>from</c></ns> <ns type="MD"><c>the</c></ns> <ns type="MP"><i>Etruscans</i><c>Estruscans'</c></ns> <ns type="S"><i>neoropolis</i><c>necropolis</c></ns>.
+# error_annotation = It contains lots of <ns type="R"><i><ns type="SA"><i>archeological</i><c>archaeological</c></ns> Etruscans founded</i><c>unearthed Etruscan artifacts</c></ns> and some remains <ns type="RT"><i>about</i><c>from</c></ns> <ns type="MD"><c>the</c></ns> <ns type="MP"><i>Etruscans</i><c>Estruscans'</c></ns> <ns type="S"><i>neoropolis</i><c>necropolis</c></ns>.
 1	It	_	PRON	PRP	_	2	nsubj	_	_
 2	contains	_	VERB	VBZ	_	0	root	_	_
 3	lots	_	NOUN	NNS	_	2	obj	_	_
@@ -8330,7 +8330,7 @@
 
 # sent_id = 0102_2000_6-doc2020.xml-26
 # text = In my daily life I can save time , but I think every body should use his saved time for things like hiking , walking , swimming , for a " natural life " and not for a life in a technical world with stress and sorrows because we are humans and not robots .
-# error_annotation = In my daily life I can save time, but I think <ns type="RP"><i>every body</i><c>everybody</c></ns> should use <ns type="MD"><c>the</c></ns> <ns type="R"><i>his saved time</i><c>the time he has saved</c></ns> for things like hiking, walking, swimming, for a "natural life" and not for a life in a technical world with stress and sorrows because we are humans and not robots.
+# error_annotation = In my daily life I can save time, but I think <ns type="RP"><i>every body</i><c>everybody</c></ns> should use <ns type="MD"><c>the</c></ns> <ns type="R"><i>his saved time</i><c>time he has saved</c></ns> for things like hiking, walking, swimming, for a "natural life" and not for a life in a technical world with stress and sorrows because we are humans and not robots.
 1	In	_	ADP	IN	_	4	case	_	_
 2	my	_	DET	PRP$	_	4	nmod:poss	_	_
 3	daily	_	ADJ	JJ	_	4	amod	_	_

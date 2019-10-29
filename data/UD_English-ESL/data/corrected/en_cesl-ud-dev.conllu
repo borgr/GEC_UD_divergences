@@ -3636,22 +3636,21 @@
 31	.	_	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 0100_2000_6-doc2030.xml-44
-# text = Because because she never managed to get me out of the toy shop .
-# error_annotation = Because</i><c> because</c></ns> she never managed to get me out <ns type="RT"><i>from</i><c>of</c></ns> the toy shop.
-1	Because	_	SCONJ	IN	_	5	mark	_	_
-2	because	_	SCONJ	IN	_	5	mark	_	_
-3	she	_	PRON	PRP	_	5	nsubj	_	_
-4	never	_	ADV	RB	Polarity=Neg	5	advmod	_	_
-5	managed	_	VERB	VBD	_	0	root	_	_
-6	to	_	PART	TO	_	7	mark	_	_
-7	get	_	VERB	VB	_	5	xcomp	_	_
-8	me	_	PRON	PRP	_	7	obj	_	_
-9	out	_	ADP	IN	_	13	case	_	_
-10	of	_	ADP	IN	_	13	case	_	_
-11	the	_	DET	DT	_	13	det	_	_
-12	toy	_	NOUN	NN	_	13	compound	_	_
-13	shop	_	NOUN	NN	_	7	obl	_	_
-14	.	_	PUNCT	.	_	5	punct	_	_
+# text = because she never managed to get me out of the toy shop .
+# error_annotation = <ns><i>Because</i><c> because</c></ns> she never managed to get me out <ns type="RT"><i>from</i><c>of</c></ns> the toy shop.
+1	because	_	SCONJ	IN	_	5	mark	_	_
+2	she	_	PRON	PRP	_	5	nsubj	_	_
+3	never	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+4	managed	_	VERB	VBD	_	0	root	_	_
+5	to	_	PART	TO	_	7	mark	_	_
+6	get	_	VERB	VB	_	5	xcomp	_	_
+7	me	_	PRON	PRP	_	7	obj	_	_
+8	out	_	ADP	IN	_	13	case	_	_
+9	of	_	ADP	IN	_	13	case	_	_
+10	the	_	DET	DT	_	13	det	_	_
+11	toy	_	NOUN	NN	_	13	compound	_	_
+12	shop	_	NOUN	NN	_	7	obl	_	_
+13	.	_	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 0100_2000_6-doc2574.xml-3
 # text = About the accommodation , I would prefer a tent because I enjoy the contact with nature as well as camping activities .
@@ -9715,16 +9714,16 @@
 
 # sent_id = 0100_2000_6-doc2475.xml-20
 # text = - in profit and each of us took 400
-# error_annotation = -</i></ns> <ns type="RT"><i>of</i><c>in</c></ns> <ns type="RN"><i>benefice</i><c>profit</c></ns> and each <ns type="MT"><c>of</c></ns> us <ns type="TV"><i>take</i><c>took</c></ns> 400 <ns type="UP"><i>.
-1	-	_	PUNCT	HYPH	_	3	punct	_	_
-2	in	_	ADP	IN	_	3	case	_	_
-3	profit	_	NOUN	NN	_	0	root	_	_
-4	and	_	CCONJ	CC	_	8	cc	_	_
-5	each	_	DET	DT	_	8	nsubj	_	_
-6	of	_	ADP	IN	_	7	case	_	_
-7	us	_	PRON	PRP	_	5	nmod	_	_
-8	took	_	VERB	VBD	_	3	conj	_	_
-9	400	_	NUM	CD	_	8	obj	_	_
+# error_annotation = -</i></ns> <ns type="RT"><i>of</i><c>in</c></ns> <ns type="RN"><i>benefice</i><c>profit</c></ns> and each <ns type="MT"><c>of</c></ns> us <ns type="TV"><i>take</i><c>took</c></ns> 400 .
+1	in	_	ADP	IN	_	3	case	_	_
+2	profit	_	NOUN	NN	_	0	root	_	_
+3	and	_	CCONJ	CC	_	8	cc	_	_
+4	each	_	DET	DT	_	8	nsubj	_	_
+5	of	_	ADP	IN	_	7	case	_	_
+6	us	_	PRON	PRP	_	5	nmod	_	_
+7	took	_	VERB	VBD	_	3	conj	_	_
+8	400	_	NUM	CD	_	8	obj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 0100_2000_6-doc15.xml-32
 # text = I 'll tell you more about the experience in my next letter .

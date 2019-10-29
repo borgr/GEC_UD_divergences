@@ -4586,7 +4586,7 @@
 
 # sent_id = 0102_2000_6-doc880.xml-9
 # text = In music , before having a computer I could only write my compositions and ' listen ' to them into my mind , because , of course , I have n't got an orchestra to play them , but now I just can record one part , and then another part , and then another one . and I can get the sound of every instrument controlling it with a keyboard , or even create new sounds .
-# error_annotation = In music, before <ns type="MA"><c>I</c></ns> <ns type="TV"><i>having</i><c>had</c></ns> a computer I could only write my compositions and 'listen' to them <ns type="RT"><i>into</i><c>in</c></ns> my mind, because, of course, I haven't got an orchestra to play them, but now I <ns type="W"><i>just can</i><c>can just</c></ns> record one part, and then another part, and then another one.. and I can get the sound of every instrument <ns type="MP"><c>,</c></ns> controlling it with a keyboard, or even create new sounds.
+# error_annotation = In music, before <ns type="MA"><c>I</c></ns> <ns type="TV"><i>having</i><c>had</c></ns> a computer I could only write my compositions and 'listen' to them <ns type="RT"><i>into</i><c>in</c></ns> my mind, because, of course, I haven't got an orchestra to play them, but now I <ns type="W"><i>just can</i><c>can just</c></ns> record one part, and then another part, and then another one. and I can get the sound of every instrument <ns type="MP"><c>,</c></ns> controlling it with a keyboard, or even create new sounds.
 1	In	_	ADP	IN	_	2	case	_	_
 2	music	_	NOUN	NN	_	11	obl	_	_
 3	,	_	PUNCT	,	_	11	punct	_	_
@@ -9985,7 +9985,7 @@
 
 # sent_id = 0100_2000_6-doc1941.xml-4
 # text = Also to know about the all accommodation and travel costs that is including in the first prize .
-# error_annotation = Also <ns type="M" new=true><c>I'd like</></ns> to know about <ns type="WO" new=true><i>the all</i><c>all the</c></ns> accommodation and travel costs that <ns type="AGV"><i>is</i><c>are</c></ns> <ns type="DJ"><i>including</i><c>included</c></ns> in the first prize.
+# error_annotation = Also <ns type="M" new=true><c>I'd like</c></ns> to know about <ns type="WO" new=true><i>the all</i><c>all the</c></ns> accommodation and travel costs that <ns type="AGV"><i>is</i><c>are</c></ns> <ns type="DJ"><i>including</i><c>included</c></ns> in the first prize.
 1	Also	_	ADV	RB	_	3	advmod	_	_
 2	to	_	PART	TO	_	3	mark	_	_
 3	know	_	VERB	VB	_	0	root	_	_
@@ -10544,7 +10544,7 @@
 
 # sent_id = 0100_2000_6-doc2484.xml-13
 # text = I have knowladge about navigation , engine , ropes and knots and sails as well .
-# error_annotation = I have <ns type="S"><i>knowladge</i><c>knowledge</c></ns> <ns type="RT"><i>about</i><c>of</c></ns> navigation, <ns type="IN" new=true<i>engine</i><c>engines</c></ns>, ropes and knots <ns type="MP"><c>,</c></ns> and <ns type="M"></ns> sails as well.
+# error_annotation = I have <ns type="S"><i>knowladge</i><c>knowledge</c></ns> <ns type="RT"><i>about</i><c>of</c></ns> navigation, <ns type="IN" new=true><i>engine</i><c>engines</c></ns>, ropes and knots <ns type="MP"><c>,</c></ns> and <ns type="M"></ns> sails as well.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	have	_	VERB	VBP	_	0	root	_	_
 3	knowladge	_	NOUN	NN	_	2	obj	_	_
@@ -11727,7 +11727,7 @@
 
 # sent_id = 0100_2000_6-doc1903.xml-23
 # text = Hunting on the High Street , or the Shopping Malls , for the desired bargain - because we cant afford otherwise to buy - becomes often a desperate atempt to reach a living promoted by the new consuming society .
-# error_annotation = Hunting on the <ns type="RP"><i>High Street</i><c>high street</c></ns>, or the <ns type="RP"><i>Shopping Malls</i><c>shopping malls</c></ns> <ns type="UP"><i>,</i></ns> for the desired bargain - because we <ns type="MP"><i>cant</i><c>can't</c></ns> afford <ns type="W"><i>otherwise to buy <ns type="MA"><c>anything</c></ns></i><c>to buy anything otherwise</c></ns> - <ns type="W"><i>becomes often</i><c>often becomes</c></ns> a desperate <ns type="S"><i>atempt</i><c>attempt</c></ns> to <ns type="R"><i>reach a living</i><c>attain a lifestyle</c></ns> promoted by the new <ns type="RJ"><i>consuming</i><c>consumerist</c></ns> society.
+# error_annotation = Hunting on the <ns type="RP"><i>High Street</i><c>high street</c></ns>, or the <ns type="RP"><i>Shopping Malls</i><c>shopping malls</c></ns> <ns type="UP"><i>,</i></ns> for the desired bargain - because we <ns type="MP"><i>cant</i><c>can't</c></ns> afford <ns type="W"><i>otherwise to buy </i><c>to buy anything otherwise</c></ns> - <ns type="W"><i>becomes often</i><c>often becomes</c></ns> a desperate <ns type="S"><i>atempt</i><c>attempt</c></ns> to <ns type="R"><i>reach a living</i><c>attain a lifestyle</c></ns> promoted by the new <ns type="RJ"><i>consuming</i><c>consumerist</c></ns> society.
 1	Hunting	_	NOUN	NN	_	25	nsubj	_	_
 2	on	_	ADP	IN	_	5	case	_	_
 3	the	_	DET	DT	_	5	det	_	_
@@ -15380,7 +15380,7 @@
 
 # sent_id = 0102_2000_6-doc1635.xml-12
 # text = After the show many people wanted go to your theatre restaurant , but it was closed because there someone has fixed something .
-# error_annotation = After the show many people wanted go to your theatre restaurant, but it was closed because <ns type="W"><i>there someone <ns type="RV">has fixed</ns> something</i><c>someone <ns type="RV">has fixed</ns> something there</c></ns>.
+# error_annotation = After the show many people wanted go to your theatre restaurant, but it was closed because <ns type="W"><i>there someone has fixed something</i><c>someone has fixed something there</c></ns>.
 1	After	_	ADP	IN	_	3	case	_	_
 2	the	_	DET	DT	_	3	det	_	_
 3	show	_	NOUN	NN	_	6	obl	_	_
@@ -19510,7 +19510,7 @@
 
 # sent_id = 0102_2000_6-doc2604.xml-14
 # text = But everyone always noticed he had secrets from his face .
-# error_annotation = But everyone always <ns type="RV"><i>noticed</i><c>saw</c></ns> <ns type="W"><i>he had <ns type="MD"><c>a</c></ns> <ns type="AGN"><i>secrets</i><c>secret</c></ns> from his face</i><c>from his face he had a secret</c></ns>.
+# error_annotation = But everyone always <ns type="RV"><i>noticed</i><c>saw</c></ns> <ns type="W"><i>he had secrets from his face</i> <c>from his face he had a secret</c></ns>.
 1	But	_	CCONJ	CC	_	4	cc	_	_
 2	everyone	_	PRON	NN	_	4	nsubj	_	_
 3	always	_	ADV	RB	_	4	advmod	_	_
@@ -19525,7 +19525,7 @@
 
 # sent_id = 0102_2000_12-doc151.xml-16
 # text = - emprove your kindness and ask for works in restaurants or pubs , is a good training period for real life too ( be patient with demanding people is always required )
-# error_annotation = - <ns type="S"><i>emprove</i><c>improve</c></ns> your kindness and ask for <ns type="CN"><i>works</i><c>work</c></ns> in restaurants or <ns type="RN"><i>pubs</i><c>bars</c></ns> <ns type="RP"><i>, <ns type="MA"><c>it</c></ns></i><c>. It</c></ns> is a good training period for real life too ( <ns type="FV"><i>be</i><c>being</c></ns> patient with demanding people is <ns type="UY"><i>always</i></ns> required)
+# error_annotation = - <ns type="S"><i>emprove</i><c>improve</c></ns> your kindness and ask for <ns type="CN"><i>works</i><c>work</c></ns> in restaurants or <ns type="RN"><i>pubs</i><c>bars</c></ns> <ns type="RP"><i>, </i><c>. It</c></ns> is a good training period for real life too ( <ns type="FV"><i>be</i><c>being</c></ns> patient with demanding people is <ns type="UY"><i>always</i></ns> required)
 1	-	_	PUNCT	HYPH	_	2	punct	_	_
 2	emprove	_	VERB	VBP	_	0	root	_	_
 3	your	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -20976,7 +20976,7 @@
 
 # sent_id = 0100_2000_6-doc1022.xml-16
 # text = The queue is not only the problem if you go by car there is parking problem , if you go by bus there is again queue and you have to carry many carry bag carrier bags during the your journey and you wo n't be alway luky to find a seat to seat .
-# error_annotation = The <ns type="FN"><i>queue</i><c>queues</c></ns> <ns type="AGV"><i>is</i><c>are</c></ns> not <ns type="W"><i>only the</i><c>the only</c></ns> problem <ns type="MP"><i> if</i><c>. If</c></ns> you go by car there is <ns type="MD"><c>the</c></ns> <ns type="W"><i>parking problem</i><c>problem <ns type="MT"><c>of</c></ns> parking</c></ns>, if you go by bus there <ns type="AGV"><i>is</i><c>are</c></ns> <ns type="RY"><i>again</i><c>also</c></ns> <ns type="FN"><i>queue</i><c>queues</c></ns> and you have to carry <ns type="RQ"><i>many</i><c>a lot of</c></ns> <ns type="AGN"> <ns type="DN"><i>carry bag</i><c>carrier bag</c></ns> carrier bags</ns> during <ns type="UD"><i>the</i></ns> your journey and you won't <ns type="W"><i>be <ns type="S"><i>alway</i><c>always</c></ns></i><c>always be</c></ns> <ns type="S"><i>luky</i><c>lucky</c></ns> <ns type="MY"><c>enough</c></ns> to find a seat <ns type="UV"><i>to <ns type="RV"><i>seat</i><c>sit</c></ns></i></ns>.
+# error_annotation = The <ns type="FN"><i>queue</i><c>queues</c></ns> <ns type="AGV"><i>is</i><c>are</c></ns> not <ns type="W"><i>only the</i><c>the only</c></ns> problem <ns type="MP"><i> if</i><c>. If</c></ns> you go by car there is <ns type="MD"><c>the</c></ns> <ns type="W"><i>parking problem</i><c>problem <ns type="MT"><c>of</c></ns> parking</c></ns>, if you go by bus there <ns type="AGV"><i>is</i><c>are</c></ns> <ns type="RY"><i>again</i><c>also</c></ns> <ns type="FN"><i>queue</i><c>queues</c></ns> and you have to carry <ns type="RQ"><i>many</i><c>a lot of</c></ns> <ns type="AGN"> <ns type="DN"><i>carry bag</i><c>carrier bag</c></ns> carrier bags</ns> during <ns type="UD"><i>the</i></ns> your journey and you won't <ns type="W"><i>be <ns type="S"><i>alway</i><c>always</c></ns></i><c>always be</c></ns> <ns type="S"><i>luky</i><c>lucky</c></ns> <ns type="MY"><c>enough</c></ns> to find a seat <ns type="UV"><i>to seat</i></ns>.
 1	The	_	DET	DT	_	2	det	_	_
 2	queue	_	NOUN	NN	_	7	nsubj	_	_
 3	is	_	AUX	VBZ	_	7	cop	_	_
@@ -22172,7 +22172,7 @@
 
 # sent_id = 0100_2000_12-doc579.xml-16
 # text = There is no surprise to this answer : famous people can not have their own private life .
-# error_annotation = " <ns type="AS"><i>There is no surprise to this answer</i><c>This answer is no surprise</c></ns>: famous people <ns type="RP"><i>can not</i><c>cannot</c></ns> have their own private life.
+# error_annotation = <ns type="AS"><i>There is no surprise to this answer</i><c>" This answer is no surprise</c></ns>: famous people <ns type="RP"><i>can not</i><c>cannot</c></ns> have their own private life.
 1	There	_	PRON	EX	_	2	expl	_	_
 2	is	_	VERB	VBZ	_	0	root	_	_
 3	no	_	DET	DT	Polarity=Neg	4	det	_	_
@@ -34189,7 +34189,7 @@
 
 # sent_id = 0100_2001_6-doc3157.xml-24
 # text = And ofcause this stops me everytime to live sociable life .
-# error_annotation = And <ns type="DY"><i>ofcause</i><c>of course</c></ns> this stops me <ns type="WO" new=true><i><ns type="RP" new=true><i>everytime</i><c>every time</c> <ns type="AS" new=true><i>to live</i><c>from living</c></ns> <ns type="MD" new=true><c>a</c></ns> sociable life</i><c>from living a sociable life every time</c></ns>.
+# error_annotation = And <ns type="DY"><i>ofcause</i><c>of course</c></ns> this stops me <ns type="WO" new=true><i><ns type="RP" new=true><i>everytime</i><c>every time</c></ns><ns type="AS" new=true><i>to live</i><c>from living</c></ns> <ns type="MD" new=true><c>a</c></ns> sociable life</i><c>from living a sociable life every time</c></ns>.
 1	And	_	CCONJ	CC	_	4	cc	_	_
 2	ofcause	_	ADV	RB	_	4	advmod	_	_
 3	this	_	PRON	DT	_	4	nsubj	_	_
@@ -34454,7 +34454,7 @@
 
 # sent_id = 0100_2000_6-doc754.xml-18
 # text = Moreover , what do think how much pocketmoney we will spent on this trip .
-# error_annotation = Moreover, <ns type="UA"><i>what</i></ns> <ns type="W"><i>do <ns type="MA"><c>you</c></ns> think how much <ns type="RP"><i>pocketmoney</i><c>pocket money</c></ns> we will <ns type="FV"><i>spent</i><c>spend</c></ns></i><c>how much money do you think we will spend</c></ns> on this trip <ns type="RP"><i>.</i><c>?</c></ns>
+# error_annotation = Moreover, <ns type="UA"><i>what</i></ns> <ns type="W"><i>do think how much pocketmoney we will spent</i><c>how much money do you think we will spend</c></ns> on this trip <ns type="RP"><i>.</i><c>?</c></ns>
 1	Moreover	_	ADV	RB	_	5	advmod	_	_
 2	,	_	PUNCT	,	_	5	punct	_	_
 3	what	_	PRON	WP	_	5	obj	_	_
@@ -38581,31 +38581,6 @@
 17	shopping	_	NOUN	NN	_	15	obl	_	_
 18	,	_	PUNCT	,	_	5	punct	_	_
 
-# sent_id = 0100_2000_12-doc1306.xml-6b
-# text = when they have a free time , I am sure about that , they will like to visit that place .
-# error_annotation = when they have <ns type="R"><i>a</i><c>some</c></ns> free time <ns type="RP"><i>,</i><c>.</c></ns> I am sure about that, they will <ns type="RV"><i>like</i><c>want</c></ns> to visit that place.
-1	when	_	ADV	WRB	_	3	mark	_	_
-2	they	_	PRON	PRP	_	3	nsubj	_	_
-3	have	_	VERB	VBP	_	16	advcl	_	_
-4	a	_	DET	DT	_	6	det	_	_
-5	free	_	ADJ	JJ	_	6	amod	_	_
-6	time	_	NOUN	NN	_	3	obj	_	_
-7	,	_	PUNCT	,	_	3	punct	_	_
-8	I	_	PRON	PRP	_	10	nsubj	_	_
-9	am	_	AUX	VBP	_	10	cop	_	_
-10	sure	_	ADJ	JJ	_	3	parataxis	_	_
-11	about	_	ADP	IN	_	12	case	_	_
-12	that	_	PRON	DT	_	10	obl	_	_
-13	,	_	PUNCT	,	_	16	punct	_	_
-14	they	_	PRON	PRP	_	16	nsubj	_	_
-15	will	_	AUX	MD	_	16	aux	_	_
-16	like	_	VERB	VB	_	0	root	_	_
-17	to	_	PART	TO	_	18	mark	_	_
-18	visit	_	VERB	VB	_	16	xcomp	_	_
-19	that	_	DET	DT	_	20	det	_	_
-20	place	_	NOUN	NN	_	18	obj	_	_
-21	.	_	PUNCT	.	_	16	punct	_	_
-
 # sent_id = 0100_2000_12-doc928.xml-20
 # text = That is , our security system will be much stronger .
 # error_annotation = That <ns type="RV"><i>is</i><c>means</c></ns>, our security system will be much stronger.
@@ -41990,7 +41965,7 @@
 
 # sent_id = 0102_2000_6-doc842.xml-31
 # text = It seemed to sank into the sea , but fourtunately , storm went soon .
-# error_annotation = It seemed to <ns type="FV"><i>sank</i><c>sink</c></ns> into the sea, but <ns type="S"><i>fourtunately</i><c>fortunately</c></ns>, <ns type="MD"><c>the</c></ns> storm <ns type="W"><i>went <ns type="MY"><c>away</c></ns> soon</i><c>soon went away</c></ns>.
+# error_annotation = It seemed to <ns type="FV"><i>sank</i><c>sink</c></ns> into the sea, but <ns type="S"><i>fourtunately</i><c>fortunately</c></ns>, <ns type="MD"><c>the</c></ns> storm <ns type="W"><i>went soon</i><c>soon went away</c></ns>.
 1	It	_	PRON	PRP	_	2	nsubj	_	_
 2	seemed	_	VERB	VBD	_	0	root	_	_
 3	to	_	PART	TO	_	4	mark	_	_
@@ -44062,7 +44037,7 @@
 
 # sent_id = 0100_2000_6-doc723.xml-3
 # text = Because my school finishes end of June and I will have a month break after that I have to do a computing course which I have already applied for it .
-# error_annotation = Because</i><c> because</c></ns> my school finishes <ns type="MT"><c>at</c></ns> <ns type="MD"><c>the</c></ns> end of June and I will have a <ns type="MP"><i>month</i><c>month's</c></ns> break <ns type="MC"><c>and</c></ns> after that <ns type="MP"><c>.</c></ns> I have to do a computing course which I have already applied for <ns type="UA"><i>it</i></ns>.
+# error_annotation = <ns><i>Because</i><c> because</c></ns> my school finishes <ns type="MT"><c>at</c></ns> <ns type="MD"><c>the</c></ns> end of June and I will have a <ns type="MP"><i>month</i><c>month's</c></ns> break <ns type="MC"><c>and</c></ns> after that <ns type="MP"><c>.</c></ns> I have to do a computing course which I have already applied for <ns type="UA"><i>it</i></ns>.
 1	Because	_	SCONJ	IN	_	4	mark	_	_
 2	my	_	DET	PRP$	_	3	nmod:poss	_	_
 3	school	_	NOUN	NN	_	4	nsubj	_	_
@@ -44281,7 +44256,7 @@
 
 # sent_id = 0100_2000_12-doc966.xml-11
 # text = I hope you will take my proposal in favoreable consideration .
-# error_annotation = I hope you will take my proposal <ns type="RT"><i>in</i><c>into</c></ns> <ns type="UJ"><i> <ns type="S"><i>favoreable</i><c>favourable</c></ns></i></ns> consideration.
+# error_annotation = I hope you will take my proposal <ns type="RT"><i>in</i><c>into</c></ns> <ns type="UJ"><i> favoreable</i></ns> consideration.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	hope	_	VERB	VBP	_	0	root	_	_
 3	you	_	PRON	PRP	_	5	nsubj	_	_
@@ -47064,7 +47039,7 @@
 
 # sent_id = 0100_2000_6-doc243.xml-37
 # text = Without any hussle , seating in your chear in front of your computer you in second can get in at any shop who has internet site , most of the big companies have it , get all information about product , get cheaper price and buy it .
-# error_annotation = Without any <ns type="S"><i>hussle</i><c>hassle</c></ns>, <ns type="RV"><i>seating</i><c>sitting</c></ns> in your <ns type="S"><i>chear</i><c>chair</c></ns> in front of your computer <ns type="MP"><c>,</c></ns> <ns type="W"><i>you in <ns type="MD"><c>a</c></ns> second</i><c>in a second you</c></ns> can get <ns type="RT"><i>in</i><c>to</c></ns> <ns type="UT"><i>at</i></ns> any shop <ns type="RA"><i>who</i><c>that</c></ns> has <ns type="MD"><c>an</c></ns> internet site <ns type="RP"><i>,</i><c> -</c></ns> most of the big companies have <ns type="AGA"><i>it</i><c>one</c></ns> <ns type="RP"><i>,</i><c> -</c></ns> get all <ns type="MD"><c>the</c></ns> information about <ns type="MD"><c>the</c></ns> product, get <ns type="MD"><c>a</c></ns> cheaper price and buy it.
+# error_annotation = Without any <ns type="S"><i>hussle</i><c>hassle</c></ns>, <ns type="RV"><i>seating</i><c>sitting</c></ns> in your <ns type="S"><i>chear</i><c>chair</c></ns> in front of your computer <ns type="MP"><c>,</c></ns> <ns type="W"><i>you in second</i><c>in a second you</c></ns> can get <ns type="RT"><i>in</i><c>to</c></ns> <ns type="UT"><i>at</i></ns> any shop <ns type="RA"><i>who</i><c>that</c></ns> has <ns type="MD"><c>an</c></ns> internet site <ns type="RP"><i>,</i><c> -</c></ns> most of the big companies have <ns type="AGA"><i>it</i><c>one</c></ns> <ns type="RP"><i>,</i><c> -</c></ns> get all <ns type="MD"><c>the</c></ns> information about <ns type="MD"><c>the</c></ns> product, get <ns type="MD"><c>a</c></ns> cheaper price and buy it.
 1	Without	_	ADP	IN	_	3	case	_	_
 2	any	_	DET	DT	_	3	det	_	_
 3	hussle	_	NOUN	NN	_	18	obl	_	_
@@ -48380,7 +48355,7 @@
 
 # sent_id = 0100_2000_6-doc2318.xml-18
 # text = But now I found some time to tell you everything about the pop concert I helped .
-# error_annotation = But now I <ns type="TV"><i>found</i><c>have found</c></ns> some time to tell you everything about the pop concert I helped <ns type="M"></ns>.
+# error_annotation = But now I <ns type="TV"><i>found</i><c>have found</c></ns> some time to tell you everything about the pop concert I helped <ns type="M" new=true><c>with</c></ns>.
 1	But	_	CCONJ	CC	_	4	cc	_	_
 2	now	_	ADV	RB	_	4	advmod	_	_
 3	I	_	PRON	PRP	_	4	nsubj	_	_
@@ -50729,7 +50704,7 @@
 
 # sent_id = 0100_2000_6-doc2622.xml-28
 # text = As far as I am concerned I would appreciate to have myself some of her characteristics , like take a decision and handle .
-# error_annotation = As far as I am concerned I would appreciate <ns type="FV"><i>to have</i><c>having</c></ns> <ns type="W"><i>myself some of her characteristics</i><c>some of her characteristics myself</c></ns>, <ns type="R">like take a decision and handle</ns>.
+# error_annotation = As far as I am concerned I would appreciate <ns type="FV"><i>to have</i><c>having</c></ns> <ns type="W"><i>myself some of her characteristics</i><c>some of her characteristics myself</c></ns>, <ns type="R" new=true><i>like take a decision and handle</i><c>like being able to make decisions</c></ns>.
 1	As	_	ADV	RB	_	2	advmod	_	_
 2	far	_	ADV	RB	_	9	advmod	_	_
 3	as	_	SCONJ	IN	_	6	mark	_	_
@@ -55771,7 +55746,7 @@
 
 # sent_id = 0102_2000_12-doc192.xml-23
 # text = If you look at this book like a painting you ca n't see afumature of colours , you see only primary colours .
-# error_annotation = If you look at this book like a painting you can't see <ns type="DN">afumature</ns> of colours, you see only primary colours.
+# error_annotation = If you look at this book like a painting you can't see <ns type="DN" new=true><i>afumature</i><c>a lot</c></ns> of colours, you see only primary colours.
 1	If	_	SCONJ	IN	_	3	mark	_	_
 2	you	_	PRON	PRP	_	3	nsubj	_	_
 3	look	_	VERB	VBP	_	13	advcl	_	_
@@ -57315,7 +57290,7 @@
 
 # sent_id = 0100_2001_6-doc3102.xml-16
 # text = Another point in favour is the possibility to connect to the Internet .
-# error_annotation = Another <ns type="ID"><i>point in <ns type="MD"><c>their</c></ns> favour</i><c>advantage</c></ns> is <ns type="RD"><i>the</i><c>their</c></ns> <ns type="RN"><i>possibility</i><c>ability</c></ns> to connect to the Internet.
+# error_annotation = Another <ns type="ID"><i>point in favour</i><c>advantage</c></ns> is <ns type="RD"><i>the</i><c>their</c></ns> <ns type="RN"><i>possibility</i><c>ability</c></ns> to connect to the Internet.
 1	Another	_	DET	DT	_	2	det	_	_
 2	point	_	NOUN	NN	_	7	nsubj	_	_
 3	in	_	ADP	IN	_	4	case	_	_
@@ -57815,7 +57790,7 @@
 
 # sent_id = 0100_2001_6-doc2960.xml-0a
 # text = Dear Mrs Smith ,
-# error_annotation = <ns type="L">Dear Mrs Smith,</ns>.
+# error_annotation = <ns type="L">Dear Mrs Smith,</ns>
 1	Dear	_	ADJ	JJ	_	3	amod	_	_
 2	Mrs	_	PROPN	NNP	_	3	compound	_	_
 3	Smith	_	PROPN	NNP	_	0	root	_	_
@@ -58017,7 +57992,7 @@
 
 # sent_id = 0100_2000_12-doc216.xml-25
 # text = I saw the pink colored snow there .
-# error_annotation = I saw the pink <ns type="UJ"><i> <ns type="SA"><i>colored</i><c>coloured</c></ns></i></ns> snow there.
+# error_annotation = I saw the pink <ns type="UJ"><i>colored</i></ns> snow there.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	saw	_	VERB	VBD	_	0	root	_	_
 3	the	_	DET	DT	_	6	det	_	_
@@ -58365,7 +58340,7 @@
 
 # sent_id = 0100_2000_12-doc1621.xml-8
 # text = What is more they are the Leisure and sports wear , which we are keen on seeing it .
-# error_annotation = What is more they are <ns type="R">the Leisure and sports wear</ns>, which we are keen on seeing <ns type="UA"><i>it</i></ns>.
+# error_annotation = What is more they are <ns type="U" new=true><i>the</i></ns> Leisure and sports wear, which we are keen on seeing <ns type="UA"><i>it</i></ns>.
 1	What	_	PRON	WP	_	3	nsubj	_	_
 2	is	_	AUX	VBZ	_	3	cop	_	_
 3	more	_	ADJ	JJR	_	10	advcl	_	_
@@ -59495,7 +59470,7 @@
 
 # sent_id = 0100_2000_6-doc431.xml-5
 # text = I 'm not quite a young man and during the past years of my life I got have become accostomed to some more comfort .
-# error_annotation = I'm not <ns type="RY"><i>quite</i><c>really</c></ns> a young man and during the <ns type="RJ"><i>past</i><c>recent</c></ns> years of my life I <ns type="TV"> <ns type="RV"><i>got</i><c>became</c></ns>have become</ns> <ns type="S"><i>accostomed</i><c>accustomed</c></ns> to <ns type="U"><i>some more</i></ns> comfort.
+# error_annotation = I'm not <ns type="RY"><i>quite</i><c>really</c></ns> a young man and during the <ns type="RJ"><i>past</i><c>recent</c></ns> years of my life I <ns type="TV"> <ns type="RV"><i>got</i><c></c></ns>have become</ns> <ns type="S"><i>accostomed</i><c>accustomed</c></ns> to <ns type="U"><i>some more</i></ns> comfort.
 1	I	_	PRON	PRP	_	7	nsubj	_	_
 2	'm	_	AUX	VBP	_	7	cop	_	_
 3	not	_	PART	RB	Polarity=Neg	7	advmod	_	_
@@ -59959,7 +59934,7 @@
 
 # sent_id = 0100_2000_6-doc277.xml-18
 # text = The particularly bit that I liked about the experience was when I was standing next to the singers and playing a guitar , you know how much I love playing guitar , and all these video cameras were just filming us .
-# error_annotation = .. The <ns type="W"><i>particularly bit that I</i><c>bit that I particularly</c></ns> liked about the experience was when I was standing next to the singers and playing a guitar <ns type="RP"><i>,</i><c> -</c></ns> you know how much I love playing guitar <ns type="RP"><i>,</i><c> -</c></ns> and all these video cameras were just filming us.
+# error_annotation = The <ns type="W"><i>particularly bit that I</i><c>bit that I particularly</c></ns> liked about the experience was when I was standing next to the singers and playing a guitar <ns type="RP"><i>,</i><c> -</c></ns> you know how much I love playing guitar <ns type="RP"><i>,</i><c> -</c></ns> and all these video cameras were just filming us.
 1	The	_	DET	DT	_	3	det	_	_
 2	particularly	_	ADV	RB	_	3	advmod	_	_
 3	bit	_	NOUN	NN	_	10	nsubj	_	_
@@ -62176,7 +62151,7 @@
 
 # sent_id = 0100_2000_6-doc1153.xml-8
 # text = How many jeans , Pants , sweater etc. do I have to take ?
-# error_annotation = How many jeans, Pants, <ns type="AGN"><i>sweater</i><c>sweaters</c></ns> etc... do I have to take?
+# error_annotation = How many jeans, Pants, <ns type="AGN"><i>sweater</i><c>sweaters</c></ns> <ns type="AGN"><i>etc.</i><c>etc...</c></ns> do I have to take?
 1	How	_	ADV	WRB	_	2	advmod	_	_
 2	many	_	ADJ	JJ	_	3	amod	_	_
 3	jeans	_	NOUN	NNS	_	13	obj	_	_
@@ -64867,7 +64842,7 @@
 
 # sent_id = 0102_2000_6-doc2395.xml-8
 # text = The restaurant was closed 'cause of illness . of who ?
-# error_annotation = The restaurant was closed <ns type="L"><i>'cause</i><c>because</c></ns> of illness.. <ns type="R"><i>of who</i><c>whose</c></ns>?
+# error_annotation = The restaurant was closed <ns type="L"><i>'cause</i><c>because</c></ns> of illness. <ns type="R"><i>of who</i><c>whose</c></ns>?
 1	The	_	DET	DT	_	2	det	_	_
 2	restaurant	_	NOUN	NN	_	4	nsubj	_	_
 3	was	_	AUX	VBD	_	4	cop	_	_
@@ -85161,7 +85136,7 @@
 
 # sent_id = 0102_2000_6-doc1792.xml-5
 # text = But in the show , there was a another actor .
-# error_annotation = But in the show, there was <ns type="UD"><i> <ns type="FD"><i>a</i><c>an</c></ns></i></ns> another actor.
+# error_annotation = But in the show, there was <ns type="UD"><i>a</i></ns> another actor.
 1	But	_	CCONJ	CC	_	7	cc	_	_
 2	in	_	ADP	IN	_	4	case	_	_
 3	the	_	DET	DT	_	4	det	_	_
@@ -87504,7 +87479,7 @@
 
 # sent_id = 0102_2000_6-doc92.xml-14
 # text = Molly went down to London for shopping and as she was walking the street .
-# error_annotation = Molly went down to London for <ns type="MD"><c>the</c></ns> shopping and as she was walking <ns type="MT"><c>along</c></ns> the street <ns type="RP"><i>.</i><c>,<c></ns>
+# error_annotation = Molly went down to London for <ns type="MD"><c>the</c></ns> shopping and as she was walking <ns type="MT"><c>along</c></ns> the street <ns type="RP"><i>.</i><c>,</c></ns>
 1	Molly	_	PROPN	NNP	_	2	nsubj	_	_
 2	went	_	VERB	VBD	_	0	root	_	_
 3	down	_	ADV	RB	_	2	advmod	_	_
@@ -90166,7 +90141,7 @@
 
 # sent_id = 0100_2000_6-doc231.xml-6
 # text = However , during my stay at Camp , there are two activities I can choose , one of them I will choose Basketball because it is the sport I play most , I and my friend used to win the first place in school-wide match when we was in school .
-# error_annotation = <ns type="RY"><i>However</i><c>Also</c></ns>, during my stay at Camp, there are two activities I can choose <ns type="RP"><i>, <ns type="MT"><c>for</c></ns></i><c>. For</c></ns> one of them I will choose Basketball because it is the sport I play most <ns type="RP"><i>,</i><c>.</c></ns> I and my friend used to win the first <ns type="RN">place</ns> in <ns type="MD"><c>the</c></ns> <ns type="DJ">school-wide</ns> match when we <ns type="AGV"><i>was</i><c>were</c></ns> <ns type="RT"><i>in</i><c>at</c></ns> school.
+# error_annotation = <ns type="RY"><i>However</i><c>Also</c></ns>, during my stay at Camp, there are two activities I can choose <ns type="RP"><i>, </i><c>. For</c></ns> one of them I will choose Basketball because it is the sport I play most <ns type="RP"><i>,</i><c>.</c></ns> I and my friend used to win the first <ns type="RN">place</ns> in <ns type="MD"><c>the</c></ns> <ns type="DJ">school-wide</ns> match when we <ns type="AGV"><i>was</i><c>were</c></ns> <ns type="RT"><i>in</i><c>at</c></ns> school.
 1	However	_	ADV	RB	_	10	advmod	_	_
 2	,	_	PUNCT	,	_	10	punct	_	_
 3	during	_	ADP	IN	_	5	case	_	_
@@ -91344,7 +91319,7 @@
 
 # sent_id = 0100_2001_6-doc3039.xml-8
 # text = At last , if you have free time for couple of ours , you 'd better visit Kamakura City , which is 30 minutes from our campus by train .
-# error_annotation = <ns type="RY"><i>At last</i><c>Last</c></ns>, if you have <ns type="MQ"><c>some</c></ns> free time <ns type="U"><i>for <ns type="MD"><c>a</c></ns> couple of <ns type="SX"><i>ours</i><c>hours</c></ns></i></ns>, <ns type="R"><i>you'd better</i><c>you should</c></ns> visit Kamakura City, which is 30 minutes from our campus by train.
+# error_annotation = <ns type="RY"><i>At last</i><c>Last</c></ns>, if you have <ns type="MQ"><c>some</c></ns> free time for <ns type="MD"><c>a</c></ns> couple of <ns type="SX"><i>ours</i><c>hours</c></ns>, <ns type="R"><i>you'd better</i><c>you should</c></ns> visit Kamakura City, which is 30 minutes from our campus by train.
 1	At	_	ADP	IN	_	2	case	_	_
 2	last	_	ADV	RB	_	17	obl	_	_
 3	,	_	PUNCT	,	_	17	punct	_	_

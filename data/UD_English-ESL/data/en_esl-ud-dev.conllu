@@ -427,7 +427,7 @@
 
 # sent_id = 0100_2001_6-doc3220.xml-7
 # text = A free shuttel-bus gets you to the conference-center .
-# error_annotation = A free <ns type="S"><i> <ns type="UP"><i>shuttel-bus</i><c>shuttel bus</c></ns></i><c>shuttle bus</c></ns> <ns type="RV"><i>gets</i><c>takes</c></ns> you to the <ns type="SA"><i> <ns type="UP"><i>conference-center</i><c>conference center</c></ns></i><c>conference centre</c></ns>.
+# error_annotation = A free <ns type="S"><i> <ns type="UP"><i>shuttel-bus</i><c>shuttle bus</c></ns> <ns type="RV"><i>gets</i><c>takes</c></ns> you to the <ns type="SA"><i> <ns type="UP"><i>conference-center</i><c>conference centre</c></ns>.
 1	A	_	DET	DT	_	3	det	_	_
 2	free	_	ADJ	JJ	_	3	amod	_	_
 3	shuttel-bus	_	NOUN	NN	_	4	nsubj	_	_
@@ -462,7 +462,7 @@
 
 # sent_id = 0102_2000_12-doc2121.xml-1
 # text = I 'm one of the citizen that enjoyed the last International Arts Festival .
-# error_annotation = I'm one of the <ns type="RN"><i> <ns type="AGN"><i>citizen</i><c>citizens</c></ns></i><c>people</c></ns> that enjoyed the last International Arts Festival.
+# error_annotation = I'm one of the <ns type="AGN"><i>citizen</i><c>people</c></ns> that enjoyed the last International Arts Festival.
 1	I	_	PRON	PRP	_	3	nsubj	_	_
 2	'm	_	AUX	VBP	_	3	cop	_	_
 3	one	_	NUM	CD	_	0	root	_	_
@@ -749,7 +749,7 @@
 
 # sent_id = 0100_2000_6-doc1153.xml-3
 # text = About my acommodations in the camp I would prefer to stay in a log cabin because it 's safer than being in a tent and because you sleep more confortable .
-# error_annotation = About my <ns type="S"><i>acommodations</i><c>accommodation</c></ns> <ns type="RT"><i>in</i><c>at</c></ns> the camp <ns type="MP"><c>,</c></ns> I would prefer to stay in a log cabin because it's safer than being in a tent and because you sleep more <ns type="DY"><i> <ns type="S"><i>confortable</i><c>comfortable</c></ns></i><c>comfortably</c></ns>.
+# error_annotation = About my <ns type="S"><i>acommodations</i><c>accommodation</c></ns> <ns type="RT"><i>in</i><c>at</c></ns> the camp <ns type="MP"><c>,</c></ns> I would prefer to stay in a log cabin because it's safer than being in a tent and because you sleep more <ns type="DY"><i> <ns type="S"><i>confortable</i><c>comfortably</c></ns>.
 1	About	_	ADP	IN	_	3	case	_	_
 2	my	_	DET	PRP$	_	3	nmod:poss	_	_
 3	acommodations	_	NOUN	NNS	_	9	obl	_	_
@@ -883,7 +883,7 @@
 
 # sent_id = 0100_2000_12-doc539.xml-22
 # text = Of course , it everyone pays less attention or interest , the situations should be better .
-# error_annotation = Of course, <ns type="SX"><i>it</i><c>if</c></ns> everyone <ns type="TV"><i>pays</i><c>paid</c></ns> less attention or <ns type="RN">interest</ns>, the <ns type="FN"><i>situations</i><c>situation</c></ns> <ns type="RV"><i>should</i><c>would</c></ns> be better.
+# error_annotation = Of course, <ns type="SX"><i>it</i><c>if</c></ns> everyone <ns type="TV"><i>pays</i><c>paid</c></ns> less attention or interest, the <ns type="FN"><i>situations</i><c>situation</c></ns> <ns type="RV"><i>should</i><c>would</c></ns> be better.
 1	Of	_	ADV	RB	_	16	advmod	_	_
 2	course	_	ADV	RB	_	1	fixed	_	_
 3	,	_	PUNCT	,	_	16	punct	_	_
@@ -925,7 +925,7 @@
 
 # sent_id = 0102_2000_6-doc1731.xml-22
 # text = Furthermore it helps in house works , at school and you can travel to places very quickly .
-# error_annotation = Furthermore it helps <ns type="RT"><i>in</i><c>with</c></ns> <ns type="CN"><i> <ns type="RP"><i>house works</i><c>houseworks</c></ns></i><c>housework</c></ns>, at school and you can travel to places very quickly.
+# error_annotation = Furthermore it helps <ns type="RT"><i>in</i><c>with</c></ns> <ns type="CN"><i> <ns type="RP"><i>house works</i><c>housework</c></ns>, at school and you can travel to places very quickly.
 1	Furthermore	_	ADV	RB	_	3	advmod	_	_
 2	it	_	PRON	PRP	_	3	nsubj	_	_
 3	helps	_	VERB	VBZ	_	0	root	_	_
@@ -967,7 +967,7 @@
 
 # sent_id = 0102_2000_6-doc614.xml-3
 # text = I went there because I had read a banner about the musical show " Over the rainbow " , but many informations were wrong .
-# error_annotation = I went there because I had read a <ns type="RN">banner</ns> about the musical show "Over the rainbow", but <ns type="RQ"><i>many</i><c>a lot of</c></ns> <ns type="CN"><i>informations</i><c>information</c></ns> <ns type="AGV"><i>were</i><c>was</c></ns> wrong.
+# error_annotation = I went there because I had read a banner about the musical show "Over the rainbow", but <ns type="RQ"><i>many</i><c>a lot of</c></ns> <ns type="CN"><i>informations</i><c>information</c></ns> <ns type="AGV"><i>were</i><c>was</c></ns> wrong.
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	went	_	VERB	VBD	_	0	root	_	_
 3	there	_	ADV	RB	_	2	advmod	_	_
@@ -2511,7 +2511,7 @@
 
 # sent_id = 0100_2000_6-doc1310.xml-41
 # text = And they are always doing best their homeworks .
-# error_annotation = And they <ns type="TV"><i>are always doing</i><c>always do</c></ns> <ns type="W"><i>best their <ns type="CN"><i>homeworks</i><c>homework</c></ns></i><c>their homework best</c></ns>.
+# error_annotation = And they <ns type="TV"><i>are always doing</i><c>always do</c></ns> <ns type="W"><i>best their homeworks</i><c>their homework best</c></ns>.
 1	And	_	CCONJ	CC	_	5	cc	_	_
 2	they	_	PRON	PRP	_	5	nsubj	_	_
 3	are	_	AUX	VBP	_	5	aux	_	_
@@ -3585,7 +3585,7 @@
 
 # sent_id = 0100_2000_6-doc2030.xml-44
 # text = Because she never managed to get me out from the toy shop .
-# error_annotation = Because</i><c> because</c></ns> she never managed to get me out <ns type="RT"><i>from</i><c>of</c></ns> the toy shop.
+# error_annotation = <ns><i>Because</i><c> because</c></ns> she never managed to get me out <ns type="RT"><i>from</i><c>of</c></ns> the toy shop.
 1	Because	_	SCONJ	IN	_	4	mark	_	_
 2	she	_	PRON	PRP	_	4	nsubj	_	_
 3	never	_	ADV	RB	Polarity=Neg	4	advmod	_	_
@@ -6617,7 +6617,7 @@
 
 # sent_id = 0100_2001_6-doc3040.xml-19
 # text = Many bosses or in the factories not being needed to employ many claver workers Because we do n't need them a lot .
-# error_annotation = <ns type="L"><i>Many</i><c>A lot of</c></ns> bosses or <ns type="MN"><c>workers</c></ns> in <ns type="UD"><i>the</i></ns> factories <ns type="TV"><i>not being needed</i><c>do not need</c></ns> to employ many <ns type="S"><i>claver</i><c>clever</c></ns> workers <ns type="RP"><i>Because</i><c>because</c></ns> we don't need <ns type="W"><i>them a lot</i><c>a lot <ns type="MT"><c>of</c></ns> them</c></ns>.
+# error_annotation = <ns type="L"><i>Many</i><c>A lot of</c></ns> bosses or <ns type="MN"><c>workers</c></ns> in <ns type="UD"><i>the</i></ns> factories <ns type="TV"><i>not being needed</i><c>do not need</c></ns> to employ many <ns type="S"><i>claver</i><c>clever</c></ns> workers <ns type="RP"><i>Because</i><c>because</c></ns> we don't need <ns type="W"><i>them a lot</i><c>a lot of them</c></ns>.
 1	Many	_	ADJ	JJ	_	2	amod	_	_
 2	bosses	_	NOUN	NNS	_	9	nsubj	_	_
 3	or	_	CCONJ	CC	_	2	cc	_	_
@@ -9582,7 +9582,7 @@
 
 # sent_id = 0100_2000_6-doc2475.xml-20
 # text = - of benefice and each us take 400 .
-# error_annotation = -</i></ns> <ns type="RT"><i>of</i><c>in</c></ns> <ns type="RN"><i>benefice</i><c>profit</c></ns> and each <ns type="MT"><c>of</c></ns> us <ns type="TV"><i>take</i><c>took</c></ns> 400 <ns type="UP"><i>.
+# error_annotation = -</i></ns> <ns type="RT"><i>of</i><c>in</c></ns> <ns type="RN"><i>benefice</i><c>profit</c></ns> and each <ns type="MT"><c>of</c></ns> us <ns type="TV"><i>take</i><c>took</c></ns> 400 .
 1	-	_	PUNCT	HYPH	_	3	punct	_	_
 2	of	_	ADP	IN	_	3	case	_	_
 3	benefice	_	NOUN	NN	_	0	root	_	_
@@ -10011,7 +10011,7 @@
 
 # sent_id = 0100_2000_12-doc198.xml-22
 # text = The life at home will be more easy because a refrigerator which fill up itself or a bathroom which clean itself .
-# error_annotation = <ns type="UD"><i>The life</i><c>Life</c></ns> at home will be <ns type="IJ"><i>more easy</i><c>easier</c></ns> because <ns type="M"></ns> a refrigerator which <ns type="AGV"><i>fill</i><c>fills</c></ns> <ns type="W"><i>up itself</i><c>itself up</c></ns> or a bathroom which <ns type="AGV"><i>clean</i><c>cleans</c></ns> itself.
+# error_annotation = <ns type="UD"><i>The life</i><c>Life</c></ns> at home will be <ns type="IJ"><i>more easy</i><c>easier</c></ns> because <ns type="M" new=true><c>of</c></ns> a refrigerator which <ns type="AGV"><i>fill</i><c>fills</c></ns> <ns type="W"><i>up itself</i><c>itself up</c></ns> or a bathroom which <ns type="AGV"><i>clean</i><c>cleans</c></ns> itself.
 1	The	_	DET	DT	_	2	det	_	_
 2	life	_	NOUN	NN	_	8	nsubj	_	_
 3	at	_	ADP	IN	_	4	case	_	_
