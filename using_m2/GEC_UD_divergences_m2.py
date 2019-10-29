@@ -555,7 +555,7 @@ def syntactic_m2(src, corr, m2_path, pos=True, out_path=None):
     :param src: parsed conllu of the source (see parse_conllu for expected output)
     :param corr: parsed conllu of the correction (see parse_conllu for expected output)
     :param m2_path: path to an m2 file
-    :param pos: whether to use pos as edges
+    :param pos: whether to use pos or edges
     :param out_path: place to write the m2 file, if unspecificed the original m2 location will be preserved and stx extension will be added before the .m2
     :return:
     """
