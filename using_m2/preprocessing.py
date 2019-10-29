@@ -20,6 +20,7 @@ def preprocess_file(filename, output_directory):
                     output_file.write(line[2:])
                 line = file.readline()
 
+
 def create_corrected_sentences(filename, output_directory):
     """
     creates files with corrected sentences (one perline) especially for running udpipe
