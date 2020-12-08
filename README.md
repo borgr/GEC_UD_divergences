@@ -12,3 +12,23 @@ python using_m2/GEC_UD_divergences_m2.py source.conllu reference.conllu m2file.m
 
 ## Utility: convert m2 to source and reference text
 python using_m2 preprocessing.py m2file.m2
+
+## Cite
+If you have found this work useful please cite the CoNLL paper.
+
+```@inproceedings{choshen-etal-2020-classifying,
+    title = "Classifying Syntactic Errors in Learner Language",
+    author = "Choshen, Leshem  and
+      Nikolaev, Dmitry  and
+      Berzak, Yevgeni  and
+      Abend, Omri",
+    booktitle = "Proceedings of the 24th Conference on Computational Natural Language Learning",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.conll-1.7",
+    pages = "97--107",
+    }
+```
+
