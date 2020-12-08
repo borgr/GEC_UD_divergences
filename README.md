@@ -4,11 +4,11 @@
 
 ## Create a matrix
 See Using_m2, currently the file creates both matrices and m2 in the main function, comment out if unneeded (matrix is get_confusion_matrix + extract_matrices)
-python XXX source.conllu reference.conllu m2file.m2
+python using_m2/GEC_UD_divergences_m2.py source.conllu reference.conllu m2file.m2
 
 ## Create an m2 file
 See Using_m2, currently the file creates both matrices and m2 in the main function, comment out if unneeded (m2 is in syntactic_m2 function)
-python XXX source.conllu reference.conllu m2file.m2
+python using_m2/GEC_UD_divergences_m2.py source.conllu reference.conllu m2file.m2
 
 ## Utility: convert m2 to source and reference text
 python using_m2 preprocessing.py m2file.m2
