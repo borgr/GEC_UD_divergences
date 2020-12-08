@@ -10,8 +10,12 @@ python using_m2/GEC_UD_divergences_m2.py source.conllu reference.conllu m2file.m
 See Using_m2, currently the file creates both matrices and m2 in the main function, comment out if unneeded (m2 is in syntactic_m2 function)
 python using_m2/GEC_UD_divergences_m2.py source.conllu reference.conllu m2file.m2
 
+### Other implementation:
+There is also an end to end implementation for English with or without combining with ERRANT (adaptations to support other languages or morphology when POS is not changing are welcome)
+
 ## Utility: convert m2 to source and reference text
 python using_m2 preprocessing.py m2file.m2
+
 
 ## Cite
 If you have found this work useful please cite the CoNLL paper.
